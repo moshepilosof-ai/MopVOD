@@ -19,6 +19,7 @@ MopVOD - בונה קובצי JSON של ארכיון ה-VOD של כאן (kan.org.
 של פרקים שכבר נקראו ב-cache/ כך שריצה חוזרת מביאה רק פרקים חדשים.
 """
 import argparse
+import concurrent.futures
 import base64
 import datetime as dt
 import html
@@ -46,7 +47,8 @@ GITHUB_DIR = "vod"
 TOKEN_FILE = os.path.join(HERE, "github_token.txt")
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36 MopVOD/1.0"
-DELAY = 0.5          # שניות בין בקשות לאתר
+DELAY = 0.5          # שניות בין בקשות לאתר (לכל עובד)
+WORKERS = 4          # קריאות פרקים במקביל
 MAX_SEASON_PROBE = 40
 
 
@@ -267,20 +269,26 @@ def build_program(prog, limit=None):
     print(f"   {len(episodes)} קישורי פרקים נמצאו, קוראים {len(ids)}")
     by_season = {}
     fetched = skipped = cached = 0
+    # פרקים שאינם במטמון נקראים במקביל (WORKERS), כל עובד עם ההשהיה הרגילה בין בקשות
+    todo = [ep_id for ep_id in ids if load_cached(ep_id) is None]
+    if todo:
+        def _fetch_one(ep_id):
+            info = parse_episode(episodes[ep_id][1])
+            save_cached(ep_id, info)
+            return ep_id
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, WORKERS)) as ex:
+            for n_done, _ in enumerate(ex.map(_fetch_one, todo), 1):
+                fetched += 1
+                if n_done % 50 == 0:
+                    print(f"   ... {n_done}/{len(todo)} פרקים חדשים נקראו")
     for i, ep_id in enumerate(ids, 1):
         season, url = episodes[ep_id]
         info = load_cached(ep_id)
-        if info is None:
-            info = parse_episode(url)
-            save_cached(ep_id, info)
-            fetched += 1
-        else:
-            cached += 1
-            if info.get("novideo"):
-                info = None
-        if not info:
+        if info is None or info.get("novideo"):
             skipped += 1
             continue
+        if ep_id not in todo:
+            cached += 1
         item = {
             "name": html.unescape(info.get("name") or f"פרק {ep_id}"),
             "logo": info.get("logo") or "",
@@ -295,8 +303,6 @@ def build_program(prog, limit=None):
         if info.get("duration"):
             item["duration"] = info["duration"]
         by_season.setdefault(season, []).append(item)
-        if i % 50 == 0:
-            print(f"   ... {i}/{len(ids)}  (חדשים {fetched}, מהמטמון {cached}, בלי וידאו {skipped})")
     print(f"   סיום: {fetched} נקראו מהאתר, {cached} מהמטמון, {skipped} בלי וידאו")
 
     subs = []
@@ -391,7 +397,7 @@ def publish():
 
 # ---------------------------------------------------------------- main
 def main():
-    global DELAY
+    global DELAY, WORKERS
     ap = argparse.ArgumentParser(description="בניית ארכיון VOD של כאן ל-JSON")
     ap.add_argument("--program", help="מזהה תוכנית מתוך programs.json (ברירת מחדל: כולן)")
     ap.add_argument("--limit", type=int, help="לקרוא רק N פרקים אחרונים לכל תוכנית")
@@ -399,9 +405,11 @@ def main():
     ap.add_argument("--publish", action="store_true", help="להעלות את out ל-GitHub אחרי הבנייה")
     ap.add_argument("--publish-only", action="store_true", help="רק להעלות את מה שכבר ב-out")
     ap.add_argument("--delay", type=float, default=DELAY, help="השהיה בין בקשות (שניות)")
+    ap.add_argument("--workers", type=int, default=WORKERS, help="כמה פרקים לקרוא במקביל")
     ap.add_argument("--discover", action="store_true", help="לגלות את כל תוכניות הטלוויזיה של כאן ולכתוב אותן ל-programs.json (בלי לבנות)")
     args = ap.parse_args()
     DELAY = args.delay
+    WORKERS = args.workers
 
     if args.discover:
         with open(PROGRAMS_FILE, encoding="utf-8") as f:
