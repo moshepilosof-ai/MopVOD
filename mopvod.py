@@ -184,6 +184,60 @@ def parse_episode(url):
     return info
 
 
+# ---------------------------------------------------------------- discovery
+# דפי "לובי" באתר כאן שמהם אוספים את רשימת כל התוכניות
+LOBBIES = ["series", "kan-box", "archive", "newstv", "kan11"]
+# מקטעי תוכן שנחשבים טלוויזיה (כאן 11). רדיו ופודקאסטים לא נכללים.
+TV_SECTIONS = ("kan/kan-11", "kan/kan-actual", "kan/news-series", "kan-news/newstv",
+               "archive1/vod", "archive1/projects", "archive1/remembering", "dig/digital", "kan/eurovision-2023")
+
+
+def discover_programs(existing):
+    """בונה את רשימת כל תוכניות הטלוויזיה של כאן מדפי הלובי. שומר מזהים של רשומות קיימות."""
+    by_url = {e["url"].rstrip("/") + "/": e for e in existing}
+    found = {}
+    for lobby in LOBBIES:
+        page = fetch(f"https://www.kan.org.il/lobby/{lobby}/")
+        if not page:
+            continue
+        for m in re.finditer(r'<a[^>]*href="(https://www\.kan\.org\.il/content/([^"]+?)/p-(\d+)/)"[^>]*>', page):
+            url, section, pid = m.group(1), m.group(2), m.group(3)
+            if not section.startswith(TV_SECTIONS):
+                continue
+            t = re.search(r'(?:aria-label|title)="([^"]*)"', m.group(0))
+            title = html.unescape(t.group(1)).strip() if t else None
+            e = found.setdefault(pid, {"url": url, "title": None, "section": section})
+            if title and not e["title"]:
+                e["title"] = re.sub(r"^\d{1,3}\.\s*", "", title)  # בלי מספור מרשימות "הנצפים ביותר"
+    print(f"   נמצאו {len(found)} תוכניות טלוויזיה ב-{len(LOBBIES)} דפי לובי")
+    # כותרות חסרות - מדף התוכנית עצמו
+    missing = [pid for pid, e in found.items() if not e["title"] and e["url"] not in by_url]
+    print(f"   משלימים כותרות ל-{len(missing)} תוכניות מדפי התוכנית...")
+    for i, pid in enumerate(missing, 1):
+        page = fetch(found[pid]["url"])
+        t = re.search(r'property="og:title" content="([^"]*)"', page or "") or re.search(r"<title>([^<]*)", page or "")
+        title = html.unescape(t.group(1)).strip() if t else None
+        if title:
+            title = re.sub(r"\s*[-|]\s*(פרקים מלאים לצפייה ישירה|כאן).*$", "", title).strip()
+        found[pid]["title"] = title or f"תוכנית {pid}"
+        if i % 25 == 0:
+            print(f"   ... {i}/{len(missing)}")
+    programs = []
+    for pid, e in sorted(found.items(), key=lambda kv: kv[1]["title"] or ""):
+        old = by_url.get(e["url"])
+        programs.append({
+            "id": old["id"] if old else f"kan_{pid}",
+            "title": old["title"] if old else f"כאן 11 - {e['title']}",
+            "url": e["url"],
+            "section": e["section"],
+        })
+    # רשומות ידניות שלא נמצאו בלובי נשארות
+    for e in existing:
+        if not any(p["url"] == e["url"].rstrip("/") + "/" for p in programs):
+            programs.append(e)
+    return programs
+
+
 # ---------------------------------------------------------------- cache
 def cache_path(ep_id):
     return os.path.join(CACHE_DIR, f"{ep_id}.json")
@@ -345,8 +399,18 @@ def main():
     ap.add_argument("--publish", action="store_true", help="להעלות את out ל-GitHub אחרי הבנייה")
     ap.add_argument("--publish-only", action="store_true", help="רק להעלות את מה שכבר ב-out")
     ap.add_argument("--delay", type=float, default=DELAY, help="השהיה בין בקשות (שניות)")
+    ap.add_argument("--discover", action="store_true", help="לגלות את כל תוכניות הטלוויזיה של כאן ולכתוב אותן ל-programs.json (בלי לבנות)")
     args = ap.parse_args()
     DELAY = args.delay
+
+    if args.discover:
+        with open(PROGRAMS_FILE, encoding="utf-8") as f:
+            cfg = json.load(f)
+        cfg["programs"] = discover_programs(cfg.get("programs", []))
+        with open(PROGRAMS_FILE, "w", encoding="utf-8") as f:
+            json.dump(cfg, f, ensure_ascii=False, indent=2)
+        print(f"   -> {PROGRAMS_FILE}: {len(cfg['programs'])} תוכניות")
+        return
 
     if args.publish_only:
         publish()
