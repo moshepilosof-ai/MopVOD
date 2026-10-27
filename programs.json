@@ -1,0 +1,15 @@
+{
+  "_help": "רשימת התוכניות לאיסוף. id = שם קובץ הפלט (אנגלית, בלי רווחים). url = דף התוכנית באתר כאן (מכיל /p-<מספר>/).",
+  "programs": [
+    {
+      "id": "kan11_news",
+      "title": "כאן 11 - המהדורה המרכזית",
+      "url": "https://www.kan.org.il/content/kan/kan-actual/p-11544/"
+    },
+    {
+      "id": "kan11_zman_emet",
+      "title": "כאן 11 - זמן אמת",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-12043/"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+# -*- coding: utf-8 -*-
+"""
+KanArchive - בונה קובצי JSON של ארכיון ה-VOD של כאן (kan.org.il) עבור MopTV.
+
+פרויקט נפרד מ-MopTV: לא נוגע בקוד האפליקציה ולא ב-channel.json.
+הפלט נכתב ל-out/vod/ באותו מבנה JSON של MopTV (categories -> sub_categories -> channels),
+עם שדות נוספים לכל פרק (date, plot, page). קובץ out/vod/index.json מרכז את כל הארכיונים.
+
+שימוש:
+    python kan_archive.py                      # כל התוכניות שב-programs.json
+    python kan_archive.py --program kan11_zman_emet
+    python kan_archive.py --limit 30           # רק 30 הפרקים האחרונים לכל תוכנית (לבדיקה)
+    python kan_archive.py --publish            # גם מעלה ל-GitHub (דורש טוקן, ראה README)
+
+הסקריפט קורא דפים ציבוריים בלבד, בקצב מנומס (השהיה בין בקשות), ושומר מטמון
+של פרקים שכבר נקראו ב-cache/ כך שריצה חוזרת מביאה רק פרקים חדשים.
+"""
+import argparse
+import base64
+import datetime as dt
+import html
+import json
+import os
+import re
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+
+HERE = os.path.dirname(os.path.abspath(sys.argv[0] if getattr(sys, "frozen", False) else __file__))
+PROGRAMS_FILE = os.path.join(HERE, "programs.json")
+OUT_DIR = os.path.join(HERE, "out", "vod")
+CACHE_DIR = os.path.join(HERE, "cache", "episodes")
+
+# יעד הפרסום ב-GitHub (אותו ריפו של channel.json; הקבצים נכנסים לתיקיית vod/)
+GITHUB_OWNER = "moshepilosof-ai"
+GITHUB_REPO = "mop_channel"
+GITHUB_BRANCH = "main"
+GITHUB_DIR = "vod"
+TOKEN_FILE = os.path.join(HERE, "github_token.txt")
+
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36 KanArchive/1.0"
+DELAY = 0.5          # שניות בין בקשות לאתר
+MAX_SEASON_PROBE = 40
+
+
+# ---------------------------------------------------------------- HTTP
+def fetch(url, retries=3, timeout=25):
+    """מוריד דף/קובץ ומחזיר טקסט. מנסה שוב בשגיאות זמניות."""
+    last = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "he,en;q=0.8"})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                data = r.read()
+            time.sleep(DELAY)
+            return data.decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as e:
+            last = e
+            if e.code == 404:
+                return None
+            time.sleep(2 * (attempt + 1))
+        except Exception as e:  # noqa: BLE001
+            last = e
+            time.sleep(2 * (attempt + 1))
+    print(f"    !! fetch failed: {url} ({last})")
+    return None
+
+
+# ---------------------------------------------------------------- parsing
+def series_id_from_url(url):
+    m = re.search(r"/p-(\d+)/", url)
+    if not m:
+        raise ValueError("כתובת תוכנית חייבת להכיל /p-<מספר>/ : " + url)
+    return m.group(1)
+
+
+def episode_links(page_html, series_id):
+    """מחזיר {episode_id: (season_number|None, url)} מתוך דף תוכנית/עונה."""
+    pat = re.compile(r'href="(https://www\.kan\.org\.il/content/[^"]*?/p-' + series_id + r'/(?:s(\d+)/)?(\d+)/)"')
+    found = {}
+    for m in pat.finditer(page_html):
+        url, season, ep_id = m.group(1), m.group(2), m.group(3)
+        found.setdefault(ep_id, (int(season) if season else None, url))
+    return found
+
+
+def collect_program_episodes(program_url):
+    """אוסף את כל הפרקים של תוכנית, כולל כל העונות. מחזיר (series_id, {ep_id: (season, url)})."""
+    series_id = series_id_from_url(program_url)
+    base = program_url if program_url.endswith("/") else program_url + "/"
+    page = fetch(base)
+    if page is None:
+        raise RuntimeError("דף התוכנית לא נמצא: " + program_url)
+    episodes = episode_links(page, series_id)
+    has_seasons = ('data-season-id="' in page and 'data-season-id="0"' not in page) or any(s for s, _ in episodes.values())
+    if has_seasons:
+        # עמודי עונה: /sN/ . מספרי העונות לא מפורסמים במלואם בדף, לכן בודקים 1..N
+        # ומפסיקים אחרי שתי עונות ריקות ברצף מעבר לגבוהה ביותר שראינו.
+        seen = {s for s, _ in episodes.values() if s}
+        top = max(seen) if seen else 1
+        empty_run = 0
+        n = 1
+        while n <= MAX_SEASON_PROBE:
+            if n in seen and n != top:
+                n += 1
+                continue
+            sp = fetch(f"{base}s{n}/")
+            got = episode_links(sp, series_id) if sp else {}
+            new = {k: v for k, v in got.items() if v[0] == n}
+            if new:
+                episodes.update(new)
+                seen.add(n)
+                empty_run = 0
+            else:
+                empty_run += 1
+                if n > top and empty_run >= 2:
+                    break
+            n += 1
+    return series_id, episodes
+
+
+def parse_episode(url):
+    """קורא דף פרק ומחזיר dict עם name/date/logo/plot/url(hls)/page. None אם אין וידאו."""
+    page = fetch(url)
+    if page is None:
+        return None
+    info = {"page": url}
+    # JSON-LD של VideoObject - המקור המסודר ביותר
+    for m in re.finditer(r'<script type="application/ld\+json">\s*(.*?)\s*</script>', page, re.S):
+        try:
+            d = json.loads(m.group(1))
+        except Exception:  # noqa: BLE001
+            continue
+        if isinstance(d, dict) and d.get("@type") == "VideoObject":
+            info["name"] = d.get("name")
+            info["plot"] = d.get("description")
+            info["logo"] = d.get("thumbnailUrl")
+            info["date"] = d.get("uploadDate")
+            info["url"] = d.get("contentUrl")
+            if d.get("duration"):
+                info["duration"] = d.get("duration")
+    # נפילה חזרה: תגי og ו-JSON של הנגן
+    if not info.get("name"):
+        m = re.search(r'property="og:title" content="([^"]*)"', page)
+        info["name"] = html.unescape(m.group(1)) if m else None
+    if not info.get("plot"):
+        m = re.search(r'property="og:description" content="([^"]*)"', page)
+        info["plot"] = html.unescape(m.group(1)) if m else ""
+    if not info.get("logo"):
+        m = re.search(r'property="og:image" content="([^"]*)"', page)
+        info["logo"] = html.unescape(m.group(1)) if m else ""
+    if not info.get("url"):
+        m = re.search(r'"hls":"([^"]+)"', page)
+        info["url"] = m.group(1) if m else None
+    if not info.get("date"):
+        m = re.search(r'"datePublished":"([^"]+)"', page)
+        info["date"] = m.group(1) if m else None
+    if info.get("url") and info["url"].startswith("//"):
+        info["url"] = "https:" + info["url"]
+    if info.get("logo"):
+        info["logo"] = info["logo"].split("?")[0]  # בלי פרמטרי חיתוך, התמונה המקורית
+    if info.get("plot"):
+        info["plot"] = info["plot"].strip()
+    # תאריך מהכותרת ("| 16.02.26") כגיבוי, ובכל מקרה תאריך קצר לתצוגה
+    short = None
+    if info.get("name"):
+        m = re.search(r"\|\s*(\d{2})\.(\d{2})\.(\d{2,4})\s*$", info["name"])
+        if m:
+            d_, mo, y = m.groups()
+            y = y if len(y) == 4 else "20" + y
+            short = f"{y}-{mo}-{d_}"
+    if not short and info.get("date"):
+        short = info["date"][:10]
+    info["date"] = short
+    if not info.get("url"):
+        return None
+    return info
+
+
+# ---------------------------------------------------------------- cache
+def cache_path(ep_id):
+    return os.path.join(CACHE_DIR, f"{ep_id}.json")
+
+
+def load_cached(ep_id):
+    p = cache_path(ep_id)
+    if os.path.exists(p):
+        with open(p, encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+
+def save_cached(ep_id, info):
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    with open(cache_path(ep_id), "w", encoding="utf-8") as f:
+        json.dump(info if info is not None else {"novideo": True}, f, ensure_ascii=False)
+
+
+# ---------------------------------------------------------------- build
+def build_program(prog, limit=None):
+    print(f"== {prog['title']}  ({prog['url']})")
+    series_id, episodes = collect_program_episodes(prog["url"])
+    ids = sorted(episodes.keys(), key=lambda x: int(x), reverse=True)  # מזהים גבוהים = חדשים יותר
+    if limit:
+        ids = ids[:limit]
+    print(f"   {len(episodes)} קישורי פרקים נמצאו, קוראים {len(ids)}")
+    by_season = {}
+    fetched = skipped = cached = 0
+    for i, ep_id in enumerate(ids, 1):
+        season, url = episodes[ep_id]
+        info = load_cached(ep_id)
+        if info is None:
+            info = parse_episode(url)
+            save_cached(ep_id, info)
+            fetched += 1
+        else:
+            cached += 1
+            if info.get("novideo"):
+                info = None
+        if not info:
+            skipped += 1
+            continue
+        item = {
+            "name": info.get("name") or f"פרק {ep_id}",
+            "logo": info.get("logo") or "",
+            "url": info["url"],
+            "date": info.get("date"),
+            "plot": info.get("plot") or "",
+            "page": info.get("page", url),
+            "id": ep_id,
+        }
+        if season:
+            item["season"] = season
+        if info.get("duration"):
+            item["duration"] = info["duration"]
+        by_season.setdefault(season, []).append(item)
+        if i % 50 == 0:
+            print(f"   ... {i}/{len(ids)}  (חדשים {fetched}, מהמטמון {cached}, בלי וידאו {skipped})")
+    print(f"   סיום: {fetched} נקראו מהאתר, {cached} מהמטמון, {skipped} בלי וידאו")
+
+    subs = []
+    for season in sorted(by_season.keys(), key=lambda s: (s is None, -(s or 0))):
+        items = sorted(by_season[season], key=lambda it: (it.get("date") or "", int(it["id"])), reverse=True)
+        subs.append({"name": f"עונה {season}" if season else "כל הפרקים", "channels": items})
+    category = {
+        "name": prog["title"],
+        "type": "vod",
+        "source": "kan.org.il",
+        "program_url": prog["url"],
+        "series_id": series_id,
+        "updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "sub_categories": subs,
+    }
+    return {"categories": [category]}
+
+
+def write_outputs(results):
+    os.makedirs(OUT_DIR, exist_ok=True)
+    index = {"updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"), "sources": []}
+    for prog, data in results:
+        fname = f"{prog['id']}.json"
+        with open(os.path.join(OUT_DIR, fname), "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
+        cat = data["categories"][0]
+        count = sum(len(s["channels"]) for s in cat["sub_categories"])
+        index["sources"].append({
+            "name": prog["title"], "file": f"{GITHUB_DIR}/{fname}", "episodes": count,
+            "seasons": len(cat["sub_categories"]), "updated": cat["updated"],
+            "newest": max((c.get("date") or "" for s in cat["sub_categories"] for c in s["channels"]), default=None),
+            "oldest": min((c.get("date") or "9999" for s in cat["sub_categories"] for c in s["channels"]), default=None),
+        })
+        print(f"   -> {os.path.join(OUT_DIR, fname)}  ({count} פרקים, {os.path.getsize(os.path.join(OUT_DIR, fname)) // 1024} KB)")
+    with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=1)
+    print(f"   -> {os.path.join(OUT_DIR, 'index.json')}")
+
+
+# ---------------------------------------------------------------- publish
+def get_token():
+    tok = os.environ.get("GITHUB_TOKEN")
+    if not tok and os.path.exists(TOKEN_FILE):
+        with open(TOKEN_FILE, encoding="utf-8") as f:
+            tok = f.read().strip()
+    if not tok:
+        raise ValueError("חסר טוקן GitHub: שים אותו בקובץ github_token.txt ליד הסקריפט, או במשתנה הסביבה GITHUB_TOKEN")
+    return tok
+
+
+def github_put(path_in_repo, local_file, token, message):
+    api = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{urllib.parse.quote(path_in_repo)}"
+    hdr = {"Authorization": "Bearer " + token, "Accept": "application/vnd.github+json", "User-Agent": UA}
+    sha = None
+    try:
+        with urllib.request.urlopen(urllib.request.Request(api + f"?ref={GITHUB_BRANCH}", headers=hdr), timeout=30) as r:
+            sha = json.load(r).get("sha")
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            raise
+    with open(local_file, "rb") as f:
+        content = base64.b64encode(f.read()).decode("ascii")
+    body = {"message": message, "content": content, "branch": GITHUB_BRANCH}
+    if sha:
+        body["sha"] = sha
+    req = urllib.request.Request(api, data=json.dumps(body).encode("utf-8"), headers={**hdr, "Content-Type": "application/json"}, method="PUT")
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.load(r)["content"]["html_url"]
+
+
+def publish():
+    token = get_token()
+    files = sorted(f for f in os.listdir(OUT_DIR) if f.endswith(".json"))
+    for f in files:
+        url = github_put(f"{GITHUB_DIR}/{f}", os.path.join(OUT_DIR, f), token, f"KanArchive: update {f}")
+        print(f"   פורסם: {url}")
+
+
+# ---------------------------------------------------------------- main
+def main():
+    ap = argparse.ArgumentParser(description="בניית ארכיון VOD של כאן ל-JSON")
+    ap.add_argument("--program", help="מזהה תוכנית מתוך programs.json (ברירת מחדל: כולן)")
+    ap.add_argument("--limit", type=int, help="לקרוא רק N פרקים אחרונים לכל תוכנית")
+    ap.add_argument("--publish", action="store_true", help="להעלות את out/vod ל-GitHub אחרי הבנייה")
+    ap.add_argument("--publish-only", action="store_true", help="רק להעלות את מה שכבר ב-out/vod")
+    ap.add_argument("--delay", type=float, default=DELAY, help="השהיה בין בקשות (שניות)")
+    args = ap.parse_args()
+    global DELAY
+    DELAY = args.delay
+
+    if args.publish_only:
+        publish()
+        return
+
+    with open(PROGRAMS_FILE, encoding="utf-8") as f:
+        programs = json.load(f)["programs"]
+    if args.program:
+        programs = [p for p in programs if p["id"] == args.program]
+        if not programs:
+            raise ValueError("אין תוכנית בשם " + args.program)
+
+    results = []
+    for prog in programs:
+        try:
+            results.append((prog, build_program(prog, args.limit)))
+        except Exception as e:  # noqa: BLE001
+            print(f"   !! {prog['title']}: {e}")
+    if results:
+        write_outputs(results)
+    if args.publish:
+        publish()
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except ValueError as e:
+        print("שגיאה:", e)
+        sys.exit(1)
