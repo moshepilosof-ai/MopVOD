@@ -1,48 +1,71 @@
-# KanArchive
+# MopVOD
 
-כלי נפרד מ-MopTV שבונה קובצי JSON של ארכיון ה-VOD של כאן (kan.org.il):
-לכל תוכנית קובץ אחד עם כל הפרקים, הקישורים לזרם, תמונה, תאריך ותקציר.
-הפלט באותו מבנה JSON של MopTV, כך שבעתיד האפליקציה תוכל לטעון אותו ישירות.
+כלי נפרד מ-MopTV שבונה את `MopVOD.json`: ארכיון ה-VOD של כאן (kan.org.il) במבנה JSON של MopTV.
+לכל תוכנית קובץ עם כל הפרקים, קישור לזרם, תמונה, תאריך ותקציר.
 
-הכלי **לא** נוגע ב-MopTV ולא ב-`channel.json`.
+הכלי **לא** נוגע ב-MopTV ולא ב-`channel.json`. האפליקציה תוכל לטעון את `MopVOD.json` בגרסה עתידית.
 
 ## קבצים
 
 | קובץ | תפקיד |
 |---|---|
-| `kan_archive.py` | הסקריפט. קורא דפי תוכנית ופרק, כותב JSON, מעלה ל-GitHub לפי בקשה |
+| `mopvod.py` | הסקריפט. קורא דפי תוכנית ופרק באתר כאן, כותב JSON, מעלה ל-GitHub לפי בקשה |
 | `programs.json` | אילו תוכניות לאסוף (שם, כתובת דף התוכנית באתר כאן) |
-| `out/vod/<id>.json` | קובץ ארכיון לכל תוכנית (נוצר בריצה) |
-| `out/vod/index.json` | רשימת הארכיונים הקיימים, מספר פרקים, תאריכים |
+| `out/MopVOD.json` | הקובץ הראשי: רשימת התוכניות הקיימות עם מספר פרקים וטווח תאריכים |
+| `out/vod/<id>.json` | קובץ ארכיון לכל תוכנית, עם כל הפרקים |
 | `cache/episodes/` | מטמון של פרקים שכבר נקראו. ריצה חוזרת מביאה רק פרקים חדשים |
 | `github_token.txt` | הטוקן להעלאה ל-GitHub (לא נשמר בגיט) |
 
 ## הרצה
 
 ```
-python kan_archive.py                          # כל התוכניות
-python kan_archive.py --program kan11_zman_emet
-python kan_archive.py --limit 30               # לבדיקה: רק 30 הפרקים האחרונים
-python kan_archive.py --publish                # בנייה + העלאה ל-GitHub
-python kan_archive.py --publish-only           # רק העלאה של מה שכבר ב-out/vod
+python mopvod.py                          # כל התוכניות שב-programs.json
+python mopvod.py --program kan11_zman_emet
+python mopvod.py --limit 30               # לבדיקה: רק 30 הפרקים האחרונים לכל תוכנית
+python mopvod.py --single                 # הכל בתוך MopVOD.json אחד (במקום קובץ לכל תוכנית)
+python mopvod.py --publish                # בנייה + העלאה ל-GitHub
+python mopvod.py --publish-only           # רק העלאה של מה שכבר ב-out
 ```
 
 ריצה ראשונה של המהדורה המרכזית (כ-2,300 פרקים) נמשכת כ-30 עד 40 דקות.
 ריצות הבאות נמשכות דקה או שתיים, כי רק הפרקים החדשים נקראים מהאתר.
 
+## שני מבנים אפשריים
+
+- **ברירת מחדל (מומלץ)**: `MopVOD.json` קטן, רק רשימת התוכניות, והפרקים ב-`vod/<תוכנית>.json`.
+  הטלוויזיה טוענת מהר ומורידה תוכנית רק כשנכנסים אליה.
+- **`--single`**: `MopVOD.json` מכיל את כל הפרקים של כל התוכניות. פשוט יותר, אבל גדול
+  (כ-1MB למהדורה המרכזית לבדה) ונטען כולו בכל הפעלה.
+
 ## הוספת תוכנית
 
 1. באתר כאן, פתח את דף התוכנית והעתק את הכתובת (חייבת להכיל `/p-<מספר>/`).
 2. הוסף רשומה ל-`programs.json` עם `id` באנגלית, `title` לתצוגה, ו-`url`.
-3. הרץ `python kan_archive.py --program <id>`.
+3. הרץ `python mopvod.py --program <id>`.
 
 ## העלאה ל-GitHub
 
-הקבצים עולים לריפו `moshepilosof-ai/mop_channel` לתיקייה `vod/`.
+הקבצים עולים לריפו `moshepilosof-ai/mop_channel`: `MopVOD.json` בשורש ליד `channel.json`,
+וקובצי התוכניות לתיקייה `vod/`.
 נדרש Fine-grained Personal Access Token עם הרשאת Contents: Read and write על הריפו.
 שמור אותו בקובץ `github_token.txt` ליד הסקריפט (או במשתנה סביבה `GITHUB_TOKEN`).
 
 ## מבנה הפלט
+
+`MopVOD.json`:
+
+```json
+{
+  "name": "MopVOD",
+  "updated": "2026-10-27 21:00",
+  "sources": [
+    { "name": "כאן 11 - זמן אמת", "file": "vod/kan11_zman_emet.json",
+      "episodes": 175, "seasons": 10, "newest": "2026-09-21", "oldest": "2023-04-22" }
+  ]
+}
+```
+
+`vod/kan11_zman_emet.json`:
 
 ```json
 {
@@ -51,16 +74,16 @@ python kan_archive.py --publish-only           # רק העלאה של מה שכ�
       "name": "כאן 11 - זמן אמת",
       "type": "vod",
       "source": "kan.org.il",
-      "updated": "2026-10-27 01:00",
+      "updated": "2026-10-27 21:00",
       "sub_categories": [
         {
           "name": "עונה 10",
           "channels": [
             {
-              "name": "זמן אמת - קו הגמ\"ר",
+              "name": "זמן אמת עונה 10 | פרק 6 - קו הגמ\"ר",
               "logo": "https://www.kan.org.il/media/.../image.jpg",
               "url": "https://r.il.cdn-redge.media/.../playlist.m3u8?fmp4",
-              "date": "2026-06-10",
+              "date": "2026-06-09",
               "plot": "תקציר הפרק",
               "page": "https://www.kan.org.il/content/kan/kan-11/p-12043/s10/1050745/",
               "season": 10,
@@ -81,4 +104,6 @@ python kan_archive.py --publish-only           # רק העלאה של מה שכ�
 
 - הכלי קורא דפים ציבוריים בלבד, עם השהיה של חצי שנייה בין בקשות.
 - אם האתר של כאן ישנה מבנה, ייתכן שיהיה צורך לעדכן את הביטויים הרגולריים ב-`parse_episode`.
-- פרקים ישנים מאוד (לפני 2023 בערך) לא תמיד מכילים קישור וידאו בדף, והם מדולגים.
+- התאריך נלקח מהכותרת (למשל "| 16.02.26") ואם אין, מתאריך ההעלאה לאתר. לפרקים שהועלו
+  מחדש באתר החדש (2023) תאריך ההעלאה אינו תאריך השידור המקורי.
+- פרקים ישנים מאוד שאין להם קישור וידאו בדף מדולגים ונספרים כ"בלי וידאו".

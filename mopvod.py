@@ -1,16 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-KanArchive - בונה קובצי JSON של ארכיון ה-VOD של כאן (kan.org.il) עבור MopTV.
+MopVOD - בונה קובצי JSON של ארכיון ה-VOD של כאן (kan.org.il) עבור MopTV.
 
 פרויקט נפרד מ-MopTV: לא נוגע בקוד האפליקציה ולא ב-channel.json.
-הפלט נכתב ל-out/vod/ באותו מבנה JSON של MopTV (categories -> sub_categories -> channels),
-עם שדות נוספים לכל פרק (date, plot, page). קובץ out/vod/index.json מרכז את כל הארכיונים.
+הפלט: out/MopVOD.json (הקובץ הראשי) + out/vod/<תוכנית>.json לכל תוכנית, באותו מבנה JSON של MopTV
+(categories -> sub_categories -> channels) עם שדות נוספים לכל פרק (date, plot, page).
+ברירת מחדל: MopVOD.json מכיל את רשימת התוכניות (קטן ומהיר לטעינה) והפרקים בקבצים לפי תוכנית.
+עם --single: MopVOD.json מכיל הכל בפנים, בקובץ אחד.
 
 שימוש:
-    python kan_archive.py                      # כל התוכניות שב-programs.json
-    python kan_archive.py --program kan11_zman_emet
-    python kan_archive.py --limit 30           # רק 30 הפרקים האחרונים לכל תוכנית (לבדיקה)
-    python kan_archive.py --publish            # גם מעלה ל-GitHub (דורש טוקן, ראה README)
+    python mopvod.py                      # כל התוכניות שב-programs.json
+    python mopvod.py --program kan11_zman_emet
+    python mopvod.py --limit 30           # רק 30 הפרקים האחרונים לכל תוכנית (לבדיקה)
+    python mopvod.py --single             # הכל בקובץ MopVOD.json אחד
+    python mopvod.py --publish            # גם מעלה ל-GitHub (דורש טוקן, ראה README)
 
 הסקריפט קורא דפים ציבוריים בלבד, בקצב מנומס (השהיה בין בקשות), ושומר מטמון
 של פרקים שכבר נקראו ב-cache/ כך שריצה חוזרת מביאה רק פרקים חדשים.
@@ -30,17 +33,19 @@ import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(sys.argv[0] if getattr(sys, "frozen", False) else __file__))
 PROGRAMS_FILE = os.path.join(HERE, "programs.json")
-OUT_DIR = os.path.join(HERE, "out", "vod")
+OUT_DIR = os.path.join(HERE, "out")
+VOD_SUBDIR = "vod"
+MAIN_FILE = "MopVOD.json"
 CACHE_DIR = os.path.join(HERE, "cache", "episodes")
 
-# יעד הפרסום ב-GitHub (אותו ריפו של channel.json; הקבצים נכנסים לתיקיית vod/)
+# יעד הפרסום ב-GitHub (אותו ריפו של channel.json: MopVOD.json בשורש, קובצי התוכניות ב-vod/)
 GITHUB_OWNER = "moshepilosof-ai"
 GITHUB_REPO = "mop_channel"
 GITHUB_BRANCH = "main"
 GITHUB_DIR = "vod"
 TOKEN_FILE = os.path.join(HERE, "github_token.txt")
 
-UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36 KanArchive/1.0"
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36 MopVOD/1.0"
 DELAY = 0.5          # שניות בין בקשות לאתר
 MAX_SEASON_PROBE = 40
 
@@ -134,8 +139,8 @@ def parse_episode(url):
         except Exception:  # noqa: BLE001
             continue
         if isinstance(d, dict) and d.get("@type") == "VideoObject":
-            info["name"] = d.get("name")
-            info["plot"] = d.get("description")
+            info["name"] = html.unescape(d.get("name") or "") or None
+            info["plot"] = html.unescape(d.get("description") or "")
             info["logo"] = d.get("thumbnailUrl")
             info["date"] = d.get("uploadDate")
             info["url"] = d.get("contentUrl")
@@ -223,11 +228,11 @@ def build_program(prog, limit=None):
             skipped += 1
             continue
         item = {
-            "name": info.get("name") or f"פרק {ep_id}",
+            "name": html.unescape(info.get("name") or f"פרק {ep_id}"),
             "logo": info.get("logo") or "",
             "url": info["url"],
             "date": info.get("date"),
-            "plot": info.get("plot") or "",
+            "plot": html.unescape(info.get("plot") or ""),
             "page": info.get("page", url),
             "id": ep_id,
         }
@@ -256,25 +261,37 @@ def build_program(prog, limit=None):
     return {"categories": [category]}
 
 
-def write_outputs(results):
-    os.makedirs(OUT_DIR, exist_ok=True)
-    index = {"updated": dt.datetime.now().strftime("%Y-%m-%d %H:%M"), "sources": []}
+def write_outputs(results, single=False):
+    vod_dir = os.path.join(OUT_DIR, VOD_SUBDIR)
+    os.makedirs(vod_dir, exist_ok=True)
+    now = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
+    # קודם כותבים את קובצי התוכניות של הריצה הזו
     for prog, data in results:
         fname = f"{prog['id']}.json"
-        with open(os.path.join(OUT_DIR, fname), "w", encoding="utf-8") as f:
+        with open(os.path.join(vod_dir, fname), "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=1)
+    # ואז בונים את MopVOD.json מכל קובצי התוכניות הקיימים (גם מריצות קודמות)
+    main = {"name": "MopVOD", "updated": now, "sources": []}
+    if single:
+        main["categories"] = []
+    for fname in sorted(f for f in os.listdir(vod_dir) if f.endswith(".json")):
+        with open(os.path.join(vod_dir, fname), encoding="utf-8") as f:
+            data = json.load(f)
         cat = data["categories"][0]
-        count = sum(len(s["channels"]) for s in cat["sub_categories"])
-        index["sources"].append({
-            "name": prog["title"], "file": f"{GITHUB_DIR}/{fname}", "episodes": count,
-            "seasons": len(cat["sub_categories"]), "updated": cat["updated"],
-            "newest": max((c.get("date") or "" for s in cat["sub_categories"] for c in s["channels"]), default=None),
-            "oldest": min((c.get("date") or "9999" for s in cat["sub_categories"] for c in s["channels"]), default=None),
-        })
-        print(f"   -> {os.path.join(OUT_DIR, fname)}  ({count} פרקים, {os.path.getsize(os.path.join(OUT_DIR, fname)) // 1024} KB)")
-    with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as f:
-        json.dump(index, f, ensure_ascii=False, indent=1)
-    print(f"   -> {os.path.join(OUT_DIR, 'index.json')}")
+        prog = {"title": cat["name"]}
+        count = sum(len(sc["channels"]) for sc in cat["sub_categories"])
+        dates = [c.get("date") for sc in cat["sub_categories"] for c in sc["channels"] if c.get("date")]
+        entry = {"name": prog["title"], "file": f"{VOD_SUBDIR}/{fname}", "episodes": count,
+                 "seasons": len(cat["sub_categories"]), "updated": cat["updated"],
+                 "newest": max(dates) if dates else None, "oldest": min(dates) if dates else None}
+        main["sources"].append(entry)
+        if single:
+            main["categories"].append(cat)
+        print(f"   -> {os.path.join(vod_dir, fname)}  ({count} פרקים, {os.path.getsize(os.path.join(vod_dir, fname)) // 1024} KB)")
+    main_path = os.path.join(OUT_DIR, MAIN_FILE)
+    with open(main_path, "w", encoding="utf-8") as f:
+        json.dump(main, f, ensure_ascii=False, indent=1)
+    print(f"   -> {main_path}  ({os.path.getsize(main_path) // 1024} KB{', כולל כל הפרקים' if single else ', רשימת תוכניות'})")
 
 
 # ---------------------------------------------------------------- publish
@@ -310,22 +327,25 @@ def github_put(path_in_repo, local_file, token, message):
 
 def publish():
     token = get_token()
-    files = sorted(f for f in os.listdir(OUT_DIR) if f.endswith(".json"))
-    for f in files:
-        url = github_put(f"{GITHUB_DIR}/{f}", os.path.join(OUT_DIR, f), token, f"KanArchive: update {f}")
+    vod_dir = os.path.join(OUT_DIR, VOD_SUBDIR)
+    for f in sorted(f for f in os.listdir(vod_dir) if f.endswith(".json")):
+        url = github_put(f"{GITHUB_DIR}/{f}", os.path.join(vod_dir, f), token, f"MopVOD: update {f}")
         print(f"   פורסם: {url}")
+    url = github_put(MAIN_FILE, os.path.join(OUT_DIR, MAIN_FILE), token, f"MopVOD: update {MAIN_FILE}")
+    print(f"   פורסם: {url}")
 
 
 # ---------------------------------------------------------------- main
 def main():
+    global DELAY
     ap = argparse.ArgumentParser(description="בניית ארכיון VOD של כאן ל-JSON")
     ap.add_argument("--program", help="מזהה תוכנית מתוך programs.json (ברירת מחדל: כולן)")
     ap.add_argument("--limit", type=int, help="לקרוא רק N פרקים אחרונים לכל תוכנית")
-    ap.add_argument("--publish", action="store_true", help="להעלות את out/vod ל-GitHub אחרי הבנייה")
-    ap.add_argument("--publish-only", action="store_true", help="רק להעלות את מה שכבר ב-out/vod")
+    ap.add_argument("--single", action="store_true", help="לכתוב את כל הפרקים לתוך MopVOD.json אחד (ברירת מחדל: רשימת תוכניות + קובץ לכל תוכנית)")
+    ap.add_argument("--publish", action="store_true", help="להעלות את out ל-GitHub אחרי הבנייה")
+    ap.add_argument("--publish-only", action="store_true", help="רק להעלות את מה שכבר ב-out")
     ap.add_argument("--delay", type=float, default=DELAY, help="השהיה בין בקשות (שניות)")
     args = ap.parse_args()
-    global DELAY
     DELAY = args.delay
 
     if args.publish_only:
@@ -346,7 +366,7 @@ def main():
         except Exception as e:  # noqa: BLE001
             print(f"   !! {prog['title']}: {e}")
     if results:
-        write_outputs(results)
+        write_outputs(results, single=args.single)
     if args.publish:
         publish()
 
