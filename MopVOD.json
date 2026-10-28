@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-28 20:57",
+ "updated": "2026-10-28 21:04",
  "sources": [
   {
    "name": "כאן 11 - 10 קטנות",
@@ -232,7 +232,7 @@
    "file": "vod/kan_1003359.json",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-10-28 20:57",
+   "updated": "2026-10-28 21:04",
    "newest": "2026-02-26",
    "oldest": "2026-02-26"
   },
