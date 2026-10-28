@@ -16,6 +16,19 @@
 | `cache/episodes/` | מטמון של פרקים שכבר נקראו. ריצה חוזרת מביאה רק פרקים חדשים |
 | `github_token.txt` | הטוקן להעלאה ל-GitHub (לא נשמר בגיט) |
 
+## הרצה בלי Python (Windows)
+
+`build_windows.cmd` בונה `windows\dist\MopVOD.exe`. שים את ה-EXE באותה תיקייה עם `programs.json`
+(ו-`github_token.txt` אם מעלים), ואז:
+
+```
+MopVOD.exe                     # לחיצה כפולה: איסוף כל התוכניות, החלון נשאר פתוח בסוף
+MopVOD.exe --publish-only      # או: publish.cmd
+MopVOD.exe --publish           # איסוף חדש + העלאה
+```
+
+ה-EXE מקבל את אותם פרמטרים כמו הסקריפט. `out\` ו-`cache\` נוצרים לידו.
+
 ## הרצה
 
 ```

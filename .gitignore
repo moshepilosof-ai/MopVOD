@@ -6,3 +6,6 @@ __pycache__/
 build/
 dist/
 *.spec
+windows/build/
+windows/dist/
+MopVOD.exe

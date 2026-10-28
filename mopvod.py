@@ -444,8 +444,27 @@ def main():
 
 
 if __name__ == "__main__":
+    if sys.platform == "win32":
+        # חלון הקונסולה של Windows לא תמיד ב-UTF-8; בלי זה העברית נשברת
+        for stream in (sys.stdout, sys.stderr):
+            try:
+                stream.reconfigure(encoding="utf-8", errors="replace")
+            except Exception:  # noqa: BLE001
+                pass
+    code = 0
     try:
         main()
     except ValueError as e:
         print("שגיאה:", e)
-        sys.exit(1)
+        code = 1
+    except KeyboardInterrupt:
+        print()
+        print("הופסק.")
+        code = 1
+    if getattr(sys, "frozen", False) and len(sys.argv) == 1:
+        # הופעל כ-EXE בלחיצה כפולה (בלי פרמטרים): לא לסגור את החלון לפני שרואים את התוצאה
+        try:
+            input("לחץ Enter לסגירה...")
+        except EOFError:
+            pass
+    sys.exit(code)
