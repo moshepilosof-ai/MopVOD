@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-28 23:38",
+ "updated": "2026-10-28 23:41",
  "sources": [
   {
    "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
@@ -45,6 +45,17 @@
    "episodes": 10,
    "source": "youtube",
    "updated": "2026-10-28 23:38"
+  },
+  {
+   "id": "yt_https___www_twitch_tv_nasa_videos",
+   "name": "nasa - All Videos sorted by Date",
+   "url": "https://www.twitch.tv/nasa/videos",
+   "logo": "",
+   "file": "vod/yt_https___www_twitch_tv_nasa_videos.json",
+   "programs": 1,
+   "episodes": 275,
+   "source": "youtube",
+   "updated": "2026-10-28 23:41"
   }
  ]
 }
