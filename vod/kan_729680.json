@@ -6,7 +6,7 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/archive1/vod/p-729680/",
    "series_id": "729680",
-   "updated": "2026-10-28 09:27",
+   "updated": "2026-10-28 16:22",
    "sub_categories": [
     {
      "name": "עונה 1",
@@ -79,6 +79,36 @@
        "plot": "תוכנית גברית עם אלי לוזון, למה ד\"ר עזמי בשארה עזב את המירוץ לראשות הממשלה והזמר דני דותן",
        "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729771/",
        "id": "729771",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 17 - 16.5.1999",
+       "logo": "https://www.kan.org.il/media/w4be5iof/אצל-מני-1651999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7qxi9c4m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "בוחרים את השיר הטוב ביותר של האירווזיון בכל הזמנים! מרגול, ארנון צדוק, להקת עדן ודפנה דקל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729768/",
+       "id": "729768",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 16 - תורמים ושרים",
+       "logo": "https://www.kan.org.il/media/0l5dt2wk/אצל-מני-2641999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j0ltetfc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "ערב התרמה לעמותה שמסייעת לחיי אלפי ילדים ומשפוחתיהם והשחקן שייקה לוי מתארח באולפן עם אלבומו הראשון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729766/",
+       "id": "729766",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 15 - פאניקת המילניום",
+       "logo": "https://www.kan.org.il/media/a5rihkmn/אצל-מני-2831999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_blg9zzyh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "צבי ינאי על באג 2000, להקת הג'ירפות והזמר שנענה לאתגר שהסופרמן כריסטופר איב הטיל בפניו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729759/",
+       "id": "729759",
        "season": 1
       },
       {
@@ -199,6 +229,26 @@
        "plot": "השחקנית רובי פורת-שובל על ההצגה החדשה שהיא מככבת בה, סמיר שוקרי עם הכינור ואהוד ברק מציין את יום הולדתו ה-39 של רון ארד",
        "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729710/",
        "id": "729710",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 2 - שרה נתניהו",
+       "logo": "https://www.kan.org.il/media/hnkb1zpv/אצל-מני-141997.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cm94j5c3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "ישראלה טסמה, שהוריה עלו מאתיופיה, היא ילדה מוכשרת אשר משותקת בגפיה התחתונים - אבל היא לא נותנת לשום דבר לעצור אותה. אשת רשת הממשלה, שרה נתניהו, מגיעה לאולפן לדבר על תוכנית \"מחשב לכל ילד\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729705/",
+       "id": "729705",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 1 - איך מתגברים על מכשול?",
+       "logo": "https://www.kan.org.il/media/jblb0oek/אצל-מני-22101996.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q05l5bh9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "תוכנית אירוח עם רמי הויברגר, דניאל וירון פאר, גבי נסטסה - שחקן הכדורגל שאביו נפטר ואימו גירשה אותו מהבית ומשפחת אסד שרצתה לטוס אך לא הורשתה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729690/",
+       "id": "729690",
        "season": 1
       }
      ]

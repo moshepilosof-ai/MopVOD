@@ -2,22 +2,760 @@
   "_help": "רשימת התוכניות לאיסוף. id = שם קובץ הפלט (אנגלית, בלי רווחים). url = דף התוכנית באתר כאן (מכיל /p-<מספר>/).",
   "programs": [
     {
-      "id": "kan_829004",
-      "title": "כאן 11 - 10 קטנות",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-829004/",
+      "id": "kan_1038407",
+      "title": "כאן 11 - ציפיטפוט",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1038407/",
       "section": "archive1/vod"
     },
     {
-      "id": "kan_1094066",
-      "title": "כאן 11 - החמישיה הקאמרית",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-1094066/",
+      "id": "kan_1034432",
+      "title": "כאן 11 - צימרים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1034432/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1009727",
+      "title": "כאן 11 - משפחה דה לוקס",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1009727/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671003",
+      "title": "כאן 11 - ניקוי ראש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671003/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671183",
+      "title": "כאן 11 - זהו זה! הקלאסיקות",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671183/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_642456",
+      "title": "כאן 11 - הכל נשבר במשפחה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-642456/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_781749",
+      "title": "כאן 11 - בערוגות החשק",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-781749/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670971",
+      "title": "כאן 11 - כן - מה?!",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670971/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670815",
+      "title": "כאן 11 - שערורייה!",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670815/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670939",
+      "title": "כאן 11 - חצי המנשה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670939/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_817537",
+      "title": "כאן 11 - בחזרה לעתיד | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-817537/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670664",
+      "title": "כאן 11 - שבט כהן",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670664/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_882497",
+      "title": "כאן 11 - המסעדה הגדולה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-882497/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670827",
+      "title": "כאן 11 - קרובים קרובים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670827/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670903",
+      "title": "כאן 11 - י. שוורץ ומלחמתו בחיים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670903/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_768194",
+      "title": "כאן 11 - חלומות מתוקים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-768194/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_769693",
+      "title": "כאן 11 - שמונה דקות ביום",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-769693/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_617868",
+      "title": "כאן 11 - לול",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-617868/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671086",
+      "title": "כאן 11 - מאש\"ה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671086/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670915",
+      "title": "כאן 11 - סטרייט ולעניין",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670915/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1024143",
+      "title": "כאן 11 - המדינה שבדרך | פרקים מלאים לצפייה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1024143/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_991366",
+      "title": "כאן 11 - הדוקומנטריסטים | תכניות מלאות לצפייה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-991366/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1000602",
+      "title": "כאן 11 - היום זה אנחנו | פרקים מלאים לצפייה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1000602/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_982745",
+      "title": "כאן 11 - תעודת זהות | פרקים מלאים לצפייה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-982745/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670855",
+      "title": "כאן 11 - במדינת היהודים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670855/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_11069",
+      "title": "כאן 11 - ובמקום הראשון",
+      "url": "https://www.kan.org.il/content/kan/eurovision-2023/p-11069/",
+      "section": "kan/eurovision-2023"
+    },
+    {
+      "id": "kan_915611",
+      "title": "כאן 11 - כח אדם",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-915611/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_945766",
+      "title": "כאן 11 - הנבחרים 96'",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-945766/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_751520",
+      "title": "כאן 11 - סרטי תעודה נבחרים | סרטים מלאים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-751520/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_839888",
+      "title": "כאן 11 - מראות | פרקים מלאים לצפייה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-839888/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671195",
+      "title": "כאן 11 - עמוד האש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671195/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671179",
+      "title": "כאן 11 - יום אחד",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671179/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670835",
+      "title": "כאן 11 - כל האנשים הבודדים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670835/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_597677",
+      "title": "כאן 11 - הכל אנשים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-597677/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_754949",
+      "title": "כאן 11 - ירושלים שהייתה בספרד",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-754949/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671119",
+      "title": "כאן 11 - הגל\"צניקים | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671119/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_14210",
+      "title": "כאן 11 - ההרצלים",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-14210/",
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_505378",
-      "title": "כאן 11 - 100 שושנים - מחווה לשושנה דמארי",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-505378/",
-      "section": "kan/kan-11"
+      "id": "kan_744336",
+      "title": "כאן 11 - מבט שני | כתבות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-744336/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_739457",
+      "title": "כאן 11 - בצל הרי האטלס",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-739457/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_781921",
+      "title": "כאן 11 - ממלכת הכוזרים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-781921/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_758166",
+      "title": "כאן 11 - הקיבוץ",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-758166/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_751015",
+      "title": "כאן 11 - בחסדי הטבע",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-751015/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_745400",
+      "title": "כאן 11 - יום של חול | תוכנית מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-745400/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_742166",
+      "title": "כאן 11 - קהילת יהודי בבל",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-742166/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_739746",
+      "title": "כאן 11 - על נהרות תבל",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-739746/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670919",
+      "title": "כאן 11 - חגיגה לעיניים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670919/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670767",
+      "title": "כאן 11 - דה איזראליז",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670767/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670799",
+      "title": "כאן 11 - ניקוי הראש הוא הכרחי  - ממזרח תזרח השמש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670799/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671191",
+      "title": "כאן 11 - תקומה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671191/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671151",
+      "title": "כאן 11 - מקדש מעט",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671151/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671199",
+      "title": "כאן 11 - המהפך השני",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671199/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671066",
+      "title": "כאן 11 - חשבון נפש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671066/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_755539",
+      "title": "כאן 11 - המסע",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-755539/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671203",
+      "title": "כאן 11 - בין המהפכים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671203/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670711",
+      "title": "כאן 11 - יוצאים מהכלים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670711/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_11088",
+      "title": "כאן 11 - לא כולל שירות",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-11088/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671131",
+      "title": "כאן 11 - ג'ינג'י",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671131/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670763",
+      "title": "כאן 11 - ריצ'רץ'",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670763/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670700",
+      "title": "כאן 11 - רגע עם דודלי | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670700/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670715",
+      "title": "כאן 11 - שובו של השריף",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670715/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670739",
+      "title": "כאן 11 - קריאת כיוון",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670739/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1001738",
+      "title": "כאן 11 - ציפי ללא הפסקה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1001738/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670863",
+      "title": "כאן 11 - הצריף של תמרי",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670863/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670803",
+      "title": "כאן 11 - שלוש, ארבע, חמש וחצי | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670803/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670759",
+      "title": "כאן 11 - הילדים משכונת חיים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670759/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670723",
+      "title": "כאן 11 - בבית של פיסטוק",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670723/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_11433",
+      "title": "כאן 11 - עניין של זמן",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-11433/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670775",
+      "title": "כאן 11 - הדוברמן החברמן | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670775/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_728107",
+      "title": "כאן 11 - הופה היי",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-728107/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_715582",
+      "title": "כאן 11 - טלפלא",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-715582/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670951",
+      "title": "כאן 11 - אגדות שלמה המלך",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670951/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_765508",
+      "title": "כאן 11 - שקט משדרים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-765508/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_738647",
+      "title": "כאן 11 - פלאי קלעים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-738647/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670735",
+      "title": "כאן 11 - דלת הקסמים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670735/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_668269",
+      "title": "כאן 11 - מה פתאום?!",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-668269/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670807",
+      "title": "כאן 11 - הצצקנים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670807/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670787",
+      "title": "כאן 11 - חטף פתח | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670787/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670656",
+      "title": "כאן 11 - אפצ'י וסיפור",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670656/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670839",
+      "title": "כאן 11 - שמיניות באוויר",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670839/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670692",
+      "title": "כאן 11 - סמי וסוסו",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670692/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670751",
+      "title": "כאן 11 - פיצוחים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670751/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_725264",
+      "title": "כאן 11 - מה ת'אומר?!",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-725264/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670704",
+      "title": "כאן 11 - Gabby & Debby",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670704/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670696",
+      "title": "כאן 11 - דבי בבית חולים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670696/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671011",
+      "title": "כאן 11 - חמישייה על הגג",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671011/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670743",
+      "title": "כאן 11 - מה הדיבור",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670743/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671106",
+      "title": "כאן 11 - מסיבת גן",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671106/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671135",
+      "title": "כאן 11 - תוסס",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671135/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670680",
+      "title": "כאן 11 - Neighbours",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670680/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670991",
+      "title": "כאן 11 - ראש כרוב",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670991/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1033920",
+      "title": "כאן 11 - נבחרת החלומות | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1033920/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_979394",
+      "title": "כאן 11 - ניסים גרמה מארח | תכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-979394/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671074",
+      "title": "כאן 11 - הערב עם",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671074/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_939241",
+      "title": "כאן 11 - סנדרסון | תכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-939241/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_872509",
+      "title": "כאן 11 - הילוך חוזר",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-872509/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670652",
+      "title": "כאן 11 - מפגש אומנים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670652/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670791",
+      "title": "כאן 11 - שעה טובה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670791/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_773707",
+      "title": "כאן 11 - קיץ עם מני פאר | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-773707/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_837108",
+      "title": "כאן 11 - להיות שחקן | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-837108/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670660",
+      "title": "כאן 11 - תן-קו",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670660/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_830221",
+      "title": "כאן 11 - לא רק כדורגל | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-830221/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_726517",
+      "title": "כאן 11 - סופשבוע | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-726517/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_872059",
+      "title": "כאן 11 - כאן ארכיון | איפה היינו - תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-872059/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670847",
+      "title": "כאן 11 - חיים שכאלה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670847/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670859",
+      "title": "כאן 11 - במזל כוכב",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670859/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_781795",
+      "title": "כאן 11 - סיבה למסיבה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-781795/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_729680",
+      "title": "כאן 11 - אצל מני | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-729680/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_872058",
+      "title": "כאן 11 - מסך אישי | הפרקים המלאים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-872058/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_773733",
+      "title": "כאן 11 - קיץ עם דן מרגלית | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-773733/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_797099",
+      "title": "כאן 11 - סוגרים שבוע | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-797099/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671090",
+      "title": "כאן 11 - שישי בגאון",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671090/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_718705",
+      "title": "כאן 11 - ממני | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-718705/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_716777",
+      "title": "כאן 11 - סופסופ | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-716777/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_652283",
+      "title": "כאן 11 - מוצ\"ש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-652283/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_984622",
+      "title": "כאן 11 - כאן ועכשיו | פרקים מלאים לצפייה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-984622/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_991349",
+      "title": "כאן 11 - איזו דרמה | תכניות מלאות לצפייה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-991349/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_979620",
+      "title": "כאן 11 - דום לב",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-979620/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670811",
+      "title": "כאן 11 - עשרים פלוס | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670811/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670899",
+      "title": "כאן 11 - ארץ מולדת | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670899/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671056",
+      "title": "כאן 11 - משפט קסטנר | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671056/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_746207",
+      "title": "כאן 11 - כנפיים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-746207/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_785473",
+      "title": "כאן 11 - גיא אוני",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-785473/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670887",
+      "title": "כאן 11 - אנשים במיל",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670887/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_794984",
+      "title": "כאן 11 - ספרים על המסך",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-794984/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671098",
+      "title": "כאן 11 - חדוה ושלומיק",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671098/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_747392",
+      "title": "כאן 11 - קו 300",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-747392/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_671123",
@@ -26,22 +764,226 @@
       "section": "archive1/vod"
     },
     {
-      "id": "kan_1073649",
-      "title": "כאן 11 - הפשוטע",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-1073649/",
-      "section": "kan/kan-11"
+      "id": "kan_670823",
+      "title": "כאן 11 - בילו\"יים | דרמה בשני חלקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670823/",
+      "section": "archive1/vod"
     },
     {
-      "id": "kan_11843",
-      "title": "כאן 11 - בואו לאכול איתי",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-11843/",
-      "section": "kan/kan-11"
+      "id": "kan_748227",
+      "title": "כאן 11 - רצח למהדרין",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-748227/",
+      "section": "archive1/vod"
     },
     {
-      "id": "kan_963853",
-      "title": "כאן 11 - סיפורי המהדורה",
-      "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
-      "section": "kan-news/newstv"
+      "id": "kan_670943",
+      "title": "כאן 11 - מישל עזרא ספרא ובניו",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670943/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_753702",
+      "title": "כאן 11 - סיטון",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-753702/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671147",
+      "title": "כאן 11 - משפחה טובה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671147/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_747230",
+      "title": "כאן 11 - אישה באפור",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-747230/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_747141",
+      "title": "כאן 11 - משמרת לילה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-747141/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1099340",
+      "title": "כאן 11 - סיעור מוחות בבית הנשיא",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1099340/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1071864",
+      "title": "כאן 11 - חותם אישי | פרקים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1071864/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_773813",
+      "title": "כאן 11 - שיחות קיץ | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-773813/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_724323",
+      "title": "כאן 11 - בין הכיסאות | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-724323/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670843",
+      "title": "כאן 11 - הבית היהודי",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670843/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_820371",
+      "title": "כאן 11 - מקבלים שבת עם דב אלבוים | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-820371/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_829004",
+      "title": "כאן 11 - 10 קטנות",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-829004/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670684",
+      "title": "כאן 11 - שביל באמצע שביל בצד",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670684/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671110",
+      "title": "כאן 11 - הקרם דה לה סלאם",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671110/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_781792",
+      "title": "כאן 11 - שיחה בשניים | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-781792/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_758287",
+      "title": "כאן 11 - זומביט",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-758287/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670783",
+      "title": "כאן 11 - בקצה המכחול",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670783/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670819",
+      "title": "כאן 11 - דיוקן",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670819/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670911",
+      "title": "כאן 11 - לגעת ברוח",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670911/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_838044",
+      "title": "כאן 11 - עושים רוח | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-838044/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_805958",
+      "title": "כאן 11 - הופכים דף",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-805958/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_839450",
+      "title": "כאן 11 - תיאטרון מצולם | קטעים נבחרים לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/projects/p-839450/",
+      "section": "archive1/projects"
+    },
+    {
+      "id": "kan_814462",
+      "title": "כאן 11 - אביגיל אשת חיל | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-814462/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670831",
+      "title": "כאן 11 - דיוקני יוצרים",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670831/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_752311",
+      "title": "כאן 11 - על גלגלים | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-752311/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_818181",
+      "title": "כאן 11 - אוצרים את המדינה | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-818181/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_750988",
+      "title": "כאן 11 - זה הזמן | תוכניות מלאות לצפייה ישירה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-750988/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_761676",
+      "title": "כאן 11 - תצפית",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-761676/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_745831",
+      "title": "כאן 11 - סוף ציטוט",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-745831/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670719",
+      "title": "כאן 11 - מה הרעש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670719/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670747",
+      "title": "כאן 11 - יש לך מושג?",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670747/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671114",
+      "title": "כאן 11 - סיפור מנצח",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671114/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670731",
+      "title": "כאן 11 - שניים אוחזין",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670731/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_670875",
+      "title": "כאן 11 - אשכרה",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-670875/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_505378",
+      "title": "כאן 11 - 100 שושנים - מחווה לשושנה דמארי",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-505378/",
+      "section": "kan/kan-11"
     },
     {
       "id": "kan_13712",
@@ -62,24 +1004,6 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_670704",
-      "title": "כאן 11 - Gabby & Debby",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670704/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670680",
-      "title": "כאן 11 - Neighbours",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670680/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_814462",
-      "title": "כאן 11 - אביגיל אשת חיל | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-814462/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_11568",
       "title": "כאן 11 - אבירם כץ",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-11568/",
@@ -89,18 +1013,6 @@
       "id": "kan_11232",
       "title": "כאן 11 - אביתר בנאי - האלבום הראשון",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-11232/",
-      "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_670951",
-      "title": "כאן 11 - אגדות שלמה המלך",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670951/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_12499",
-      "title": "כאן 11 - אגדת חורבן",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-12499/",
       "section": "kan/kan-11"
     },
     {
@@ -146,33 +1058,15 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_818181",
-      "title": "כאן 11 - אוצרים את המדינה | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-818181/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1110163",
       "title": "כאן 11 - אחרי שהם חזרו",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1110163/",
       "section": "kan/news-series"
     },
     {
-      "id": "kan_991349",
-      "title": "כאן 11 - איזו דרמה | תכניות מלאות לצפייה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-991349/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1102158",
       "title": "כאן 11 - איך עיצבה ההיסטוריה המשפחתית את מי שאני כיום?",
       "url": "https://www.kan.org.il/content/archive1/vod/p-1102158/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_747230",
-      "title": "כאן 11 - אישה באפור",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-747230/",
       "section": "archive1/vod"
     },
     {
@@ -206,28 +1100,16 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670887",
-      "title": "כאן 11 - אנשים במיל",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670887/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1077526",
       "title": "כאן 11 - אנשים שפגשתי",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1077526/",
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670656",
-      "title": "כאן 11 - אפצ'י וסיפור",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670656/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_729680",
-      "title": "כאן 11 - אצל מני | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-729680/",
-      "section": "archive1/vod"
+      "id": "kan_12255",
+      "title": "כאן 11 - אקלים לשינוי",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-12255/",
+      "section": "kan/kan-11"
     },
     {
       "id": "kan_936892",
@@ -260,18 +1142,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670899",
-      "title": "כאן 11 - ארץ מולדת | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670899/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670875",
-      "title": "כאן 11 - אשכרה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670875/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_895076",
       "title": "כאן 11 - אתה חייב לקרוא את זה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-895076/",
@@ -284,52 +1154,28 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670723",
-      "title": "כאן 11 - בבית של פיסטוק",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670723/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_983439",
       "title": "כאן 11 - בהסתורה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-983439/",
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_11843",
+      "title": "כאן 11 - בואו לאכול איתי",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-11843/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1108588",
+      "title": "כאן 11 - בוחרים לראשונה",
+      "url": "https://www.kan.org.il/content/dig/digital/p-1108588/",
+      "section": "dig/digital"
+    },
+    {
       "id": "kan_833724",
       "title": "כאן 11 - בוש",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-833724/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_817537",
-      "title": "כאן 11 - בחזרה לעתיד | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-817537/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_751015",
-      "title": "כאן 11 - בחסדי הטבע",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-751015/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670823",
-      "title": "כאן 11 - בילו\"יים | דרמה בשני חלקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670823/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_724323",
-      "title": "כאן 11 - בין הכיסאות | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-724323/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671203",
-      "title": "כאן 11 - בין המהפכים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671203/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13851",
@@ -344,52 +1190,16 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_11297",
-      "title": "כאן 11 - ביקורת נוסטלגיה",
-      "url": "https://www.kan.org.il/content/dig/digital/p-11297/",
-      "section": "dig/digital"
-    },
-    {
       "id": "kan_11860",
       "title": "כאן 11 - בלי פאניקה!",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-11860/",
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670855",
-      "title": "כאן 11 - במדינת היהודים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670855/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670859",
-      "title": "כאן 11 - במזל כוכב",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670859/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_900233",
       "title": "כאן 11 - בנימיני וגואטה",
       "url": "https://www.kan.org.il/content/kan/kan-actual/p-900233/",
       "section": "kan/kan-actual"
-    },
-    {
-      "id": "kan_781749",
-      "title": "כאן 11 - בערוגות החשק",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-781749/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_739457",
-      "title": "כאן 11 - בצל הרי האטלס",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-739457/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670783",
-      "title": "כאן 11 - בקצה המכחול",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670783/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1000407",
@@ -402,18 +1212,6 @@
       "title": "כאן 11 - בתי מלון בקצה העולם",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-845122/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_671131",
-      "title": "כאן 11 - ג'ינג'י",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671131/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_785473",
-      "title": "כאן 11 - גיא אוני",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-785473/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_930972",
@@ -434,28 +1232,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670696",
-      "title": "כאן 11 - דבי בבית חולים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670696/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670767",
-      "title": "כאן 11 - דה איזראליז",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670767/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1043786",
       "title": "כאן 11 - דודו טסה - לתפוס דג",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1043786/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_979620",
-      "title": "כאן 11 - דום לב",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-979620/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_671172",
@@ -470,34 +1250,16 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_670819",
-      "title": "כאן 11 - דיוקן",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670819/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1087965",
       "title": "כאן 11 - דיוקן של מוות",
       "url": "https://www.kan.org.il/content/dig/digital/p-1087965/",
       "section": "dig/digital"
     },
     {
-      "id": "kan_670831",
-      "title": "כאן 11 - דיוקני יוצרים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670831/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_938863",
       "title": "כאן 11 - דייטריפ",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-938863/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_670735",
-      "title": "כאן 11 - דלת הקסמים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670735/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1097937",
@@ -548,12 +1310,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670843",
-      "title": "כאן 11 - הבית היהודי",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670843/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_11372",
       "title": "כאן 11 - הבלתי חשובים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-11372/",
@@ -578,12 +1334,6 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_671119",
-      "title": "כאן 11 - הגל\"צניקים | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671119/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1088672",
       "title": "כאן 11 - הגפרור",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1088672/",
@@ -596,21 +1346,15 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670775",
-      "title": "כאן 11 - הדוברמן החברמן | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670775/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_991366",
-      "title": "כאן 11 - הדוקומנטריסטים | תכניות מלאות לצפייה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-991366/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1087990",
       "title": "כאן 11 - הדיגיטל חוגג עשור",
       "url": "https://www.kan.org.il/content/dig/digital/p-1087990/",
+      "section": "dig/digital"
+    },
+    {
+      "id": "kan_12097",
+      "title": "כאן 11 - הדיקטטורים",
+      "url": "https://www.kan.org.il/content/dig/digital/p-12097/",
       "section": "dig/digital"
     },
     {
@@ -624,24 +1368,6 @@
       "title": "כאן 11 - ההמצאות של המחר",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-992049/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_14210",
-      "title": "כאן 11 - ההרצלים",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-14210/",
-      "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_728107",
-      "title": "כאן 11 - הופה היי",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-728107/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_805958",
-      "title": "כאן 11 - הופכים דף",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-805958/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_798231",
@@ -672,6 +1398,12 @@
       "title": "כאן 11 - החמישיה הקאמרית",
       "url": "https://www.kan.org.il/content/archive1/vod/p-1084497/",
       "section": "archive1/vod"
+    },
+    {
+      "id": "kan_1094066",
+      "title": "כאן 11 - החמישיה הקאמרית",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1094066/",
+      "section": "kan/kan-11"
     },
     {
       "id": "kan_872510",
@@ -716,12 +1448,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_1000602",
-      "title": "כאן 11 - היום זה אנחנו | פרקים מלאים לצפייה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1000602/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_771860",
       "title": "כאן 11 - הייתי מתה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-771860/",
@@ -734,52 +1460,16 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670759",
-      "title": "כאן 11 - הילדים משכונת חיים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670759/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_872509",
-      "title": "כאן 11 - הילוך חוזר",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-872509/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1075348",
       "title": "כאן 11 - הכוורת",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_597677",
-      "title": "כאן 11 - הכל אנשים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-597677/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_642456",
-      "title": "כאן 11 - הכל נשבר במשפחה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-642456/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_13157",
       "title": "כאן 11 - הלילה הארוך ביותר",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13157/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1024143",
-      "title": "כאן 11 - המדינה שבדרך | פרקים מלאים לצפייה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1024143/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671199",
-      "title": "כאן 11 - המהפך השני",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671199/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13807",
@@ -806,22 +1496,10 @@
       "section": "kan/kan-actual"
     },
     {
-      "id": "kan_755539",
-      "title": "כאן 11 - המסע",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-755539/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1029627",
       "title": "כאן 11 - המסע",
       "url": "https://www.kan.org.il/content/dig/digital/p-1029627/",
       "section": "dig/digital"
-    },
-    {
-      "id": "kan_882497",
-      "title": "כאן 11 - המסעדה הגדולה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-882497/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_11766",
@@ -846,12 +1524,6 @@
       "title": "כאן 11 - הנבחרים",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1060535/",
       "section": "kan/news-series"
-    },
-    {
-      "id": "kan_945766",
-      "title": "כאן 11 - הנבחרים 96'",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-945766/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1108868",
@@ -896,12 +1568,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_671074",
-      "title": "כאן 11 - הערב עם",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671074/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12346",
       "title": "כאן 11 - העשירייה - המצעד הרשמי של ישראל",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12346/",
@@ -926,6 +1592,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_1073649",
+      "title": "כאן 11 - הפשוטע",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1073649/",
+      "section": "kan/kan-11"
+    },
+    {
       "id": "kan_710233",
       "title": "כאן 11 - הצבי",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-710233/",
@@ -938,34 +1610,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670807",
-      "title": "כאן 11 - הצצקנים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670807/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670863",
-      "title": "כאן 11 - הצריף של תמרי",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670863/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1103914",
       "title": "כאן 11 - הקול הערבי",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1103914/",
       "section": "kan/news-series"
-    },
-    {
-      "id": "kan_758166",
-      "title": "כאן 11 - הקיבוץ",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-758166/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671110",
-      "title": "כאן 11 - הקרם דה לה סלאם",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671110/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1023449",
@@ -1016,22 +1664,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_11069",
-      "title": "כאן 11 - ובמקום הראשון",
-      "url": "https://www.kan.org.il/content/kan/eurovision-2023/p-11069/",
-      "section": "kan/eurovision-2023"
-    },
-    {
       "id": "kan_1029184",
       "title": "כאן 11 - ועוזריהם",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1029184/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_750988",
-      "title": "כאן 11 - זה הזמן | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-750988/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1056731",
@@ -1046,22 +1682,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_671183",
-      "title": "כאן 11 - זהו זה! הקלאסיקות",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671183/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_13401",
       "title": "כאן 11 - זהו זה! השירים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13401/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_758287",
-      "title": "כאן 11 - זומביט",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-758287/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1083583",
@@ -1094,18 +1718,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670919",
-      "title": "כאן 11 - חגיגה לעיניים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670919/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671098",
-      "title": "כאן 11 - חדוה ושלומיק",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671098/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_11602",
       "title": "כאן 11 - חדשות הלילה",
       "url": "https://www.kan.org.il/content/kan/kan-actual/p-11602/",
@@ -1130,46 +1742,16 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_1071864",
-      "title": "כאן 11 - חותם אישי | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1071864/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_13081",
       "title": "כאן 11 - חזרות",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13081/",
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670787",
-      "title": "כאן 11 - חטף פתח | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670787/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670847",
-      "title": "כאן 11 - חיים שכאלה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670847/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_768194",
-      "title": "כאן 11 - חלומות מתוקים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-768194/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1083239",
       "title": "כאן 11 - חם לי קר לי",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1083239/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_671011",
-      "title": "כאן 11 - חמישייה על הגג",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671011/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13914",
@@ -1182,18 +1764,6 @@
       "title": "כאן 11 - חפצים וסודות",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-978124/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_670939",
-      "title": "כאן 11 - חצי המנשה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670939/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671066",
-      "title": "כאן 11 - חשבון נפש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671066/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_12154",
@@ -1226,22 +1796,10 @@
       "section": "archive1/vod"
     },
     {
-      "id": "kan_715582",
-      "title": "כאן 11 - טלפלא",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-715582/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_974867",
       "title": "כאן 11 - טעמו של שינוי",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-974867/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_670903",
-      "title": "כאן 11 - י. שוורץ ומלחמתו בחיים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670903/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_882422",
@@ -1256,28 +1814,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_671179",
-      "title": "כאן 11 - יום אחד",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671179/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_745400",
-      "title": "כאן 11 - יום של חול | תוכנית מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-745400/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_13589",
       "title": "כאן 11 - יומני היקר",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13589/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_670711",
-      "title": "כאן 11 - יוצאים מהכלים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670711/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_965458",
@@ -1304,28 +1844,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_754949",
-      "title": "כאן 11 - ירושלים שהייתה בספרד",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-754949/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670747",
-      "title": "כאן 11 - יש לך מושג?",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670747/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_13676",
       "title": "כאן 11 - כאן איתכם",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13676/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_872059",
-      "title": "כאן 11 - כאן ארכיון | איפה היינו - תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-872059/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13599",
@@ -1338,12 +1860,6 @@
       "title": "כאן 11 - כאן בשש",
       "url": "https://www.kan.org.il/content/kan/kan-actual/p-821794/",
       "section": "kan/kan-actual"
-    },
-    {
-      "id": "kan_984622",
-      "title": "כאן 11 - כאן ועכשיו | פרקים מלאים לצפייה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-984622/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1080424",
@@ -1388,34 +1904,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_915611",
-      "title": "כאן 11 - כח אדם",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-915611/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_984859",
       "title": "כאן 11 - כל האימהות משקרות",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-984859/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_670835",
-      "title": "כאן 11 - כל האנשים הבודדים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670835/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670971",
-      "title": "כאן 11 - כן - מה?!",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670971/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_746207",
-      "title": "כאן 11 - כנפיים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-746207/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1089788",
@@ -1430,22 +1922,10 @@
       "section": "kan/news-series"
     },
     {
-      "id": "kan_11088",
-      "title": "כאן 11 - לא כולל שירות",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-11088/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1033206",
       "title": "כאן 11 - לא לריב",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1033206/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_830221",
-      "title": "כאן 11 - לא רק כדורגל | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-830221/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_755260",
@@ -1454,28 +1934,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670911",
-      "title": "כאן 11 - לגעת ברוח",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670911/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_837108",
-      "title": "כאן 11 - להיות שחקן | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-837108/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_998340",
       "title": "כאן 11 - לוחמת",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-998340/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_617868",
-      "title": "כאן 11 - לול",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-617868/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_838978",
@@ -1526,18 +1988,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_671086",
-      "title": "כאן 11 - מאש\"ה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671086/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_744336",
-      "title": "כאן 11 - מבט שני | כתבות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-744336/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_829567",
       "title": "כאן 11 - מגרש הרוסים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-829567/",
@@ -1556,40 +2006,16 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_670743",
-      "title": "כאן 11 - מה הדיבור",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670743/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670719",
-      "title": "כאן 11 - מה הרעש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670719/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_897228",
       "title": "כאן 11 - מה זה היה? עם רועי בר נתן",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-897228/",
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_668269",
-      "title": "כאן 11 - מה פתאום?!",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-668269/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_11510",
       "title": "כאן 11 - מה שתגידו",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-11510/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_725264",
-      "title": "כאן 11 - מה ת'אומר?!",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-725264/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan11_news",
@@ -1626,12 +2052,6 @@
       "title": "כאן 11 - מופע מחווה לדקלון וצלילי הכרם",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1101750/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_652283",
-      "title": "כאן 11 - מוצ\"ש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-652283/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_666904",
@@ -1676,12 +2096,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670943",
-      "title": "כאן 11 - מישל עזרא ספרא ובניו",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670943/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1035662",
       "title": "כאן 11 - מכינת התקומה",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1035662/",
@@ -1706,34 +2120,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_781921",
-      "title": "כאן 11 - ממלכת הכוזרים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-781921/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_718705",
-      "title": "כאן 11 - ממני | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-718705/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12394",
       "title": "כאן 11 - מנאייכ",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12394/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_671106",
-      "title": "כאן 11 - מסיבת גן",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671106/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_872058",
-      "title": "כאן 11 - מסך אישי | הפרקים המלאים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-872058/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_826974",
@@ -1742,28 +2132,10 @@
       "section": "archive1/projects"
     },
     {
-      "id": "kan_670652",
-      "title": "כאן 11 - מפגש אומנים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670652/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_983131",
       "title": "כאן 11 - מפרץ השמש",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-983131/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_820371",
-      "title": "כאן 11 - מקבלים שבת עם דב אלבוים | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-820371/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671151",
-      "title": "כאן 11 - מקדש מעט",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671151/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_962212",
@@ -1778,12 +2150,6 @@
       "section": "kan/news-series"
     },
     {
-      "id": "kan_839888",
-      "title": "כאן 11 - מראות | פרקים מלאים לצפייה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-839888/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_670610",
       "title": "כאן 11 - משדרי חדשות",
       "url": "https://www.kan.org.il/content/kan/kan-actual/p-670610/",
@@ -1796,34 +2162,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_747141",
-      "title": "כאן 11 - משמרת לילה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-747141/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12859",
       "title": "כאן 11 - משפחה בהסעה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12859/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1009727",
-      "title": "כאן 11 - משפחה דה לוקס",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1009727/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671147",
-      "title": "כאן 11 - משפחה טובה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671147/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671056",
-      "title": "כאן 11 - משפט קסטנר | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671056/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1035129",
@@ -1850,12 +2192,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_1033920",
-      "title": "כאן 11 - נבחרת החלומות | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1033920/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_736711",
       "title": "כאן 11 - נועה בדרך לאירוויזיון",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-736711/",
@@ -1866,24 +2202,6 @@
       "title": "כאן 11 - נייעס",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13692/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_979394",
-      "title": "כאן 11 - ניסים גרמה מארח | תכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-979394/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670799",
-      "title": "כאן 11 - ניקוי הראש הוא הכרחי  - ממזרח תזרח השמש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670799/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671003",
-      "title": "כאן 11 - ניקוי ראש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671003/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1026304",
@@ -1940,12 +2258,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_797099",
-      "title": "כאן 11 - סוגרים שבוע | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-797099/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12645",
       "title": "כאן 11 - סוכן תרבות",
       "url": "https://www.kan.org.il/content/kan/kan-actual/p-12645/",
@@ -1958,52 +2270,10 @@
       "section": "archive1/vod"
     },
     {
-      "id": "kan_745831",
-      "title": "כאן 11 - סוף ציטוט",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-745831/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_716777",
-      "title": "כאן 11 - סופסופ | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-716777/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_726517",
-      "title": "כאן 11 - סופשבוע | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-726517/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670915",
-      "title": "כאן 11 - סטרייט ולעניין",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670915/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_781795",
-      "title": "כאן 11 - סיבה למסיבה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-781795/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_753702",
-      "title": "כאן 11 - סיטון",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-753702/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_1099340",
-      "title": "כאן 11 - סיעור מוחות בבית הנשיא",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1099340/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_671114",
-      "title": "כאן 11 - סיפור מנצח",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671114/",
-      "section": "archive1/vod"
+      "id": "kan_963853",
+      "title": "כאן 11 - סיפורי המהדורה",
+      "url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
+      "section": "kan-news/newstv"
     },
     {
       "id": "kan_11894",
@@ -2042,30 +2312,6 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_670692",
-      "title": "כאן 11 - סמי וסוסו",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670692/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_939241",
-      "title": "כאן 11 - סנדרסון | תכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-939241/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_794984",
-      "title": "כאן 11 - ספרים על המסך",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-794984/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_751520",
-      "title": "כאן 11 - סרטי תעודה נבחרים | סרטים מלאים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-751520/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_937965",
       "title": "כאן 11 - עד החתונה זה יעבור",
       "url": "https://www.kan.org.il/content/archive1/projects/p-937965/",
@@ -2076,12 +2322,6 @@
       "title": "כאן 11 - עוד ניפגש",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12582/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_838044",
-      "title": "כאן 11 - עושים רוח | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-838044/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1084615",
@@ -2102,28 +2342,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_752311",
-      "title": "כאן 11 - על גלגלים | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-752311/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_739746",
-      "title": "כאן 11 - על נהרות תבל",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-739746/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12062",
       "title": "כאן 11 - על נשים בפוליטיקה הישראלית מאז ועד היום",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12062/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_671195",
-      "title": "כאן 11 - עמוד האש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671195/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13664",
@@ -2136,12 +2358,6 @@
       "title": "כאן 11 - עמוק באדמה",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1044524/",
       "section": "kan/news-series"
-    },
-    {
-      "id": "kan_11433",
-      "title": "כאן 11 - עניין של זמן",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-11433/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13011",
@@ -2168,12 +2384,6 @@
       "section": "archive1/projects"
     },
     {
-      "id": "kan_670811",
-      "title": "כאן 11 - עשרים פלוס | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670811/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_365795",
       "title": "כאן 11 - עשרים שקל לראש",
       "url": "https://www.kan.org.il/content/dig/digital/p-365795/",
@@ -2186,22 +2396,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670751",
-      "title": "כאן 11 - פיצוחים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670751/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_794147",
       "title": "כאן 11 - פלאי האוקיינוס",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-794147/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_738647",
-      "title": "כאן 11 - פלאי קלעים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-738647/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_652215",
@@ -2214,24 +2412,6 @@
       "title": "כאן 11 - פרח",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-985085/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1034432",
-      "title": "כאן 11 - צימרים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1034432/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_1001738",
-      "title": "כאן 11 - ציפי ללא הפסקה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1001738/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_1038407",
-      "title": "כאן 11 - ציפיטפוט",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1038407/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13189",
@@ -2258,18 +2438,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_742166",
-      "title": "כאן 11 - קהילת יהודי בבל",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-742166/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_747392",
-      "title": "כאן 11 - קו 300",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-747392/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_11494",
       "title": "כאן 11 - קול התור",
       "url": "https://www.kan.org.il/content/dig/digital/p-11494/",
@@ -2286,18 +2454,6 @@
       "title": "כאן 11 - קופה ראשית - הסרט: מאחורי הקלעים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1063434/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_773733",
-      "title": "כאן 11 - קיץ עם דן מרגלית | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-773733/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_773707",
-      "title": "כאן 11 - קיץ עם מני פאר | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-773707/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_934400",
@@ -2318,18 +2474,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670827",
-      "title": "כאן 11 - קרובים קרובים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670827/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670739",
-      "title": "כאן 11 - קריאת כיוון",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670739/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1036654",
       "title": "כאן 11 - קריסת האונקולוגיה",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1036654/",
@@ -2342,34 +2486,16 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670991",
-      "title": "כאן 11 - ראש כרוב",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670991/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_13652",
       "title": "כאן 11 - רבנו",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13652/",
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670700",
-      "title": "כאן 11 - רגע עם דודלי | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670700/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1103890",
       "title": "כאן 11 - רובי מחפש תקווה",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1103890/",
       "section": "kan/news-series"
-    },
-    {
-      "id": "kan_670763",
-      "title": "כאן 11 - ריצ'רץ'",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670763/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1066627",
@@ -2382,12 +2508,6 @@
       "title": "כאן 11 - רצח בקולנוע צפון",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-372773/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_748227",
-      "title": "כאן 11 - רצח למהדרין",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-748227/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_949352",
@@ -2408,28 +2528,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670664",
-      "title": "כאן 11 - שבט כהן",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670664/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670684",
-      "title": "כאן 11 - שביל באמצע שביל בצד",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670684/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_11039",
       "title": "כאן 11 - שבע",
       "url": "https://www.kan.org.il/content/kan/kan-actual/p-11039/",
       "section": "kan/kan-actual"
-    },
-    {
-      "id": "kan_670715",
-      "title": "כאן 11 - שובו של השריף",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670715/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_759533",
@@ -2456,18 +2558,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_781792",
-      "title": "כאן 11 - שיחה בשניים | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-781792/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_773813",
-      "title": "כאן 11 - שיחות קיץ | תוכניות מלאות לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-773813/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1066085",
       "title": "כאן 11 - שימי תבורי | 50 שנות יצירה",
       "url": "https://www.kan.org.il/content/archive1/projects/p-1066085/",
@@ -2484,12 +2574,6 @@
       "title": "כאן 11 - שישה אפסים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-389355/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_671090",
-      "title": "כאן 11 - שישי בגאון",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671090/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_1050341",
@@ -2516,12 +2600,6 @@
       "section": "kan/kan-actual"
     },
     {
-      "id": "kan_670803",
-      "title": "כאן 11 - שלוש, ארבע, חמש וחצי | פרקים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670803/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1042052",
       "title": "כאן 11 - שלושה צלמים בביצה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1042052/",
@@ -2546,39 +2624,9 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_769693",
-      "title": "כאן 11 - שמונה דקות ביום",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-769693/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670839",
-      "title": "כאן 11 - שמיניות באוויר",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670839/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_671168",
       "title": "כאן 11 - שמעון טסלר בדוקו אחרי הלך הרוח בתקופת בחירות 1984",
       "url": "https://www.kan.org.il/content/archive1/vod/p-671168/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670731",
-      "title": "כאן 11 - שניים אוחזין",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670731/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670791",
-      "title": "כאן 11 - שעה טובה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670791/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_670815",
-      "title": "כאן 11 - שערורייה!",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670815/",
       "section": "archive1/vod"
     },
     {
@@ -2586,12 +2634,6 @@
       "title": "כאן 11 - שעת אפס",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12657/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_765508",
-      "title": "כאן 11 - שקט משדרים",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-765508/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_11288",
@@ -2624,22 +2666,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_671135",
-      "title": "כאן 11 - תוסס",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671135/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1079063",
       "title": "כאן 11 - תחתונים וגופיות",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1079063/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_839450",
-      "title": "כאן 11 - תיאטרון מצולם | קטעים נבחרים לצפייה ישירה",
-      "url": "https://www.kan.org.il/content/archive1/projects/p-839450/",
-      "section": "archive1/projects"
     },
     {
       "id": "kan_12274",
@@ -2666,18 +2696,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_670660",
-      "title": "כאן 11 - תן-קו",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-670660/",
-      "section": "archive1/vod"
-    },
-    {
-      "id": "kan_982745",
-      "title": "כאן 11 - תעודת זהות | פרקים מלאים לצפייה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-982745/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12459",
       "title": "כאן 11 - תעלומות",
       "url": "https://www.kan.org.il/content/dig/digital/p-12459/",
@@ -2690,16 +2708,16 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_761676",
-      "title": "כאן 11 - תצפית",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-761676/",
-      "section": "archive1/vod"
+      "id": "kan_12499",
+      "title": "כאן 11 - אגדת חורבן",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-12499/",
+      "section": "kan/kan-11"
     },
     {
-      "id": "kan_671191",
-      "title": "כאן 11 - תקומה",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671191/",
-      "section": "archive1/vod"
+      "id": "kan_11297",
+      "title": "כאן 11 - ביקורת נוסטלגיה",
+      "url": "https://www.kan.org.il/content/dig/digital/p-11297/",
+      "section": "dig/digital"
     }
   ]
 }

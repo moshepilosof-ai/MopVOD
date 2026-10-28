@@ -6,7 +6,7 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-904543/",
    "series_id": "904543",
-   "updated": "2026-10-28 09:30",
+   "updated": "2026-10-28 16:27",
    "sub_categories": [
     {
      "name": "עונה 2",
@@ -539,6 +539,16 @@
        "plot": "יובל מנדלסון ממליץ על הספר \"רצח בשבת בבוקר\" של בתיה גור",
        "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1027025/",
        "id": "1027025",
+       "season": 2
+      },
+      {
+       "name": "אלעד בר נוי | ההיסטוריה הסודית",
+       "logo": "https://www.kan.org.il/media/li1pn044/המלצה-שישית-אלעד-בר-נוי-ממליץ-על-הספר-ההיסטוריה-הסודית-של-דונה-טארט00_02_16_15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189249/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "אלעד בר נוי ממליץ על הספר \"ההיסטוריה הסודית\" של דונה טארט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1027024/",
+       "id": "1027024",
        "season": 2
       },
       {

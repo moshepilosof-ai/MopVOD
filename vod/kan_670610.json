@@ -6,11 +6,47 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-670610/",
    "series_id": "670610",
-   "updated": "2026-10-28 12:31",
+   "updated": "2026-10-28 16:37",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "בחירות 2026 - משדר מיוחד - גליק ותמר",
+       "logo": "https://www.kan.org.il/media/plqlvxuc/גליק-ותמר-לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259781/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "בחירות 2026 - משדר חדשות מיוחד עם יפעת גליק ותמר אלמוג.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1113870/",
+       "id": "1113870"
+      },
+      {
+       "name": "בחירות 2026 | משדר מיוחד עם שרון ואורי - 28.10.26 - 12:00",
+       "logo": "https://www.kan.org.il/media/4qciw0rc/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259771/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "בחירות 2026 - משדר חדשות מיוחד עם שרון וכסלר ואורי לוי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1113855/",
+       "id": "1113855"
+      },
+      {
+       "name": "בחירות 2026 | משדר מיוחד עם חן ליברמן וליאל קייזר - 28.10.26 - 10:00",
+       "logo": "https://www.kan.org.il/media/xq0djq0b/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259749/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "בחירות 2026 - משדר מיוחד- חן ליברמן וליאל קייזר",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1113737/",
+       "id": "1113737"
+      },
+      {
+       "name": "בחירות 2026 | משדר מיוחד עם מאיה ראכלין - 28.10.26 - 06:00",
+       "logo": "https://www.kan.org.il/media/5gtjsujb/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259740/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "בחירות 2026 - משדר מיוחד- מאיה ראכלין",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1113724/",
+       "id": "1113724"
+      },
       {
        "name": "בחירות 2026 | משדר מיוחד עם  מואב ורדי  - 03:00",
        "logo": "https://www.kan.org.il/media/f5thft2z/artboard-1.jpg",
