@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-28 23:30",
+ "updated": "2026-10-28 23:38",
  "sources": [
   {
    "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
@@ -34,6 +34,17 @@
    "episodes": 17416,
    "source": "youtube",
    "updated": "2026-10-28 23:30"
+  },
+  {
+   "id": "yt_https___www_ted_com_playlists_304_the_best_of_tedxtelaviv",
+   "name": "Speakers you secretly wish were your parents",
+   "url": "https://www.ted.com/playlists/304/the_best_of_tedxtelaviv",
+   "logo": "",
+   "file": "vod/yt_https___www_ted_com_playlists_304_the_best_of_tedxtelaviv.json",
+   "programs": 1,
+   "episodes": 10,
+   "source": "youtube",
+   "updated": "2026-10-28 23:38"
   }
  ]
 }
