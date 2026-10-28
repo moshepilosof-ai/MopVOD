@@ -1,0 +1,133 @@
+{
+ "name": "Speakers you secretly wish were your parents",
+ "url": "https://www.ted.com/playlists/304/the_best_of_tedxtelaviv",
+ "logo": "",
+ "categories": [
+  {
+   "name": "Speakers you secretly wish were your parents",
+   "type": "vod",
+   "source": "www.ted.com",
+   "resolve": "ytdlp",
+   "logo": "",
+   "program_url": "https://www.ted.com/playlists/304/the_best_of_tedxtelaviv",
+   "updated": "2026-10-28 23:38",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "https://www.ted.com/talks/ziauddin_yousafzai_my_daughter_malala",
+       "logo": "",
+       "url": "https://www.ted.com/talks/ziauddin_yousafzai_my_daughter_malala",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/ziauddin_yousafzai_my_daughter_malala",
+       "id": "https://www.ted.com/talks/ziauddin_yousafzai_my_daughter_malala",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion",
+       "logo": "",
+       "url": "https://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion",
+       "id": "https://www.ted.com/talks/rita_pierson_every_kid_needs_a_champion",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity",
+       "logo": "",
+       "url": "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity",
+       "id": "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/james_a_white_sr_the_little_problem_i_had_renting_a_house",
+       "logo": "",
+       "url": "https://www.ted.com/talks/james_a_white_sr_the_little_problem_i_had_renting_a_house",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/james_a_white_sr_the_little_problem_i_had_renting_a_house",
+       "id": "https://www.ted.com/talks/james_a_white_sr_the_little_problem_i_had_renting_a_house",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/e_o_wilson_advice_to_a_young_scientist",
+       "logo": "",
+       "url": "https://www.ted.com/talks/e_o_wilson_advice_to_a_young_scientist",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/e_o_wilson_advice_to_a_young_scientist",
+       "id": "https://www.ted.com/talks/e_o_wilson_advice_to_a_young_scientist",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/isabel_allende_how_to_live_passionately_no_matter_your_age",
+       "logo": "",
+       "url": "https://www.ted.com/talks/isabel_allende_how_to_live_passionately_no_matter_your_age",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/isabel_allende_how_to_live_passionately_no_matter_your_age",
+       "id": "https://www.ted.com/talks/isabel_allende_how_to_live_passionately_no_matter_your_age",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness",
+       "logo": "",
+       "url": "https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness",
+       "id": "https://www.ted.com/talks/dan_dennett_the_illusion_of_consciousness",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/pico_iyer_the_art_of_stillness",
+       "logo": "",
+       "url": "https://www.ted.com/talks/pico_iyer_the_art_of_stillness",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/pico_iyer_the_art_of_stillness",
+       "id": "https://www.ted.com/talks/pico_iyer_the_art_of_stillness",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/debra_jarvis_yes_i_survived_cancer_but_that_doesn_t_define_me",
+       "logo": "",
+       "url": "https://www.ted.com/talks/debra_jarvis_yes_i_survived_cancer_but_that_doesn_t_define_me",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/debra_jarvis_yes_i_survived_cancer_but_that_doesn_t_define_me",
+       "id": "https://www.ted.com/talks/debra_jarvis_yes_i_survived_cancer_but_that_doesn_t_define_me",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "https://www.ted.com/talks/john_wooden_the_difference_between_winning_and_succeeding",
+       "logo": "",
+       "url": "https://www.ted.com/talks/john_wooden_the_difference_between_winning_and_succeeding",
+       "date": null,
+       "plot": "",
+       "page": "https://www.ted.com/talks/john_wooden_the_difference_between_winning_and_succeeding",
+       "id": "https://www.ted.com/talks/john_wooden_the_difference_between_winning_and_succeeding",
+       "duration": null,
+       "resolve": "ytdlp"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
