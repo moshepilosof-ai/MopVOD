@@ -91,7 +91,8 @@ def _videos_to_episodes(entries):
         dur = e.get("duration")
         eps.append({
             "name": e.get("title") or vid,
-            "logo": best_thumb(e) or f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
+            # כתובת תמונה יציבה (בלי חתימת sqp שמשתנה בכל קריאה, אחרת כל בנייה נראית כשינוי)
+            "logo": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
             "url": e.get("url") or f"https://www.youtube.com/watch?v={vid}",
             "date": None,
             "plot": e.get("description") or "",
@@ -155,6 +156,87 @@ def build_channel(url, title, status=None, max_playlists=None):
     return {"name": title, "url": url, "logo": channel_thumb, "categories": categories}
 
 
+# ---------------------------------------------------------------- dates
+# רשימות שטוחות של YouTube לא כוללות תאריך העלאה. משלימים אותו לכל סרטון בנפרד (yt-dlp, במקביל),
+# שומרים בקטלוג, ובריצות הבאות רק פרקים חדשים נבדקים.
+DATE_WORKERS = 8
+
+
+def _episodes(data):
+    for cat in data.get("categories", []):
+        for sc in cat.get("sub_categories", []):
+            for ep in sc.get("channels", []):
+                yield ep
+
+
+def carry_dates(old, new):
+    """תאריכים (ותקצירים) שכבר ידועים מהקטלוג הקודם עוברים לקטלוג החדש לפי מזהה הפרק."""
+    if not old:
+        return 0
+    known = {str(ep.get("id")): ep for ep in _episodes(old) if ep.get("date")}
+    n = 0
+    for ep in _episodes(new):
+        o = known.get(str(ep.get("id")))
+        if o:
+            ep["date"] = o["date"]
+            if o.get("plot") and not ep.get("plot"):
+                ep["plot"] = o["plot"]
+            n += 1
+    return n
+
+
+def _video_date(url):
+    try:
+        info = _ydl(flat=False, extra={"youtube_include_dash_manifest": False, "youtube_include_hls_manifest": False}).extract_info(url, download=False, process=False) or {}
+    except Exception:  # noqa: BLE001
+        return None, None
+    d = info.get("upload_date") or info.get("release_date")
+    return (f"{d[:4]}-{d[4:6]}-{d[6:8]}" if d and len(d) == 8 else None), (info.get("description") or "")[:600]
+
+
+def fill_dates(data, status=None, limit=None, workers=DATE_WORKERS):
+    """משלים תאריך לפרקים שאין להם. limit = כמה לכל היותר בריצה הזו (הראשונים ברשימות = החדשים).
+    מחזיר כמה הושלמו. נעצר אם 20 הניסיונות הראשונים נכשלו (למשל חסימה של YouTube לשרת)."""
+    import concurrent.futures
+    status = status if status is not None else {}
+    todo = [ep for ep in _episodes(data) if not ep.get("date") and ep.get("url")]
+    if limit:
+        todo = todo[:limit]
+    if not todo:
+        return 0
+    done = ok = 0
+    total = len(todo)
+    status.update(step=f"משלים תאריכים 0/{total}", progress=0)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, workers)) as ex:
+        futures = {ex.submit(_video_date, ep["url"]): ep for ep in todo}
+        for fut in concurrent.futures.as_completed(futures):
+            ep = futures[fut]
+            date, plot = fut.result()
+            done += 1
+            if date:
+                ep["date"] = date
+                if plot and not ep.get("plot"):
+                    ep["plot"] = plot
+                ok += 1
+            if done % 25 == 0 or done == total:
+                status.update(step=f"משלים תאריכים {done}/{total}", progress=done / total)
+            if status.get("cancel"):
+                break
+            if done >= 20 and ok == 0:
+                status.update(step="השלמת תאריכים נעצרה: YouTube לא עונה לבקשות הבודדות (ימולא בריצה הבאה)")
+                break
+    return ok
+
+
+def sort_by_date(data):
+    """בכל תוכנית: אם לכל הפרקים יש תאריך - מהחדש לישן (כך "הפרק הבא" בנגן נכון)."""
+    for cat in data.get("categories", []):
+        for sc in cat.get("sub_categories", []):
+            eps = sc.get("channels", [])
+            if eps and all(ep.get("date") for ep in eps):
+                eps.sort(key=lambda ep: ep["date"], reverse=True)
+
+
 def catalog_stats(data):
     n_eps = sum(len(sc["channels"]) for c in data.get("categories", []) for sc in c.get("sub_categories", []))
     return len(data.get("categories", [])), n_eps
@@ -188,7 +270,7 @@ def _save(path, data):
         json.dump(data, f, ensure_ascii=False, indent=1)
 
 
-def rebuild_all(root, only=None):
+def rebuild_all(root, only=None, dates_per_source=2000):
     sources = _load(os.path.join(root, SOURCES_FILE), [])
     old_index = {e["id"]: e for e in _load(os.path.join(root, INDEX_FILE), {}).get("sources", [])}
     index = []
@@ -214,6 +296,11 @@ def rebuild_all(root, only=None):
             print("   (ריק - שומרים את הקטלוג הקודם)")
             index.append(old_index.get(sid) or index_entry(sid, old))
             continue
+        carried = carry_dates(old, data)
+        filled = fill_dates(data, status, limit=dates_per_source)
+        sort_by_date(data)
+        missing = sum(1 for ep in _episodes(data) if not ep.get("date"))
+        print(f"   תאריכים: {carried} ידועים, {filled} הושלמו עכשיו, {missing} עדיין חסרים")
         if old and not catalog_changed(old, data):
             print(f"   ללא שינוי: {programs} תוכניות, {episodes} פרקים")
             index.append(old_index.get(sid) or index_entry(sid, old))
@@ -232,6 +319,7 @@ def main():
     ap.add_argument("--add", help="כתובת ערוץ/פלייליסט להוספה ל-sources.json ובנייה")
     ap.add_argument("--title", help="שם לתצוגה (עם --add)")
     ap.add_argument("--search", help="חיפוש ערוצים לפי שם (בדיקה)")
+    ap.add_argument("--dates", type=int, default=2000, help="כמה תאריכים חסרים להשלים לכל מקור בריצה (0 = בלי)")
     args = ap.parse_args()
     if args.search:
         for r in search_channels(args.search):
@@ -243,10 +331,10 @@ def main():
         title = args.title or (search_channels(args.add) or [{"title": args.add}])[0]["title"]
         sources = [s for s in sources if s.get("id") != sid] + [{"id": sid, "name": title, "url": args.add}]
         _save(os.path.join(HERE, SOURCES_FILE), sources)
-        rebuild_all(HERE, only=[sid])
+        rebuild_all(HERE, only=[sid], dates_per_source=args.dates)
         return
     if args.all or args.only:
-        rebuild_all(HERE, only=args.only)
+        rebuild_all(HERE, only=args.only, dates_per_source=args.dates)
         return
     ap.print_help()
 
