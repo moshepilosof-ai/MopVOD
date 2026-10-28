@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-28 19:55",
+ "updated": "2026-10-28 22:01",
  "sources": [
   {
    "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
@@ -14,17 +14,6 @@
    "updated": "2026-10-28 20:06"
   },
   {
-   "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
-   "name": "חדשות 13",
-   "url": "https://www.youtube.com/channel/UCvQmPpU20hw1Trss_CVwaew",
-   "logo": "https://yt3.googleusercontent.com/AVbz_iWuCltpOm4nO-An-n2PmT4dYcC7VMFQzhFaOUDpsXxrIWmKr8q_C7ge9HuWI3BSBZOso64=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
-   "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
-   "programs": 57,
-   "episodes": 5514,
-   "source": "youtube",
-   "updated": "2026-10-28 19:53"
-  },
-  {
    "id": "yt_UCOyYs3ZtsGMmt3L5eaywsXA",
    "name": "רשת 13",
    "url": "https://www.youtube.com/channel/UCOyYs3ZtsGMmt3L5eaywsXA",
@@ -34,6 +23,17 @@
    "episodes": 7065,
    "source": "youtube",
    "updated": "2026-10-28 19:55"
+  },
+  {
+   "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
+   "name": "חדשות 13",
+   "url": "https://www.youtube.com/channel/UCvQmPpU20hw1Trss_CVwaew",
+   "logo": "https://yt3.googleusercontent.com/AVbz_iWuCltpOm4nO-An-n2PmT4dYcC7VMFQzhFaOUDpsXxrIWmKr8q_C7ge9HuWI3BSBZOso64=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+   "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
+   "programs": 57,
+   "episodes": 5506,
+   "source": "youtube",
+   "updated": "2026-10-28 20:01"
   }
  ]
 }
