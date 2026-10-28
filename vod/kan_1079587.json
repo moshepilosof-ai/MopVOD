@@ -1,0 +1,49 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - המתלבטים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1079587/",
+   "series_id": "1079587",
+   "updated": "2026-10-28 09:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פעם ראשונה בקלפי: הצעירים והצעירות שיכולים להכריע את הבחירות",
+       "logo": "https://www.kan.org.il/media/0wxh0cj1/s0544723_item0700_09_40_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258922/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-14",
+       "plot": "פרויקט מיוחד: שישה מנדטים - מספר הקסם שכנראה יסלול את הדרך לממשלה הבאה. והפעם: מה יצביעו הצעירים והצעירות מכל המגזרים, שיכולים להכריע את הבחירות?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1079587/s1/1076483/",
+       "id": "1076483",
+       "season": 1
+      },
+      {
+       "name": "לא מצביעים: הקולות האבודים שיכריעו את הבחירות",
+       "logo": "https://www.kan.org.il/media/3xnanvxm/מצביע.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224865/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "שישה מנדטים - מי מרכיבים את מספר הקסם הזה, שכנראה יסלול את הדרך לממשלה הבאה? והפעם: מי לא יוצאים להצביע, והאם הם יכריעו את הבחירות?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1079587/s1/1075938/",
+       "id": "1075938",
+       "season": 1
+      },
+      {
+       "name": "\"עדיין על הגדר: מי הם ששת המנדטים שיכריעו את הבחירות?\"",
+       "logo": "https://www.kan.org.il/media/azwfbouu/בחירות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224631/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "שישה מנדטים – זה מספר הקסם שמחפשים שני הגושים כדי להקים את הממשלה הבאה, רק שעוד לא ברור - איפה הם מסתתרים, והאם הם יהפכו ללשון המאזניים? יצאנו להבין מאיפה תגיע ההכרעה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1079587/s1/1075368/",
+       "id": "1075368",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

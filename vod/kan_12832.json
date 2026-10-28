@@ -1,0 +1,850 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קופה ראשית",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12832/",
+   "series_id": "12832",
+   "updated": "2026-10-28 13:11",
+   "sub_categories": [
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "קופה ראשית | ספיישל בחירות 2026 - אמנון לשלטון",
+       "logo": "https://www.kan.org.il/media/cjsoicse/קופה-ראשית-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259546/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-27",
+       "plot": "כוכבה מנצלת את תקופת הבחירות למטרותיה ושוני מתמודדת לרשימה של אחת המפלגות. אמנון הופך לגורם מכריע בבחירות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s6/1113189/",
+       "id": "1113189",
+       "season": 6
+      },
+      {
+       "name": "קופה ראשית עונה 6 | פרק 2 - אנטולי קצב עליון",
+       "logo": "https://www.kan.org.il/media/aqrj0enl/לאתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248982/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "אנטולי ממונה לקצב ראשי בקצבייה של דוד שלו, ומציע לניסים הצעה מפוקפקת. שירה לא מצליחה לגלות מאיזה מוצא העובדת החדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s6/1102541/",
+       "id": "1102541",
+       "season": 6
+      },
+      {
+       "name": "קופה ראשית עונה 6 | פרק 4 - זהבה וארנון",
+       "logo": "https://www.kan.org.il/media/ejucl3dr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244719/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "טל פרידמן מגיע לקופה של כוכבה ומקבל השראה. ניסים מסתבך עם שיפוצניק שלא מפסיק לבקש ממנו עזרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s6/1098491/",
+       "id": "1098491",
+       "season": 6
+      },
+      {
+       "name": "קופה ראשית עונה 6 | פרק 3 -  ניסים משלים מניין",
+       "logo": "https://www.kan.org.il/media/qyadt0cc/נקי-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244718/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "ניסים מתקשה למצוא מניין לתפילה. ראמזי עושה הכל בשביל שגברת ברבירו לא תעזוב את הסופר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s6/1098490/",
+       "id": "1098490",
+       "season": 6
+      },
+      {
+       "name": "קופה ראשית עונה 6 | פרק 1 - אבא גנוב",
+       "logo": "https://www.kan.org.il/media/501jdh55/קופה-ראשית-61.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246979/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "שירה מתחרה בתחרות פואטרי סלאם ארצית וראמזי מביא את הצוות לעודד. אמנון פוגש אקסית מיתולוגית שחושפת בפניו סוד שמטלטל את עולמו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s6/1098487/",
+       "id": "1098487",
+       "season": 6
+      },
+      {
+       "name": "קופה ראשית עונה 6 | פרק 6 - ראמזי תמיד אשם",
+       "logo": "https://www.kan.org.il/media/nmug0edp/s0580002-kupa-s06e05_last_scene_clean_h265_12mbps_2026-10-1900_21_27_13still009.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244721/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "ניסים ואנטולי מסתבכים ומפילים את האשמה על ראמזי. אמנון הופך לגורו של כלכלה נבונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s6/1098376/",
+       "id": "1098376",
+       "season": 6
+      },
+      {
+       "name": "קופה ראשית עונה 6 | פרק 5 - שמור לי תור לי",
+       "logo": "https://www.kan.org.il/media/xj4k5tr3/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244720/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "ניסים ואנטולי מפרקים את החברות וכוכבה תקועה באמצע. לפראנקו יש רעיון לסטארטאפ מהפכני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s6/1098375/",
+       "id": "1098375",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "קופה ראשית עונה 5 | הצצה לפרק הבכורה של עונה 5",
+       "logo": "https://www.kan.org.il/media/dladlptb/4756497c-8de3-48be-8b04-92f5ce14d133.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uyhw26d6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-12",
+       "plot": "שירה מפתה את כל העובדים להרמת כוסית עם מתנה לחג. מי ישבר ראשון? הצצה לפרק הבכורה של קופה ראשית עונה 5",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/823652/",
+       "id": "823652",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "קופה ראשית | פרק ספיישל - עצמאות גרציאן",
+       "logo": "https://www.kan.org.il/media/tb5d3vos/קופה-ראשית.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3jt6823a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-13",
+       "plot": "פרק מיוחד ליום העצמאות: אביחי שוכר את שירותי הניפנוף של ניסים ואנטולי לברביקיו של ההנהלה, שירה מגלה שהיא לא מוזמנת וראמזי עושה לאמנון חיים קשים ברכישת גריל חשמלי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/748627/",
+       "id": "748627",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית | פרק מיוחד - קופת ברזל",
+       "logo": "https://www.kan.org.il/media/5bkh0ynz/טמבנייל2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yy028kkx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "קופה ראשית מתגייסת: עובדי ולקוחות הסופר הכי מפורסם במדינה מנסים להתמודד עם השגרה המאתגרת על רקע המלחמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/666822/",
+       "id": "666822",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 21 - עושים קופה 2023",
+       "logo": "https://www.kan.org.il/media/erkoyqnk/s0437423_vod_1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jbskw8uo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-13",
+       "plot": "מאחורי הקלעים של העונה הרביעית של קופה ראשית. כל הסודות נחשפים!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/529636/",
+       "id": "529636",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 20 - ראמזי חזור הביתה",
+       "logo": "https://www.kan.org.il/media/c5adugxl/s0399262_1_2.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_258n00fh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-13",
+       "plot": "פרק סיום העונה - ראמזי חזור הביתה. שירה מחפשת מחליף לראמזי, שמאז עזיבתו אבדו עקבותיו. עובדי הסופר נוסעים לג'אסר לחפש אותו ומתחילים להשלים עם העובדה שאולי הוא לא יחזור לעולם...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/529627/",
+       "id": "529627",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 19 - הצתה מאוחרת",
+       "logo": "https://www.kan.org.il/media/rubm1xqn/לאתר-פרק-19.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6fpnrrj2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-05",
+       "plot": "התרגשות בסניף. שירה צריכה לבחור שני עובדים שישתתפו בפרסומת לרשת עם נועה קירל. אנטולי מפסיד לצ'יבוטרו בהתערבות בעוד ראמזי לוקח החלטה גורלית שמשאירה את כולם פעורי פה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/517960/",
+       "id": "517960",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 18 - אמנון עובד בסופר",
+       "logo": "https://www.kan.org.il/media/h5qeetjz/vlcsnap-2023-08-29-07h35m27s393.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s5m9en7h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-30",
+       "plot": "אמנון מתחיל לעבוד בסופר בשביל הופעה של חיים משה לעובדים בלבד. פרנקו נקלע לריב עם תייר, ונאלץ לריב באנגלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/509743/",
+       "id": "509743",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 17 - הטוסט של גריאני",
+       "logo": "https://www.kan.org.il/media/xdzb525j/vlcsnap-2023-08-23-07h51m38s887.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_224zhzz1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-23",
+       "plot": "ניסים, כוכבה ואנטולי חושפים סוף-סוף את המקום האהוב עליהם בעולם - \"הטוסט של גריאני\". שירה במצוקה חמורה של כוח אדם. אמנון יוצא לשנת שבתון ומטריף את עובדי הסופר יותר מהרגיל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/499123/",
+       "id": "499123",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 |  פרק 16- המחליפה",
+       "logo": "https://www.kan.org.il/media/bj0jy0qq/טמבנייל-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oh3ibb1e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-16",
+       "plot": "שירה יוצאת להשתלמות ומביאה במקומה מנהלת מחליפה בעוד מוש מגלה למה תמיד עוקפים אותו בתור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/489439/",
+       "id": "489439",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 14 - יום האהבה",
+       "logo": "https://www.kan.org.il/media/emknkaky/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t3zyukcc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "ספיישל ט\"ו באב! כוכבה ממורמרת שאין לה דייט. פרנקו מגלה ברגע האחרון ששכח לקנות מתנה לשירלי, ושירה מטריפה את כולם עם יכולות השידוך שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/463438/",
+       "id": "463438",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 15 - אתגר המיקרו",
+       "logo": "https://www.kan.org.il/media/uwxedoyc/קופה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r54njmqc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-24",
+       "plot": "הסופר יוצא במבצע \"מצא זול יותר וקבל כספך חזרה\", ואמנון לוקח את זה קצת רחוק מדי. ניסים עושה הכל בשביל שכוכבה תחזיר לו מאה שקל. פרנקו מבריז מהאזכרה של אמא של שירלי ומסתבך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/458775/",
+       "id": "458775",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 13 - המשקיע",
+       "logo": "https://www.kan.org.il/media/tyoedain/vlcsnap-2023-07-17-09h34m30s198.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rgn48t8i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-16",
+       "plot": "יששכר מבקש מאביחי ללוות משקיע קנדי שמגיע לארץ. אמנון עושה הכל בשביל להחזיר \"כנפי רעל\" שרכש בסופר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/445907/",
+       "id": "445907",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 12 - העורבים",
+       "logo": "https://www.kan.org.il/media/teuewqmq/ניסים-מופתע.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mlmogo8p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-04",
+       "plot": "כוכבה מוצאת שותפים מפתיעים לנקמה בשירה, ראמזי יוצא מגדרו בשביל שגברת ז'וז' לא תעזוב, וניסים סובל מסיוטים על העבודה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/430267/",
+       "id": "430267",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית 4 | פרק 11 - לוויה ראשית - חלק ב'",
+       "logo": "https://www.kan.org.il/media/jahd2dd3/לאתר-עונה-4-פרק-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_024nre1r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-28",
+       "plot": "יום ההלוויה של לאה שקדי: אביחי מנצל אותו למטרות פוליטיות וכוכבה למטרות רומנטיות. אמנון קונה מתנה לאמא שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/419297/",
+       "id": "419297",
+       "season": 4
+      },
+      {
+       "name": "'קופה ראשית עונה 4 | פרק 10 - לוויה ראשית - חלק א",
+       "logo": "https://www.kan.org.il/media/33kciwhn/טמבנייל-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jl3sasxn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-20",
+       "plot": "המלחמה של אביחי וגדי לייפר על תפקיד סמנכ\"ל הרשת מגיעה לשיאה; כוכבה מחפשת א\"א, כלומר אלמן אמיד; עובדי הסופר מתבשרים על מותה המפתיע של דמות מפתח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/405107/",
+       "id": "405107",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 9 - כי הלקוח הוא גם חבר",
+       "logo": "https://www.kan.org.il/media/kjep2p2u/תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1l6hnkxl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-13",
+       "plot": "סוף, הבן של שוני, נתקע בעגלה רגע לפני אודישן חשוב; כוכבה שבוייה בהמתנה לשירות לקוחות בטלפון; פרנקו נכנס לעימות בדוכן עיתונים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/393227/",
+       "id": "393227",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 8 - מרד בר כוכבה",
+       "logo": "https://www.kan.org.il/media/himjokvs/טמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w6dy5g0u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-07",
+       "plot": "כוכבה מגלה לתדהמתה ששנקין מרוויח יפה, ודורשת מעכשיו כסף על השתתפותה בתוכנית. אנטולי מגיע לעבודה בלוק חדש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/389973/",
+       "id": "389973",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 7 - קופה אדומה",
+       "logo": "https://www.kan.org.il/media/rfhf305d/s0399249_100_06_00_19still036.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_13b9cvbn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-30",
+       "plot": "לניסים ואנטולי נמאס שרק השליחים מקבלים טיפים. לשוני נמאס שמוש הפראייר קונה כל דבר שמנסים למכור לו, ומלמדת אותו להגיד גם לא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/380757/",
+       "id": "380757",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 6 - אבא של נעמי",
+       "logo": "https://www.kan.org.il/media/aywfxfnu/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vnfoyflo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-24",
+       "plot": "אבא של נעמי מגיע לביקור פתע בעוד ניסים עולה על שיטה חדשה להתבטל. פרנקו מנסה להשיג פיצויים מהסופר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/374279/",
+       "id": "374279",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 5 - האקדמיה ללשון",
+       "logo": "https://www.kan.org.il/media/0sbddd55/imgid-100636_z.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q3gq4xv8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-17",
+       "plot": "לעובדי הסופר נמאס ששירה מתקנת אותם בעברית, בעוד עבריינים מגיעים לסופר ודורשים את הבקבוקים למחזור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/365662/",
+       "id": "365662",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 4 - בר מצווה לאנטולי",
+       "logo": "https://www.kan.org.il/media/wsunkj5a/את-החיים-בלב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ibw56c1a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "ניסים מציע ללמד את אנטולי לבר מצווה מאוחרת. אסתי יוצאת למלחמה באוייב הכי גדול שלה-  הווליום של כוכבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/362007/",
+       "id": "362007",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 3 - טיטינסקים לא קונים בעונה",
+       "logo": "https://www.kan.org.il/media/a5dnpohj/2023-5-3-imgid-99628_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pcevjog2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "החורף הגיע ולאמנון בדיוק נשברת המטרייה. עובדי הסופר במאבק עם לקוחה שמתעקשת להגיע תמיד דקה לפני הסגירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/361461/",
+       "id": "361461",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 2 - הג'ל של ראמזי",
+       "logo": "https://www.kan.org.il/media/whxjqzjf/https-kanstaticazureedgenet-download-pictures-2023-4-23-imgid-98769_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w947m7ob/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה רביעית לסדרה הכי ישראלית שיש, זוכת פרס האקדמיה.\nפרק 2- הג'ל של ראמזי. יום העצמאות בפתח ואביחי מועמד לתואר יקיר העיר יבנה. שודד הסופרים מטיל אימה על הסופרים באיזור. ראמזי מתמודד עם מחסור בג'ל הקבוע שלו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/164741/",
+       "id": "164741",
+       "season": 4
+      },
+      {
+       "name": "קופה ראשית עונה 4 | פרק 1 - ריקוד מושחת",
+       "logo": "https://www.kan.org.il/media/tsthnsy4/https-kanstaticazureedgenet-download-pictures-2023-4-25-imgid-98949_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n43jd6mv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בפרק פתיחת העונה אנטולי מגלה כשרון יוצא דופן וניסים רושם אותו לתחרות כשרונות. כוכבה באובססיה להוכיח שהיא שוקלת פחות משירה, ואמנון מאבד שנקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/164738/",
+       "id": "164738",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "קופה ראשית עונה 3 | פרק 20 - חופה ראשית",
+       "logo": "https://www.kan.org.il/media/ahqfscmp/https-kanstaticazureedgenet-download-pictures-2021-11-26-imgid-64927_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zwye398c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חופה ראשית - פרק סיום העונה. החתונה של גון ואוצר מתקרבת. שינוי של הרגע האחרון מוביל לחתונה שאף אחד לא ציפה לה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133114/",
+       "id": "133114",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 19 - חנוכה",
+       "logo": "https://www.kan.org.il/media/5dmpfdam/https-kanstaticazureedgenet-download-pictures-2021-11-19-imgid-64525_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zwn2iij7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שוני נלחמת בדוכן תפילין שנפתח לרגל החג מחוץ לסניף. אביחי נתקע בלי סידור לילדה בחופשת החנוכה, וניסים מנסה למכור את הרכב הישן של אשתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133112/",
+       "id": "133112",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 18 - מאשה חודש תשע",
+       "logo": "https://www.kan.org.il/media/ebrhbpjk/https-kanstaticazureedgenet-download-pictures-2021-11-14-imgid-64213_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_39qpmixn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קומדיה המתרחשת בסניף סופר \"שפע יששכר\". פרק 18. מאשה חודש תשע - אנטולי בלחץ לקראת הלידה של מאשה. ראמזי נקלע לסכסוך עם המעדניה הסמוכה.  ניסים וכוכבה פוצחים במלחמת מתיחות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133109/",
+       "id": "133109",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 17 - שוד ושבר",
+       "logo": "https://www.kan.org.il/media/5rofqtq5/https-kanstaticazureedgenet-download-pictures-2021-11-2-imgid-63518_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0uqk5wrq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כוכבה וניסים נלחמים בכוונתה של שירה לפטר את צ'יבוטרו. שוני ומוש תקועים בחניון בגלל רכב שחסם אותם. אמנון מסתבך עם נגן רחוב בכניסה לסופר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133107/",
+       "id": "133107",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 16 - קקפונים",
+       "logo": "https://www.kan.org.il/media/fz0mf2br/https-kanstaticazureedgenet-download-pictures-2021-10-27-imgid-63205_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_doz50dac/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קומדיה המתרחשת בסניף סופר \"שפע יששכר\". פרק 16 - קקפונים: שירה מנסה להיפטר מקולגה אובססיבית שמנסה להתחבר איתה. הקופאיות מתמודדות עם מכת הקקפונים - לקוחות שמדברים בטלפון בקופה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133104/",
+       "id": "133104",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 15 - עקיצות",
+       "logo": "https://www.kan.org.il/media/5f2navn3/https-kanstaticazureedgenet-download-pictures-2021-10-22-imgid-62969_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mbsfbd14/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חדשה לקומדיה המתרחשת בסניף סופר \"שפע יששכר\". פרק 15. עקיצות - מכת יתושים תוקפת את הסופר, ניסים וכוכבה מוצאים פתרון מקורי לבעיה. ראמזי יוצא שוב למשימה בלשית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133101/",
+       "id": "133101",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 14 - ראמזי טהור לעד",
+       "logo": "https://www.kan.org.il/media/wrkh33cs/https-kanstaticazureedgenet-download-pictures-2021-10-14-imgid-62528_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u2xsbwcl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קומדיה המתרחשת בסניף סופר \"שפע יששכר\". פרק 14. ראמזי טהור לעד: ראמזי עושה הכל בשביל להתחבר עם עובד חדש בסופר וכוכבה מארגנת 'קליפ חתונה' לכבוד החתונה של הבן שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133098/",
+       "id": "133098",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 13 - דקלה",
+       "logo": "https://www.kan.org.il/media/jv1pbqsg/https-kanstaticazureedgenet-download-pictures-2021-10-10-imgid-62209_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gbkacurp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קומדיה. פרק 13 - דקלה. שירה צועקת על הלקוחה הלא נכונה, ועושה הכל  כדיי להתחמק מעונש. ניסים ואנטולי מביאים לראשונה נתח ואגיו יוקרתי לקצביה, מה שגורם למשבר עמוק ביחסים שלהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133095/",
+       "id": "133095",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 12 - אבא של טיטינסקי",
+       "logo": "https://www.kan.org.il/media/jsqliffq/https-kanstaticazureedgenet-download-pictures-2021-10-1-imgid-61703_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_36oxutp8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אמנון מנסה להתמודד עם בן הזוג החדש של אמא שלו. ראמזי נלחם בצו הגירוש שנשלח אל עוזרו הנאמן דייזי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133092/",
+       "id": "133092",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 11 - אמא של טיטינסקי",
+       "logo": "https://www.kan.org.il/media/czneflyf/https-kanstaticazureedgenet-download-pictures-2021-9-24-imgid-61346_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_18dxu1pv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אנטולי \"נדבק\" בחיידק האופניים. אמנון מחפש מחליף שיקח את אמא שלו לסופר במקומו. שירה שוכחת לקנות מתנה ליומולדת של אביחי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133089/",
+       "id": "133089",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 10 - סרגיי פלאץ׳",
+       "logo": "https://www.kan.org.il/media/ghle02x3/https-kanstaticazureedgenet-download-pictures-2021-9-15-imgid-60965_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kgjp9o69/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרט מפתיע בביוגרפיה של אנטולי משנה ברגע את החוקים בקצביה. שירה מכריזה על תחרות העובד המצטיין וגורמת לראמזי לאבד את זה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133086/",
+       "id": "133086",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 9 - עוד שישי בסופר",
+       "logo": "https://www.kan.org.il/media/msuj3wuo/https-kanstaticazureedgenet-download-pictures-2021-9-12-imgid-60776_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0u7ww7ra/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"פרנקו שוב מסתבך עם הקניות ביום שישי. אמנון נלחם על זכותו לקבל את המבצע של \"עיתון בשקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133083/",
+       "id": "133083",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 8 - סלסילות",
+       "logo": "https://www.kan.org.il/media/ml2jc1yi/https-kanstaticazureedgenet-download-pictures-2021-9-3-imgid-60387_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_78f0wfds/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עובדי הסופר נאלצים להתמודד עם עובדת חדשה בסופר, שהיא במקרה גם אשתו של אביחי. ראמזי מנסה לשדך ללקוחות את הירקות הפחות יפים בירקניה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133081/",
+       "id": "133081",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 7 - הפצוע המולדבי",
+       "logo": "https://www.kan.org.il/media/m3qdvsci/https-kanstaticazureedgenet-download-pictures-2021-8-26-imgid-59984_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o0cwkkdx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "במהלך העבודה אנטולי נפצע ברגלו ונאלץ לעבור לתפקיד אחר בסופר. שוני מנסה להוכיח לדליה שהיא לא פחות ידידותית לסביבה ממנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133078/",
+       "id": "133078",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 6 - יולנדה",
+       "logo": "https://www.kan.org.il/media/rexl2nzq/https-kanstaticazureedgenet-download-pictures-2021-8-22-imgid-59705_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_izrc96f1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קומדיה המתרחשת בסופר \"שפע יששכר\". פרק 6. יולנדה: כוכבה מתערבת לבנה הבכור במערכות היחסים וגורמת לו למהפכים בחיים. ראמזי נלחם על מכונת השטיפה הישנה של הסופר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133076/",
+       "id": "133076",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 5 - כוכבה היפה",
+       "logo": "https://www.kan.org.il/media/tumf0iaq/https-kanstaticazureedgenet-download-pictures-2021-8-16-imgid-59419_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x3ws6gqf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אביחי מנסה לקבל כתבה במקומון ודורש משירה למצוא לו לקוח שזקוק לתרומה. עובדת חדשה בסופר (יובל שרף בהופעת אורח) גורמת לכוכבה בעיות זהות וביטחון עצמי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133073/",
+       "id": "133073",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 4 - יומולדת בסופר",
+       "logo": "https://www.kan.org.il/media/xxchaxv5/https-kanstaticazureedgenet-download-pictures-2021-8-5-imgid-58659_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cxas4zeg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שירה מחליטה על יוזמה חדשה לחגיגות ימי ההולדת של העובדים ונאלצת להתמודד עם ההשלכות של החלטתה. שוני מנסה לשכנע את בנה לא לקנות ממתקים בסופר ומסבכת בכך את ניסים ואנטולי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133071/",
+       "id": "133071",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 3 - 15 דקות",
+       "logo": "https://www.kan.org.il/media/wu5nox1t/https-kanstaticazureedgenet-download-pictures-2021-8-1-imgid-58352_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g8cyt11h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אמנון נלחם בחוק החדש שמחייב תשלום על חניה בסופר. פרנקו שוכח מה שירלי ביקשה ממנו לקנות ויוצא לחקירה בעידודו של ראמזי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133069/",
+       "id": "133069",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 2 - קוקו וקוקו",
+       "logo": "https://www.kan.org.il/media/plodx3xf/https-kanstaticazureedgenet-download-pictures-2021-7-26-imgid-57965_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2ki7470h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שירה מנסה לקדם את עובדי הסופר האתיופים ולמרות מאמציה גורמת לתקרית גזענית. ראמזי מתכונן לראיון חשוב אצל מנהל כוח האדם של הרשת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133067/",
+       "id": "133067",
+       "season": 3
+      },
+      {
+       "name": "קופה ראשית עונה 3 | פרק 1 - בקבוק בלי פקק",
+       "logo": "https://www.kan.org.il/media/oeqlaeyo/https-kanstaticazureedgenet-download-pictures-2021-8-1-imgid-58311_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_82w8k0c5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שירה מעבירה את העובדות שלה קורס מקוצר בהגנה עצמית, אמנון מגיע לסופר עם בקשה חריגה, ניסים ואנטולי מחפשים תשובה לשאלה: מי משניהם יותר חתיך?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s3/133065/",
+       "id": "133065",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "קופה ראשית עונה 2 | פרק 20 - מה עושים בלי כוכבה",
+       "logo": "https://www.kan.org.il/media/5mxj5hem/https-kanstaticazureedgenet-download-pictures-2020-5-5-imgid-32944_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cyi4po0y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אמנון מגלה שכוכבה עזבה את הסניף ומתחיל לעשות ככל העולה על רוחו בסופר. לשירה עולים ספקות לגבי העזיבה של כוכבה. ראמזי מנהל קרב עקוב מדם עם האויבת מספר אחת של הסופר - הנמלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108612/",
+       "id": "108612",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 19 - מה עושים עם כוכבה",
+       "logo": "https://www.kan.org.il/media/euxlftv3/https-kanstaticazureedgenet-download-pictures-2020-4-30-imgid-32729_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0w4m9wy9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לשירה נמאס סופית מכוכבה. היא יוזמת מהלך ומצליחה לשכנע את מנהל הסופר המתחרה להציע לכוכבה לעבור אליו. האם כוכבה תסכים ותחצה את הקווים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108609/",
+       "id": "108609",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 18 - חמישים מיליון",
+       "logo": "https://www.kan.org.il/media/0bwboogb/https-kanstaticazureedgenet-download-pictures-2020-4-22-imgid-32306_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0casqzkz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עובדי הסופר מחליטים לשלוח ביחד טופס לוטו. אמנון מוצא על ספסל חליפה ישנה, שמשנה את חייו מן הקצה אל הקצה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108607/",
+       "id": "108607",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 17 - ראמזי ושודדי העגלות",
+       "logo": "https://www.kan.org.il/media/xbldvu4v/https-kanstaticazureedgenet-download-pictures-2020-4-12-imgid-31843_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_by2ib41h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לקראת ל\"ג בעומר ראמזי יוצא למלחמה בגנבי העגלות. פרנקו עושה הכל בשביל לקבל החזר על מוצר שקילקל בעצמו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108604/",
+       "id": "108604",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 16 - שירה לא אחראית",
+       "logo": "https://www.kan.org.il/media/bgpbbrd5/https-kanstaticazureedgenet-download-pictures-2020-4-9-imgid-31734_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gbbascsx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לשירה נמאס להרגיש כמו גננת בסופר. היא מחליטה להעביר לעובדים את כל הסמכויות על מנת להפוך אותם לעצמאיים יותר. החלטה שהיא עשויה להתחרט עליה...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108601/",
+       "id": "108601",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 15 - אמנון לא מתנצל",
+       "logo": "https://www.kan.org.il/media/gnyfuv1g/https-kanstaticazureedgenet-download-pictures-2020-4-7-imgid-31634_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e3w7edqc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אמנון מורחק מהירקניה בעקבות התנהגות בלתי הולמת ונאלץ להתמודד עם הגזירה. ניסים ואנטולי ממשיכים במסורת המתיחות שלהם על שאר העובדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108598/",
+       "id": "108598",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 14 - פסח בא",
+       "logo": "https://www.kan.org.il/media/5eyheiim/https-kanstaticazureedgenet-download-pictures-2020-3-31-imgid-31165_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x2g9r4th/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "קומדיה מוקומנטרית. ערב פסח והסופר מלא בלקוחות. פרנקו מנסה לחמוק מהקניות עם אשתו, שוני מנסה להצטייד בחמץ רגע לפני החג, וכוכבה ממציאה שיטה חדשה כיצד לעשות קניות בלי לקום מהכיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108595/",
+       "id": "108595",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 13 - הקרב על המזגן",
+       "logo": "https://www.kan.org.il/media/pr5pdlqj/https-kanstaticazureedgenet-download-pictures-2020-3-24-imgid-30765_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kvtuphm6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הקיץ הגיע ואיתו הריב הנצחי על הטמפרטורה שבה יפעל המזגן. אמנון מקבל את המשימה השנואה עליו בעולם, לשמור ללקוח אחר את התור בקופה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108592/",
+       "id": "108592",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 12 - אביחי חי ת'חלום",
+       "logo": "https://www.kan.org.il/media/s2kjny2k/https-kanstaticazureedgenet-download-pictures-2020-3-18-imgid-30412_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3g1tzc7j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אביחי מחליט לעזוב את אשתו בעקבות עצה שהוא חשב ששירה נתנה לו, וכל הסניף נאלץ להתמודד עם ההשלכות. כוכבה פוגשת את המורה שלה מהתיכון וסוגרת אתה חשבון של 35 שנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108589/",
+       "id": "108589",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 11 - אנטולי מתערב",
+       "logo": "https://www.kan.org.il/media/aaooadr3/https-kanstaticazureedgenet-download-pictures-2020-3-11-imgid-29985_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g197oqsp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ניסים מנסה לגמול את אנטולי מההרגל המגונה של \"להתערב\" לאנשים בכל דבר. אמנון מנסה לעשות קניות עם 'גיפט קארד' לא מזוהה, וגורם למהומה בסופר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108586/",
+       "id": "108586",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 10 - פורים",
+       "logo": "https://www.kan.org.il/media/f05nh3kk/https-kanstaticazureedgenet-download-pictures-2020-3-4-imgid-29634_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xm478vjs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חג פורים בשפע יששכר! כוכבה מוטרדת מבחירת התחפושת של ביתה הקטנה סיטל. טעות בזיהוי גורמת למבוכה גדולה בקצבייה. מבצע משלוחי המנות מחזיר את אמנון לטראומת ילדות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108583/",
+       "id": "108583",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 9 - המרצדס",
+       "logo": "https://www.kan.org.il/media/ai3nkrio/https-kanstaticazureedgenet-download-pictures-2020-2-24-imgid-29009_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lupa6vd7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אירוע מסתורי שאירע בסופר שולח את ראמזי לחקירה בלשית מסועפת. אמנון מזהה הזדמנות לעקוץ את הסופר, ולוקח אותה בשתי ידיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108580/",
+       "id": "108580",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 7 - סיפורי סבתא",
+       "logo": "https://www.kan.org.il/media/rwqezqsw/https-kanstaticazureedgenet-download-pictures-2020-2-10-imgid-28327_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qrz6imlk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ניסים רוצה לנמנם במשמרת וממציא לאנטולי סיפורי אגדות כדי שיאפשר לו להמשיך לישון. התחלופה המהירה של עובדי הנקיון מעציבה את ראמזי, שמתקשה להיפרד מכל מנקה שעוזב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108577/",
+       "id": "108577",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 8 - בטיפול",
+       "logo": "https://www.kan.org.il/media/mpjbayvb/https-kanstaticazureedgenet-download-pictures-2020-2-6-imgid-28134_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n0i1khx6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "קומדיה מוקומנטרית. פרק 8. שירה פותחת מהצד עסק של טיפולי 'מנטורינג'. כאשר ראמזי מגלה שאין ביקוש לטיפולים, הוא מחליט לקחת את העניינים לידיים. אמנון פוגש בסופר את אהבת נעוריו ורגשות ישנים מתעוררים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108574/",
+       "id": "108574",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 6 - גזר",
+       "logo": "https://www.kan.org.il/media/tqybsgsw/https-kanstaticazureedgenet-download-pictures-2020-2-2-imgid-27859_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_izy77qyx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שירה מצליחה לשכנע את אביחי לגייס שליח לסופר לפי שיטת הגיוס של סטיב ג'ובס. כל העובדים רוכשים יחד כורסת מסאז' לחדר העובדים. כולם, מלבד כוכבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108571/",
+       "id": "108571",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 5 - הדרבי הגדול",
+       "logo": "https://www.kan.org.il/media/vxrbgba2/https-kanstaticazureedgenet-download-pictures-2020-1-22-imgid-27262_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fhen1fb5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עובדי הסופר נרשמים לליגה למקומות עבודה בכדורגל ומתכוננים למשחק העונה מול הסופר המתחרה - \"אושר לוי\". כוכבה ואסתי בקרב קופאיות: מי תמכור יותר יין במבצע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108568/",
+       "id": "108568",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 4 - סופר פוד",
+       "logo": "https://www.kan.org.il/media/gb5hpm4b/https-kanstaticazureedgenet-download-pictures-2020-1-19-imgid-27073_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_28ruvlzc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "דוכן טעימות חינם של מוצרי 'סופר פוד' עוזר לאמנון להבריא. כשהמוצרים הופכים להיות בתשלום, אמנון נקלע לדילמת חייו: הבריאות או הכסף? אביחי מטיל על שירה משימה: לעשות סרטון פרסומת לסופר שישבור את הרשת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108565/",
+       "id": "108565",
+       "season": 2
+      },
+      {
+       "name": "?קופה ראשית עונה 2 | פרק 3 - מה עובר על שירה",
+       "logo": "https://www.kan.org.il/media/sxbbayf2/https-kanstaticazureedgenet-download-pictures-2020-1-14-imgid-26830_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_juj9uaa7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "העובדים מנסים להבין מה פשר השינוי לטובה בהתנהגות של שירה. כשהם מגלים את הסיבה, הם מתקשים להאמין. הילד של שוני מעכב את התור בקופה, מה שמביא לעימות בלתי נמנע עם פרנקו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108562/",
+       "id": "108562",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 | פרק 2 - אחות של ראמזי",
+       "logo": "https://www.kan.org.il/media/mm2p5jk4/https-kanstaticazureedgenet-download-pictures-2019-12-31-imgid-26098_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kxavyw9n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אחות של ראמזי מתחילה לעבוד בסופר וראמזי לא יודע נפשו מרוב התרגשות. כוכבה כמעט נחנקת מגרעין של זית ורואה בזה סימן מלמעלה להפוך לאדם טוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108559/",
+       "id": "108559",
+       "season": 2
+      },
+      {
+       "name": "קופה ראשית עונה 2 |  פרק 1 - שירותי הנהלה",
+       "logo": "https://www.kan.org.il/media/gnib5llj/https-kanstaticazureedgenet-download-pictures-2020-1-1-imgid-26139_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zmdljg8g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הסניף עובר למתחם חדש ובו תא שירותים אחד לעובדים ותא שירותים אחד להנהלה. שירה מאפשרת גם ללקוחות להשתמש בשירותי העובדים והעובדים יוצאים למלחמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s2/108556/",
+       "id": "108556",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קופה ראשית עונה 1 | פרק 1 - שלי מהבית",
+       "logo": "https://www.kan.org.il/media/g5wpdfxu/https-kanstaticazureedgenet-download-pictures-2020-10-15-imgid-40587_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fb26cqkv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הפרק הראשון בסדרה: אמנון עושה הכול בשביל לא לשלם על חטיף שלטענתו הביא מהבית. שירה נאלצת לחלוק את המשרד שלה עם ניסים ואנטולי, שהקימו שם בית כנסת לעובדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/s1/89248/",
+       "id": "89248",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קופה ראשית - הצצה | בחירות ב\"שפע יששכר\"",
+       "logo": "https://www.kan.org.il/media/ikolnqzt/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259102/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-26",
+       "plot": "ח\"כ שרן השכל, כלומר, שירה שטיינבוך, מתכוננת לבחירות בכל הכח. \"קופה ראשית\" בספיישל בחירות מיוחד - רגע לפני המדגם הדרמטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/1112843/",
+       "id": "1112843"
+      },
+      {
+       "name": "קופה ראשית עונה 6 | טריילר",
+       "logo": "https://www.kan.org.il/media/niop1ti3/קופה-ראשית-טריילר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248525/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "מה יותר מרגש מלפתוח שנה חדשה עם עונה חדשה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/1098489/",
+       "id": "1098489"
+      },
+      {
+       "name": "קופה ראשית עונה 5 | פספוסים",
+       "logo": "https://www.kan.org.il/media/zhvg4yqb/קופה-ראשית-פיספוסים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zc80iudo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-25",
+       "plot": "כל הפיספוסים מהעונה החמישית של קופה ראשית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/874981/",
+       "id": "874981"
+      },
+      {
+       "name": "קופה ראשית | טריילר",
+       "logo": "https://www.kan.org.il/media/s45lit24/1920x1080-with-logo_קופה-ראשית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aawwi378/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "סדרת קאלט שמתרחשת בסניף של רשת סופרים ביבנה, עם דמויות שכולנו מכירים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/866212/",
+       "id": "866212"
+      },
+      {
+       "name": "קופה ראשית - הצצה | גנבת מצתים",
+       "logo": "https://www.kan.org.il/media/214j4oqp/1_916627og.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_il8v2nxe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "אף אחד כבר לא מוכן להשאיל לכוכבה מצית, אז היא יוצאת לחפש אחר אנשים חדשים לגנוב מהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/855990/",
+       "id": "855990"
+      },
+      {
+       "name": "קופה ראשית - הצצה | הרמת כוסית",
+       "logo": "https://www.kan.org.il/media/ingffaqu/1_2yxko6rx.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jh7p6p53/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "שירה מפתה את כל העובדים להגיע להרמת כוסית בעזרת מתנות לחג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/855987/",
+       "id": "855987"
+      },
+      {
+       "name": "מה חיפשו עלי בגוגל? כוכבי קופה ראשית מגיבים",
+       "logo": "https://www.kan.org.il/media/dm2kye3m/whatsapp-image-2024-11-07-at-151014_07897cf6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eh720wsv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-07",
+       "plot": "קרן מור לסבית? מי יותר גבוה יניב סוויסה או האגריד? והאם דניאל סטיופין יהודי? מה החיפושים המובילים בגוגל על כוכבי קופה ראשית ומה היו התגובות עליהם. עונה החדשה של קופה ראשית שתעלה בכאן 11 ובכאן בוקס בתאריך 12.11",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/821752/",
+       "id": "821752"
+      },
+      {
+       "name": "תרנגול הכפרות של כוכבה: הצצה לעונה 5",
+       "logo": "https://www.kan.org.il/media/bnhjbxng/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rsdnqna3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-11",
+       "plot": "\"בשביל החטאים שלה צריך לול שלם\": יום כיפור בקופה ראשית. הצצה לעונה החמישית של הסדרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/811475/",
+       "id": "811475"
+      },
+      {
+       "name": "קופה ראשית 3 | דמוקרטיה בנעימים",
+       "logo": "https://www.kan.org.il/media/2eafeixz/https-kanstaticazureedgenet-download-pictures-2021-3-18-imgid-49334_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_198oegy8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יום הבוחר 2021. יצאנו לבדוק איך הבחירות הרביעיות בתוך שנה השפיעו על לקוחות ועובדי שפע יששכר סניף יבנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12832/129045/",
+       "id": "129045"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הדוברמן החברמן | פרקים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670775/",
+   "series_id": "670775",
+   "updated": "2026-10-28 09:46",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הדוברמן החברמן | פרק 2 - דובי הולך לקולנוע",
+       "logo": "https://www.kan.org.il/media/ajemfmpn/דובי-דוברמן-דובי-הולך-לקולנוע.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2xiyjfr7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך חוצים במעבר חציה, ומה עושים כשיש שניים כאלה? וגם: דובי הולך לסרט השנה \"סופר דוברמן\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670775/s1/673548/",
+       "id": "673548",
+       "season": 1
+      },
+      {
+       "name": "הדוברמן החברמן | פרק 1 - דובי בקומזיץ",
+       "logo": "https://www.kan.org.il/media/2l3letcq/דובי-בקומזיץ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_svond2xv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בדרך לבילוי דובי מציל ילדים וכלה ביום חתונתה, כי ידוע שלחצות בקו ישר יותר בטוח וקצר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670775/s1/673545/",
+       "id": "673545",
+       "season": 1
+      },
+      {
+       "name": "הדוברמן החברמן | פרק 3 - דובי בתפקיד",
+       "logo": "https://www.kan.org.il/media/fqjfi344/דובי-בתפקיד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3cukaft4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ביקור של חבר מכוכב אחר ורקדניות יצירתיות מציגות עיקרון חשוב של זהירות בדרכים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670775/s1/673542/",
+       "id": "673542",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הדוברמן החברמן | פתיח",
+       "logo": "https://www.kan.org.il/media/ao4h1ree/הדוברמן-החברמן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1892421/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לסדרת הילדים המיתולוגית \"הדוברמן החברמן\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670775/943508/",
+       "id": "943508"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

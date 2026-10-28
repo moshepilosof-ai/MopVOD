@@ -1,0 +1,123 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חגיגה לעיניים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670919/",
+   "series_id": "670919",
+   "updated": "2026-10-28 10:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חגיגה לעיניים | פרק 2 - שאלות ותשובות",
+       "logo": "https://www.kan.org.il/media/02rmlffd/zohar.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qz7or7v9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורו של היוצר האקסצנטרי ויצירותיו המהפכניות, ביניהן \"מציצים\" ו-\"חור בלבנה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675574/",
+       "id": "675574",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 3 - כשהקהל בוכה הקופה צוחקת",
+       "logo": "https://www.kan.org.il/media/keiporqo/golan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r7uughv7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורו של הבמאי מנחם גולן, החביב על הקהל אך לא על המבקרים ועל סרטיו, ביניהם \"אלדורדו\", \"כץ וקרסו\", \"מבצע יונתן\" ו\"קזבלן\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675571/",
+       "id": "675571",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 4 - שלאגר וחצי",
+       "logo": "https://www.kan.org.il/media/lcpi2dis/dayan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yavxf21j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורם של שלושה במאים, בועז דוידזון, אסי דיין ואבי נשר, שיצרו שוברי קופות בלתי נשכחים, ביניהם \"אלכס חולה אהבה\", \"צ'רלי וחצי\", \"גבעת חלפון אינה עונה\" ו\"דיזנגוף 99\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675568/",
+       "id": "675568",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 5 - יופי של צרות",
+       "logo": "https://www.kan.org.il/media/fgjkh5tv/revah.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uuv7biw2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורו של הבדרן חביב הקהל, זאב רווח, שסרטיו העלו חיוך על פני הצופים לאורך השנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675565/",
+       "id": "675565",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 7 - מדורת השבט",
+       "logo": "https://www.kan.org.il/media/3kdf5cz2/shevet.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_usk1iu9c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורם של במאים ויוצרים שהעזו והצליחו להעלות על המסך הגדול את הנושאים הבוערים ביותר בישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675562/",
+       "id": "675562",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 8 - ואלס על השטיח האדום",
+       "logo": "https://www.kan.org.il/media/rsdfwmsg/carpet.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2b074b9m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על סרטים ישראלים שהצליחו בחו\"ל והבמאים שעומדים מאחוריהם וזכו לטעום תהילה בינלאומית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675558/",
+       "id": "675558",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 9 - ממלאים את החלל",
+       "logo": "https://www.kan.org.il/media/ygglfqxp/ramma.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9tj0bws4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הסרטים שמילאו חסר בקולנוע הישראלי והביאו לקדמת הבמה סיפורים על קהילות אחרות, ועל הדור החדש של קולנוענים נועזים שלא פחדו לשבור מוסכמות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675555/",
+       "id": "675555",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 10 - חגיגה לאוזניים",
+       "logo": "https://www.kan.org.il/media/obaifbpl/zvika.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w55g43bo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהו סרט בלי פסקול? על המנגינות והשירים המלווים את הקולנוע הישראלי מראשיתו ועד היום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/675552/",
+       "id": "675552",
+       "season": 1
+      },
+      {
+       "name": "חגיגה לעיניים | פרק 6 - מדינת תל אביב",
+       "logo": "https://www.kan.org.il/media/k10nbxcl/gutman.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0qbpdjrz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורו של עמוס גוטמן, במאי שנוי במחלוקת שסרטיו מעוררי הסערה עסקו ברובם בהוויה ההומוסקסואלית בעיר הגדולה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/s1/671407/",
+       "id": "671407",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חגיגה לעיניים | פתיח",
+       "logo": "https://www.kan.org.il/media/vdhj0qru/חגיגיה-לעיניים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vrhi8xmf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח עם כל הנוסטלגיות האהובות  של ''חגיגה לעיניים''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670919/861593/",
+       "id": "861593"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

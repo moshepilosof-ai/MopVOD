@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - התנתקות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-936955/",
+   "series_id": "936955",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "התנתקות | פרק 5 - האהבה מתה",
+       "logo": "https://www.kan.org.il/media/rxzea4vm/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wl6qgw13/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-31",
+       "plot": "ההתנתקות מתחילה ומאיר לא מוכן להתפנות. אבינועם מציע לשילה לפנות את בית עציוני, אך שילה מסרב. מאיר מאבד את זה כשהחיילים פורצים לבית, ושילה נאלץ להתמודד עם המשימה הקשה בחייו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936955/s1/936964/",
+       "id": "936964",
+       "season": 1
+      },
+      {
+       "name": "התנתקות | פרק 4 -  בין המצרים",
+       "logo": "https://www.kan.org.il/media/o2lfysix/s0516731_100_16_24_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gj6kggrg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-31",
+       "plot": "על רקע המחאה בכפר מימון, האירועים האישיים אצל שילה מתערבבים באירועים הלאומיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936955/s1/936963/",
+       "id": "936963",
+       "season": 1
+      },
+      {
+       "name": "התנתקות | פרק 3 - יש בנו אהבה והיא תנצח",
+       "logo": "https://www.kan.org.il/media/diylw0qw/התנתקות-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tyxbny4k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-31",
+       "plot": "גוש קטיף מוכרז כשטח צבאי סגור, הצעירים יוצאים להפגין. שילה נאלץ להתמודד עם מחאה אלימה במחסום כיסופים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936955/s1/936962/",
+       "id": "936962",
+       "season": 1
+      },
+      {
+       "name": "התנתקות | פרק 2 - הכנה מנטלית",
+       "logo": "https://www.kan.org.il/media/5jbbq4bx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3uzd0uhk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-31",
+       "plot": "שילה נדהם מההכנה המנטלית לחיילי מבצע הפינוי. לביא הולך לגיבוש מטכ\"ל. נעמה מגלה שהיא משלמת מחיר על ההחלטות של שילה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936955/s1/936961/",
+       "id": "936961",
+       "season": 1
+      },
+      {
+       "name": "התנתקות | פרק 1 - וארשתיך לי לעולם",
+       "logo": "https://www.kan.org.il/media/jsollljy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rqrz51v5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-31",
+       "plot": "דרמה חדשה שחוזרת לתקופה הסוערת והכואבת שקרעה את החברה הישראלית לפני 20 שנה: רגע לפני השחרור מהצבא, תא\"ל שילה מקבל הצעה שתעמיד אותו בקונפליקט מול עצמו ומול משפחתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936955/s1/936960/",
+       "id": "936960",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "התנתקות | טריילר",
+       "logo": "https://www.kan.org.il/media/lxzfmr5c/1920x1080_no-logo_התנתקות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f87x2x5j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-22",
+       "plot": "רגע לפני השחרור מהצבא, תא\"ל שילה מקבל הצעה שתעמיד אותו בקונפליקט מול עצמו ומול משפחתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936955/944250/",
+       "id": "944250"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

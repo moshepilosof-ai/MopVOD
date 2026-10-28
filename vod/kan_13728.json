@@ -1,0 +1,55 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מלכויות של מטה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13728/",
+   "series_id": "13728",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מלכויות של מטה - הצצה | להתבטל לצדיק",
+       "logo": "https://www.kan.org.il/media/wjomi2ya/מלכויות-של-מטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_btbou8yj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-20",
+       "plot": "\"מה שהרבי שלי אומר זה מה שאני עושה\": במה הרבי שונה מכל חסיד אחר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13728/872979/",
+       "id": "872979"
+      },
+      {
+       "name": "מלכויות של מטה | פרק 3, עזר כנגדן",
+       "logo": "https://www.kan.org.il/media/tmgdads5/https-kanstaticazureedgenet-download-pictures-2019-12-9-imgid-24893_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9og4jfsa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "כיצד נראים חיי היום יום של החסידים במאה העשרים ואחת? מה הם הקשיים והאתגרים בהפרדה המוחלטת בין גברים לנשים, ומערכת חינוך ללא לימודי ליבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13728/107580/",
+       "id": "107580"
+      },
+      {
+       "name": "מלכויות של מטה | פרק 2, בית מקדש מעט",
+       "logo": "https://www.kan.org.il/media/l0entveo/https-kanstaticazureedgenet-download-pictures-2019-12-1-imgid-24394_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3wf708wp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "במרכז העולם החסידי, ניצב האדמו\"ר (אדוננו מורינו ורבנו). בתפיסה החסידית על החסיד להתבטל לחלוטין בפני הרעבע שלו בכל רגע. מה זה אומר בפועל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13728/107578/",
+       "id": "107578"
+      },
+      {
+       "name": "מלכויות של מטה | פרק 1, נקמתו של סנדר",
+       "logo": "https://www.kan.org.il/media/yknnecwe/https-kanstaticazureedgenet-download-pictures-2019-11-25-imgid-24078_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ufr0v3wd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מהקמת תנועת החסידות ע\"י הבעל שם טוב, דרך חורבנה הכמעט מוחלט בשואה ותחייתה המטאורית לאחר מלחמת העולם השנייה בארץ ובארה”ב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13728/107576/",
+       "id": "107576"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תיק 512",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12274/",
+   "series_id": "12274",
+   "updated": "2026-10-28 13:40",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "תיק 512 | טריילר",
+       "logo": "https://www.kan.org.il/media/rqadfujr/תיק-512-לוגו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4k5x5kp0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "סדרת דוקו המביאה את סיפור תיק חקירת משפחות הפשע בישראל. בשנות ה-90 יצחק אברג׳יל היה העבריין החזק בישראל. מלחמות העבריינים מגיעות לשיאן בפיגוע פלילי בו נהרגים 3 חפים מפשע, מה שמזניק מצוד אחר אברג'יל.\n\nב-28.6.22 נגזרו על יצחק אברג'יל שלושה מאסרי עולם לאחר שהורשע בשלושה מעשי רצח ובעבירות סמים בהיקף ענק.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/886747/",
+       "id": "886747"
+      },
+      {
+       "name": "תיק 512 - הצצה | ארגון הפשע של אברג'יל הולך וגדל",
+       "logo": "https://www.kan.org.il/media/czcnq3uc/תיק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_40rdx00x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-10",
+       "plot": "השיחות המוקלטות בהן שומעים את אברג'יל מתרחב לכל השווקים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/858560/",
+       "id": "858560"
+      },
+      {
+       "name": "תיק 512 - הצצה | השקט שלפני הסערה ",
+       "logo": "https://www.kan.org.il/media/resg2wod/תיק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vvm169qy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-10",
+       "plot": "למה המשטרה התעלמה מהסיפור ומה הביא לפיצוץ הגדול?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/858558/",
+       "id": "858558"
+      },
+      {
+       "name": "יוצרות הסדרה מספרות על פרשת הפשע הגדולה בישראל",
+       "logo": "https://www.kan.org.il/media/1eye3le1/https-kanstaticazureedgenet-download-pictures-2022-6-29-imgid-76990_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1euj305j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שנים שעדי וטל אספו חומרים לסדרה. הן מספרות על הטלפונים מהכלא, על האנשים שסירבו ששמם ייקשר בסדרה ולמה התיק הזה כל כך מעניין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/147099/",
+       "id": "147099"
+      },
+      {
+       "name": "תיק 512 | פרק 3 - נפילת האימפריה",
+       "logo": "https://www.kan.org.il/media/aucnakqd/https-kanstaticazureedgenet-download-pictures-2022-6-29-imgid-76994_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7vat2odq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרת תעודה על תיק חקירת משפחות הפשע בישראל. בפרק האחרון, אחרי עשור וחצי של חקירה סמויה וחוצת יבשות, ישראל יוצאת למהלך חקירה גלוי: 600 נחקרים, 6 עדי מדינה ו-13,000 עמודי פרוטוקול. האם יצחק אברג'יל יורשע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/147087/",
+       "id": "147087"
+      },
+      {
+       "name": "בעקבות אימפריית הפשע - משדר מיוחד",
+       "logo": "https://www.kan.org.il/media/obrc1zj5/2022-6-28-imgid-76968_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nlr8wls2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דיון מיוחד באולפן החדשות שלנו בעקבות שידור הפרק הראשון של סדרת הדוקו על משפחות הפשע בישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/147051/",
+       "id": "147051"
+      },
+      {
+       "name": "תיק 512 | פרק 2 - מלוד לעולם",
+       "logo": "https://www.kan.org.il/media/fq4nmlo0/https-kanstaticazureedgenet-download-pictures-2022-3-27-imgid-71638_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1cfix6yq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום 28.6.22 נגזרו על יצחק אברג'יל שלושה מאסרי עולם לאחר שהורשע בשלושה מעשי רצח ובעבירות סמים בהיקף ענק. זוהי סדרת דוקו המביאה את סיפור תיק חקירת משפחות הפשע בישראל. פרק 2. הפשע הישראלי שולח זרועות לכל העולם. יצחק אברג׳יל נכנס לכלא בארה\"ב והמשטרה הישראלית מנסה לגייס נגדו עד מדינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/142963/",
+       "id": "142963"
+      },
+      {
+       "name": "תיק 512 | פרק 1 - משפחת הפשע",
+       "logo": "https://www.kan.org.il/media/cwbd1kgq/https-kanstaticazureedgenet-download-pictures-2022-6-28-imgid-76914_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_adnxljkm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום 28.6.22 נגזרו על יצחק אברג'יל שלושה מאסרי עולם לאחר שהורשע בשלושה מעשי רצח ובעבירות סמים בהיקף ענק. זוהי סדרת דוקו המביאה את סיפור תיק חקירת משפחות הפשע בישראל. \r\nבשנות ה-90 יצחק אברג׳יל היה העבריין החזק בישראל. מלחמות העבריינים מגיעות לשיאן בפיגוע פלילי בו נהרגים 3 חפים מפשע. האירוע מזניק מצוד אחר אברג'יל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12274/142696/",
+       "id": "142696"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

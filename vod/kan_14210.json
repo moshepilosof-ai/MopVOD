@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ההרצלים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-14210/",
+   "series_id": "14210",
+   "updated": "2026-10-28 09:47",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרק 1 - באמצע החיים בא המוות",
+       "logo": "https://www.kan.org.il/media/inepyixd/https-kanstaticazureedgenet-download-pictures-2020-5-3-imgid-32850_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zmn8zer8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרת תעודה חדשה מקורית בארבעה פרקים נכתבה בהשראתו, ומבוססת על ספרו של העיתונאי יוסף נדבה \"נגוהות מן העבר\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-14210/s1/77666/",
+       "id": "77666",
+       "season": 1
+      },
+      {
+       "name": "פרק 2 - כמו ציפורים החומקות מהקן",
+       "logo": "https://www.kan.org.il/media/n4ngubtm/https-kanstaticazureedgenet-download-pictures-2020-5-3-imgid-32848_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ffynr88h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרת תעודה חדשה מקורית בארבעה פרקים נכתבה בהשראתו, ומבוססת על ספרו של העיתונאי יוסף נדבה \"נגוהות מן העבר\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-14210/s1/77664/",
+       "id": "77664",
+       "season": 1
+      },
+      {
+       "name": "פרק 3 - למדנו את הסובלנות באירופה",
+       "logo": "https://www.kan.org.il/media/15rb503o/https-kanstaticazureedgenet-download-pictures-2020-5-3-imgid-32847_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_94bjp46l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרת תעודה חדשה מקורית בארבעה פרקים נכתבה בהשראתו, ומבוססת על ספרו של העיתונאי יוסף נדבה \"נגוהות מן העבר\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-14210/s1/77662/",
+       "id": "77662",
+       "season": 1
+      },
+      {
+       "name": "פרק 4 - בשביל דגל הם חיים ומתים",
+       "logo": "https://www.kan.org.il/media/ls2b4v3u/https-kanstaticazureedgenet-download-pictures-2020-5-3-imgid-32846_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ynmpnxie/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרת תעודה חדשה מקורית בארבעה פרקים נכתבה בהשראתו, ומבוססת על ספרו של העיתונאי יוסף נדבה \"נגוהות מן העבר\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-14210/s1/77660/",
+       "id": "77660",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ההרצלים - הצצה | בלי יורש ישיר אחד",
+       "logo": "https://www.kan.org.il/media/s4jbnwlv/ההרצלים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_om0s8o3s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-10",
+       "plot": "כשנה אחרי קום המדינה עצמותיהם של הרצל ומשפחתו הועלו מווינה לאדמת ישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-14210/881315/",
+       "id": "881315"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

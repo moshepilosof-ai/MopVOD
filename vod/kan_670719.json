@@ -1,0 +1,133 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מה הרעש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670719/",
+   "series_id": "670719",
+   "updated": "2026-10-28 11:34",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מה הרעש | פרק 1 - אודיציות",
+       "logo": "https://www.kan.org.il/media/vdxncffw/אודציות-מה-הרעש-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gdmhtc7w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הנגנים הצעירים מגיעים למבחני קבלה לתזמורת התוכנית ונבחנים מול המנצח יצחק שטיינר. יואב מנסה להתקבל בכל מחיר, האם אורי ישתף איתו פעולה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672800/",
+       "id": "672800",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 2 - פסנתרים",
+       "logo": "https://www.kan.org.il/media/uxrgcxpx/web-מה-הרעש-פסנתרים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wg06qkm9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מנגנים יצירות לפסנתר ומלווים פסנתרנים צעירים, כולל רמי קליינשטיין, שהתחיל לנגן כבר כשהיה ילד ועדיין משתעשע בנגינת מוזיקה קלאסית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672797/",
+       "id": "672797",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 3 - קצב",
+       "logo": "https://www.kan.org.il/media/1gjmbvwg/web-מה-הרעש-קצב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xv7v7u9m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מכירים מקצבים שונים שמפיקים כלי נגינה, מחשב דוגם צלילים, מכונות קצב אנושיות והשילובים של כל אלה יחד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672794/",
+       "id": "672794",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 4 - מוזיקה ספרדית",
+       "logo": "https://www.kan.org.il/media/ykjbo1qy/מה-הרעש-מוסיקה-ספרדית-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r12w2zzt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "האופרה הפופולרית \"כרמן\", ריקוד הפלמנקו ומקצב המוזיקה הסוער בפרק שכולו חגיגת גיטרות ספרדית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672791/",
+       "id": "672791",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 5 - ריקודים",
+       "logo": "https://www.kan.org.il/media/oslp3mxv/web-מה-הרעש-ריקודים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_egq07l9l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "רוקדים ומנגנים מוזיקה שנכתבה במיוחד לריקודים, כמו פולקה, ואלס, מינואט וברייק-דאנס. להקת \"נקמת הטרקטור\" מבצעת קטע מהמופע \"קיר\" עם להקת \"בת שבע\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672734/",
+       "id": "672734",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 6 - אופרה",
+       "logo": "https://www.kan.org.il/media/lgzl11nr/מה-הרעש-web-אופרה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t7aji0n5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על הז'אנר שבו השחקנים שרים זה לזה במקום לדבר. נכיר יצירות מפורסמות, כמו \"דון ג'ובאני\" ו\"נישואי פיגארו\", ונשמע איך פרדי מרקיורי קשור לעניין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672704/",
+       "id": "672704",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 7 - מוסיקה תוכניתית",
+       "logo": "https://www.kan.org.il/media/2okogzye/web-מה-הרעש-מוסיקה-ותמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q1egfzza/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הידעתם שפעם הפסנתרנים היו מנגנים בתוך אולם הקולנוע במהלך הסרט האילם? על מוזיקה שמלווה סרטים ומשפיעה על מצב הרוח של הצופה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672701/",
+       "id": "672701",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש פרק 8 - | כינור",
+       "logo": "https://www.kan.org.il/media/tu3jsa0u/מה-הרעש-כינור-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jwkls6ss/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק העוסק בכלי הנגינה היהודי, בהיסטוריה שלו וביצירות המפורסמות בכיכובו. נכיר כנרים גדולים כמו ויוואלדי ופגניני, והכנר המקומי סמיר שוקרי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672698/",
+       "id": "672698",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 9 - ג'אז",
+       "logo": "https://www.kan.org.il/media/tbxfrbcw/web-מה-הרעש-ג-אז.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_385h4bjp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהם המקורות של הסגנון המוזיקלי הפופולרי ואיך הוא התגלגל להיות כפי שהוא היום? נכיר את קצב הלכת, הרגטיים והדיקסלינד, ונשמע מיצירותיו של גרשווין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672695/",
+       "id": "672695",
+       "season": 1
+      },
+      {
+       "name": "מה הרעש | פרק 10 - מארשים וכלי נשיפה ממתכת",
+       "logo": "https://www.kan.org.il/media/cjeifijv/web-מה-הרעש-מארשים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4zx1hj3h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך מנגנים תוך כדי הליכה? נכיר את המוזיקה שמשמשת לצעידות ולקרבות, ואת החצוצרה, הטרומבון, הטובה והקרן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/s1/672692/",
+       "id": "672692",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מה הרעש | פתיח",
+       "logo": "https://www.kan.org.il/media/qo1ev5xt/פתיח-מה-הרעש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_98zx4hy7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לסדרה \"מה הרעש\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670719/943234/",
+       "id": "943234"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

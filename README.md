@@ -1,67 +1,69 @@
 # MopVOD
 
-כלי נפרד מ-MopTV שבונה את `MopVOD.json`: ארכיון ה-VOD של כאן (kan.org.il) במבנה JSON של MopTV.
-לכל תוכנית קובץ עם כל הפרקים, קישור לזרם, תמונה, תאריך ותקציר.
+ארכיון ה-VOD של כאן 11 (kan.org.il) כקובצי JSON במבנה של MopTV, עם רענון אוטומטי ב-GitHub Actions.
+לכל תוכנית קובץ עם כל הפרקים: קישור לזרם, תמונה, תאריך ותקציר.
 
-הכלי **לא** נוגע ב-MopTV ולא ב-`channel.json`. האפליקציה תוכל לטעון את `MopVOD.json` בגרסה עתידית.
+הריפו הזה נפרד מ-MopTV ולא נוגע ב-`channel.json`. האפליקציה תוכל לטעון את `MopVOD.json` בגרסה עתידית.
 
-## קבצים
+## הקבצים שהטלוויזיה תקרא
+
+| כתובת | תוכן |
+|---|---|
+| `https://raw.githubusercontent.com/moshepilosof-ai/MopVOD/main/MopVOD.json` | האינדקס: רשימת התוכניות, מספר פרקים ועונות, טווח תאריכים (כ-100 KB) |
+| `https://raw.githubusercontent.com/moshepilosof-ai/MopVOD/main/vod/<id>.json` | קובץ לכל תוכנית עם כל הפרקים לפי עונות |
+
+השדה `file` בכל רשומה באינדקס מצביע על קובץ התוכנית (למשל `vod/kan11_zman_emet.json`).
+
+## רענון אוטומטי (GitHub Actions)
+
+`.github/workflows/update.yml` מריץ את האיסוף על שרת של GitHub ארבע פעמים ביום
+(5:30, 11:30, 17:30, 22:30 שעון ישראל בחורף). כל ריצה:
+
+1. `--discover`: בודקת בדפי הלובי של כאן אם נוספו תוכניות חדשות ומעדכנת את `programs.json`.
+2. עוברת על כל התוכניות והעונות, קוראת מהאתר רק פרקים שעדיין לא קיימים בקובצי `vod/`.
+3. שומרת (commit) רק את הקבצים שבאמת השתנו.
+
+הרצה ידנית: לשונית **Actions** בריפו, **Update VOD archive**, **Run workflow**.
+ההיסטוריה של הריצות ומה נוסף בכל אחת מופיעה באותה לשונית ובהיסטוריית ה-commits.
+
+## קבצים בריפו
 
 | קובץ | תפקיד |
 |---|---|
-| `mopvod.py` | הסקריפט. קורא דפי תוכנית ופרק באתר כאן, כותב JSON, מעלה ל-GitHub לפי בקשה |
-| `programs.json` | אילו תוכניות לאסוף (שם, כתובת דף התוכנית באתר כאן) |
-| `out/MopVOD.json` | הקובץ הראשי: רשימת התוכניות הקיימות עם מספר פרקים וטווח תאריכים |
-| `out/vod/<id>.json` | קובץ ארכיון לכל תוכנית, עם כל הפרקים |
-| `cache/episodes/` | מטמון של פרקים שכבר נקראו. ריצה חוזרת מביאה רק פרקים חדשים |
-| `github_token.txt` | הטוקן להעלאה ל-GitHub (לא נשמר בגיט) |
+| `mopvod.py` | הסקריפט. קורא דפי תוכנית ופרק באתר כאן וכותב JSON |
+| `programs.json` | אילו תוכניות לאסוף (שם, כתובת דף התוכנית באתר כאן). מתעדכן אוטומטית ב-`--discover` |
+| `MopVOD.json` | האינדקס |
+| `vod/<id>.json` | קובץ ארכיון לכל תוכנית |
+| `.github/workflows/update.yml` | הרענון המתוזמן |
+| `build_windows.cmd` | בניית `MopVOD.exe` להרצה מקומית בלי Python |
+| `cache/episodes/` | מטמון מקומי (לא בגיט). לא חובה: פרקים שכבר ב-`vod/` לא נקראים שוב גם בלעדיו |
 
-## הרצה בלי Python (Windows)
-
-`build_windows.cmd` בונה `windows\dist\MopVOD.exe`. שים את ה-EXE באותה תיקייה עם `programs.json`
-(ו-`github_token.txt` אם מעלים), ואז:
-
-```
-MopVOD.exe                     # לחיצה כפולה: איסוף כל התוכניות, החלון נשאר פתוח בסוף
-MopVOD.exe --publish-only      # או: publish.cmd
-MopVOD.exe --publish           # איסוף חדש + העלאה
-```
-
-ה-EXE מקבל את אותם פרמטרים כמו הסקריפט. `out\` ו-`cache\` נוצרים לידו.
-
-## הרצה
+## הרצה מקומית
 
 ```
 python mopvod.py                          # כל התוכניות שב-programs.json
 python mopvod.py --program kan11_zman_emet
 python mopvod.py --limit 30               # לבדיקה: רק 30 הפרקים האחרונים לכל תוכנית
-python mopvod.py --single                 # הכל בתוך MopVOD.json אחד (במקום קובץ לכל תוכנית)
-python mopvod.py --publish                # בנייה + העלאה ל-GitHub
-python mopvod.py --publish-only           # רק העלאה של מה שכבר ב-out
+python mopvod.py --discover               # עדכון רשימת התוכניות מדפי הלובי של כאן
+python mopvod.py --single                 # הכל בתוך MopVOD.json אחד (גדול, כ-16MB)
+python mopvod.py --publish                # בנייה + העלאה דרך ה-API (בלי git, דורש טוקן)
 ```
 
-ריצה ראשונה של המהדורה המרכזית (כ-2,300 פרקים) נמשכת כ-30 עד 40 דקות.
-ריצות הבאות נמשכות דקה או שתיים, כי רק הפרקים החדשים נקראים מהאתר.
+ריצה ראשונה על ריפו ריק נמשכת שעות (כ-21,000 פרקים). ריצה חוזרת נמשכת כ-20 עד 30 דקות,
+רובן סריקת דפי העונות; מהאתר נקראים רק פרקים חדשים.
 
-## שני מבנים אפשריים
+### בלי Python (Windows)
 
-- **ברירת מחדל (מומלץ)**: `MopVOD.json` קטן, רק רשימת התוכניות, והפרקים ב-`vod/<תוכנית>.json`.
-  הטלוויזיה טוענת מהר ומורידה תוכנית רק כשנכנסים אליה.
-- **`--single`**: `MopVOD.json` מכיל את כל הפרקים של כל התוכניות. פשוט יותר, אבל גדול
-  (כ-1MB למהדורה המרכזית לבדה) ונטען כולו בכל הפעלה.
+`build_windows.cmd` בונה `windows\dist\MopVOD.exe`. שים את ה-EXE באותה תיקייה עם `programs.json`,
+ואז לחיצה כפולה אוספת פרקים חדשים (החלון נשאר פתוח בסוף). ה-EXE מקבל את אותם פרמטרים כמו הסקריפט.
+אחרי ריצה מקומית, `git commit` ו-`git push` מעלים את התוצאה, או `--publish` עם טוקן ב-`github_token.txt`
+(Fine-grained token עם Contents: Read and write על הריפו הזה).
 
-## הוספת תוכנית
+## הוספת תוכנית ידנית
 
 1. באתר כאן, פתח את דף התוכנית והעתק את הכתובת (חייבת להכיל `/p-<מספר>/`).
 2. הוסף רשומה ל-`programs.json` עם `id` באנגלית, `title` לתצוגה, ו-`url`.
-3. הרץ `python mopvod.py --program <id>`.
-
-## העלאה ל-GitHub
-
-הקבצים עולים לריפו `moshepilosof-ai/mop_channel`: `MopVOD.json` בשורש ליד `channel.json`,
-וקובצי התוכניות לתיקייה `vod/`.
-נדרש Fine-grained Personal Access Token עם הרשאת Contents: Read and write על הריפו.
-שמור אותו בקובץ `github_token.txt` ליד הסקריפט (או במשתנה סביבה `GITHUB_TOKEN`).
+3. הרץ `python mopvod.py --program <id>` או חכה לריצה המתוזמנת.
 
 ## מבנה הפלט
 
@@ -70,7 +72,7 @@ python mopvod.py --publish-only           # רק העלאה של מה שכבר �
 ```json
 {
   "name": "MopVOD",
-  "updated": "2026-10-27 21:00",
+  "updated": "2026-10-28 13:42",
   "sources": [
     { "name": "כאן 11 - זמן אמת", "file": "vod/kan11_zman_emet.json",
       "episodes": 175, "seasons": 10, "newest": "2026-09-21", "oldest": "2023-04-22" }
@@ -87,7 +89,7 @@ python mopvod.py --publish-only           # רק העלאה של מה שכבר �
       "name": "כאן 11 - זמן אמת",
       "type": "vod",
       "source": "kan.org.il",
-      "updated": "2026-10-27 21:00",
+      "updated": "2026-10-28 13:42",
       "sub_categories": [
         {
           "name": "עונה 10",
@@ -120,3 +122,4 @@ python mopvod.py --publish-only           # רק העלאה של מה שכבר �
 - התאריך נלקח מהכותרת (למשל "| 16.02.26") ואם אין, מתאריך ההעלאה לאתר. לפרקים שהועלו
   מחדש באתר החדש (2023) תאריך ההעלאה אינו תאריך השידור המקורי.
 - פרקים ישנים מאוד שאין להם קישור וידאו בדף מדולגים ונספרים כ"בלי וידאו".
+- ערוץ 13 אינו כלול: האתר חוסם גישה אוטומטית.

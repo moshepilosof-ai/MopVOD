@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כח אדם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-915611/",
+   "series_id": "915611",
+   "updated": "2026-10-28 11:30",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "כח אדם | פרק 1 - שלה שורשן",
+       "logo": "https://www.kan.org.il/media/vdsfg0iz/12_be30078386_yavin_humanrsrce.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8yigabxa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-05",
+       "plot": "חייה של שלה שורשן, אלמנה ואם שכולה, בכפר דרום שבגוש קטיף, אל מול שכניה מעבר לגדר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-915611/s1/915615/",
+       "id": "915615",
+       "season": 1
+      },
+      {
+       "name": "כח אדם | פרק 2 - רזי אבו ג'יאב איש עזה",
+       "logo": "https://www.kan.org.il/media/jhkarrry/13_ue10077651_yavin_humanrsrce.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_icf6sh5d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-05",
+       "plot": "דיוקן של ראזי אבו ג'יאב, אינטלקטואל צעיר מעזה שישב שנים בכלא הישראלי. דרך שיחה עימו, עם חבריו ויריביו, עולות התקוות והתסכולים של תושבי הרצועה, ערב הגעת אש\"פ לחבל האוטונומיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-915611/s1/915613/",
+       "id": "915613",
+       "season": 1
+      },
+      {
+       "name": "כח אדם | פרק 3 - הבקעה על פי רזניק",
+       "logo": "https://www.kan.org.il/media/kcgdzzz5/14_be30068627_yavin_humanrsrce.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hj5fpkgy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-05",
+       "plot": "הסיפור של דורון רזניק, חקלאי מבקעת הירדן, חושף את חלומות ההתיישבות למרות הקשיים הכלכליים, החברתיים והמדיניים. דרך נקודת מבטו ודרך השוואה לשכניו היהודים והפלסטינים באיזור, נפרש הקרב על עתיד הבקעה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-915611/s1/915612/",
+       "id": "915612",
+       "season": 1
+      },
+      {
+       "name": "כח אדם | פרק 5 - ירושלים לא מחכה (חלק ב') ",
+       "logo": "https://www.kan.org.il/media/mc4pppun/16_mb00494454_yavin_jerusalem.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rl2c1qcs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-28",
+       "plot": "ירושלים נחשפת כזירת מאבק יומיומי בין חזון לאיחוד לבין מציאות של נישול, התנחלות וחיכוך מתמיד בין יהודים לערבים. דרך סיפורי משפחות מסילוואן, מנהיגים ופעילים משני הצדדים נפרש הקרב על זהותה של העיר אחרי אוסלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-915611/s1/913160/",
+       "id": "913160",
+       "season": 1
+      },
+      {
+       "name": "כח אדם | פרק 4 - ירושלים לא מחכה (חלק א') ",
+       "logo": "https://www.kan.org.il/media/gn4jd1hn/15_be30049726_yavin_jerusalem.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fhz7kkpt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-28",
+       "plot": "מסע אל לב הרובע המוסלמי בירושלים בצל הר הבית. בין תפילות מוסלמים בהר הבית לסליחות בכותל המערבי נחשפת מציאות טעונה בין יהודים לערבים שבה היסטוריה, דת ופוליטיקה מתנגשות מדי יום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-915611/s1/913159/",
+       "id": "913159",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כח אדם | הצצה",
+       "logo": "https://www.kan.org.il/media/lpaanxop/koahadam-openingtitle.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6k5n1mjn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-21",
+       "plot": "הצצה לסדרה שעוסקת בקונפליקט הישראלי פלסטיני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-915611/944194/",
+       "id": "944194"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

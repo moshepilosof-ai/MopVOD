@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עידן אלתרמן - מופע סטנדאפ",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1084615/",
+   "series_id": "1084615",
+   "updated": "2026-10-28 13:02",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "עידן אלתרמן - מופע סטנדאפ",
+       "logo": "https://www.kan.org.il/media/fz2hoxuu/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231640/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "הקומיקאי האהוב מספר על התנסויות חדשות ומוזרות בחיים שאחרי הגירושים; וגם על הגובה, ההורים, והזיקנה שמחכה לו בסיבוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1084615/1084618/",
+       "id": "1084618"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

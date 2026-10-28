@@ -1,0 +1,2314 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שלוש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-900232/",
+   "series_id": "900232",
+   "updated": "2026-10-28 13:30",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 23.07.26",
+       "logo": "https://www.kan.org.il/media/cdupmkh1/שלוש-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228456/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1080689/",
+       "id": "1080689"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 22.07.26",
+       "logo": "https://www.kan.org.il/media/f5plz34k/94c52d80-4b10-4841-ab37-209d5d7535ce.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1080130/",
+       "id": "1080130"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.07.26",
+       "logo": "https://www.kan.org.il/media/yn1lsazk/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227779/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1079699/",
+       "id": "1079699"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 20.07.26",
+       "logo": "https://www.kan.org.il/media/iushsu4k/3fb30fe1-7f2a-433f-b549-1dfe5af0610b.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227585/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1079219/",
+       "id": "1079219"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 19.07.26",
+       "logo": "https://www.kan.org.il/media/oh0l2pbw/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227034/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1078653/",
+       "id": "1078653"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 16.07.26",
+       "logo": "https://www.kan.org.il/media/55nedasl/e45a8ef9-3aee-48f0-b170-f816db04f62c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226174/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1077548/",
+       "id": "1077548"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 15.07.26",
+       "logo": "https://www.kan.org.il/media/dgvnqjs3/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225567/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1076910/",
+       "id": "1076910"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 14.07.26",
+       "logo": "https://www.kan.org.il/media/bpehpj4o/3504c55e-3405-4c08-aad8-c79aedc14e7d.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225322/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1076352/",
+       "id": "1076352"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 13.07.26",
+       "logo": "https://www.kan.org.il/media/rhuaicy5/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224784/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1075763/",
+       "id": "1075763"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 12.07.26",
+       "logo": "https://www.kan.org.il/media/eqzblvrl/ed04770a-5c66-4d37-b79e-0d1ed6a39054.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224586/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1075297/",
+       "id": "1075297"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 09.07.26",
+       "logo": "https://www.kan.org.il/media/2jrhrsoo/8c8c4af7-3663-4acd-a539-ec0fe3a583d2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223294/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1073814/",
+       "id": "1073814"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 08.07.26",
+       "logo": "https://www.kan.org.il/media/vt2fh2v1/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223058/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1073354/",
+       "id": "1073354"
+      },
+      {
+       "name": "שלוש עם יפעת גליק ותמר אלמוג | 07.07.26",
+       "logo": "https://www.kan.org.il/media/3bdi2lho/38232159-bc09-4f13-8406-dccec1b1c9dd.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222471/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1072695/",
+       "id": "1072695"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 06.07.26",
+       "logo": "https://www.kan.org.il/media/o1ojm45u/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222178/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-06",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1072033/",
+       "id": "1072033"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 05.07.26",
+       "logo": "https://www.kan.org.il/media/1s4ba1gr/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2221597/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1071295/",
+       "id": "1071295"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 02.07.26",
+       "logo": "https://www.kan.org.il/media/5axinu0t/55ac95f6-7f72-4d1d-b2f3-465fc1254a6b.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220111/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-02",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1069467/",
+       "id": "1069467"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 01.07.26",
+       "logo": "https://www.kan.org.il/media/hg3kyqsv/65c45e06-268c-4ad6-a47d-a9558c287877.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219837/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-01",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1068586/",
+       "id": "1068586"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 30.06.26",
+       "logo": "https://www.kan.org.il/media/g1mf4y0z/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219517/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1067734/",
+       "id": "1067734"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 29.06.26",
+       "logo": "https://www.kan.org.il/media/bihp3ku4/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218870/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1066814/",
+       "id": "1066814"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 28.06.26",
+       "logo": "https://www.kan.org.il/media/je1bujus/screenshot-2026-06-28-163311.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218642/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1066225/",
+       "id": "1066225"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.06.26",
+       "logo": "https://www.kan.org.il/media/fiop0lds/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217036/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1063418/",
+       "id": "1063418"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 24.06.26",
+       "logo": "https://www.kan.org.il/media/lnbjbr03/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216636/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-24",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1062421/",
+       "id": "1062421"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 23.06.26",
+       "logo": "https://www.kan.org.il/media/fsifxdc2/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215985/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1061540/",
+       "id": "1061540"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 22.06.26",
+       "logo": "https://www.kan.org.il/media/wo4pf0tw/903406e4-2a59-47ca-ad6b-9b51d8e776fa.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215661/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1060659/",
+       "id": "1060659"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.06.26",
+       "logo": "https://www.kan.org.il/media/pfrflybl/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215051/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1059808/",
+       "id": "1059808"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.06.26",
+       "logo": "https://www.kan.org.il/media/ioldyczm/35b19812-60b4-4ad7-9c69-3b2c1008b2af.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213870/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1057535/",
+       "id": "1057535"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 17.06.26",
+       "logo": "https://www.kan.org.il/media/1lfh3grn/ffb8b476-8240-45b3-92b8-0644b1da3c60.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213249/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-17",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1056654/",
+       "id": "1056654"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 16.06.26",
+       "logo": "https://www.kan.org.il/media/c4uhwcis/3a8158d8-948c-46ff-978d-3fb135c513ec.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212823/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1055709/",
+       "id": "1055709"
+      },
+      {
+       "name": "שלוש עם יפעת גליק ותמר אלמוג | 15.06.26",
+       "logo": "https://www.kan.org.il/media/yg0ker0b/937e0711-abec-426a-98c3-43266b915060.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212297/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1054840/",
+       "id": "1054840"
+      },
+      {
+       "name": "שלוש עם קרן רפאל לנץ | 14.06.26",
+       "logo": "https://www.kan.org.il/media/jmvd2aga/71f94c0a-ab1b-4cd7-aa1a-dbfd0a6bcc7b.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2211989/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1053866/",
+       "id": "1053866"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.06.26",
+       "logo": "https://www.kan.org.il/media/beylyrxj/3_116_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210490/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1051820/",
+       "id": "1051820"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 10.06.26",
+       "logo": "https://www.kan.org.il/media/0bmmuzfp/ef5568e3-774c-4693-889b-a87e305841bb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210159/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1051290/",
+       "id": "1051290"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 09.06.26",
+       "logo": "https://www.kan.org.il/media/wvwhforf/bfc37bdc-5b1f-479e-94c3-36f0aeff4723.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209663/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1050857/",
+       "id": "1050857"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 07.06.26",
+       "logo": "https://www.kan.org.il/media/guipvuom/85988e8b-b716-4ea9-9fd7-4f145331627f.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208721/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1049846/",
+       "id": "1049846"
+      },
+      {
+       "name": "שלוש עם יפעת גליק ותמר אלמוג | 04.06.26",
+       "logo": "https://www.kan.org.il/media/zbmpb2r2/dab0a70d-8481-45e7-892e-377fcf6faf9c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207929/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1048906/",
+       "id": "1048906"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 03.06.26",
+       "logo": "https://www.kan.org.il/media/jcrjhyj5/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207597/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1048571/",
+       "id": "1048571"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 02.06.26",
+       "logo": "https://www.kan.org.il/media/nu0lk23v/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207391/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-02",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1048210/",
+       "id": "1048210"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 01.06.26",
+       "logo": "https://www.kan.org.il/media/hc4dvk2c/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206663/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1047537/",
+       "id": "1047537"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ  | 31.05.26",
+       "logo": "https://www.kan.org.il/media/urth1rju/1fe4ceb3-873d-49e7-be99-1d6f27d27c23.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206546/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1047136/",
+       "id": "1047136"
+      },
+      {
+       "name": "שלוש עם יפעת גליק | 28.05.26",
+       "logo": "https://www.kan.org.il/media/iu3plv3a/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205742/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1046290/",
+       "id": "1046290"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 27.05.26",
+       "logo": "https://www.kan.org.il/media/xemb2tce/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1045941/",
+       "id": "1045941"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 26.05.26",
+       "logo": "https://www.kan.org.il/media/me2oe5rc/b2b4056b-f685-4b1f-86d6-9ad63491683c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204992/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1045593/",
+       "id": "1045593"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.05.26",
+       "logo": "https://www.kan.org.il/media/nwfpl323/שלוששששש_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204503/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1045167/",
+       "id": "1045167"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 24.05.26",
+       "logo": "https://www.kan.org.il/media/fnhehmyv/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203742/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-24",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1044703/",
+       "id": "1044703"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 20.05.26 ",
+       "logo": "https://www.kan.org.il/media/swwghtma/4c747f75-d45b-4e6e-9a4e-8a98c6ddf475.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202568/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1043418/",
+       "id": "1043418"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 19.05.26",
+       "logo": "https://www.kan.org.il/media/a3jlfbxg/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202050/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1042910/",
+       "id": "1042910"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.05.26",
+       "logo": "https://www.kan.org.il/media/p3ycepow/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201827/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1042536/",
+       "id": "1042536"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 17.05.26",
+       "logo": "https://www.kan.org.il/media/4bof0kx3/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201334/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-17",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1042136/",
+       "id": "1042136"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון וקרן רפאלי לנץ | 14.05.26",
+       "logo": "https://www.kan.org.il/media/wbilriqp/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200470/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1041181/",
+       "id": "1041181"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 13.05.26",
+       "logo": "https://www.kan.org.il/media/ks1lsi42/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199959/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1040804/",
+       "id": "1040804"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון וקרן רפאלי לנץ | 12.05.26",
+       "logo": "https://www.kan.org.il/media/zquiwaph/863b8671-ec02-457d-b714-eb4baff2513e.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199716/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1040431/",
+       "id": "1040431"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.05.26 ",
+       "logo": "https://www.kan.org.il/media/e5vjj0xg/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199232/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1040041/",
+       "id": "1040041"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 10.05.26",
+       "logo": "https://www.kan.org.il/media/mhkbzhse/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199013/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1039579/",
+       "id": "1039579"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 07.05.26",
+       "logo": "https://www.kan.org.il/media/lixpr1gg/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197997/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1038487/",
+       "id": "1038487"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 06.05.26",
+       "logo": "https://www.kan.org.il/media/swdjbj0h/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197735/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-06",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1038057/",
+       "id": "1038057"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 05.05.26",
+       "logo": "https://www.kan.org.il/media/kdenqv5s/526e5a02-203a-4abe-9ec9-b89e2bd22175.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196995/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1037622/",
+       "id": "1037622"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 04.05.26 ",
+       "logo": "https://www.kan.org.il/media/wlcbwqwx/3לאתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196679/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1037179/",
+       "id": "1037179"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 03.05.26",
+       "logo": "https://www.kan.org.il/media/vbrg2foy/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196544/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1036730/",
+       "id": "1036730"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 30.04.26",
+       "logo": "https://www.kan.org.il/media/35hj452p/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195650/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1035800/",
+       "id": "1035800"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 29.04.26",
+       "logo": "https://www.kan.org.il/media/ybhal51s/ab3b2376-ee63-433a-b79c-c6b294cd570d.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195257/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-29",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1035346/",
+       "id": "1035346"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 28.04.26",
+       "logo": "https://www.kan.org.il/media/b5fmuxul/שלוש-תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194822/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1034590/",
+       "id": "1034590"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 27.04.26 ",
+       "logo": "https://www.kan.org.il/media/qr0n2132/יונתן-לאתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194320/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1034112/",
+       "id": "1034112"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 26.04.26",
+       "logo": "https://www.kan.org.il/media/i4jd0wzj/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194086/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1033449/",
+       "id": "1033449"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 23.04.26",
+       "logo": "https://www.kan.org.il/media/voxm4qsy/7159d819-61ef-4251-9d6a-3b10521ce65e.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192953/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1032565/",
+       "id": "1032565"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.04.26",
+       "logo": "https://www.kan.org.il/media/zvlpzj3l/d8144838-acde-4172-9f19-0a0140b963e0.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192252/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1031808/",
+       "id": "1031808"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 20.04.26",
+       "logo": "https://www.kan.org.il/media/elbpx3gk/קרן-2.jfif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192014/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1031424/",
+       "id": "1031424"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 19.04.26",
+       "logo": "https://www.kan.org.il/media/ip2pwmpl/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191534/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1030969/",
+       "id": "1030969"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 16.04.26",
+       "logo": "https://www.kan.org.il/media/lstpc0ls/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190580/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1029658/",
+       "id": "1029658"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 15.04.26",
+       "logo": "https://www.kan.org.il/media/nwylfy1n/a1881726-9139-4799-a510-b1999d409f00.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189991/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1029241/",
+       "id": "1029241"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 14.04.26",
+       "logo": "https://www.kan.org.il/media/beelgdwm/8d9778cd-feba-4ffd-9166-3c243b18be87.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189734/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1028785/",
+       "id": "1028785"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון וקרן רפאלי לנץ | 13.04.26",
+       "logo": "https://www.kan.org.il/media/d1xdiyhr/1920x1080_4800_hp00_00_12_30still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189287/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1027338/",
+       "id": "1027338"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 12.04.26",
+       "logo": "https://www.kan.org.il/media/e11h4dga/d456015c-bf5b-484c-9556-0681c48db098.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188470/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-12",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1026376/",
+       "id": "1026376"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון וקרן רפאלי לנץ | 09.04.26",
+       "logo": "https://www.kan.org.il/media/oroa4rtg/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187152/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1025216/",
+       "id": "1025216"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 26.02.26",
+       "logo": "https://www.kan.org.il/media/fd3nlimw/061ddfab-e566-4873-b7d3-fe98aee0f691.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171298/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1003371/",
+       "id": "1003371"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.02.26",
+       "logo": "https://www.kan.org.il/media/pbykyj1b/1920x1080_4800_hp00_20_43_17still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170803/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1003019/",
+       "id": "1003019"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 24.02.26 ",
+       "logo": "https://www.kan.org.il/media/kxkfhccy/4ccf94b2-285f-4719-929e-158e45d1705b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170565/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-24",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1002669/",
+       "id": "1002669"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 23.02.26",
+       "logo": "https://www.kan.org.il/media/k5anut0a/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169855/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1002317/",
+       "id": "1002317"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 22.02.26",
+       "logo": "https://www.kan.org.il/media/x1klab2h/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169714/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1001898/",
+       "id": "1001898"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 19.02.26",
+       "logo": "https://www.kan.org.il/media/l1ehkgrm/29414796-f6b1-4e5c-9bf5-f5b7a5178d3e.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168885/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1001077/",
+       "id": "1001077"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.02.26",
+       "logo": "https://www.kan.org.il/media/lmqpiwgu/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168353/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1000599/",
+       "id": "1000599"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 17.02.26",
+       "logo": "https://www.kan.org.il/media/mjpj5rdr/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168069/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-17",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1000190/",
+       "id": "1000190"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 16.02.26",
+       "logo": "https://www.kan.org.il/media/ivqlu5du/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167655/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/999852/",
+       "id": "999852"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 15.02.26",
+       "logo": "https://www.kan.org.il/media/cinlelv5/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167116/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/999331/",
+       "id": "999331"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.02.26",
+       "logo": "https://www.kan.org.il/media/iqane5yv/שלוש-תיקון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165710/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/998054/",
+       "id": "998054"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 10.02.26",
+       "logo": "https://www.kan.org.il/media/teyewrca/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165550/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/997740/",
+       "id": "997740"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 09.02.26",
+       "logo": "https://www.kan.org.il/media/zhwfrvyl/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165169/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/997336/",
+       "id": "997336"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 08.02.26",
+       "logo": "https://www.kan.org.il/media/x3ujhbbj/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2164651/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-08",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/996928/",
+       "id": "996928"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 05.02.26",
+       "logo": "https://www.kan.org.il/media/ecdapwfu/שלוש00_01_43_38still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2163906/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/996175/",
+       "id": "996175"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 04.02.26",
+       "logo": "https://www.kan.org.il/media/g5odhyc3/שלוש00_01_28_15still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2162947/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/995851/",
+       "id": "995851"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 03.02.26 ",
+       "logo": "https://www.kan.org.il/media/y42macbo/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2158338/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/995486/",
+       "id": "995486"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 02.02.26 ",
+       "logo": "https://www.kan.org.il/media/wpiklrlz/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2153248/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/995173/",
+       "id": "995173"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 01.02.26",
+       "logo": "https://www.kan.org.il/media/no1fd1e3/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2147890/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-01",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/994851/",
+       "id": "994851"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 29.01.26",
+       "logo": "https://www.kan.org.il/media/rgemv0qo/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2134663/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/994138/",
+       "id": "994138"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 28.01.26",
+       "logo": "https://www.kan.org.il/media/p1vhsjmg/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2130676/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/993811/",
+       "id": "993811"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 27.01.26",
+       "logo": "https://www.kan.org.il/media/h3ohbxr5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2125957/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/993488/",
+       "id": "993488"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 26.01.26",
+       "logo": "https://www.kan.org.il/media/e51bgg2b/s0505155_100_00_32_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2121306/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/993142/",
+       "id": "993142"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.01.26",
+       "logo": "https://www.kan.org.il/media/zpel2l54/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2116275/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/992793/",
+       "id": "992793"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 22.01.26",
+       "logo": "https://www.kan.org.il/media/n55nn55o/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2104174/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/991962/",
+       "id": "991962"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.01.26",
+       "logo": "https://www.kan.org.il/media/mb0c5vq1/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2099377/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/991651/",
+       "id": "991651"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 20.01.26",
+       "logo": "https://www.kan.org.il/media/xbmhimne/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2094004/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/991400/",
+       "id": "991400"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 19.01.26",
+       "logo": "https://www.kan.org.il/media/xkphzjou/תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2089599/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/991115/",
+       "id": "991115"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.01.26",
+       "logo": "https://www.kan.org.il/media/5m4j4ru3/s0505149_100_00_17_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2084398/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/990719/",
+       "id": "990719"
+      },
+      {
+       "name": "שלוש עם יפעת גליק | 15.01.26",
+       "logo": "https://www.kan.org.il/media/io2pw5yr/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2073939/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/989953/",
+       "id": "989953"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 14.01.26",
+       "logo": "https://www.kan.org.il/media/3rqpurg4/שלוש-1401.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2070765/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/989657/",
+       "id": "989657"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 13.01.26",
+       "logo": "https://www.kan.org.il/media/eqzhktyl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067811/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/989292/",
+       "id": "989292"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 12.01.26",
+       "logo": "https://www.kan.org.il/media/ysfobboa/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2064669/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-12",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/988925/",
+       "id": "988925"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.01.26",
+       "logo": "https://www.kan.org.il/media/fcspyswy/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2062006/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/988610/",
+       "id": "988610"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 08.01.26",
+       "logo": "https://www.kan.org.il/media/fgylqs1v/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2054792/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-08",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/988016/",
+       "id": "988016"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 07.01.26",
+       "logo": "https://www.kan.org.il/media/ddfbcwpo/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2050227/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/987688/",
+       "id": "987688"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 06.01.26",
+       "logo": "https://www.kan.org.il/media/diehd10c/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2045351/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-06",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/987289/",
+       "id": "987289"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 05.01.26",
+       "logo": "https://www.kan.org.il/media/slvbypnb/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2040485/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/986770/",
+       "id": "986770"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 04.01.26",
+       "logo": "https://www.kan.org.il/media/3h4cbpqu/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035989/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/986416/",
+       "id": "986416"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 01.01.26",
+       "logo": "https://www.kan.org.il/media/cyqik3lg/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026684/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-01",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/985787/",
+       "id": "985787"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 31.12.25",
+       "logo": "https://www.kan.org.il/media/kcanyuyb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025874/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-31",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/985431/",
+       "id": "985431"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 30.12.25",
+       "logo": "https://www.kan.org.il/media/eznnwgl2/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025053/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/985088/",
+       "id": "985088"
+      },
+      {
+       "name": "שלוש עם איתי שיקמן | 29.12.25",
+       "logo": "https://www.kan.org.il/media/2tvp0rpe/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2024267/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/984725/",
+       "id": "984725"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 28.12.25",
+       "logo": "https://www.kan.org.il/media/nxbhc33r/s0505134_100_00_13_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2023446/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/984322/",
+       "id": "984322"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 25.12.25",
+       "logo": "https://www.kan.org.il/media/eosnowce/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011729/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/983651/",
+       "id": "983651"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 24.12.25",
+       "logo": "https://www.kan.org.il/media/paolwwlw/s0505132_100_00_12_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007837/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-24",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/983322/",
+       "id": "983322"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 23.12.25",
+       "logo": "https://www.kan.org.il/media/xs4furwb/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2004047/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/982970/",
+       "id": "982970"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 22.12.25",
+       "logo": "https://www.kan.org.il/media/24apjvle/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2000138/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/982692/",
+       "id": "982692"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.12.25",
+       "logo": "https://www.kan.org.il/media/4rpi4x4f/s0505129_100_03_55_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1996399/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/982323/",
+       "id": "982323"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 18.12.25",
+       "logo": "https://www.kan.org.il/media/lbvp4wbr/שלוש-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1985850/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/981635/",
+       "id": "981635"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 17.12.25",
+       "logo": "https://www.kan.org.il/media/4ipccjkc/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1981571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-17",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/981387/",
+       "id": "981387"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 16.12.25",
+       "logo": "https://www.kan.org.il/media/tggnxnhz/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1978784/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/980986/",
+       "id": "980986"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 15.12.25",
+       "logo": "https://www.kan.org.il/media/wfnflmkl/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975447/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/980668/",
+       "id": "980668"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 14.12.25",
+       "logo": "https://www.kan.org.il/media/2e1dafbj/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1972244/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/980274/",
+       "id": "980274"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 11.12.25",
+       "logo": "https://www.kan.org.il/media/or4oqyk4/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1962917/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/979626/",
+       "id": "979626"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 10.12.25",
+       "logo": "https://www.kan.org.il/media/0y2eh44s/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961847/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/979362/",
+       "id": "979362"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 09.12.25",
+       "logo": "https://www.kan.org.il/media/njkfb0de/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961402/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/978762/",
+       "id": "978762"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 08.12.25",
+       "logo": "https://www.kan.org.il/media/uaxjbneu/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961032/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/978065/",
+       "id": "978065"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 07.12.25",
+       "logo": "https://www.kan.org.il/media/yltjdvdo/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1960213/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/977635/",
+       "id": "977635"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 04.12.25",
+       "logo": "https://www.kan.org.il/media/tzlfrpk3/אוחי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1954988/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/976857/",
+       "id": "976857"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 03.12.25",
+       "logo": "https://www.kan.org.il/media/kwfdmese/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953666/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/976607/",
+       "id": "976607"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 02.12.25",
+       "logo": "https://www.kan.org.il/media/dz2dveoi/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1952995/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-02",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/976193/",
+       "id": "976193"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 01.12.25",
+       "logo": "https://www.kan.org.il/media/uezf31la/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1952228/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/975755/",
+       "id": "975755"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 30.11.25",
+       "logo": "https://www.kan.org.il/media/wqobsdoh/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1950960/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/975456/",
+       "id": "975456"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 27.11.25",
+       "logo": "https://www.kan.org.il/media/kzzf5ue5/קרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949995/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/974778/",
+       "id": "974778"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 26.11.25",
+       "logo": "https://www.kan.org.il/media/aujpbjbd/s0505112_1_t00_04_28_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949762/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/974357/",
+       "id": "974357"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.11.25",
+       "logo": "https://www.kan.org.il/media/21hm1ask/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949534/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/974007/",
+       "id": "974007"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 24.11.25",
+       "logo": "https://www.kan.org.il/media/rcghrrsz/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1948914/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-24",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/973532/",
+       "id": "973532"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 23.11.25",
+       "logo": "https://www.kan.org.il/media/xeul1j3c/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1945794/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/973142/",
+       "id": "973142"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 20.11.25",
+       "logo": "https://www.kan.org.il/media/wsodmvsg/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937055/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/972338/",
+       "id": "972338"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 19.11.25",
+       "logo": "https://www.kan.org.il/media/i0uj2akw/אוחיון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1933970/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/972144/",
+       "id": "972144"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.11.25",
+       "logo": "https://www.kan.org.il/media/dmvehypc/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1930496/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/971626/",
+       "id": "971626"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 17.11.25",
+       "logo": "https://www.kan.org.il/media/fzadb523/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1927254/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-17",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/971298/",
+       "id": "971298"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 16.11.25",
+       "logo": "https://www.kan.org.il/media/3umpqwir/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1923852/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/970997/",
+       "id": "970997"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 13.11.25",
+       "logo": "https://www.kan.org.il/media/a2kpmhrl/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1914439/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/970322/",
+       "id": "970322"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 12.11.25",
+       "logo": "https://www.kan.org.il/media/vtilvs5v/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1911091/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-12",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/970133/",
+       "id": "970133"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.11.25",
+       "logo": "https://www.kan.org.il/media/cjfnyydv/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907331/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/969631/",
+       "id": "969631"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 10.11.25",
+       "logo": "https://www.kan.org.il/media/txjbadol/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1903797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/969232/",
+       "id": "969232"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 09.11.25",
+       "logo": "https://www.kan.org.il/media/kq2ftkah/s0505099_1_t02_00_13_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1900309/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/968865/",
+       "id": "968865"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 06.11.25",
+       "logo": "https://www.kan.org.il/media/ebnfedu2/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894902/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-06",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/968125/",
+       "id": "968125"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 05.11.25",
+       "logo": "https://www.kan.org.il/media/ssuopynq/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1892291/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/967869/",
+       "id": "967869"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 04.11.25",
+       "logo": "https://www.kan.org.il/media/mzsll1kv/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891775/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/967408/",
+       "id": "967408"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 03.11.25",
+       "logo": "https://www.kan.org.il/media/kcwn5ctp/s0505095_1_t00_00_06_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891633/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/967029/",
+       "id": "967029"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 02.11.25",
+       "logo": "https://www.kan.org.il/media/slufqa4s/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891566/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-02",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/966579/",
+       "id": "966579"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 30.10.25",
+       "logo": "https://www.kan.org.il/media/2jhb1cid/s0505093_1_t00_28_39_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891425/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/965775/",
+       "id": "965775"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 29.10.25",
+       "logo": "https://www.kan.org.il/media/3nfciube/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891366/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/965424/",
+       "id": "965424"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 28.10.25",
+       "logo": "https://www.kan.org.il/media/01zkntmi/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891294/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/964986/",
+       "id": "964986"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 27.10.25",
+       "logo": "https://www.kan.org.il/media/300ducl1/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891231/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/964558/",
+       "id": "964558"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 26.10.25",
+       "logo": "https://www.kan.org.il/media/mc0blvnx/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891176/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/963851/",
+       "id": "963851"
+      },
+      {
+       "name": "שלוש עם יפעת גליק | 23.10.25",
+       "logo": "https://www.kan.org.il/media/n51fdlex/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891049/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/962864/",
+       "id": "962864"
+      },
+      {
+       "name": "שלוש עם יפעת גליק | 22.10.25",
+       "logo": "https://www.kan.org.il/media/kpyglyal/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890999/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/962569/",
+       "id": "962569"
+      },
+      {
+       "name": "שלוש עם קרן אוזן | 21.10.25",
+       "logo": "https://www.kan.org.il/media/sjfh4kek/שלוש-211025.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890945/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/962166/",
+       "id": "962166"
+      },
+      {
+       "name": "שלוש עם קרן אוזן | 20.10.25",
+       "logo": "https://www.kan.org.il/media/qignuxwu/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890899/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/961872/",
+       "id": "961872"
+      },
+      {
+       "name": "שלוש עם קרן אוזן | 19.10.25",
+       "logo": "https://www.kan.org.il/media/fmwiozev/כמעט-שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890848/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/961526/",
+       "id": "961526"
+      },
+      {
+       "name": "שלוש עם יפעת גליק ותמר אלמוג | 16.10.25",
+       "logo": "https://www.kan.org.il/media/wcqc4n4z/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890769/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/960762/",
+       "id": "960762"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 15.10.25",
+       "logo": "https://www.kan.org.il/media/4huipwhm/קרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890681/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/960270/",
+       "id": "960270"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 08.10.25",
+       "logo": "https://www.kan.org.il/media/dvontvic/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1889175/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-08",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/957837/",
+       "id": "957837"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 05.10.25",
+       "logo": "https://www.kan.org.il/media/4rrhlyqv/שלוש-בשתיים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1889151/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/956972/",
+       "id": "956972"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 30.09.25",
+       "logo": "https://www.kan.org.il/media/1fff3yuf/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8xurbmn6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/955937/",
+       "id": "955937"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 29.09.25",
+       "logo": "https://www.kan.org.il/media/v4nnhc3d/קרן-רפאלי-לנץ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dt5bbvva/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/955537/",
+       "id": "955537"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 28.09.25",
+       "logo": "https://www.kan.org.il/media/ukolnljp/s0505069_100_00_24_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mz8cap58/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/955136/",
+       "id": "955136"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.09.25",
+       "logo": "https://www.kan.org.il/media/mk1pmyfe/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7icawgu8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/954315/",
+       "id": "954315"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.09.25",
+       "logo": "https://www.kan.org.il/media/qflndag4/כג.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tqgdacz5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/953268/",
+       "id": "953268"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.09.25",
+       "logo": "https://www.kan.org.il/media/0xrd2uph/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_so3u8gfh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/952452/",
+       "id": "952452"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 17.09.25",
+       "logo": "https://www.kan.org.il/media/y3xgmlfp/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4g8jv0ds/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-17",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/952103/",
+       "id": "952103"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 15.09.25",
+       "logo": "https://www.kan.org.il/media/zcnmkwfr/s0505060_100_00_32_16still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vsa215nl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/951405/",
+       "id": "951405"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 14.09.25",
+       "logo": "https://www.kan.org.il/media/2wfo0wnt/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_av05ykrb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/951005/",
+       "id": "951005"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.09.25",
+       "logo": "https://www.kan.org.il/media/pqrnzgsg/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7aeuxqwi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/950274/",
+       "id": "950274"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 10.09.25",
+       "logo": "https://www.kan.org.il/media/ovmnk1mb/קרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w7ztr83t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/949180/",
+       "id": "949180"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 09.09.25",
+       "logo": "https://www.kan.org.il/media/a0ipkq4k/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7n2gz65h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/949566/",
+       "id": "949566"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 07.09.25",
+       "logo": "https://www.kan.org.il/media/zf2dtaor/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2q89qjok/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/948938/",
+       "id": "948938"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 04.09.25",
+       "logo": "https://www.kan.org.il/media/ziybrpnz/s0505053_100_00_30_12still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_edq6v3yc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/948153/",
+       "id": "948153"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 03.09.25",
+       "logo": "https://www.kan.org.il/media/2t2jbclv/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ada3ojkp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/947787/",
+       "id": "947787"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 02.09.25",
+       "logo": "https://www.kan.org.il/media/ietovhsq/יונתן-אוחיון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4laa2j77/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-02",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/947413/",
+       "id": "947413"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 01.09.25",
+       "logo": "https://www.kan.org.il/media/gjufjwzz/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eyr7r29c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-01",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/947080/",
+       "id": "947080"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 31.08.25",
+       "logo": "https://www.kan.org.il/media/aahl2zu0/יונתן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mu2p7vzx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-31",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/946772/",
+       "id": "946772"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 28.08.25",
+       "logo": "https://www.kan.org.il/media/4jmjjpzz/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rnrsu9ph/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/946058/",
+       "id": "946058"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 27.08.25",
+       "logo": "https://www.kan.org.il/media/wkkedj4c/יונתן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2w0qgvx1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/945694/",
+       "id": "945694"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.08.25",
+       "logo": "https://www.kan.org.il/media/hquecmyp/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rb5g9inl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/944932/",
+       "id": "944932"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 24.08.25",
+       "logo": "https://www.kan.org.il/media/dgtf224b/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v10l2w3y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-24",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/944566/",
+       "id": "944566"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 21.08.25",
+       "logo": "https://www.kan.org.il/media/phgneiq0/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0traac0i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/943916/",
+       "id": "943916"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 20.08.25",
+       "logo": "https://www.kan.org.il/media/1wvf544p/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rekl3h6t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/943603/",
+       "id": "943603"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 19.08.25",
+       "logo": "https://www.kan.org.il/media/5uulkech/יונתן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8g7zdusj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/943110/",
+       "id": "943110"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.08.25",
+       "logo": "https://www.kan.org.il/media/smhheg4s/s0505040_100_00_35_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y0qh6wko/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/942540/",
+       "id": "942540"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 14.08.25",
+       "logo": "https://www.kan.org.il/media/fbgndyyj/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kyuah41t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/941250/",
+       "id": "941250"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 13.08.25",
+       "logo": "https://www.kan.org.il/media/ecebpbo0/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8u3rc1q3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/940970/",
+       "id": "940970"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 12.08.25",
+       "logo": "https://www.kan.org.il/media/mtrlkgl3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_doba79jr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-12",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/940510/",
+       "id": "940510"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.08.25",
+       "logo": "https://www.kan.org.il/media/tvvat4vu/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ujp6p23t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/940165/",
+       "id": "940165"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 10.08.25",
+       "logo": "https://www.kan.org.il/media/kt5adrm5/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kxu9ztlj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/939835/",
+       "id": "939835"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 07.08.25",
+       "logo": "https://www.kan.org.il/media/oz0i0fil/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9a0z022u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/939113/",
+       "id": "939113"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 06.08.25 ",
+       "logo": "https://www.kan.org.il/media/1cuhhbmc/שלוש-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_57lq4muw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/938751/",
+       "id": "938751"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 05.08.25",
+       "logo": "https://www.kan.org.il/media/h3fn4ncy/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i545555j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/938374/",
+       "id": "938374"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 04.08.25",
+       "logo": "https://www.kan.org.il/media/ikhgn3jo/untitled-1-recovered.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ydbpx1hf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/938012/",
+       "id": "938012"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 03.08.25",
+       "logo": "https://www.kan.org.il/media/p3vbp1qd/יותנן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2sldvuvv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/937589/",
+       "id": "937589"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 31.07.25",
+       "logo": "https://www.kan.org.il/media/javfmseb/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_25x2e600/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-31",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/936869/",
+       "id": "936869"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 30.07.25",
+       "logo": "https://www.kan.org.il/media/3yni2gq2/יונתן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jo2i68in/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/936443/",
+       "id": "936443"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 29.07.25",
+       "logo": "https://www.kan.org.il/media/yj5przum/שלוש-לאתר-סופייייייייייייייייייייייייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5lr5mnlg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/936103/",
+       "id": "936103"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 28.07.25",
+       "logo": "https://www.kan.org.il/media/bsxplo1o/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j7ft6hlg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/935766/",
+       "id": "935766"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 27.07.25",
+       "logo": "https://www.kan.org.il/media/mdpjndjn/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sttm3ir2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/935542/",
+       "id": "935542"
+      },
+      {
+       "name": "שלוש עם איתי שיקמן | 24.07.25",
+       "logo": "https://www.kan.org.il/media/jc3dvbcc/s0505023_100_00_50_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k69c5uvk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-24",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/934744/",
+       "id": "934744"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 23.07.25",
+       "logo": "https://www.kan.org.il/media/infddb1r/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ggotdzs0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-23",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/934348/",
+       "id": "934348"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 22.07.25",
+       "logo": "https://www.kan.org.il/media/zphhtqul/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5r3fykko/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/933952/",
+       "id": "933952"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.07.25",
+       "logo": "https://www.kan.org.il/media/5volun2s/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3093ls4c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/933554/",
+       "id": "933554"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 20.07.25",
+       "logo": "https://www.kan.org.il/media/dwznpv2e/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hlzmayxy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/933157/",
+       "id": "933157"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 17.07.25",
+       "logo": "https://www.kan.org.il/media/1trjvobq/שלוש-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xb1b91rb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-17",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/932386/",
+       "id": "932386"
+      },
+      {
+       "name": "שלוש עם איתי שיקמן | 16.07.25",
+       "logo": "https://www.kan.org.il/media/enrachkz/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j0uy0ynf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-16",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/931990/",
+       "id": "931990"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 15.07.25",
+       "logo": "https://www.kan.org.il/media/uu0n5oml/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5g8li1yh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/931656/",
+       "id": "931656"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 14.07.25",
+       "logo": "https://www.kan.org.il/media/ucnnj54y/שלוש.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b33mp8ye/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/931199/",
+       "id": "931199"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 13.07.25",
+       "logo": "https://www.kan.org.il/media/u2qevdsy/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_etsferhc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/930730/",
+       "id": "930730"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 11.07.25",
+       "logo": "https://www.kan.org.il/media/zp3hif5r/תמונה-בשלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jullrudl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/901020/",
+       "id": "901020"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 10.07.25",
+       "logo": "https://www.kan.org.il/media/injchnc2/יונתן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3a1yzktx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/930002/",
+       "id": "930002"
+      },
+      {
+       "name": "שלוש עם איתי שיקמן | 09.07.25",
+       "logo": "https://www.kan.org.il/media/dgcdbav5/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ll2kamn3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/929633/",
+       "id": "929633"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 08.07.25",
+       "logo": "https://www.kan.org.il/media/ihcmhoxd/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_16lm9zve/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-08",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/929289/",
+       "id": "929289"
+      },
+      {
+       "name": "07.07.25 | שלוש עם יונתן אוחיון",
+       "logo": "https://www.kan.org.il/media/pecpaxxu/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2iwvkwmo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-07",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/928833/",
+       "id": "928833"
+      },
+      {
+       "name": "06.07.25 | שלוש עם יונתן אוחיון",
+       "logo": "https://www.kan.org.il/media/vs2gjyzj/שלוש.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e101cx38/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-06",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/928448/",
+       "id": "928448"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 03.07.25",
+       "logo": "https://www.kan.org.il/media/zgcffwfy/s0505008_100_00_14_23still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z04knxoy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/927680/",
+       "id": "927680"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 02.07.25",
+       "logo": "https://www.kan.org.il/media/r2ed43vi/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_896w40g9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-02",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/927297/",
+       "id": "927297"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 01.07.25",
+       "logo": "https://www.kan.org.il/media/elkpw2gw/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bq7i3b8t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-01",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/926963/",
+       "id": "926963"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 30.06.25",
+       "logo": "https://www.kan.org.il/media/fd2lxajr/שלוש-לאתר-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z5zbjgwy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-30",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/926604/",
+       "id": "926604"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 29.06.25",
+       "logo": "https://www.kan.org.il/media/ffccnzk1/s0505004_1_t00_00_07_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hqv5jtbi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/926168/",
+       "id": "926168"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 26.06.25",
+       "logo": "https://www.kan.org.il/media/vmdheoir/יונתן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nbo2s3fy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/925523/",
+       "id": "925523"
+      },
+      {
+       "name": "שלוש עם איתי שיקמן | 12.06.25",
+       "logo": "https://www.kan.org.il/media/imookfik/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yhg5hk8i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-12",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/919114/",
+       "id": "919114"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 11.06.25",
+       "logo": "https://www.kan.org.il/media/z0kfkxdo/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ldyjluh7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-11",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/918728/",
+       "id": "918728"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 10.06.25",
+       "logo": "https://www.kan.org.il/media/5wajdkuk/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w9fawpib/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-10",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/918300/",
+       "id": "918300"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 09.06.25",
+       "logo": "https://www.kan.org.il/media/bwvhmm2t/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7pv64xq7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-09",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/917822/",
+       "id": "917822"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 08.06.25",
+       "logo": "https://www.kan.org.il/media/vwzlmf4i/שלוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rw7zcnep/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-08",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/917409/",
+       "id": "917409"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 05.06.25",
+       "logo": "https://www.kan.org.il/media/0aslkz5z/untitled-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jpjlkb5b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-05",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/915679/",
+       "id": "915679"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 04.06.25",
+       "logo": "https://www.kan.org.il/media/2apjpkj4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fozh3g5j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-04",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/915150/",
+       "id": "915150"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 03.06.25",
+       "logo": "https://www.kan.org.il/media/p4mpjcip/כאן-בשלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_km5m7a8h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-03",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/914703/",
+       "id": "914703"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 29.05.25",
+       "logo": "https://www.kan.org.il/media/44rbos0r/כאן-בשלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ghreln8y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-29",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/913363/",
+       "id": "913363"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 28.05.25",
+       "logo": "https://www.kan.org.il/media/5tohlx2d/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dk9mk6xl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-28",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/912928/",
+       "id": "912928"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 27.05.25",
+       "logo": "https://www.kan.org.il/media/ybjpchai/kan11clean_2025-05-27_15_06_55.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kymoh6vn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-27",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/912434/",
+       "id": "912434"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 26.05.25",
+       "logo": "https://www.kan.org.il/media/3bubabl1/אוחיון-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sn3jyg11/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-26",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/912035/",
+       "id": "912035"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 25.05.25",
+       "logo": "https://www.kan.org.il/media/vgvhuhba/s0504979_1_t00_00_11_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8obt76ic/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-25",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/911612/",
+       "id": "911612"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 22.05.25",
+       "logo": "https://www.kan.org.il/media/x11htbub/שלוש.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gpbiwdi0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-22",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/910859/",
+       "id": "910859"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 21.05.25",
+       "logo": "https://www.kan.org.il/media/dbqj3st0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h0wp178s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-21",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/908816/",
+       "id": "908816"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 20.05.25",
+       "logo": "https://www.kan.org.il/media/fzxiwqqp/כאן-בלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_595l0u5y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-20",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/908278/",
+       "id": "908278"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 19.05.25",
+       "logo": "https://www.kan.org.il/media/soapmuap/s0504975_100_00_11_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l561o9qr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-19",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/904935/",
+       "id": "904935"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 18.05.25",
+       "logo": "https://www.kan.org.il/media/n5qdpjrp/s0504974_100_00_00_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2yy042ci/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-18",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/904588/",
+       "id": "904588"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 15.05.25",
+       "logo": "https://www.kan.org.il/media/jmhdvlqw/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5guvfv6q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-15",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/902912/",
+       "id": "902912"
+      },
+      {
+       "name": "שלוש עם קרן רפאלי לנץ | 14.05.25",
+       "logo": "https://www.kan.org.il/media/gmwlo1kt/שלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zpjfgjgy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-14",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/902490/",
+       "id": "902490"
+      },
+      {
+       "name": "שלוש עם יונתן אוחיון | 13.05.25",
+       "logo": "https://www.kan.org.il/media/qqqap0ab/כאן-בשלוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9j6po0fy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-13",
+       "plot": "מהדורת החדשות הראשונה של היום. הכתבות, הדיווחים, הראיונות והסיפורים הכי חשובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900232/902188/",
+       "id": "902188"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

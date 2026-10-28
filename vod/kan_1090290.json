@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סיפורם של אנשים שנקלעו למצב אבוד ויצאו ממנו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1090290/",
+   "series_id": "1090290",
+   "updated": "2026-10-28 13:00",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "גיבורים בעל כורחם עונה 3 | פרק 6 - למרות הכל",
+       "logo": "https://www.kan.org.il/media/emuem5xn/arc_xxxxxxxx_1_v100_26_47_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242007/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורה של בלה צור שלקתה בשיתוק ילדים בילדותה, אך המחלה לא שיתקה אותה - היא לחמה, נאבקה, יצאה במחול ולא הניחה להשפלות ולקשיי הנכות לדכא אותה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s3/1095429/",
+       "id": "1095429",
+       "season": 3
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 3 | פרק 5 - תלייה נוחה",
+       "logo": "https://www.kan.org.il/media/acljby5j/arc_xxxxxxxx_1_v100_01_06_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242006/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של יהודה תג'ר שעמד בראש רשת ריגול ישראלית בבגדד לפני יותר מ- 40 שנה, נתפס, עונה, ישב 10 שנים בכלא העיראקי ושרד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s3/1095420/",
+       "id": "1095420",
+       "season": 3
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 3 | פרק 4 - נאחזת באוויר",
+       "logo": "https://www.kan.org.il/media/jquhpbb1/arc_xxxxxxxx_1_v100_23_22_14still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242002/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורה של שי זליג שנפצעה קשה בתאונת דרכים, הפכה למשותקת וכנגד כל הסיכויים הבריאה והפכה ללוליינית טרפז",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s3/1095410/",
+       "id": "1095410",
+       "season": 3
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 3 | פרק 3 - סודות במנזר",
+       "logo": "https://www.kan.org.il/media/i0odce0s/arc_xxxxxxxx_1_v100_03_27_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242001/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של פרופ' שלמה ברזניץ שהוסתר כשהיה בן 8 בידי הוריו במנזר בזמן השואה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s3/1095407/",
+       "id": "1095407",
+       "season": 3
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 3 | פרק 2 - שישה מוקשים דרוכים",
+       "logo": "https://www.kan.org.il/media/thhhsknu/arc_xxxxxxxx_1_v100_21_59_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242707/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של מוחמד הזימה, חבלן בצבא, שהצליח להציל כנגד כל הסיכויים פצוע משדה מוקשים במלחמת ההתשה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s3/1095397/",
+       "id": "1095397",
+       "season": 3
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 3 | פרק 1 - חיבוק הקוברה",
+       "logo": "https://www.kan.org.il/media/ogqnjf1d/arc_xxxxxxxx_1_v100_13_35_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241992/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפור גבורתם של טייסי מסוק הקוברה, שחילצו את הטייס שהתרסק עם מטוסו ועם הנווט רון ארד בלבנון בשנת 1986",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s3/1095385/",
+       "id": "1095385",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "גיבורים בעל כורחם עונה 2 | פרק 7 - ד\"ר רחמים מלמד",
+       "logo": "https://www.kan.org.il/media/2dlj3vjc/arc_xxxxxxxx_1_v100_03_01_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241990/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של רחמים מלמד הסובל משיתוק כללי אולם מתעקש להיאבק במגבלות הגוף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s2/1095378/",
+       "id": "1095378",
+       "season": 2
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 2 | פרק 5 - שרה קברטה",
+       "logo": "https://www.kan.org.il/media/cqbizfca/arc_xxxxxxxx_1_v100_14_13_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241985/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורה של שרה קברטה, עולה מאתיופיה שצעדה כ-1000 ק\"מ ללא מזון או מים במדבריות שוממים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s2/1095359/",
+       "id": "1095359",
+       "season": 2
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 2 | פרק 6 - מלכה אברמסון",
+       "logo": "https://www.kan.org.il/media/yf1lnato/arc_xxxxxxxx_1_v100_19_58_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241984/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורה של מלכה אברמסון שהצילה את משפחתה שנלכדה בבית בוער וכתוצאה מכך נכוותה ב-%85 מגופה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s2/1095354/",
+       "id": "1095354",
+       "season": 2
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 2 | פרק 4 - פרופסור יורם עשת",
+       "logo": "https://www.kan.org.il/media/zkrjxfo3/arc_xxxxxxxx_1_v100_33_21_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241978/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של יורם עשת, פצוע ראש ממלחמת יום כיפור שהצליח להתאושש ואף הפך לפרופסור לחשיבה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s2/1095337/",
+       "id": "1095337",
+       "season": 2
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 2 | פרק 3 - נחום נשר",
+       "logo": "https://www.kan.org.il/media/1upn4qnu/arc_xxxxxxxx_1_v100_07_57_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241975/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של איש השב\"כ נחום נשר, שנפל בשבי הסורי והוחזק בכלא הנודע אל-מאזה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s2/1095329/",
+       "id": "1095329",
+       "season": 2
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 2 | פרק 2 - ג'ורג' ואקנין",
+       "logo": "https://www.kan.org.il/media/wiam0evn/arc_xxxxxxxx_1_v100_25_25_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241973/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של מנתח המוח ג'ורג' ואקנין הנלחם במחלת הסרטן המקננת בגופו.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s2/1095314/",
+       "id": "1095314",
+       "season": 2
+      },
+      {
+       "name": "גיבורים בעל כורחם עונה 2 | פרק 1 - חיים סתיו",
+       "logo": "https://www.kan.org.il/media/wvfk4zpm/arc_xxxxxxxx_1_v100_20_09_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241967/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "סיפורו של הצוללן חיים סתיו שנלכד בבריכת הכור הגרעיני והצליח להיחלץ ממנה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s2/1095296/",
+       "id": "1095296",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "גיבורים בעל כורחם | פרק 1 - אריה יצחק",
+       "logo": "https://www.kan.org.il/media/qcoozqzt/arc_xxxxxxxx_1_v100_38_01_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236898/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "סיפורו של לוחם הקומנדו הימי אריה יצחק, המספר את סיפור השרדותו מתקופת מלחמת ההתשה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/s1/1090296/",
+       "id": "1090296",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "גיבורים בעל כורחם | פתיח",
+       "logo": "https://www.kan.org.il/media/rr0jlsgv/arc_xxxxxxxx_1_v100_01_02_22still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241994/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "פתיח לסדרת התעודה \"גיבורים בעל כורחם\" בהנחיית ירין קימור, העוסקת בכל תוכנית באישים בעלי סיפור גבורה מעורר השראה. שודרה בשנים 1989, 2003 ו-2006",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1090290/1095382/",
+       "id": "1095382"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

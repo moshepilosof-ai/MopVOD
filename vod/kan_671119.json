@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הגל\"צניקים | פרקים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671119/",
+   "series_id": "671119",
+   "updated": "2026-10-28 09:46",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הגל\"צניקים | פתיח",
+       "logo": "https://www.kan.org.il/media/vmfabjgr/הגלצניקים-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6w5dmbuh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "פתיח לסדרה \"הגל\"צניקים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671119/943596/",
+       "id": "943596"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

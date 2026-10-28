@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ספרים על המסך",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-794984/",
+   "series_id": "794984",
+   "updated": "2026-10-28 13:02",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "דרמות לפי ספרים | העושה נפלאות",
+       "logo": "https://www.kan.org.il/media/wtjesxmc/העושה-נפלאות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rk5k58fu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-08",
+       "plot": "אדם מוזר, זקנו מגולח וצילינדר לעינו, עובר דרך עיירה יהודית ערב חג הפסח. תושבי השכונה מנסים להבין מדוע הוא אינו אוכל דבר, ומהי מטרת המסע האמיתית שלו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/810150/",
+       "id": "810150",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | מי ורדים מפורט סעיד",
+       "logo": "https://www.kan.org.il/media/auqjk4un/פורט-סעיד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zutrdnvy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "סרטו של רם לוי על מערכת יחסים סבוכה המתפתחת בין עבד שנשלח כמתנה ממאהב עבר, לאלמנה ושתי בנותיה השבות מן הניכר. מבוסס על ספרו של גדעון תלפז",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795213/",
+       "id": "795213",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | אבות ובנים",
+       "logo": "https://www.kan.org.il/media/eaypf2qw/אבות-ובנים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ute31bwc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "המורה מרים נכנסת לחדר המורים כהרגלה ופוגשת במי שמוסר את יומנו של בנה היחיד שנהרג במלחמת ששת הימים. על פי המחזה של בנימין גלאי ובבימויו והפקתו של אנדרי קאלאראשו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795199/",
+       "id": "795199",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | בעלת הארמון",
+       "logo": "https://www.kan.org.il/media/hkqgf0ot/בעלת-הארמון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c3tguv21/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "שני שליחים מארץ ישראל נקלעים לארמון באירופה בתום מלחמת העולם השנייה. על פי המחזה של לאה גולדברג ובבימויו של אילן אלדד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795190/",
+       "id": "795190",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | במו ידיו",
+       "logo": "https://www.kan.org.il/media/zmklsvex/במו-ידיו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s17r1545/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "סיפור ארצישראלי שכתב משה שמיר על אחיו אליק ועלילות חייו. בבימויו של שמואל אימברמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795186/",
+       "id": "795186",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | האשמה",
+       "logo": "https://www.kan.org.il/media/aqvnpzuv/האשמה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_errnlysp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "מחזה דוקומנטרי על משפט בייליס מאת רומן פריסטר. בהפקתו ובימויו של אפרים סטן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795181/",
+       "id": "795181",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | אלבום המשפחה של הורוביץ",
+       "logo": "https://www.kan.org.il/media/et4djtdl/אלבום-המשפחה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_akeop6vg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "אדם זר נכנס לביתה של משפחה ותיקה באזור השרון, לאחר מותו, עברו המוזר מתחיל להתגלות. ע\"פ סיפורו של יגאל מוסינזון, בבימויו  של עמק פרי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795175/",
+       "id": "795175",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | חבילות מאמריקה",
+       "logo": "https://www.kan.org.il/media/yhrfftmv/חבילות-מאמריקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7iczicjs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "אישה מבוגרת מקבלת חבילות באופן קבוע מאחותה העשירה שחיה את החלום האמריקאי, עד שהיא זוכה בפרס כספי ומגלה שלא כל הנוצץ זהב. מחזה טלוויזיוני ע\"פ ספרו של יעקב שבתאי בבימויו של עמק פרי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795162/",
+       "id": "795162",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | החצר של מומו הגדולה",
+       "logo": "https://www.kan.org.il/media/sradijjo/מומו-הגדולה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rkaiik9s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "פקיד מכס שוכר חדר מרוהט בחצר שיתופית, בה גרות משפחות נוספות. הוא מתאהב באישה נשואה המבוגרת ממנו במספר שנים ומשם הכול מתחיל להסתבך.  מחזה טלוויזיוני ע\"פ ספרה של יהודית הנדל בבימויו של יהודה ג'אד נאמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795039/",
+       "id": "795039",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | ציד הצביה",
+       "logo": "https://www.kan.org.il/media/jwujyshq/ציד-הצביה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_br2wtgi1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "סיפור של משולש אהבים בו מעורבים שני גברים ואשה הצדים צביה ליד אילת, שחקנים: אילן דר, דן בן אמוץ, ליאורה לפידות. בבימויו של ראובן מורגן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795033/",
+       "id": "795033",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | עוולה",
+       "logo": "https://www.kan.org.il/media/iw4fomg5/עוולה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sub984gz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "על ההבדלים בין השלטון התורכי לשלטון הבריטי בפלשתינה, כשמצד אחד יהודים סבלו מחרדה קיומית ומחסור כלכלי, ובצד השני היה שפע וציפייה לשלטון מסוג חדש. בבימויו של תום לוי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795032/",
+       "id": "795032",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | הרופא הקטן מרחוב החבשים",
+       "logo": "https://www.kan.org.il/media/ztub2ohw/הרופא-הקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pndhfeoi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "מחזה לפי ספרו של דוד שחר על הדילמות המוסריות של רופא בשכונה קטנה שבה כולם מכירים את כולם. בבימויו של יהודה נאמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795016/",
+       "id": "795016",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | פרנהיים",
+       "logo": "https://www.kan.org.il/media/eepdemze/פרנהיים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j8ks2m2l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "מחזה לפי סיפורו של ש\"י עגנון על התמודדותו של שבוי שחזר מלחימה ארוכה בשבי האויב. בבימויו של יוסי יזרעאל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/795008/",
+       "id": "795008",
+       "season": 1
+      },
+      {
+       "name": "דרמות לפי ספרים | מוטל בן פייסי החזן",
+       "logo": "https://www.kan.org.il/media/1umdbgec/מוטל-בן-פייסי-החזן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sbk1pl3a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-01",
+       "plot": "אנו מקבלים הצצה לחייהם של היהודים במזרח אירופה בתחילת המאה ה-20. חיי הקהילה, השאיפות ומצבם הכלכלי דרך עיניו התמימות של ילד יהודי. בבימויו של אנטואן סאלח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/794988/",
+       "id": "794988",
+       "season": 1
+      },
+      {
+       "name": "ספרים על המסך | בתחילת קיץ 70",
+       "logo": "https://www.kan.org.il/media/bywnstor/בתחילת-קיץ-70.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d9etefg7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "על פי ספרו של א.ב. יהושע, אב מגלה על מותו ההרואי של בנו לאחר שחזר מ-3 שנים בארה\"ב. בבימויו של אדוארד אטלר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/s1/785471/",
+       "id": "785471",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "דרמות לפי ספרים - הצצה |  על \"מוטל בן פייסי החזן\" של שלום עליכם",
+       "logo": "https://www.kan.org.il/media/pcohty3g/סיפורים-על-המסך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k7qs6w7l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הצצה לפרק על \"מוטל בן פייסי החזן\" של שלום עליכם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-794984/861635/",
+       "id": "861635"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

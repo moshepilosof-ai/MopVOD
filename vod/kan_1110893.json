@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הנווט",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1110893/",
+   "series_id": "1110893",
+   "updated": "2026-10-28 10:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרויקט מיוחד: קרוביו של רון ארד מספרים על האדם שהיה – והמאבק להשבתו",
+       "logo": "https://www.kan.org.il/media/4odcw1ys/רון-ארד-200_02_14_35.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2255825/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-15",
+       "plot": "\"אין ישראלי שלא מכיר את תמונתו של רון ארד. מחר נציין את יום השנה הארבעים לנפילתו בשבי של הנווט, שהפך לסמל ישראלי. ועדיין, נראה שאנחנו יודעים מעט מאד על רון ארד האדם, האבא, בן הזוג והחבר. חלק ראשון של ״הנווט״ - פרויקט מיוחד לציון 40 שנה לחטיפתו של רון ארד",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1110893/s1/1109707/",
+       "id": "1109707",
+       "season": 1
+      },
+      {
+       "name": "40 שנה לרון ארד: מאחורי הקלעים של החטיפה וניסיונות השחרור",
+       "logo": "https://www.kan.org.il/media/xmifjfnh/רון-ארד00_05_45_48.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2255499/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-14",
+       "plot": "השבוע לפני 40 שנה בדיוק נפתח אחד הפרקים הקשים בהיסטוריה של ישראל. רון ארד נפל בשבי, ומדינה שלמה עקבה בנשימה עצורה אחרי מאמצים חובקי עולם, חסרי תקדים, להחזיר אותו הביתה. לתעלומה הזאת לא היה סוף טוב. אבל מה קרה מאחורי הקלעים, ומה אפשר ללמוד מהפרשה הזאת על מה שעברנו בשנים האחרונות?\n\nחלק ראשון של ״הנווט״ - פרויקט מיוחד לציון 40 שנה לחטיפתו של רון ארד\nתחקיר: ערן גואלי",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1110893/s1/1109369/",
+       "id": "1109369",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

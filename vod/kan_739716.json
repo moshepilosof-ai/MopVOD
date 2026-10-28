@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חברים שרים קורין",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-739716/",
+   "series_id": "739716",
+   "updated": "2026-10-28 10:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חברים שרים קורין - הצצה | נוגה ארז",
+       "logo": "https://www.kan.org.il/media/bncfeim0/קורין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1s7j5ty9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-20",
+       "plot": "ביצוע משותף ומרגש לשיר \"ארץ קטנה עם שפם\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-739716/873034/",
+       "id": "873034"
+      },
+      {
+       "name": "חברים שרים קורין",
+       "logo": "https://www.kan.org.il/media/u2pfe45h/corinne-still_213311.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vq8d3bv9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "מופע מיוחד לציון חמישים שנות יצירה של קורין אלאל, מחלוצות הרוק הנשי בישראל. בהשתתפות אורחים מיוחדים: אביתר בנאי, אסף אמדורסקי, ברי סחרוף, נגה ארז, קרולינה, ערן צור עלמה גוב ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-739716/739723/",
+       "id": "739723"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

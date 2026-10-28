@@ -1,0 +1,131 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - האיש שרצה לדעת הכול",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-578430/",
+   "series_id": "578430",
+   "updated": "2026-10-28 09:44",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "האיש שרצה לדעת הכל - פרק 8",
+       "logo": "https://www.kan.org.il/media/jydk00jt/פרק-8-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bcdksgxy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-09",
+       "plot": "פרק סיום העונה. אבי ואורנה יוצאים לעצור את קובי ברכה בחשד לרצח. המצב מסתבך דווקא בגלל ניסיונותיהם שלא לסכן את מלי ושתי הילדות שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/681399/",
+       "id": "681399",
+       "season": 1
+      },
+      {
+       "name": "האיש שרצה לדעת הכל - פרק 7",
+       "logo": "https://www.kan.org.il/media/hrslusd3/פרק-7-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nni6we8d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-31",
+       "plot": "אבי ואורנה מוצאים בזירת הרצח טוקמן שלא שייך לישראל גל. דיאנה גולדין מגיעה לתחנת המשטרה ומספקת מידע נוסף בעוד החוקרים מגיעים אל מלי ברכה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/666311/",
+       "id": "666311",
+       "season": 1
+      },
+      {
+       "name": "האיש שרצה לדעת הכל | פרק 5",
+       "logo": "https://www.kan.org.il/media/1zsjc0h1/פרק-5-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y8dyyn1u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-31",
+       "plot": "אבי ואורנה עוצרים חשוד מרכזי חדש. נדמה שהם מצאו את האיש, אבל האם יצליחו להוכיח את אשמתו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/666308/",
+       "id": "666308",
+       "season": 1
+      },
+      {
+       "name": "האיש שרצה לדעת הכל | פרק 3",
+       "logo": "https://www.kan.org.il/media/o4gpjxei/פרק-3-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b3rs7xhx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-31",
+       "plot": "החשוד המרכזי, מארגן הכנס במלון בבת ים, מגיע מרצונו למסור עדות. החקירה מסתבכת כשהראיות מצביעות על אדם נוסף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/666304/",
+       "id": "666304",
+       "season": 1
+      },
+      {
+       "name": "האיש שרצה לדעת הכל | פרק 6",
+       "logo": "https://www.kan.org.il/media/uj5ldgad/פרק-6-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jpvyv06c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-30",
+       "plot": "קובי ממשיך בחקירה שלו ומצליח להתחקות אחרי האיש שהמשטרה לא הצליחה להפליל. החוקרים אבי ואורנה מתמודדים עם תוצאות המפגש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/631964/",
+       "id": "631964",
+       "season": 1
+      },
+      {
+       "name": "האיש שרצה לדעת הכל | פרק 4",
+       "logo": "https://www.kan.org.il/media/dbejl45j/פרק-4-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f8vt085r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-30",
+       "plot": "קובי מאבד אמון במשטרה ויוצא לחקירה עצמאית משלו. הוא נחוש למצוא את האנס שהרס את חיי משפחתו. גם במחיר שקר למלי אשתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/631961/",
+       "id": "631961",
+       "season": 1
+      },
+      {
+       "name": "האיש שרצה לדעת הכל | פרק 2",
+       "logo": "https://www.kan.org.il/media/msrjspkp/לאתר-החדש-התמונה-היא-החדשה-האתר-פחות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_59336558/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-22",
+       "plot": "חוקר המשטרה אבי אברהם ממונה להיות ראש צוות חקירה מיוחד בדיוק כשחברתו עוזבת אותו. לצוות מצטרפת אורנה דניס, חוקרת מנוסה אבל מעצבנת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/578453/",
+       "id": "578453",
+       "season": 1
+      },
+      {
+       "name": "האיש שרצה לדעת הכל | פרק 1",
+       "logo": "https://www.kan.org.il/media/1ehbldmz/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6ee94am7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-22",
+       "plot": "דרמה בלשית חדשה המבוססת על ספרו של דרור משעני. מלי יוצאת למלון ליום גיבוש מטעם עבודתה. בלילה קורה אירוע שמטלטל את חייה ואת חיי בעלה. כעבור עשרה חודשים יתרחש מקרה דומה באותה רשת. האם יש קשר בין הפשעים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/s1/578431/",
+       "id": "578431",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "האיש שרצה לדעת הכל - הצצה | עוד אישה הותקפה",
+       "logo": "https://www.kan.org.il/media/vfdcvyat/הצצה-2-לאיש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9y12wkko/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "מקרה נוסף של תקיפה אכזרית מתרחש באותו בית מלון, הפעם התוקף יתפס או שהחקירה שוב תשתבש?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/866273/",
+       "id": "866273"
+      },
+      {
+       "name": "האיש שרצה לדעת הכול - הצצה | תלונה במשטרה",
+       "logo": "https://www.kan.org.il/media/0ccfsyn3/הצצה-1-לאיש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qfj9cw1l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "מלי מגיעה לתחנת המשטרה להתלונן על התוקף שלה. היא מנסה לשחזר בפני החוקרת את אירועי הלילה הקודם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/866269/",
+       "id": "866269"
+      },
+      {
+       "name": "האיש שרצה לדעת הכל - טריילר",
+       "logo": "https://www.kan.org.il/media/ggqlg1ro/1920x1080_האיש-שרצה-לדעת-הכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_69eytca2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "זוג חוקרים מנסה לפענח את מניעיו של תוקף מסתורי שדורש לדעת הכל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-578430/866167/",
+       "id": "866167"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

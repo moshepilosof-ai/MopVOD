@@ -1,0 +1,143 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תן-קו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670660/",
+   "series_id": "670660",
+   "updated": "2026-10-28 13:41",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "13.2.1989 - תן-קו | פרק 4",
+       "logo": "https://www.kan.org.il/media/gykaet1o/tenkav04web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd6t2bdw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אל שני המתחרים הפעם מצטרפים גם עדנה לב ודודו דותן. מי יזהה יותר פתגמים מצוירים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671831/",
+       "id": "671831",
+       "season": 1
+      },
+      {
+       "name": "תן-קו | פרק 5 - 2.2.1989",
+       "logo": "https://www.kan.org.il/media/vnpd4mbt/tenkav05web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7rb7huih/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הפעם מציירים ומשתעשעים הבדרנית ציפי שביט, הזמר דודו פישר והפזמונאית שמרית אור, בתוכנית מבדרת במיוחד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671828/",
+       "id": "671828",
+       "season": 1
+      },
+      {
+       "name": "27.2.1989 - תן-קו | פרק  6",
+       "logo": "https://www.kan.org.il/media/pj4nbica/tenkav06web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z1iqrofm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אורנה ומשה דץ מתחרים בקרוליין לנגפורד על זיהוי פתגמים ידועים ושמות שירים וסרטים, והכול בציור על הלוח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671825/",
+       "id": "671825",
+       "season": 1
+      },
+      {
+       "name": "תן-קו | פרק 7 - 6.3.1989",
+       "logo": "https://www.kan.org.il/media/cd5pqltn/tenkav07web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lpy32u0y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שני צוותים, ובהם גם הזמרת שלווה ברטי והזמר אדם, מנסים לגלות איזה פתגם ידוע, שיר או סרט מסתתרים מאחורי הציורים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671822/",
+       "id": "671822",
+       "season": 1
+      },
+      {
+       "name": "13.3.1989 - תן-קו | פרק 8",
+       "logo": "https://www.kan.org.il/media/txcnp030/tenkav08web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_530o04y1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יזהר כהן וקובי אושרת מנחשים ביטויים מצוירים ומפגינים יכולות איור מרשימות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671819/",
+       "id": "671819",
+       "season": 1
+      },
+      {
+       "name": "20.3.1989 - תן-קו | פרק 9",
+       "logo": "https://www.kan.org.il/media/oiflaysr/tenkav09web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r15m3k8m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית מיוחדת והיתולית לפורים שבה מתמודדות צוות מלכות היופי מול חברי להקת \"פנצ'ר\" במשחקי ניחוש ציורים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671816/",
+       "id": "671816",
+       "season": 1
+      },
+      {
+       "name": "27.3.1989 - תן-קו | פרק 10",
+       "logo": "https://www.kan.org.il/media/zcgbvebc/tenkav10web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zth8cvrn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהבמה ומהקולנוע אל בלוק הציור והטושים - ששי קשת ויונה אליאן-קשת מול זאב רווח וגאולה נוני מנחשים את הביטויים שמאחורי הקווים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671813/",
+       "id": "671813",
+       "season": 1
+      },
+      {
+       "name": "3.4.1989 - תן-קו | פרק 11",
+       "logo": "https://www.kan.org.il/media/nkvdbwyb/tenkav11web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qgegajbj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שרי צוריאל ודפנה ארמוני מתחרות בזיהוי פתגמים ואמרות ידועות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671810/",
+       "id": "671810",
+       "season": 1
+      },
+      {
+       "name": "10.4.1989 - תן-קו | פרק 12",
+       "logo": "https://www.kan.org.il/media/jq2p0shm/tenkav12web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5t8t0vj0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "רוחמה רז ונתן נתנזון הם בין הידוענים שנותנים קו הפעם ומתחרים בציור ובזיהוי ביטויים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671807/",
+       "id": "671807",
+       "season": 1
+      },
+      {
+       "name": "17.4.1989 - תן-קו | פרק 13",
+       "logo": "https://www.kan.org.il/media/bpsnlsqd/tenkav13web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_udoja9ym/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית משעשעת במיוחד עם ציפי מור וניסים גרמה, שידוע לכול שהם מוכשרים בתחומם, אך האם יצליחו להפתיע ולנצח במשחק ניחושי הציורים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671804/",
+       "id": "671804",
+       "season": 1
+      },
+      {
+       "name": "27.4.1989 - תן-קו | פרק 14",
+       "logo": "https://www.kan.org.il/media/cjgl4jsg/tenkav14web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wdaojfer/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית מיוחדת ואחרונה לעונה ובה מתחרים שני צוותים של מאיירים ומאיירות שציירו לאורך העונה. הפעם הפתגמים קשים במיוחד, האם הכישרון יהיה להם לעזר?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/s1/671801/",
+       "id": "671801",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "תן קו | הצצה",
+       "logo": "https://www.kan.org.il/media/3hdoqp45/תן-קו-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gfssmpum/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "הצצה לשעשועון היצירתי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670660/938955/",
+       "id": "938955"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

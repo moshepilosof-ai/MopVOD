@@ -1,0 +1,243 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סיטון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-753702/",
+   "series_id": "753702",
+   "updated": "2026-10-28 12:37",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סיטון | פרק 21 - שתי וערב (חלק ד')",
+       "logo": "https://www.kan.org.il/media/rxznf2kh/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v1g61kas/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "המשפט הארוך מגיע לסיומו. מי יזכה בתינוק? ומה דעתה של אשתו של מאיר? שודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753741/",
+       "id": "753741",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 20 - שתי וערב (חלק ג')",
+       "logo": "https://www.kan.org.il/media/xjbkvmkv/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_69luhfvu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "אמינותה של קרן מתערערת אך מנגד המניע של מאיר להכנסתה להריון מתחזק. שודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753739/",
+       "id": "753739",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 19 - שתי וערב (חלק ב')",
+       "logo": "https://www.kan.org.il/media/o4wnusvd/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3f8tfdmt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "קרן נותנת עדות. מאיר מבקש לאמץ את ילדם המשותף לאחר שיוולד. שודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753737/",
+       "id": "753737",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 18 - שתי וערב (חלק א')",
+       "logo": "https://www.kan.org.il/media/kqfbq0ut/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8cn2f6u3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "סיטון סנגורו של גבר נשוי הנאשם בקיום יחסי מין עם קטינה והכנסתה להריון. האם יוכל להצילו? שודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753734/",
+       "id": "753734",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 17 - פוטומונטאז'",
+       "logo": "https://www.kan.org.il/media/jzepa5gl/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_44xtj78b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "אישה מבקשת לברר את זהות הוריה הביולוגיים. מה סיטון יגלה עליהם?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753733/",
+       "id": "753733",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 16 - מוסר כליות (חלק ב')",
+       "logo": "https://www.kan.org.il/media/5h2dlgqu/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d5wf53os/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "הדיון הרגיש מגיע לסיומו. האם השופטת תפסוק בעד התרומה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753732/",
+       "id": "753732",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 15 - מוסר כליות (חלק א')",
+       "logo": "https://www.kan.org.il/media/xntltqep/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a56vc977/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "אב מבקש מבית המשפט שיאשר לבנו בעל הצרכים המיוחדים לתרום לו כליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753731/",
+       "id": "753731",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 14 - חשיפת יתר (חלק ד')",
+       "logo": "https://www.kan.org.il/media/0rfdk1il/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vw55ab1u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "מקצועיותו של השופט בתיק עומדת למבחן בעוד שדרמה מתחוללת בביתו של האב כאשר הוא נחשד כי הוא מחזיק את ילדיו בניגוד לרצונם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753730/",
+       "id": "753730",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 13 - חשיפת יתר (חלק ג')",
+       "logo": "https://www.kan.org.il/media/dgthsocb/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_md2wkh2m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "סיטון מבקש מהשופט לפרוש עקב הערות הומופוביות. מה יהיה עתיד המשפט?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753728/",
+       "id": "753728",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 12 - חשיפת יתר (חלק ב')",
+       "logo": "https://www.kan.org.il/media/gdmjtvy2/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eldc8qyd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "סודו של הבעל נחשף והמשפט מעמיק ומסתבך. איך הסוד ישפיע על הכרעת השופט?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753727/",
+       "id": "753727",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 11 - חשיפת יתר (חלק א')",
+       "logo": "https://www.kan.org.il/media/ygplwtzq/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bhfrpnms/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "גבר מבקש להתגרש מאשתו אך מסרב להודות בסיבות לגירושין. מה הוא מסתיר?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753726/",
+       "id": "753726",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 10 - אהבה אסורה (חלק ג')",
+       "logo": "https://www.kan.org.il/media/t2gh0u05/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ealjihzy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "המשפט מגיע לסופו והפתעה שהופכת את ההכרעה מגיעה מכיוון לא צפוי. מה יעלה בגורל הזוג?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753725/",
+       "id": "753725",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 9 - אהבה אסורה (חלק ב')",
+       "logo": "https://www.kan.org.il/media/zdynstf4/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a9uma8du/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "שאלות צצות על טיב הקשר האסור כאשר לא ברור אם הזוג רוצה לשמור על ההריון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753723/",
+       "id": "753723",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 8 - אהבה אסורה (חלק א')",
+       "logo": "https://www.kan.org.il/media/4ulp44ok/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nsu70pvt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "מורה נשפטת על קשר אסור עם תלמיד. העניינים מסתבכים כשהיא מגלה על הריון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753722/",
+       "id": "753722",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 7 - הרצחת וגם ירשת (חלק ג')",
+       "logo": "https://www.kan.org.il/media/rkbism1b/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gifshhro/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "המשפט מגיע לשיאו כשסיטון מבקש לעזוב את התיק ומתגלה פרט חדש ומכריע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753721/",
+       "id": "753721",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 6 - הרצחת וגם ירשת (חלק ב')",
+       "logo": "https://www.kan.org.il/media/33tje05z/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eb0198zj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "לחץ כבד מופעל מצד החרדים. איך זה ישפיע על המשך המשפט?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753720/",
+       "id": "753720",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 5 - הרצחת וגם ירשת (חלק א')",
+       "logo": "https://www.kan.org.il/media/lrnl0ruv/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_99w7k7lp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "צעירה חרדית מבקשת לחשוף את האמת בנוגע למות אחותה וביתה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753719/",
+       "id": "753719",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 4 - אלכסנדריה (חלק ב')",
+       "logo": "https://www.kan.org.il/media/3a5d3gks/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mncz4itx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "המשפט על זכותה של אלכסנדריה לעבור הפלה מחריף. האם השופט יפסוק לזכותה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753717/",
+       "id": "753717",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 3 - אלכסנדריה (חלק א')",
+       "logo": "https://www.kan.org.il/media/yyohb415/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dhf5omn0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "עולה חדשה מרוסיה המתגרשת מבעלה נאבקת על זכותה לעבור הפלה בניגוד לרצונו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753714/",
+       "id": "753714",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 2 - קול הדם (חלק ב')",
+       "logo": "https://www.kan.org.il/media/cf3lktjb/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zu526gzw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "במהלך המשפט על המשמורת של מאיה מתגלים פרטים אפלים מהעבר של אביה וסבה. איך זה ישפיע על ההכרעה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753711/",
+       "id": "753711",
+       "season": 1
+      },
+      {
+       "name": "סיטון | פרק 1 - קול הדם (חלק א')",
+       "logo": "https://www.kan.org.il/media/hanl13y0/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5r2si4id/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "סיטון מלווה אדם הנאבק בהורי אשתו המנוחה על משמורת בתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/s1/753705/",
+       "id": "753705",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סיטון | פתיח",
+       "logo": "https://www.kan.org.il/media/hv3h0mrw/צילום-מסך-2025-08-18-130251.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_20ebkdfw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרת הדרמה \"סיטון\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-753702/942644/",
+       "id": "942644"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

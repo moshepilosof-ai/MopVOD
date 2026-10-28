@@ -1,0 +1,311 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מנאייכ",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12394/",
+   "series_id": "12394",
+   "updated": "2026-10-28 12:24",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "מנאייכ 3 | פרק 10 (אחרון) - תקווה",
+       "logo": "https://www.kan.org.il/media/qivbwd0h/לאתר-פרק-10-מנאייכ-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_52mtat4f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-20",
+       "plot": "פרק 10 עצורים ממלאים את חדרי החקירות בקומת הצח\"מ, שם שלל בחורינו הטובים מנסים להוציא מהם את מה שהם רוצים על רוה\"מ, בטכניקות שחלקן גבוליות למדי. ברק וילדיו מוחזקים על ידי הרשות להגנת עדים, כלואים במלון – בשעה שהוא נאלץ להתמודד עם התפתחות בלתי צפויה וגרועה מאוד מבחינתו: איזי הולך לפסול את ההסכם עד מדינה שלו. הוא הולך לכלא אלא אם יקרה משהו קיצוני.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/707890/",
+       "id": "707890",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 9 - התפרקות",
+       "logo": "https://www.kan.org.il/media/ytwc5w2n/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1zxap76o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-14",
+       "plot": "שוטרי ראשון עושים את המהלך שלהם בלי לדעת שברק מכר אותם למח\"ש, איזי מתעמת עם פרקש בנושא הרוגלות, החקירה של הצח\"מ מתחילה להאיץ ומגדל הקלפים של ברק מתמוטט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/704401/",
+       "id": "704401",
+       "season": 3
+      },
+      {
+       "name": "כוכבי \"מנאייכ\" עונים על השאלות עליהם בגוגל",
+       "logo": "https://www.kan.org.il/media/i2opquo3/gggg.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e6dtmdcg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-12",
+       "plot": "מתי שלום אסייג ילד את בנו הראשון, מי היא אישתו של עמוס תמם, מי זה ברק הראל ומי מגלמת את טל בן הרוש?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/702473/",
+       "id": "702473",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 8 - תוצאות",
+       "logo": "https://www.kan.org.il/media/4myfaaqy/לאתר-מנאייכ-3-פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8787h75d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-07",
+       "plot": "בעידודה של טל, מעשיו של אוסמה מעמידים אותו בפני עימות ישיר עם אבא שלו ועם נציגו מנסור. במקביל להתמודדות עם מה שקרה להם בכפר קאסם שוטרי ראשון נערכים לטפל באיום עוד יותר גדול לפני שיפיל אותם. ברק מנסה להרגיע את השטח ומבין שזה לא יקרה כל עוד לייבו עושה מה שבראש שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/699461/",
+       "id": "699461",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 7 - מניע",
+       "logo": "https://www.kan.org.il/media/nyxidifg/מנאייכ-3-פרק-7-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0mppw3wa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-06",
+       "plot": "ברק מוטרד מהמהלכים שטל דופקת לו בגזרה, בזמן שהשוטרים שלו נכנסים לתוך מלכודת בכפר קאסם. קובי נאלץ להוריד את הכפפות מול היועמ\"ש בנוגע להסכם עד המדינה של ברק. איזי מבין שהמערכת עושה פאולים רציניים ביותר בתיקי רוה\"מ, אבל מצד שני גם מתחיל להבין מה עומד מאחורי מוטיבציית היתר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/699113/",
+       "id": "699113",
+       "season": 3
+      },
+      {
+       "name": "צריכים רענון קל? ריקאפ העונות הקדומות",
+       "logo": "https://www.kan.org.il/media/zynjbxcb/מנאייכ_169_ללא-לוגו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a3lpefoy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-04",
+       "plot": "לא זוכרים מה בדיוק קרה? בשביל זה אנחנו כאן. ריקאפ שתי העונות הראשונות של \"מנאייכ\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/697728/",
+       "id": "697728",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 6 - מלכודות",
+       "logo": "https://www.kan.org.il/media/zxofnc1v/מנאיכ-3-פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f27osj0m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-31",
+       "plot": "ברק מתמודד עם השאלות של איזי לגבי ליל התאונה ונאלץ לכבות שריפות מכל הכיוונים, במיוחד כשלייבו מעלה הילוך במעקב שלו אחריו. טל מבינה שמשטרת ישראל לא הולכת לשחרר אותה כל כך בקלות ושהיא היא למעשה נענשת על הבחישה שלה בענייניו של ברק הראל. כל זה גורם לה רק לבחוש הרבה יותר חזק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/695459/",
+       "id": "695459",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 5 - מבחן",
+       "logo": "https://www.kan.org.il/media/df0drgut/מנאייכ-3-פרק-5-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bghfulgx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-31",
+       "plot": "יוליה מגלה שהדרך להצטרפות רשמית לכנופיית שוטרי ראשון רצופה באתגרים קשים שהיא לא ציפתה להם; הטבעת מתהדקת סביב אודי רובין, דודו וזיגדון - וסוד אפל מהעבר מאיים להטביע את ברק ואת אנשיו; החקירה של טל יוצרת קרעים גם בינה לעוז וגם בתוך משפחת הפשע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/695456/",
+       "id": "695456",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 4 - אודי",
+       "logo": "https://www.kan.org.il/media/vjihshqd/מנאיכ-3-פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_si83kkaa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-28",
+       "plot": "חבר חדש ומסתורי מצטרף לצח\"מ מחטיבת המודיעין של המשטרה. החשדות של לייבו כלפי ההתנהלות של ברק מתגברים. איזי מבין שטל משחקת משחק מסוכן, ומנסה להציל אותה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/693488/",
+       "id": "693488",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 3 - אמת",
+       "logo": "https://www.kan.org.il/media/g5xkbgzl/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u03397eb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-28",
+       "plot": "ברק עושה פוליגרף וכל המערכת במתח. איזי צריך להתמודד עם שאלות שמתחילות להגיע מכיוון כפר קאסם, וטל הולכת רחוק בנקמה האישית שלה נגד ברק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/693480/",
+       "id": "693480",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | איזי בכר מתדרך אותנו לקראת המנאייכ ",
+       "logo": "https://www.kan.org.il/media/awjfviv5/whatsapp-image-2024-01-24-at-144656.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ugm0rkjy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-24",
+       "plot": "רגע לפני שהבלאגן מתחיל בפעם השלישית, איזי בכר (שלום אסייג) עושה לנו תדריך מקיף על האקשן שבא עלינו לטובה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/691422/",
+       "id": "691422",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 2 - בריחה",
+       "logo": "https://www.kan.org.il/media/1mwp1g30/לאתר-עונה-3-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tsgj6ml2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-17",
+       "plot": "ברק מקבל בשורה שגורמת לו לאבד עשתונות ולבצע מהלך קיצוני ביותר. שוטרי ראשון מנקים אחרי התאונה שבה נהרג אדהם - מבלי לדעת שטל בן הרוש כבר בעקבותיהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/686145/",
+       "id": "686145",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | פרק 1",
+       "logo": "https://www.kan.org.il/media/14td1wvm/לאתר-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4a6kir7n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-17",
+       "plot": "פרק פתיחת העונה. איזי חושד בברק אבל המערכת מגוננת עליו כי הוא מביא חומרים מעולים לחקירה. במקביל, שוטרי ראשון לציון מגלים שאדהם אבו כמאל עושה בלאגן, מאחורי גבם של תמיר וגילי. הניסיון שלהם לטפל בבעיה זו נגמר בצורה הכי גרועה שיש, אבל פותח צוהר לטל בן הרוש לחזור למשחק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/686141/",
+       "id": "686141",
+       "season": 3
+      },
+      {
+       "name": "מנאייכ עונה 3 | טריילר",
+       "logo": "https://www.kan.org.il/media/s2lbdecs/1920x1080_no-logo_מנאייכ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iw9zlrr3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-02",
+       "plot": "\"חוקי המשחק משתנים\": איזי בכר (שלום אסייג) וברק הראל (עמוס תמם) חוזרים לעונה נוספת ונלחמים ראש בראש. מי ינצח הפעם? צפו בטריילר לעונה החדשה של \"מנאייכ\" שתעלה בכאן BOX ובכאן 11 ב-24.1",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s3/667820/",
+       "id": "667820",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "מנאייכ עונה 2 | פרק 10 - מערכת",
+       "logo": "https://www.kan.org.il/media/4jvpfrct/https-kanstaticazureedgenet-download-pictures-2022-7-17-imgid-78031_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7k4nt7u8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרק סיום העונה: הרשת מתהדקת סביב ברק בדיוק כשהוא לא מצפה לזה וטל מנסה בציפורניים לצאת מהמצב הקשה אליו נקלעה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/147690/",
+       "id": "147690",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 9 - מחיר",
+       "logo": "https://www.kan.org.il/media/35gkh3ry/https-kanstaticazureedgenet-download-pictures-2022-7-14-imgid-77877_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6rpy460k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תמיר וברק מקדמים את התוכניות הגדולות שלהם בלי לדעת שהם עדיין בסכנה. טל מתקשה להתמודד עם ההשלכות של התרסקות החקירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/147615/",
+       "id": "147615",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 8 - שבירה",
+       "logo": "https://www.kan.org.il/media/l3qkju1b/https-kanstaticazureedgenet-download-pictures-2022-7-10-imgid-77591_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_upky445w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מסתבר שברק היה מוכן למתקפה של אנשי מח\"ש והכין תכנית ליום סגריר. התיק מתפרק לאיזי, טל והיבא בין הידיים. נראה שהכול אבוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/147483/",
+       "id": "147483",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 7 - חופש",
+       "logo": "https://www.kan.org.il/media/eiab4tzs/https-kanstaticazureedgenet-download-pictures-2022-7-10-imgid-77590_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qkr07pqs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה שנייה לדרמה המשטרתית זוכת פרס האקדמיה. פרק 7. חופש: בעוד ברק נופש בחו\"ל (ולא רק נופש) אנשי מח\"ש מפתיעים את שוטרי ראשון ואת צמרת המשטרה – ועוברים לשלב הגלוי בחקירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/147480/",
+       "id": "147480",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 4 - עובדים",
+       "logo": "https://www.kan.org.il/media/a4bpnpse/https-kanstaticazureedgenet-download-pictures-2022-6-29-imgid-76996_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_njbfku1j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה שנייה לדרמה המשטרתית זוכת פרס האקדמיה. פרק 4. עובדים: מצבה של טל משתפר ובמקביל איזי והיבא מתחילים להשיג הישגים, אבל הם לא יודעים שברק מקדים אותם בכמה וכמה צעדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/147090/",
+       "id": "147090",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 5 - כיוון",
+       "logo": "https://www.kan.org.il/media/dv2plqde/https-kanstaticazureedgenet-download-pictures-2022-6-29-imgid-76984_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5lhx0si6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה שנייה לדרמה המשטרתית זוכת פרס האקדמיה. פרק 5. כיוון: ברק גורם לדודו להתערב בנעשה במח\"ש, במקביל מצבה של טל משתפר והיא מתעקשת להשתחרר הביתה בניגוד להמלצות הרופאים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/147078/",
+       "id": "147078",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 6 - שינוי",
+       "logo": "https://www.kan.org.il/media/n3bimjav/https-kanstaticazureedgenet-download-pictures-2022-6-29-imgid-76983_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qxnjwcs0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה שנייה לדרמה המשטרתית זוכת פרס האקדמיה. פרק 6. שינוי: התקדמות משמעותית בחקירה ובמקביל טל מנסה לחזור לעבוד למרות שזה לגמרי מוקדם מדי. פרקליט המדינה חושב מחדש על התיק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/147075/",
+       "id": "147075",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 3 - שיבוש",
+       "logo": "https://www.kan.org.il/media/quglzcm0/https-kanstaticazureedgenet-download-pictures-2022-6-15-imgid-76236_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0bfzlxl0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ברק מבין שהוא נמצא שוב בסכנה ומתחיל לפעול בהתאם. בינתיים צוות הבדיקה של מח\"ש מתחיל לעבוד – אבל עם המון מקלות בגלגלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/146517/",
+       "id": "146517",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 2 - האשמה",
+       "logo": "https://www.kan.org.il/media/zkkplh2a/https-kanstaticazureedgenet-download-pictures-2022-6-9-imgid-75901_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qnmt6aqc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "טל מתעוררת ומפנה אצבע מאשימה לכיוון מי שלדעתה ניסה לחסל אותה. איזי מוצא את עצמו נשאב בחזרה לעולם שחשב שהשאיר מאחור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/146307/",
+       "id": "146307",
+       "season": 2
+      },
+      {
+       "name": "מנאייכ עונה 2 | פרק 1 - לחץ",
+       "logo": "https://www.kan.org.il/media/aqnk5pp3/https-kanstaticazureedgenet-download-pictures-2022-6-7-imgid-75752_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8j349kh7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה שנייה לדרמה המשטרתית זוכת פרס האקדמיה. פרק 1. לחץ - בעקבות מציאת גופתו של רוסלן, טל מתחילה לחקור מחדש את נסיבות הירצחו למרות שכל מי שמסביבה מנסה לעצור אותה, כולל איזי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s2/146166/",
+       "id": "146166",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מנאייכ | פרק 1 - חברים",
+       "logo": "https://www.kan.org.il/media/324pieq0/https-kanstaticazureedgenet-download-pictures-2020-8-2-imgid-36765_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_txt1zt6g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רגע לפני פרישה, תיק אלימות משטרתית שאיזי טיפל בו, מטויח מאחורי גבו על ידי הדרגים הבכירים במח\"ש ובמשטרה. במקביל הוא נחשף לחקירה שהחשוד המרכזי בה הוא אחד מחבריו הטובים ביותר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/s1/114969/",
+       "id": "114969",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מנאייכ | טריילר",
+       "logo": "https://www.kan.org.il/media/hichbfdz/1920x1080-with-logo_מנאייכ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o0gfg6xq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-17",
+       "plot": "טריילר לעונה השלישית של סדרת הדרמת מתח המשטרתית \"מנאייכ\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/871628/",
+       "id": "871628"
+      },
+      {
+       "name": "מנאייכ - הצצה | הפוליגרף של ברק",
+       "logo": "https://www.kan.org.il/media/ztkjxrc3/מנאייכ-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2b9re3g1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "ברק עובר בדיקת פוליגרף ואיזי לא מרוצה מהתוצאות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/855891/",
+       "id": "855891"
+      },
+      {
+       "name": "מנאייכ - הצצה | ירי מטווח אפס",
+       "logo": "https://www.kan.org.il/media/b0cjnxyc/מנאייכ-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_izq7mzo4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "אירוע ירי מטווח אפס מתרחש במסעדה ומפתיע את כולם, התוקף מנסה להימלט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12394/855889/",
+       "id": "855889"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

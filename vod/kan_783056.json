@@ -1,0 +1,177 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מי זאת?",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-783056/",
+   "series_id": "783056",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "מי זאת? עונה 2 | פרק 10 - רק בנות",
+       "logo": "https://www.kan.org.il/media/zbynz0bb/s0578579_100_07_08_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185793/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-05",
+       "plot": "פרק סיום העונה לתכנית המערכונים הנשית שלא עושה חשבון, והפעם: האם בנות מתנהגות אחרת כשהן לבד? והאם היללי יכולה בלי אמא?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/1023661/",
+       "id": "1023661",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 8 - קשה לומר שלום",
+       "logo": "https://www.kan.org.il/media/5dwo4wt1/s0492132_100_11_57_16still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183633/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-30",
+       "plot": "שיחת בנות חושפת סוד מביך, סדנה לאמהות שבורות, הזוג המותש נוסע לצימר, ואיך נפרדים מקולגה בדרך להמתת חסד?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/1020891/",
+       "id": "1020891",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 9 - אמא יודעת הכי טוב",
+       "logo": "https://www.kan.org.il/media/a31jsvoi/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168319/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-18",
+       "plot": "החברות הגזעניות מדסקסות תרבות, לאיזה חוג רושמים ילדה קטנה, אמא חוטפת ג'ננה בגינת משחקים, וריאיון חושפני עם שחקנית מצליחה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/1000408/",
+       "id": "1000408",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 5 - בפרקים הקודמים",
+       "logo": "https://www.kan.org.il/media/ponjxh52/מי-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166225/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-12",
+       "plot": "תשוקות בסדרת טלוויזיה ויקטוריאנית, שאלה רטורית מקבלת תשובה כנה מדיי, שיפוצניק מבטיח שלא להבטיח ופרסומת למאפייה הכי מפנקת בעיר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/998343/",
+       "id": "998343",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 7 - אוכלת סרט",
+       "logo": "https://www.kan.org.il/media/prxptbal/אתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165548/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "איך מתמודדים עם גיי שאיננו גיי, איך מתמודדים עם שכן ערבי, איך מתמודדים עם בגידה ואיך מתמודדים עם להיט חדש של להקה אהובה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/997744/",
+       "id": "997744",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 6 - בחדר עם חני",
+       "logo": "https://www.kan.org.il/media/q4fpnnua/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165547/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "כוכבת הרשת עלטה עושה שת\"פ, היללי ואמא הולכות להיבדק, מהו גזר הדין במשפט הפאלשיות ומפגש מקרי עם חני נחמיאס הולך ומסתבך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/997742/",
+       "id": "997742",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 4 - תשוקה בקופסה",
+       "logo": "https://www.kan.org.il/media/21tpxwug/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2125643/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-27",
+       "plot": "הזוג המותש מנסה לשמור נידה, לפודקאסט חדש יש בעיות סאונד, ראפר מפורסם בנאמבר חדש, וטיפול זוגי מציף קשר בעייתי עם אמא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/993445/",
+       "id": "993445",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק  3 - אקס מטריד",
+       "logo": "https://www.kan.org.il/media/4togu5bj/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2125612/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-27",
+       "plot": "איך מתמודדים עם ילד חריג שעבר לבניין, הפאלשיות מתפרעות בבית המשפט, אמא חושדת שבתה מככבת באונלי פאנס וגרסה מודרנית לסיפור \"מיץ פטל\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/993436/",
+       "id": "993436",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 2 - הגבר הסבבה האחרון",
+       "logo": "https://www.kan.org.il/media/q4tbaaih/לאתתתתרררר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2064355/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-12",
+       "plot": "ביקור מעתיד עם בשורות רעות, החברות הגזעניות מדברות על סקס, סיפור לילה טוב וקריאת צוואה יוצאים משליטה, וביקור בחנות בגדים לנשים חסודות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/988985/",
+       "id": "988985",
+       "season": 2
+      },
+      {
+       "name": "מי זאת? עונה 2 | פרק 1 - לא עוזבים קוסמטיקאית",
+       "logo": "https://www.kan.org.il/media/4oscxlm2/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2105341/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-12",
+       "plot": "תכנית המערכונים הנשית והפרועה בעונה חדשה. והפעם: הפאלשיות עומדות למשפט, לגן טיף-טף יש אחראית סושיאל חדשה, זוג מותש מנסה לתבל את הזוגיות וראפרית בין לאומית בסינגל חדש ומפתיע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/988984/",
+       "id": "988984",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מי זאת? - הצצה | הדייט המוזר",
+       "logo": "https://www.kan.org.il/media/oonn432i/מי-זאת-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vae90a04/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "איך יוצאים עם מישהי לדייט כשאמא שלה כל הזמן ברקע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s1/856164/",
+       "id": "856164",
+       "season": 1
+      },
+      {
+       "name": "מי זאת? - הצצה | המדריך להפלת סטרייטיות",
+       "logo": "https://www.kan.org.il/media/nkab5h3w/מי-זאת-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ffwltfej/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "קבלו את המדריך להפלת סטרייטיות, חוץ מרותי ברודו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s1/856160/",
+       "id": "856160",
+       "season": 1
+      },
+      {
+       "name": "מי זאת? | פרק 1 - כפרה אני על התחת הזה ",
+       "logo": "https://www.kan.org.il/media/0won42qt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fn9vhe1a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-11",
+       "plot": "תוכנית מערכונים חדשה עם מגי אזרזר, ג'וי ריגר, אושרית סרוסי ונעמה אמית. בפרק הבכורה: הבנות משחקות \"זהה את המטרידן\", ראיון עבודה בחברת היי טק יוצא משליטה, ולמה הגננת לא קוראת ללביא הקטן \"חיים שלי\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/s1/783066/",
+       "id": "783066",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מי זאת? | הצצה",
+       "logo": "https://www.kan.org.il/media/x45nim0r/1920x1080-with-logo_מי-זאת_עונה2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2103709/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-22",
+       "plot": "תוכנית מערכונים לא שגרתית על נשיות במלוא הדרה. בהובלתן של השחקניות והקומיקאיות מגי אזרזר, אושרית סרוסי, ג'וי ריגר ונעמה אמית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/992058/",
+       "id": "992058"
+      },
+      {
+       "name": "מי זאת? | טריילר",
+       "logo": "https://www.kan.org.il/media/oowjsqtx/1920x1080-with-logo_מי-זאת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yrgmpq38/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "תוכנית מערכונים סאטירית ולא שגרתית על נשיות במלוא הדרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-783056/866215/",
+       "id": "866215"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

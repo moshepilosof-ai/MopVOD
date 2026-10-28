@@ -1,0 +1,744 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אתה חייב לקרוא את זה | ההמלצות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-904543/",
+   "series_id": "904543",
+   "updated": "2026-10-28 09:30",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שיר ראובן | החברה הגאונה",
+       "logo": "https://www.kan.org.il/media/nl0fd2me/המלצה-שישית-שיר-ראובן-ממליצה-על-הספר-החברה-הגאונה-של-אלנה-פרנטה00_00_03_04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209622/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "שיר ראובן ממליצה על הספר \"החברה הגאונה\" של אלנה פרנטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1050642/",
+       "id": "1050642",
+       "season": 2
+      },
+      {
+       "name": "תם אהרון | הנסיכה הקסומה",
+       "logo": "https://www.kan.org.il/media/dxrbbzq4/המלצה-חמישית-תם-אהרון-ממליץ-על-הספר-הנסיכה-הקסומה-של-ויליאם-גולדמן00_00_11_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209621/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "תם אהרון ממליץ על הספר \"הנסיכה הקסומה\" של ויליאם גולדמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1050641/",
+       "id": "1050641",
+       "season": 2
+      },
+      {
+       "name": "אלונה סער | סוס אחד נכנס לבר",
+       "logo": "https://www.kan.org.il/media/qhzb3i5d/המלצה-רביעית-אלונה-סער-ממליצה-על-הספר-סוס-אחד-נכנס-לבר-של-דויד-גרוסמן00_00_01_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209620/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "אלונה סער ממליצה על הספר \"סוס אחד נכנס לבר\" של דויד גרוסמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1050640/",
+       "id": "1050640",
+       "season": 2
+      },
+      {
+       "name": "ג'ימבו ג'יי | סוף והתחלה",
+       "logo": "https://www.kan.org.il/media/ukdlabmb/המלצה-שלישית-גימבו-גיי-ממליץ-על-הספר-סוף-והתחלה-של-ויסלבה-שימבורסקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209619/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "ג'ימבו ג'יי ממליץ על הספר \"סוף והתחלה\" של ויסלבה שימבורסקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1050639/",
+       "id": "1050639",
+       "season": 2
+      },
+      {
+       "name": "הילה קורח | WILD",
+       "logo": "https://www.kan.org.il/media/bf4ngqod/המלצה-שנייה-הילה-קורח-ממליצה-על-הספר-wild-של-שריל-סטרייד00_01_05_14still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209618/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "הילה קורח ממליצה על הספר WILD של שריל סטרייד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1050638/",
+       "id": "1050638",
+       "season": 2
+      },
+      {
+       "name": "גורי אלפי | הסיפור שאינו נגמר",
+       "logo": "https://www.kan.org.il/media/2ksd5gn4/המלצה-ראשונה-גורי-אלפי-ממליץ-על-הספר-הסיפור-שאינו-נגמר-של-מיכאל-אנדה00_00_07_04still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209617/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "גורי אלפי ממליץ על הספר \"הסיפור שאינו נגמר\" של מיכאל אנדה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1050637/",
+       "id": "1050637",
+       "season": 2
+      },
+      {
+       "name": "חיה גלבוע | המקרה המוזר של ד\"ר ג'קיל ומר הייד",
+       "logo": "https://www.kan.org.il/media/bmklotji/6_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206642/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "חיה גלבוע ממליצה על הספר \"המקרה המוזר של ד\"ר ג'קיל ומר הייד\" של רוברט לואיס סטיבנסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047452/",
+       "id": "1047452",
+       "season": 2
+      },
+      {
+       "name": "אלי ביתאן | דודה פרהומה לא הייתה זונה",
+       "logo": "https://www.kan.org.il/media/wndh2smx/5_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206645/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "אלי ביתאן ממליץ על הספר \"דודה פרהומה לא הייתה זונה\" של יוסי אבני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047451/",
+       "id": "1047451",
+       "season": 2
+      },
+      {
+       "name": "עינב גלילי | נערה עם קעקוע דרקון",
+       "logo": "https://www.kan.org.il/media/oeiiekcf/4_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206641/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "עינב גלילי ממליצה על הספר \"נערה עם קעקוע דרקון\" של סטיג לרסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047450/",
+       "id": "1047450",
+       "season": 2
+      },
+      {
+       "name": "יובל מנדלסון | בתוככי הרייך השלישי",
+       "logo": "https://www.kan.org.il/media/4ndetmb0/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206643/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "יובל מנדלסון ממליץ על הספר \"בתוככי הרייך השלישי\" של אלברט שפאר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047449/",
+       "id": "1047449",
+       "season": 2
+      },
+      {
+       "name": "דנה מודן | שנה של מחשבות מופלאות",
+       "logo": "https://www.kan.org.il/media/4zmhuka1/2_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206644/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "דנה מודן ממליצה על הספר \"שנה של מחשבות מופלאות\" של ג'ואן דידיון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047448/",
+       "id": "1047448",
+       "season": 2
+      },
+      {
+       "name": "איתי רייכר | פרשן המחלות",
+       "logo": "https://www.kan.org.il/media/zu5l0nhs/1_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206646/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "איתי רייכר ממליץ על הספר \"פרשן המחלות\" של ג'ומפה להירי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047447/",
+       "id": "1047447",
+       "season": 2
+      },
+      {
+       "name": "הילה קורח | שיעורים בכימיה",
+       "logo": "https://www.kan.org.il/media/jirk4fhr/הילה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206521/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "הילה קורח ממליצה על הספר \"שיעורים בכימיה\" של בוני גרמוס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047045/",
+       "id": "1047045",
+       "season": 2
+      },
+      {
+       "name": "יובל פלוטקין | רצח באוריינט אקספרס",
+       "logo": "https://www.kan.org.il/media/w23jfsd2/משקפיים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206522/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "יובל פלוטקין ממליץ על הספר \"רצח באוריינט אקספרס\" של אגתה כריסטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047044/",
+       "id": "1047044",
+       "season": 2
+      },
+      {
+       "name": "רון קופמן | קופסה שחורה",
+       "logo": "https://www.kan.org.il/media/o0rjhdpl/רון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206523/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "רון קופמן ממליץ על הספר \"קופסה שחורה\" של עמוס עוז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047043/",
+       "id": "1047043",
+       "season": 2
+      },
+      {
+       "name": "דן אריאלי | תן וקח",
+       "logo": "https://www.kan.org.il/media/kznjqhpc/דן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206524/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "דן אריאלי ממליץ על הספר \"תן וקח\" של אדם גרנט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047042/",
+       "id": "1047042",
+       "season": 2
+      },
+      {
+       "name": "שיר ראובן | רוזנפלד",
+       "logo": "https://www.kan.org.il/media/qjrjuifh/שיר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206525/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "שיר ראובן ממליצה על הספר \"רוזנפלד\" של מאיה קסלר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047041/",
+       "id": "1047041",
+       "season": 2
+      },
+      {
+       "name": "גורי אלפי | הזמיר",
+       "logo": "https://www.kan.org.il/media/1udlhgzl/גורי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206526/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "גורי אלפי ממליץ על הספר \"הזמיר\" של כריסטין האנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1047039/",
+       "id": "1047039",
+       "season": 2
+      },
+      {
+       "name": "שרון קנטור | ספר הטאו",
+       "logo": "https://www.kan.org.il/media/qicj1ndh/6_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203921/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "שרון קנטור ממליצה על הספר \"ספר הטאו\" של לאו צה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1045028/",
+       "id": "1045028",
+       "season": 2
+      },
+      {
+       "name": "קותי סבג | חיי פיי",
+       "logo": "https://www.kan.org.il/media/drld0kzx/5_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203924/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "קותי סבג ממליץ על הספר \"חיי פיי\" של יאן מרטל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1045027/",
+       "id": "1045027",
+       "season": 2
+      },
+      {
+       "name": "ג'רמי פוגל | החוויה הדתית לסוגיה",
+       "logo": "https://www.kan.org.il/media/hkzhnqmd/4_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203920/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "ג'רמי פוגל ממליץ על הספר \"החוויה הדתית לסוגיה\" של ויליאם ג'יימס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1045026/",
+       "id": "1045026",
+       "season": 2
+      },
+      {
+       "name": "דורון נשר | החיים כמשל",
+       "logo": "https://www.kan.org.il/media/4e1dckks/3_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203922/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "דורון נשר ממליץ על הספר \"החיים כמשל\" של פנחס שדה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1045025/",
+       "id": "1045025",
+       "season": 2
+      },
+      {
+       "name": "איתי רייכר | המין האנושי: היסטוריה של תקווה",
+       "logo": "https://www.kan.org.il/media/fhaf033d/2_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203923/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "איתי רייכר ממליץ על \"המין האנושי: היסטוריה של תקווה\" של רוטחר ברחמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1045024/",
+       "id": "1045024",
+       "season": 2
+      },
+      {
+       "name": "שיר ראובן | על ארבע",
+       "logo": "https://www.kan.org.il/media/kuxe0d1o/1_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203919/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "שיר ראובן ממליצה על הספר \"על ארבע\" של מירנדה ג'וליי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1045023/",
+       "id": "1045023",
+       "season": 2
+      },
+      {
+       "name": "הילה קורח | חג המשק",
+       "logo": "https://www.kan.org.il/media/5xnpajcr/s0563783_item0600_01_24_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202036/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "הילה קורח ממליצה על הספר \"חג המשק\" של שני הדר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1043277/",
+       "id": "1043277",
+       "season": 2
+      },
+      {
+       "name": "איתי רייכר | אוטוקורקט",
+       "logo": "https://www.kan.org.il/media/4gxh1vnq/s0563783_item0500_00_10_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202039/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1043275/",
+       "id": "1043275",
+       "season": 2
+      },
+      {
+       "name": "בן בן ברוך | סולם גנבים",
+       "logo": "https://www.kan.org.il/media/mbshpmnn/לעריכה-ליוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202035/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1043274/",
+       "id": "1043274",
+       "season": 2
+      },
+      {
+       "name": "טל פרידמן | קורות הציפור המכנית",
+       "logo": "https://www.kan.org.il/media/menfesku/s0563783_item0300_02_07_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202037/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1043273/",
+       "id": "1043273",
+       "season": 2
+      },
+      {
+       "name": "ליה שרביט | אמזלג",
+       "logo": "https://www.kan.org.il/media/ox5hi0fw/s0563783_item0200_00_22_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202038/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1043271/",
+       "id": "1043271",
+       "season": 2
+      },
+      {
+       "name": "ג'רמי פוגל | הנחת יסוד למטאפיזיקה של המידות",
+       "logo": "https://www.kan.org.il/media/2ieh0fif/s0563783_item0100_00_29_15still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202040/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1043270/",
+       "id": "1043270",
+       "season": 2
+      },
+      {
+       "name": "הילה קורח | זמנים מופלאים",
+       "logo": "https://www.kan.org.il/media/qhxcgseu/הילהקורח_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201313/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "הילה קורח ממליצה על הספר \"זמנים מופלאים\" של קארן תומפסון ווקר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1042406/",
+       "id": "1042406",
+       "season": 2
+      },
+      {
+       "name": "ליה שרביט | השתאות",
+       "logo": "https://www.kan.org.il/media/yqabpr0i/ליהשרביט_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201310/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "ליה שרביט ממליצה על הספר \"השתאות\" של ריצ'רד פאוארס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1042405/",
+       "id": "1042405",
+       "season": 2
+      },
+      {
+       "name": "יניב ביטון | מגלן",
+       "logo": "https://www.kan.org.il/media/5qipnzii/יניבביטון_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201309/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "יניב ביטון ממליץ על הספר \"מגלן\" של שטפן צוויג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1042404/",
+       "id": "1042404",
+       "season": 2
+      },
+      {
+       "name": "מיה דגן | מרגו צריכה כסף",
+       "logo": "https://www.kan.org.il/media/wduji0u3/מיהדגן_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201311/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "מיה דגן ממליצה על הספר \"מרגו צריכה כסף\" של רופי תורפ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1042402/",
+       "id": "1042402",
+       "season": 2
+      },
+      {
+       "name": "גיתית פישר | גריט",
+       "logo": "https://www.kan.org.il/media/rdkcrbhe/גיתיתפישר_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201312/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "גיתית פישר ממליצה על הספר \"גריט\" של אנג'לה דאקוורת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1042401/",
+       "id": "1042401",
+       "season": 2
+      },
+      {
+       "name": "ליאור דיין | אילון מאסק",
+       "logo": "https://www.kan.org.il/media/b30dwmoa/ליאורדיין_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201308/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "ליאור דיין ממליץ על הספר \"אילון מאסק\" של וולטר אייזקסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1042397/",
+       "id": "1042397",
+       "season": 2
+      },
+      {
+       "name": "אלי ביתאן | אפלה בצהריים",
+       "logo": "https://www.kan.org.il/media/2oyaw5pd/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199702/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "אלי ביתאן ממליץ על הספר \"אפלה בצהריים\" של ארתור קסטלר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1040338/",
+       "id": "1040338",
+       "season": 2
+      },
+      {
+       "name": "גיתית פישר | הטיגריס הלבן",
+       "logo": "https://www.kan.org.il/media/nnbccf2l/אתה-חייב-לקרוא-את-זה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199701/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "גיתית פישר ממליצה על הספר \"הטיגריס הלבן\" של ארווינד אדיגה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1040334/",
+       "id": "1040334",
+       "season": 2
+      },
+      {
+       "name": "עינב גלילי | לילה ארוך בפריז",
+       "logo": "https://www.kan.org.il/media/t4jgvbbs/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199700/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "עינב גלילי ממליצה על הספר \"לילה ארוך בפריז\" של דב אלפון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1040333/",
+       "id": "1040333",
+       "season": 2
+      },
+      {
+       "name": "גורי אלפי | חנינה",
+       "logo": "https://www.kan.org.il/media/ow2hhoje/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199699/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "גורי אלפי ממליץ על הספר \"חנינה\" של מאיה וקסלר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1040331/",
+       "id": "1040331",
+       "season": 2
+      },
+      {
+       "name": "יובל פלוטקין | להרוג את הכלב השני",
+       "logo": "https://www.kan.org.il/media/pxan2xtf/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199698/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "יובל פלוטקין ממליץ על הספר \"להרוג את הכלב השני\" של מארק חלאסקו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1040329/",
+       "id": "1040329",
+       "season": 2
+      },
+      {
+       "name": "גלית חוגי | המטופלת השקטה",
+       "logo": "https://www.kan.org.il/media/xwjdtiry/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199697/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "גלית חוגי ממליצה על הספר \"המטופלת השקטה\" של אלכס מיכאלידס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1040327/",
+       "id": "1040327",
+       "season": 2
+      },
+      {
+       "name": "צביקה הדר | דרדלה לחיבורים",
+       "logo": "https://www.kan.org.il/media/p0ak2qai/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195613/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "צביקה הדר ממליץ על הספר \"דרדלה לחיבורים\" של מאור מליקסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1036537/",
+       "id": "1036537",
+       "season": 2
+      },
+      {
+       "name": "נטע רוט | תולדות האהבה",
+       "logo": "https://www.kan.org.il/media/rdnbb0vb/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195610/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "נטע רוט ממליצה על הספר \"תולדות האהבה\" של ניקול קראוס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1036536/",
+       "id": "1036536",
+       "season": 2
+      },
+      {
+       "name": "אלעד בר נוי | בדידותם של המספרים הראשוניים",
+       "logo": "https://www.kan.org.il/media/rkigfn32/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195612/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "אלעד בר נוי ממליץ על הספר \"בדידותם של המספרים הראשוניים\" של פאולו ג'ורדנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1036535/",
+       "id": "1036535",
+       "season": 2
+      },
+      {
+       "name": "דן אריאלי | שבעת העקרונות לנישואים מאושרים",
+       "logo": "https://www.kan.org.il/media/5nqdtdvd/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195608/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "דן אריאלי ממליץ על הספר \"שבעת העקרונות לנישואים מאושרים\" של ג'ון גוטמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1036533/",
+       "id": "1036533",
+       "season": 2
+      },
+      {
+       "name": "איתי רייכר | נשמות",
+       "logo": "https://www.kan.org.il/media/pnfkuf3u/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195609/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "איתי רייכר ממליץ על הספר \"נשמות\" של רועי חן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1036529/",
+       "id": "1036529",
+       "season": 2
+      },
+      {
+       "name": "מיה דגן | פרויקט הייל מרי",
+       "logo": "https://www.kan.org.il/media/zg0lspwg/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195611/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "מיה דגן ממליצה על הספר \"פרויקט הייל מרי\" של אנדי ויר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1036528/",
+       "id": "1036528",
+       "season": 2
+      },
+      {
+       "name": "רביטל ויטלזון | אשת אחאב",
+       "logo": "https://www.kan.org.il/media/vd1jf3iu/המלצה-חמישית-רביטל-ויטלזון-יעקבס-ממליצה-על-הספר-אשת-אחאב-של-סינה-גטר-נסלנד00_00_32_00.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189248/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "רביטל ויטלזון יעקבס ממליצה על הספר \"אשת אחאב\" של סינה ג'טר נסלנד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1027031/",
+       "id": "1027031",
+       "season": 2
+      },
+      {
+       "name": "איתי רייכר | מסע אל קצה הלילה",
+       "logo": "https://www.kan.org.il/media/0ujdxd2j/המלצה-רביעית-איתי-רייכר-ממליץ-על-הספר-מסע-אל-קצה-הלילה-של-לואי-פרדינן-סלין00_00_19_23.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189247/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "איתי רייכר ממליץ על הספר \"מסע אל קצה הלילה\" של לואי-פרדינן סלין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1027030/",
+       "id": "1027030",
+       "season": 2
+      },
+      {
+       "name": "טל פרידמן | הלבד הגדול",
+       "logo": "https://www.kan.org.il/media/sonjc5ee/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1027027/",
+       "id": "1027027",
+       "season": 2
+      },
+      {
+       "name": "גיתית פישר | השמים שבתוכי",
+       "logo": "https://www.kan.org.il/media/dzmnxkwf/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189245/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "גיתית פישר ממליצה על הספר \"השמים שבתוכי\" של אתי הילסום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1027026/",
+       "id": "1027026",
+       "season": 2
+      },
+      {
+       "name": "יובל מנדלסון | רצח בשבת בבוקר",
+       "logo": "https://www.kan.org.il/media/zpni4tnk/המלצה-ראשונה-יובל-מנדלסון-ממליץ-על-הספר-רצח-בשבת-בבוקר-של-בתיה-גור00_00_06_12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189244/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "יובל מנדלסון ממליץ על הספר \"רצח בשבת בבוקר\" של בתיה גור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1027025/",
+       "id": "1027025",
+       "season": 2
+      },
+      {
+       "name": "דינה סנדרסון | טוהר",
+       "logo": "https://www.kan.org.il/media/0wxb4bxq/דינה-סנדרסון-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183382/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "דינה סנדרסון ממליצה על הספר \"טוהר\" של ג'ונתן פראנזן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1020280/",
+       "id": "1020280",
+       "season": 2
+      },
+      {
+       "name": "אלונה סער | סיפור פשוט",
+       "logo": "https://www.kan.org.il/media/ch0hl3io/אלונה-סער-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183372/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "אלונה סער ממליצה על הספר \"סיפור פשוט\" של ש\"י עגנון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1020228/",
+       "id": "1020228",
+       "season": 2
+      },
+      {
+       "name": "ג'רמי פוגל | הרחבת תחום המאבק",
+       "logo": "https://www.kan.org.il/media/sf4mbkiv/גרמי-פוגל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183371/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "ג'רמי פוגל ממליץ על הספר \"הרחבת תחום המאבק\" של מישל וולבק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1020226/",
+       "id": "1020226",
+       "season": 2
+      },
+      {
+       "name": "אייל קיציס | ביום שהמוזיקה מתה",
+       "logo": "https://www.kan.org.il/media/pcdpbomq/אייל-קיציס-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183370/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "איל קיציס ממליץ על הספר \"ביום שהמוזיקה מתה\" של אופיר טושה גפלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1020225/",
+       "id": "1020225",
+       "season": 2
+      },
+      {
+       "name": "איתי רייכר | הטנק",
+       "logo": "https://www.kan.org.il/media/on2nuach/איתי-רייכר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183369/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "איתי רייכר ממליץ על הספר \"הטנק\" של אסף ענברי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1020223/",
+       "id": "1020223",
+       "season": 2
+      },
+      {
+       "name": "עודד רכבי | עיר",
+       "logo": "https://www.kan.org.il/media/lurlvqlg/עודד-רכבי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183368/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "עודד רכבי ממליץ על הספר \"עיר\" של קליפורד סימאק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1020221/",
+       "id": "1020221",
+       "season": 2
+      },
+      {
+       "name": "רבקה מיכאלי  | \"באין משפחה\"",
+       "logo": "https://www.kan.org.il/media/gcdhou14/רבקה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170832/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "רבקה מיכאלי ממליצה על הספר \"באין משפחה\" של הקטור מאלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1003093/",
+       "id": "1003093",
+       "season": 2
+      },
+      {
+       "name": "יובל מנדלסון | \"קארי\"",
+       "logo": "https://www.kan.org.il/media/z2jdrz3y/יובל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170829/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "יובל מנדלסון ממליץ על הספר \"קארי\" של סטיבן קינג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1003091/",
+       "id": "1003091",
+       "season": 2
+      },
+      {
+       "name": "שיר ראובן | \"כמה זה חמור\"",
+       "logo": "https://www.kan.org.il/media/bxhp4c03/שיר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170836/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "שיר ראובן ממליצה על הספר \"כמה זה חמור\" של נעה כ\"ץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1003089/",
+       "id": "1003089",
+       "season": 2
+      },
+      {
+       "name": "ג'רמי פוגל | \"המדריך\"",
+       "logo": "https://www.kan.org.il/media/ufjf0czv/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170800/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "ג'רמי פוגל ממליץ על הספר \"המדריך\" של אפיקטטוס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1003011/",
+       "id": "1003011",
+       "season": 2
+      },
+      {
+       "name": "גיתית פישר | הדרמה של הילד המחונן",
+       "logo": "https://www.kan.org.il/media/arqhwmzs/גיתית-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170792/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "גיתית פישר ממליצה על הספר \"הדרמה של הילד המחונן\" של אליס מילר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002999/",
+       "id": "1002999",
+       "season": 2
+      },
+      {
+       "name": "אמה אלפי | ימי שלישי עם מורי",
+       "logo": "https://www.kan.org.il/media/5foppz0a/אמה-אלפי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170780/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "אמה אלפי ממליצה על הספר \"ימי שלישי עם מורי\" של מיץ' אלבום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002913/",
+       "id": "1002913",
+       "season": 2
+      },
+      {
+       "name": "גיתית פישר | מוזיאון התמימות",
+       "logo": "https://www.kan.org.il/media/dttmnwqi/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169847/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "גיתית פישר ממליצה על הספר \"מוזיאון התמימות\" של אורהאן פאמוק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002297/",
+       "id": "1002297",
+       "season": 2
+      },
+      {
+       "name": "רביטל ויטלזון יעקבס | אשמת הכוכבים",
+       "logo": "https://www.kan.org.il/media/x3yeet0m/6-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169842/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "רביטל ויטלזון יעקבס ממליצה על הספר \"אשמת הכוכבים\" של ג'ון גרין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002292/",
+       "id": "1002292",
+       "season": 2
+      },
+      {
+       "name": "קותי סבג | אין סודות בחברה",
+       "logo": "https://www.kan.org.il/media/vmmds4ef/קותי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169841/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "קותי סבג ממליץ על הספר \"אין סודות בחברה\" של יונתן שגיב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002290/",
+       "id": "1002290",
+       "season": 2
+      },
+      {
+       "name": "יניב ביטון | מחר בקרב חשוב עליי",
+       "logo": "https://www.kan.org.il/media/oaxfsvia/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "יניב ביטון ממליץ על הספר \"מחר בקרב חשוב עליי\" של חוויאר מריאס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002289/",
+       "id": "1002289",
+       "season": 2
+      },
+      {
+       "name": "צדי צרפתי | סמטת כנען",
+       "logo": "https://www.kan.org.il/media/wcrcagwr/צדי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169838/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "צדי צרפתי ממליץ על הספר \"סמטת כנען\" של חוה אלברשטיין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002286/",
+       "id": "1002286",
+       "season": 2
+      },
+      {
+       "name": "גורי אלפי | ציוויליזציות",
+       "logo": "https://www.kan.org.il/media/jqojrxbd/גורי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169837/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "גורי אלפי ממליץ על הספר \"ציוויליזציות\" של לורן בינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s2/1002285/",
+       "id": "1002285",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יובל פלוטקין | פרנקנשטיין",
+       "logo": "https://www.kan.org.il/media/jakjspgh/יובל-פלוטקין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vqibxcbo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-16",
+       "plot": "יובל פלוטקין ממליץ על הספר \"פרנקנשטיין\" של מרי שלי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-904543/s1/921432/",
+       "id": "921432",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

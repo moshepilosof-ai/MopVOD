@@ -1,0 +1,309 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בשכונה שלנו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/",
+   "series_id": "1000407",
+   "updated": "2026-10-28 09:37",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בשכונה שלנו | 22.10.26",
+       "logo": "https://www.kan.org.il/media/4hsc0jty/בשכונה_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257871/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-22",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1111886/",
+       "id": "1111886",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 15.10.26",
+       "logo": "https://www.kan.org.il/media/dg3n3zfp/130b360b-9a34-49d9-8a4b-e1785c135c2e.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2255784/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-15",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1109632/",
+       "id": "1109632",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 08.10.26",
+       "logo": "https://www.kan.org.il/media/b4uhpac1/בשכונה-שלנו-באתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2253516/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-08",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1107537/",
+       "id": "1107537",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 01.10.26",
+       "logo": "https://www.kan.org.il/media/zbpptils/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2251049/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-01",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1105124/",
+       "id": "1105124",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 24.09.26",
+       "logo": "https://www.kan.org.il/media/tfwnqen1/בשכונה-שלנו-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249027/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1102737/",
+       "id": "1102737",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו עם רועי קייס ואליאור לוי | 17.09.26",
+       "logo": "https://www.kan.org.il/media/laebjd1m/חדש-בשכונה-שלנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246637/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-17",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1100774/",
+       "id": "1100774",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו עם רועי קייס | 10.09.26",
+       "logo": "https://www.kan.org.il/media/4dcdqnkn/c0270ec5-6228-44d4-a8cd-8076f5b74aea.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244786/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1098551/",
+       "id": "1098551",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 03.09.26",
+       "logo": "https://www.kan.org.il/media/gchio2dq/בשכונה-שלנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242249/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1095842/",
+       "id": "1095842",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 27.08.26",
+       "logo": "https://www.kan.org.il/media/dyhjv1lf/בשכונהשלנולאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239887/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-27",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1093453/",
+       "id": "1093453",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 20.08.26",
+       "logo": "https://www.kan.org.il/media/zmwp5taj/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237724/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-20",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1091358/",
+       "id": "1091358",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 13.08.26",
+       "logo": "https://www.kan.org.il/media/4u5ntvel/בשכונה-שלנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235265/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-13",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1088802/",
+       "id": "1088802",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 06.08.26",
+       "logo": "https://www.kan.org.il/media/boenet33/974c507a-dff6-4814-9d5c-a97e07b3390c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233173/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-06",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1086434/",
+       "id": "1086434",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 30.07.26",
+       "logo": "https://www.kan.org.il/media/ybtpiezo/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230878/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1083703/",
+       "id": "1083703",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 23.07.26",
+       "logo": "https://www.kan.org.il/media/xdrl0lem/7faafe3d-33b5-4fc1-92e2-5e0f5ea29fa6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228465/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-23",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1080711/",
+       "id": "1080711",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 16.07.26",
+       "logo": "https://www.kan.org.il/media/dqydisv4/בשכונה-שלנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226184/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1077580/",
+       "id": "1077580",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 09.07.26",
+       "logo": "https://www.kan.org.il/media/irmhd1xa/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223298/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-09",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1073840/",
+       "id": "1073840",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 02.07.26",
+       "logo": "https://www.kan.org.il/media/ypidqd5b/בשכונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220119/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-02",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1069495/",
+       "id": "1069495",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 25.06.26",
+       "logo": "https://www.kan.org.il/media/vqdbef0r/בשכונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217043/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-25",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1063451/",
+       "id": "1063451",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 18.06.26",
+       "logo": "https://www.kan.org.il/media/lyfd3n5n/בשכונה-שלנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213880/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-18",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1057571/",
+       "id": "1057571",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 11.06.26 ",
+       "logo": "https://www.kan.org.il/media/c33ly1ul/בשכונהשלנו_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210483/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-11",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1051799/",
+       "id": "1051799",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 04.06.26",
+       "logo": "https://www.kan.org.il/media/jrbmtpyr/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207936/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1048938/",
+       "id": "1048938",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 28.05.26",
+       "logo": "https://www.kan.org.il/media/ukcezy2l/בשכונה_שלנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205751/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-28",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1046313/",
+       "id": "1046313",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 14.05.26",
+       "logo": "https://www.kan.org.il/media/b1vd4zbu/בשכונה-שלנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200475/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-14",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1041191/",
+       "id": "1041191",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 07.05.26 ",
+       "logo": "https://www.kan.org.il/media/2eghpyve/בשכונהשלנולאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198012/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-07",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1038544/",
+       "id": "1038544",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 30.04.26",
+       "logo": "https://www.kan.org.il/media/y0cnrja0/שכונה.jfif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195668/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-30",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1035839/",
+       "id": "1035839",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 23.04.26",
+       "logo": "https://www.kan.org.il/media/ruzo05om/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192967/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1032574/",
+       "id": "1032574",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 16.04.26",
+       "logo": "https://www.kan.org.il/media/3m2pbbhp/חמוד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190599/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-16",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1029694/",
+       "id": "1029694",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 26.02.26",
+       "logo": "https://www.kan.org.il/media/tqvhk3wa/5cbb1f9b-7919-4aa4-a810-69c3d57dae13.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171306/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-26",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1003408/",
+       "id": "1003408",
+       "season": 1
+      },
+      {
+       "name": "בשכונה שלנו | 19.02.26",
+       "logo": "https://www.kan.org.il/media/3pgnw1y1/1920x1080_4800_hp00_00_47_45still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168897/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-19",
+       "plot": "תכנית חדשה בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1001108/",
+       "id": "1001108",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

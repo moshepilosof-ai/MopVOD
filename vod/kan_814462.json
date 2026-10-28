@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אביגיל אשת חיל | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-814462/",
+   "series_id": "814462",
+   "updated": "2026-10-27 21:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אביגיל אשת חיל | עם ישראל מאמין בניסים",
+       "logo": "https://www.kan.org.il/media/d1mja5xc/2911.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gqdbaqm4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "המכנה המשותף של פסיכולוגיה ודת: משאל רחוב רוחני במיוחד, והמלצות למופעים לילדים בחופש חנוכה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814538/",
+       "id": "814538",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | ביקור במשתלה",
+       "logo": "https://www.kan.org.il/media/oazhj5of/2711.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xfi1hy9u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "איך מצילים עציץ שנבל? על יישור שיניים אסתטי, ובעיית הזבל הנערם על מדרכות הערים בישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814531/",
+       "id": "814531",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | יוקר המחיה",
+       "logo": "https://www.kan.org.il/media/fjnhhamv/2611.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_826vvezj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "משאל רחוב - מה הישראלים חושבים על מחירי המוצרים הבסיסיים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814524/",
+       "id": "814524",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | צמחונות",
+       "logo": "https://www.kan.org.il/media/3t4kisp0/2511.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eqfe1jdx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "התופעה ההולכת ומתרחבת בקרב צעירים מדאיגה הורים רבים, וגם המשפחה שביתה הפך למפעל גמילות חסדים שמחלק מזון לנזקקים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814522/",
+       "id": "814522",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | המחיר הכבד בעצמאות",
+       "logo": "https://www.kan.org.il/media/hkrabbog/2111.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fcxfcqy7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "זכאות לדמי אבטלה, מיסים והקושי בלהיות הבוס של עצמך",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814514/",
+       "id": "814514",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | רפואה אלטרנטיבית",
+       "logo": "https://www.kan.org.il/media/2efeohux/2011.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xq1c99i6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "הדרכים הלא קונבנציונליות לטיפול בבעיות נחירה, והאם ישראל מוכנה למתקפת טילים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814511/",
+       "id": "814511",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | טייס אוטומטי",
+       "logo": "https://www.kan.org.il/media/4eta2qr5/1911.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dacjo0bj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "איך מתגברים על הפחד מטיסות? פשוט מאוד: עולים על מטוס. וגם סקר מחירי הספרים וטיפים לכתיבת קורות חיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814507/",
+       "id": "814507",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | טיפול בכלבים",
+       "logo": "https://www.kan.org.il/media/4ajl0pqi/1811.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ntvs6n9n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "קומבו הכלב סובל מנשירת שיער, ואיתו גם בעליו שנאלצים לנקות את הבית ללא הפסקה. סימה חביב, נטורופטית ובעלת מרפאה לבעלי חיים מנגישה טיפים לטיפול בבעיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814505/",
+       "id": "814505",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | לקויות למידה",
+       "logo": "https://www.kan.org.il/media/mbiekyao/1411.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g0ws7pg5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "התלמידים שמתקשים בלימודים אבל מצליחים בתחביבים מיוחדים, והמומחים שמסבירים את התופעה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814500/",
+       "id": "814500",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | חיסונים",
+       "logo": "https://www.kan.org.il/media/1p2jmqrk/1311.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s05dj7ye/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "לימור פראג יוצאת לבדוק באיזה מוסך הכי כדאי להעביר את האוטו טסט, על החלטות של הורים טריים בנוגע לתינוק החדש וגם, ואיך נפטרים מזבובים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814497/",
+       "id": "814497",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | בעיות גב",
+       "logo": "https://www.kan.org.il/media/v45jffyp/1211.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uinun7sg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "ארבעה מסאז'יסטים, 8 ידיים ומאבטח אחד שסובל מכאבים. ואיך בוחרים את המטפלת המושלמת לתינוק?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814495/",
+       "id": "814495",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | גישור בין אחים",
+       "logo": "https://www.kan.org.il/media/nloflvz3/1111.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jvz14vle/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "שגיא ויניב לוי לא מסתדרים בגלל הטעם השונה שלהם במוזיקה. מומחים מתחומים שונים נתרמו לפתור את בעיית הריבים אחת ולתמיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814485/",
+       "id": "814485",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | הדרך לדוברות המועצה",
+       "logo": "https://www.kan.org.il/media/ptcjc3yc/811.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jpy3g082/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "לימור פראג יוצאת לעזור לענבר שקד, נערה בת 15 שרוצה להיבחר לתפקיד דוברת מועצת התלמידים הארצית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814481/",
+       "id": "814481",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | המזוודות ארוזות",
+       "logo": "https://www.kan.org.il/media/uvqauazv/711.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sik6eyal/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "ראש מועצת מזכרת בתיה נוהג לנסוע לחו\"ל בתדירות גבוהה, והמטלה השנואה עליו היא לארוז. כלכל ראשי בארקיע בא לעזרתו עם טיפים פרקטיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814474/",
+       "id": "814474",
+       "season": 1
+      },
+      {
+       "name": "אביגיל אשת חיל | קפיצה לתוניס",
+       "logo": "https://www.kan.org.il/media/y31jqurr/511.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d45qht71/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "זוג תוניסאים מארחים את איריס אברמוביץ' במטבח הביתי שלהם, הם נגלה מהו התבלין הסודי לקציצות של אמא?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/s1/814464/",
+       "id": "814464",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אביגיל אשת חיל | פתיח",
+       "logo": "https://www.kan.org.il/media/huydzixt/אביגיל-אשת-חיל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xnezra0t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח המיוחד של ''אביגיל אשת חיל''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-814462/861461/",
+       "id": "861461"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

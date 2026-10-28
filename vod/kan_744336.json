@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מבט שני | כתבות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-744336/",
+   "series_id": "744336",
+   "updated": "2026-10-28 11:34",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מבט שני | בינגו והימורים",
+       "logo": "https://www.kan.org.il/media/utlbljs1/בינגו-שנות-ה80.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g6opgw9a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-19",
+       "plot": "כתבתו של יוסי אבישר על תרבות הפנאי המפוקפקת בסוף האייטיז",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/801999/",
+       "id": "801999",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | רשימות ונדה - חלק 2",
+       "logo": "https://www.kan.org.il/media/bxrpqi05/רשימות-ונדה-חלק-2-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3te552ez/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-21",
+       "plot": "לאחר שנה מפרסום התחקיר, עדכון פרטים חדשים ומרגשים ממצאי מסעם של היהודים שניצלו בידי פולנים מקומיים כשהיו ילדים ויצאו בבגרותם למסע אחר זהותם. בבימויה של ורד ברמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/751973/",
+       "id": "751973",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | רשימות ונדה - חלק 1",
+       "logo": "https://www.kan.org.il/media/suzpqtyu/רשימות-ונדה-web-א.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wjvtjaku/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-21",
+       "plot": "סיפורה של ונדה סקולובסקה, פולניה יוצאת דופן שהצליחה להציל יהודים רבים בזמן השואה ועברה להתגורר בישראל. וגם סיפורם של יהודים שניצלו בידי פולנים מקומיים כשהיו ילדים ויצאו בבגרותם למסע אחר זהותם. בבימויה של ורד ברמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/751972/",
+       "id": "751972",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | עצם בגרון",
+       "logo": "https://www.kan.org.il/media/rsaouqwq/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qhq85sjh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "סרטו של אורי גולדשטיין על קהילת העבריים בדימונה וקשיי השתלבותם בחברה הישראלית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744546/",
+       "id": "744546",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | משחק בינלאומי",
+       "logo": "https://www.kan.org.il/media/l5qlnu24/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p2njawe4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "יגאל גורן מצטרף לשחקני הנבחרת הישראלית בכדורגל במשחקם נגד אוסטרליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744500/",
+       "id": "744500",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | זמרי הקסטות",
+       "logo": "https://www.kan.org.il/media/sopfzc3c/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_irvyv9ql/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "חיים גיל מתלווה לחייהם של זמרי הקסטות הגדולים והחשובים, הטוענים לקיפוח המוזיקה שלהם ושל כלל המוזיקה המזרחית בתחנות השידור בפרט ובארץ בכלל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744499/",
+       "id": "744499",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | הבדואים של סיני",
+       "logo": "https://www.kan.org.il/media/ze3ggkpw/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9q3n9cpi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "רפיק חלבי מביא את נקודת מבטם של הבדואים שגרים בחצי האי סיני שצריכים לשוב לשטח המצרי על אף שכל פרנסתם מגיעה מתיירות ישראלית. במה הם יעבדו? מה הם מצפים מממשלת מצרים? כל זה בסרט המרתק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744439/",
+       "id": "744439",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | קורס של תקווה",
+       "logo": "https://www.kan.org.il/media/gj0jmtj0/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dxkfgpbc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "דוד גלבוע מתלווה לקורס טירונות בבסיס ההשכלה הצבאי בגבעת אולגה, אליו מגיעים חיילים שאין בידם השכלה תיכונית, מרגע קליטתם ועד לרגע השיבוץ שלהם ביחידות השונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744432/",
+       "id": "744432",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | טכנולוגיה לחירשים",
+       "logo": "https://www.kan.org.il/media/esofanmp/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4046pvaf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "סרטה של מירי הלוי שמביא את ההתמודדיות שבגידול ובחינוך ילדים חירשים מלידתם ועד לבגרותם כשהם יוצאים לחיים הבוגרים, ועל הטכנולוגיה המודרנית שמתקנת את הפגמים שגורמים לבעיות השמיעה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744425/",
+       "id": "744425",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | בית ספר למשחק",
+       "logo": "https://www.kan.org.il/media/ky2lil15/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x79q7wau/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "מאחורי הקלעים של הצעירים שחלומם הגדול הוא להיות שחקנים. למה זה החלום שלהם, מה הדרך שהם צריכים לעבור כדי לשחק על בימת התיאטרון או על המסך הגדול ומה באמת לומדים בבית ספר למשחק?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744421/",
+       "id": "744421",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | רפואה עממית",
+       "logo": "https://www.kan.org.il/media/alujtzrb/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j9qi0718/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "חיים גיל מביא את סיפורם של הרבנים שעוסקים ברפואה הלא קונבנציונלית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744419/",
+       "id": "744419",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | תעשיית הקולנוע הישראלי",
+       "logo": "https://www.kan.org.il/media/a4ljk54i/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_twm4z1xl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "נתן זהבי מספק הצצה לעולם הכספי והשיווקי של תעשיית הקולנוע בישראל: איך מממנים סרטים? איך יראה סרט דל תקציב מול סרט עתיר תקציב? ואיך השיווק יכריע בסופו של דבר על תפוסת אולמות בתי הקולנוע?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744396/",
+       "id": "744396",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | טיראן אי הציפורים",
+       "logo": "https://www.kan.org.il/media/krbpvhj1/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a2r5nr6d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "המסע לחיפוש ציפורים נדירות בערב הסעודית, בבימויו של שמעון טסלר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744386/",
+       "id": "744386",
+       "season": 1
+      },
+      {
+       "name": "מבט שני |  תחרויות יופי לכלבים",
+       "logo": "https://www.kan.org.il/media/315fj502/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zinqvoef/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "איך מכינים כלב לתחרות יופי, למה זה כל-כך חשוב לבעלי הכלבים ומה הוטרינרים חושבים על זה? כל זה בסרטו של שמעון טסלר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744350/",
+       "id": "744350",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | בעייתם של זקנים בארץ",
+       "logo": "https://www.kan.org.il/media/drbm40xc/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_51f4rndp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "חבורה במועדון פנסיונרים בתל-אביב מספקת לנו הצצה לתוך עולמם ולהתמודדויות שהגיל מביא איתו. בימוי: דוד קדם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/s1/744348/",
+       "id": "744348",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מבט שני | פתיח",
+       "logo": "https://www.kan.org.il/media/ncdfthkd/צילום-מסך-2025-08-18-160557.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9so9h10i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לתוכנית האקטואליה העל זמנית והמיתולוגית \"מבט שני\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-744336/942830/",
+       "id": "942830"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שקט משדרים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-765508/",
+   "series_id": "765508",
+   "updated": "2026-10-28 13:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שקט משדרים - הצצה | כתבנו בראיון על פלקטים ",
+       "logo": "https://www.kan.org.il/media/gfembtos/שקט-משדרים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oker8u6v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "כתבנו יצא לבדוק על תופעת הפלקטים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-765508/861565/",
+       "id": "861565"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

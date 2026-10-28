@@ -1,0 +1,69 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תיאטרון מצולם | קטעים נבחרים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/projects/p-839450/",
+   "series_id": "839450",
+   "updated": "2026-10-28 13:40",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "תיאטרון מצולם | \"מעבר לגבולין\"",
+       "logo": "https://www.kan.org.il/media/zmuihpqd/ui18905818-theatre-gvulin.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_am70dmn9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-25",
+       "plot": "דרמה חברתית שהועלתה ב-1972 בתיאטרון \"הבימה\". העלילה עוקבת אחר משפחה יהודית שהיגרה מרוסיה ללונדון ונאבקת לשרוד במציאות הקשה של העולם החדש. הסיפור מציג את הקונפליקטים בין הרצון לשמור על מסורת לבין הצורך להתבולל ולהתאים את עצמם לסביבה תוך הדגשת ההתמודדות של האחים עם אובדן זהותם האישית והמשפחתית",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-839450/s1/840157/",
+       "id": "840157",
+       "season": 1
+      },
+      {
+       "name": "תיאטרון מצולם | \"צוואתו של כלב\"",
+       "logo": "https://www.kan.org.il/media/inzjqf3p/fb10216439-theatre-kelev.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kjzyalk3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-25",
+       "plot": "קומדיה סאטירית שהועלתה ב-1972 בתיאטרון \"הבימה\" ומתמקדת בשני נוכלים המנסים לשכנע אנשי כנסייה מושחתים לערוך לוויה מפוארת לכלב של אשת אופה כפרית. האירועים מתפתחים לכדי כאוס משעשע כאשר תוכניותיהם משתבשות באופן בלתי צפוי",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-839450/s1/840155/",
+       "id": "840155",
+       "season": 1
+      },
+      {
+       "name": "תיאטרון מצולם | \"הכסאות\"",
+       "logo": "https://www.kan.org.il/media/n20jk2f2/bb03194598-theatre-kisaot.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4rhnu1su/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-25",
+       "plot": "דרמת אבסורד שהועלתה ב-1972 בתיאטרון \"הבימה\". במרכזה זוג קשישים החיים 75 שנה בבקתה מבודדת בלב ים, ומארגנים אירוע חגיגי שבו אמורה להישמע בשורה להצלת האנושות. הערב הגדול הופך למחול אבסורדי של הכנת כיסאות לאורחים דמיוניים, ומוביל לסיום מפתיע המטלטל את משמעות קיומם.",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-839450/s1/840152/",
+       "id": "840152",
+       "season": 1
+      },
+      {
+       "name": "תיאטרון מצולם | \"חגיגת קיץ\"",
+       "logo": "https://www.kan.org.il/media/vldnea0g/ei27271555-theatre-kaitz.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i3hl9pgl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-25",
+       "plot": "מחזמר ג'וקבוקס (עיבוד בימתי ליצירת אמן) שהועלה ב-1972 בתיאטרון \"הקאמרי\", המבוסס על ספר השירה של נתן אלתרמן. העלילה מתרחשת בלילה קיצי בשכונת פלורנטין, סביב מסעדת \"סטמבול\" שחוגגת חגיגה מקומית תוססת, בעוד עבריין ממולח מנצל את ההזדמנות לתכנן פריצה לבנק השכונתי",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-839450/s1/840130/",
+       "id": "840130",
+       "season": 1
+      },
+      {
+       "name": "תיאטרון מצולם | \"הבעל הנצחי\"",
+       "logo": "https://www.kan.org.il/media/y4kh2vrf/bi18900246-theatre-baal.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wysa93rm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-23",
+       "plot": "דרמה קומית שהועלתה ב-1973 בתיאטרון \"הבימה\", הגוללת את סיפורו של אלמן טרי הנאבק עם גילוי מטלטל על בתו שנולדה מרומן חשאי של אשתו המנוחה עם קצין ידיד. בין תכנוני נקם לשאלות מוסר, העלילה מובילה למסע נפשי סוער שבו עליו להחליט האם לנקום בקצין המאהב, בבתו היתומה, או שמא בעצמו",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-839450/s1/839481/",
+       "id": "839481",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

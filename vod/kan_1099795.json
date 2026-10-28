@@ -1,0 +1,59 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אני ואתה – תזמורת המהפכה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1099795/",
+   "series_id": "1099795",
+   "updated": "2026-10-28 09:25",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אני ואתה – תזמורת המהפכה | מחרוזת",
+       "logo": "https://www.kan.org.il/media/fxgdxwul/hamahapecha_einstein_2025_sport00_01_19_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246003/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1099795/s1/1099827/",
+       "id": "1099827",
+       "season": 1
+      },
+      {
+       "name": "אני ואתה – תזמורת המהפכה | עוד ניפגש",
+       "logo": "https://www.kan.org.il/media/kgrkeurj/hamahapecha_einstein_2025_od-nipagesh00_03_10_04still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246002/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1099795/s1/1099822/",
+       "id": "1099822",
+       "season": 1
+      },
+      {
+       "name": "אני ואתה – תזמורת המהפכה | לשרוק בחושך",
+       "logo": "https://www.kan.org.il/media/rusl51jb/s0605611_dig01_25_01_01still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246001/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1099795/s1/1099821/",
+       "id": "1099821",
+       "season": 1
+      },
+      {
+       "name": "אני ואתה – תזמורת המהפכה | המופע המלא",
+       "logo": "https://www.kan.org.il/media/kgnfdjew/s0605611_yt00_00_00_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245995/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "תזמורת המהפכה בפרשנות מוזיקלית חדשה ליצירתו של אריק אינשטיין. המופע מביא יצירות חדשות ועיבודים מקוריים בשילוב קטעי ארכיון נדירים קטעי סרטים וראיונות. אורחים- מוני מושונוב, רוני דלומי וסיון טלמור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1099795/s1/1099799/",
+       "id": "1099799",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

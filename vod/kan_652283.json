@@ -1,0 +1,179 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מוצ\"ש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-652283/",
+   "series_id": "652283",
+   "updated": "2026-10-28 12:22",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מוצ\"ש | פרק 10 - לקט 1992",
+       "logo": "https://www.kan.org.il/media/wlubrlzo/מוצש-821992-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r8qlellf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "מבחר קטעים מהשנה החולפת, ביניהם מערכון הצ'יף במיטה, תשדיר שירות לבזק קול הנזק ולהקת \"מכרסמי השורשים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/655108/",
+       "id": "655108",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 8 - לקט 1990",
+       "logo": "https://www.kan.org.il/media/dymlho2g/לקט-1990-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8hnzp3ya/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "תוכנית פרידה משנת תש\"ן במצעד קטעים נבחרים ששודרו בשנה האחרונה, ביניהם יוסף בסילבסטר ומשפחה ישראלית בפאב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/655083/",
+       "id": "655083",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 7 - חיות והימורים",
+       "logo": "https://www.kan.org.il/media/sreejnop/23-בדצמבר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tcmqq5ik/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "אב ובן המנהלים דוכן פיס חולקים סיפורי זכייה משעשעים, צליל בירן ואריק מחקה החיות מפליאים בכישרונם, ויוסף עובר אילוף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/654996/",
+       "id": "654996",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 16 - לקט לקיץ",
+       "logo": "https://www.kan.org.il/media/dh1ke3l5/פרק-17-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bufidppa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "חוזרים אל המערכונים והדמויות שאהבנו, ביניהן רפול, ברטה המדיומית ויוסף כמתקן חימום אנושי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/654938/",
+       "id": "654938",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 15 - לקט סיום התוכנית",
+       "logo": "https://www.kan.org.il/media/0pjjnci0/1993-לקט-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g5robi5u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "מבחר מערכונים מהתוכניות הקודמות, ביניהם הפצצת חצות, סמי עם המנגל-ינקו, ופסטיבל הילדים שיש בו שיר אחד בלבד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/654931/",
+       "id": "654931",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 17 - ספי, יצפאן וחברים",
+       "logo": "https://www.kan.org.il/media/hgfpho3s/16-במרץ-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pfsr56oc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מיטב המערכונים, השירים והדמויות הבלתי נשכחות שאהבנו מתוך התוכנית, ביניהן סמי ינקו, יוסף, ומשפחת שמשון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/653962/",
+       "id": "653962",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 14 - ט\"ו בשבט 1993",
+       "logo": "https://www.kan.org.il/media/rngosutf/6-בפברואר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pe2lw51u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "ירמיהו ברקוביץ' מקבל את פרס ארץ ישראל היפה, מנכ\"ל ספורטוטו משתף בסיפורי זכייה מעניינים, והוטי מספרת על הדיאטה המיוחדת שפצחה בה.\nהפרק צולם ב-6.2.1993 ולא שודר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/653886/",
+       "id": "653886",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 5 - ראש השנה 1989",
+       "logo": "https://www.kan.org.il/media/2mvd4mwf/30-בספטמבר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fun9u0ir/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "בין האורחים של התוכנית החגיגית - פרסומאי ותיק שמכין גלויות שנה טובה כבר 30 שנה, מעצבי אופנה ססגוניים, ושחקני נבחרת ישראל בכדורגל שמגיעים בהפתעה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/653773/",
+       "id": "653773",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 3 - בליינד דייט",
+       "logo": "https://www.kan.org.il/media/cbubovye/5-באוגוסט-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p7lnmvfs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "יינן מקצועי מלמד על אלכוהול, רפי קישון מציג את תוכניתו החדשה, עמנואל בפגישה עיוורת בפאב, ומשפחת קרינגטון מ\"שושלת\" מנסה להסתגל לחיים בארץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/653651/",
+       "id": "653651",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 2 - סיפורים מהשוק ועצות על מין",
+       "logo": "https://www.kan.org.il/media/nawjjph5/8-ביולי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ycavazrz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "עמנואל מקים חברת קש, דודו אלהרר פותח מסעדה חדשה בשוק הכרמל, ומה מביך את ד\"ר רות וסטהיימר?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/653611/",
+       "id": "653611",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 1 - פאב חדש נפתח",
+       "logo": "https://www.kan.org.il/media/3u4k0t3c/24-ליוני-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mw7rrxor/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "יענק'לה בן-סירא וגדעון זינגר מתחזקים ידידות ארוכת-שנים, ישראל אהרוני ושאול אברון משתפים על חוויית הנסיעה באוריינט אקספרס, ו\"החברים של בטטה\" בהופעה בכורה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/653545/",
+       "id": "653545",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 11 - יום העצמאות 1992",
+       "logo": "https://www.kan.org.il/media/btxnmjz1/webתכנית-ליום-ה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tc70a5v2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-12",
+       "plot": "מערכונים ושירים סאטיריים על המנהגים הישראליים בחג, ובאולפן מתארחים עורך מדור רכב ודוגמנית ישראלית שעובדת ביפן ומשתפים על עבודותיהם הלא שגרתיות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/652390/",
+       "id": "652390",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 9 - חנוכה 1991",
+       "logo": "https://www.kan.org.il/media/efbgvwud/20-בנובמבר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eaivzlal/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-12",
+       "plot": "דודו דותן ואריה מוסקונה משתפים חוויות באולפן, יוסף מציג מתקן רב-שימושי לחנוכה, ומי זכה בטקס האוסקר הגמדי?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/652343/",
+       "id": "652343",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 4 - אדוני השופט",
+       "logo": "https://www.kan.org.il/media/ynnj421e/webמוצש-1989.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_npcqyox3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-12",
+       "plot": "משפטנים משתפים ברגעים מבדחים ובחוויות מבית המשפט, קונדיטור מוכשר מציג עוגות אומנותיות ושיאן גינס חזק במיוחד מדגים את כוחו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/652312/",
+       "id": "652312",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק 6 - עמנואל תופס פיקוד",
+       "logo": "https://www.kan.org.il/media/25jpykrc/webמוצש-פרודיה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dkke96l5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-12",
+       "plot": "עמנואל מחליף את המנחה הערב ומארח בין היתר פסנתרן שמופיע בכל העולם, את הסאטיריקן דידי מנוסי, וגם מתמודד עם מחלקת הגבייה שבאה לעקל את הטלוויזיה שאין לו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/652303/",
+       "id": "652303",
+       "season": 1
+      },
+      {
+       "name": "מוצ\"ש | פרק  13 - אסטרולוגיה",
+       "logo": "https://www.kan.org.il/media/thffn24i/מוצש-אסטרולוגיה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9j9pvu6f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-12",
+       "plot": "מה מצפה לנו ב-1993? מה אומרים האסטרולוגים, הקוראות בקפה והמדיומים? תוכנית משעשעת על עולם הנסתר והקריאה בכוכבים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-652283/s1/652301/",
+       "id": "652301",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חם לי קר לי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1083239/",
+   "series_id": "1083239",
+   "updated": "2026-10-28 11:15",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חם לי קר לי | פרק 3 - זה לא פרסונלי - זה הורמונלי",
+       "logo": "https://www.kan.org.il/media/cymlogys/לאתר_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230372/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-29",
+       "plot": "הבימאית ענת גורן יוצאת למסע דוקומנטרי אישי, משעשע, ופוקח עיניים על גיל המעבר. בפרק האחרון בסדרה: האם פרישה ממקום העבודה וגירושין הם עניין הורמונלי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1083239/s1/1083245/",
+       "id": "1083245",
+       "season": 1
+      },
+      {
+       "name": "חם לי קר לי | פרק 2 - כן הורמונים לא הורמונים",
+       "logo": "https://www.kan.org.il/media/id3merol/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230371/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-29",
+       "plot": "הבימאית ענת גורן יוצאת למסע דוקומנטרי אישי, משעשע, ופוקח עיניים על גיל המעבר. בפרק השני היא יוצאת לחקור סופית אם מה שלא הורג אותנו מחשל אותנו. הורמונים עושים סרטן? או שלא? או שאולי? הצילו. התשובות בפרק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1083239/s1/1083244/",
+       "id": "1083244",
+       "season": 1
+      },
+      {
+       "name": "חם לי קר לי | פרק 1 - לא לפנות אליי",
+       "logo": "https://www.kan.org.il/media/4mblp3xs/54772500_00_38_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230370/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-29",
+       "plot": "הבימאית ענת גורן יוצאת למסע דוקומנטרי אישי, משעשע, ופוקח עיניים על גיל המעבר: תסמינים מפתיעים, מחקרים שנויים במחלוקת, ובעיקר מיליון נשים מבולבלות שרוצות תשובות רציניות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1083239/s1/1083243/",
+       "id": "1083243",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חם לי קר לי | טריילר",
+       "logo": "https://www.kan.org.il/media/nixnibss/2230854_1785413082245.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230854/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "שוכחת, לא ישנה, עצבנית? הצצה לסדרה החדשה ששוברת שתיקה על גיל המעבר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1083239/1083622/",
+       "id": "1083622"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

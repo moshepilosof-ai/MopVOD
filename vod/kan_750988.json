@@ -1,0 +1,233 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - זה הזמן | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-750988/",
+   "series_id": "750988",
+   "updated": "2026-10-28 10:28",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זה הזמן | תוכנית 9 - הנרי קיסינג'ר",
+       "logo": "https://www.kan.org.il/media/jmjf3g1l/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7w8a8gix/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "פוליטיקה, רצח קסטנר וגיור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/753662/",
+       "id": "753662",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 10 - תאונת דרכים",
+       "logo": "https://www.kan.org.il/media/cxtdngtv/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9bvi4fml/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "על גזענות, הצנחן שנפגע בתאונת דרכים קשה וחברת מועצת העיר ירוחם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/753638/",
+       "id": "753638",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 20 - ט' באב",
+       "logo": "https://www.kan.org.il/media/bh5pjyba/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qky7vt0c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-23",
+       "plot": "על יומו האחרון ונפילתו של הרובע היהודי בירושלים בשנת 48'",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/752739/",
+       "id": "752739",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 19 - א.ב יהושוע",
+       "logo": "https://www.kan.org.il/media/lfkdjd4n/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p7jzujf5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-23",
+       "plot": "על ריפוי באמצעות אנרגיות הגוף והבוהמה הירושלמית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/752736/",
+       "id": "752736",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 18 - 15 שנה ליום כיפור",
+       "logo": "https://www.kan.org.il/media/xdmphwmn/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hq3s6644/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-23",
+       "plot": "מסקנות ועדת החקירה של המלחמה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/752733/",
+       "id": "752733",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 17 - ג'ונתן פולארד",
+       "logo": "https://www.kan.org.il/media/xfylmega/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yc8idm3x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-23",
+       "plot": "אשתו של ג'ונתן פולארד, החלת החוק הבינ\"ל על השטחים וסופרת שוויצרית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/752728/",
+       "id": "752728",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 16 - כלא שאטה",
+       "logo": "https://www.kan.org.il/media/tdfdog3z/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v0fz4kau/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "המורה לאומנות מתל-יוסף, האסיר מהכלא בגלבוע ונתן שחם על ספרו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751135/",
+       "id": "751135",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 15 - הזמנה לפילוסופיה",
+       "logo": "https://www.kan.org.il/media/n2hluatt/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cdg7zf3n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "מאיר פורוש מאגודת ישראל, טיפול באיידס והפילוסוף יובל שטייניץ על ספרו החדש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751130/",
+       "id": "751130",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 14 - \"בצל גרדומים\"",
+       "logo": "https://www.kan.org.il/media/4csnmdsz/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_un0x671h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "תוכנית מיוחדת לט' באב על הוצאתם להורג של שלושה אנשי אצ\"ל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751128/",
+       "id": "751128",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 13 - 35 שנה לעליית יהדות בבל",
+       "logo": "https://www.kan.org.il/media/2jbcbmbw/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dvkbbzfy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "השר משה מחל ויוסף בן אהרון, איש סודו של רה\"מ שמיר, על המזרח התיכון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751127/",
+       "id": "751127",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 12 - משטר הרודנות בצ'ילה",
+       "logo": "https://www.kan.org.il/media/onemlgr2/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ed3q05cb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "ראיון עם אם ובנה שברחו לישראל אחרי שהאב נאסר, עונה ונעלם בארצם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751122/",
+       "id": "751122",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 11 - יוני נתניהו",
+       "logo": "https://www.kan.org.il/media/osmhrxcb/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x920grii/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "תוכנית ליום הזיכרון על מבצע אנטבה: החילוץ ובני הערובה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751121/",
+       "id": "751121",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 8 - שנקר",
+       "logo": "https://www.kan.org.il/media/dkxdm3s5/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wym75ibz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "תערוכה של מגמת האופנה, יו\"ר הועד הציבורי ליהודי תימן והפרופסריות מהאוניברסיטאות על פורום 85 לציון עשור האישה בניירובי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751109/",
+       "id": "751109",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 7 - רצח ארלוזורוב",
+       "logo": "https://www.kan.org.il/media/gj4pg4uk/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sz2xd168/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "זאבה אחימאיר על פרשיית הרצח ומאיר שטרית בביקורת על ממשלת האחדות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751105/",
+       "id": "751105",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 6 - מלחמות ישראל",
+       "logo": "https://www.kan.org.il/media/qmbfggjc/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ces0h5xi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "תת-אלוף במיל' גיורא פורמן על מלחמת לבנון, ההסיטוריון אורי מילשטיין וח\"כ מאיר פעיל על מלחמות המדינה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751096/",
+       "id": "751096",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 5 - שחרור אסירי המחתרת",
+       "logo": "https://www.kan.org.il/media/e1cc3x01/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0oajrd45/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "הרב של תקוע מול פעיל חברתי, האמן משה גבעתי והמיליונר משולם ריקליס",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751070/",
+       "id": "751070",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 4 - אבי נשר",
+       "logo": "https://www.kan.org.il/media/xcpahvxx/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tkttxb3n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "הבמאי המצליח על הפועל ת\"א, ח\"כ רוני מילוא ונחום לגנטל על הטרור החרדי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/751057/",
+       "id": "751057",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 3 - רחבעם זאבי",
+       "logo": "https://www.kan.org.il/media/z2zlryqz/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vzqzp8gq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "הקצין הבדואי סא\"ל במיל' עמוס ירקוני וחברת להקה 'הברירה הטבעית'",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/750999/",
+       "id": "750999",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 2 - מוטה גור",
+       "logo": "https://www.kan.org.il/media/nc3lin11/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_soauyb89/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "אלוף פיקוד הצפון לשעבר על ספרו החדש, המרצה המצרית שמלמדת על השלום בארה\"ב ויצחק קרונזון - רופא ישראלי שכתב ספר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/750997/",
+       "id": "750997",
+       "season": 1
+      },
+      {
+       "name": "זה הזמן | תוכנית 1 - דניאלה וייס",
+       "logo": "https://www.kan.org.il/media/rstildl1/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o24hs30h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "ראש גוש אמונים, הבמאי סיני פטר על ההצגה בבימויו \"ערבות הנגב\" וכתב \"עיתון המשמר\" ארנון לפיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/s1/750994/",
+       "id": "750994",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "זה הזמן | פתיח ",
+       "logo": "https://www.kan.org.il/media/01tha3ke/זה-הזמן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ngu8ry7c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-26",
+       "plot": "הפתיח הזכור של '' זה הזמן''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-750988/865014/",
+       "id": "865014"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

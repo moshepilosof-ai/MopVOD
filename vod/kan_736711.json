@@ -1,0 +1,46 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - נועה בדרך לאירוויזיון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-736711/",
+   "series_id": "736711",
+   "updated": "2026-10-28 12:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "נועה בדרך לאירוויזיון - הצצה | הפריצה",
+       "logo": "https://www.kan.org.il/media/hi1cdhaf/נועה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u1422yc4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-20",
+       "plot": "\"אני רוצה לעשות קליפ פרובוקטיבי\": הטריק השיווקי של רוברטו שהוביל לסערה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-736711/873038/",
+       "id": "873038"
+      },
+      {
+       "name": "נועה בדרך לאירוויזיון - חלק ב'",
+       "logo": "https://www.kan.org.il/media/xf2ft0yl/1920x1080.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6weeuoj5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "שמונה חודשים לפני האירוויזיון נועה מסתערת על המטרה, האירוויזיון בליברפול, ומגייסת לטובת המשימה את כל מי שיכול לעזור לה להשיג את הדוז פואה המיוחלים. הסרט מלווה אותה עד הטיסה לליברפול הרחוקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-736711/762183/",
+       "id": "762183"
+      },
+      {
+       "name": "נועה בדרך לאירוויזיון - חלק א'",
+       "logo": "https://www.kan.org.il/media/5g0ftwl0/https-kanstaticazureedgenet-download-pictures-2023-3-8-imgid-95497_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9cmm879t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רגע לפני שנועה קירל הופכת לאמנית הצעירה ביותר שכובשת את פארק הירקון, היא מקבלת הצעה לייצג את ישראל על הבמה הכי גדולה באירופה בתחרות האירוויזיון! הסרט מלווה אותה ברגעי השיא של הקיץ הדרמטי בחייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-736711/162150/",
+       "id": "162150"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

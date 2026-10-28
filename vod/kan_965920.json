@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ו'יני (איפה) ידידה?",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-965920/",
+   "series_id": "965920",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ו'יני (איפה) ידידיה? | הצצה",
+       "logo": "https://www.kan.org.il/media/o03hidev/תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2164510/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-07",
+       "plot": "העדויות ההיסטוריות בעקבות פרשת היעלמותם של ילדי תימן המזרח והבלקן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965920/996679/",
+       "id": "996679"
+      },
+      {
+       "name": "ו'יני (איפה) ידידה?",
+       "logo": "https://www.kan.org.il/media/ng1a5yca/1920x1080_no-logo_ויני-איפה-ידידה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891419/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-30",
+       "plot": "פרשת היעלמותם של ילדי תימן, המזרח והבלקן היא אחד הפרקים הכואבים בתולדות ישראל. הבמאית מנסה להתחקות אחר עקבות דודתה האבודה, ידידה ג'ובני, דרך העדויות ההיסטוריות של האחיות, המטפלות, הרופאות והרופאים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965920/965924/",
+       "id": "965924"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

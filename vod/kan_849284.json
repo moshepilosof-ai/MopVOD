@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - האחו הקטן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-849284/",
+   "series_id": "849284",
+   "updated": "2026-10-28 09:43",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "האחו הקטן - טריילר",
+       "logo": "https://www.kan.org.il/media/jgfdnqn4/1920x1080-no-logo_האחו-הקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t2xnmmph/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-849284/929485/",
+       "id": "929485"
+      },
+      {
+       "name": "האחו הקטן",
+       "logo": "https://www.kan.org.il/media/u32kotbq/1920x1080-no-logo_האחו-הקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3mf7my3s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-19",
+       "plot": "הסרט זוכה פרס דוקאביב 2024 לסרט הטוב ביותר, מלווה שלוש נשים, שלושה דורות, הגרות בחווה אחת בגרמניה שעל אדמתה הוקם מחנה ריכוז. יחד הן יוצאות למסע משפחתי אל העבר האפל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-849284/849323/",
+       "id": "849323"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

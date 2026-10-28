@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - לנסקי - הגנגסטר הציוני",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1087076/",
+   "series_id": "1087076",
+   "updated": "2026-10-28 11:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "לנסקי - הגנגסטר הציוני | פרק 2 - הקשר היהודי",
+       "logo": "https://www.kan.org.il/media/faadmm1d/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229693/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-09",
+       "plot": "שהייתו בישראל של מי שהיה אחד ממייסדי הפשע המאורגן באמריקה הופכת לסערה ציבורית וראש הממשלה גולדה מאיר נאלצת להכריע - האם לתת אזרחות למאיר לנסקי שהתגייס למען מדינת ישראל והמפעל הציוני, או למסור אותו לגרשו לארה\"ב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1087076/s1/1087091/",
+       "id": "1087091",
+       "season": 1
+      },
+      {
+       "name": "לנסקי - הגנגסטר הציוני | פרק 3 - האזרח לנסקי",
+       "logo": "https://www.kan.org.il/media/i3oh1dlu/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229694/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-09",
+       "plot": "עתירתו של מאיר לנסקי נגד שר הפנים מגיעה לבית המשפט העליון. האם יגורש הגנגסטר ממדינת ישראל או יקבל אזרחות ישראלית מתוקף זכותו כיהודי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1087076/s1/1087086/",
+       "id": "1087086",
+       "season": 1
+      },
+      {
+       "name": "לנסקי - הגנגסטר הציוני | פרק 1 - איש גדול קטן",
+       "logo": "https://www.kan.org.il/media/ak2llnqc/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229692/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-09",
+       "plot": "איך הפך מאיר לנסקי לראש סינדיקט הפשע המאורגן בארה\"ב, ומדוע ברח משם לבקש מקלט בישראל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1087076/s1/1087081/",
+       "id": "1087081",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "לנסקי - הגנגסטר הציוני | טריילר",
+       "logo": "https://www.kan.org.il/media/qs4pojyu/לנסקי-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235250/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-13",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1087076/1088738/",
+       "id": "1088738"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

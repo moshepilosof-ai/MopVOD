@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - זמן משיח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1103906/",
+   "series_id": "1103906",
+   "updated": "2026-10-28 10:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מרצ'נדייז משיחי: הדגלים, הפאצ'ים והכיפות של חב\"ד השתלטו על הרחובות",
+       "logo": "https://www.kan.org.il/media/a3dfkdbt/לאתר-משיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246481/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-16",
+       "plot": "בלי ששמנו לב, הכבישים והדרכים בישראל הופכים בשנים האחרונות זירת התגוששות בין קבוצות דתיות המכריזות על בוא המשיח. הפלג המשיחי של חב\"ד מוביל, ואצלו – חלק מרכזי מהאמונה הוא הפרסום והמרצ'נדייס. פחות ספרי קודש – ויותר צעצועים ומזכרות, פחות שיעורי תורה – ויותר כיפות ממותגות, דגלים וסמלים. הרידוד המכוון של תורת הרבי מלובביץ', בפרק השני של \"זמן משיח\"",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1103906/s1/1100455/",
+       "id": "1100455",
+       "season": 1
+      },
+      {
+       "name": "בום של אמונה: מה עומד מאחורי גל המסורתיות ששוטף את ישראל?",
+       "logo": "https://www.kan.org.il/media/pceedhvv/מש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246058/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "את הפוסטרים של הרבי מלובביץ' אפשר לראות בצידי הכבישים מדן ועד אילת, והדגלים הצהובים של חב\"ד הגיעו גם לטנקים בחאן יונס. איך כל אלה קשורים לפלג המשיחיסטי בחב\"ד, שכבר 32 שנה ממאן להשלים עם מות הרבי, וגם לגל המסורתיות שפוקד את ארצנו מאז שבעה באוקטובר?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1103906/s1/1099961/",
+       "id": "1099961",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

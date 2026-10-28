@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מלחמה על איזה בית",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-955232/",
+   "series_id": "955232",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מלחמה על איזה בית | פרק 2",
+       "logo": "https://www.kan.org.il/media/xpij2eeu/02_01_clean.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aozk172f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-28",
+       "plot": "בזמן שהוא מתמרן בעומק לבנון, נועם נאלץ להכריע בין הרצון להיות בחזית לבין אישתו שמאובחנת עם דכאון היריון. הדילמה הזוגית מציפה שאלות על גבריות, נאמנות ובעיקר אשמה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-955232/s1/955305/",
+       "id": "955305",
+       "season": 1
+      },
+      {
+       "name": "מלחמה על איזה בית | פרק 1",
+       "logo": "https://www.kan.org.il/media/kwpn1wnu/01_01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hdr3zr3w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-28",
+       "plot": "לאחר שהוקפץ למילואים ב-7.10, החל להיווצר קרע ביחסים בין נועם, לוחם מילואים ביחידת אגוז, ובין אישתו הילה. שאלת הנאמנות לצוות שקורא לו לעזרה במלחמה הקשה, לבין אהובתו שזקוקה לו בבית טילטלו את עולמו של נועם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-955232/s1/955302/",
+       "id": "955302",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

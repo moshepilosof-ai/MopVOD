@@ -1,0 +1,803 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שאלה תשובה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12766/",
+   "series_id": "12766",
+   "updated": "2026-10-28 13:14",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 10 - שיקום קהילה",
+       "logo": "https://www.kan.org.il/media/g5fdcocj/שאלה-תשובה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6q5j46lw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-27",
+       "plot": "פרק אחרון לעונה: שיקום קהילה - חיים ילין מקיבוץ בארי ויהלומה זכות מאופקים, מדברים על כוחה של קהילה, מה הוביל אותם לקחת את מושכות ההנהגה החברתית לפני ה-7 באוקטובר, ומה השתנה בתפיסתם מאז.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/865309/",
+       "id": "865309",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 9 - תמונות מלחמה",
+       "logo": "https://www.kan.org.il/media/gqfcqoag/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5uwnha8b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-09",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף. זיו קורן ואבישג שאר ישוב, שני צלמי עיתונות שמצלמים כבר שנים מלחמות ופיגועים, בודקים מה ההבדל בין צלם-גבר-חילוני לצלמת-אישה-דתייה, בחוויה האישית ובתמונות ועל תחושת השליחות בתיעוד המלחמה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/857945/",
+       "id": "857945",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 8 - משפחות המילואים",
+       "logo": "https://www.kan.org.il/media/u4ghmrlg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1kd0dmzi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-03",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף. שבות רענן, ממקימות פורום נשות המילואימניקים ויותם דגן, לוחם, מפקד ופסיכולוג בשייטת 13, בשיחה על הקהילה החדשה שנוצרה במלחמה, קהילת משפחות המילואים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/855560/",
+       "id": "855560",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 7 - הומור ושכול",
+       "logo": "https://www.kan.org.il/media/ylphpd00/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gffs1g1s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-30",
+       "plot": "יעל שבח שאיבדה את בעלה בפיגוע טרור וחן אביגדורי שאשתו ובתו נחטפו לעזה ושבו בעסקת החטופים, בשיחה על עיסוק בשכול דרך הומור, ועל הומור כצורך קיומי וכלי להתמודדות עם אובדן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/853945/",
+       "id": "853945",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 6 - לצמוח מפוסט טראומה",
+       "logo": "https://www.kan.org.il/media/jqidne3w/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_frw69ujv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-21",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף. השחקן אסי צובל והקולנוען יונתן ניר, משתפים בחוויה הפוסט טראומטית שלהם כלוחמים, וכיצד אפשר לצמוח ממנה בעזרת טיפול פסיכולוגי לצד יצירה אמנותית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/850207/",
+       "id": "850207",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 5 - קומיקס וקריקטורה בימי מלחמה",
+       "logo": "https://www.kan.org.il/media/0f0njkop/שאלה-תשובה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nq90719e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-21",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף. המאיירים אורי פינק ושי צ'רקה משוחחים על תפקידם של הקריקטוריסטים בימי מלחמה, איך השפיעה המלחמה על תפיסתם וכיצד היא משתקפת ביצירתם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/850190/",
+       "id": "850190",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 4 - לתווך מלחמה לילדים ",
+       "logo": "https://www.kan.org.il/media/isngxuga/שאלה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xgzfc305/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-14",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף בזמנים שבין מלחמה להחלמה. הסופרת הדסה בן ארי והתסריטאי עדן גוריון משתפים מה גרם להם ליצור סיפורים לילדים על המלחמה והמציאות החדשה מאז ה- 7.10.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/847300/",
+       "id": "847300",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 3 - ערבות הדדית בעורף",
+       "logo": "https://www.kan.org.il/media/ecafjtul/תמונה-לאתר-פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r4cshyke/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-07",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף. היזמית החברתית, חנה רדו, וחוקרת החברה החרדית, ד\"ר נחומי יפה, עוסקות באקטיביזם חברתי וסיוע לזולת שנים רבות. ה-7 באוקטובר הפך את תחושת השליחות שלהן למשימת חיים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/844714/",
+       "id": "844714",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 2 - לחזור הביתה מהשבי",
+       "logo": "https://www.kan.org.il/media/yzxletam/שאלה-תשובהתמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jbm1jb5r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-01",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף בזמנים שבין מלחמה להחלמה. יוסי תור, פדוי שבי, והילה פלורסהיים בראון, בתו של פדוי שבי, משוחחים על מה שקורה בין ארבעה קירות הבית אחרי החזרה מן השבי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/842737/",
+       "id": "842737",
+       "season": 5
+      },
+      {
+       "name": "שאלה תשובה עונה 5 | פרק 1 - שירים מאירים",
+       "logo": "https://www.kan.org.il/media/xvidmaez/תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0bgc8gk8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-25",
+       "plot": "שיחה אישית שמניחה בצד את המחלוקות לטובת חיפוש אחר המשותף בזמנים שבין מלחמה להחלמה. בפרק הבכורה: שירים מאירים- לאה שבת ואודהליה ברלין חוגגות את חג האור ומדברות ושרות על כוחם המרפא של שירים וניגונים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/840191/",
+       "id": "840191",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 31 - ויקטוריה ומיקה, פסח",
+       "logo": "https://www.kan.org.il/media/lrvbma35/https-kanstaticazureedgenet-download-pictures-2022-12-7-imgid-88222_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bbm2exgu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שיר השירים. מיקה קרני וויקטוריה חנה, שתי מוזיקאיות יוצרות, מספרות על הקשר האישי שלהן למגילת שיר השירים, שרות שירים שהלחינו לטקסטים מן המגילה ומשוחחות על הבחירות שכתבו את סיפור חייהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/154259/",
+       "id": "154259",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 30 - שאנן וברוך",
+       "logo": "https://www.kan.org.il/media/ew1jn40w/https-kanstaticazureedgenet-download-pictures-2022-11-30-imgid-87502_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xcugjap6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת ויצא. \r\nשאנן סטריט, מוזיקאי ופותר חלומות חובב, וד\"ר ברוך כהנא, פסיכולוג, ממקימי המכון לפסיכולוגיה יהודית, משוחחים על חלומו של יעקב אבינו, על החלומות הפרטיים שלהם ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/153662/",
+       "id": "153662",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 29 - אבי ויהושע",
+       "logo": "https://www.kan.org.il/media/oq0nc4fs/https-kanstaticazureedgenet-download-pictures-2022-11-23-imgid-86489_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d2ivjovd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת תולדות. \r\nאבי דבוש, פוליטיקאי בעבר ופעיל חברתי, ויהושע מאירי-ליכטר, עיתונאי שפעל בעולם הערבי, משוחחים על תככים ומרמה בימי האבות הקדומים ובימינו, ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/152837/",
+       "id": "152837",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 28 - עינת ורות",
+       "logo": "https://www.kan.org.il/media/g4blachz/https-kanstaticazureedgenet-download-pictures-2022-11-17-imgid-85894_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_08cy9pyl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת חיי שרה.\r\nד\"ר עינת רמון וד\"ר רות קרא איוונוב קניאל, שתי חוקרות ויוצרות, משוחחות על מותה של שרה, האם הגדולה, על המשכיות השושלת הנשית של התרבות העברית ועל הבחירות שכתבו את סיפור חייהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/152368/",
+       "id": "152368",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 27 - רחלי ונעמה",
+       "logo": "https://www.kan.org.il/media/gv4pfdjb/https-kanstaticazureedgenet-download-pictures-2022-11-10-imgid-85136_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6h4cr198/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת וירא. \r\nרחלי ברוקס ונעמה קדוש משוחחות בהשראת שרה אמנו שנכנסה להריון בנס אלוהי בזקנתה, על עקרות והמתנה לילד. ועל הבחירות שכתבו את סיפור חייהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/151935/",
+       "id": "151935",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 26 - ניר ודותן",
+       "logo": "https://www.kan.org.il/media/syubldve/https-kanstaticazureedgenet-download-pictures-2022-11-2-imgid-84643_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a34x12ne/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת לך לך. \r\nניר גושן היה שליח חב\"\"ד בהודו ודותן קורתי היה קיבוצניק שטייל בהודו. \r\nאחרי מפגש בבית חב\"ד שינה כל אחד מהם את מסלולו.\r\nהם נפגשים לשוחח על הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/151595/",
+       "id": "151595",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 25 - הילה ומירי",
+       "logo": "https://www.kan.org.il/media/wkepg2qr/https-kanstaticazureedgenet-download-pictures-2022-10-26-imgid-84127_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fl8yd16v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת נח. הילה ברוך שחוותה סף מוות והתקרבה לדת ומירי מילשטיין שגדלה בחסידות גור בבני ברק ויצאה בשאלה, נפגשות לשוחח על פרשת נח, על חידוש הברית עם אלוהים ועל הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/151304/",
+       "id": "151304",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 24 - דורון ושרה",
+       "logo": "https://www.kan.org.il/media/xpgplnzi/https-kanstaticazureedgenet-download-pictures-2022-10-18-imgid-83545_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nn4u8pew/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת בראשית. שחקן הכדורסל דורון שפר, בעל תשובה והשחקנית שרה פון שוורצה שהתגיירה בילדותה וחיה שנים רבות עם משבר זהות, נפגשים לשוחח על פרשת בראשית, על התחלות חדשות ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/150995/",
+       "id": "150995",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 23 - יסמין ודוד",
+       "logo": "https://www.kan.org.il/media/htah5nu4/https-kanstaticazureedgenet-download-pictures-2022-10-14-imgid-83335_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hzvepazt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, מגילת קהלת. המוזיקאים הבינלאומיים יסמין לוי ודוד ד'אור, משוחחים על מקומה של האמונה בחייהם, על התבונה לחכות בסבלנות, כי \"לכל זמן ועת לכל חפץ תחת השמים\" ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/150941/",
+       "id": "150941",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 22 - בניה ויגל",
+       "logo": "https://www.kan.org.il/media/gudp1qyw/https-kanstaticazureedgenet-download-pictures-2022-10-6-imgid-82907_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2i1cb6uq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת האזינו. בניה ברבי ויגל הרוש, שני מוזיקאים שצמחו לצלילי פיוטים וממשיכים להחיות את הפיוט היהודי במוזיקה העכשווית, משוחחים על שירתו האחרונה של משה רבנו ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/150674/",
+       "id": "150674",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 21 – רסל ואייל",
+       "logo": "https://www.kan.org.il/media/r2ndz4bz/https-kanstaticazureedgenet-download-pictures-2022-9-22-imgid-82242_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n5947g0m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"וילך\". רסל דיקשטיין, שיצאה מהקהילת חב\"ד משיחית, ואייל הירשפלד, שהיה חלק מקהילת יהודים משיחיים ואז עבר למדבר וחזר בתשובה, נפגשים לשוחח על קהילתיות מול אינדיווידואליזם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/150383/",
+       "id": "150383",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 20 – אהוד ודרי",
+       "logo": "https://www.kan.org.il/media/gcljl0av/https-kanstaticazureedgenet-download-pictures-2022-9-21-imgid-82173_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jdahfoqh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"ניצבים\". דרי קרליבך, בתו של ר' שלמה קרליבך, ואהוד אריאל, בנו של מאיר אריאל, נפגשים לשיר ולדבר על מורשת אבותיהם ועל המסע האישי שלהם בעולם המצוות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/150347/",
+       "id": "150347",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 19 - אילנה ודוד",
+       "logo": "https://www.kan.org.il/media/naygonzn/2022-9-15-imgid-81760_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ucmoi4zd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"כי תבוא\". אילנה שזור, בת קהילת בני ישראל מהודו, ודוד לוהנגדים, שעלה מקהילת בני המנשה מהודו, משוחחים על שבטים אבודים, מסורות שנשמרו בעל פה, ועל המתנות שמביאה כל קהילה לישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/150143/",
+       "id": "150143",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 18 - אסא ותמר",
+       "logo": "https://www.kan.org.il/media/g4ndpirm/https-kanstaticazureedgenet-download-pictures-2022-9-7-imgid-81240_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mhwmt4k3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"כי תצא\". פרופ' אסא כשר, חתן פרס ישראל לפילוסופיה ומחבר הקוד האתי של צה\"ל, וד\"ר תמר רבנו, פסיכולוגית קלינית, הם בני דודים. הם משוחחים על הצורך להסדיר את מוראות המלחמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/149891/",
+       "id": "149891",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 17 - אילנית וינאי",
+       "logo": "https://www.kan.org.il/media/sygftlf5/2022-9-1-imgid-80794_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qz97uu0a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"שופטים\". אילנית סוויסה וינאי יעקב ליין, שני יוצרי קולנוע שתיעדו בסרטיהם את הקשר שלהם למופלא ולנשגב, משוחחים על האיסור על כשפים במקרא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/149663/",
+       "id": "149663",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 16 - מהרטה ויוסף",
+       "logo": "https://www.kan.org.il/media/lbfp3lwc/https-kanstaticazureedgenet-download-pictures-2022-8-24-imgid-80338_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_shooinip/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"ראה\". מהרטה ברוך-רון והרב יוסף הדנה, מיוזמי מסורת חג הסיגד בישראל, בשיחה אישית על הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/149360/",
+       "id": "149360",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 15 - נחום ויאיר",
+       "logo": "https://www.kan.org.il/media/siejrt4v/https-kanstaticazureedgenet-download-pictures-2022-8-17-imgid-79962_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_64mtrppb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"עקב\". נחום פצ'ניק, פסיכותרפיסט יוצא בשאלה שהקים את בית סוטריה לפגועי נפש, וד\"ר יאיר כספי, מייסדו ומנהלו של מרכז \"פסיכולוגיה ביהדות\", בשיחה אישית על טראומה, פצעים ועל הבחירות שטוו את חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/149063/",
+       "id": "149063",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 13 - אילה ועמי",
+       "logo": "https://www.kan.org.il/media/u2ffpq54/https-kanstaticazureedgenet-download-pictures-2022-8-4-imgid-79117_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nvcywhq6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"דברים\". אילה דקל, דתייה שנישאה לחילוני ויצאה בשאלה בעוד הוא חזר בתשובה, ועמי ברעם, שהתחתן עם חילונית וחזר בתשובה, בשיחה אישית על זוגיות, אהבה ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/148616/",
+       "id": "148616",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 14 - אברהם ולימור",
+       "logo": "https://www.kan.org.il/media/iedibles/https-kanstaticazureedgenet-download-pictures-2022-7-31-imgid-78867_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oswb5wz5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. שני אנשים שבחרו להגיע - האחד למקום שהאחר עזב, נפגשים יחד לפגישה אישית, על הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/148379/",
+       "id": "148379",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 12 - יאיר וישראל",
+       "logo": "https://www.kan.org.il/media/ynuoceov/https-kanstaticazureedgenet-download-pictures-2022-7-25-imgid-78506_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xpby5p5r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"מסעי\". יאיר פרג'ון, יוצא בשאלה שהקים וניהל את בית ספר שדה שקמים, וישראל חברוני, משורר ואיש רוח חוזר בתשובה, ממייסדי בית ספר שדה שדה בוקר, בשיחה על המדבר, פרשת השבוע ועל הבחירות שעשו בחייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/148064/",
+       "id": "148064",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 11 - תמר ושי",
+       "logo": "https://www.kan.org.il/media/bqcdaew0/https-kanstaticazureedgenet-download-pictures-2022-7-20-imgid-78245_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_frg3w1a1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"מטות\". הרבה תמר אלעד אפלבום, שגדלה במשפחה חרדית והפכה לרבה ליברלית ישראלית, בשיחה עם הרב שי זרחי, קיבוצניק שהיה ממייסדי בית המדרש לרבנות ישראלית, על חלוציות ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/147917/",
+       "id": "147917",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 10 - יעל ויפית",
+       "logo": "https://www.kan.org.il/media/5boj2dsb/https-kanstaticazureedgenet-download-pictures-2022-7-11-imgid-77650_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iqizem4w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"פנחס\". יעל יחיאלי, פמיניסטית אקטיביסטית יוצאת בשאלה, ויפית אטיאס, בתו של רמי לוי וסמנכ\"לית השיווק של הרשת, בשיחה אישית על בנות צלופחד, פמיניזם ודת, ועל הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/147519/",
+       "id": "147519",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 9 - יעל ורחלי",
+       "logo": "https://www.kan.org.il/media/glmkrfyz/https-kanstaticazureedgenet-download-pictures-2022-7-7-imgid-77466_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_izs3zpbx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת בלק. יעל הורביץ, בעלת תשובה, ניצולת הכת \"שובו בנים\" ומנהלת עמותה לסיוע לנערות בסיכון, ורחלי קלטר, יוצאת בשאלה שסבלה ממשמרות הצניעות, בשיחה אישית על קנאות ועל הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/147408/",
+       "id": "147408",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 8 - אורי וליאור",
+       "logo": "https://www.kan.org.il/media/a11bqsm3/https-kanstaticazureedgenet-download-pictures-2022-6-30-imgid-77048_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6j6thjc5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"חקת\". אורי גרודר, יוצר טלויזיה וקולנוע חוזר בתשובה, שיוצר תוכן חרדי לקהל חילוני (\"עוד ניפגש\"), וליאור טל שדה, איש חינוך של יהדות פלורליסטית, בשיחה על משה המכה בסלע כדי להוציא ממנו מים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/147135/",
+       "id": "147135",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 7 - שבתי וניסים",
+       "logo": "https://www.kan.org.il/media/43pjywwk/https-kanstaticazureedgenet-download-pictures-2022-6-23-imgid-76677_aa.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ml4x62dw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"קרח\". שבתי בנדט, עיתונאי ופעיל פוליטי יוצא בשאלה, וניסים אבינועם, חוזר בתשובה ומראשי הקהילה של מפוני גוש קטיף, בשיחה אישית על מחלוקת לאומית, משפחתית, ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/146817/",
+       "id": "146817",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 6 - איריס והדס",
+       "logo": "https://www.kan.org.il/media/5uufuzlz/https-kanstaticazureedgenet-download-pictures-2022-6-15-imgid-76241_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u3xr4a7l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"שלח\". הדס פרץ, יוצרת וכותבת שגדלה בציונות הדתית ויצאה בשאלה, והרב החילונית ד\"ר איריס יניב, בשיחה על פרשת השבוע, נשיות והגדרות, ועל הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/146523/",
+       "id": "146523",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 5 - קובי וערן",
+       "logo": "https://www.kan.org.il/media/pilaqenq/https-kanstaticazureedgenet-download-pictures-2022-6-9-imgid-75903_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jcroeihm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"בהעלותך\". הזמר והיוצר קובי אפללו, חוזר בתשובה, בשיחה אישית עם עיתונאי הבידור ערן סויסה, יוצא בשאלה, על רכילות, לשון הרע והבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/146313/",
+       "id": "146313",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 4 - יעל וקרולינה",
+       "logo": "https://www.kan.org.il/media/unlkbwpk/https-kanstaticazureedgenet-download-pictures-2022-5-30-imgid-75376_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ermpp6j0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, מגילת רות. יעל בלנקי, גיורת ומנכ\"לית ארגון \"גיור כהלכה\" שמהווה אלטרנטיבה לגיור ברבנות, בשיחה אישית עם קרולינה צנוירט, גיורת, סופרת ועיתונאית, על הבחירות שכתבו את סיפור חייהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/145782/",
+       "id": "145782",
+       "season": 4
+      },
+      {
+       "name": "שאלה תשובה עונה 4 | פרק 3 - רפאל וישראל",
+       "logo": "https://www.kan.org.il/media/im0izgb3/https-kanstaticazureedgenet-download-pictures-2022-5-24-imgid-75003_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gxk3d39a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"במדבר\". רפאל ג'רמון שיצא בשאלה, עזב את החברה החרדית והתגייס לסיירת צנחנים, בשיחה עם הרב ישראל הופריכטר, חוזר בתשובה שיוזם ומנהל מסגרות תיכון מקצועיות לנוער חרדי, על שירות צבאי כנקודת מפנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/145521/",
+       "id": "145521",
+       "season": 4
+      },
+      {
+       "name": "שאלה ותשובה עונה 4 | פרק 2 - רוני ומשה",
+       "logo": "https://www.kan.org.il/media/klwh1koa/https-kanstaticazureedgenet-download-pictures-2022-5-18-imgid-74657_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9pthuo6e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"בחוקותיי\". רוני מדמון, פסיכולוג קליני וחינוכי שיצא בשאלה, ומשה שרון, סופר ומאמן אישי שחזר בתשובה, בשיחה אישית על ילדים וגבולות, פרשת השבוע, ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/145101/",
+       "id": "145101",
+       "season": 4
+      },
+      {
+       "name": "שאלה ותשובה עונה 4 | פרק 1 - אלון ושרון",
+       "logo": "https://www.kan.org.il/media/lj5fzuiz/https-kanstaticazureedgenet-download-pictures-2022-5-12-imgid-74298_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1u8vi64c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"בהר\". אלון מזרחי, סופר ופובליציסט שיצא בשאלה ועזב את החברה הדתית-לאומית, נפגש לשיחה אישית עם שרון מזרחי, חוזר בתשובה וניצול כת, על פרשת השבוע ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s4/144849/",
+       "id": "144849",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 16 - יאיר ויגאל",
+       "logo": "https://www.kan.org.il/media/0swlsuwm/https-kanstaticazureedgenet-download-pictures-2022-5-3-imgid-73763_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0igmcbed/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת אמור. יאיר הס, מנכ\"ל עמותת הלל המסייעת ליוצאים בשאלה שעזב בעצמו את העולם החרדי, בשיחה אישית עם יגאל גולדשטיין, חוזר בתשובה שייסד עמותה המסייעת לנוער בסיכון, על הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/144459/",
+       "id": "144459",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 15 - אסתי ואורלי",
+       "logo": "https://www.kan.org.il/media/muyh2scj/https-kanstaticazureedgenet-download-pictures-2022-4-27-imgid-73346_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894937/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת קדושים. אסתי סומפו, שגדלה במשפחה חרדית ולאחר נישואיה יצאה בשאלה והייתה עגונה במשך שנים, בשיחה אישית עם אורלי ויטל, חוזרת בתשובה שהייתה עגונה כמעט 14 שנים, על הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/144111/",
+       "id": "144111",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 14 - צגה ואפריים",
+       "logo": "https://www.kan.org.il/media/2o4phxh5/https-kanstaticazureedgenet-download-pictures-2022-4-17-imgid-72861_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wn4yb5gb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת אחרי מות. צגה מלקו, עיתונאית, סופרת ופעילה חברתית, בשיחה אישית עם קייס אפריים לאווי, כהן הדת הצבר הראשון בן העדה האתיופית, על הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/143850/",
+       "id": "143850",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 13 - רוחמה ודליה",
+       "logo": "https://www.kan.org.il/media/0xjcmrng/https-kanstaticazureedgenet-download-pictures-2022-4-4-imgid-72119_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v87597y7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת מצורע. פרופסור רוחמה וייס, דוקטור לתלמוד, חוקרת ומרצה, משוררת ומלווה רוחנית, בשיחה אישית עם הרבה הרפורמית פרופסור דליה מארקס, עורכת הסידור הרפורמי העולמי, על הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/143341/",
+       "id": "143341",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 12 - עמי ויקיר",
+       "logo": "https://www.kan.org.il/media/y2zjjpq0/https-kanstaticazureedgenet-download-pictures-2022-3-31-imgid-71927_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ub24szws/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת תזריע. ד\"ר עמי שיינפלד, מנתח לב בכיר ויוצא בשאלה, בשיחה אישית עם הנוירולוג הבכיר שחזר בתשובה ד\"ר יקיר קאופמן, על הצלת חיים ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/143227/",
+       "id": "143227",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 11 - אביגיל ורותי",
+       "logo": "https://www.kan.org.il/media/skcpvigu/https-kanstaticazureedgenet-download-pictures-2022-3-22-imgid-71332_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iq98bu4k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת שמיני. רותי ברודו, מסעדנית ואשת עסקים שיצאה בשאלה, בשיחה אישית עם אביגיל מייזליק, קיבוצניקית חילונית בעבר והיום כוהנת הבישול של העולם החרדי, על אוכל, נשים בעולם העסקים והבחירות שעשו בחייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/142789/",
+       "id": "142789",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 10 - נדב ורן",
+       "logo": "https://www.kan.org.il/media/nielqha3/https-kanstaticazureedgenet-download-pictures-2022-3-14-imgid-70894_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uf9hamzv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת צו, שושן פורים. נדב אבקסיס, סטנדאפיסט ושחקן שיצא בשאלה, בשיחה אישית עם רן לוי, תסריטאי וסטנדאפיסט חוזר בתשובה, על הומור, הורות ונטייה מינית, ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/142450/",
+       "id": "142450",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 9 - אבנר ורוני",
+       "logo": "https://www.kan.org.il/media/lgbk211b/https-kanstaticazureedgenet-download-pictures-2022-3-9-imgid-70604_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w525rlo7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"ויקרא\", שבת זכור. אבנר גבריהו, מנכ\"ל \"שוברים שתיקה\" שיצא בשאלה במהלך שירותו הצבאי, בשיחה עם רוני אילון הירש, לוחם סיירת מטכ\"ל לשעבר שחזר בתשובה והקים מרכז לקידום לבבות, על הבחירות של חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/142285/",
+       "id": "142285",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 8 - רפאל ומוטי",
+       "logo": "https://www.kan.org.il/media/0p2dvpez/https-kanstaticazureedgenet-download-pictures-2022-3-2-imgid-70216_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_khdpoo2f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת \"פקודי\". רפאל קליינמן, שחקן ומחנך חוזר בתשובה, ומוטי ברלב, מורה דרך וחוקר החברה החרדית שיצא בשאלה בנעוריו, בשיחה אישית על מסעות רוחניים ומסעות פיזיים, ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/142024/",
+       "id": "142024",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 7 - זהבה ומעיין",
+       "logo": "https://www.kan.org.il/media/bdlpl0gs/https-kanstaticazureedgenet-download-pictures-2022-2-23-imgid-69789_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sqkykiab/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרשת \"ויקהל-שקלים\". זהבה בנימין, אמנית ארונות קודש ומעצבת בתי כנסת יוצאת בשאלה, ומעיין עייש, צורפת ואמנית פרוכת שנולדה בברזיל כנוצרייה, בשיחה על נשים יוצרות, מלאכות קודש ועל הבחירות של חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/141775/",
+       "id": "141775",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 6 - דורון ורות",
+       "logo": "https://www.kan.org.il/media/3ygd0g3t/https-kanstaticazureedgenet-download-pictures-2022-2-17-imgid-69445_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ny4lqq6h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת \"כי תשא\". \"פקד עון אבות על-בנים, על-שלשים ועל-רבעים\". הרב דורון רוזיליו ורות רוזיליו, אב ובתו, בשיחה אישית על יחסי הורים וילדים בתהליך חזרה בתשובה ויציאה בשאלה, ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/141544/",
+       "id": "141544",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 5 - שחר ועובדיה",
+       "logo": "https://www.kan.org.il/media/cighhreo/https-kanstaticazureedgenet-download-pictures-2022-2-10-imgid-69065_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bk4bjy3u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"תצוה\". עובדיה חממה, מוזיקאי חוזר בתשובה, ושחר שורק, נגן חליל וקלרינט יוצא בשאלה, בשיחה על מוזיקה מקודשת ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/141229/",
+       "id": "141229",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 4 - נחמה וליאור",
+       "logo": "https://www.kan.org.il/media/liodolvi/https-kanstaticazureedgenet-download-pictures-2022-2-3-imgid-68665_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8iytuztm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"תרומה\". נחמה גולן, אמנית רב תחומית חוזרת בתשובה, וליאור גריידי, אמן רב תחומי יוצא בשאלה, בשיחה אישית על אמנות וקודש, מחאה ומסורת, ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/140919/",
+       "id": "140919",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 3 - חווה ואסנת",
+       "logo": "https://www.kan.org.il/media/1h5gcced/https-kanstaticazureedgenet-download-pictures-2022-1-27-imgid-68252_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xmxnl4p7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"משפטים\". עו\"ד חווה קליין, שגדלה במשפחה חסידית, יצאה בשאלה והפכה לטוענת רבנית, פוגשת את עו\"ד אסנת שרון, חוזרת בתשובה הפועלת למען נשים עגונות, לשיחה על משפט ועל הבחירות שעשו בחייהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/140526/",
+       "id": "140526",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 2 - שירה וסיון",
+       "logo": "https://www.kan.org.il/media/b1iopxqn/https-kanstaticazureedgenet-download-pictures-2022-1-20-imgid-67920_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q1kclreq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"יתרו\". שירה אלק, עיתונאית יוצאת בשאלה שחשפה פרשיות פגיעה מינית בחברה החרדית, בשיחה אישית עם סיון דרשן, עובדת סוציאלית חוזרת בתשובה, מטפלת במיניות בחברה הדתית, על הבחירות שעשו בחייהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/140247/",
+       "id": "140247",
+       "season": 3
+      },
+      {
+       "name": "שאלה ותשובה עונה 3 | פרק 1 - נועה וחיה",
+       "logo": "https://www.kan.org.il/media/52ogsuxh/https-kanstaticazureedgenet-download-pictures-2022-1-13-imgid-67516_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0mzxixkh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"בשלח\". נועה ורטהיים, מייסדת להקת המחול \"ורטיגו\" ויוצאת בשאלה, בשיחה אישית עם חיה שלמה, רקדנית חוזרת בתשובה ומייסדת להקת המחול \"הללו\", על תנועה, גוף ונפש, פרשת השבוע, והבחירות שעשו בחייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s3/140016/",
+       "id": "140016",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 8 - מסקי ובובי",
+       "logo": "https://www.kan.org.il/media/hwsnfxbw/https-kanstaticazureedgenet-download-pictures-2022-1-6-imgid-67108_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5smfty8i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"בא\". מסקי שיברו, שחקנית ובמאית שעלתה לישראל מאתיופיה וחזרה בתשובה, ובובי לקס, במאי ושחקן, שעלה לישראל מאנגליה ויצא בשאלה, נפגשים לשיחה על יציאת מצרים ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/139770/",
+       "id": "139770",
+       "season": 2
+      },
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 7 - חיה ומוני",
+       "logo": "https://www.kan.org.il/media/5xul3zdz/https-kanstaticazureedgenet-download-pictures-2021-12-29-imgid-66633_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lv3tc2sz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"וארא\". חיה ברשינסקי, שחקנית ואמנית פרפורמנס שיצאה בשאלה, ומוני יוסף, שחקן, במאי ומנהל תיאטרון עכו, שחזר בתשובה, נפגשים לשיחה על אחת הפרשות הכי תיאטרליות, ועל הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/139506/",
+       "id": "139506",
+       "season": 2
+      },
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 6 - דוד ותומר",
+       "logo": "https://www.kan.org.il/media/wgecqetk/https-kanstaticazureedgenet-download-pictures-2021-12-21-imgid-66218_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b1mlyc92/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. פרופ' דוד אסף, שיצא בשאלה אך ממשיך לחקור את התחום, ותומר פרסיקו, חוקר דתות העידן החדש, שחקר את הרוחניות של המזרח הרחוק וגילה את הרוחניות שביהדות, נפגשים לשיחה על התגלות רוחנית והבחירות בחייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/139248/",
+       "id": "139248",
+       "season": 2
+      },
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 5 - רות ואורי",
+       "logo": "https://www.kan.org.il/media/0ujnvbx3/https-kanstaticazureedgenet-download-pictures-2021-12-13-imgid-65847_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_62ehdg62/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת \"ויחי\". רות אלבז, אשת תוכן וקריאייטיב ויוצאת בשאלה, ואורי מלמד, מסעדן, סטנדאפיסט ורב מוסמך, נפגשים לשיחה אישית על פרשת ויגש, ברכת יעקב לבניו, ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/138942/",
+       "id": "138942",
+       "season": 2
+      },
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 4 - משה ושלמה",
+       "logo": "https://www.kan.org.il/media/5hka2bxd/https-kanstaticazureedgenet-download-pictures-2021-12-9-imgid-65626_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cih7atwy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. משה בר סימן טוב, כלכלן ומנכ\"ל משרד הבריאות לשעבר, ושלמה קליש, מבכירי תעשיית ההיי-טק בישראל, נפגשים לשיחה אישית על פרשת ויגש, על יוסף, הכלכלן העולמי הראשון, ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/138724/",
+       "id": "138724",
+       "season": 2
+      },
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 3 - דוד ודניאל",
+       "logo": "https://www.kan.org.il/media/0gflwxxl/https-kanstaticazureedgenet-download-pictures-2021-12-2-imgid-65297_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pnot6a6z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת, פרשת מקץ. המוזיקאים דוד לביא, שיצא בשאלה, ודניאל זמיר, שחזר בתשובה, נפגשים לשיחה אישית על מוזיקה, זהות מינית ותחושת שייכות, על רקע פרשת השבוע, ועל הבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/138453/",
+       "id": "138453",
+       "season": 2
+      },
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 2 - אהרוני ושמיל",
+       "logo": "https://www.kan.org.il/media/cvpphrrb/https-kanstaticazureedgenet-download-pictures-2021-11-25-imgid-64876_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_69czsocp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. השף ישראל אהרוני, שגדל בבית דתי ובחר בחיים חילוניים, בשיחה אישית עם השף וחוקר המטבח היהודי שחזר בתשובה שמיל הולנד, על פרשת \"וישב\", שרי משקים ואופים, חלומות, והבחירות שכתבו את סיפור חייהם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/138088/",
+       "id": "138088",
+       "season": 2
+      },
+      {
+       "name": "שאלה ותשובה עונה 2 | פרק 1 - סוניה ומריה",
+       "logo": "https://www.kan.org.il/media/giihrej4/https-kanstaticazureedgenet-download-pictures-2021-11-18-imgid-64491_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p9nnd92x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. סוניה סודרי, חוזרת בתשובה שהקימה את התיאטרון החרדי הראשון לנשים, בשיחה אישית עם מריה אסטרייכר, שחקנית ויוצרת יוצאת בשאלה, על סיפורה של דינה בפרשת \"וישלח\", ועל הבחירות שכתבו את סיפור חייהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s2/137860/",
+       "id": "137860",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שאלה תשובה | פרק 10 - יונתן ומיכאל",
+       "logo": "https://www.kan.org.il/media/fxjlnhs4/https-kanstaticazureedgenet-download-pictures-2021-8-11-imgid-59116_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u8c0173t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. תכנית סיום העונה. המוזיקאי החרדי יונתן רזאל מדבר על הילדות כחילוני ועל הדרך שעשה ללב המיינסטרים עם המוזיקאי והכנר מיכאל גריילסאמר, שהתחנך בחינוך הדתי. שיחה אישית ומרגשת על מוזיקה, אמונה ואהבה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/134308/",
+       "id": "134308",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 9 - היידי ונעמה",
+       "logo": "https://www.kan.org.il/media/gaepn5s4/https-kanstaticazureedgenet-download-pictures-2021-8-11-imgid-59100_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jo0hh6j7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. היידי מוזס, בתו של יו\"ר סיעת יהדות התורה לשעבר, מספרת על נישואיה לחסיד גור ועל היציאה מארון הקודש לנעמה מורל, שגדלה על ברכיה של ההגות הפמיניסטית וחזרה בתשובה בגיל 17.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/134305/",
+       "id": "134305",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 8 - איציק ובן",
+       "logo": "https://www.kan.org.il/media/fkqp50iz/https-kanstaticazureedgenet-download-pictures-2021-8-5-imgid-58653_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_buk6qnfc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. הפובליציסט והעיתונאי היוצא בשאלה איציק הלפרין מספר על ילדותו כילד מאומץ במשפחה חרדית, בשיחה עם איש התיאטרון בן לוין, שגדל בלב הבוהמה התל אביבית וחזר בתשובה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/134264/",
+       "id": "134264",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 7 - אלי וזאב",
+       "logo": "https://www.kan.org.il/media/hjephwgv/https-kanstaticazureedgenet-download-pictures-2021-7-29-imgid-58169_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7p9rfj5c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. העיתונאי אלי הירשמן, שיצא בשאלה, והפובליציסט זאב שביידל, שחזר בתשובה, בשיחה אישית ומרגשת על הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/134008/",
+       "id": "134008",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 6 - שרון ואביגיל",
+       "logo": "https://www.kan.org.il/media/ibyovves/https-kanstaticazureedgenet-download-pictures-2021-7-19-imgid-57386_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zc1dsnvg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. המוזיקאית שרון רוטר, שעזבה את הבמות הגדולות בארץ והחליטה לחזור בתשובה, בשיחה עם אביגיל קובארי, שחקנית, מוזיקאית ויוצאת בשאלה, על הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/133720/",
+       "id": "133720",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 4 - יוכי ויחיאל",
+       "logo": "https://www.kan.org.il/media/v2uhirkv/https-kanstaticazureedgenet-download-pictures-2021-7-6-imgid-56607_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pti4t02g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. הסופרת יוכי ברנדס, נצר לשושלת אדמו\"רים שיצאה בשאלה ועוסקת ביצירתה בדמויות תנ\"כיות, מדברת עם יחיאל הררי, סופר, יועץ פוליטי וחוזר בתשובה, על הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/133237/",
+       "id": "133237",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 5 - יוסף וארי",
+       "logo": "https://www.kan.org.il/media/padntepn/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56516_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9b5rg44f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. המשורר יוסף עוזר והסופר והמחנך ארי אלון בשיחה אישית על חילון והדתה, ועל מלחמת יום הכיפורים כנקודת השבר, שגרמה לאחד לחזור בתשובה ולשני לצאת בשאלה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/133234/",
+       "id": "133234",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 3 - אמילי ודינה",
+       "logo": "https://www.kan.org.il/media/hs0bv3al/https-kanstaticazureedgenet-download-pictures-2021-6-30-imgid-56264_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n2bqvot5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ח\"כ אמילי מואטי, שהתחנכה בבית דתי וחלמה להיות אינטלקטואלית חילונית בפריז, וחברתה הפעילה החברתית החוזרת בתשובה דינה דיין, מדברות על הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/133043/",
+       "id": "133043",
+       "season": 1
+      },
+      {
+       "name": "שאלה תשובה | פרק 2 - יעל ותמר",
+       "logo": "https://www.kan.org.il/media/qeed5mpj/https-kanstaticazureedgenet-download-pictures-2021-6-20-imgid-55540_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oh6nftkg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. יעל סרלין, אמנית רב תחומית שגדלה בקיבוץ והחליטה לחזור בתשובה, ותמר צייטלין, ציירת שעזבה קהילה דתית קיצונית וסגורה ויצאה בשאלה, בשיחה על הבחירות שכתבו את סיפור חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/132601/",
+       "id": "132601",
+       "season": 1
+      },
+      {
+       "name": "שאלה ותשובה | פרק 1 - קלמן ויוסי",
+       "logo": "https://www.kan.org.il/media/mabckhw3/https-kanstaticazureedgenet-download-pictures-2021-6-17-imgid-55411_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9i0we8et/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מורשת. קלמן סמואלס, חוזר בתשובה, מייסד עמותת 'שלוה' לשילוב בחברה של אנשים עם צרכים מיוחדים, ויוסי שפרבר, יוצא בשאלה, מנהל תיכון שטיפח אלפי בני נוער בסיכון, בשיחה על הבחירות שכתבו את סיפור חייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/s1/132477/",
+       "id": "132477",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שאלה תשובה - הצצה | דוד ד'אור ויסמין לוי",
+       "logo": "https://www.kan.org.il/media/d0dfa4fa/שאלה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mkxmy82v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-28",
+       "plot": "הזמר דוד ד'אור החל ללכת לשיעורי תורה, הזמרת יסמין לוי חזרה בתשובה. עכשיו הם נפגשים לשיחה על פרשת השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12766/894558/",
+       "id": "894558"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

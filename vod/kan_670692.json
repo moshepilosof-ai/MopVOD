@@ -1,0 +1,203 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סמי וסוסו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670692/",
+   "series_id": "670692",
+   "updated": "2026-10-28 13:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סמי וסוסו | פרק 5 - צלילי המוזיקה",
+       "logo": "https://www.kan.org.il/media/dnwi0zaa/musicweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m00f0t7z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השניים מדברים על הביטוי הרגשי של האומן דרך אומנות בכלל ומוזיקה בפרט, על ציירים שמושפעים ממוזיקה, וסוסו מגלה שאומנות היא שפה בינלאומית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672475/",
+       "id": "672475",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 2 - ספנות",
+       "logo": "https://www.kan.org.il/media/rv4diyid/shipsweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mni4aced/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השניים מגיעים לביקור בנמל ולומדים מהו עוגן, מהו תא ההיגוי, מה קורה בחדר מכונות, וסוקרים את התפתחות הספינה מימי קדם ועד לזו המודרנית. שודר בשנת 1971",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672472/",
+       "id": "672472",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 3 - צילום",
+       "logo": "https://www.kan.org.il/media/2vgpvbqg/cameraweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6kqyd4ey/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השניים מבקרים בסטודיו לצילום ולומדים על התפתחות המצלמה. מה עשו כשלא היה חשמל ומה עשה מי שלא היה לו כסף להצטלם? שודר בשנת 1971",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672469/",
+       "id": "672469",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 1 - תעופה",
+       "logo": "https://www.kan.org.il/media/b1ol3cqk/teufaweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_knso4e1i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך מכינים מטוס מנייר? איך בונים מטוס אמיתי? השניים יוצאים לביקור בשדה התעופה ולומדים על ההיסטוריה של המצאת המטוסים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672466/",
+       "id": "672466",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 8 - הירח של הנסיכה אמירה",
+       "logo": "https://www.kan.org.il/media/nkzhka4r/moonweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n6aaqy39/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "את מקומם של השניים מחליפה הפעם הצגת תיאטרון של סיפור הירח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672463/",
+       "id": "672463",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 4 - חנות הקסמים",
+       "logo": "https://www.kan.org.il/media/nukisqrs/storeweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a6ti7fz7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הצגת מחול בהשתתפות הרקדן דניס לנדאו ותלמידי המכון לאומנות המחול בחיפה. שודר בשנת 1971",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672459/",
+       "id": "672459",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 9 - נעליים",
+       "logo": "https://www.kan.org.il/media/lmgh5hi5/shoesweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_02np8dng/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "לסמי נקרעו הנעליים והוא מתעצל לצאת לסנדלר עם זוג נוסף, לסוסו הצטברו שיעורי בית, ושניהם תוהים אם גמדים קטנים יוכלו לבוא בלילה ולעשות את עבודת הסנדלר ואת השיעורים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672456/",
+       "id": "672456",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 6 - הענק וגנו",
+       "logo": "https://www.kan.org.il/media/ntzevbss/giantweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ug8tvaf1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סמי מספר את סיפורו של מי שלא רצה שילדים ישחקו בגנו ומה גרם לו להזמינם בחזרה. שודר בשנת 1972",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672452/",
+       "id": "672452",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 7 - חלל",
+       "logo": "https://www.kan.org.il/media/d40bqkon/spaceweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5n2lprwx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מאז שלמד בבית הספר על מערכת השמש והכוכבים, סוסו ממאן להסיר את העיניים מהשמיים. סמי לוקח אותו ואותנו לסיור קצר בגלקסיה. שודר בשנת 1972",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672449/",
+       "id": "672449",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 10 - גלגלים",
+       "logo": "https://www.kan.org.il/media/y2hnt0ga/wheelsweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vp8i0tw9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "באמצע נסיעה במכונית יש פנצ'ר, השניים מגיעים למוסך וזו הזדמנות מצוינת ללמוד על המצאת הגלגל והיכן אנחנו פוגשים עוד גלגלים בחיינו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672446/",
+       "id": "672446",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 11 - אגדות המלך שלמה",
+       "logo": "https://www.kan.org.il/media/jtchcjgg/salomonweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4atxuqva/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "החידות המתוחכמות של המלך שלמה מסקרנות את סוסו, וסמי מספר לו כיצד פתר המלך בעיות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672443/",
+       "id": "672443",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 12 - האור",
+       "logo": "https://www.kan.org.il/media/faobfhia/lightweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gjfs69gi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הפסקת חשמל היא הזדמנות נהדרת ללמוד על גלגולו של האור, מאנשי המערות ועד הרגע שבו השניים הדליקו נר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672440/",
+       "id": "672440",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 13 - גידול דגים",
+       "logo": "https://www.kan.org.il/media/v15ivicg/fishweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_61d6n6r8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סוסו רוצה להיות דג. הוא לומד על חיי הדגים ומה צריך לדעת מי שמחזיק אקווריום בבית, ולומד גם להכין מובייל של ים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672437/",
+       "id": "672437",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 14 - קולות בטבע",
+       "logo": "https://www.kan.org.il/media/vxmb0gup/natureweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0owpr17w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "לסוסו יש סטטוסקופ והוא מנסה להקשיב לפעימות לבו, בדרך הוא שומע קולות וצלילים רבים וזוהי ההזדמנות של סמי ללמדו על מה שאנחנו שומעים. שודר בשנת 1972",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672434/",
+       "id": "672434",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 15 - חיים מתחת למים",
+       "logo": "https://www.kan.org.il/media/glkfyemo/waterweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ua0iu7dr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סמי וסוסו צוללים למעמקים ומכירים את החי והצומח בים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672431/",
+       "id": "672431",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 16 - טלוויזיה",
+       "logo": "https://www.kan.org.il/media/o1rftxup/televisionweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_urgwft1u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "למערכת מגיעים מכתבים מהצופים שמחמיאים ומתעניינים באופן הצגת הסיפורים. השניים לוקחים אותם אל מאחורי הקלעים של עולם הטלוויזיה ומשתפים בסודות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672428/",
+       "id": "672428",
+       "season": 1
+      },
+      {
+       "name": "סמי וסוסו | פרק 17 - מיצירות לילדים",
+       "logo": "https://www.kan.org.il/media/t2umtagi/childrenweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y8dn6y9y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "זוהי תוכנית הפרידה וסמי וסוסו מקבלים מכתבים רבים עם שירים, סיפורים וציורים ורוצים לאגד אותם לאלבום. בלבם תפילה לשלום ולטוב לכל הילדים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/s1/672425/",
+       "id": "672425",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סמי וסומו | פתיח",
+       "logo": "https://www.kan.org.il/media/zrhniv34/סמי-וסומו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7qsh2w6a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-12",
+       "plot": "על הכדור פורח - הפתיח האהוב של ''סמי וסומו''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670692/940619/",
+       "id": "940619"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סיפור מנצח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671114/",
+   "series_id": "671114",
+   "updated": "2026-10-28 12:38",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סיפור מנצח | פרק 8 - הסימפוניה התשיעית - לודוויג ואן בטהובן",
+       "logo": "https://www.kan.org.il/media/z2bngdym/שלמה-גרוניך-פרק-8-ערוך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lclspmv2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "חירות, שוויון, אחווה: על כוחן של מהפכות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671114/s1/933946/",
+       "id": "933946",
+       "season": 1
+      },
+      {
+       "name": "סיפור מנצח | פרק 7 - אגם הברבורים - פיוטר צ'ייקובסקי",
+       "logo": "https://www.kan.org.il/media/metdc50r/סיפור-מנצח-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e2kqwftc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "המאסטרו גיל שוחט במסע אחרי אחת מיצירות הבלט המפורסמות ביותר - מחייו האישיים של המלחין ועד ההיסטוריה של הבלט",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671114/s1/933944/",
+       "id": "933944",
+       "season": 1
+      },
+      {
+       "name": "סיפור מנצח | פרק 6 - תמונות בתערוכה - מודסט מוסורגסקי",
+       "logo": "https://www.kan.org.il/media/f2gi0exg/סיפור-למנצח-פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c6v0sy6a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "ב\"תמונות בתערוכה\" מנסה מוסורגסקי לתאר את ציוריו של חברו, הארכיטקט ויקטור הרטמן שמת בטרם עת. איך הופכים תמונות ליצירה מוזיקלית?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671114/s1/933940/",
+       "id": "933940",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סיפור מנצח | פתיח",
+       "logo": "https://www.kan.org.il/media/hsupxtc0/סיפור-מנצח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mtaeg1o6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "הפתיח המוזיקלי של \" סיפור מנצח\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671114/933939/",
+       "id": "933939"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

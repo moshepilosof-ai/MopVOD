@@ -1,0 +1,177 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ארבע חתונות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-936892/",
+   "series_id": "936892",
+   "updated": "2026-10-28 09:27",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 10 - ויקי",
+       "logo": "https://www.kan.org.il/media/l1caxxn2/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231690/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-30",
+       "plot": "ויקי ולירון מתחתנות בחתונת שישי צהריים זוגית וגאה. הכלות מגיעות בסגול ומתרגשות באופן מפתיע מהחופה. דורין מגלה מה נעם חשבה על החתונה שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1094059/",
+       "id": "1094059",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 11 - נועם",
+       "logo": "https://www.kan.org.il/media/torntasn/אתר_4_חתונות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231691/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-30",
+       "plot": "נועם ויהונתן מגיעים ליום החתונה עם טמפרמנט גבוה, משפחה דומעת והרבה ציפיות. הכלות באות לחגוג ולבדוק אם מושלם באמת עומד במבחן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1094058/",
+       "id": "1094058",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 12 - עינת",
+       "logo": "https://www.kan.org.il/media/oqvp1wjb/עינת_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231692/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-30",
+       "plot": "עינת וגיל סוגרים את העונה בחתונה שנייה, צבעונית ומרגשת. בין דובדבנים, נתינה ושיר אהבה, הכלות מצליחות לריב וגם קצת להשלים. וגם, מי החתונה הזוכה בתחרות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1094056/",
+       "id": "1094056",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 9 - דורין",
+       "logo": "https://www.kan.org.il/media/pvbhifur/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231689/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "דורין, עו\"ד מחיפה שמתחתנת עם אלדד, פותחת סבב חדש של חתונות. הכלות לומדות להכיר זו את זו בחתונה שכוללת את קובי פרץ, רינת המפיקה, וכלה שחשוב לה להיות בשליטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084763/",
+       "id": "1084763",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 4 - ליאורה",
+       "logo": "https://www.kan.org.il/media/gwedhv31/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231688/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "ליאורה וגלעד סוגרים את הסבב הראשון בחתונת שישי צהריים עם חופה אלטרנטיבית והרבה הומור. וגם כל הכלות והחתנים נפגשים שוב אחרי ארבע חתונות, לגלות מי הזוג המנצח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084762/",
+       "id": "1084762",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 3 - דיאנה",
+       "logo": "https://www.kan.org.il/media/yj3l4xbi/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231687/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "דיאנה וסטיבן בחתונה רוסית - רפורמית, עם כלה פריק-קונטרול, איפור עצמי ואפס מקום לטעויות. הכלות באות לחוות מוסיקה רוסית, והרבה מאד אלכוהול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084761/",
+       "id": "1084761",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 2 - עדן",
+       "logo": "https://www.kan.org.il/media/mxvpanwo/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231686/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "עדן ועידן הולכים על חתונה רגילה, בלי קונספט ובלי דרמות מיותרות. הכלות מגיעות עם ציפיות נמוכות ומגלות שסטנדרטי יכול להיות פחות פשוט ממה שנדמה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084758/",
+       "id": "1084758",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות | פרק 1 - דולב ",
+       "logo": "https://www.kan.org.il/media/sumhor0x/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231685/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "עונה חדשה! ארבע כלות, ארבע חתונות, ורק מנצחת אחת: דולב וטימור פותחים את הסבב הראשון בחתונה קראית, עם הרבה מוסיקה ים תיכונית, כמו שדולב אוהבת. הכלות מגיעות לבדוק אם כל מה שתוכנן, באמת עובד ברחבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084755/",
+       "id": "1084755",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 8 - נעה",
+       "logo": "https://www.kan.org.il/media/w0ycak5g/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231684/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "נעה ונתנאל סוגרים את הסבב בחתונה חסידית גדולה ולבנה. נעה מגיעה עם אלוהים, תוספות שיער והרבה כוונות טובות והכלות מגלות אם הקדושה עוברת גם ברחבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084751/",
+       "id": "1084751",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 7 - לי",
+       "logo": "https://www.kan.org.il/media/cyimc2nj/ארבע-חתונות-לי-מעודכן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231683/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "לי ועוז הולכים על חתונה גדולה, נוצצת ותחרותית במיוחד. הכלות באות לבדוק אם הוואו עובד, ולי מנסה לנהל יום עמוס בלי לאבד את הרוגע, הלוז או הפאסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084750/",
+       "id": "1084750",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 6 - אפרת",
+       "logo": "https://www.kan.org.il/media/sv4l5go3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231682/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "אפרת ועידו מתחתנים באירוע קלאסי ומתוקתק. אפרת מנסה להישאר בצ'יל, הכלות בוחנות כל פרט מההזמנה ועד האולם, והערב נגלה אם צ'יל באמת מחזיק עד החופה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084746/",
+       "id": "1084746",
+       "season": 2
+      },
+      {
+       "name": "ארבע חתונות עונה 2 | פרק 5 - קשת",
+       "logo": "https://www.kan.org.il/media/l43d5lei/אתר_חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231681/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "קשת ודני פותחים את הסבב בחתונה ויקינגית, טבעונית ולא דתית בלב סערת חורף. הכלות מגיעות בסקרנות גדולה ועם לא מעט שאלות על טקסים ואוכל מהצומח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s2/1084743/",
+       "id": "1084743",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ארבע חתונות | פרק 1 - אליזבת",
+       "logo": "https://www.kan.org.il/media/duhpsm50/4-לאתר-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ceq3rjei/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-31",
+       "plot": "לאחר מפגש ההיכרות המרגש, הכלות יוצאות אל החגיגה הראשונה - החתונה הקווקזית של אליזבת. קריינית: שירה נאור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/s1/936895/",
+       "id": "936895",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ארבע חתונות | טריילר - עונה 2",
+       "logo": "https://www.kan.org.il/media/dbzlyszo/טריילר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238476/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "עונת החתונות חוזרת: ארבע כלות חדשות ינסו לזכות בתואר הכלה המנצחת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/1091918/",
+       "id": "1091918"
+      },
+      {
+       "name": "ארבע חתונות | טריילר",
+       "logo": "https://www.kan.org.il/media/ikbd2noo/תמונה-ולוגו-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p5ijpjv5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-07",
+       "plot": "לכו תספרו לכולם: ארבע כלות ידרגו את החתונות אחת של השנייה ויחליטו של מי הכי מושלמת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-936892/939295/",
+       "id": "939295"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

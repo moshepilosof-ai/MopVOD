@@ -1,0 +1,203 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סוגרים שבוע | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-797099/",
+   "series_id": "797099",
+   "updated": "2026-10-28 12:34",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סוגרים שבוע | ירדנה ארזי",
+       "logo": "https://www.kan.org.il/media/ekmbsbjw/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hec2f529/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-28",
+       "plot": "בתוכנית מיוחדת לקראת יום העצמות ה-47 של מדינת ישראל. ירדנה ארזי מופיעה עם שיר חדש \"חדש באוויר\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/912914/",
+       "id": "912914",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | אריק סיני",
+       "logo": "https://www.kan.org.il/media/4wrnhzpp/510.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_piz4ccwl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "אביתר בנאי בהופעת בכורה ונתיבה בן יהודה מספרת כמה חתולים היא מגדלת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/818028/",
+       "id": "818028",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | הריבלינים",
+       "logo": "https://www.kan.org.il/media/0pheaffc/הריבלינים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rkrz9pn0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "גלי עטרי מתארחת באולפן ומבצעת את השיר \"תני לו פרח\" וגיל קופטש בפינת פרשת השבוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798430/",
+       "id": "798430",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | תיקי דיין",
+       "logo": "https://www.kan.org.il/media/qcanqnnb/תיקי-דיין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z3pewy0c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "דנה בודיירי וקרן צבג מדווחות ממשלחת האו\"ם לאנטרטיקה וגיל קופטש בפינת פרשת השבוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798429/",
+       "id": "798429",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | עמוס עוז",
+       "logo": "https://www.kan.org.il/media/dupg12ch/עמוס-עוז.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4kjrjkvn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "להקת שפתיים מגיעה לאולפן להרים את מצב הרוח וגיל קופטש עם פינת פרשת השבוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798428/",
+       "id": "798428",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | שמעון פרס",
+       "logo": "https://www.kan.org.il/media/xsig1umd/שמעון-פרס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uq6mkbe9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "ראש הממשלה לשנת 1996 מתייחס לשיחה שקיים לכאורה עם ערפאת וגיל קופטש בפינת פרשת השבוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798427/",
+       "id": "798427",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | יוסי בנאי",
+       "logo": "https://www.kan.org.il/media/o4do0o14/יוסי-בנאי-וששון-גבאי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_abk552lb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "גלי עטרי בדואט עם שמוליק קראוס בביצוע השיר \"אחרי 20 שנה\" ואמנים נוספים מתארחים באולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798423/",
+       "id": "798423",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | ישראל אהרוני",
+       "logo": "https://www.kan.org.il/media/3dzjbt3z/אהרוני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_degmgtwq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "אריק סיני מגיע לראיון באולפן ומבצע מחרוזת משיריו הגדולים, משאל הרחוב שבודק מה הישראלים הכי אוהבים לאכול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798422/",
+       "id": "798422",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | יהונתן גפן",
+       "logo": "https://www.kan.org.il/media/rnxpzoqu/יהונתן-גפן-ואלדד-זין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uvo9uvk8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "שחקני המחזה \"קפריסין\" מגיעים לאולפן להצגת קטע מתוכו ומשאל הרחוב שבודק את דעתם של הישראלים על דיאטת אחרי החגים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798419/",
+       "id": "798419",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | רבקה מיכאלי",
+       "logo": "https://www.kan.org.il/media/gr0hnfl4/רבקה-מיכאלי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_881dvzi9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-09",
+       "plot": "להקת רוקפור בביצוע השיר \"האיש שראה הכול\" באולפן ומשאל רחוב שבודק מה הישראלים באמת חושבים על נחיצות היציאה ממצרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/798417/",
+       "id": "798417",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | יהודה ברקן",
+       "logo": "https://www.kan.org.il/media/42ocfbus/313.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_83cgx4v9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "השחקן שהוא הפנים של סרטי הבורקס הישראליים ולהקת מוניקה סקס בביצוע חי של השיר \"פצעים ונשיקות\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/797138/",
+       "id": "797138",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | זאב רווח",
+       "logo": "https://www.kan.org.il/media/cnilliee/243.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5mvzxwb3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "נטלי פורטמן על הסרט החדש בו היא מכבבת ועל הילדות בירושלים ומשאל רחוב שקובע מהו הסרט האהוב ביותר על הישראלים. זאביק רווח מספר על עברו כמתאגרף בביתר ירושלים, על תפקידו בסרטו של ואן דאם, וסרטו \"קהילת קדושים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/797137/",
+       "id": "797137",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | תצוגת אופנה",
+       "logo": "https://www.kan.org.il/media/z5ib5bam/173.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pq6o0jrx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "דנה אינטרנשיונל במחרוזת שירים לכבוד חג הפורים ומשאל רחוב שבודק מהו החלום הגדול של האנשים הפשוטים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/797135/",
+       "id": "797135",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | בנימין נתניהו",
+       "logo": "https://www.kan.org.il/media/l52p1s5c/242.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ldw3tkbq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "פינת \"החדשות בהרחבה\" על ההקלות ברצועת עזה ויו\"ר מפלגת הליכוד מגיע לריאיון על התוכניות הפוליטיות שלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/797134/",
+       "id": "797134",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | בועז שרעבי",
+       "logo": "https://www.kan.org.il/media/3mzfsed5/172.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jo9pju06/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "פינת \"החדשות בהרחבה\" על גזע הרוטווילרים הידידותי במיוחד ומשאל רחוב על תרומת שירות הנשים לצה\"ל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/797132/",
+       "id": "797132",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | תרבות",
+       "logo": "https://www.kan.org.il/media/pvvfjrqw/32.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pbmcofxs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "שרת התקשורת שולמית אלוני מגיעה לראיון באולפן ומשאל הרחוב שבודק מה עושה לנו טוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/797122/",
+       "id": "797122",
+       "season": 1
+      },
+      {
+       "name": "סוגרים שבוע | שישי שלום",
+       "logo": "https://www.kan.org.il/media/ouihw1fv/201.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bp5blwxh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "פינת האקטואליה \"חדשות בהרחבה\" על תופעת תקיפת צלמי טלוויזיה, טוביה צפיר סוגר חשבון ומשאל הרחוב שבדק במה מתעסקים אזרחי ישראל ביום שישי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/s1/797112/",
+       "id": "797112",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סוגרים שבוע | פתיח",
+       "logo": "https://www.kan.org.il/media/sidimvei/סוגרים-שבוע.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1pbls9yd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח שסגרנו איתו כל שבוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-797099/861632/",
+       "id": "861632"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

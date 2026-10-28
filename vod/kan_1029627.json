@@ -1,0 +1,29 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - המסע",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-1029627/",
+   "series_id": "1029627",
+   "updated": "2026-10-28 09:58",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "המסע | פרק 1 - שון עמר",
+       "logo": "https://www.kan.org.il/media/olypc1lv/shon_11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191489/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-19",
+       "plot": "\"אני יודע שאני טריגר של אנשים פה\": צנחן המילואים שון עמר נפצע באורח אנוש מפגיעת קליע בפנים בקרב בח'אן יונס. בשיקום הקשה שעבר, הוא הרגיש לבד כשחבריו לצוות המשיכו הלאה, ועכשיו הוא פותח הכל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1029627/s1/1030780/",
+       "id": "1030780",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

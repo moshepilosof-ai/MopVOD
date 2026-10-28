@@ -1,0 +1,99 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שליחות על ארבע",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-972467/",
+   "series_id": "972467",
+   "updated": "2026-10-28 13:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שליחות על ארבע | פרק 8 - איה וחיות החווה, ריס והעיזים",
+       "logo": "https://www.kan.org.il/media/3kfftjom/פרק-8-איה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937416/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "משפחה של חיות משק עוזרת לאיה בת ה-16 לרכוש ביטחון ותחושת שייכות. ריס מוצא/ת משמעות ותחושת חיבור בעבודה עם עיזים בחווה בנובה סקוטיה, המשמשת מקלט לבעלי חיים ומציעה טיפול בעזרת בעלי חיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972553/",
+       "id": "972553",
+       "season": 1
+      },
+      {
+       "name": "שליחות על ארבע | פרק 7 - סיירה ות'אנדר, לידיה והלאמות",
+       "logo": "https://www.kan.org.il/media/h2ngle4j/פרק-7-סיירה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937380/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "סיירה בת ה-12 הסובלת מחרדה מוצאת ביטחון ושלווה לצד הסוס הטיפולי שלה, תאנדר. לידיה בת ה-10 סובלת מהפרעת קשב וריכוז ומצבה משתפר לאחר טיפול עם לאמות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972552/",
+       "id": "972552",
+       "season": 1
+      },
+      {
+       "name": "שליחות על ארבע | פרק 6 - זואי ואנדי, אנתוני ומיה",
+       "logo": "https://www.kan.org.il/media/h33n0hss/פרק-6-אנתוני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937315/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "כלב שירות גדול בשם אנדי מעניק נחמה ותמיכה לילדה הסובלת מהפרעה גנטית נדירה. בחוות טיפולית בניו ברנזוויק, ילדים עושים \"יוגת עיזים\" כחלק מטיפול מרגיע. ילד בן שש, הסובל מהתקפים, מגלה דרכים חדשות לשחק ולצחוק עם כלבת השירות החמודה שלו, מיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972550/",
+       "id": "972550",
+       "season": 1
+      },
+      {
+       "name": "שליחות על ארבע | פרק 5 - הולי והופ, לורן וג'מיני",
+       "logo": "https://www.kan.org.il/media/eegoznr1/פרק-5-אולי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937286/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "הולי בן ה-12 מוכיח שהוא בלתי ניתן לעצירה כשהכלבה הופ לצידו. לורן בת השש רוכבת במסלול חושי עם סוסת הטיפול ג'מיני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972549/",
+       "id": "972549",
+       "season": 1
+      },
+      {
+       "name": "שליחות על ארבע | פרק 4 - לנדון וסנדי, איזבלה ורוזי",
+       "logo": "https://www.kan.org.il/media/y2lpnnfv/פרק-4-איזבלה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937216/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "לנדון בן ה-14 הופך לאחד הבעלים הצעירים ביותר של כלב שירות לאוטיזם, וכלבת השירות של איזבלה בת ה-10 עוזרת לה לרקוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972548/",
+       "id": "972548",
+       "season": 1
+      },
+      {
+       "name": "שליחות על ארבע | פרק 3 - הייזל והתרנגולות, ויליאם וגם וונדר",
+       "logo": "https://www.kan.org.il/media/4erb2cg4/הייזל-פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937184/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "נערה המתמודדת עם סוכרת מוצאת תמיכה רגשית בלהקה של תרנגולות. ויליאם מתמודד עם הופעת סולו ראשונה, כשכלב השירות שלו מלווה אותו בנאמנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972547/",
+       "id": "972547",
+       "season": 1
+      },
+      {
+       "name": "שליחות על ארבע | פרק 2 - סם, שיימוס וסוליי, לוסי ואלווד",
+       "logo": "https://www.kan.org.il/media/ofepsa1j/פרק-2-לוסי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937151/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "הסוסים הטיפוליים, שיימוס וסוליי, מצטרפים אל סם לצעידה. לוסי וכלב השירות אלווד, ממשיכים לבנות שותפות יוצאת דופן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972546/",
+       "id": "972546",
+       "season": 1
+      },
+      {
+       "name": "שליחות על ארבע | פרק 1 - ליאנה ואטלס, גייג' ואייס",
+       "logo": "https://www.kan.org.il/media/v4xl1nsz/פרק-1-ליאנה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937120/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "כלב השירות, אטלס, מסייע לליאנה, ילדה צעירה שנולדה עם שוני בגפיים. הסוס אייס עוזר לגייג', נער עם תסמונת דאון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972545/",
+       "id": "972545",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

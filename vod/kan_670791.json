@@ -1,0 +1,223 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שעה טובה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670791/",
+   "series_id": "670791",
+   "updated": "2026-10-28 13:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שעה טובה | תוכנית 28 -  פורים תשמ\"ד",
+       "logo": "https://www.kan.org.il/media/nndl3xws/שעה-טובה-פורים-תשמד-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0jub469w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-16",
+       "plot": "חוגגים פורים עם שירים, תחפושות וכוכבי העדלאידע 1984 בינהם ששי קשת, יונה אליאן מוני מושונוב ועפרה חזה.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/871156/",
+       "id": "871156",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 15 - 9.1.1981",
+       "logo": "https://www.kan.org.il/media/xppbzzba/שעה-טובה-911981-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wql67qmi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-22",
+       "plot": "ד\"ר סלומה הלוויטא על המפגש עם הרצל בקונגרס בבאזל, חנן גולדבלט, שולה חן ואסתי קוסוביצקי מבצעים שיר שכתב עמוס אטינגר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/815350/",
+       "id": "815350",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 1 - ראש השנה תש\"ם",
+       "logo": "https://www.kan.org.il/media/oavofbwi/rosh_hashana_cover.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ujvj1e4n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מני פאר בתוכנית בסימן שנה חדשה: חוה אלברשטיין מופיעה על הבמה עם להיטיה וקוראת בקפה חוזה את עתידו של שייקה אופיר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/725309/",
+       "id": "725309",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 14 - 28.11.1980",
+       "logo": "https://www.kan.org.il/media/xntpk0rf/שעה-טובה-28111980-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_38nrcxh9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "על החללית שהצליחה לשדר לראשונה תמונות מכוכב שבתאי, שולה חן וישראל גוריון מזמרים על בעיות הדיור וגם ספי ריבלין במערכונים על ענייני התקופה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724808/",
+       "id": "724808",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 13 - ראש השנה תשמ\"א",
+       "logo": "https://www.kan.org.il/media/p0ulnly5/שעה-טובה-1291980-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7owgo1xg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר בתוכנית חגיגית לשנה החדשה: יהודית רביץ מבצעת על הבמה את \"לקחת את ידי בידך\" ו\"ארבע לפנות בוקר\", ולהקתם החדשה של גידי גוב ודני סנדרסון עם השיר \"לידיה הלוהטת\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724806/",
+       "id": "724806",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 12 - 11.7.1980",
+       "logo": "https://www.kan.org.il/media/mo0alcji/שעה-טובה-1171980-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_szvi31gz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "דיון באולפן עם קיבוצניקים על לינה משותפת לעומת לינה משפחתית, שלמה גרוניך עם \"יש לי סימפטיה\" וגם צלם העיתונות הותיק דוד רובינגר על הסיפורים מאחורי התמונות האייקוניות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724803/",
+       "id": "724803",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 11 - 27.6.1980",
+       "logo": "https://www.kan.org.il/media/sq0avgq5/שעה-טובה-2761980-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mtkz2zuz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר בשיחה עם אסי דיין על להיות ה\"בן של\" והקריירה הקולנועית, מאיר שלו בפינת העיתונות וריקה זראי מבצעת את \"גן השקמים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724794/",
+       "id": "724794",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 10 - 21.3.1980",
+       "logo": "https://www.kan.org.il/media/po3eglkl/שעה-טובה-2131980-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1dsukp0m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר מארח את הסופר חיים באר לרגל הוצאת הרומן הראשון, דן בן אמוץ על התערוכה החדשה ומירי אלוני מופיעה על הבמה עם השירים המוכרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724792/",
+       "id": "724792",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 9 - 7.3.1980",
+       "logo": "https://www.kan.org.il/media/mhrjhhlj/שעה-טובה-731980-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0h259kva/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר בתוכנית בסימן האינפלציה של התקופה: לאה לופטין, דובי גל וטוביה צפיר במחרוזת שירים על הכסף שמשגע את העולם ופרופ' יוסף אגסי ונתן דונביץ על המדיניות הכלכלית של הממשלה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724786/",
+       "id": "724786",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 8 - 22.2.1980",
+       "logo": "https://www.kan.org.il/media/0erbfpfq/שעה-טובה-2221980-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e550g48h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר מארח את איתן הבר וזאב שיף על מאחורי הקלעים של הסכם השלום עם מצרים וגם אריק לביא ושושיק שני מופיעים על הבמה במערכונים, שירים וסיפורים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724783/",
+       "id": "724783",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 7 - 8.2.1980",
+       "logo": "https://www.kan.org.il/media/d3yklxx4/שעה-טובה-821980-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5mf5xlqp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר מארח את חנה מרון המספרת על פציעתה במתקפת הטרור במינכן, ירדנה ארזי על הקריירה שאחרי \"שוקולד מנטה מסטיק\" וגם תצוגת אופנה אוונגרדית ונוסטלגית באולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724780/",
+       "id": "724780",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 6 - 11.1.1980",
+       "logo": "https://www.kan.org.il/media/e3fpzz50/שעה-טובה-1111980-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dmaz23f7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר מארח את מייק בורשטיין ששר משירי \"קוני לימל\" וגם מראיין את הצייר אריק ברוואר שהחליט להשתקע בארץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724773/",
+       "id": "724773",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 5 - פרידה משנות ה-70",
+       "logo": "https://www.kan.org.il/media/4rmfhwvg/שעה-טובה-פרידה-משנות-ה-70-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wn2vdfhe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר פותח עשור עם המשורר יורם טהרלב, יגאל בשן מבצע מלהיטיו והאם האסטרולוג הרצל ליפשיץ יצליח לחזות את שנות ה-80",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724771/",
+       "id": "724771",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 4 - 30.11.1979",
+       "logo": "https://www.kan.org.il/media/r2tnl2ew/שעה-טובה-30111979-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a35b5weo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר מארח הפעם את אילנית שמבצעת ממבחר להיטיה, חיים הרצוג על תפקידו כשגריר ישראל באו\"ם וזאב רווח על סרטו \"טעות במספר\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724769/",
+       "id": "724769",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 2 - סוכות תש\"ם",
+       "logo": "https://www.kan.org.il/media/3o3nym2g/שעה-טובה-סוכות-תשם-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mbf8wvo8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר עם אורחים מיוחדים לכבוד החג: נירה רבינוביץ' ומרים פוקס שרות ביידיש, סודות מאחורי העיתונות עם עורכת \"דבר\" חנה זמר וגם שלמה ארצי במחרוזת להיטים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724763/",
+       "id": "724763",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 3 - 19.10.1979",
+       "logo": "https://www.kan.org.il/media/awelvdeh/שעה-טובה-19101979-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xvddpcip/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-18",
+       "plot": "מני פאר בתוכנית בסימן 50 שנה להמצאת הטלוויזיה, באולפן מתארחת גילה אלמגור על משחק מול המצלמה, צביקה פיק במחרוזת שירי \"שיער\" ואליהו הכהן על תפקיד המחשב בחיי היום יום (ב-1979!)",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/724754/",
+       "id": "724754",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 25 - 18.11.1983",
+       "logo": "https://www.kan.org.il/media/ufulgpnl/שעה-טובה-18-11-1983.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_otnfc93t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מאיר שלו מארח את מתי כספי והפרברים, רבקה מיכאלי, חיים טופול וגם שליח מוסד שישב 10 שנים בכלא העיראקי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/673807/",
+       "id": "673807",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 27 - 13.4.1984",
+       "logo": "https://www.kan.org.il/media/5epbmlyr/13-04-1990.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5sftro6c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מאיר שלו מארח את ההיסטוריון תום שגב על מדד האושר בתקופת קום המדינה, אילנית ונורית הירש על תהליך היצירה וגם שלמה ניצן בפינת העיתונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/673804/",
+       "id": "673804",
+       "season": 1
+      },
+      {
+       "name": "שעה טובה | תוכנית 26 - 16.12.1983",
+       "logo": "https://www.kan.org.il/media/l35d5ho1/16-12-1983.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sshjorj6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מאיר שלו מארח את אהוד אולמרט עם שלושת אחיו, הצייר המהיר ביותר בעולם מוריס כץ וגם ששי קשת, ריקי גל ומירי אלוני שרים \"אין כמו השואו ביזנס\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/s1/673801/",
+       "id": "673801",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שעה טובה | פתיח",
+       "logo": "https://www.kan.org.il/media/ew0dsid1/שעה-טובה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6pkj1lbj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית האירוח \"שעה טובה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670791/943425/",
+       "id": "943425"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

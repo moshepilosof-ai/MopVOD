@@ -1,0 +1,280 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הערב יהיו כאן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13970/",
+   "series_id": "13970",
+   "updated": "2026-10-28 10:24",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הערב יהיו כאן - הצצה | שלי יחימוביץ'",
+       "logo": "https://www.kan.org.il/media/ebnpkmjo/הערב-יהיו-כאן-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w5e1ubez/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-12",
+       "plot": "ירון ברובינסקי מגיש תוכנית האירוח מראיין את חברת הכנסת שלי יחימוביצץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/919272/",
+       "id": "919272"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 28 - פרק סיום עונה",
+       "logo": "https://www.kan.org.il/media/iqllh4fj/https-kanstaticazureedgenet-download-pictures-2021-6-9-imgid-54777_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_55h7xtps/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. בפרק סיום העונה יתארחו שלמה בראבא, אילנית לוי, הדג נחש והאורחים המיוחדים - ילדי התכנית, ועוד הפתעות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/132217/",
+       "id": "132217"
+      },
+      {
+       "name": "הערב יהיו כאן | - פרק 27",
+       "logo": "https://www.kan.org.il/media/mukjqxpr/https-kanstaticazureedgenet-download-pictures-2021-6-9-imgid-54770_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_206d4u7k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. אורחים: אבי גבאי, נדב אבוקסיס ומיקה אלמוג.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/87204/",
+       "id": "87204"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 26",
+       "logo": "https://www.kan.org.il/media/px0lia4p/https-kanstaticazureedgenet-download-pictures-2021-6-9-imgid-54769_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wownbg4v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. אורחים: אבי גבאי, נדב אבוקסיס ומיקה אלמוג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/87053/",
+       "id": "87053"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 25",
+       "logo": "https://www.kan.org.il/media/0xfbbcvt/https-kanstaticazureedgenet-download-pictures-2021-6-9-imgid-54767_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wzj7n6ss/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. אורחים: אקי אבני, אמיר דדון ושני קליין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/86865/",
+       "id": "86865"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 24",
+       "logo": "https://www.kan.org.il/media/au2d1a3e/https-kanstaticazureedgenet-download-pictures-2021-6-2-imgid-54313_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ahxt4pae/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. אורחים: דידי הררי, נאסרין קדרי ויהודה גליק.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/86692/",
+       "id": "86692"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 23",
+       "logo": "https://www.kan.org.il/media/kjvlbyuk/https-kanstaticazureedgenet-download-pictures-2021-6-2-imgid-54311_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1b2svp7o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. הערב יהיו כאן אלוף אירופה בג'ודו שגיא מוקי, צדי צרפתי והשחקנית דניאל גל (תאג\"ד).",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/86667/",
+       "id": "86667"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 22",
+       "logo": "https://www.kan.org.il/media/blmo0wys/https-kanstaticazureedgenet-download-pictures-2021-6-2-imgid-54308_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pzn2sorp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. הערב יהיו כאן נפתלי בנט, לוסי אהריש ונירו לוי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/86359/",
+       "id": "86359"
+      },
+      {
+       "name": "הערב יהיו כאן | חוגגים עצמאות 70  - פרק 21",
+       "logo": "https://www.kan.org.il/media/cohpjjbu/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53874_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ypse3aas/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "תכנית הבידור המרכזית של כאן 11 בהשתתפות נטע ברזילי, כוכבי היהודים באים, אתניקס ועוד שפע אורחים מפתיעים. מנחים: ירון ברובינסקי וליטל שוורץ.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/86225/",
+       "id": "86225"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 20",
+       "logo": "https://www.kan.org.il/media/xdedqll1/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53875_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mkpi83vv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. הערב יהיו כאן עידו רוזנבלום, ניצן הורוביץ, פאולה וליאון רוזנברג ואת העולות החדשות תפגוש הילה אלפרט.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/85972/",
+       "id": "85972"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 19",
+       "logo": "https://www.kan.org.il/media/350nic5f/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53873_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jc18q5mi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: מגי אזרזר, שר הכלכלה אלי כהן, הדר לוי ודיויד ברוזה .",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/85752/",
+       "id": "85752"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 18",
+       "logo": "https://www.kan.org.il/media/5aqby04l/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53870_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gd0nuwb1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: יובל שם טוב, רון שחר וענת ברזילי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/85642/",
+       "id": "85642"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 17",
+       "logo": "https://www.kan.org.il/media/cpnlqfoz/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53866_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1zpsahqf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: שלום אסייג, אבי נוסבאום ולינוי בר גפן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/85488/",
+       "id": "85488"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 16",
+       "logo": "https://www.kan.org.il/media/l5yh2rbk/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53865_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_scn1juqo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: צביקה הדר, הילה קורח, אורי גלר וגם יעל ארד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/85343/",
+       "id": "85343"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 15",
+       "logo": "https://www.kan.org.il/media/3yxisaon/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53864_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_86lfhrm1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: פבלו רוזנברג, חברת הכנסת שרן השכל, אנריקו מסיאס וגם דן כנר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/85150/",
+       "id": "85150"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 14",
+       "logo": "https://www.kan.org.il/media/ecagz3ro/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53862_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3d34r0ym/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: ליאור רז, ניקי גולדשטיין ואוולין הגואל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/85008/",
+       "id": "85008"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 13",
+       "logo": "https://www.kan.org.il/media/seka3a1i/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53863_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2bgmtvmt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי בתכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והפעם, מיטב הראיונות מתחילת העונה: מוני מושונוב, ליטל שוורץ, שלומי קוריאט ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/84827/",
+       "id": "84827"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 12",
+       "logo": "https://www.kan.org.il/media/gldnk4by/cat27617_img589945382.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ys9pn8xp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: ג. יפית, מירי מסיקה ודביר בנדק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/84467/",
+       "id": "84467"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 11",
+       "logo": "https://www.kan.org.il/media/v0sgve1w/cat27389_img660182545.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iq20gddj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: חברת הכנסת תמר זנדברג, שלום מיכאלשווילי וסאבלימינל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/84324/",
+       "id": "84324"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 10",
+       "logo": "https://www.kan.org.il/media/pikjzu1z/10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ryq1zi3p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: רבקה מיכאלי, חברת הכנסת מירב בן ארי ואיציק כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/84161/",
+       "id": "84161"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 9",
+       "logo": "https://www.kan.org.il/media/0aynrrlq/9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2ezrasuo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. והערב יהיו כאן: אופיר אקוניס, עופר שכטר ועינת שרוף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/83969/",
+       "id": "83969"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 8",
+       "logo": "https://www.kan.org.il/media/tvnofyd3/8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yrnm78bl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים. אורחים: אחמד טיבי, יעל שרוני ויוסי מרשק, גרייניק ואלתרמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/83798/",
+       "id": "83798"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 7",
+       "logo": "https://www.kan.org.il/media/5gahhe0o/7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i84dfrjf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים עם תם אהרון, בוז'י הרצוג ומרינה מקסימילאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/83572/",
+       "id": "83572"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 6",
+       "logo": "https://www.kan.org.il/media/nygdqudx/61.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6y5dnjbu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים עם מיכל אנסקי, קובי מימון ודורין אטיאס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/83425/",
+       "id": "83425"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 5",
+       "logo": "https://www.kan.org.il/media/sjun2fa0/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uz2adgae/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש תכנית אירוח מרעננת עם פינות מפתיעות וראיונות לא שגרתיים עם זהבה גלאון, אסי ישראלוף ואנה ארונוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/83257/",
+       "id": "83257"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 4",
+       "logo": "https://www.kan.org.il/media/hu5oxwyr/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uxhb6dx0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש את תכנית האירוח המרכזית של כאן 11 - ערב של ראיונות, פינות והפתעות. אורחים: סתיו שפיר, ליטל שוורץ ועדן ועודד מנשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/83107/",
+       "id": "83107"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 3",
+       "logo": "https://www.kan.org.il/media/vsxakua5/cat25202_img934219119.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hi1svyii/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש את תכנית האירוח המרכזית של כאן 11 - ערב של ראיונות, פינות והפתעות. אורחים: מוני מושונוב, מיכל דליות וארקדי דוכין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/82829/",
+       "id": "82829"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 2",
+       "logo": "https://www.kan.org.il/media/g0fewvag/cat24972_img69699422.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4hrz24p3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש את תכנית האירוח המרכזית של כאן 11 - ערב של ראיונות, פינות והפתעות. אורחים: דוד ביטן, רשף לוי ואליעד נחום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/82679/",
+       "id": "82679"
+      },
+      {
+       "name": "הערב יהיו כאן | פרק 1",
+       "logo": "https://www.kan.org.il/media/2exlu05y/cat24733_img85168380.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o58e85xz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ירון ברובינסקי מגיש את תכנית האירוח המרכזית של כאן 11 - ערב של ראיונות, פינות והפתעות. אורחים: ח\"כ שלי יחימוביץ, שלומי קוריאט ונצ'י נצ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13970/82519/",
+       "id": "82519"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

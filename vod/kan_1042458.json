@@ -1,0 +1,49 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מדינה על קנביס",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1042458/",
+   "series_id": "1042458",
+   "updated": "2026-10-28 11:34",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יש כיוון לרפואי? הדרישה למרשמי קנאביס רפואי גדלה - ומשרד הבריאות חושש",
+       "logo": "https://www.kan.org.il/media/qnkplijr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199762/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "\"איך הפכה ישראל לֶמעצֶמֶת סמים קלים שעדיין אסורים על פי חוק. בַּפּרק השלישי - הַקְרב על הקנביס הרֶפואי. בִּזמן המלחמה הַדרישה לַקנביס הַרֶפואי עלתה, אך הרופאים מהססים לתת את הטיפול, וּמשרד הבּריאות חושש שהפּתְרון יהפוך לִבעיה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1042458/s1/1040542/",
+       "id": "1040542",
+       "season": 1
+      },
+      {
+       "name": "מה וויד עושה למוח שלנו? האמת המדעית על הצד האפל של הקנאביס",
+       "logo": "https://www.kan.org.il/media/q0ulrgv2/קנא-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199289/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-11",
+       "plot": "מעבר לתדמית הקלילה והטבעית, מחקרים חדשים חושפים את נזקי הקנאביס למוח - במיוחד בקרב בני נוער. הפרק השני בסדרה \"מדינה על קנאביס\" צולל אל תופעת ההתמכרות המשתקת ואל ההשלכות הנפשיות של הסם שהפך למוצר צריכה בכל בית ישראלי",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1042458/s1/1040147/",
+       "id": "1040147",
+       "season": 1
+      },
+      {
+       "name": "כבר לא צריך לטוס לאמסטרדם: איך הפכה ישראל למעצמת קנאביס?",
+       "logo": "https://www.kan.org.il/media/zd0h4xw5/סמים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199074/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-10",
+       "plot": "איך הפכה ישראל למעצמה ירוקה? למרות שסמים קלים עדיין אסורים רשמית על פי חוק. בפרק הראשון של \"מדינה על קנאביס\", יפעת עמיאל בוחנת את תרבות הוויד הישראלית - מהרחוב ובתי הקפה ועד לארוחות המשפחתיות. מאז מדיניות אי-ההפללה, הקנאביס הפך לחלק בלתי נפרד מהנוף המקומי, עד שנדמה שכבר לא צריך להחתים דרכון באמסטרדם כדי להרגיש את הריח באוויר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1042458/s1/1039732/",
+       "id": "1039732",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

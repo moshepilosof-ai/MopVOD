@@ -1,0 +1,117 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שם טוב האבי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-12420/",
+   "series_id": "12420",
+   "updated": "2026-10-28 13:31",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שם טוב האבי 2 | אחד עומד ונואם",
+       "logo": "https://www.kan.org.il/media/lbiosenq/one-who-stands-cln-frame-at-3m20s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1914047/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-13",
+       "plot": "המחלוקת בין יהוד למונוסון מגיעה לשיאה, ולבסוף כולם מבינים: אנחנו עיר אחת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/s2/970397/",
+       "id": "970397",
+       "season": 2
+      },
+      {
+       "name": "שם טוב האבי 2 | עבד כי ימלוך",
+       "logo": "https://www.kan.org.il/media/lxho32v4/evved-cln-frame-at-2m17s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1914084/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "שם טוב האבי משתלט על יהוד כולה, ועל השייק קבב בפרט",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/s2/969671/",
+       "id": "969671",
+       "season": 2
+      },
+      {
+       "name": "שם טוב האבי 2 | אל תענה",
+       "logo": "https://www.kan.org.il/media/0oid5veo/dont-taane-cln-frame-at-0m38s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1914048/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "היריבות ביהוד מגיעה לשיאה, ויש מי שמרוויח מזה. אבל לא אם זה תלוי בשם טוב האבי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/s2/969670/",
+       "id": "969670",
+       "season": 2
+      },
+      {
+       "name": "שם טוב האבי 2 | וולקאם טו יהוד",
+       "logo": "https://www.kan.org.il/media/kjwbx3mq/wellocme-to-ya-hod-cln-frame-at-0m53s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1914083/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "אחרי הבריחה הגדולה, שם טוב האבי מגיעה לעיר הבדיונית והמטריפה - יהוד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/s2/969661/",
+       "id": "969661",
+       "season": 2
+      },
+      {
+       "name": "שם טוב האבי 2 | האבי",
+       "logo": "https://www.kan.org.il/media/zjqeqlqi/my-name-is-shem-tov-cln-3-frame-at-2m53s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1945286/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "אחרי שנים שחי תחת זהות בדויה, שם טוב האבי חוזר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/s2/969656/",
+       "id": "969656",
+       "season": 2
+      },
+      {
+       "name": "שם טוב האבי 2 | הסרט המלא",
+       "logo": "https://www.kan.org.il/media/3w5isqsi/dpr_shem_tov_full_movie_clean.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1902393/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "אחרי שהצליח לברוח מהכלא וחי שנים תחת זהות בדויה, שם טוב האבי בורח שוב ומוצא את עצמו בעיר בדיונית בשם \"יהוד\". למסע מצטרפים אורחים רבים ומפתיעים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/s2/969017/",
+       "id": "969017",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עלייתו ונפילתו של שם טוב האבי | סם הרדמה",
+       "logo": "https://www.kan.org.il/media/ubbb4wz5/1_i6ikwcwy1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1sd2gb8l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אדם שם טוב מגלה שבשביל לשיר טראפ צריך פחות כישרון ויותר הרדמה באזור החניכיים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/s1/114605/",
+       "id": "114605",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שם טוב האבי | טריילר",
+       "logo": "https://www.kan.org.il/media/xwhc0kze/1920x1080-with-logo_שם-טוב-האבי_2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1971999/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-14",
+       "plot": "שם טוב האבי יוצא למסע חדש ומוצא את עצמו בעיר בדיונית בשם \"יהוד\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/980352/",
+       "id": "980352"
+      },
+      {
+       "name": "איך מכינים שייק קבב?",
+       "logo": "https://www.kan.org.il/media/3loiovnv/4444444.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1945795/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-23",
+       "plot": "חשיפה בלעדית: זהו המתכון הסודי לשייק קבב המקורי מיהוד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12420/973380/",
+       "id": "973380"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

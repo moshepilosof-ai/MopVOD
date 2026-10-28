@@ -1,0 +1,235 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - טאבו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12154/",
+   "series_id": "12154",
+   "updated": "2026-10-28 11:16",
+   "sub_categories": [
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "טאבו עונה 4 | פרק 3 - תסמונת טורט",
+       "logo": "https://www.kan.org.il/media/4ggdryyy/אתר_חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230166/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-28",
+       "plot": "חנוך דאום יוצא לחופשה עם ארבעה אנשים שמתמודדים עם תסמונת טורט. יחד הם מדברים בפתיחות ובהומור על הטיקים, המבטים והתגובות מהסביבה, ועל האתגרים של זוגיות, הורות וחיים עם תסמונת שאי אפשר להסתיר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s4/1082373/",
+       "id": "1082373",
+       "season": 4
+      },
+      {
+       "name": "טאבו עונה 4 | פרק 1 - אסירים משוחררים",
+       "logo": "https://www.kan.org.il/media/5x3k2jps/טאבו.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230165/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-28",
+       "plot": "חנוך דאום לוקח אסירות ואסירים לשעבר לחופשה מפנקת, במהלכה ידברו בגילוי לב על פשע, כלא, סטיגמות והזדמנות שניה. בסיום החוויה הסיפורים שלהם יהפכו למופע סטנד אפ מיוחד, מצחיק ולא פוליטיקלי קורקט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s4/1082372/",
+       "id": "1082372",
+       "season": 4
+      },
+      {
+       "name": "טאבו עונה 4 | פרק 2 - שורדי שבי",
+       "logo": "https://www.kan.org.il/media/0odnsrqt/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219460/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חנוך דאום לוקח 4 שורדי שבי חמאס לחופשה מפנקת, בה הם מדברים על המנהרות, על החזרה לחיים, ועל הדברים שאף אחד אחר לא מעז לשאול. בסוף המפגש חנוך מעלה סטנדאפ שמוכיח שגם אל מול הבלתי נתפס אפשר לצחוק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s4/1067575/",
+       "id": "1067575",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "טאבו עונה 3 | פרק 2 - ניצולי כתות",
+       "logo": "https://www.kan.org.il/media/5mpgu32v/טאבו-לאתר-כתות-סופי-סופי-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_suiz3mxe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "מסע מטלטל בעקבות גברים ונשים שנטשו כתות דתיות, רוחניות או מיסטיות, בניסיון להחזיר לעצמם את הזהות והחופש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s3/930907/",
+       "id": "930907",
+       "season": 3
+      },
+      {
+       "name": "טאבו עונה 3 | פרק 1 - שורדות זנות",
+       "logo": "https://www.kan.org.il/media/zygbgvda/t-r.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b5fe62ta/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-07",
+       "plot": "חנוך דאום יוצא לחופשה עם ארבע נשים ששרדו חיים של זנות, שיקמו את עצמן ומדברות באומץ על הבחירות, המחירים, הדרך החוצה ועל הכוח שהחזיר להן את חייהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s3/929009/",
+       "id": "929009",
+       "season": 3
+      },
+      {
+       "name": "טאבו עונה 3 | פרק 3 - חירשים",
+       "logo": "https://www.kan.org.il/media/zsudleih/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a4cxumfs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-24",
+       "plot": "הצצה לעולמם המורכב של אנשים החיים עם לקויות שמיעה. על הבדידות, התקשורת הלא-מילולית, ועל החיים בשולי השיח הקולי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s3/924830/",
+       "id": "924830",
+       "season": 3
+      },
+      {
+       "name": "טאבו עונה 3 | פרק 4 - מתמודדים עם אנורקסיה",
+       "logo": "https://www.kan.org.il/media/ldzjzpjx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_etj8gqez/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-24",
+       "plot": "אזהרת טריגר. פרק יוצא דופן, שמאיר מבפנים את עולמם של הסובלים מהפרעת אכילה קשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s3/924817/",
+       "id": "924817",
+       "season": 3
+      },
+      {
+       "name": "טאבו עונה 3 | פרק 6 - קטועי שתי רגליים",
+       "logo": "https://www.kan.org.il/media/qbuclg4h/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kwe4h2sh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-24",
+       "plot": "חנוך דאום נפגש עם ארבעה גברים ונשים שהתמודדו עם אובדן רגליהם בתאונות, במחלות או בצבא, ושומע מהם על ההתמודדות עם חיי היום יום, על השיקום ועל איך בונים חיים חדשים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s3/924798/",
+       "id": "924798",
+       "season": 3
+      },
+      {
+       "name": "טאבו עונה 3 | פרק 5 - מכורים נקיים",
+       "logo": "https://www.kan.org.il/media/uxacgo11/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xiu9gxij/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-24",
+       "plot": "גברים ונשים שנגמלו מסמים, אלכוהול או הימורים, מספרים בכנות על ההגעה לקרקעית התהום ועל הדרך הארוכה והמורכבת לעלות ממנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s3/924791/",
+       "id": "924791",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "טאבו עונה 2 | פרק 2 - להט\"בים דתיים",
+       "logo": "https://www.kan.org.il/media/yajn3onn/לאתר-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_88qdamm5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-30",
+       "plot": "חנוך דאום יוצא לחופשה עם חמישה אנשים שחיים בעולם רוווי ניגודיות, מצד אחד חיים אמוניים במסגרת חברה דתית עם נורמות וכללים ומהצד השני נטייה מינית המתנגשת עם עולמם הרוחני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s2/632033/",
+       "id": "632033",
+       "season": 2
+      },
+      {
+       "name": "טאבו עונה 2 | פרק 4 - מראה יוצא דופן",
+       "logo": "https://www.kan.org.il/media/1sqh3c30/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ksr0vjfp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-26",
+       "plot": "חנוך דאום יוצא לחופשה עם ארבע נשים שחזותן החיצונית חריגה ומעוררת תשומת לב, ומנסה להבין את הקושי בחיים בחברה שבה המראה החיצוני חשוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s2/545180/",
+       "id": "545180",
+       "season": 2
+      },
+      {
+       "name": "טאבו עונה 2 | פרק 5 - גיל הזהב",
+       "logo": "https://www.kan.org.il/media/fqjdxgvn/תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_doo2a4cj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-11",
+       "plot": "חנוך דאום יוצא לחופשה עם ארבעה גיבורים שחצו את גיל 80 ומתמודדים עם שאלות על בדידות, אובדן, זוגיות וגם על היתרונות שמגיעים עם הגיל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s2/526894/",
+       "id": "526894",
+       "season": 2
+      },
+      {
+       "name": "טאבו עונה 2 | פרק 6 - הלומי קרב",
+       "logo": "https://www.kan.org.il/media/cmuf3igd/טאבו-פרק-3-t.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n0a97ify/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-11",
+       "plot": "חנוך דאום יוצא לחופשה עם ארבעה גיבורים המתמודדים עם פוסט טראומה בעקבות השירות הצבאי, ומנסה להבין מה זה אומר להיות הלום קרב, ואיך אפשר לחיות חיים נורמליים ולבנות עתיד, כשהעבר רודף אחריך. תוכנית אחרונה ומרגשת לעונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s2/526887/",
+       "id": "526887",
+       "season": 2
+      },
+      {
+       "name": "טאבו עונה 2 | פרק 3 - אוטיסטים",
+       "logo": "https://www.kan.org.il/media/a02jmo51/טאבו-פרק-2-t.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nec92bkg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-11",
+       "plot": "חנוך דאום יוצא לחופשה עם ארבעה גיבורים שכולם מאובחנים על הרצף האוטיסטי, יחד הם משתפים את חנוך ואת הצופים בעולמם המורכב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s2/526832/",
+       "id": "526832",
+       "season": 2
+      },
+      {
+       "name": "טאבו עונה 2 | פרק 1 - מתמודדי נפש",
+       "logo": "https://www.kan.org.il/media/kjflyuge/tabu_1_t.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_au4euf86/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-11",
+       "plot": "עונה חדשה לתכנית שבה צוחקים על דברים שאתם כנראה חושבים שאסור לצחוק עליהם. בפרק פתיחת העונה חנוך דאום יוצא לחופשה עם ארבעה אנשים המתמודדים עם הפרעות נפשיות, ומנסה להבין את המורכבות עם המחלה המאיימת לחזור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s2/526824/",
+       "id": "526824",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טאבו | אנשים עם עודף משקל",
+       "logo": "https://www.kan.org.il/media/icddbf14/https-kanstaticazureedgenet-download-pictures-2022-9-19-imgid-82032_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wq5m2sqm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התכנית שבה צוחקים עם אנשים על דברים שאתם כנראה חושבים שאסור לצחוק עליהם. חנוך דאום יוצא לחופשה עם ארבעה אנשים\n שמתמודדים עם עודף משקל, שומע מהם על הכאבים ומנסה להבין איתם מה מצחיק בלחיות עם משקל עודף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/s1/149861/",
+       "id": "149861",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "טאבו - הצצה | שורדי שבי",
+       "logo": "https://www.kan.org.il/media/xjejgp2f/image-22.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246414/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-16",
+       "plot": "שורדי השבי מספרים לחנוך דאום על הרגעים הכי קשים בשבי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/1100246/",
+       "id": "1100246"
+      },
+      {
+       "name": "טאבו | טריילר",
+       "logo": "https://www.kan.org.il/media/siofjajw/https-kanstaticazureedgenet-download-pictures-2022-10-20-imgid-83693_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ioot2rzb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-13",
+       "plot": "חנוך דאום פורץ את גבולות הפוליטיקלי קורקט ומחפש מה מצחיק בחיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/870262/",
+       "id": "870262"
+      },
+      {
+       "name": "טאבו - הצצה | טרנסג'נדר דתי",
+       "logo": "https://www.kan.org.il/media/gvjnuflv/טאבו-הצצה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_24ifo9zz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "איך זה לגדול כטרנסג'נדר בארון בעולם הדתי ועדיין שומרים על המסורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/856146/",
+       "id": "856146"
+      },
+      {
+       "name": "טאבו - הצצה | הזדקנות",
+       "logo": "https://www.kan.org.il/media/1aepx0lf/טאבו-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kkh3jdk4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "חנוך דאום מסביר איך זה להזדקן ומה זאת התעמלות כיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12154/856144/",
+       "id": "856144"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

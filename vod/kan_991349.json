@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - איזו דרמה | תכניות מלאות לצפייה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-991349/",
+   "series_id": "991349",
+   "updated": "2026-10-27 21:29",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "איזה דרמה | הצצה",
+       "logo": "https://www.kan.org.il/media/4f5cdcps/איזו-דרמה-עמנואל-הלפרין-טריילר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2158213/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-04",
+       "plot": "מסכמים 50 שנות יצירה ישראלית מקורית עם עמנואל הלפרין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-991349/995777/",
+       "id": "995777"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

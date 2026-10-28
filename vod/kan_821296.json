@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כולנו הרצל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-821296/",
+   "series_id": "821296",
+   "updated": "2026-10-28 11:30",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כולנו הרצל - הצצה",
+       "logo": "https://www.kan.org.il/media/qkhfa2gq/1920x1080_no-logo_כולנו-הרצל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2074279/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "עם פרוץ מלחמת יום כיפור, ב-7 לאוקטובר 1973, נשלחו שתי ספינות דבור למשימת התאבדות בתקיפת חוף מצרים מבלי שידעו שהחלה מלחמה. בדרך נס חזרו הספינות מהקרב לאחר שעלו על החוף. לאחר 50 שנים נחשפים התחקרים שמגלים את גיבור הקרב שנעלם, הרצל אלמלם ז\"ל וחבריו הלוחמים. קרב \"מארסה תלאמאת\" הפך לחלק מאתוס הקרב של חיל הים ביום כיפור ולא סופר עד כה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-821296/990157/",
+       "id": "990157"
+      },
+      {
+       "name": "כולנו הרצל",
+       "logo": "https://www.kan.org.il/media/g2yixkbe/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dpuso89l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "עם פרוץ מלחמת יום כיפור, ב-7 לאוקטובר 1973, נשלחו שתי ספינות דבור למשימת התאבדות בתקיפת חוף מצרים מבלי שידעו שהחלה מלחמה. בדרך נס חזרו הספינות מהקרב לאחר שעלו על החוף. לאחר 50 שנים נחשפים התחקרים שמגלים את גיבור הקרב שנעלם, הרצל אלמלם ז\"ל וחבריו הלוחמים. קרב \"מארסה תלאמאת\" הפך לחלק מאתוס הקרב של חיל הים ביום כיפור ולא סופר עד כה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-821296/864501/",
+       "id": "864501"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

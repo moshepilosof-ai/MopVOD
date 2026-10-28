@@ -1,0 +1,149 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אני הסיפור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-983016/",
+   "series_id": "983016",
+   "updated": "2026-10-28 09:25",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אני הסיפור | פרק 13 - שכחתי את הבן שלי ברכב",
+       "logo": "https://www.kan.org.il/media/01fh0g5o/abed-wide-long00_16_11_42still004.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248213/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-22",
+       "plot": "אחרי שנים רבות, עבד עדוי חוזר לרחוב אל-ח׳ורי בחיפה - המקום שבו איבד את היקר לו מכול",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1101597/",
+       "id": "1101597",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 12 - \"אחת כמוך אסור שתהיה אמא\"",
+       "logo": "https://www.kan.org.il/media/yq2etmwe/rewaa-ep-1008-wide00_10_47_47still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239596/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "ריואא מתמודדת עם מחלת הזאבת מגיל 13, אבל המאבק הכי קשה מבחינתה הוא לא במחלה עצמה - אלא ביחס של הסביבה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1091976/",
+       "id": "1091976",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 11 - הטיל שהרג את בני",
+       "logo": "https://www.kan.org.il/media/qszakio1/انا-القصة-ليث-ابو-فجر.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229515/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-26",
+       "plot": "\"חיפשתי את הבן שלי והתפללתי שלא אמצא אותו\": בנו של לית' אבו סאלח נרצח באסון במג'דל שמס, בו טיל פגע במגרש כדורגל וגבה את חייהם של 12 ילדים. לראשונה, האב השכול מספר על הרגעים הקשים בחייו, לפני שמצא את בנו פג'ר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1081630/",
+       "id": "1081630",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 10 - הגעתי למשקל 38 קילו",
+       "logo": "https://www.kan.org.il/media/xrwgf42f/still-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216617/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-26",
+       "plot": "כל ביס שאכלתי הפך לנקמה: האמנית לינה פאעור פותחת את ליבה ומספרת על המסע שלה עם מחלת האנורקסיה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1081628/",
+       "id": "1081628",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 9 - \"יש לי טורט\"",
+       "logo": "https://www.kan.org.il/media/hvug52ss/ان-القصة-موقع.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202776/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-24",
+       "plot": "\"אני יכול לקלל, לגדף או להכות את מי שלידי בלי שליטה\": עמרי עבאס, בן 13, מספר על המסע שלו עם תסמונת טורט, ששינתה את חייו ואת חיי בני משפחתו. \"לפעמים אני בוכה ושואל את אלוהים, למה דווקא אני?\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1044510/",
+       "id": "1044510",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 8 - איבדתי את הגפיים והרווחתי את חיי ",
+       "logo": "https://www.kan.org.il/media/qqjpf0tm/jomana-wide.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192932/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "ג'ומאנה ג'רוס נאלצה לעבור ניתוח כשהייתה ילדה, ומשם הכל הסתבך. \"כרתו לי חצי מכף היד, וכששאלו אותי 'את רוצה את הרגל או את החיים?' אמרתי להם שפשוט יכרתו לי את הרגל כי לא יכולתי לשאת את הכאב'\". למרות הכאב והאתגריים הפיזיים, ג'ומאנה לא מוותרת על החיים שהיא רוצה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1033276/",
+       "id": "1033276",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 7 - איבדתי את אמא",
+       "logo": "https://www.kan.org.il/media/vwicos21/انا-القصة-אני-הסהיפור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180082/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-25",
+       "plot": "\"ביום האם הראשון שעבר כשהיא נעדרת, פתחתי לייב, הכנתי עוגה ופשוט ישבתי ובכיתי\": יאסמין קעדאן משתפת את וסים ח׳ורי בסיפור היעלמותה של אמה בפריז במשך שנתיים וחצי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1018513/",
+       "id": "1018513",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 6 - מסטנדאפיסט לשייח' אדוק",
+       "logo": "https://www.kan.org.il/media/1fdjneol/الشيح-انا-القصة.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170801/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-18",
+       "plot": "שייח' עבד א-סלאם היה מופיע על במות הסטנדאפ, והיום הוא עומד על דוכן הדרשה במסגד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/1014631/",
+       "id": "1014631",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 5 - \"אנשים אמרו שאין לי שכל\"",
+       "logo": "https://www.kan.org.il/media/haznxj55/תמונה-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2147401/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-01",
+       "plot": "איימן מראענה מפרדיס מתמודד עם לקות שכלית, אבל זה לא עוצר אותו מלהשתלב בחברה. כשלא נמצאה לו מסגרת מתאימה בכפר, הוא נשלח לחינוך מיוחד בחיפה, ושם למד להיפתח. הוא עשה שירות לאומי, עובד בסופר ולאחרונה פרסם בפייסבוק שהוא מחפש חברה לחיים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/994799/",
+       "id": "994799",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 4 - \"הייתי גבר והיום אני דימא\"",
+       "logo": "https://www.kan.org.il/media/jryafgva/לאביו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2004120/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "דימא, אישה טרנסג'נדרית ממזרח ירושלים, עברה מסכת עינויים, רדיפות, בריונות וחרם בביתה בגלל זהותה. היא סיפרה באומץ רב על ההחלטה לעזוב את הבית ולעבור עשרות ניתוחים שונים - כדי להיות מי שהיא היום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/983127/",
+       "id": "983127",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 3 - \"מקווה שיום אחד יצמח לי שיער\"",
+       "logo": "https://www.kan.org.il/media/jixdda01/כפרה-עלייך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2003973/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "רפיף בת ה-7 נולדה עם תסמונת נדירה שבגללה לא צומח לה שיער. היא דיברה באומץ רב על ההתמודדות שלה עם המחלה, עם הסביבה, והילדים בכיתה שלא רצו לשחק איתה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/983123/",
+       "id": "983123",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 2 - \"רצחתי את אחותי ואני מתחרט\" ",
+       "logo": "https://www.kan.org.il/media/k3vd02kn/אין-עלייךךךךךךך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2003972/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "איברהים עדס מג'לג'וליה רצח את אחותו אמל בגלל \"כבוד המשפחה\" וריצה 25 שנים בכלא. הוא התארח אצלנו ודיבר על הקושי, החרטה, הכאב והכי חשוב - על השינוי שעבר בכלא, שהפך אותו כיום למרצה להגברת המודעות נגד התופעה המדממת, במסגרות המשטרה והשירות לשיקום האסיר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/983120/",
+       "id": "983120",
+       "season": 1
+      },
+      {
+       "name": "אני הסיפור | פרק 1 - \"הבן שלי טבע לי בידיים\"",
+       "logo": "https://www.kan.org.il/media/2ignamgo/תודה-מאייייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2003938/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "אמל מאג'יה, אמא צעירה ואשת עסקים מוכרת מנצרת, חוותה טרגדיה מטלטלת כשבנה בן ה-3 נפל וטבע בבריכה בבית. אמל, שמפורסמת ברשתות החברתיות, בחרה לשתף בגבורה את סיפור ההתמודדות שלה והשלכותיו על חייה מול אלפי נשים בחברה הערבית",
+       "page": "https://www.kan.org.il/content/dig/digital/p-983016/s1/983103/",
+       "id": "983103",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

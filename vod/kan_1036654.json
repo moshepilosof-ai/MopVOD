@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קריסת האונקולוגיה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1036654/",
+   "series_id": "1036654",
+   "updated": "2026-10-28 13:12",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "המשבר באונקולוגיה: למה אין מי שיציל את חולי הסרטן בישראל?",
+       "logo": "https://www.kan.org.il/media/tejhseaa/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194376/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-27",
+       "plot": "יותר מ-30 אלף חולי סרטן חדשים מאובחנים בכל שנה, אבל מי יטפל בהם? מערכת הבריאות נמצאת בנקודת שבירה עם מחסור חמור ברופאים אונקולוגים - כשבפריפריה המצב הופך קריטי ורופאים שכבר פרשו נקראים לחזור למחלקות. פרק שני של הפרויקט המיוחד על מערכת הרפואה שנלחמת על חייה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1036654/s1/1034256/",
+       "id": "1034256",
+       "season": 1
+      },
+      {
+       "name": "נוסעים שעות כדי לקבל טיפול: המלחמה הכפולה של חולי הסרטן שגרים בפריפריה",
+       "logo": "https://www.kan.org.il/media/uldflivf/מרואיין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194144/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "טניה עושה פעמיים בשבוע את הדרך מדימונה לתל אביב כדי לטפל בסרטן הקיבה שחלתה בו לפני פחות משנה. אורן יוצא כל שבוע מבית שאן לפתח תקווה כדי לטפל בסרטן האלים שהתפשט בכל גופו. הם רק שניים ממאות תושבי הפריפריה שנאלצים לנסוע לטיפול במרכז בשל המחסור החמור באונקולוגים. מחסור שקיים בכל הארץ, אבל מורגש בעיקר בבתי החולים בפריפריה. הכתבה של ויקו אטואן",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1036654/s1/1033682/",
+       "id": "1033682",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

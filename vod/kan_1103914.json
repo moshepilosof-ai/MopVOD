@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הקול הערבי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1103914/",
+   "series_id": "1103914",
+   "updated": "2026-10-28 10:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "\"אנשים לא תמימים\": הערבים הם 20% מאזרחי המדינה - למי הם עומדים להצביע?",
+       "logo": "https://www.kan.org.il/media/hdxev1oq/s0544774_item0600_00_07_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248564/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "למי יצביעו יותר מ-20% מתושבי המדינה - אם בכלל? מה ההבדלים בין הרשימה המשותפת לרע\"ם, מה מציעה מפלגת הדמוקרטים לציבור הערבי והאם יש אפשרויות נוספות? | הקול הערבי - פרק 2",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1103914/s1/1102290/",
+       "id": "1102290",
+       "season": 1
+      },
+      {
+       "name": "\"אין לי אמון בממסד\": האם אפשר לשכנע את האזרח הערבי להצביע בבחירות? | \"הקול הערבי\", פרק 1",
+       "logo": "https://www.kan.org.il/media/awwdhma1/ידי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248363/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-22",
+       "plot": "רק 54% מערביי ישראל יצאו לקלפי בבחירות הקודמות - כמעט 20% פחות מהציבור הכללי. הנתון הזה עשוי להשתנות בבחירות הקרובות, ואולי אפילו להכריע אותן. יצאנו למסע בעקבות הקול הערבי, ובעקבות הניסיונות לשכנע את הצעירים שאיבדו אמון בפוליטיקה להגיע הפעם לקלפיות",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1103914/s1/1101881/",
+       "id": "1101881",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

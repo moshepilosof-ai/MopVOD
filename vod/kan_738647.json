@@ -1,0 +1,78 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - פלאי קלעים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-738647/",
+   "series_id": "738647",
+   "updated": "2026-10-28 13:08",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "פלאי קלעים | פרק 3 - ראש העיר והתפלצת",
+       "logo": "https://www.kan.org.il/media/wwuhbevg/ראש-העיר-והתפלצת-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z43czbo5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "ציידי מפלצות מקצועיים מגיעים למשרד ראש העיר להתריע על מפלצת שיש לתפוס כדי להשיב את השלווה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-738647/s2/744415/",
+       "id": "744415",
+       "season": 2
+      },
+      {
+       "name": "פלאי קלעים | פרק 2 - מה קרה למכשפה מעמי ותמי?",
+       "logo": "https://www.kan.org.il/media/ffjbgtl0/מה-קרה-למכשפה-מעמי-ותמי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6lz1k63w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "סיגלית וסמי יוצאים למסע מלא בחששות אחר הדמויות המרשעות מאגדות הילדים האהובות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-738647/s2/744402/",
+       "id": "744402",
+       "season": 2
+      },
+      {
+       "name": "פלאי קלעים | פרק 1 - עכבר עיר ועכבר הכפר",
+       "logo": "https://www.kan.org.il/media/bdqhghp1/עכבר-העיר-ועכבר-הכפר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r6r20gjk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "הצגת הילדים האהובה מקבלת תפנית בהתאמה לימינו, על ההבדלים בין \"עכבר הכפר\" ל\"עכבר העיר\" ומירוץ העכברים שכולנו נמצאים בו  ביומיום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-738647/s2/744392/",
+       "id": "744392",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פלאי קלעים | פרק 1 - הלב הרחום",
+       "logo": "https://www.kan.org.il/media/3f1j5mi5/הלב-הרחום-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tz42j6wt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-16",
+       "plot": "סיפורה של קבוצת שחקנים המציגה מחזות זמר המבוססים על ספרי ילדים ונוער בארץ ובעולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-738647/s1/738739/",
+       "id": "738739",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "פלאי קלעים | פתיח",
+       "logo": "https://www.kan.org.il/media/ayemdqlv/צילום-מסך-2025-08-18-142011.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o6c9xt6r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה המיתולוגית \"פלאי קלעים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-738647/942772/",
+       "id": "942772"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

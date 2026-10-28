@@ -1,0 +1,163 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - יוצאים מהכלים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670711/",
+   "series_id": "670711",
+   "updated": "2026-10-28 11:18",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יוצאים מהכלים | פרק 1 - 25.10.2002",
+       "logo": "https://www.kan.org.il/media/w4aftciz/ep1tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pvn1zp3y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שני הרכבים מוזיקליים שונים מתחרים במשימות אלתור שבהן הם צריכים לשלוף תווים מהמותן. אז מי הכי יוציא אותנו מהכלים, הסקסופוניסטים מרעננה או \"סקוויזופוביה\"?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672650/",
+       "id": "672650",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 2 - 1.11.2002",
+       "logo": "https://www.kan.org.il/media/22gl0a4v/פרק-2-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3xgfpcqj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אנסמבל חליליות של ירושלים מול נגני הג'אז \"דאדא והרטובים\" מנגנים ומאלתרים חי באולפן ומתאימים פסקול משלהם לסרטים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672647/",
+       "id": "672647",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 3 - 8.11.2002",
+       "logo": "https://www.kan.org.il/media/xg1kcpoc/פרק-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yhgs9ds4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "\"המוות של פישי\" מתחרים ב\"אקספרשן\" בעיבודים משלהם לשירים מוכרים. מי ינצח - המוזיקה האתנית מיבנה או הג'אז נוסח כרמיאל?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672644/",
+       "id": "672644",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 4 - 15.11.2002",
+       "logo": "https://www.kan.org.il/media/sogjey3k/פרק-4-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mxebuoor/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אנסמבל מזרחי מכפר יאסיף שמנגן מוזיקה ערבית קלאסית, מול הרכב של קלרינטים בשם \"קוורטיסימו\" בתחרות עיבודים ייחודיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672641/",
+       "id": "672641",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 5 - 6.12.2002",
+       "logo": "https://www.kan.org.il/media/1vrh2tx0/פרק-5-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e2wsgekq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "\"ציידים ביער\" בדיג'ירידו אל מול \"ויוצ'ה של ארקנגלו קורלי\"  והקבוצות מכשפות פסקול לסצנה מהסרט של הארי פוטר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672638/",
+       "id": "672638",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 6 - 20.12.2002",
+       "logo": "https://www.kan.org.il/media/ryknsvqx/פרק-6-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zq9rrvzk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "רביעייה שהתכנסה יחד לכבוד התוכנית מול רביעיית כלי הקשת מגבעתיים. מי תנצח? הקבוצה הספונטנית או בעלת הוותק?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672635/",
+       "id": "672635",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 7 - 3.1.2003",
+       "logo": "https://www.kan.org.il/media/vbfjmxtr/פרק-7-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nm3viqyv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "\"סוף הדרך\" - הרכב בתחילת דרכו מול ה\"וירטואוזים\" מכפר סבא. הקבוצות קיבלו שיר וביצעו כמה שינויים משלהן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672632/",
+       "id": "672632",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 8 - 10.1.2003",
+       "logo": "https://www.kan.org.il/media/v5vdob4j/פרק-8-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jfjp81qq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "\"דומינו\" - הרכב רביעיית נגני סקסופון מדימונה אל מול \" מנה ואולט\" - רביעיית מטאל, מי הקבוצה שתנצח?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672629/",
+       "id": "672629",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 9 - 17.1.2003",
+       "logo": "https://www.kan.org.il/media/25hbv2f3/פרק-9-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_712pdn19/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "להקת \"מוזה\" יחד כבר שבועיים שלמים,  אל מול להקת \"הוועד להקלת המשבר\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672626/",
+       "id": "672626",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 10 - 24.1.2003",
+       "logo": "https://www.kan.org.il/media/d34kuep0/פרק-10-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ize9gjho/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ה\"קריתים\" מול \"מעגל תרבות\" -הרכבים שונים, אך בשניהם ישנם נגנים צעירים בני עשר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672623/",
+       "id": "672623",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 11 - 31.1.2003",
+       "logo": "https://www.kan.org.il/media/b4yllf2w/פרק-11-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_at7e3sx6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "לא כולם חושבים שבנות צריכות לתופף - את המתופפת של להקת \"ניוקליר דיסיס\" זה לא מעניין, והיא כאן להתחרות מול להקה שאין לה אפילו מתופף בן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672620/",
+       "id": "672620",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 12 - 14.2.2003",
+       "logo": "https://www.kan.org.il/media/p3qkmdvh/פרק-12-tv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_um7zcf8a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "להקת \"קמר\" האתנית מול להקת \"לאט ובשקט\" שמכילה בעיקר כלי הקשה וקמה במיוחד לכבוד התוכנית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672617/",
+       "id": "672617",
+       "season": 1
+      },
+      {
+       "name": "יוצאים מהכלים | פרק 13 - 16.5.2003",
+       "logo": "https://www.kan.org.il/media/r0ievl1x/פרק-tv-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b0iclnr2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בשביל לשמוע מוזיקת בארוק טובה הכירו את \"בארוק כבד\" של איתי, אל מול החמישייה של מירה שמגיעה מכל רחבי הגלובוס ומנגנת ג'אז קלאסי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/s1/672614/",
+       "id": "672614",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "יוצאים מהכלים | פתיח",
+       "logo": "https://www.kan.org.il/media/wqugcq4b/יוצאים-מהכלים-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qvmi8j6u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"יוצאים מהכלים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670711/942797/",
+       "id": "942797"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

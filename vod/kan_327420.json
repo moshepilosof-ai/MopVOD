@@ -1,0 +1,133 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שלושה שירים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-327420/",
+   "series_id": "327420",
+   "updated": "2026-10-28 13:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שלושה שירים | ביכורות",
+       "logo": "https://www.kan.org.il/media/zgdlg3tc/שלושה-שירים-ביכורות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_50cdpokq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-05",
+       "plot": "סיפורם של שלושה שירים שסללו עבור הזמרות את ראשית הקריירה שלהן. \"הביתה\", הלהיט הראשון של ירדנה ארזי כסולנית, בגיל שלושים. \"לאסוף\", שיר הבכורה של יובל דיין, ו\"ילד מטריה\" של עטרה אוריה, שפרץ דרך הטיקטוק.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/757763/",
+       "id": "757763",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | גאווה",
+       "logo": "https://www.kan.org.il/media/vphfg2sq/שלושה-שירים-גאווה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6e9mbij6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "סיפורם של שלושה שירים של יוצרים גאים. \"עד העונג הבא\" של המכשפות, \"מלטף ומשקר\" של עברי לידר, שבא חשבון עם ההישארות של עצמו בארון. ו\"שאהבה נפשי\" של הראל סקעת, שחגג יציאה מהארון דרך זכרונות מבית הכנסת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/755063/",
+       "id": "755063",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | אריק איינשטיין",
+       "logo": "https://www.kan.org.il/media/kjhhpsc4/animation-arik-_fs.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o6i1pie8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-30",
+       "plot": "סיפורם של שלושה שירים גדולים של אריק איינשטיין, במלאת 10 שנים לפטירתו. השירים משרטטים את דמותו ואת אהבתו למדינת ישראל: סע לאט, סן פרנסיסקו על המים, ויושב מול הנייר. עם מיקי גבריאלוב, דפנה ארמוני ופיטר רוט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/633500/",
+       "id": "633500",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | שירי תקווה",
+       "logo": "https://www.kan.org.il/media/jykm30s3/master-tikvacopy.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5xjgp1hl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-23",
+       "plot": "סיפורם של שלושה שירי תקווה ישראלים, שנולדו מתוך מצוקה אישית של היוצרים, אבל הפכו להמנוני תקווה של מדינה שלמה: בגלל הרוח, שיר תקווה וימים של שקט. עם לאה ושלומי שבת, שמעון בוסקילה, מיכאל וקנין ולהקת לולה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/620694/",
+       "id": "620694",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | שירים שהגיעו מיוון",
+       "logo": "https://www.kan.org.il/media/bcsiutm4/אויבים-עונה-2_יוטיוב-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pw1hjx0i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-07",
+       "plot": "תוכנית מיוחדת לחנוכה המביאה את סיפורם של שלושה שירים ישראלים עם נשמה יוונית: \"נערה ממש אוצר\", \"עיניים שלי\" ו\"מונו\". משתתפים: שמעון פרנס, גילה אלמגור, יהודה קיסר, יהודה פוליקר, שלומי סרנגה ויוסי גיספן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/476816/",
+       "id": "476816",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | רבין",
+       "logo": "https://www.kan.org.il/media/fishw1i5/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3a3ladcg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-11",
+       "plot": "סיפורם של שלושה שירים המשרטטים נקודות מפתח בחייו, ובמותו של יצחק רבין. מהניצחון במלחמת ששת הימים, דרך הימים הסוערים של הסכמי אוסלו ועד לרצח הטראומטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/441566/",
+       "id": "441566",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | ט\"ו באב",
+       "logo": "https://www.kan.org.il/media/jdahrlxu/tu-beav_5721.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_luid3b19/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-11",
+       "plot": "לרגל ט\"ו באב, סיפורם של 3 שירי אהבה גדולים: \"הכי יפה בעולם\" שנוצר מהתאהבותו של מאור כהן בתמונה של קרן מיכאלי, \"אחרי כל השנים\" של עומר אדם שנולד מסיפור משפחתי דרמטי ו\"בנים\" של נונו, שהפכה פרידה ללהיט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/441564/",
+       "id": "441564",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | יום הכיפורים",
+       "logo": "https://www.kan.org.il/media/40rflvm4/imgid-98759_aa.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5xqzd1ht/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-15",
+       "plot": "שלושה סיפורים מאחורי שלושה שירים שנולדו בעקבות מלחמת יום הכיפורים. דני סנדרסון, אלון אולארצ'יק, רמי פורטיס ואחרים יחשפו את חוויות המלחמה והשפעתה על יצירת \"נתתי לה חיי\", \"היכן החייל\" ו\"שקיעתה של הזריחה\".",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/364515/",
+       "id": "364515",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | אירוויזיון",
+       "logo": "https://www.kan.org.il/media/zu0plu2v/שלושה-שירים-אירוויזיון-בלי-לוגו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_52nayuiz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "הסיפורים מאחורי שלושה שירי אירוויזיון ישראליים גדולים: \"אי שם\", השיר עמו ייצגה אילנית את ישראל ב 1979; \"אבניבי\", הזכייה הראשונה של ישראל בביצועו של יזהר כהן; ו\"חי\" - שאותו עפרה חזה שרה על אדמת גרמניה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/361579/",
+       "id": "361579",
+       "season": 1
+      },
+      {
+       "name": "שלושה שירים | יום העצמאות",
+       "logo": "https://www.kan.org.il/media/mwxfnbkk/s042304400_42_22_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vxjcw3wt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "ספיישל בהשראת ההסכת \"שיר אחד\". הסיפורים מאחורי שלושה שירי אהבה למדינה שנכתבו בדורות שונים מ\"יונתן סע הביתה\" שתיעד מפגש ישראלים צעירים בלונדון, דרך \"איזו מדינה\" של אלי לוזון ויוני רועה, ועד ל\"עשיתי\" של ג'ימבו ג'יי, על ההליכה הישראלית בתלם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/s1/327706/",
+       "id": "327706",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שלושה שירים - הצצה | כוורת",
+       "logo": "https://www.kan.org.il/media/41glpr1m/שלושה-שירים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tj4o9sae/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-15",
+       "plot": "\"היו לנו איזה 15 מעריצים, כולל אותנו כמובן\": חברי כוורת על הקמת הלהקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327420/920692/",
+       "id": "920692"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

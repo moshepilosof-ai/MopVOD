@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - למה ככה?",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12909/",
+   "series_id": "12909",
+   "updated": "2026-10-28 11:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "למה ככה? - הצצה | עשירים ועניים",
+       "logo": "https://www.kan.org.il/media/facdmea2/למה-ככה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ww0tpvf2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "פרופסור דן אריאלי בניסוי חברתי: מה קורה אם לאחד יש הרבה כסף ולשני מעט? כדי לגלות את התשובה הוא חילק את המשתתפים לשתי קבוצות, והושיב אותם לשחק מונופול. עם חוקים קצת שונים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12909/858931/",
+       "id": "858931"
+      },
+      {
+       "name": "למה ככה? - הצצה | מזל שנולדנו",
+       "logo": "https://www.kan.org.il/media/pmvh0dvj/למה-ככה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wuue3ylz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "כשמדברים על מזל, אנשים שוכחים לקחת בחשבון את רגע הלידה שלנו. מתמטיקאים חישבו את הסתברות הולדתו של אדם לצאת בדיוק הוא והגיעו ליחס של 1 ל-400 טריליון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12909/858925/",
+       "id": "858925"
+      },
+      {
+       "name": "למה ככה? | פרק 4 - שקר וכזב",
+       "logo": "https://www.kan.org.il/media/1zgb5ycb/https-kanstaticazureedgenet-download-pictures-2022-1-24-imgid-68097_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4ig6uzrd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "למה אנחנו משקרים? האם אנחנו נולדים שקרנים או הופכים לשקרנים? האם יש מצבים בהם קל יותר לשקר? פרופ' דן אריאלי מסביר על המקום המתעתע של השקרים בחיינו. שקרים, אי אפשר איתם - אי אפשר בלעדיהם. פרק אחרון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12909/139723/",
+       "id": "139723"
+      },
+      {
+       "name": "למה ככה? | פרק 3 - ביש ומזל",
+       "logo": "https://www.kan.org.il/media/vocnpajp/https-kanstaticazureedgenet-download-pictures-2022-1-12-imgid-67445_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c3cu2bsy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרופ' דן אריאלי בסדרה על קבלת החלטות בעזרת כלים מדעיים. הפעם: האם \"מזל\" באמת קיים או שזו בעצם פרשנות לא נכונה של סטטיסטיקה? מהן ההטיות האנושיות שגורמות לנו להרגיש חסרי/ברי מזל? והאם אפשר להשפיע על המזל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12909/139720/",
+       "id": "139720"
+      },
+      {
+       "name": "למה ככה? | פרק 2 - חוסר ושוויון",
+       "logo": "https://www.kan.org.il/media/b41kexiq/https-kanstaticazureedgenet-download-pictures-2022-1-5-imgid-67049_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_71tl63gq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרופ' דן אריאלי בסדרה על קבלת החלטות בעזרת כלים מדעיים. הפעם: מהן הדרכים הסמויות בהן כסף משפיע עלינו? איך משפיע חוסר שוויון כלכלי על תחושת הערך העצמי? ואיך משפיעה כלכלת השוק החופשי על החברה האנושית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12909/139717/",
+       "id": "139717"
+      },
+      {
+       "name": "למה ככה? | פרק 1 - שינוי ודעה",
+       "logo": "https://www.kan.org.il/media/z2xazdxt/https-kanstaticazureedgenet-download-pictures-2021-12-29-imgid-66641_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_onlohyts/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרופ' דן אריאלי בסדרה על השאלות וההחלטות שמטרידות את כולנו. הפעם נשאל למה כדאי לנו לשנות דעה? למה זה כל כך קשה? איך היה נראה העולם אם לא היינו משנים את דעתנו, ומה כדאי לעשות בשביל שינוי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12909/139512/",
+       "id": "139512"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

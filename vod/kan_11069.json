@@ -1,0 +1,55 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ובמקום הראשון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/eurovision-2023/p-11069/",
+   "series_id": "11069",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ובמקום הראשון | פרק 4 - אינסטנט בפיתה",
+       "logo": "https://www.kan.org.il/media/kezp2nsy/2023-3-14-imgid-95935_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rumwtvlt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תור הזהב של המוזיקה המזרחית וכיבוש הארץ על ידי יוצאי כוכב נולד, הביאו לאירוויזיון של שנות ה-2000 סאונד אחר, שבחו\"ל לא ממש הבינו",
+       "page": "https://www.kan.org.il/content/kan/eurovision-2023/p-11069/162577/",
+       "id": "162577"
+      },
+      {
+       "name": "ובמקום הראשון | פרק 3 - לילה טוב אירופה",
+       "logo": "https://www.kan.org.il/media/vwhf51hc/2023-3-14-imgid-95933_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_geholeat/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שנות ה-90 התחילו עם מלחמה וטרגדיות, אבל בגזרת האירוויזיון היה שמח - עם דץ ודצה, אדם, \"זודיאק\" וגם הדיווה שסחפה את אירופה",
+       "page": "https://www.kan.org.il/content/kan/eurovision-2023/p-11069/162571/",
+       "id": "162571"
+      },
+      {
+       "name": "ובמקום הראשון | פרק 2 - שביל הבריחה",
+       "logo": "https://www.kan.org.il/media/dtqdnbwp/2023-3-14-imgid-95932_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ddxhtd6h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כמה שערוריות ובדיחה אחת מאוד מוצלחת - שנות ה-80 היו תור הזהב של הקדמים",
+       "page": "https://www.kan.org.il/content/kan/eurovision-2023/p-11069/162568/",
+       "id": "162568"
+      },
+      {
+       "name": "ובמקום הראשון | פרק 1 - בית קטן בערבה",
+       "logo": "https://www.kan.org.il/media/l2ads1hs/2023-3-14-imgid-95931_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qn6kd4cm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בין אירועי שנות ה-70 שנכנסו לזיכרון הקולקטיבי הישראלי, נמצאת גם הזכייה הראשונה של ישראל באירוויזיון והאפרו של יזהר כהן",
+       "page": "https://www.kan.org.il/content/kan/eurovision-2023/p-11069/162565/",
+       "id": "162565"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

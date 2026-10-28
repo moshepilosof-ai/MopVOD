@@ -1,0 +1,160 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - המזח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-538817/",
+   "series_id": "538817",
+   "updated": "2026-10-28 09:56",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אחרי המזח | פרק 5",
+       "logo": "https://www.kan.org.il/media/i5ajb530/screenshot-2025-05-25-093000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xewjamsc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-21",
+       "plot": "הלוחמים מהמעוזים בסיני מספרים על הטראומה מהשבי המצרי ועל היחס הבלתי נתפס לו זכו מהממסד אחרי שחזרו ארצה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/908723/",
+       "id": "908723",
+       "season": 1
+      },
+      {
+       "name": "אחרי המזח | פרק 4",
+       "logo": "https://www.kan.org.il/media/kaidlaof/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hn63jw7q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-18",
+       "plot": "חייל המזח מסביר לכוכב הסדרה מיכאל אלוני למה העדיף למות ולא להיכנע, ומספר איך העז להחטיף לשוביו בכלא בקהיר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/904600/",
+       "id": "904600",
+       "season": 1
+      },
+      {
+       "name": "אחרי המזח | פרק 3",
+       "logo": "https://www.kan.org.il/media/wzxinvnv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kk7q1fs4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-11",
+       "plot": "אביחיל פלד מספר לקובי מידן על קרב הגבורה, הפציעה וההתגלות האלוהית שחווה על סף מוות. ובתיה ורבין ואביב פנקס, שמגלמת אותה, מדברות על הרגעים הדרמטים אז ואחרי ה-7.10",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/901093/",
+       "id": "901093",
+       "season": 1
+      },
+      {
+       "name": "אחרי המזח | פרק 2",
+       "logo": "https://www.kan.org.il/media/zqhjtm0x/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uugcy0oc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "הדמיון המצמרר בין הלוחמים במעוזים בסיני ב-73' לתצפיתניות בנחל עוז, והאמת הקשה על גופי המודיעין שטעו ומדוע הם ימשיכו לטעות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/896384/",
+       "id": "896384",
+       "season": 1
+      },
+      {
+       "name": "אחרי המזח | פרק 1",
+       "logo": "https://www.kan.org.il/media/hkdf5kcg/לעריכה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rlw3l1i0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-21",
+       "plot": "קובי מידן בשיחה עם מפקד מוצב המזח ב-73', שלמה ארדינסט, והשחקן שמגלם אותו, דניאל גד. ואלוף במיל, גרשון הכהן ופרופ' אורי בר יוסף שמנתחים את הקריסה ב-73' וב-23' ומתווכחים כיצד למנוע את המחדל הבא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/888020/",
+       "id": "888020",
+       "season": 1
+      },
+      {
+       "name": "המזח | פרק 5 - רגע האמת",
+       "logo": "https://www.kan.org.il/media/hs1mc4qs/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gyfpsaky/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-14",
+       "plot": "לוחמי המזח נכנעים באופן יזום לפי המתווה שהציע הרופא ומועברים לכלא בקהיר, שם הם עוברים חוויות קשות. שלמה המ\"פ מסיים את עדותו בוועדת אגרנט, וד\"ר נחום יוצא מחקירתו במצ\"ח מטולטל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/609201/",
+       "id": "609201",
+       "season": 1
+      },
+      {
+       "name": "המזח | פרק 4 - \"אני משנה את הפקודה\"",
+       "logo": "https://www.kan.org.il/media/osuiaw1g/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a7vmyi27/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-14",
+       "plot": "לאחר ניסיון של חיל הים להגיע למוצב הנצור, במטכ״ל פורץ ויכוח האם ראוי שלוחמי המזח יכנעו באופן יזום, או שעליהם להחזיק בכל מחיר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/609199/",
+       "id": "609199",
+       "season": 1
+      },
+      {
+       "name": "המזח | פרק 3 - האופציה של הדוקטור",
+       "logo": "https://www.kan.org.il/media/jp4liiql/המזח-פרק-3-האופציה-של-הדוקטור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mhuvabgz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-04",
+       "plot": "המצרים עוברים למלחמת התשה כנגד המוצב והציוד הרפואי אוזל. ד\"ר נחום מתחיל להתעמת עם שלמה המ״פ, ולאחר שאחד החיילים נפצע באורך אנוש, נחום דוחף לכניעה מאחורי גבו של שלמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/555866/",
+       "id": "555866",
+       "season": 1
+      },
+      {
+       "name": "המזח | פרק 2 - האדם הוא הפלדה",
+       "logo": "https://www.kan.org.il/media/beof3b15/מזח-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h3g7trtp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-04",
+       "plot": "לוחמי השריון מנסים להגן בחירוף נפש על המוצב הנצור מהסתערות טנקים מצריים. בינתיים בעורף, אשת הרופא חרדה לגורלו ומנסה לאתר אותו. לאחר שהלוחמים מבינים מה עלה בגורלו של קו בר-לב, הם מתכוננים לקרב אחרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/555862/",
+       "id": "555862",
+       "season": 1
+      },
+      {
+       "name": "המזח | פרק 1 - מתקפת פתע",
+       "logo": "https://www.kan.org.il/media/dsph2bhg/מזח-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kx1e31tw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-04",
+       "plot": "דרמה חדשה המביאה את סיפורו האמיתי של מוצב ה\"מזח\" שנותר מבודד מאחורי קווי האויב עם פרוץ מלחמת יום הכיפורים. נחום, רופא מילואים נקלע למוצב מבודד בקצה תעלת סואץ, שם המלחמה תופסת אותו בהפתעה גמורה. בזמן שהמפקד שלמה ולוחמיו הודפים את התקפות האויב, נחום נאבק על חיי הפצועים הרבים בתאג״ד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/555859/",
+       "id": "555859",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "המזח | טריילר",
+       "logo": "https://www.kan.org.il/media/t52j24ps/2_clean-cover-image_1920x1080_no-logo-המזח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_el83xqul/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "סיפורו של מוצב ה\"מזח\" שנותר מבודד מאחורי קווי האויב לאחר מתקפת הפתע במלחמת יום הכיפורים. לאחר שבוע של לחימה, על המפקד לבחור בין קרב עד הכדור האחרון, ובין תוכניתו של רופא המילואים שעשויה להציל את חייהם. בהשתתפות מיכאל אלוני, דניאל גד, שמואל וילוז'ני ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/922294/",
+       "id": "922294"
+      },
+      {
+       "name": "מה באמת קרה במוצב המזח?",
+       "logo": "https://www.kan.org.il/media/4fjimzg0/1_vpi9lq1s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ysxtlhq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "\"מעטים מול רבים\": יוצרי הפקת הענק והשחקנים מספרים על הקרב הקשה וההיסטורי שהתרחש על גדות תעלת סואץ במלחמת יום הכיפורים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/896416/",
+       "id": "896416"
+      },
+      {
+       "name": "המזח - הצצה | \"זה תרגיל גדול, המודיעין יודע\"",
+       "logo": "https://www.kan.org.il/media/pulg34lm/המזח-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oivnq74m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "סימני האזהרה לפני מלחמת יום הכיפורים היו שם כל הזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/855879/",
+       "id": "855879"
+      },
+      {
+       "name": "המזח - הצצה | \"תפסו אותנו עם המכנסיים למטה\"",
+       "logo": "https://www.kan.org.il/media/y1co5uiy/המזח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ecwat92/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "המצרים תוקפים את מוצב ה\"מזח\" בתחילת מלחמת יום הכיפורים, והלוחמים מבקשים תגבורת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-538817/855873/",
+       "id": "855873"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

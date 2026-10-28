@@ -1,0 +1,325 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן חדשות +",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/",
+   "series_id": "1080424",
+   "updated": "2026-10-28 11:27",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 20.10.26",
+       "logo": "https://www.kan.org.il/media/uckdxb5o/חדשותפלוסלאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-20",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1111136/",
+       "id": "1111136"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 19.10.26",
+       "logo": "https://www.kan.org.il/media/4keb2h5k/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2256933/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-19",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1110758/",
+       "id": "1110758"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 18.10.26",
+       "logo": "https://www.kan.org.il/media/qwrnou1t/2f8e2167-b41e-4ad1-b0b2-3f190cb9f803.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2256561/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-18",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1110432/",
+       "id": "1110432"
+      },
+      {
+       "name": "כאן חדשות+ | 13.10.26",
+       "logo": "https://www.kan.org.il/media/kphbtbxp/כאן-חדשות-plus.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254994/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-13",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1109035/",
+       "id": "1109035"
+      },
+      {
+       "name": "כאן חדשות+ | 11.10.26",
+       "logo": "https://www.kan.org.il/media/yjtgj0k5/1920x1080_4800_hp00_43_25_01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254305/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-11",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1108283/",
+       "id": "1108283"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 06.10.26",
+       "logo": "https://www.kan.org.il/media/5cwd1y4c/חדשותplus.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252829/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-06",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1106726/",
+       "id": "1106726"
+      },
+      {
+       "name": "כאן חדשות+ עם ליאל קייזר | 04.10.26",
+       "logo": "https://www.kan.org.il/media/q5jhndvx/כאןplus_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252162/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-04",
+       "plot": "ליאל קייזר עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1105938/",
+       "id": "1105938"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 29.09.26",
+       "logo": "https://www.kan.org.il/media/o1aohbdb/פל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250443/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-29",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1104446/",
+       "id": "1104446"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 28.09.26",
+       "logo": "https://www.kan.org.il/media/auej50ow/חדשות-פלוז.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250277/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1104081/",
+       "id": "1104081"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 27.09.26",
+       "logo": "https://www.kan.org.il/media/tgpat25c/cfb041a0-9587-41a8-8b0f-a1feb25c86c7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249838/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1103688/",
+       "id": "1103688"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 22.09.26",
+       "logo": "https://www.kan.org.il/media/npgjv4bm/b1a8a787-96ea-4794-bc58-40fdcddfa515.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248346/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-22",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1101841/",
+       "id": "1101841"
+      },
+      {
+       "name": "כאן חדשות+ | 15.09.26",
+       "logo": "https://www.kan.org.il/media/k00jud4w/תמנוה-אתר-חדשות-plus.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246041/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1099932/",
+       "id": "1099932"
+      },
+      {
+       "name": "כאן חדשות+ | 14.09.26",
+       "logo": "https://www.kan.org.il/media/kdthvjbq/plus.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245851/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1099471/",
+       "id": "1099471"
+      },
+      {
+       "name": "כאן חדשות+ עם שרון דוידוביץ' | 08.09.26",
+       "logo": "https://www.kan.org.il/media/3rnfev5h/f62d1fd8-5f37-4113-a8a4-474d5a294829.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2243989/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-08",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1097705/",
+       "id": "1097705"
+      },
+      {
+       "name": "כאן חדשות+ עם ליאל קייזר | 07.09.26",
+       "logo": "https://www.kan.org.il/media/zi2dsxy3/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2243537/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-07",
+       "plot": "ליאל קייזר עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1097258/",
+       "id": "1097258"
+      },
+      {
+       "name": "כאן חדשות+ עם ליאל קייזר | 06.09.26",
+       "logo": "https://www.kan.org.il/media/ucig0qei/ecdb06ee-3b6b-4f79-9592-0bc3d0694a03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2243336/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-06",
+       "plot": "ליאל קייזר עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1096862/",
+       "id": "1096862"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 01.09.26",
+       "logo": "https://www.kan.org.il/media/1tdpe430/פלוסלאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241663/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-01",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1095071/",
+       "id": "1095071"
+      },
+      {
+       "name": "כאן חדשות+ עם ליאל קייזר | 31.08.26",
+       "logo": "https://www.kan.org.il/media/ucubgval/כאן-חדשות-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241191/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-31",
+       "plot": "ליאל קייזר עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1094675/",
+       "id": "1094675"
+      },
+      {
+       "name": "כאן חדשות+ עם אליאור לוי | 30.08.26",
+       "logo": "https://www.kan.org.il/media/lttlklka/פלוסס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240976/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-30",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1094259/",
+       "id": "1094259"
+      },
+      {
+       "name": "כאן חדשות+ עם ליאל קייזר | 25.08.26",
+       "logo": "https://www.kan.org.il/media/0acbuvlr/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239171/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-25",
+       "plot": "ליאל קייזר עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1092711/",
+       "id": "1092711"
+      },
+      {
+       "name": "כאן חדשות+ | 24.08.26",
+       "logo": "https://www.kan.org.il/media/j0plmp3j/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238972/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-24",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1092366/",
+       "id": "1092366"
+      },
+      {
+       "name": "כאן חדשות+ | 23.08.26",
+       "logo": "https://www.kan.org.il/media/dsrj5h14/כאןplus-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238516/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1092085/",
+       "id": "1092085"
+      },
+      {
+       "name": "כאן חדשות+ | 18.08.26",
+       "logo": "https://www.kan.org.il/media/q2smigs2/חדשות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236948/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1090448/",
+       "id": "1090448"
+      },
+      {
+       "name": "כאן חדשות+ | 17.08.26",
+       "logo": "https://www.kan.org.il/media/s4nflmal/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236486/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-17",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1089980/",
+       "id": "1089980"
+      },
+      {
+       "name": "כאן חדשות+ | 16.08.26",
+       "logo": "https://www.kan.org.il/media/jutke2uc/plus.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236292/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-16",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1089544/",
+       "id": "1089544"
+      },
+      {
+       "name": "כאן חדשות+ | 11.08.26",
+       "logo": "https://www.kan.org.il/media/nxpoeh3f/plus.jfif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234641/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-11",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1088066/",
+       "id": "1088066"
+      },
+      {
+       "name": "כאן חדשות+ | 10.08.26",
+       "logo": "https://www.kan.org.il/media/ym1n0nzk/כאן-חדשות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234447/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1087708/",
+       "id": "1087708"
+      },
+      {
+       "name": "כאן חדשות+ | 09.08.26",
+       "logo": "https://www.kan.org.il/media/niwddgqc/פלוס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233957/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-09",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1087339/",
+       "id": "1087339"
+      },
+      {
+       "name": "כאן חדשות + עם אליאור לוי | 04.08.26",
+       "logo": "https://www.kan.org.il/media/qoufc4hk/1865d443-c481-4a42-9288-5e339c5ae8a7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232373/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1085554/",
+       "id": "1085554"
+      },
+      {
+       "name": "כאן חדשות + עם שרון דוידוביץ' | 03.08.26",
+       "logo": "https://www.kan.org.il/media/a3tbqmr0/פלוס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232179/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-03",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1085166/",
+       "id": "1085166"
+      },
+      {
+       "name": "כאן חדשות + עם שרון דוידוביץ' | 02.08.26",
+       "logo": "https://www.kan.org.il/media/fehkrzje/כאן-חדשות-פלוס-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231717/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1084826/",
+       "id": "1084826"
+      },
+      {
+       "name": "כאן חדשות + עם אליאור לוי | 28.07.26",
+       "logo": "https://www.kan.org.il/media/25udoc4s/שבע.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230197/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-28",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1082573/",
+       "id": "1082573"
+      },
+      {
+       "name": "כאן חדשות + עם שרון דוידוביץ' | 27.07.26",
+       "logo": "https://www.kan.org.il/media/etspdgkt/54f67436-e37b-4cad-b761-3528bfce3f79.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229723/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-27",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1082088/",
+       "id": "1082088"
+      },
+      {
+       "name": "כאן חדשות + עם שרון דוידוביץ' | 26.07.26",
+       "logo": "https://www.kan.org.il/media/4grekfyw/חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229536/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-26",
+       "plot": "שרון דוידוביץ' עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1081708/",
+       "id": "1081708"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

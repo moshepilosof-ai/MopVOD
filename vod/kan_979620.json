@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - דום לב",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-979620/",
+   "series_id": "979620",
+   "updated": "2026-10-28 09:40",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "דום לב | פרק 3 - השימוע",
+       "logo": "https://www.kan.org.il/media/hjwphukk/אקי-אבני-ואלכס-פלג-דום-לב-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1962721/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-11",
+       "plot": "בפרק סיום, בית החולים עורך שימוע בעניין החולה המנותח והפרטים מודלפים לעיתונות. חיפוש אחר מסמכים מפלילים וסתימת פיות, איומים על בתו של המנותח ומאבק על האמת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-979620/s1/979669/",
+       "id": "979669",
+       "season": 1
+      },
+      {
+       "name": "דום לב | פרק 2 - הסכסוך",
+       "logo": "https://www.kan.org.il/media/i51f40d4/נבו-קמחי-דום-לב-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1962704/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-11",
+       "plot": "לאחר שהחולה המנותח, שהוגדר כמת מתייצב, מתפתח ויכוח סוער בין ד\"ר אור לפרופסור אלכסנדר בעקבותיו ד\"ר אור מושעה מתפקידו. דברים אפלים מתרחשים מאחורי הקלעים וכדי לחשוף את השחיתות המערכתית, חובר ד\"ר אור לעיתונאי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-979620/s1/979667/",
+       "id": "979667",
+       "season": 1
+      },
+      {
+       "name": "דום לב | פרק 1 - הפיגוע",
+       "logo": "https://www.kan.org.il/media/rxypk3gv/דום-לב-1-אקי-אבני-וישאל-פוליאקוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1962683/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-11",
+       "plot": "מנהל המחלקה מתעכב בפקק תנועה בדרך לבית החולים, כשפצועים מפיגוע מגיעים לבית החולים. ד\"ר אור מנהל את האירוע בהצלחה ומבטיח את מינוי כסגן מנהל המחלקה. עיתונאי מקומי בוחן את מחדל היעדרותו של המנהל, וחולה עם גידול נדרש לניתוח דחוף העולה כסף רב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-979620/s1/979663/",
+       "id": "979663",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "דום לב | פתיח",
+       "logo": "https://www.kan.org.il/media/01wbsdej/אקי-אבני-וישראל-פוליאקוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1962821/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-11",
+       "plot": "הפתיח של \"דום לב\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-979620/979732/",
+       "id": "979732"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

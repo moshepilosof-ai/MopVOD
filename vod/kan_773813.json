@@ -1,0 +1,93 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שיחות קיץ | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-773813/",
+   "series_id": "773813",
+   "updated": "2026-10-28 13:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שיחות קיץ | תוכנית 6 - יואל בן-פורת",
+       "logo": "https://www.kan.org.il/media/wqrpjnmk/יואל-בן-פורת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bt807gyq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-16",
+       "plot": "תא\"ל (במיל') מחיל המודיעין מספר על ניסיונותיו להזהיר על פרוץ מלחמת יום כיפור, על ילדותו באירופה הנאצית ועל עלייתו לארץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773813/s1/773832/",
+       "id": "773832",
+       "season": 1
+      },
+      {
+       "name": "שיחות קיץ | תוכנית 5 - רחל אלקיים",
+       "logo": "https://www.kan.org.il/media/xv0nlawg/untitled-1-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xu8ndf0s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-16",
+       "plot": "פגישה עם ילידת טבריה המספרת על ילדותה בעיר המעורבת לפני קום המדינה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773813/s1/773826/",
+       "id": "773826",
+       "season": 1
+      },
+      {
+       "name": "שיחות קיץ | תוכנית 4 - דייויד לואיס",
+       "logo": "https://www.kan.org.il/media/rukjxtb3/untitled-1-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_czjulu7e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-16",
+       "plot": "סיפורו של אחד מעשירי העולם ובעל רשת המלונות הגדולה באילת שגדל כנער עני באנגליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773813/s1/773825/",
+       "id": "773825",
+       "season": 1
+      },
+      {
+       "name": "שיחות קיץ | תוכנית 3 - רפי סיטון",
+       "logo": "https://www.kan.org.il/media/l0qcem1c/untitled-1-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gtxd0yz6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-16",
+       "plot": "איש שירות המודיעין שגדל בסוריה, ברח לארץ והפעיל מרגלים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773813/s1/773824/",
+       "id": "773824",
+       "season": 1
+      },
+      {
+       "name": "שיחות קיץ | תוכנית 2 - דני אביחיל",
+       "logo": "https://www.kan.org.il/media/0supe4md/untitled-1-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tn3yvsi2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-16",
+       "plot": "סיפורם של בעל מאפיית אביחיל הירושלמית ועובדו הלוקה בשיתוק מוחין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773813/s1/773822/",
+       "id": "773822",
+       "season": 1
+      },
+      {
+       "name": "שיחות קיץ | תוכנית 1 - פול דיקאן",
+       "logo": "https://www.kan.org.il/media/wnchiea3/untitled-1-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a5gywj3z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-16",
+       "plot": "סיפורו של העיתונאי הצרפתי שנולד בווייטנאם, גדל באלג'יריה והתיישב במושב יפית שבבקעת הירדן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773813/s1/773814/",
+       "id": "773814",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שיחות קיץ - הצצה| בחצר ביתו של העיתונאי הצרפתי פול דיקאן",
+       "logo": "https://www.kan.org.il/media/ky4hikob/שיחות-קיץ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ewzzeu8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-26",
+       "plot": "מושב יפות,  בחצר ביתו של העיתונאי הצרפתי פול דיקאן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773813/864900/",
+       "id": "864900"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

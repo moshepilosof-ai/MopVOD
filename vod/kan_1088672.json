@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הגפרור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1088672/",
+   "series_id": "1088672",
+   "updated": "2026-10-28 09:46",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הגפרור",
+       "logo": "https://www.kan.org.il/media/xxebcvkg/1920x1080_no-logo_הגפרור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891548/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-13",
+       "plot": "סיפורו של ציון כהן, פנסיונר וחבר קיבוץ שהצית בתי דין רבניים כדי לעורר את הציבור הישראלי למחאה על חוסר הפרדה בין דת למדינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1088672/1088673/",
+       "id": "1088673"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

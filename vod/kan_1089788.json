@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כסף משלהן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1089788/",
+   "series_id": "1089788",
+   "updated": "2026-10-28 11:30",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "כסף משלהן | פרק 3 - יורשות",
+       "logo": "https://www.kan.org.il/media/l3cbqbol/כסף-משלהן-3-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236433/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-17",
+       "plot": "סיפורן של נשים שנולדו לתוך אימפריות עסקיות משפחתיות ונאלצו להוכיח את יכולותיהן ועצמאותן גם מחוץ לצילו של האב או הבעל. מה מסתתר מאחורי סטיגמת \"כפית הזהב\", ואיך הן מתמודדות עם השילוב של משפחה ועסקים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1089788/s1/1089800/",
+       "id": "1089800",
+       "season": 1
+      },
+      {
+       "name": "כסף משלהן | פרק 2 - עצמאית בשטח",
+       "logo": "https://www.kan.org.il/media/idffrybm/44123400_16_57_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236432/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-17",
+       "plot": "מפגש מעורר השראה עם היזמיות, שהחליטו שלא להמתין להזדמנות, אלא ליצור אותה בעצמן. הפרק צולל לדרך שעברו נשים שהגשימו חלום עסקי, בעולם שלא תמיד האמין בהן, ובוחן – האם המכשולים והספקות רק חיזקו את הנחישות שלהן להצליח?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1089788/s1/1089796/",
+       "id": "1089796",
+       "season": 1
+      },
+      {
+       "name": "כסף משלהן | פרק 1 - בודדות בצמרת",
+       "logo": "https://www.kan.org.il/media/xigbmfmr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236431/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-17",
+       "plot": "סדרת דוקו חדשה. סיפורן של הנשים שהגיעו לצמרת הכלכלה הישראלית, בהן רקפת רוסק-עמינח ועדי סופר-תאני. איך ניפצו את תקרות הזכוכית במגזר גברי לחלוטין, מהם המחירים ששילמו על כך, ואלו תובנות צברו לאורך הדרך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1089788/s1/1089792/",
+       "id": "1089792",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כסף משלהן | טריילר",
+       "logo": "https://www.kan.org.il/media/wkhl5cew/image-21.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237720/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1089788/1091316/",
+       "id": "1091316"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

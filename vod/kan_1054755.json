@@ -1,0 +1,849 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כתבות המונדיאל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1054755/",
+   "series_id": "1054755",
+   "updated": "2026-10-28 11:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שאקירה, ג׳סטין ו-BTS: מופע המחצית הביא את כל הכוכבים למגרש המונדיאל",
+       "logo": "https://www.kan.org.il/media/wedj3f0t/שאקירההה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227636/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "גם בהופעת המחצית, אמריקה ניסתה להוכיח שהיא הגדולה מכולן. מדונה, שאקירה וג׳סטין ביבר, וזו רק רשימה חלקית. איך מכניסים כמה שיותר אומנים לבמה אחת בעשר דקות?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1079370/",
+       "id": "1079370",
+       "season": 1
+      },
+      {
+       "name": "הפרידה של מסי מהחלום: ארגנטינה הפסידה לספרד בגמר המונדיאל",
+       "logo": "https://www.kan.org.il/media/mlxlgqtk/גשדגשד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227628/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "ארגנטינה, אלופת העולם לשנת 2022, הפסידה את התואר לספרד. במשך כל 90 דקות משחק הגמר, הארגנטינאים לא בעטו לשער, ובהארכה, הספרדים הצליחו להבקיע גול יחיד - שהפך אותם לאלופי העולם בכדורגל",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1079362/",
+       "id": "1079362",
+       "season": 1
+      },
+      {
+       "name": "בפעם השנייה בהיסטוריה: ספרד אלופת העולם בכדורגל",
+       "logo": "https://www.kan.org.il/media/1i2dvbyp/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227624/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "ספרד ניצחה את ארגנטינה בגמר המונדיאל - והפכה לאלופת העולם בכדורגל בפעם השנייה בתולדותיה. הספרדים לא נשארו אדישים, ויצאו לחגוג את הניצחון ברחובות",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1079350/",
+       "id": "1079350",
+       "season": 1
+      },
+      {
+       "name": "\"מסי לא יבקיע\": אוהדי ספרד מקווים שהנבחרת שלהם תנצח",
+       "logo": "https://www.kan.org.il/media/beccuctf/אוהדות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227075/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-19",
+       "plot": "ספרד וארנטינה מחכות לראות את השחקנים שלהן עולים על הדשא",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1078748/",
+       "id": "1078748",
+       "season": 1
+      },
+      {
+       "name": "ספרד או ארגנטינה? גמר המונדיאל הגיע והאוהדים מתכוננים ",
+       "logo": "https://www.kan.org.il/media/i2lfjnpk/מסי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227060/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-19",
+       "plot": "\"האם זו תהיה שוב ארגנטינה, עם מסי שיוביל אותה לגביע שני ברציפות ורביעי בסך הכל? או שזאת תהיה דווקא ספרד שתזכה בתואר בפעם השניה בהיסטוריה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1078721/",
+       "id": "1078721",
+       "season": 1
+      },
+      {
+       "name": "ספרד מתכוננת לגמר המונדיאל - ובונה על השחקן הצעיר לאמין ימאל",
+       "logo": "https://www.kan.org.il/media/p5pirdd0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226809/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-18",
+       "plot": "במדריד נערכים לגרנד פינלה מחר מול ארגנטינה. בונים על הנבחרת המיומנת, ועל האווירה ברחובות ספרד",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1078145/",
+       "id": "1078145",
+       "season": 1
+      },
+      {
+       "name": "מסי יעשה היסטוריה? ארגנטינה חולמת על זכייה במונדיאל",
+       "logo": "https://www.kan.org.il/media/uvtfmdy5/מסי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226800/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-18",
+       "plot": "לקראת הגמר הגדול של מונדיאל 2026 - ספרד מול ארגנטינה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1078127/",
+       "id": "1078127",
+       "season": 1
+      },
+      {
+       "name": "הקרב האחרון: ספרד או ארגנטינה? הדרך לגמר הגדול של מונדיאל 2026",
+       "logo": "https://www.kan.org.il/media/lnxl1soo/מסי-מתחבק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226383/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-17",
+       "plot": "פחות מיומיים נותרו למשחק שעשוי להעניק לארגנטינה גביע שני ברציפות. הדרך שעשו ספרד וארגנטינה לגמר הגדול של המונדיאל",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1077926/",
+       "id": "1077926",
+       "season": 1
+      },
+      {
+       "name": "עשרות אלפי דולרים: כמה עולה כרטיס לגמר המונדיאל?",
+       "logo": "https://www.kan.org.il/media/rfeludnk/11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226234DAMId/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "גמר המונדיאל מתקרב בצעדי ענק. על הדשא יהיו השחקנים הטובים בעולם, ובקהל: כוכבי עבר, שלל ידוענים, ויותר מ-80 אלף אוהדים ששילמו ממיטב כספם על כיסא באצטדיון. אז כמה באמת עולה כרטיס לגמר גביע העולם, ולמה המחירים זינקו?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1077670/",
+       "id": "1077670",
+       "season": 1
+      },
+      {
+       "name": "\"קסם בדקה ה-90\": ארגנטינה ניצחה את אנגליה ועלתה לגמר המונדיאל",
+       "logo": "https://www.kan.org.il/media/4nhejdv4/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226218/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "למרות שהמהפך הארגנטינאי הגיע רק ברגע האחרון, האוהדים לא איבדו תקווה לרגע. עם שריקת הסיום, האצטדיון באטלנטה הפך לרגע אחד לפסטיבל בבואנוס איירס. הניצחון שמעליו מרחף המפגש המיתולוגי במונדיאל 1986, וההכנות לגמר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1077664/",
+       "id": "1077664",
+       "season": 1
+      },
+      {
+       "name": "\"הסיפור האמיתי נמצא בטלפון\": כך דור ה-Z שינה את הצפייה במונדיאל",
+       "logo": "https://www.kan.org.il/media/jqxepb0m/10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226228/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "\"במשך עשרות שנים, כדורגל היה מוצר צריכה פסיבי: אנחנו ישבנו, וצפינו. אבל בעבור הדור הצעיר יותר - המשחק הוא רק חומר הגלם לטירוף שלם של תרבות פופ, ממים וכסף גדול שנודד למקומות חדשים. איך קרה שהכוח האמיתי עבר רשמית מהחליפות באולפנים ישירות לכיס שלכם, ואיך נראה המונדיאל הראשון שבו הצופה הפך רשמית לבמאי?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1077663/",
+       "id": "1077663",
+       "season": 1
+      },
+      {
+       "name": "מתקווה גדולה לאכזבה ענקית: האנגלים מתאוששים מההפסד בחצי גמר המונדיאל",
+       "logo": "https://www.kan.org.il/media/tu3plg45/קיין-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226230/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "\"הם קיוו, התפללו ורצו כל כך שהגביע יחזור הביתה אחרי 60 שנה – אבל זה לא הספיק. חצי הגמר כבר כמעט היה בכיס של אנגליה, אבל דקות לפני סיום המשחק, הארגנטינאים הפכו הכול. דב גיל-הר ליווה את האוהדים בלונדון בזמן המשחק שסיים את דרכם במונדיאל, בין ההתרגשות – לאכזבה הגדולה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1077659/",
+       "id": "1077659",
+       "season": 1
+      },
+      {
+       "name": "אנגליה תביס את ארגנטינה? האנגלים מתכוננים לקרב ענקים בחצי גמר המונדיאל",
+       "logo": "https://www.kan.org.il/media/bcmfpx2s/אנגלית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225624/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-15",
+       "plot": "\"השחקנים מתחממים, האוהדים כבר באצטדיון, ובכל העולם מחכים למפגש על הדשא בין שתי הענקיות אנגליה וארגנטינה. אחרי שישים שנה, הכדורגל יחזור הביתה? הכתבה של דב גיל-הר, מתוך מהדורת כאן חדשות 15.07.26\n\"",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1077053/",
+       "id": "1077053",
+       "season": 1
+      },
+      {
+       "name": "הלילה הגדול של ספרד: הביסו את צרפת ועלו לגמר המונדיאל",
+       "logo": "https://www.kan.org.il/media/grqfripp/צרפת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225608/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-15",
+       "plot": "צרפת הובסה בחצי גמר המונדיאל בידי ספרד, אלופת אירופה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1077016/",
+       "id": "1077016",
+       "season": 1
+      },
+      {
+       "name": "חצי הגמר מתחיל: ענקיות הכדורגל צרפת וספרד יתחרו על כרטיס לגמר",
+       "logo": "https://www.kan.org.il/media/5pajgsik/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225362/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-14",
+       "plot": "רגע לפני חצי הגמר הראשון והגדול בין שתי ענקיות הכדורגל: צרפת וספרד. רק אחת תעלה לגמר. ההכנות כבר מאחוריהן, ועכשיו נשארה רק ההתרגשות עד לשריקת הפתיחה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1076468/",
+       "id": "1076468",
+       "season": 1
+      },
+      {
+       "name": "אמבפה, מסי, קיין ולמאל: איזה כוכב יגיע לגמר הגדול? חצי הגמר יוצא לדרך",
+       "logo": "https://www.kan.org.il/media/gvypkwwp/s0544722_item1200_05_40_28still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224868/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "מחר יתחיל שלב חצי הגמר של המונדיאל, קיין יפגוש את מסי בקרב ענקים. הקבוצות - ויותר מהן אפילו, הכוכבים - נערכים לחצאי הגמר. הכתבה של חן ביאר מתוך מהדורת כאן חדשות 13.07.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1075961/",
+       "id": "1075961",
+       "season": 1
+      },
+      {
+       "name": "שימו לב לדופק: אוהדים שרופים? אתם בסיכון להתקף לב בזמן המונדיאל",
+       "logo": "https://www.kan.org.il/media/d4mllusi/לב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224876/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "מחקרים מראים שבמשחקים דרמטיים בטורנירים גדולים כמו המונדיאל, הסיכון של האוהדים ללקות בהתקף לב - עולה משמעותית. כל הנתונים המפתיעים, וגם: ניסוי מיוחד שבדק מה קרה ללב של אוהדים ארגנטינאים שרופים, בזמן משחק שמינית הגמר הדרמטי נגד מצרים",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1075948/",
+       "id": "1075948",
+       "season": 1
+      },
+      {
+       "name": "הכוכב הנורווגיהכוכב הנורווגי של המונדיאל: האלנד הלך הביתה בחצי הגמר - אבל העולם לא מפסיק לדבר עליו",
+       "logo": "https://www.kan.org.il/media/x5ip2ccu/11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224638/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "ארלינג האלנד אולי סיים את דרכו במונדיאל בהפסד - אבל הוא יכול להיות מרוצה: הכוכב הנורווגי זכה לעשרות מעריצים ברחבי העולם - ו-500 תינוקות שנקראו על שמו. כתבנו נפרד זמנית מהוויקינג האהוב, לפחות עד המונדיאל הבא",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1075377/",
+       "id": "1075377",
+       "season": 1
+      },
+      {
+       "name": "ארגנטינה חוגגת כל הדרך לחצי הגמר - וחולמת על גביע נוסף: רגעי ההכרעה של מונדיאל 2026",
+       "logo": "https://www.kan.org.il/media/gnbjmpao/כתבה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224642/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "מונדיאל 2026 מגיע לרגעי ההכרעה: בעוד שבוע בדיוק נגלה מי תניף את גביע העולם, ובינתיים ארגנטינה חוגגת כל הדרך לחצי הגמר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1075376/",
+       "id": "1075376",
+       "season": 1
+      },
+      {
+       "name": "האלנד מול קיין, מסי מול שווייץ: הקרבות על הכרטיס לחצי גמר המונדיאל",
+       "logo": "https://www.kan.org.il/media/meejwo4f/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224039/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-11",
+       "plot": "לילה של הכרעות במונדיאל, עם הכוכבים הגדולים של גביע העולם: האלנד נגד קיין, מסי חוזר אל הדשא - כל מה שמחכה לנו",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1074639/",
+       "id": "1074639",
+       "season": 1
+      },
+      {
+       "name": "אחת שרק כובשת ואחת שלא סופגת: בלגיה וספרד יפגשו במונדיאל",
+       "logo": "https://www.kan.org.il/media/b3gphzlm/בלגיה-ספרד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223828/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-10",
+       "plot": "בלגיה נגד ספרד: מפגש בין שתי נבחרות חזקות – אחת שלא מפסיקה לכבוש שערים, והשניה שלא ספגה אף שער אחד",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1074333/",
+       "id": "1074333",
+       "season": 1
+      },
+      {
+       "name": "מרוקו הפסידה לצרפת במונדיאל ומהומות פרצו בבירות אירופה - אבל לא בפריז",
+       "logo": "https://www.kan.org.il/media/uf3nakdn/אוהד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223826/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-10",
+       "plot": "מהומות מהגרים פרצו אמש בשלל ערי אירופה, לאחר הפסדה של מרוקו אפס-שתיים לנבחרת צרפת ברבע הגמר. וזאת כשפריז עצמה, בניגוד לכל התחזיות חגגה בשמחה ובאושר את הניצחון",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1074330/",
+       "id": "1074330",
+       "season": 1
+      },
+      {
+       "name": "מאמבפה ועד האלנד: הכוכבים שמובילים את הנבחרות במונדיאל לניצחונות",
+       "logo": "https://www.kan.org.il/media/uwgfqjra/אמבפה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223339/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-09",
+       "plot": "המונדיאל הזה יזכר בין היתר כטורניר שאליו הגיעו כמעט כל הכוכבים הגדולים בכדורגל של ימינו, ובהם אמבפה, האלנד, קיין, רונאלדו וכמובן מסי - שמובילים את הנבחרות לשלבים המכריעים וכובשים בלי הפסקה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1073922/",
+       "id": "1073922",
+       "season": 1
+      },
+      {
+       "name": "פריז תבער? לקראת רבע הגמר: בצרפת נערכים למהומות - לא משנה מה תהיה התוצאה",
+       "logo": "https://www.kan.org.il/media/4iqdjfx5/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223329/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-09",
+       "plot": "לקראת משחק רבע הגמר של צרפת נגד מרוקו, בפריז מתנהל מבצע אבטחה חסר תקדים מחשש לפרעות של אוהדים ברחובות - כפי שאירע בעבר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1073907/",
+       "id": "1073907",
+       "season": 1
+      },
+      {
+       "name": "התסכול המצרי אחרי ההפסד לארגנטינה - וההאשמות: \"השופט אוהב את מסי\"",
+       "logo": "https://www.kan.org.il/media/pqsppuif/מיש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223107/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "למרות הישג חסר תקדים - במצרים זועמים על ההפסד הכואב לארגנטינה. בקהיר מאשימים את השופטים, את פיפ\"א, ואיכשהו - גם את ישראל. כתבנו עם הדיכאון בארץ הנילוס",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1073473/",
+       "id": "1073473",
+       "season": 1
+      },
+      {
+       "name": "מסי קם לתחייה: המהפך הארגנטינאי שהדהים את העולם",
+       "logo": "https://www.kan.org.il/media/jdvenwuc/מסי-בוכה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223105/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "זה היה אחד המשחקים המותחים של גביע העולם – הארגנטינאים כססו ציפורניים, המצרים עצרו נשימה, אבל בסוף מסי רשם עוד מהפך היסטורי. כל הרגעים הגדולים של המשחק שהוביל את ארגנטינה לרבע הגמר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1073452/",
+       "id": "1073452",
+       "season": 1
+      },
+      {
+       "name": "\"מי רוצה חבילה?\": קלפי המונדיאל כובשים את ילדי ישראל",
+       "logo": "https://www.kan.org.il/media/oydnxx3i/8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222551/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-07",
+       "plot": "זו תחרות עם המון ציפיות, הפתעות, ולא מעט כסף. ולא, זה לא המונדיאל, אלא טירוף הקלפים שבא איתו. המתח שבפתיחת מעטפת קלפים, והמרוץ לאסוף את הכוכבים הגדולים כובשים את הילדים, ולא רק אותם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1072912/",
+       "id": "1072912",
+       "season": 1
+      },
+      {
+       "name": "סוף כואב: המונדיאל האחרון של רונאלדו וההפסד של ארה\"ב ",
+       "logo": "https://www.kan.org.il/media/oi3hjhdk/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222542/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-07",
+       "plot": "ההפסד של פורטוגל שסימל גם את סוף דרכו של רונאלדו בנבחרת, והתבוסה הכואבת של ארצות הברית",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1072906/",
+       "id": "1072906",
+       "season": 1
+      },
+      {
+       "name": "מונדיאל מהסרטים: נורווגיה הדיחה את ברזיל, אנגליה ניצחה ב-10 שחקנים",
+       "logo": "https://www.kan.org.il/media/nuankjmq/ניימר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222237/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-06",
+       "plot": "לילה דרמטי במונדיאל. ברזיל בדרך הביתה, וגם מקסיקו. נורווגיה והאלנד הדיחו את אלופת המונדיאל הבלתי מעורערת משנים עברו, שחווה את הטורניר הגרוע שלה מזה שנים רבות. וגם אנגליה רשמה הישג, כשניצחה את מקסיקו עם הרכב מצומצם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1072145/",
+       "id": "1072145",
+       "season": 1
+      },
+      {
+       "name": "ניצחונות ענק לקבוצות מצפון אפריקה: האוהדים מתחילים לחלום בגדול",
+       "logo": "https://www.kan.org.il/media/umpkawti/5_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2221648/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "הן אולי לא יניפו את הגביע – אבל מצרים ומרוקו לא האמינו שיגיעו רחוק כל כך. המרוקנים יצאו לרחובות לחגוג את העלייה לרבע הגמר בפעם השנייה ברציפות, הנבחרת מקהיר מתכוננת לפגוש את מסי אחרי העפלה היסטורית לשמינית הגמר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1071402/",
+       "id": "1071402",
+       "season": 1
+      },
+      {
+       "name": "מה מביאים למדינה שיש לה הכל? 250 לארה״ב תוך כדי המונדיאל",
+       "logo": "https://www.kan.org.il/media/kjjhekvz/4_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2221644/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "יום עצמאות פוגש את הטורניר הגדול בעולם, והתוצאה – קרנבל שאמריקה לא תשכח גם בעוד מאתיים וחמישים שנה. מהמשחקים המותחים ועד למופעי הזיקוקים – כך נראה סוף השבוע של החגיגות הגדולות ביותר באמריקה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1071397/",
+       "id": "1071397",
+       "season": 1
+      },
+      {
+       "name": "גם עם שחקן אחד פחות: ארה\"ב ניצחה את בוסניה בנוקאאוט - והאמריקנים מתאהבים בכדורגל",
+       "logo": "https://www.kan.org.il/media/13afny51/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220154/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-02",
+       "plot": "ארצות הברית אולי מארחת את המונדיאל – אבל היא לא רוצה להיות רק תפאורה יפה למשחקים אלא גם להביא תוצאות. הלילה היא עשתה את זה וניצחה את בוסניה בערב של חגיגה אמריקנית. כתבתנו עם סיכום המשחק, והאוהדים הנרגשים",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1069544/",
+       "id": "1069544",
+       "season": 1
+      },
+      {
+       "name": "חותרים אל הניצחון: נורווגיה עלתה לשמינית הגמר והאוהדים סוחפים את הטורניר",
+       "logo": "https://www.kan.org.il/media/snzffeox/ויק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219939/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-01",
+       "plot": "עם הכישרון הענק של ארלינג האלנד והאוהדים ה\"ויקינגים\", לנבחרת נורווגיה יש כל מה שצריך כדי להיות הפתעת המונדיאל. אחרי הניצחון הדרמטי אמש מול חוף השנהב, הסקנדינבים יתמודדו בקרב ענקים מול ברזיל בשמינית הגמר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1068890/",
+       "id": "1068890",
+       "season": 1
+      },
+      {
+       "name": "השף של צרפת: הנבחרת הצרפתית ממשיכה לשבור שיאים וגוברת על שוודיה",
+       "logo": "https://www.kan.org.il/media/ohblgjj0/אמ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219923/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-01",
+       "plot": "בקנזס, צרפת ממשיכה לטפס למעלה. אמבפה כבש במחצית הראשונה מול שוודיה, באקולה העלה לשתיים אפס, ובסוף אמבפה השלים צמד, והשווה את מספר הגולים שלו בטורניר ל-6 עד כה, בדיוק כמו מסי",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1068866/",
+       "id": "1068866",
+       "season": 1
+      },
+      {
+       "name": "טירוף במרוקו: הנבחרת ניצחה את הולנד בפנדלים - והאוהדים מפנטזים על זכייה",
+       "logo": "https://www.kan.org.il/media/gxyntim1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219602/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "במרוקו לא מפסיקים לחגוג את הניצחון בפנדלים על הולנד ואת העלייה לשלב שמינית הגמר. האוהדים שזוכרים שהנבחרת הגיעה במונדיאל הקודם למקום הרביעי - כבר מתחילים לחלום על הגביע הגדול. התמונות בכתבה של לירן אהרוני, מתוך מהדורת כאן חדשות 30.6.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1067965/",
+       "id": "1067965",
+       "season": 1
+      },
+      {
+       "name": "חגיגה של כדורגל: פרגוואי הדהימה את גרמניה, ברזיל עלתה עם גול בתוספת הזמן",
+       "logo": "https://www.kan.org.il/media/dhbdtcef/2אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219600/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "הדחות כואבות במונדיאל: גרמניה, הולנד ויפן מצאו את עצמן בחוץ אחרי שורה של משחקים מותחים שנמשכו עד הרגע האחרון. עם הרגעים הגדולים ועם הניצחונות המפתיעים, הכתבה של יואב זהבי, מתוך מהדורת כאן חדשות 30.6.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1067956/",
+       "id": "1067956",
+       "season": 1
+      },
+      {
+       "name": "עלייה היסטורית לשמינית גמר המונדיאל: קנדה זכתה לרגע משלה ודרום אפריקה התאכזבה",
+       "logo": "https://www.kan.org.il/media/tvppao24/קנדה-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218938/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-29",
+       "plot": "האוהדים הקנדים חגגו עלייה ראשונה והיסטורית לִשמינית הגמר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1067062/",
+       "id": "1067062",
+       "season": 1
+      },
+      {
+       "name": "עם קול סוחף והשוואות למאיר איינשטיין: שדרן המונדיאל שכבש את הרשת",
+       "logo": "https://www.kan.org.il/media/1sbeac3z/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218699/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-28",
+       "plot": "בין השמות שכולם מדברים עליהם - מסי, רונלדו, אמבפה - את ישראל מעסיק שם אחר, מקומי: שימי ששון, שמשדר את המשחקים מאולפני התאגיד בארץ",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1066343/",
+       "id": "1066343",
+       "season": 1
+      },
+      {
+       "name": "רגע לפני הנוקאאוט: מסכמים את שלב הבתים של המונדיאל הכי גדול בהיסטוריה",
+       "logo": "https://www.kan.org.il/media/r41cbtus/מסי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218692/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-28",
+       "plot": "רגע לפני שקנדה ודרום אפריקה פותחות את שלב הנוקאאוט -  מסכמים את שלב הבתים",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1066334/",
+       "id": "1066334",
+       "season": 1
+      },
+      {
+       "name": "גאווה ודעה קדומה: הקולות ממשחק הגאווה של המונדיאל - בין איראן ומצרים",
+       "logo": "https://www.kan.org.il/media/s0xj1ian/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218040/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-27",
+       "plot": "למרות התחנונים של האיראנים והמצרים פיפא לא התרגשה, והאצטדיון בסיאטל כמו סביבתו הוצפו בדגלי גאווה. הקולות מהמשחק יוצא הדופן",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1065191/",
+       "id": "1065191",
+       "season": 1
+      },
+      {
+       "name": "אחת אפס לאירוניה: במונדיאל יחגגו את חודש הגאווה במשחק בין איראן למצרים",
+       "logo": "https://www.kan.org.il/media/ijdlkgv0/מיק-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217713/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-26",
+       "plot": "נבחרת מצרים ונבחרת איראן יפגשו בקרוב לקרב על המגרש, אבל הסיפור האמיתי דווקא קורה מסביב, אחרי שהמשחק הוכרז כ\"משחק הגאווה\" הרשמי של המונדיאל - דבר שעורר זעם רב בשתי המדינות",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1064407/",
+       "id": "1064407",
+       "season": 1
+      },
+      {
+       "name": "ניימאר חזר למגרש אחרי פציעה והביא לברזיל את הניצחון על סקוטלנד",
+       "logo": "https://www.kan.org.il/media/wrwob0ao/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217079/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-25",
+       "plot": "ניימאר חזר למגרש אחרי פציעה ארוכה, והאוהדים הברזילאים חגגו בהתלהבות לצד הסקוטים, שגם הם לא ויתרו על מסיבה משלהם. הכתבה של אנה פינס, מתוך מהדורת כאן חדשות 25.06.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1063538/",
+       "id": "1063538",
+       "season": 1
+      },
+      {
+       "name": "הישראלי ששפט את פלה ומראדונה: השופט אברהם קליין חוזר לרגעים הגדולים במונדיאל",
+       "logo": "https://www.kan.org.il/media/1ljf3dtc/4אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216679/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-24",
+       "plot": "נבחרת ישראל לא ממש מתקרבת למונדיאל - אבל מלבדה הייתה לנו שם פעם נציגות ישראלית מכובדת: אברהם קליין שפט במשחקים מיתולוגיים את פלה ומראדונה, ושם אותנו על המגרש הכי נצפה בעולם. כתבנו חזר לזיכרונות מהמונדיאל, וגם לגול היחיד של ישראל",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1062503/",
+       "id": "1062503",
+       "season": 1
+      },
+      {
+       "name": "הראשון שכבש בשישה מונדיאלים: החגיגות הפורטוגליות אחרי הערב הגדול של רונאלדו",
+       "logo": "https://www.kan.org.il/media/yp3juvyh/כריס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216676/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-24",
+       "plot": "ההמתנה של רונאלדו השתלמה, והוא הפך לכדורגלן הראשון שמבקיע בשישה מונדיאלים. כתבנו פגש את האוהדים שלא מוכנים לשמוע שום מילה על מסי. הכתבה של איציק זוארץ, מתוך מהדורת כאן חדשות 24.06.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1062494/",
+       "id": "1062494",
+       "season": 1
+      },
+      {
+       "name": "״צמרמורות״: אוהדי ארגנטינה חוגגים את השיא ההיסטורי של מסי",
+       "logo": "https://www.kan.org.il/media/tdwfc0qu/3לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216067/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-23",
+       "plot": "הפרעוש שבר שיא שערים היסטורי במונדיאל והעניק לארגנטינה מקום בשלב הבא, רגע לפני יום הולדתו ה-39. האוהדים חגגו ואפילו פרשן המונדיאל נגע בתהילה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1061770/",
+       "id": "1061770",
+       "season": 1
+      },
+      {
+       "name": "ממש לא טרמפיסט: מסעו של אוהד ארגנטינה",
+       "logo": "https://www.kan.org.il/media/rezjwoqz/658ac182-2610-465d-8eca-7f70a02d3b2c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215736/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-23",
+       "plot": "אוהד ארגנטינה בשם אלחו צ'יגאנטו יצא לפני ארבע חודשים מבואנוס איירס, בדרכו לקנזס סיטי, שם ארגנטינה התחילה את המונדיאל. חלק מהדרך הוא עשה בטרמפים, חלק ברגל, והכל - מתועד.  כתבתה של הדר יעקבי.",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1061442/",
+       "id": "1061442",
+       "season": 1
+      },
+      {
+       "name": "כל העיניים נשואות אל אמבפה: צרפת פוגשת את עיראק בדרך לשלב הבא במונדיאל",
+       "logo": "https://www.kan.org.il/media/qybno4gs/איש_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215741/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-22",
+       "plot": "אמבפה חוזר למגרש, הפעם מול עיראק, ומנסה להבטיח את מקומה של צרפת בשלב הבא",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1060892/",
+       "id": "1060892",
+       "season": 1
+      },
+      {
+       "name": "אחרי השלושער של מסי במשחק הבכורה במונדיאל - אוהדי ארגנטינה חולמים על דאבל",
+       "logo": "https://www.kan.org.il/media/dowkgt1f/יוט3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215124/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "יממה למשחק של ארגנטינה ואוסטריה אחרי השלושער של מסי במשחק הקודם, והטירוף בשיאו",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1060028/",
+       "id": "1060028",
+       "season": 1
+      },
+      {
+       "name": "פיצה VS המבורגר: מהו מאכל המונדיאל האולטימטיבי של הישראלים?",
+       "logo": "https://www.kan.org.il/media/ct5lxzej/ביחד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215055/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "הוויכוח בין פיצה להמבורגר רלוונטי בכל יום בשנה, אבל בתקופת המונדיאל הוא בוער מתמיד. מהו מאכל המונדיאל האולטימטיבי של הישראלים? כתבתנו יצאה לבדוק מה אנחנו באמת מעדיפים להזמין כשהמתח בשיאו - והתוצאות לפניכם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1059799/",
+       "id": "1059799",
+       "season": 1
+      },
+      {
+       "name": "אחרי התיקו מול מרוקו: בברזיל מחזיקים אצבעות לניצחון מול האיטי",
+       "logo": "https://www.kan.org.il/media/bfrj11tj/s0491000_item0500_00_25_17still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214230/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-19",
+       "plot": "אחרי התיקו המאכזב מול מרוקו - בברזיל מחזיקים אצבעות לקראת המשחק הלילה מול האיטי",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1058376/",
+       "id": "1058376",
+       "season": 1
+      },
+      {
+       "name": "הערב הגדול של אנגליה: הצמד של הארי קיין - והאוהדים שחולמים להגיע עד הגביע ",
+       "logo": "https://www.kan.org.il/media/gdlbujzo/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213939/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-18",
+       "plot": "הסיבוב ראשון של מונדיאל 2026 מאחורינו - מה צפוי לנו בהמשך? הכתבה של איציק זוארץ, מתוך מהדורת כאן חדשות 18.06.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1057747/",
+       "id": "1057747",
+       "season": 1
+      },
+      {
+       "name": "עשה את הלא ייאמן - שוב: השלושער הענק של מסי במונדיאל",
+       "logo": "https://www.kan.org.il/media/bl5fuq1v/מסי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213331/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-17",
+       "plot": "גם אם ישנתם הלילה, בטח כבר שמעתם על השלושער הענק של מסי במשחק נגד אלג'יריה. הכתבה של אנה פינס, מתוך מהדורת כאן חדשות 17.06.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1056896/",
+       "id": "1056896",
+       "season": 1
+      },
+      {
+       "name": "המשחק הראשון של איראן במונדיאל: מחאות, דרמה ביציעים - והרבה דגלי ישראל",
+       "logo": "https://www.kan.org.il/media/rt2h4vsr/איראן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212883/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-16",
+       "plot": "האיראנים השיגו תוצאה מפתיעה במשחק הבכורה שלהם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1055879/",
+       "id": "1055879",
+       "season": 1
+      },
+      {
+       "name": "עם דגלי ישראל: הקהילה האיראנית בלוס אנג'לס תפגין נגד הנבחרת הלאומית",
+       "logo": "https://www.kan.org.il/media/0qchwhxx/s0544702_item0700_00_07_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212362/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-15",
+       "plot": "המונדיאל מגיע ל'טהרנג'לס', והקהילה האיראנית הגולה בלוס אנג'לס יוצאת למחות נגד נבחרת הכדורגל של ארצם. הם רואים בשחקנים נציגים של המשטר המדכא ומתכננים להשמיע את קולם באצטדיון, עם דגלי איראן שלפני המהפכה - וגם דגלי ישראל",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1055086/",
+       "id": "1055086",
+       "season": 1
+      },
+      {
+       "name": "המונדיאל עולה מדרגה: מעצמות הכדורגל מגיעות למגרש",
+       "logo": "https://www.kan.org.il/media/2yajhzld/3לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212061/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-14",
+       "plot": "הטירוף ביציעים והמשחקים שבדרך",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1054117/",
+       "id": "1054117",
+       "season": 1
+      },
+      {
+       "name": "היסטוריה בקנדה, חגיגה בארה\"ב: כך פתחו המארחות את המונדיאל",
+       "logo": "https://www.kan.org.il/media/h2glwmjd/3_אתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2211431/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-13",
+       "plot": "חגיגת הכדורגל נמשכת: ארצות הברית פתחה רשמית את המונדיאל עם ניצחון ענק על פרגוואי. עוד קודם לכן, קנדה עשתה היסטוריה וירדה עם נקודה ראשונה אי פעם במשחקים. פרטים נוספים על טקסי הפתיחה החגיגיים והאוהדים הנרגשים - בכתבה של אנה פינס",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1053120/",
+       "id": "1053120",
+       "season": 1
+      },
+      {
+       "name": "עם יותר מ-80 אלף אוהדים ביציעים: המונדיאל נפתח במקסיקו",
+       "logo": "https://www.kan.org.il/media/dk3dmyvw/s0490999_item0300_00_27_46.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2211130/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-12",
+       "plot": "אחרי שנים של הכנות וציפיות, החלה רשמית חגיגת הכדורגל הגדולה בעולם. במקסיקו סיטי קיבלו את הטורניר עם ניצחון ביתי והרבה גאווה מקומית. התמונות הישר מאיצטדיון אצטקה.",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1052574/",
+       "id": "1052574",
+       "season": 1
+      },
+      {
+       "name": "מקדש הכדורגל: הצצה לאצטדיון המיתולוגי שיפתח את המונדיאל הגדול בהיסטוריה",
+       "logo": "https://www.kan.org.il/media/efydbopr/6_כתבה_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210521/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-11",
+       "plot": "מהמקום הזה יצא לדרך המונדיאל הגדול בהיסטוריה – אצטדיון האצטקה המיתולוגי, המגרש שבו פלה ומראדונה הפכו לאגדות, נכנס בחודשים האחרונים למרוץ נגד השעון. הוא עבר מתיחת פנים ויהפוך לאצטדיון הראשון אי פעם שמארח שלושה מונדיאלים. כתבנו הגיע למקדש הכדורגל המקסיקני שבו ייפתח גביע העולם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1051923/",
+       "id": "1051923",
+       "season": 1
+      },
+      {
+       "name": "יוצאים לדרך: ההתרגשות באמריקה לקראת שריקת הפתיחה של המונדיאל",
+       "logo": "https://www.kan.org.il/media/mqfip0qi/1_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210509/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-11",
+       "plot": "המונדיאל הגדול בהיסטוריה יוצא לדרך: חודשים של ציפייה והכנות מתנקזים לרגע הזה - שריקת הפתיחה של טורניר הכדורגל הכי ענק שידע העולם הולכת להישמע, ומיליארדים ברחבי העולם יעצרו את נשימתם מול הטלוויזיה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1051881/",
+       "id": "1051881",
+       "season": 1
+      },
+      {
+       "name": "\"זה האירוע הכי גדול שהיה אי פעם בעולם\": הצצה ראשונה לאולפן המונדיאל",
+       "logo": "https://www.kan.org.il/media/h5zpj43y/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210227/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-10",
+       "plot": "לקראת משחקי גביע העולם - גם אצלנו בכאן 11 השלימו את הקמת אולפן המונדיאל. כתבנו יצא לסיור היכרות באולפן החדש",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1051451/",
+       "id": "1051451",
+       "season": 1
+      },
+      {
+       "name": "\"חיילים ישראלים ולבנונים ישבו יחד מול הטלוויזיה\": איך צופים במונדיאל תוך כדי מלחמה?",
+       "logo": "https://www.kan.org.il/media/xwzjy4u1/חיללל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210223/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-10",
+       "plot": "מונדיאל 2026 יהיה היסטורי מלא מעט סיבות, אבל דווקא העובדה שהוא יתקיים תחת אש - לא תקדימית. מונדיאל 82' שנערך בספרד התקיים, אז כמו היום - בזמן מלחמה בלבנון. כתבנו אורי לוי לחם אז, במלחמת לבנון הראשונה, במקום לסקר את גביע העולם כשליח הטלוויזיה הישראלית. 44 שנים אחרי, הוא חזר לזכרונות, לתיעודים מהארכיון ולחברים ללחימה. איך צופים בגמר הגביע מהחזית? ומאיפה מגיעה טלוויזיה?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1051445/",
+       "id": "1051445",
+       "season": 1
+      },
+      {
+       "name": "הדגלים, החולצות והאוהדים כבר שם: ההכנות האחרונות במקסיקו למונדיאל הגדול בהיסטוריה",
+       "logo": "https://www.kan.org.il/media/fdcpnomi/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210217/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-10",
+       "plot": "יממה לשריקת הפתיחה: באצטדיון האצטקה ובמקסיקו סיטי כבר מתכוננים לפתיחת משחקי מונדיאל 2026. אז איך זה נראה משם?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1051443/",
+       "id": "1051443",
+       "season": 1
+      },
+      {
+       "name": "בייסבול, הוקי, כדורסל, אבל כדורגל? קנדה לומדת להתלהב מהמונדיאל",
+       "logo": "https://www.kan.org.il/media/3u0hxysn/קנדה-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209719/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "הקנדים אוהבים ספורט, אבל דווקא כדורגל? לא בדיוק במקום הראשון, ובכל מקרה לא לפני בייסבול, הוקי וכדורסל. יומיים לפני המונדיאל, ושלושה ימים לפני המשחק הראשון בקנדה, הקנדים לומדים לאהוב כדורגל, וחולמים אפילו על להפוך למעצמה עולמית בתחום",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1050974/",
+       "id": "1050974",
+       "season": 1
+      },
+      {
+       "name": "שלוש, שתיים אחת: במקסיקו כבר מוכנים למונדיאל",
+       "logo": "https://www.kan.org.il/media/bjamjodu/מישהי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209435/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-08",
+       "plot": "שלושה ימים למונדיאל הגדול באמריקה: במקסיקו סופרים לאחור לקראת משחק הפתיחה הענק. הכתבה של איציק זוארץ, מתוך מהדורת כאן חדשות 08.06.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1050472/",
+       "id": "1050472",
+       "season": 1
+      },
+      {
+       "name": "מסע בזמן לרגעים האייקונים של שידורי הספורט בישראל",
+       "logo": "https://www.kan.org.il/media/fvgjgpek/כתבה-4-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208816/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-07",
+       "plot": "ימים ספורים לפני שריקת הפתיחה למשחקי גביע העולם 2026, חזרנו לארכיון ולרגעים האייקונים של שידורי הספורט בישראל: השחקן הישראלי שכיסח את מראדונה, הנפת הגביע שפוספסה, שער המאה, וכמובן איך לא - היד של אלוהים. פרק 1 בסדרת הכתבות \"היה פה שמח\" של אורן אהרוני, מתוך מהדורת כאן חדשות 07.06.26",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1049999/",
+       "id": "1049999",
+       "season": 1
+      },
+      {
+       "name": "הרגעים שעשו את המונדיאל: מסע בעקבות הזיכרונות הבלתי נשכחים מגביע העולם",
+       "logo": "https://www.kan.org.il/media/2zbho44v/מונדיאל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-06",
+       "plot": "רגע לפני שריקת הפתיחה של המונדיאל, יצאנו למסע בזמן בין הרגעים הגדולים והבלתי נשכחים של הטורניר החשוב בעולם. בעזרת שורה של כוכבי עבר, אנשי תקשורת ואוהדי כדורגל מושבעים מתחומי הבידור והספורט, חזרנו אל השערים, הדרמות והזיכרונות שעיצבו את ההיסטוריה של גביע העולם. פרויקט נוסטלגי מיוחד שכל אוהד כדורגל חייב לראות, רגע לפני שהטירוף מתחיל שוב",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1049496/",
+       "id": "1049496",
+       "season": 1
+      },
+      {
+       "name": "האי הקטן במגרש הגדול בעולם: הנבחרת שהעפילה למונדיאל כנגד כל הסיכויים",
+       "logo": "https://www.kan.org.il/media/hoohywa4/נבחרת-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207983/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "48 נבחרות העפילו לגביע העולם השנה – ובהן גם האי הקריבי קורסאו, שהפתיע את העולם כולו והעפיל לראשונה למונדיאל. הסיפור של הנבחרת מהאי הקטן, שתעלה בשבוע הבא למגרש הגדול בעולם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1049024/",
+       "id": "1049024",
+       "season": 1
+      },
+      {
+       "name": "המונדיאל בסכנה? מחאות ענק של מורים במקסיקו מאיימות על גביע העולם בכדורגל",
+       "logo": "https://www.kan.org.il/media/1ysj45gw/11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207985/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "בעוד שבוע בדיוק זה קורה – שריקת הפתיחה למונדיאל בארצות הברית, קנדה ומקסיקו תישמע. אבל האם הפתיחה החגיגית תשובש? ארגון המורים של מקסיקו פתח במחאה אלימה נגד הממשלה, ובמהלך ההפגנות הושחתו פסלים של כדורגלנים שהוצבו במדינה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1049023/",
+       "id": "1049023",
+       "season": 1
+      },
+      {
+       "name": "יגיעו למונדיאל? נבחרת הכדורגל של קונגו תקועה בבידוד - בגלל אבולה",
+       "logo": "https://www.kan.org.il/media/mqlar1mm/חמודים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207645/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-03",
+       "plot": "השתתפות של הנבחרת של הרפובליקה הדמוקרטית של קונגו בסכנה. הסיבה? התפשטות מגפת האבולה במרכז אפריקה. במדינה חוששים מאוד מהאפשרות שלא יוכלו להגיע לאמריקה, בייחוד אחרי שלקח להם לא פחות מחמישה עשורים להגיע שוב לחגיגת הכדורגל הגדולה בעולם. האם יימצא פתרון - או שבכֿלל צריך לחשוש מהתפרצות של מגיפה מסוכנת במהלך המונדיאל?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1048667/",
+       "id": "1048667",
+       "season": 1
+      },
+      {
+       "name": "9 ימים למונדיאל: כל מה שצריך לדעת על המדים של הנבחרות",
+       "logo": "https://www.kan.org.il/media/zfxhgz2s/7-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207457/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-02",
+       "plot": "9 ימים למונדיאל, ואנשי המשק מכינים לשחקנים את התלבושות - מדי בית, מדי חוץ, תלבושת שלישית. מאחורי כל חולצה עומד סיפור שלם, מאחורי כל צבע יש היסטוריה ארוכה, וכל סמל הוא עולם ומלואו. המדים הם כבר מזמן לא רק מדים - טובי המעצבים בעולם חושבים על כל קפל במכנסיים, בזמן שטרנד האופנה כובש את העולם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1048315/",
+       "id": "1048315",
+       "season": 1
+      },
+      {
+       "name": "למי אכפת מהכדורגל? שיגעון ההימורים על המונדיאל כבר פה",
+       "logo": "https://www.kan.org.il/media/l03p0gyn/הימורים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206734/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "עשרה ימים לִשריקת הפתיחה במקסיקו סיטי. בטח גם אתם נתקלתם באפליקציה, קובץ אקסל או כל אחת מֶעֶשרות האפשרויות להשתתף בְּמשחק ההימורים שיהיה מרכז חייכם בחודש וחצי הקרובים. מי ינצח את מי, מי יעלה לַשַלב הבא, מי יהיה מלך השערים וְכַמובן מי תהיה אלופת העולם החדשה אחרי משחק הגמר בניו יורק בְּתשעה עשר ביולי. והפרס הגדול? הרבה כבוד",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1047767/",
+       "id": "1047767",
+       "season": 1
+      },
+      {
+       "name": "שבועיים לשריקת הפתיחה: ההכנות האחרונות למונדיאל - ואיך עדיין יש כרטיסים?",
+       "logo": "https://www.kan.org.il/media/tyaijyvj/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-28",
+       "plot": "שבועיים בדיוק לשריקת הפתיחה של המונדיאל: האצטדיונים מתמרקים, הנבחרות בהכנות אחרונות, וגם האוהדים – אלה שקנו כרטיסים, אלה שעוד יקנו וגם רבים שמאוד רוצים אבל לא יכולים להרשות לעצמם. במקסיקו רוצים לעשות היסטוריה כבר במשחק הפתיחה, בקנדה יחליפו הקיץ את משטח הקרח בדשא הירוק ובארצות הברית, שם צפויה הדרמה האמיתית, מבטיחים את החגיגה הגדולה בעולם, שתשתלב עם חגיגות יום העצמאות ה-250. כתבנו עקב מקרוב אחרי ההכנות האחרונות בהחלט לטורניר הכדורגל הגדול בהיסטוריה.",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1046390/",
+       "id": "1046390",
+       "season": 1
+      },
+      {
+       "name": "שאקירה, מאחורייך: שירי המונדיאל שנוצרו ב-AI וכובשים את הרשת",
+       "logo": "https://www.kan.org.il/media/ya1f1vgu/שאקירה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205318/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-27",
+       "plot": "לקראת שריקת הפתיחה של מונדיאל 2026, פסקול הטורניר עובר מהפכה חסרת תקדים: האוהדים כבר לא מחכים לזמרים הבינלאומיים הגדולים, אלא מייצרים בעצמם שירי אליפות באמצעות בינה מלאכותית, שמצליחים לעקוף ברשת את הלהיטים הרשמיים",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1046054/",
+       "id": "1046054",
+       "season": 1
+      },
+      {
+       "name": "\"32 אלף דולר\": הישראלים מוכנים לשלם הרבה כסף בשביל חלום המונדיאל",
+       "logo": "https://www.kan.org.il/media/ihbhpnbl/כתבה-4-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202107/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-19",
+       "plot": "\"זה עומד להיות המונדיאל היקר בהיסטוריה – ולהשיג אליו כרטיס ברגע האחרון זו משימה כמעט בלתי אפשרית. ישראלים רבים עדיין לא מוותרים על החלום – ומוכנים לשלם לא מעט כסף",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1043050/",
+       "id": "1043050",
+       "season": 1
+      },
+      {
+       "name": "גביע העולם הכי גדול והכי יקר: הכסף הגדול מאחורי הפרסומות במונדיאל",
+       "logo": "https://www.kan.org.il/media/5ogi330z/10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201881/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "24 ימים למונדיאל, שיהיה כנראה זה שיגלגל הכי הרבה כסף אי פעם. השילוב בין מספר המדינות הגדול ביותר ששיחק בטורניר, ארבעים ושמונה, לבין המארחת העיקרית, ארצות הברית, יצרו יותר משחקים והרבה יותר צופים - כלומר יותר פרסומות ויותר כסף. אפילו פיפא השמרנית הוסיפה הפסקות במהלך המשחק, שאומנם רשמית מיועדות לשתיה, אבל המטרה ברורה. לצד השחקנים על הדשא, יככבו לנו על המסך בעיקר פרסומות",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1042649/",
+       "id": "1042649",
+       "season": 1
+      },
+      {
+       "name": "ארבעה שבועות למונדיאל: מסי ורונאלדו יתחרו בכוכבים הצעירים - אבל מי יצליחו לספק את הסחורה?",
+       "logo": "https://www.kan.org.il/media/w3dlx50b/49a0ff95-b4eb-4761-82aa-5c4719b681fd.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200535/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-14",
+       "plot": "ארבעה שבועות בדיוק לשריקת הפתיחה של המונדיאל במקסיקו סיטי. הכוכבים הגדולים, יגיעו גם לשם: מסי ורונאלדו בפעם האחרונה, אמבפה שרוצה להשכיח את הגמר הקודם, ואיתם גם ויניסיוס, האלנד, למין ימאל הצעיר, והארי קיין. מי מהם יספק את הסחורה? ובאיזה מצב הם מגיעים?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1041282/",
+       "id": "1041282",
+       "season": 1
+      },
+      {
+       "name": "חודש לשריקת הפתיחה של המונדיאל: מי הנבחרת השנואה על הישראלים - ועל מי מהמרים שתניף את הגביע?",
+       "logo": "https://www.kan.org.il/media/h4upayam/44472d75-aeca-4060-8d65-30809ccec094.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-13",
+       "plot": "עד שנבחרת ישראל תחזור למונדיאל לראשונה מאז 1970, לישראלים יש העדפות אחרות, כי הרי אי אפשר באמת ליהנות מכדורגל בלי לאהוד את אחד הצדדים, או לפחות לרצות יותר שהוא ינצח. אז יצאנו לבדוק - מה אתם, אנחנו, האוהדים הישראלים, חושבים? איזו נבחרת תניף את הגביע – את מי היא תנצח בגמר ומי תסיים שלישית? איפה אתם מתכוונים לצפות במונדיאל – לבד או עם חברים, כמה מכם ייסעו למשחקים לראות את רגעי הדרמה מהיציע, ואת כמה מכם, וזה לא הרבה, זה בכלל לא מעניין. איזו נבחרת זוכה לאהדה הכי גדולה בישראל, ולמה דווקא היא – וגם, כמו שכל אוהד כדורגל יודע, אי אפשר בלי – מי הנבחרת שאתם הכי שונאים?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1040951/",
+       "id": "1040951",
+       "season": 1
+      },
+      {
+       "name": "30 ימים למונדיאל: מה הופך את הבירה למשקה הרשמי של הכדורגל? ",
+       "logo": "https://www.kan.org.il/media/xzxdshi4/בירה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199768/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "30 יום למונדיאל: קשה למצוא אירוע כדורגל חשוב ברחבי העולם בלי ספונסר מחברת בירה. בכל מונדיאל צריכת הבירה עולה בעשרות אחוזים ברחבי העולם. אז מה סוד הקשר האמיץ בין כדורגל ובירה?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1040551/",
+       "id": "1040551",
+       "season": 1
+      },
+      {
+       "name": "50 יום למונדיאל: ההכנות האחרונות וההתלבטות של נבחרת איראן",
+       "logo": "https://www.kan.org.il/media/wlafx3ba/כדור-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192780/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-22",
+       "plot": "50 יום לשריקת הפתיחה: נכנסנו ליישורת האחרונה לקראת המונדיאל, כל הפרטים על ההכנות האחרונות ביבשת, וסימני השאלה הגדולים - בראשם, מה תעשה נבחרת איראן?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1032249/",
+       "id": "1032249",
+       "season": 1
+      },
+      {
+       "name": "11 אלף דולרים לכרטיס: מחירי הכרטיסים למונדיאל עולים",
+       "logo": "https://www.kan.org.il/media/zngfrfdo/כדור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185783/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-05",
+       "plot": "זה עומד להיות המונדיאל הכי גדול בהיסטוריה – וגם הכי יקר. מחירי הכרטיסים שוברים שיאים – ומגיעים לאלפי דולרים. הישראלים שמתלבטים אם לרוקן את החסכונות כדי לצפות בגביע העולם",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1023648/",
+       "id": "1023648",
+       "season": 1
+      },
+      {
+       "name": "עיראק במונדיאל: החגיגות במדינה שהנבחרת שלה עשתה את הבלתי ייאמן",
+       "logo": "https://www.kan.org.il/media/wyvhl1a5/אנשים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185775/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-05",
+       "plot": "חגיגות של פעם ב-40 שנה בעיראק: הנבחרת הלאומית עשתה את הבלתי ייאמן, העפילה למונדיאל ונתנה לאזרחים סיבה טובה לשכוח מצרות היום-יום",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/1023636/",
+       "id": "1023636",
+       "season": 1
+      },
+      {
+       "name": "המונדיאל הגדול אי פעם: מפגש הענקים - כבר בשלב הבתים",
+       "logo": "https://www.kan.org.il/media/3mifcuxh/אמבפה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1960550/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-07",
+       "plot": "המונדיאל הגדול אי פעם יוצא לדרך בעוד פחות מחצי שנה וישודר אצלנו בכאן 11. כבר בהגרלת הבתים נקבע מפגש ענק בין שני החלוצים הטובים בעולם: אמבפה מול האלנד. המשחקים שאסור לפספס, ואיפה צפויות ההפתעות?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/977961/",
+       "id": "977961",
+       "season": 1
+      },
+      {
+       "name": "10,000 דולר לכרטיס: המונדיאל הכי יקר שהיה אי פעם",
+       "logo": "https://www.kan.org.il/media/ueonbvxz/מסי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953124/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-02",
+       "plot": "כמעט חצי שנה למונדיאל ולקראת הגרלת המשחקים בסוף השבוע - הביקוש לכרטיסים בשיא. כמה תצטרכו לשלם כדי להשיג כיסא באירוע הספורט הכי גדול שיש?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1054755/s1/976399/",
+       "id": "976399",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

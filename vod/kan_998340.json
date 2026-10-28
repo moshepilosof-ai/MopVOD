@@ -1,0 +1,72 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - לוחמת",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-998340/",
+   "series_id": "998340",
+   "updated": "2026-10-28 11:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "לוחמת | פרק 3 - כוחות מתנגשים",
+       "logo": "https://www.kan.org.il/media/ydggegju/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2173560/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-04",
+       "plot": "המפגש הנפיץ של שני הכוחות המעצבים את פניו של צה\"ל - נשים והממסד הדתי, מתרחש בכל הזירות - בבימ\"ש, בכנסת ובתקשורת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-998340/s1/1006793/",
+       "id": "1006793",
+       "season": 1
+      },
+      {
+       "name": "לוחמת | פרק 2 - הקרב הכפול",
+       "logo": "https://www.kan.org.il/media/uismfgmb/40f5ace3-f10d-46f1-b931-2c5f8d237602.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168047/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-17",
+       "plot": "מרגע כניסתן לתפקידי לחימה, נשים נאלצות להתמודד לא רק עם האויב החיצוני בשדה הקרב, אלא גם עם מערכת צבאית המטילה בהן ספק וממדרת אותן, הטרדות מיניות וציוד לא מתאים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-998340/s1/1000117/",
+       "id": "1000117",
+       "season": 1
+      },
+      {
+       "name": "לוחמת | פרק 1 - אחד קדימה, שניים אחורה",
+       "logo": "https://www.kan.org.il/media/4v3ntl4d/31ff45a8-a5c5-4acb-b620-81c9fbfec5fb.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167067/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-12",
+       "plot": "סיפור מאבקן של נשים לפרוץ את תקרת הזכוכית ולהתקבל כלוחמות שוות בצה\"ל - מלוחמת הפלמ\"ח הראשונה, הנווטת, המסתערבת ועד לוחמת המוסד והשב\"כ. סיפורן מגלה כי לאורך השנים הן פרצו שוב ושוב את תקרות הזכוכית שנסגרו בפניהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-998340/s1/998342/",
+       "id": "998342",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "לוחמת | פרומו",
+       "logo": "https://www.kan.org.il/media/n2vgisoi/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168928/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-19",
+       "plot": "סיפור מאבקן של נשים לפרוץ את תקרת הזכוכית ולהתקבל כלוחמות שוות בצה\"ל - מלוחמת הפלמ\"ח הראשונה, הנווטת, המסתערבת ועד לוחמת המוסד והשב\"כ. סיפורן מגלה כי לאורך השנים הן פרצו שוב ושוב את תקרות הזכוכית שנסגרו בפניהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-998340/1001142/",
+       "id": "1001142"
+      },
+      {
+       "name": "לוחמת | הצצה",
+       "logo": "https://www.kan.org.il/media/ptrl1p2b/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168383/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-18",
+       "plot": "הטנקיסטיות שלחמו ב-7 באוקטובר מתארות את הקרבות הקשים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-998340/1000748/",
+       "id": "1000748"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

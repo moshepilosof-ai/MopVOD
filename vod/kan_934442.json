@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מלאכי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-934442/",
+   "series_id": "934442",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מלאכי - הצצה",
+       "logo": "https://www.kan.org.il/media/bkpf5le0/1920x1080_no-logo-מלאכי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2074317/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "סיפורו המיוחד ויוצא הדופן של תינוק שנולד עם מום קשה שהפך אותו לבעל מראה מוזר, מה שגרם לנטישתו על ידי הוריו הביולוגים. הסרט מלווה את סיפורו מרגע לידתו ועד חשבון הנפש כבוגר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-934442/990164/",
+       "id": "990164"
+      },
+      {
+       "name": "מלאכי",
+       "logo": "https://www.kan.org.il/media/pe1hzsbv/מלאכי-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1950457/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-23",
+       "plot": "סיפורו המיוחד ויוצא הדופן של תינוק שנולד עם מום קשה שהפך אותו לבעל מראה מוזר, מה שגרם לנטישתו על ידי הוריו הביולוגים. הסרט מלווה את סיפורו מרגע לידתו ועד חשבון הנפש כבוגר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-934442/934454/",
+       "id": "934454"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - השופטים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1026927/",
+   "series_id": "1026927",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "השופטים | פרק 4 - שעת הכרעה",
+       "logo": "https://www.kan.org.il/media/h3xjglcm/s0417862_100_29_56_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196702/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-04",
+       "plot": "סדרה המלווה, לראשונה בישראל, שישה שופטים מכהנים, באולמות הדיונים, בלשכותיהם, ואל מול החששות והאתגרים איתם הם מתמודדים. בפרק האחרון: רגע ההכרעה במשפט הרצח, והכרעות מקצועיות ואישיות בחייהם של השופטים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1026927/s1/1037255/",
+       "id": "1037255",
+       "season": 1
+      },
+      {
+       "name": "השופטים | פרק 3 - בעין הסערה",
+       "logo": "https://www.kan.org.il/media/dfxhae5a/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194029/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "המציאות הפוליטית והשסעים החברתיים מתדפקים על דלתות בית המשפט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1026927/s1/1033201/",
+       "id": "1033201",
+       "season": 1
+      },
+      {
+       "name": "השופטים | פרק 2 - אמת הנתונה לפרשנות",
+       "logo": "https://www.kan.org.il/media/mgdp5xva/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192000/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-20",
+       "plot": "עדותו של הנאשם ברצח מעלה שאלות, וחקירות המשטרה עומדות למבחן השופטים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1026927/s1/1031332/",
+       "id": "1031332",
+       "season": 1
+      },
+      {
+       "name": "השופטים | פרק 1 - אמת משפטית מול אמת עובדתית",
+       "logo": "https://www.kan.org.il/media/loppjsos/s0496659_100_20_03_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192942/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "לראשונה בישראל, סדרה המתעדת 6 שופטים מכהנים. הצצה נדירה לא רק למתרחש בדיונים המשפטיים, אלא גם אל מאחורי הקלעים של כס השיפוט - ללשכותיהם, לביתם ואל החששות והאתגרים איתם הם מתמודדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1026927/s1/1027249/",
+       "id": "1027249",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "השופטים | טריילר",
+       "logo": "https://www.kan.org.il/media/bmrp0j5y/hashoptim_promo100_00_22_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-15",
+       "plot": "הצצה נדירה לחייהם של שופטים במדינת ישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1026927/1029099/",
+       "id": "1029099"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סיבה למסיבה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-781795/",
+   "series_id": "781795",
+   "updated": "2026-10-28 12:37",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סיבה למסיבה | כוכבי הזמר המזרחי",
+       "logo": "https://www.kan.org.il/media/ii3flbsn/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l0ct2v6f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "הופעה מקפיצה ובלתי נשכחת של גדולי האמנים הים-תיכוניים, ביניהם שלומי שבת ודקלון ובהמשך התוכנית שרים יהודה פוליקר, גידי גוב וציפי שביט מתארחת באולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801121/",
+       "id": "801121",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | יצחק קלפטר, מיקי גבריאלוב ואריק איינשטיין",
+       "logo": "https://www.kan.org.il/media/gq0bdefm/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v3lc49ra/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "האמנים שעיצבו את הזמר העברי מתארחים באולפן של רבקה מיכאלי לשיחה ולשיר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801117/",
+       "id": "801117",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | דורי בן זאב, דודו טופז ונורית גלרון",
+       "logo": "https://www.kan.org.il/media/yk5dpnyl/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jd1pvfvu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "רבקה מיכאלי מארחת את אמני ישראל המצליחים ואת איש קהילת המודיעין לשעבר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801116/",
+       "id": "801116",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | מרגול והגשש החיוור",
+       "logo": "https://www.kan.org.il/media/ch0h3a21/untitled-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3xu3q5yp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "עוד באולפן: קרקס \"הקסמים והפלאות\" ומכרם חורי - חתן פרס ישראל לקולנוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801114/",
+       "id": "801114",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | טוביה צפיר, דובי גל ואילנה דיין",
+       "logo": "https://www.kan.org.il/media/xdkplezi/untitled-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_httfdnyi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "תוכנית עשירה בכוכבי התיאטרון הגדולים של כל הזמנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801107/",
+       "id": "801107",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | יהודה פוליקר, רמי קליינשטיין וריטה",
+       "logo": "https://www.kan.org.il/media/slrliogl/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pe33q8lq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "תוכנית בלתי נשכחת ועשירה בכוכבים ביניהם מיקי קם ונחמה הנדל ששרות באולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801102/",
+       "id": "801102",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | נחל עוז",
+       "logo": "https://www.kan.org.il/media/m1edxawb/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6uehq1ei/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "שלושה מחברי הגרעין הראשון של הקיבוץ בעוטף מתארחים אצל רבקה מיכאלי, ילדי הקיבוץ שרים את המנון הנח\"ל יחד עם מפקדי הנח\"ל לדורותיו וחווה אלברשטיין ועופרה חזה שרות באולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801088/",
+       "id": "801088",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | יהונתן גפן וחנה לסלאו",
+       "logo": "https://www.kan.org.il/media/bjufswb3/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_guwfrd34/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-17",
+       "plot": "רבקה מיכאלי מארחת את גדולי אנשי התרבות והספר העבריים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/801083/",
+       "id": "801083",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | עמוס אטינגר וגלי עטרי",
+       "logo": "https://www.kan.org.il/media/3knfgrmy/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_esqf6q3v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "דודו דותן מנצח על תזמורות ומארח להקות, זמרים ובעלי מקצועות לא שגרתיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782321/",
+       "id": "782321",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | להקת המחול הקיבוצית וחווה אלברשטיין",
+       "logo": "https://www.kan.org.il/media/miab4ykg/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t48ztgec/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "לילית נגר שרה עם ביתה באולפן ומארחת את הרקדנים והזמרת הפופולרית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782313/",
+       "id": "782313",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | הגשש החיוור וטוביה צפיר",
+       "logo": "https://www.kan.org.il/media/ao0h1afs/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uybvois5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "אילי גורליצקי מארח את גדולי אנשי התרבות הישראליים לערב שישי מבדר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782306/",
+       "id": "782306",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | חנוך רוזן, מתי כספי ומשינה",
+       "logo": "https://www.kan.org.il/media/31efrjah/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_slqz2j74/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "גידי גוב מארח להקות אהובות, קוסם, אדריכל ואת השחקן מוטי גלעדי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782304/",
+       "id": "782304",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | שלמה ארצי, תיקי דיין ולהקת המחול הפולנית",
+       "logo": "https://www.kan.org.il/media/asblc3zf/untitled-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dnfhe38q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "ספי ריבלין מנחה ערב שישי מלא בשירה, צחוק ובריקודים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782296/",
+       "id": "782296",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | יהורם גאון ונורית גלרון",
+       "logo": "https://www.kan.org.il/media/gkdjuv15/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gmq37mek/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "האמן בביצוע מחרוזת להיטיו, דודו טופז מארח באולפן זמרים גדולים נוספים ושלמה ניצן בפינת האקטואליה הקבועה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782295/",
+       "id": "782295",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | מוני מושונוב, שלמה בראבא וירדנה ארזי",
+       "logo": "https://www.kan.org.il/media/wcsnrraw/untitled-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wyaz7bob/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "ירון לונדון מארח לערב שמח במיוחד את את מיטב הקומיקאים, האמנים והשחקנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782252/",
+       "id": "782252",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | משינה, יפה ירקוני ועירית ענבי",
+       "logo": "https://www.kan.org.il/media/nldjwswq/untitled-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tk8icisa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "עוד באולפן: הכדורגלן הערבי שנלחם בגזענות ותזמורת טיילת תל-אביב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782183/",
+       "id": "782183",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | עם אחד שיר אחד",
+       "logo": "https://www.kan.org.il/media/yuukrjuj/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6y5ea92v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "מיטב אמני ישראל בביצוע אייקוני משותף למען ילדי אלו\"ט וגם לאה רבין מספרת על כהונתה כיו\"ר האגודה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782180/",
+       "id": "782180",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | ראש השנה",
+       "logo": "https://www.kan.org.il/media/bjrp1jte/untitled-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_43f1ncmk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "תוכנית מיוחדת לשנה החדשה על פוליטיקאים, אסטרולוגיה והזמר העברי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/782176/",
+       "id": "782176",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | שלישיית 'כמו צועני'",
+       "logo": "https://www.kan.org.il/media/lnrlwj2d/untitled.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_br6tqket/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "יגאל בשן, עוזי חיטמן ויונתן מילר שרים יחד ואושיק לוי עושה סטנדאפ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/781920/",
+       "id": "781920",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | אבא אבן, טוביה צפיר ומתי כספי",
+       "logo": "https://www.kan.org.il/media/wz0gm0zf/untitled.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hhim60tf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "נורית גלרון, חנה לסלאו ועוד אמנים מתארחים באולפן של מני פאר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/781906/",
+       "id": "781906",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | רבקה מיכאלי ושרון ליפשיץ",
+       "logo": "https://www.kan.org.il/media/ws5latp4/untitled.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3sxdgj8i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "מני פאר מארח את הקריינית ראומה אדלר ואנשי תרבות מסקרנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/781900/",
+       "id": "781900",
+       "season": 1
+      },
+      {
+       "name": "סיבה למסיבה | טוביה צפיר, אלון אולארצ'יק ותיקי דיין",
+       "logo": "https://www.kan.org.il/media/1ljbfazh/untitled.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6lgc9bv0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "מני פאר מארח את הזמרים והשחקנים הגדולים במדינה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/s1/781895/",
+       "id": "781895",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סיבה למסיבה | פתיח",
+       "logo": "https://www.kan.org.il/media/1bvcagaw/סיבה-למסיבה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hx6885rw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח האהוב של ''סיבה למסיבה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781795/861611/",
+       "id": "861611"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

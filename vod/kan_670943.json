@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מישל עזרא ספרא ובניו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670943/",
+   "series_id": "670943",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מישל עזרא ספרא ובניו | פרק 1 - מישל",
+       "logo": "https://www.kan.org.il/media/mprfzwkf/ep-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2aezatob/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כשדיבורים על ציונות מתחילים להתעורר בקהילת היהודים של חלב שבסוריה, משפחה מקומית - משפחת ספרא, נחלקת בדעותיה למורת רוחו של מישל אב המשפחה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670943/s1/676134/",
+       "id": "676134",
+       "season": 1
+      },
+      {
+       "name": "מישל עזרא ספרא ובניו | פרק 2 - חרדה",
+       "logo": "https://www.kan.org.il/media/4fwdqu0r/ep-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u6uigi00/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עלילות משפחת ספרא מהקהילה היהודית שבחלב, סוריה: היהודים מתחילים לעזוב את חלב ומישל מנסה לעזור עם מכירת הרכוש. הרעיון מתבשל גם במוחם של ילדי המשפחה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670943/s1/676131/",
+       "id": "676131",
+       "season": 1
+      },
+      {
+       "name": "מישל עזרא ספרא ובניו | פרק 3 - עקירה",
+       "logo": "https://www.kan.org.il/media/5egddxtb/ep-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xtlw3jnp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עלילות משפחת ספרא מהקהילה היהודית שבחלב, סוריה: לאחר שסוריה מקבלת עצמאות, היהודים הופכים למטרה. כשקהילת \"ארם צובא\" נחרבת, מישל נחוש להציל את משפחתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670943/s1/676128/",
+       "id": "676128",
+       "season": 1
+      },
+      {
+       "name": "מישל עזרא ספרא ובניו | פרק 4 - דור חדש",
+       "logo": "https://www.kan.org.il/media/o4gf0olo/ep-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eq7r8t5r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עלילות משפחת ספרא מהקהילה היהודית שבחלב, סוריה: מישל מתקשה להבין את חייו של בנו בקיבוץ, לניאדו מגלה מידע על כתר ארם צובא, והמשפחה מתמודדת עם אובדן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670943/s1/676125/",
+       "id": "676125",
+       "season": 1
+      },
+      {
+       "name": "מישל עזרא ספרא ובניו | פרק 5 - לינדה",
+       "logo": "https://www.kan.org.il/media/5t2erqmv/ep-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h5ophtzy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עלילות משפחת ספרא מהקהילה היהודית שבחלב, סוריה: אברום נוסע למקסיקו על מנת לשכנע את אמו לעלות לישראל והביקור לא הולך כמתוכנן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670943/s1/676122/",
+       "id": "676122",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מישל עזרא ספרא ובניו | פתיח",
+       "logo": "https://www.kan.org.il/media/oarjm53d/צילום-מסך-2025-08-18-154945.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cqrhdgrz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה המיתולוגית \"מישל עזרא ספרא ובניו\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670943/942812/",
+       "id": "942812"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

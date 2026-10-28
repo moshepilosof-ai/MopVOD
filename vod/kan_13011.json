@@ -1,0 +1,1824 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ערב עם שי שטרן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13011/",
+   "series_id": "13011",
+   "updated": "2026-10-28 13:05",
+   "sub_categories": [
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 31",
+       "logo": "https://www.kan.org.il/media/fyup0din/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2253683/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-09",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם יונה קפח, אורי גוטליב, דניאל כהן והדר לוי. וגם: מנדי וביתאן מתכוננים ליום הבחירות, ושי נפגש עם אבי נשר לראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1107678/",
+       "id": "1107678",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 30",
+       "logo": "https://www.kan.org.il/media/5maeiqnt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2251513/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-02",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורי גוטליב, דניאל כהן, יונה קפח ונגה דאנג'לי. וגם: מה חושבים על הבחירות בשוק הכרמל, ויניב סוויסה ודניאל סטיופין מ\"קופה ראשית\" בראיון זוגי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1105264/",
+       "id": "1105264",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 29",
+       "logo": "https://www.kan.org.il/media/dfajn3or/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249195/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-04",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ומושיק גלאמין. וגם: שי נפגש עם מתן חלק על הסדרה החדשה \"אנשים שפגשתי\", ומנדי וביתאן מתכוננים לבחירות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1096009/",
+       "id": "1096009",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 28",
+       "logo": "https://www.kan.org.il/media/acdframy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237875/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-21",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח והדר לוי. וגם: איך נעבור את החגים בנימוס ובנועם עם תמי לנצוט ונגה דאנג'לי, ויגאל עדיקא נזכר בחגים של ימי ילדותו בירושלים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1091493/",
+       "id": "1091493",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 27",
+       "logo": "https://www.kan.org.il/media/rmgcyb5w/shaistern_se06e27_digital00_01_33_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234424/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, צביקה הדר ויונה קפח. וגם: מושיק גלאמין מבקר בבית ספר לקראת פתיחת שנת הלימודים, ויעל לבנטל ויובל סגל משיקים הצגות חדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1087674/",
+       "id": "1087674",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 26",
+       "logo": "https://www.kan.org.il/media/y3qgd3g2/shaistern_se06e26_digital00_09_36_36still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233316/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-07",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, דניאל כהן ונוגה דאנג'לי. וגם: שי תופס לשיחה אישית את חנה לסלאו ויעקב זדה דניאל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1086662/",
+       "id": "1086662",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 25",
+       "logo": "https://www.kan.org.il/media/yfnpdvwa/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231036/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-31",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ויונה קפח. וגם: מושיק גלאמין נדרש לכל נושא הלונג'ביטי, וטל פרידמן בשאלון אחד על אחד לקראת יציאת אלבום חדש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1083879/",
+       "id": "1083879",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 24",
+       "logo": "https://www.kan.org.il/media/fqulpnbj/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228887/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-24",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: שי מארח את שאול אמסטרדמסקי על הסדרה \"מתחת לבלטות\" בכאן 11, והגיטריסט אבי סינגולדה בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1080965/",
+       "id": "1080965",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 23",
+       "logo": "https://www.kan.org.il/media/5bricpka/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226337/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-17",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ויונה קפח. וגם: ענת גורן מספרת  על הסדרה \"חם לי קר לי\", ושי שטרן בשיחה אחד על אחד עם רפי גינת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1077768/",
+       "id": "1077768",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 22",
+       "logo": "https://www.kan.org.il/media/rb2kchyc/shaisternse06ep22_digital00_02_17_35still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223777/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-10",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן. וגם: שי בראיון אחד על אחד עם גיתית פישר, ונגה דאנג'לי וד\"ר דניאל דריי עם מחשבות על חג האהבה, ט\"ו באב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1074195/",
+       "id": "1074195",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 21",
+       "logo": "https://www.kan.org.il/media/djioevty/shaistern_se06e21_digital00_03_32_17still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222183/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-06",
+       "plot": "הערב עם שי שטרן על כל מה שקרה השבוע עם כדורגל ובלי כדורגל. עם אורנה בנאי, אורי גוטליב יונה קפח ודניאל כהן. וגם אושרית סרוסי וחן רוטמן בשיחה אישית לקראת הפשוטע, ומנדי וביתאן מגיבים על בליץ החקיקה בכנסת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1072056/",
+       "id": "1072056",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 | פרק 20 - ספיישל מונדיאל",
+       "logo": "https://www.kan.org.il/media/sezpktzw/שיוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222154/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-06",
+       "plot": "שי והחברים מסכמים את המונדיאל המשוגע עד כה, עם צביקה הדר, אורי גוטליב, יונה קפח והדר לוי. וגם: יורם ארבל האגדי בשאלון אחד על אחד, ובורסת ההימורים על מי תניף את גביע העולם!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1072008/",
+       "id": "1072008",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 19",
+       "logo": "https://www.kan.org.il/media/tmgjep0h/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208129/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-05",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ויונה קפח. וגם: איך אוהדי ארגנטינה בקיבוץ אור הנר מתוכננים למונדיאל, ויאיר ניצני בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1049193/",
+       "id": "1049193",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 18",
+       "logo": "https://www.kan.org.il/media/lo4dmqzp/shaistern_se06e18_digital00_08_17_46still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205942/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-29",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפאח ודניאל כהן. וגם: שלומי קוריאט בראיון אחד על אחד, ומה האמת לגבי ידיעת האנגלית של תלמידי ישראל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1046556/",
+       "id": "1046556",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן - פרק 17",
+       "logo": "https://www.kan.org.il/media/hrdbdm1d/שי_שטרן_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200714/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-15",
+       "plot": "הפאנל הכי מצחיק לערב שבת חוגג אירוויזיון עם אורנה בנאי, אורי גוטליב, הדר לוי וצביקה הדר. וגם: שי יוצא לרחוב למשאל קצר בנושא אירוויזיון, וראיון מיוחד עם במאי המשלחת הישראלית, יואב צפיר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1041544/",
+       "id": "1041544",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 16",
+       "logo": "https://www.kan.org.il/media/wb5jgnko/shaistern_se06e16_youtube00_03_53_40still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198437/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-08",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: שי בראיון אחד על אחד עם אסף אמדורסקי, ומנדי וביתאן נותנים את דעתם על מינוי רומן גופמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1038844/",
+       "id": "1038844",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 15",
+       "logo": "https://www.kan.org.il/media/xtsfmgj4/shaistern_se06e15_digital00_15_18_48still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195894/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-01",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן. וגם: עקיבא נוביק ורוני קובן על תכנית הרדיו החדשה שלהם, ובת אל מוסרי בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1036138/",
+       "id": "1036138",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 14",
+       "logo": "https://www.kan.org.il/media/u2dlmzgi/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2193429/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-24",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: ראיון אחד על אחד עם גברי בנאי האגדי, ושי יוצא לברר עד כמה עם ישראל יודע הכל על יום העצמאות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1032838/",
+       "id": "1032838",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 13",
+       "logo": "https://www.kan.org.il/media/px5ihzb3/shaistern_se06e13_digital00_11_07_26still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190828/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-17",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ויונה קפח. וגם: שי בראיון אחד על אחד עם פבלו רוזנברג, ומנדי וביתאן מסכמים את המלחמה עם איראן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1030133/",
+       "id": "1030133",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 12",
+       "logo": "https://www.kan.org.il/media/g0ejdhys/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2182694/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-27",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, צביקה הדר, יונה קפח והשף חיים כהן! וגם: שי חוגג עם טוביה צפיר 90 שנה לשידור הציבורי, ומברר עם מנדי וביתאן ונגה דאנג'לי איך חוגגים סדר פסח בממ\"ד?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1019431/",
+       "id": "1019431",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 11",
+       "logo": "https://www.kan.org.il/media/nljh4g42/s0553167_100_03_16_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180252/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-20",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: שי שומע על הסדרה \"בהסתורה\" מהיוצר אבי תפילינסקי, ומה באמת המצב בצפון הארץ?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1015947/",
+       "id": "1015947",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 10",
+       "logo": "https://www.kan.org.il/media/bzznh2lm/לאתר-פרק-מלא.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177813/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-13",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי, דניאל כהן וכתב כאן חדשות, רועי שרון. וגם: שי בראיון עם דורי בן זאב, ומנדי וביתאן מפרשנים את המלחמה עם איש התקשורת האיראני, דוד מוטאי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1011579/",
+       "id": "1011579",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 9",
+       "logo": "https://www.kan.org.il/media/1yqjjtbq/נקי-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174479/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-06",
+       "plot": "הפאנל הכי מצחיק לערב שבת במהדורת מלחמה! עם אורנה בנאי, אורי גוטליב, צביקה הדר, הדר לוי ודוד מוטאי מהרדיו בפרסית. וגם: שי חוגג את יום האישה עם ליטל שוורץ, מאיה דגן, דניאלה לוגסי ומאיה בוסקילה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1007835/",
+       "id": "1007835",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 8",
+       "logo": "https://www.kan.org.il/media/wk4ck2ui/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171506/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-27",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, מושיק גלאמין ויונה קפח. וגם: שי בראיון אחד על אחד עם מאור כהן, ומשאל רחוב שבודק מה אתם יודעים על פורים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1003735/",
+       "id": "1003735",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 7",
+       "logo": "https://www.kan.org.il/media/zbzjtbao/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169093/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-20",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, דניאל כהן והדר לוי. וגם- מנדי ביתאן על ריח הבחירות שבאוויר, אלון אולארצ'יק בראיון אישי, ו\"סופר נני\", מיכל דליות, מבקרת באולפן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1001348/",
+       "id": "1001348",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 6",
+       "logo": "https://www.kan.org.il/media/pqcp50c5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166477/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-13",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ויונה קפח. וגם: שי יוצא לרחוב לשאול על ולנטיינ'ס דיי, ואריאל זילבר בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/998814/",
+       "id": "998814",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן עונה 6 - פרק 5",
+       "logo": "https://www.kan.org.il/media/41hfvppr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2139991/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-30",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גטוליב, יונה קפח וקובי מימון. וגם: שי בשיחה אחד על אחד עם גלעד כהנא, ומנדי וביתאן מנתחים את מאזן הכוחות בין טראמפ לאיראן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/994338/",
+       "id": "994338",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 4",
+       "logo": "https://www.kan.org.il/media/ymkflqxi/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2108191/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-23",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן. וגם: שי פוגש את מיקי קם שחוגגת 70, והבנות של סדרת המערכונים \"מי זאת?\" באות לעשות בלגן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/992290/",
+       "id": "992290",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 3",
+       "logo": "https://www.kan.org.il/media/v2vjy0rv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2077710/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-16",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, נגה דאנג׳לי ודניאל כהן. וגם: שי בראיון אחד על אחד עם האיש והפסנתר- ארקדי דוכין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/990356/",
+       "id": "990356",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 2",
+       "logo": "https://www.kan.org.il/media/ksmbfwme/shaistern_se06e02_digital00_00_49_30still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2057969/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-09",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ויונה קפח. וגם: מנדי וביתאן מזהירים מעליית המחירים של 2026, ומה יש לנגה דאנג'לי ולד\"ר שקשוקה להגיד על כדורי ההרזייה החדשים בשוק?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/988260/",
+       "id": "988260",
+       "season": 6
+      },
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 1",
+       "logo": "https://www.kan.org.il/media/htvipgn1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2028443/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-01",
+       "plot": "הפאנל המצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן. וגם שאנן סטריט על הפרויקט \"100 דגים\", ולקראת משחק האולסטאר, שי יוצא לפגוש את חבריו של דני אבדיה מ\"בני הרצליה\" ואת המורה האהובה שלו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/985793/",
+       "id": "985793",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 40",
+       "logo": "https://www.kan.org.il/media/opwdf5co/שי-שטרן-פרק-40-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2016187/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-26",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, דניאל כהן, הדר לוי ואורח מיוחד - גיורא זינגר. וגם: ראיון אחד על אחד עם דני בסן שחוגג 70, ומנדי וביתאן מסכמים את השנה המשוגעת שעברה עלינו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/983965/",
+       "id": "983965",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 39",
+       "logo": "https://www.kan.org.il/media/y3mgpxtv/לאתר-ויוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1989777/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-19",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורי גוטליב, דניאל כהן, הדר לוי, מושיק גלאמין וגם נוגה ד'אנג'לי והקונדיטור מיקי שמו. וגם: מנדי וביתאן יוצאים לרחוב לערוך משאל חנוכה, ומה עושים עם השפעת שהקדימה השנה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/981926/",
+       "id": "981926",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 38",
+       "logo": "https://www.kan.org.il/media/kbklvw1s/s0493807_100_05_01_38still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1965760/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-12",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם צביקה הדר, אורי גוטליב, הדר לוי ודניאל כהן. וגם: שי יוצא למצוא מרגלים איראניים בבת ים, ומנדי וביתאן נדרשים לסוגיית הגיוס.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/979921/",
+       "id": "979921",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 37",
+       "logo": "https://www.kan.org.il/media/ao1puydg/שי-שטרן-טאמבנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1950257/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-28",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם צביקה הדר, אורי גוטליב, דניאל כהן, יעל לבנטל והדר לוי. וגם: האמא והבת תמי וגינת מויאל מ\"משפחה בהסעה\" בראיון זוגי, ומנדי וביתאן משרטטים את המצב במזרח התיכון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/975087/",
+       "id": "975087",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 36",
+       "logo": "https://www.kan.org.il/media/zzupudri/לאתר-ועריכה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1940943/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-21",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורי גוטליב, צביקה הדר, דניאל כהן ומאיה בצלאל. וגם: שי ויגאל עדיקא נוסעים לנתב\"ג לחקור את תופעת היורדים מהארץ, וגיא מזיג בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/972683/",
+       "id": "972683",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 35",
+       "logo": "https://www.kan.org.il/media/ebmhqidd/שי-שטרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1917999/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-14",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, דניאל כהן ומושיק גלאמין. וגם: מנדי וביתאן נדרשים לנושא הקומבינות בישראל, ואבי נוסבאום בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/970744/",
+       "id": "970744",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 34",
+       "logo": "https://www.kan.org.il/media/ljehjpgc/34_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1895737/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-07",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, דניאל כהן והדר לוי. וגם: נועה קולר בראיון אחד על אחד, וחברי ''זהו זה'' מתכוננים לעונה חדשה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/968519/",
+       "id": "968519",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 33",
+       "logo": "https://www.kan.org.il/media/orhfdd4f/shaistern_se05e33_digital00_01_10_44still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891476/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-31",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן. וגם: שי לוקח את מנדי וביתאן לשבוע האופנה בתל אביב, ויפתח קליין מגיע לשאלון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/966186/",
+       "id": "966186",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 32",
+       "logo": "https://www.kan.org.il/media/o2ddb5pw/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891109/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-24",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן. וגם: מנדי וביתאן עם חזון טראמפ למזרח תיכון חדש, ואיך יונה קפח חוזרת לשגרה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/963291/",
+       "id": "963291",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 31",
+       "logo": "https://www.kan.org.il/media/fxogdtvb/shaistern_se05ep31_digital00_05_17_30still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z4pga3lw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-18",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, דניאל כהן ויונה קפאח. וגם: בפני מי דוד דביר רוצה להתנצל, ומאיה בצלאל ומנדי ביתאן מקבלים את השנה החדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/952655/",
+       "id": "952655",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 30",
+       "logo": "https://www.kan.org.il/media/2k4pv3ol/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gjuzu2h2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-12",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח והדר לוי. וגם: ביקור נוסף בסטודיו לקרמיקה, עם טליה ברטפלד, טופז ממוקה ואלעד גלעדי, ואיך מתמודדים עם המהלכים להקמת מדינה פלסטינית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/950628/",
+       "id": "950628",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 29",
+       "logo": "https://www.kan.org.il/media/x2tfsw31/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ax5vzd99/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-05",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: איך מנדי וביתאן התכוננו לחזרה ללימודים, ומפגש מוזיקלי עם רועי בר-נתן, עילי בוטנר, שחר סגל ודליה גוטמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/948481/",
+       "id": "948481",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 28",
+       "logo": "https://www.kan.org.il/media/gzplgivy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5sc1afak/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-22",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ומאיה בצלאל. וגם: קובי פרג' עם סרט חדש על יוסף שילוח ז''ל, והג'ינג'ים ונועה יהודאי יוצאים לחוג קרמיקה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/944255/",
+       "id": "944255",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 27",
+       "logo": "https://www.kan.org.il/media/cl5p4n04/shaistern_se05e27_digital00_23_46_36still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ynqeoqy9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-14",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם - מציינים יום הולדת לגל גדות ונלחמים בעומס החום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/941419/",
+       "id": "941419",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 26",
+       "logo": "https://www.kan.org.il/media/u1slulpq/שטרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ohkfyhw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-08",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: ליטל שוורץ ושי נהנים בחופש הגדול.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/939518/",
+       "id": "939518",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 25",
+       "logo": "https://www.kan.org.il/media/thbinsmz/shaistern_se05e25_digital00_02_05_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rfs7pxyw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-01",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ומאיה בצלאל. וגם: מנדי ביתאן מציינים את תשעה באב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/937175/",
+       "id": "937175",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 24",
+       "logo": "https://www.kan.org.il/media/piwn1nln/shaistern_se05e24_digital00_26_05_38still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r4c0s8fx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-25",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: מנדי ביתאן חוגגים את החופש הגדול, משה אשכנזי חוזר מתאילנד, ודוקטור דניאל דריי מלמד איך אסור לבגוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/935042/",
+       "id": "935042",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 23",
+       "logo": "https://www.kan.org.il/media/smmm5s2e/s0493792_100_02_44_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tf91lc38/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-18",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי וצביקה הדר. וגם: גרייניק ואלתרמן בראיון זוגי, מנדי וביתאן הולכים לים, ושון סופטי מ\"חוליגנים\" מגיע לאולפן לחגוג את סיום הסדרה!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/932681/",
+       "id": "932681",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 22",
+       "logo": "https://www.kan.org.il/media/h11ne1w5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rx6akkwq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-11",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: מני ממטרה חוגג את החופש הגדול, יניב ביטון בשאלון אחד על אחד, וטליה ברטפלד מבררת איך חוסכים במהלך הקיץ?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/930354/",
+       "id": "930354",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 21",
+       "logo": "https://www.kan.org.il/media/wr4oiskg/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fzpncquw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-04",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן. וגם: דורית רביניאן מגיעה לחגוג את שובו של שבוע הספר, וצביקה הדר בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/927983/",
+       "id": "927983",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 20",
+       "logo": "https://www.kan.org.il/media/1u3cqnku/שטרן_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nc5tnu74/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-27",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, דודו ארז ומושיק גלאמין. וגם: דני פרידלנדר ונעה יהודאי יגיעו לבקר, שי יוצא לפגוש בכיר לשעבר במשמרות המהפכה, ואיך הישראלים מסתדרים עם נדודי השינה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/925814/",
+       "id": "925814",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 19",
+       "logo": "https://www.kan.org.il/media/2mxp2ry3/שטרן-נקי-לפרק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kvxazsdn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-20",
+       "plot": "אחרי שבוע שכזה, מגיע לנו קצת לצחוק, עם אורנה בנאי, אורי גוטליב, דודו ארז ודניאל כהן. וגם: שי יוצא להצטייד בסופרמרקט ובבית המרקחת, ומיכל דליות ודוד מוטאי עוצרים לביקור באולפן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/923127/",
+       "id": "923127",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 18",
+       "logo": "https://www.kan.org.il/media/yp3c3jui/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f0agxcpo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-06",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ומאיה בצלאל, וגם: איך בוחרים את האבטיח המושלם לקיץ, ושי בשיחה אישית עם הקומיקאי מתן פרץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/916994/",
+       "id": "916994",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 17",
+       "logo": "https://www.kan.org.il/media/4ctgxf5w/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_679hmnsn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-30",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן, וגם: מיקי שמו מתכונן לשבועות, ורביטל ויטלזון בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/913653/",
+       "id": "913653",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 16",
+       "logo": "https://www.kan.org.il/media/uexnzfdj/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dqep6hge/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-23",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גולטיב, מושיק גלאמין והדר לוי. וגם: שי מגיע לנתב\"ג לבחון את משבר התעופה, והילד אדם מתייחס בהרחבה למשבר החינוך.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/911295/",
+       "id": "911295",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 15 - ספיישל אירוויזיון",
+       "logo": "https://www.kan.org.il/media/ct1dar2k/s0493783_100_31_45_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lf2omnqp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-16",
+       "plot": "אורנה בנאי, אורי גוטליב, הדר לוי ודניאל כהן מסכמים את השבוע ומתכוננים לגמר הגדול בבאזל! וגם: מה יש ליואב צפיר, מנדי וביתאן וניקי גולדשטיין לאחל ליובל רפאל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/903242/",
+       "id": "903242",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 14",
+       "logo": "https://www.kan.org.il/media/kqmlpjxm/שי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4g2h8zek/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-09",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ומאיה בצלאל. וגם: שי יוצא לרחוב לראות איך עם ישראל מתמודד עם יוקר המחייה, ומה נעשה עם כל חיות הבר שהשתלטו על המרחב הציבורי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/900634/",
+       "id": "900634",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 13",
+       "logo": "https://www.kan.org.il/media/cjrngo32/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_84d3kc1v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-25",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, מאיה בצלאל ויונה קפח. וגם: איך מתכוננים ליום העצמאות, ושי נפגש עם רשף לוי, מנחה השעשועון ''הזירה''.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/893649/",
+       "id": "893649",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 12",
+       "logo": "https://www.kan.org.il/media/bt5hr2is/אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7qahebu8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-04",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, יונה קפח ודניאל כהן. וגם: שי בראיון אישי עם משה אשכנזי, ומה קורה ב\"סחנה\" לקראת חופשת הפסח?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/879189/",
+       "id": "879189",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 11",
+       "logo": "https://www.kan.org.il/media/qddjepq5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_52h5h6hr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-28",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, הדר לוי ומושיק גלאמין. וגם: שי בראיון אחד על אחד עם שלום אסייג, ומנדי וביתאן מסכמים שבוע פוליטי לא פשוט.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/876556/",
+       "id": "876556",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 10",
+       "logo": "https://www.kan.org.il/media/5ntnpv2f/שי-שטרן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s78l5vc3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-21",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, מושיק גלאמין ויונה קפח. וגם - שי נפגש עם שאול אמסטרדמסקי בנסיון לקנות דירה, ובעקבות המו''מ בין ארה''ב לאיראן נברר - איך הפרסים מתמקחים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/873426/",
+       "id": "873426",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 9",
+       "logo": "https://www.kan.org.il/media/u5uglkgf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g8w2y1n2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-14",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, דודו ארז והדר לוי. וגם - שי יוצא לברר מה אנשים יודעים על פורים, ושאלונים חגיגיים עם אבי קושניר והשף חיים כהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/870630/",
+       "id": "870630",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 8",
+       "logo": "https://www.kan.org.il/media/mqmczqof/שי-שטרן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3z9fjxdf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-07",
+       "plot": "הפאנל הכי מצחיק לערב שבת מסכם את השבוע. עם אורנה בנאי, אורי גוטליב, יונה קפאח ומושיק גלאמין. וגם: שי יוצא לפגוש את המין היפה לכבוד יום האישה הבין-לאומי, ומנדי וביתאן נדרשים לשלב ב' של עסקת החטופים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/868179/",
+       "id": "868179",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 7",
+       "logo": "https://www.kan.org.il/media/3jphgdjy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kbvtfej7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-23",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, יונה קפח והדר לוי. וגם: ראיון אישי עם אוראל צברי, ושי שטרן יוצא לבדוק איך מתמודדים בעלי חיות המחמד עם גל הקור הקיצוני.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/863382/",
+       "id": "863382",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 6",
+       "logo": "https://www.kan.org.il/media/igzftbyx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v7wwp3n2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-14",
+       "plot": "הפאנל הכי מצחיק לערב שבת מסכם את השבוע. עם: אורנה בנאי, אורי גוטליב, דודו ארז והדר לוי. וגם: שי יוצא לבדוק האם הבינה המלאכותית תחליף אותו בעבודה, והילד אדם מתכונן לוולנטיינ'ס דיי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/860041/",
+       "id": "860041",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 5",
+       "logo": "https://www.kan.org.il/media/5l5hjfos/שי-שטרן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9xq9tpy0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-07",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, יונה קפח ויגאל עדיקא. וגם: יום הולדת שבעים לפנינה רוזנבלום, ושי יוצא לבקר בעיר החטאים – יבנה!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/857258/",
+       "id": "857258",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 4",
+       "logo": "https://www.kan.org.il/media/bbpeumnj/שי-שטרן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qvntnith/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-31",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, הדר לוי ומושיק גלאמין. וגם: הנציגה שלנו לאירוויזיון יובל רפאל בראיון מיוחד, ומה נסגר עם המחירים המטורפים של וולט?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/854435/",
+       "id": "854435",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 3",
+       "logo": "https://www.kan.org.il/media/gitb05en/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ac8vaanh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-24",
+       "plot": "הפאנל הכי מצחיק לערב שבת מדבר על כל מה שקרה השבוע. עם אורנה בנאי, אורי גוטליב, מאיה בצלאל ויונה קפאח. וגם: מנדי וביתאן על הפסקת האש והעסקה להחזרת החטופים, ושי עורך ראיון קצר עם השחקן יובל סגל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/851420/",
+       "id": "851420",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 2",
+       "logo": "https://www.kan.org.il/media/55kgenyt/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cegjieg4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-17",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, דודו ארז והדר לוי. וגם: שי יוצא להילחם במחלות החורף, ואבי נוסבאום מגיע לשאלון אישי על זוגיות ומשפחה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/848589/",
+       "id": "848589",
+       "season": 5
+      },
+      {
+       "name": "ערב עם שי שטרן 5 - פרק 1",
+       "logo": "https://www.kan.org.il/media/gkkpej3v/שי-שטרן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7an0zttb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-10",
+       "plot": "הפאנל הכי מצחיק לערב שבת. עם אורנה בנאי, אורי גוטליב, יונה קפאח וארז שלם. וגם: שי מגיע לנמל התעופה לברר מדוע בורחים מפה מוחות, וגם מבקר את קובן ואסנהיים בתוכנית החדשה שלהם: \"יהיה טוב\".",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/845692/",
+       "id": "845692",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 40",
+       "logo": "https://www.kan.org.il/media/wkyphtsg/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u3krr8h4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-27",
+       "plot": "הצטרפו לפאנל הכי מצחיק לערב שבת בספיישל חנוכה מדליק! עם אורנה בנאי, אורי גוטליב, יונה קפאח והדר לוי. וגם: שי יוצא לרחוב עם משאל החנוכה הגדול, ומנדי וביתאן מזדרזים לסכם את 2024.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/840997/",
+       "id": "840997",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 39",
+       "logo": "https://www.kan.org.il/media/pjdje0o3/שי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3zp4fxgj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-20",
+       "plot": "הפאנל הכי מצחיק לערב שבת מדבר על השבוע שחלף. עם אורנה בנאי, אורי גוטליב, הדר לוי ודודו ארז. וגם: שי יוצא לירושלים לדבר עם כורדים על המצב בסוריה, ורותם אבוהב מגיעה לשאלון זריז.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/838352/",
+       "id": "838352",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 38",
+       "logo": "https://www.kan.org.il/media/nzyd4vgv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lehgxnzh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-13",
+       "plot": "הפאנל הכי מצחיק לערב שבת, עם אורנה בנאי, אורי גוטליב, יונה קפאח ומאיה בצלאל. וגם: שי יוצא לברר מה באמת קורה ברחובות טהרן, ובצל הצעת החוק העדכנית, מנדי וביתאן נדרשים לסוגיית ההפרדה המגדרית באקדמיה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/835739/",
+       "id": "835739",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 37",
+       "logo": "https://www.kan.org.il/media/bmro2swh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5ujsj3vz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-06",
+       "plot": "הפאנל הכי מצחיק לערב שבת, עם אורנה בנאי, אורי גוטליב, מושיק גלאמין והדר לוי. וגם: מנדי וביתאן עם אזרחי העולם הגדול שבחרו לגור דווקא בישראל, ושאלון מהיר עם השחקן דביר בנדק.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/833000/",
+       "id": "833000",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 36",
+       "logo": "https://www.kan.org.il/media/o53necti/לאצר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4yd68s81/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "הפאנל הכי מצחיק לערב שבת. והפעם: אורנה בנאי, אורי גוטליב, דודו ארז ויונה קפאח ידברו על הפסקת האש, הדיונים בהאג, החותים ברוסיה, בלאק פריידי ואפילו מיכל ינאי. וגם: למי יחגגו יום הולדת בהפתעה באולפן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/830339/",
+       "id": "830339",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 35",
+       "logo": "https://www.kan.org.il/media/latdg4bt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tab7u199/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-21",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, הדר לוי, מיה בצלאל, והפסיכולוג דני פרידלנדר שמדברים על כל מה שקרה להם ולנו השבוע, כולל מצב רוח הלאומי, גיוס החרדים ורווחי הבנקים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/827126/",
+       "id": "827126",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 34",
+       "logo": "https://www.kan.org.il/media/eoohrcvc/s0456727_100_23_35_42still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dap9bizg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-15",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, הדר לוי ומושיק גלאמין שמדברים על כל מה שקרה להם ולנו השבוע, כולל המצב הביטחוני וטקס פרסי הטיקטוק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/824851/",
+       "id": "824851",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 33",
+       "logo": "https://www.kan.org.il/media/nt1lqgfo/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mjwzvjao/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-08",
+       "plot": "הפאנל הכי מצחיק לערב שבת מסכם את כל מה שקרה השבוע. עם: אורנה בנאי, אורי גוטליב, דודו ארז ויונה קפח. וגם: דניאל סטיופין (\"קופה ראשית\") מנסה להבין את תקציב המדינה, ומנדי וביתאן נכנסים לכושר אחרי החגים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/822190/",
+       "id": "822190",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 32",
+       "logo": "https://www.kan.org.il/media/wqyd0y4x/ערב-עם-שי-שטרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b03jey80/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-01",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, הדר לוי ומושיק גלאמין. וגם: האם בני ברוכים יצליח לרגל עבורנו באיראן? למה מעיין לאוב התאהבה בבצלאל סמוטריץ'? ומה חושבים על חוק הגיוס בשוק מחנה יהודה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/819247/",
+       "id": "819247",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 31",
+       "logo": "https://www.kan.org.il/media/wc2f5zd3/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6gw23eza/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-27",
+       "plot": "שי שטרן מסכם את השנה שעברה ומקבל את החדשה עם אורנה בנאי, אורי גוטליב, יונה קפח ויגאל עדיקא. וגם: שנה מתוקה עם קרין גורן, סליחות עם דוד דביר, ודואט החגים האולטימטיבי של אורנה בנאי ופנינה רוזנבלום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/805138/",
+       "id": "805138",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 30",
+       "logo": "https://www.kan.org.il/media/glyil50x/שי-שטרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0upx7fwf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-20",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, הדר לוי ומושיק גלאמין. וגם: מנדי וביתאן יוצאים לחקור את משטרת ישראל תחת השר בן גביר, ושי, יחד עם מירית המוגזמת וויקטור,\"השד הקווקזי\", מנסים להיכנס לספר השיאים של גינס.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/802339/",
+       "id": "802339",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 29",
+       "logo": "https://www.kan.org.il/media/2olnacy2/שי-שטרן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cfz0j8po/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-13",
+       "plot": "שי שטרן מארח את הפאנל המצחיק ביותר לערב שבת, עם אורנה בנאי, אורי גוטליב, יגאל עדיקא ומיה דגן. וגם: קבלו את המפקדת אלונה סער, מנדי וביתאן מסכמים 11 חודשי לחימה, ושחר טבוך ו\"צמד רעים\" מחדשים עוד להיט אהוב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/799731/",
+       "id": "799731",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 28",
+       "logo": "https://www.kan.org.il/media/hueb0uzu/תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bccugfcp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-06",
+       "plot": "הצטרפו לשי שטרן ולפאנל הכי מצחיק לערב שבת: אורנה בנאי, אורי גוטליב, הדר לוי ויגאל עדיקא. וגם: מנדי וביתאן בהפגנת הענק, הילד אדם וייס פותח את שנת הלימודים, ודודו ארז יוצא לפתור את בעיית האקלים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/797382/",
+       "id": "797382",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 27",
+       "logo": "https://www.kan.org.il/media/jcpllzvh/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8kxq6k3d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-23",
+       "plot": "התכנית הכי מצחיקה לערב שבת, עם אורנה בנאי, אורי גוטליב, מיה דגן ויגאל עדיקא. וגם: חוגגים יום הולדת להודו עם מנדי וקאלו באבא, שרהל'ה שרון מזמרת לכבוד ט''ו באב, ודודו ארז מחפש תשובות על בעיות האקלים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/792094/",
+       "id": "792094",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 26",
+       "logo": "https://www.kan.org.il/media/53zdayp0/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mhgrzb5l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-16",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, יונה קפח, מושיק גלאמין וגם: מנדי ביתן על החופש הגדול במגזר החרדי, ומירית גליצקי המוגזמת בפינת הישרדות לקראת סוף העולם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/784849/",
+       "id": "784849",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 25",
+       "logo": "https://www.kan.org.il/media/vognobpo/s0456718_100_17_05_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d8dtbe1o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-09",
+       "plot": "בואו לסכם את השבוע עם הפאנל הכי מצחיק בטלוויזיה: אורנה בנאי, אורי גוטליב, מאיה בצלאל ויונה קפח. וגם: מנדי וביתאן מחפשים אהבת חינם בכותל המערבי, הדר לוי בסדנת חיבוקים, והאם הייתם קונים שווארמה ב-120 שקל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/782518/",
+       "id": "782518",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 24",
+       "logo": "https://www.kan.org.il/media/vw5h14cs/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_37e1xd0e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-02",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, יונה קפח ומאיה בצלאל. וגם: מה מנדי וביתאן חושבים על כותרות השבוע? טליה ברטפלד נפגשת עם כוכבי רשת, ומירית \"המוגזמת\" גליצקי מנסה את מזלה בבריכת גלים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/779739/",
+       "id": "779739",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 23",
+       "logo": "https://www.kan.org.il/media/qgjbkves/s0456716_100_08_01_38still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5j5orye3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-26",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, יונה קפח ויאיר ניצני. וגם: נסים גרמה על התקיפה בתימן, הדר לוי ואריק זאבי מתכוננים לאולימפיאדה, ומי יזכה בתואר קולף האבטיחים המהיר במזרח התיכון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/777310/",
+       "id": "777310",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 22",
+       "logo": "https://www.kan.org.il/media/r4qp1bpq/שי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rhlsss7o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-19",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, נלי תגר, יוסי מרשק, יונה קפאח והדר לוי שמדברים על כל מה שקרה להם ולנו השבוע, כולל המכירה של ויז לגוגל ומחנות הקיץ בצופים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/774811/",
+       "id": "774811",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 21",
+       "logo": "https://www.kan.org.il/media/ze4lnpww/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nnco87w4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-12",
+       "plot": "הצטרפו לשולחן השבת המצחיק ביותר בטלוויזיה! והפעם - שי שטרן מארח את אורנה בנאי, אורי גוטליב, יונה קפח ויוסי מרשק. וגם: מנדי וביתאן הגיעו ליום השיבוש ודודו ארז עם כל מה שרציתם לדעת על ירושות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/772286/",
+       "id": "772286",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 20",
+       "logo": "https://www.kan.org.il/media/uztezyz0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c6to9owa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-28",
+       "plot": "התכנית הכי מצחיקה לערב שבת! והפעם שי שטרן מארח את: אורנה בנאי, אורי גוטליב, יוסי מרשק ונלי תגר. וגם: שי יוצא לשבוע הספר במתחם שרונה, דודו ארז נזהר ממזיקי הקיץ, ואיך מתכוננים למלחמה כוללת בצפון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/767088/",
+       "id": "767088",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 19",
+       "logo": "https://www.kan.org.il/media/eazjcxcp/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ea5tqhhc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-07",
+       "plot": "הצטרפו לשי שטרן ולפאנל הכי מצחיק בטלוויזיה! והפעם: אורנה בנאי, אורי גוטליב, מוקי ומאיה בצלאל. וגם: שי יוצא למשאל רחוב המסורתי בנושא שבועות, והדר לוי חוטפת קריזה על ועד ההורים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/758624/",
+       "id": "758624",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 18",
+       "logo": "https://www.kan.org.il/media/24mfllx0/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4ywm4e6b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-31",
+       "plot": "שי שטרן מארח את: אורנה בנאי, מאיה בצלאל, אורי גוטליב ועפר שכטר. וגם: מנדי וביתאן על הלחץ הבינלאומי, \"צמד רעים\" מנסים להתחבר ללהיט \"נאדי באדי\" של שחר טבוך, ודודו ארז מחפש ביטוח בריאות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/755804/",
+       "id": "755804",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 17",
+       "logo": "https://www.kan.org.il/media/zl5jkeex/לאתר-פרק-17.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_weom8d6w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-24",
+       "plot": "שי שטרן מארח את אורנה בנאי, יגאל עדיקא, אורי גוטליב ומאיה בצלאל. וגם: מנדי וביתאן מתכוננים לל\"ג בעומר, דרור קונטנטו מתעצבן מהפקקים, דודו ארז מחפש עבודה ומה נסגר עם המשפחה של ניקי גולדשטיין?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/753126/",
+       "id": "753126",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 16",
+       "logo": "https://www.kan.org.il/media/r0kkzdfb/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eyvxu55w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-17",
+       "plot": "הפאנל הכי מצחיק שיש לערב שבת! והפעם, שי מארח את אורנה בנאי, עפר שכטר, אורי גוטליב ויונה קפאח. וגם: טליה ברטפלד על חתונות, דודו ארז על ההיכרויות במרחב הוירטואלי, ומנדי וביתאן על פתיחת מושב הקיץ של הכנסת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/750303/",
+       "id": "750303",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 15",
+       "logo": "https://www.kan.org.il/media/d40hyw5k/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9oq8cjlp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-10",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, רודי סעדה ויונה קפאח. וגם: מנדי וביתאן יוצאים לחגוג את האירוויזיון, דודו ארז בודק מה קורה עם מחירי הדיור, ואיך עם ישראל מתכונן לתפריט יום העצמאות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/747698/",
+       "id": "747698",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 14",
+       "logo": "https://www.kan.org.il/media/y4jndb14/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y3vlv6n0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-19",
+       "plot": "המפגש הכי מצחיק של ערב שבת! שי שטרן מארח את אורנה בנאי, עפר שכטר, יגאל עדיקא, רמי ורד ויונה קפח. וגם: דודו ארז פותח את עונת הרחצה, דרור קונטנטו מתכונן לליל הסדר, והדר לוי מתעצבנת שאי אפשר לתכנן קדימה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/739954/",
+       "id": "739954",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 13",
+       "logo": "https://www.kan.org.il/media/fa3bgxfx/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uxtd1men/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-12",
+       "plot": "שי שטרן מארח את: אורנה בנאי, מוקי, אורי גוטליב, מאיה בצלאל ויונה קפח. וגם: מנדי וביתאן על החרם העולמי, דודו ארז על הירידה בילודה, והדר לוי עם רשימת המילארדרים החדשה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/736923/",
+       "id": "736923",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 12",
+       "logo": "https://www.kan.org.il/media/nscfk2zh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f0klhm0y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-05",
+       "plot": "שי שטרן מארח את: אורי גוטליב, אורנה בנאי, מאיה בצלאל, דניאל סטיופין ויונה קפח. וגם: מה קרה בהפגנה בירושלים? עד כמה יעלו מחירי הדלק והדר לוי שואלת שאלה פשוטה: למה כולנו לא עידן עמדי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/734031/",
+       "id": "734031",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 11",
+       "logo": "https://www.kan.org.il/media/tktnfnle/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_terl0r7j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-29",
+       "plot": "שי שטרן מארח את אורנה בנאי, אורי גוטליב, יגאל עדיקא, דרור קונטנטו ויונה קפח. וגם: דודו ארז יוצא למלחמה בבנקים, הדר לוי מתלוננת על מכת הכינים, טליה ברטפלד על טרנדים בטיקטוק, ומי באמת המציא את החמוצים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/730678/",
+       "id": "730678",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 10",
+       "logo": "https://www.kan.org.il/media/npse1x1h/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wu6oxmzc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-15",
+       "plot": "שי שטרן מארח את פבלו רוזנברג, כוכבת \"הצבי\" סוזאנה פביאן, רפ\"ק מאלי שושנה ממשטרת שדרות, נעם גרשוני, אורי גוטליב ויונה קפח. וגם: מנדי וביתאן מתכוננים לפורים, ודודו ארז בודק מה קורה עם המוניות בנתב\"ג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/723531/",
+       "id": "723531",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 9",
+       "logo": "https://www.kan.org.il/media/gzlntu2x/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0dwve877/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-07",
+       "plot": "שי שטרן מארח את תת אלוף במיל' גיורא ענבר, טל מוסרי, השפית פראח רסלאן, התצפיתנית לשעבר גינת מויאל, אורי גוטליב ויונה קפח. וגם: כלבים טיפוליים בבילינסון, מנדי וביתאן מצטיידים למלחמה ודודו ארז על יום האישה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/717444/",
+       "id": "717444",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 8",
+       "logo": "https://www.kan.org.il/media/ld4nr4iz/s0456701_100_03_08_44still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0tmv32d9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-01",
+       "plot": "שי שטרן מארח את עידו ברטל, שי לי שינדלר והספורטאית ניקול רובנוביץ'. וגם: פרידה מצ'רלי ביטון שהלך לעולמו, תמונת מצב של התיירות בישראל, איך נפתור את סוגיית גיוס החרדים, ודודו ארז מברר איך להפוך למשפיען רשת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/714157/",
+       "id": "714157",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 7",
+       "logo": "https://www.kan.org.il/media/lgphhfgb/לאתר-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vpozogtz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-23",
+       "plot": "שי שטרן מארח את אורנה בנאי, חזי דין, עטרה אוריה, אורי גוטליב ויונה קפח. וגם: שאנן סטריט מ''הדג נחש'' מעביר כיתת אמן לסטודנטים ממכללת ספיר, והדר לוי על ילדים במלחמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/709566/",
+       "id": "709566",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 6",
+       "logo": "https://www.kan.org.il/media/kkhbmldh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2rdw8nmx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-16",
+       "plot": "שי שטרן מארח את: איתן כבל, עמית פרקש, שחר טבוך, מאיה בצלאל, אורי גוטליב ויונה קפח. וגם: בתו של לואיס הר ששוחרר השבוע בפעולה, יעקב וחני בוזגלו לכבוד יום האהבה, והדר לוי  על טרנד 21",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/705574/",
+       "id": "705574",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 5",
+       "logo": "https://www.kan.org.il/media/i2abpvg2/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_neg8lpor/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-09",
+       "plot": "שי שטרן מארח את יגאל עדיקא, הלוחמת שפרה בוכריס, עילי בוטנר, המסעדנית סוזנה סולומון ואימרי ביטון. וגם: המילואימניקים חוזרים לאקדמיה, הדר לוי על הלחימה בצפון, ודודו ארז מברר למה ישראל המדינה הכי טובה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/700817/",
+       "id": "700817",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 4",
+       "logo": "https://www.kan.org.il/media/cjthcrb5/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fp12q8jm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-02",
+       "plot": "שי שטרן מארח את יפתח קליין, לייזה פאנלים, דניאלה לונדון דקל, אורי גוטליב ויונה קפח. וגם: מה קרה בכנס ההתיישבות בבנייני האומה? דודו ארז על מחלות החורף, והדר לוי על דברים שנעלמו מאז ה-7.10",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/696893/",
+       "id": "696893",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 3",
+       "logo": "https://www.kan.org.il/media/u0zai44l/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kmi75mns/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-19",
+       "plot": "שי שטרן מארח את ואלרי חמאתי, זיו קורן, אורלי זילברשץ, אורי גוטליב ויונה קפאח. וגם: מנדי וביתאן אוכלים חמין, הדר לוי מתחמשת, וסיור מאחורי הקלעים של צילומי הסדרה ''המפקדת''",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/687600/",
+       "id": "687600",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 2",
+       "logo": "https://www.kan.org.il/media/21gfgcwr/s0456695_100_15_28_38still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xcl1p5ry/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-12",
+       "plot": "שי שטרן מארח את קובי אוז, אריק זאבי, רודי סעדה ונורית גפן. וגם: יונה קפאח על אוכל מנחם, מנדי וביתאן על היום שאחרי, ודודו ארז מסתער על נתב''ג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/683080/",
+       "id": "683080",
+       "season": 4
+      },
+      {
+       "name": "ערב עם שי שטרן 4 - פרק 1",
+       "logo": "https://www.kan.org.il/media/bnsnpdun/s0456694_100_19_12_40still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wzcidnwf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-05",
+       "plot": "שי שטרן מארח את אביבה נגוסה, דרור גלוברמן, מאי תגר, לירן רוזן, אורי גוטליב, יונה קפאח. וגם: מני ממטרה ופרלה דנוך מקבלים שנה חדשה, ומנדי וביתאן בשיעור קרב מגע.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s4/669837/",
+       "id": "669837",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 40",
+       "logo": "https://www.kan.org.il/media/svaby1bz/שי-שטרן-3-פרק-40.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w3xyi4oz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-29",
+       "plot": "שי שטרן מארח את: פבלו רוזנברג וגל תורן, יהודית כץ, אירה ויגדורצ'יק ואורי גוטליב. וגם: דניאל סטיופין חוגג נובי גוד, והדר לוי מסכמת שנה... מאתגרת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/664966/",
+       "id": "664966",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 39",
+       "logo": "https://www.kan.org.il/media/vlonq0aw/לאמשהושישטרןביננו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_975pjjno/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-22",
+       "plot": "שי שטרן מארח את לוקאץ', אורי גוטליב, הכלכלן אלדד תמיר, תכלת גינס-קומיקאית כבדת שמיעה, ותום שקד שעם לוקאס הכלב, מבקרים חיילים בבתי חולים. וגם-יואב קרקובסקי בשוק מחנה יהודה, והדר לוי על העצמאיים בסוף שנה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/660199/",
+       "id": "660199",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 38",
+       "logo": "https://www.kan.org.il/media/mg0bvtj0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1d8cqwu3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-15",
+       "plot": "שי שטרן מארח את מוקי, דניאל סטיופין, יניב סוויסה, ד״ר מיכל יערי - הבת של ומומחית למדינות המפרץ, שיר פלד, מסתערבת ולוחמת לשעבר ואורי גוטליב. וגם - מנדי וביתאן על תקציב המדינה והדר לוי על נשים במלחמה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/655679/",
+       "id": "655679",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 37",
+       "logo": "https://www.kan.org.il/media/k4mpzw1c/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hqhbync8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-08",
+       "plot": "שי שטרן מארח בשידור חי את טיטי איינאו, אורי גוטליב, יעקב דניאל זאדה, רועי קייס, מיכל דליות. וגם: פגישה עם המפונים בכפר המכבייה, ומהם הטרנדים החמים של המלחמה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/646005/",
+       "id": "646005",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 36",
+       "logo": "https://www.kan.org.il/media/dfdmqmoe/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iad5l9mp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-24",
+       "plot": "שי שטרן מארח בשידור חי את דביר בנדק, טיטי איינהו, מאיה בצלאל, אורי גוטליב וגם - מנדי וביתאן מסבירים למה לא אוהבים אותנו בעולם, והדר לוי על דובר צה\"ל, תת-אלוף, דניאל הגרי, ודמות הגבר המודרני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/621715/",
+       "id": "621715",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 35",
+       "logo": "https://www.kan.org.il/media/qtpn2ywe/kan11_2023-11-17_22_35_34.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sds2cl77/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "שי שטרן חוזר לארח בערב שבת בשידור חי. עם אבי סינגולדה, עינת שרוף, יגאל עדיקא, אורי גוטליב וקאלו באבא. וגם – דניאל סטיופין על העלייה מרוסיה ומנדי וביתאן יוצאים למטווח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/612384/",
+       "id": "612384",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 34",
+       "logo": "https://www.kan.org.il/media/21odiqew/intro00_05_15_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8mt8o036/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-06",
+       "plot": "שי שטרן מגיש לכם בשידור חי תכנית קצת אחרת עם אורחים, ראיונות וכתבות מיוחדות לאור המלחמה בדרום\nאורחים: עמרי אסנהיים, עידן אלתרמן, נירה שפק, אורין גנץ ונורית גפן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/597753/",
+       "id": "597753",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 33",
+       "logo": "https://www.kan.org.il/media/oftoj33j/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nf8bqsih/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-30",
+       "plot": "שי שטרן מגיש לכם בשידור חי תוכנית קצת אחרת עם אורחים, ראיונות וכתבות מיוחדות לאור המלחמה בדרום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/588616/",
+       "id": "588616",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 32",
+       "logo": "https://www.kan.org.il/media/tsbko54r/s0416392_100_47_37_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j2709xq6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-25",
+       "plot": "שי שטרן מגיש לכם בשידור חי תכנית קצת אחרת עם אורחים, ראיונות וכתבות מיוחדות לאור המלחמה בדרום.\nאורחים: יוסף חדאד, רון בן ישי, נורית גפן ואחרים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/582009/",
+       "id": "582009",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 31",
+       "logo": "https://www.kan.org.il/media/fp3lo1hm/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ku3a9qsk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-20",
+       "plot": "שי שטרן מגיש לכם בשידור חי תכנית קצת אחרת עם אורחים, ראיונות וכתבות מיוחדות לאור המלחמה בדרום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/575334/",
+       "id": "575334",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 30",
+       "logo": "https://www.kan.org.il/media/mmsd1kyh/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0squr0ke/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-13",
+       "plot": "שי שטרן מגיש לכם תכנית קצת אחרת עם אורחים, ראיונות וכתבות מיוחדות לאור המלחמה בדרום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/566229/",
+       "id": "566229",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 29",
+       "logo": "https://www.kan.org.il/media/tjebcxak/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6ip0f6fa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-08",
+       "plot": "שי שטרן מארח את יאיר ניצני, דוד דביר, עינת שרוף, פלד ומאיה דגן. וגם: דודו ארז בודק מה אתם באמת יודעים על חגי תשרי, וגיבור ישראל אביגדור קהלני בשיחה מיוחדת לקראת 50 שנה למלחמת יום הכיפורים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/522598/",
+       "id": "522598",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 28",
+       "logo": "https://www.kan.org.il/media/vtrm1jyb/לאתר-3-28.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mevfve2k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-01",
+       "plot": "שי שטרן מארח את אלון אולארצ'יק, מיכל דליות, מיכאל מושונוב, עדנה בליליוס ושלומי יפרח. וגם: חברי \"זהו זה\" בהופעה בבריכת הסולטן, הדר לוי פותחת את שנת הלימודים, ומה יש לקהילת עולי לוב לומר על השבוע שחלף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/512757/",
+       "id": "512757",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 27",
+       "logo": "https://www.kan.org.il/media/xphb3a5v/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ldf77pj6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-18",
+       "plot": "שי שטרן מארח את זיו שילון, אושרת עיני, אליאב זוהר, אביגדור קהלני, הקומיקאית פרלה דנוך והסטנדאפיסט דודו ארז, וגם - הדר לוי בתובנות על חזרה לבית הספר, ומנדי וביתאן שמחפשים שיטות להירגע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/492551/",
+       "id": "492551",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 26",
+       "logo": "https://www.kan.org.il/media/pizj3ti5/לאתר-26.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y7rxaaz9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-11",
+       "plot": "שי שטרן מארח את אלון אבוטבול, דן דן בולטין, אבי גרייניק, אופק ראשון, דנה אברהם סמו, וגם: אביגדור קהלני על מלחמת יום הכיפורים, הדר לוי על יומולדת 5 לטיקטוק, ומנדי ביתאן בפרימיירה של סובייצקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/482866/",
+       "id": "482866",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 25",
+       "logo": "https://www.kan.org.il/media/dhuljvvw/מסכמים-שבוע.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4y61tdx7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-04",
+       "plot": "שי שטרן מארח את קובי פרג', עו\"ד שני אילוז, ניקי גולדשטיין, רונית כפיר ויונה קפח. וגם: אביגדור קהלני על מלחמת יום הכיפורים, מנדי וביתאן לומדים על תנועת ההיפרדות, והדר לוי חוגגת על דרכון פורטוגלי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/473249/",
+       "id": "473249",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 24",
+       "logo": "https://www.kan.org.il/media/whgpienl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3fwv85ml/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-28",
+       "plot": "שי שטרן מארח את נמרוד הראל, דור הררי, עירית בנדק, יובל מנדלסון, מורן זר כצנשטיין. וגם: הדר לוי מרחמת על תיירים, ביקור במוזיאון המטקות והרבה אהבה לקראת ט''ו באב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/464581/",
+       "id": "464581",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 23",
+       "logo": "https://www.kan.org.il/media/1tjagjfz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6kgdsa3j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-21",
+       "plot": "שי שטרן מארח את דני איילון, יפתח קליין, אביבה נגוסה, בת אל פאפורה ורמי ורד. וגם: מנדי וביתאן בכותל לקראת ט' באב, הדר לוי בוחרת חיית מחמד ויונה קפח מתמודדת עם החום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/455785/",
+       "id": "455785",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 22",
+       "logo": "https://www.kan.org.il/media/qsblw4yy/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_myrnlzqs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-14",
+       "plot": "שי שטרן מארח את פרופ' רפי קרסו, שי גבסו, ארז שלם, מאיה בצלאל ונעמה מריומה. וגם: מיקי גבריאלוב בראיון מרגש, הדר לוי על טרנד אמבטיות הקרח ומנדי וביתאן מפגינים בקפלן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/445376/",
+       "id": "445376",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 21",
+       "logo": "https://www.kan.org.il/media/kjtn1qyc/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aamzxeeg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-07",
+       "plot": "שי שטרן מארח את אירה ויגדורצ'יק, שירי קניגסברג-לוי, יעקב בוזגלו ומושיק גלאמין. וגם: 100 שנה לשוק מחנה יהודה, מני ממטרה מצטרף לסדנת שיפוצים לנשים בלבד והדר לוי טסה לחו\"ל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/437466/",
+       "id": "437466",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 20",
+       "logo": "https://www.kan.org.il/media/rjlnaeu4/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pntr9d2h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-30",
+       "plot": "שי שטרן מארח את: אודטה, ריטה שוקרון, ששי גז, ינץ לוי ואמירה בוזגלו. וגם: הדר לוי על קייטנות, ואיך בוחרים אבטיח מושלם?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/423357/",
+       "id": "423357",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 19",
+       "logo": "https://www.kan.org.il/media/hfkhkekh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0eh8ivhs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-23",
+       "plot": "תכנית האירוח שלכם לסוף השבוע! והפעם שי מארח את: אורנה בן דור, אורטל בניסטי, איגי וקסמן, נורמן עיסא ודרור קונטנטו. וגם: מנדי ביתאן בפרום, הדר לוי יוצאת לבריכה ויונה קפח מדברת על גברים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/411142/",
+       "id": "411142",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 18",
+       "logo": "https://www.kan.org.il/media/dpyhba1b/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_un8tr90l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-16",
+       "plot": "שי שטרן מארח את כוכבות \"שישה אפסים\", שני קליין ולאורה ריבלין, אלדד תמיר, שירז טל ורודי סעדה (\"קופה ראשית\"). וגם: טליה ברטפלד חוסכת כסף, הדר לוי עם ספרי ילדים ולוקאץ' על מלחמות הפלאפל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/398316/",
+       "id": "398316",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן",
+       "logo": "https://www.kan.org.il/media/rlydrik2/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bwxe005g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-09",
+       "plot": "שי שטרן מארח את דורית רביניאן, שחר טבוך, ליבי נחימובסקי, דרור גלוברמן ודודו פישר. וגם: יונה קפח יוצאת לטיול בארץ, הדר לוי בהופעה בפארק, ומה ילדים חושבים על החופש הגדול?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/390959/",
+       "id": "390959",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן",
+       "logo": "https://www.kan.org.il/media/or4fu2ay/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pqnlaeqq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-02",
+       "plot": "שי שטרן מארח את אודליה כרמון, יעקב דניאל זאדה, חמי רודנר, מושיק גלאמין והמטפסת דניאל וולפסון. וגם: יונה קפח על עונת החתונות והדר לוי על ועד ההורים הכיתתי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/384353/",
+       "id": "384353",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 15",
+       "logo": "https://www.kan.org.il/media/o2aendjt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_esbg6049/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-19",
+       "plot": "שי שטרן מארח את פרופ' יורם יובל, יובל סגל, טיטי איינאו, מאיה בצלאל, ובעל מסעדת \"פינתי\" הירושלמית, מאיר מיכה. וגם: משאל רחוב על חג השבועות, הדר לוי בנקיונות, ויונה קפח מתעצבנת על עליות המחירים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/368963/",
+       "id": "368963",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 14",
+       "logo": "https://www.kan.org.il/media/xabjk4eh/2023-5-12-imgid-100329_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f4h9980r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "לקראת גמר האירוויזיון שי מארח את דורון מדלי ואילנית ושולח את מנדי וביתאן להתלבש בהתאם! וגם: טל מוסרי, אורי גוטליב, הדר לוי זוללת רול אפס ויונה קפאח חוזרת מירח דבש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/362352/",
+       "id": "362352",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 13",
+       "logo": "https://www.kan.org.il/media/blwflil1/2023-5-5-imgid-99794_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n9hkl0tz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "שי שטרן מארח את יגאל עדיקא, אורי גבריאל, גל רובין, נאיפה מולא, ואורי גלר. וגם: הדר לוי על דיאטות, מנדי וביתן בודקים מה נשאר בנהלל, ושי עוזר לנו להתכונן לקראת מכת הנחשים של הקיץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/361812/",
+       "id": "361812",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 12",
+       "logo": "https://www.kan.org.il/media/mokjt2er/2023-4-28-imgid-99200_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bb3s7tgu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "תכנית מיוחדת לסיכום יום העצמאות.\r\nשי שטרן מארח את דניאל סטיופין (''קופה ראשית''), נירו לוי, דן כנר, חלי ממן ומרסל מוסרי. וגם: הדר לוי מחפשת עבודה, ושי בוחן עוברי אורח על הקמת המדינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/327916/",
+       "id": "327916",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 11",
+       "logo": "https://www.kan.org.il/media/hsrb1hds/https-kanstaticazureedgenet-download-pictures-2023-3-31-imgid-97243_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u7t0m5j8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לקראת הפסח שי מארח את גיא מזיג, הקוסם חזי דין, הפסיכיאטרית אלונה גד, פעיל לה פמיליה לשעבר דוד מזרחי, ואת יעקב וחני בוזגלו. וגם: מני עוזרי עושה קניות לחג והדר לוי יורדת לסיני.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/163634/",
+       "id": "163634",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 10",
+       "logo": "https://www.kan.org.il/media/oarnhh3w/https-kanstaticazureedgenet-download-pictures-2023-3-24-imgid-96769_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5088vo2c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח את עקיבא נוביק, עינת שרוף, לוקאץ', הפרשנית תמר עילם גינדין, ד''ר זאב דגני והטיקטוקריות אמיליה וליאל קריסרמן. וגם: מנדי וביתאן בשבוע האופנה ויונה קפח בנקיונות לפסח.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/163268/",
+       "id": "163268",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 9",
+       "logo": "https://www.kan.org.il/media/f44hwzdb/https-kanstaticazureedgenet-download-pictures-2023-3-17-imgid-96241_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uxos3uih/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח את ירמי קפלן, בן זיני, מיכל דליות, דפנה לוסטיג, המסעדנית לילי בן שלום ובני הזוג ג'נאח שלא מפסיקים לריב על הרפורמה. וגם: הדר לוי עם תכניות ילדים נוסטלגיות ויונה קאפח מוותרת על סוכר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/162835/",
+       "id": "162835",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 8",
+       "logo": "https://www.kan.org.il/media/b4kebot2/https-kanstaticazureedgenet-download-pictures-2023-3-10-imgid-95672_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jx6bvccg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי מארח את צדי צרפתי, הקומיקאית תכלת גינס, ד\"ר אור גורן, משה אשכנזי, הצנחן שרגא טיחובר והעיתונאית רותם איזק. וגם: מושיק גלאמין עם סיכום לפורים,הדר לוי על יום האישה, וכוכבי הרשת של ישראל במפגן כוח ויראלי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/162288/",
+       "id": "162288",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 7",
+       "logo": "https://www.kan.org.il/media/ldtjywnj/https-kanstaticazureedgenet-download-pictures-2023-3-3-imgid-95204_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r612nau3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח את ג'ורדי, ח\"כ מרב בן ארי, ארז שלם, אלדד תמיר, מור ספיר ומיכל הקטנה, וגם: הדר לוי על הטרנדים המוזרים של הכוכבים, מושיק גלאמין מתכונן לאחרית הימים, ומנדי ביתאן על המחיר הכלכלי של המחאה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/161790/",
+       "id": "161790",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 6",
+       "logo": "https://www.kan.org.il/media/qvsjkdtg/https-kanstaticazureedgenet-download-pictures-2023-2-24-imgid-94724_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9zzafgsv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח את מיכאל בן דוד, ליאון רוזנברג, שירי ארצי, עמרי אסנהיים ועירית קפלן. וגם: רודי סעדה ומאיה בצלאל תוקפים את שוק הפיאות הנוכריות, בן בן ברוך מבולבל מיום המשפחה, והדר לוי עומדת בתור כל חייה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/161316/",
+       "id": "161316",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 5",
+       "logo": "https://www.kan.org.il/media/vbcnl50u/https-kanstaticazureedgenet-download-pictures-2023-2-17-imgid-94191_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5c0xfzhw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם דודו ארז, אסתי זקהיים, אמירה בוזגלו, המסעדן קאלו באבא, מיכאל מושונוב והד\"ר דניאל דריי, עם קולות מההפגנות בירושלים ומחגיגות הוולנטיינ'ס דיי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/160578/",
+       "id": "160578",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 4",
+       "logo": "https://www.kan.org.il/media/eoxk5ncy/https-kanstaticazureedgenet-download-pictures-2023-2-10-imgid-93650_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2kxwnaf3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם הג'ודוקא פיטר פלצ'יק, מאיה בצלאל, ליאת רון, מני ופרלה דנוך ועורך הדין ששי גז, וגם יונה קפאח יוצאת לבדוק מה הסוד לחיים טובים אחרי גיל 90.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/159978/",
+       "id": "159978",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 3",
+       "logo": "https://www.kan.org.il/media/uxfa51iv/https-kanstaticazureedgenet-download-pictures-2023-1-27-imgid-92428_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c190pcfi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם שלומי קוריאט, שימי תבורי, עדנה בליליוס, מירב שירום ודרור גלוברמן, וגם–הדר לוי על בינה מלאכותית, מנדי וביתאן בהפגנת ההייטקיסטים ושי יוצא לעזור לקבוצת הכדורגל הכי גרועה בליגה ג'.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/158874/",
+       "id": "158874",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 2",
+       "logo": "https://www.kan.org.il/media/fznbspgr/2023-1-20-imgid-91752_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lc6ljfu2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם רשף לוי, נורית גפן, הכותב רון ביטון והמנטליסט הראשון בצה\"ל, נבו אבוטבול. וגם - הרמטכל יוצא לחופשת שחרור, והדר לוי עושה סדר בסכסוכים בבית המלוכה הבריטי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/157943/",
+       "id": "157943",
+       "season": 3
+      },
+      {
+       "name": "ערב עם שי שטרן 3 - פרק 1",
+       "logo": "https://www.kan.org.il/media/xeijq021/2023-1-13-imgid-91102_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r4mbw1gz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם יובל שמלא, עליזה חנוביץ', אלוף הטניס הפאראלימפי נועם גרשוני, ג'ודי ניר מוזס ובני ציפר. וגם – בן בן ברוך מצטרף לועד הבית של הבניין הכי מכוער בעולם והדר לוי יוצאת לחופשת חורף.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s3/157289/",
+       "id": "157289",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 26",
+       "logo": "https://www.kan.org.il/media/nr2d2atj/https-kanstaticazureedgenet-download-pictures-2023-1-6-imgid-90608_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rdtakg3q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם שבוע עם מוקי, ישראל אוגלבו, דורין אטיאס, ומחברת סדרת \"כראמל\" ,הסופרת מאירה ברנע גולדברג. וגם – שלמה בראבא בהצגת יחיד חדשה, ויונה קפח בונה תפריט חדש לחורף.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/156779/",
+       "id": "156779",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 25",
+       "logo": "https://www.kan.org.il/media/0ksechea/https-kanstaticazureedgenet-download-pictures-2022-12-30-imgid-90106_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yyueng86/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם נעמי לבוב שמצטרפת לאגף הפיקוח של עיריית ת\"א, יוסי ורדי על המשבר בהייטק, עדנה מזי\"א והשף בעל כוכב המישלן גל בן משה. וגם – יונה קפאח מסכמת את שנת 2022",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/156285/",
+       "id": "156285",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 24",
+       "logo": "https://www.kan.org.il/media/iwzawyqh/https-kanstaticazureedgenet-download-pictures-2022-12-23-imgid-89650_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tsg6nhu7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם הקונדיטורית אור שפיץ וטירוף הסופגניות, המעצב דני מזרחי, רמי ורד, הג'ודוקא שגיא מוקי ודנה ברגר לקראת אלבום חדש. וגם-הדר לוי חולמת על רילוקיישן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/155927/",
+       "id": "155927",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 23",
+       "logo": "https://www.kan.org.il/media/l04blvni/https-kanstaticazureedgenet-download-pictures-2022-12-16-imgid-88983_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aufcg0no/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם השדר יהונתן כהן שחזר מקטאר, האחיות כרקוקלי, הטייסת רוית נאור, אריק סיני נפרד מיצחק קלפטר, וגם - טליה ברטפלד לא רוצה לחיות עד גיל 150 ושחר טבוך על כל מה שחם בטיקטוק.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/155060/",
+       "id": "155060",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 22",
+       "logo": "https://www.kan.org.il/media/ry1kyew4/https-kanstaticazureedgenet-download-pictures-2022-11-18-imgid-86010_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cdnts84q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן סוגר את השבוע עם יורם ארבל שמתכונן למונדיאל, השחקן משה אשכנזי, המוזיקאית אליזט, הסופר ינץ לוי וענת הראל. וגם – להדר לוי נמאס מחוגים תחרותיים לילדים ויונה קפאח יוצאת לחופשה חורפית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/152470/",
+       "id": "152470",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 21",
+       "logo": "https://www.kan.org.il/media/22snp0yx/2022-11-11-imgid-85266_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7u7wtq2r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן סוגר את השבוע עם אושרי כהן, גל מלכה מ\"המפקדת\", אבי סינגולדה, אורן נהרי ואושרת עיני שמתכוננים למונדיאל. וגם – שי מתמודד עם המחסור בתרופות ולהדר לוי נמאס מריטריטים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/151983/",
+       "id": "151983",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 20",
+       "logo": "https://www.kan.org.il/media/1pcoothg/https-kanstaticazureedgenet-download-pictures-2022-11-4-imgid-84765_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hk6w6n36/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם גלעד כהנא,אמילי עמרוסי,המשורר רוני סומק והשחקנים ריטה שוקרון ואמיר זרד. וגם טליה ברטפלד הולכת לאוניברסיטה, מתן חלק רוצה להיות שכיר והדר לוי במונולוג קורע לב על חודש הקניות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/151661/",
+       "id": "151661",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 19",
+       "logo": "https://www.kan.org.il/media/1ypd3rrd/https-kanstaticazureedgenet-download-pictures-2022-10-21-imgid-83744_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_01cvef3g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם מיה דגן, אורי גוטליב, השפית פרח רסלאן, ומייסד \"אבא חטוב\" צביקה עינב.\n וגם – טליה ברטפלד מסבירה לשי איך זה להיות בן 21, מתן חלק לוקח את האוטו למוסך ויונה קאפח מתכוננת לחינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/151133/",
+       "id": "151133",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 18",
+       "logo": "https://www.kan.org.il/media/oawc2j1a/https-kanstaticazureedgenet-download-pictures-2022-9-23-imgid-82297_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jac53h2x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן סוגר את השבוע ואת השנה עם לייזה פאנלים, בן יוסיפוביץ, פבלו רוזנברג, ארז שלם והפסיכיאטרית ד\"ר אלונה גד\r\nוגם – הדר לוי עושה חשבון נפש, מתן חלק טס לואו קוסט ויונה קפאח מתכוננת לראש השנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/150416/",
+       "id": "150416",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 17",
+       "logo": "https://www.kan.org.il/media/5jceiksf/https-kanstaticazureedgenet-download-pictures-2022-9-16-imgid-81867_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wl0lvfk6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את שבוע עם גלילה רון פדר, אבי גרייניק, אלדד תמיר, התסריטאית בת אל מוסרי ואבי מלר שמתכונן למונדיאל. וגם – מנדי וביתאן על ראש השנה באומן בצל הלחימה באוקראינה ויונה קפאח יוצאת לדאבל דייט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/150200/",
+       "id": "150200",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 16",
+       "logo": "https://www.kan.org.il/media/zlcd3nkr/https-kanstaticazureedgenet-download-pictures-2022-9-9-imgid-81342_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ropz4ny7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם כוכב קופה ראשית יניב סויסה, זיו שילון, יו\"ר מפלגת צעירים בוערים הדר מוכתר, הסופרת מרסל מוסרי, עדי ששון ואלדד יניב. וגם - מתן חלק נעזר ברפואה אלטרנטיבית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/149948/",
+       "id": "149948",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 15",
+       "logo": "https://www.kan.org.il/media/lbyhjluy/https-kanstaticazureedgenet-download-pictures-2022-9-2-imgid-80861_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_plg76f5a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם אורי ששון, ציפי שביט, שחר פיינשטיין גבריאל, אסטלה וד\"ר דניאל דריי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/149690/",
+       "id": "149690",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 14",
+       "logo": "https://www.kan.org.il/media/hxcayb3f/https-kanstaticazureedgenet-download-pictures-2022-8-19-imgid-80080_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_op6cmept/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם שבוע עם שחר טבוך, אירה ויגדורצ'יק, מיכל דליות, טלי אורן ומובילת מחאת מנהלי בתי הספר סמדר מורס. וגם – יונה קאפח על הצעת הנישואים שקיבלה!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/149129/",
+       "id": "149129",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 13",
+       "logo": "https://www.kan.org.il/media/30ndezrh/https-kanstaticazureedgenet-download-pictures-2022-8-12-imgid-79701_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ln06y1z8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם פאולה וליאון רוזנברג שמתכוננים לטו באב, כוכב 'פאודה' יעקב דניאל זאדה, הכותב יוסי גיספן וסופי בן דור, בתו של המרגל הישראלי אלי כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/148868/",
+       "id": "148868",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 12",
+       "logo": "https://www.kan.org.il/media/px1k2ejv/https-kanstaticazureedgenet-download-pictures-2022-8-5-imgid-79195_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qamwd1f0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח מדי שבוע את הישראלים הכי מעניינים שהיו בכותרות השבוע. והערב: חברת הכנסת אמילי מואטי, עורכת הדין שני אילוז, השחקן יעקב זדה דניאל ואילנה ואור ממן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/148670/",
+       "id": "148670",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 11",
+       "logo": "https://www.kan.org.il/media/stjgzfrh/https-kanstaticazureedgenet-download-pictures-2022-7-29-imgid-78789_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vr1avs37/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח מדי שבוע את הישראלים הכי רלוונטים ומעניינים, והשבוע: גיל מרנץ, אלון עדר, ענת גורן, אנה מגין וגילי כהן. וגם טליה ברטפלד חושפת את הבעיה הכי גדולה של תל אביב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/148334/",
+       "id": "148334",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 10",
+       "logo": "https://www.kan.org.il/media/ndfp2zw1/https-kanstaticazureedgenet-download-pictures-2022-7-22-imgid-78380_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g7enogqs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם ג'וי ריגר, שי גבסו, העתונאית יפעת גליק ובעל רשת השיווק איתן יוחננוף. וגם - טליה ברטפלד ודניאל חן מסבירים למה צעירים לא רוצים לעבוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/147998/",
+       "id": "147998",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 9",
+       "logo": "https://www.kan.org.il/media/2srbgry4/https-kanstaticazureedgenet-download-pictures-2022-7-15-imgid-77934_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wwlfskco/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם בני ציפר, גו'די ניר מוזס, דניאל מורשת, עדי מאירי וטל ברדה יוצרות 'תיק 512'. מתן חלק טייל בסיני, שי בדק מה מתבגרים עושים בחופש והדר לוי בודקת מה היא אוהבת ומה היא לא באמריקה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/147633/",
+       "id": "147633",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 8",
+       "logo": "https://www.kan.org.il/media/ld1di2o1/2022-7-8-imgid-77506_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r9ljp5eq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן סוגר את השבוע עם ח\"כ מירב בן ארי שמתכוננת לבחירות, עו\"ד ששי גז על תיק 512 ומשפט נתניהו, עקיבא נוביק, בן זיני ויעל לבנטל. וגם – מתן חלק שילם ביוקר על ביקור חינמי בים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/147435/",
+       "id": "147435",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 7",
+       "logo": "https://www.kan.org.il/media/1y1hs5xc/https-kanstaticazureedgenet-download-pictures-2022-6-24-imgid-76742_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_upo166wf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם יוני בלוך, דודו ארז, הספורטאית הפראלימפית פסקל ברקוביץ' והדוגמנית אלכסה דול, וגם דניאל סטיופין נכנס לכושר ומתן חלק מאמץ שגרת טיפוח חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/146874/",
+       "id": "146874",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 6",
+       "logo": "https://www.kan.org.il/media/il5g0jvb/https-kanstaticazureedgenet-download-pictures-2022-6-17-imgid-76343_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kx2l6tpw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם קים אור אזולאי, יגאל עדיקא, לירית בלבן, הסופרת נעה ידלין ושיר פלד, המסתערבת הראשונה. וגם – מתן חלק על גירושים, והדר לוי מנסה ללכת על מדרכות בלי להתקל בקורקינטים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/146601/",
+       "id": "146601",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 5",
+       "logo": "https://www.kan.org.il/media/k0fg4kjg/https-kanstaticazureedgenet-download-pictures-2022-6-10-imgid-75985_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yq1wmj95/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח את קובי אפללו, הצ'ייסרית מיכל שרון, אוריאל יקותיאל על חודש הגאווה ומנהל ביה\"ס הדמוקרטי במודיעין רוני הרניק, על המשבר במערכת החינוך. וגם- הקומיקאי מתן חלק מנסה לקדם פרויקט פינוי בינוי בב\"ש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/146346/",
+       "id": "146346",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 4",
+       "logo": "https://www.kan.org.il/media/uechgcro/https-kanstaticazureedgenet-download-pictures-2022-6-3-imgid-75596_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_spypzccp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע שהיה ומתכונן לחג עוגות הגבינה עם הקונדיטור מיקי שמו, מושיק גלאמין, שרון פרי על מודי בר און ז\"ל, אלדד תמיר מסביר למה לא כדאי לקנות דירה, ויונה קפאח מנסה להגיע ברכבת מת\"א לב\"ש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/146082/",
+       "id": "146082",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 3",
+       "logo": "https://www.kan.org.il/media/e3ha5shh/https-kanstaticazureedgenet-download-pictures-2022-5-27-imgid-75173_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_upwmvhsy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם קובי מימון, השף ברק יחזקאלי, מחזיקת תיק התחבורה בתל אביב מיטל להבי והמסעדנית לונה זרייק. וגם הקומיקאים מתן חלק ויונה קאפח בפינות מיוחדות, יהיה מעניין ומצחיק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/145653/",
+       "id": "145653",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן 2 - פרק 2",
+       "logo": "https://www.kan.org.il/media/3wznykgj/https-kanstaticazureedgenet-download-pictures-2022-5-20-imgid-74814_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cwu1shmi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מסכם את השבוע עם משה אשכנזי, ד\"ר תמר עילם גינדי מספרת על איך נראית טהרן באמת, דנדן בולוטין על מסעותיו ברחבי העולם וליאת רון על יוקר המחייה. וגם, יונה קפח שחזרה ממקסיקו עם תובנות על ישראלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/145332/",
+       "id": "145332",
+       "season": 2
+      },
+      {
+       "name": "ערב עם שי שטרן - ספיישל אירוויזיון | 14/05/22",
+       "logo": "https://www.kan.org.il/media/xgaj5koy/https-kanstaticazureedgenet-download-pictures-2022-5-14-imgid-74415_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n7v5v6ae/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן מארח מדי שבוע את הישראלים הכי רלוונטים ומעניינים: אמנים, פוליטיקאים, קומיקאים, נושאי משרות בכירות וספורטאים שהיו בכותרות השבוע. והערב - ספיישל אירוויזיון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s2/144918/",
+       "id": "144918",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ערב עם שי שטרן - פרק 39",
+       "logo": "https://www.kan.org.il/media/hxme5etk/https-kanstaticazureedgenet-download-pictures-2022-4-1-imgid-71993_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nzmxzxjb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שי שטרן סוגר את השבוע עם מירי אלוני, סאבלימינל, שנטי השאנטי שמככבת בסדרה של אפל טי וי על אדם נוימן ואוהד הנווד, שישן באוהל בכל נקודה בעולם. וגם - הדר לוי רוצה להכין את גופה לקיץ, ויונה קפח מנקה לפסח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s1/131739/",
+       "id": "131739",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

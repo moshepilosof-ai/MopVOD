@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הקיבוץ",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-758166/",
+   "series_id": "758166",
+   "updated": "2026-10-28 10:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הקיבוץ | פרק 4 - בביתני התינוקות מייללים בהפסקות",
+       "logo": "https://www.kan.org.il/media/o2vhswko/thumbnail.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hqzzjzpy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "הפער המתרחב בין הדור החדש של הקיבוצניקים שיצאו מהקיבוץ, לתושביו המקוריים, בעקבות השינוי בתפיסת התא המשפחתי שבאה על חשבון הקולקטיב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758166/s1/758201/",
+       "id": "758201",
+       "season": 1
+      },
+      {
+       "name": "הקיבוץ | פרק 3 - פנינו אל השמש העולה",
+       "logo": "https://www.kan.org.il/media/qafimwbw/thumbnail.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5y09rats/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "ההכרזה על הקמת מדינת ישראל מציפה רגשות מעורבים בקרב הקיבוצניקים: שמחה והתרגשות מצד אחד, ופחד מהעתיד הלא ידוע שהביאה איתה מלחמת העצמאות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758166/s1/758194/",
+       "id": "758194",
+       "season": 1
+      },
+      {
+       "name": "הקיבוץ | פרק 2 - אנו לך משמרת",
+       "logo": "https://www.kan.org.il/media/rhgclw3i/thumbnail.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pd34u8vu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "תחילת שנות ה-30, הקיבוצים הולכים וגדלים ואיתם השפעתם התרבותית על החברה הישראלית. הם מציבים את עצמם כאלטרנטיבה ליישוב היהודי כולו בארץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758166/s1/758183/",
+       "id": "758183",
+       "season": 1
+      },
+      {
+       "name": "הקיבוץ | פרק 1 - ואולי לא היו הדברים מעולם",
+       "logo": "https://www.kan.org.il/media/fzagifs1/thumbnail.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ab6vk084/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "היהודים שעלו מאירופה בעלייה השנייה לאחר פרעות קשים, וחיים בשלטונות דיקטטוריים הגיעו עם חזון ליצירת חיים אחרים, אבל נתקלים במכשול הראשון בדרך להוצאתו לפועל - יהודי העלייה הראשונה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758166/s1/758181/",
+       "id": "758181",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הקיבוץ | פתיח",
+       "logo": "https://www.kan.org.il/media/macb4gar/צילום-מסך-2025-08-18-131940.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gri4grry/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-21",
+       "plot": "פתיח לסדרה התיעודית \"הקיבוץ\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758166/888184/",
+       "id": "888184"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - למה כולם מדברים על וולנס?",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1042479/",
+   "series_id": "1042479",
+   "updated": "2026-10-28 11:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יוגה, בריכות קרח, תוספי תזונה: כמה עולה לחיות כמו שתרבות הוולנס דורשת?",
+       "logo": "https://www.kan.org.il/media/5zjnxmen/וולנס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200527/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-14",
+       "plot": "העולם הזה כבר מזמן לא נשאר רק בחדר הכושר או על הצלחת, אלא הפך לתרבות שלמה. אבל בתוך כל ההבטחות והמיתוג, עולה גם השאלה עד כמה רחוק אנחנו מוכנים ללכת ולשלם כדי להרגיש טוב יותר",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1042479/s1/1041269/",
+       "id": "1041269",
+       "season": 1
+      },
+      {
+       "name": "דיטוקס, ריטריטים ויוגה: תעשיית הוולנס מגלגלת מיליארדים - למה לחיות בריא כל כך יקר?",
+       "logo": "https://www.kan.org.il/media/usnbvawq/יפה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200022/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-13",
+       "plot": "ניקוי רעלים, חדר כושר והקפדה על תזונה – המתכון לחיים בריאים כבר ממש לא מסתכם בזה. מאחורי הכותרת וולנס מסתתרת תעשייה שמגלגלת מיליארדים וממציאה עוד ועוד דרכים לגרום לנו לרצות להרגיש ולהיראות טוב יותר. האם זה באמת עובד? כתבתנו בפרק הראשון של סדרת הכתבות – למה כולם מדברים על וולנס?",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1042479/s1/1040948/",
+       "id": "1040948",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

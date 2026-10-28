@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - דייטריפ",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-938863/",
+   "series_id": "938863",
+   "updated": "2026-10-28 09:43",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "דייטריפ - הבריחה מאפגניסטן",
+       "logo": "https://www.kan.org.il/media/c12cr3g4/דיי-טריפ-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x8x2uivt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "באוגוסט 2021, לאחר שני עשורים בהם קודמו זכויות נשים, הטליבאן משתלט מחדש על המדינה ונשים הופכות למבוקשות. שתי נשים ישראליות מגייסות קבוצה של פעילים ומקבלי החלטות למשימת חילוץ המתועדת לסרט דוקומנטרי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-938863/938872/",
+       "id": "938872"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

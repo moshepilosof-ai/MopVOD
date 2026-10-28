@@ -1,0 +1,233 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - טלפלא",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-715582/",
+   "series_id": "715582",
+   "updated": "2026-10-28 11:17",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טלפלא | פרק 20 - מזון ואוכל",
+       "logo": "https://www.kan.org.il/media/4csgcgzj/webמזון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n12ep17v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "אושיק מספר לטלא סיפורים על שועלים, קיפודים וציפורים שמחפשים אוכל בחורף הגשום. שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715715/",
+       "id": "715715",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 19 - הפסקת חשמל",
+       "logo": "https://www.kan.org.il/media/2fydbroa/webהפסקת-חשמל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3l5g1yin/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "החשמל בביתם של אושיק וטלא פתאום אינו עובד. מה אפשר לעשות בלילה חשוך שכזה? לשיר מול הכוכבים, להדליק נרות ולחוד חידות. שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715713/",
+       "id": "715713",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 18 - עקשנים",
+       "logo": "https://www.kan.org.il/media/3cal4243/webעקשנים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_522z1faa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "טלא מסרב לחבוש את הכובע שאלי ומוטי קונים לו. בעזרת סיפורו של ה\"דובי לא לא\" הוא לומד שלא תמיד שווה להתעקש. שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715710/",
+       "id": "715710",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 17 - שעונים",
+       "logo": "https://www.kan.org.il/media/wa4pze4d/webשעונים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x3nqts47/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "אלי, מוטי וטלא מקבלים חבילה מתקתקת מהדודה משוויצריה - איזו מתנה ממתינה להם? שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715708/",
+       "id": "715708",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 16 - תרנגולת דוגרת",
+       "logo": "https://www.kan.org.il/media/u4pl1lmu/webתרנגולת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q389b8i8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "דודו וטלא מחכים בסבלנות עד שהביצה תהפוך לאפרוח. עד אז, הם מקריאים סיפורים ושרים שירים על בעלי הכרבולת האדומה. שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715705/",
+       "id": "715705",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 15 - ט\"ו בשבט",
+       "logo": "https://www.kan.org.il/media/ezmn4peh/webטו-בשבט.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7k2iriix/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "\"יום הולדת לאילן, כל צמח רן\": אלי וטלא נוטעים, עודרים ומשקים לכבוד החג. שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715695/",
+       "id": "715695",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 14 - רכבת",
+       "logo": "https://www.kan.org.il/media/n33dyj04/webרכבת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pvl994hn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "\"כבר סידרנו הרכבת, בואו ילדים לשבת\": אלי וטלא אורזים מזוודות ונוסעים לחיפה עם שירים וסיפורים. שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715686/",
+       "id": "715686",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 13 - ספרים יוצאים לחופשה",
+       "logo": "https://www.kan.org.il/media/baphbnvs/webספרים-יוצאים-לחופשה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h6ky87vf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "רוחל'ה יוצאת לנופש באילת, מוטי וטלא אחראים להשקות את העציצים בביתה ולהאכיל את התוכי שלה, גדליהו, האם הם יספיקו לנוח גם? שודר בין השנים 1976-1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715675/",
+       "id": "715675",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 12 - סוכות",
+       "logo": "https://www.kan.org.il/media/tsifyf4y/web_סוכות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_23n5qu1d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "\"סוכתי הסוכה, נהדרת וירוקה\": החבורה מכינה קישוטים, מארחת חברים ושרה לכבוד החג",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715667/",
+       "id": "715667",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 11 - ראש השנה",
+       "logo": "https://www.kan.org.il/media/isxfhnbq/web_ראש_השנה_.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3i56oomv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "לכבוד השנה החדשה, שושי, מוטי וטלא מכינים לחברים כרטיסי ברכה, אופים עוגת דבש ולומדים על לוח השנה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715646/",
+       "id": "715646",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 10 - קנגורו",
+       "logo": "https://www.kan.org.il/media/bepcvsvw/webקנגרו_.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nr3pt0i7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "יש לה כיס, היא קופצנית והגיעה מאוסטרליה - מי הגיעה היום לבקר את החבורה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715642/",
+       "id": "715642",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 8 - בלבולים",
+       "logo": "https://www.kan.org.il/media/42fbjiaf/web_בלבולים_.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7o97im8y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "פרק מבולבל במיוחד על גברת אחת מרחוב בצלאל שקונה יותר מידי ורוחל'ה, מוטי וטלא שלא בטוחים איפה ימין ואיפה שמאל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715640/",
+       "id": "715640",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 7 - טלפונים",
+       "logo": "https://www.kan.org.il/media/rs4dpjym/web_טלפון_.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wletjrwq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "הפעם נלמד בעזרת שירים וסיפורים על שליחת מכתבים דרך יונת דואר וכיצד משוחחים דרך שתי קופסאות פלסטיק וחוט",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715635/",
+       "id": "715635",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 6 - ציורים ופרחים",
+       "logo": "https://www.kan.org.il/media/115mn5q2/ציורים-ופרחים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_biaarvt5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "רוחל'ה, אושיק וטלא עובדים בגינה - הם צובעים את הספסל, משקים את העציצים ומספרים את סיפורו של \"הענק וגנו\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715633/",
+       "id": "715633",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 5 - תוכנית לחג הפסח",
+       "logo": "https://www.kan.org.il/media/j0tn5qwc/פסח-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sqydpb1p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "רוחל'ה, אושיק וטלא חוגגים את חג האביב ומלמדים אותנו על ההגדה, המאכלים המיוחדים וליל הסדר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715629/",
+       "id": "715629",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 4 - נעליים",
+       "logo": "https://www.kan.org.il/media/0ubnmax1/נעליים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_04d36w7l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "מוטי וטלא יוצאים לצעדה אל עץ הפלא שמצמיח סנדלים ומגפיים וגם מספרים את סיפורו של הסנדלר החרוץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715627/",
+       "id": "715627",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 3 - כוורת",
+       "logo": "https://www.kan.org.il/media/luzpwk4y/web_כוורת_.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mdqkkjp6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "אלי וטלא מלמדים אותנו הפעם על הדבורים: היכן הן גרות, לכבוד מה נוצר הדבש ומה תפקידה של המלכה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715623/",
+       "id": "715623",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 2 - מסיבה",
+       "logo": "https://www.kan.org.il/media/jz4pabiy/web_מסיבה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_979g17wu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "טלא ואלי נערכים לחגיגה: בלונים, משחקים וסיפורים, אבל מי הם האורחים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715620/",
+       "id": "715620",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 1 - בניית בתים",
+       "logo": "https://www.kan.org.il/media/gl5dktzh/בנית-בתים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mc8900xo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "למה בני האדם צריכים בית? ומה לגבי צבים? טלא ומוטי בונים ושרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715615/",
+       "id": "715615",
+       "season": 1
+      },
+      {
+       "name": "טלפלא | פרק 9 - מארחים את לוין קיפניס",
+       "logo": "https://www.kan.org.il/media/xwlnp22t/kipniskweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fxd3q2d7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "תוכנית מיוחדת עם השירים והסיפורים של חתן פרס ישראל שכתב קרוב ל-100 ספרי ילדים וששיריו מושמעים בכל בית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/s1/715591/",
+       "id": "715591",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "טלפלא | פתיח",
+       "logo": "https://www.kan.org.il/media/rahgxbiy/צילום-מסך-2025-08-18-145825.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891800/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"טלפלא\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-715582/942781/",
+       "id": "942781"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

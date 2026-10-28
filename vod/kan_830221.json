@@ -1,0 +1,123 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - לא רק כדורגל | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-830221/",
+   "series_id": "830221",
+   "updated": "2026-10-28 11:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "לא רק כדורגל | תוכנית 1 - והפעם, משינה",
+       "logo": "https://www.kan.org.il/media/onyc3uf3/משינה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rh4ssg21/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "יאיר לפיד מארח את יובל בנאי והלהקה ללהיטים מתוך האלבום החדש, אילה חסון מסקרת את שבוע הגאווה בסינמטק ת\"א בסימן המלחמה באיידס ומרב מיכאלי מגיעה לאולפן ועונה על השאלה - מה יותר קל, לראיין או להתראיין?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/833802/",
+       "id": "833802",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל | תוכנית 9 - סוף המונדיאל",
+       "logo": "https://www.kan.org.il/media/55if43np/יוסי-בנאי-1996.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dvzz1rwd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "תוכנית האירוח שליוותה את מונדיאל 1994 חוגגת את סיומה עם יוסי בנאי, משינה, יגאל שילון ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830277/",
+       "id": "830277",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל |  תוכנית 8 - כוכבת הילדים",
+       "logo": "https://www.kan.org.il/media/lk2hosbg/מיכל-ינאי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7gn4ixbz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "אסתר זייץ פולארד על המאמצים לשחרור בעלה יונתן פולארד, מיכל ינאי מספרת על הכיוונים החדשים בקריירה וחנוך רוזן בקטע פנטומימה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830274/",
+       "id": "830274",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל | תוכנית 7 - כפל לשון",
+       "logo": "https://www.kan.org.il/media/colptz1k/שלומי-שבת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eu25wcqu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "שלומי שבת מופיע עם הלהיטים \"איך אני\" ו\"עוד תראי את הדרך\", יגאל שילון עם חידה חדשה ופרופ' אמנון רובינשטיין בריאיון על הפוליטיקה והעקרונות מאחוריהם הוא עומד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830267/",
+       "id": "830267",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל | תוכנית 6 - פסטיבל הבלוז בנמל חיפה",
+       "logo": "https://www.kan.org.il/media/lkxjurkc/פסטיבל-הבלוז-בחיפה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t5xt23xi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "פול יאנג ודוד ברוזה בהופעת ענק בשידור ישיר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830259/",
+       "id": "830259",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל | תוכנית 5 - זיכרונות מוודסטוק",
+       "logo": "https://www.kan.org.il/media/cglaycrm/זיכרונות-מוודסטוק-1994.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7eas3zhc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "יעקב שמש ויואל שר היו ב-1969 בפסטיבל האגדי והם מגיעים לאולפן לחלוק חוויות עם יאיר לפיד וגם רפאל איתן עונה על שאלות פוליטיות בוערות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830258/",
+       "id": "830258",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל |  תוכנית 4 - הקולות של פיראוס",
+       "logo": "https://www.kan.org.il/media/o1np2eaf/חיים-משה-1996.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xcne1z4o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "חיים משה במופע יווני, סוכן סמוי בכנופיית סמים מספר איך משתלבים בעולם הפשע וגם אחמד טיבי ויעל דיין מגיעים לאולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830256/",
+       "id": "830256",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל | תוכנית 3 - מסיבת חתונה",
+       "logo": "https://www.kan.org.il/media/hovb2mhw/חנה-לסלאו-1994.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4jtezbkf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "יום לפני חתונתה, חנה לסלאו מתארחת באולפן בשיחה על זוגיות וחיקויים וגם יצחק קלפטר בהופעה מיוחדת עם כל הלהיטים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830254/",
+       "id": "830254",
+       "season": 1
+      },
+      {
+       "name": "לא רק כדורגל | תוכנית 2 - נהגת המרוצים הראשונה",
+       "logo": "https://www.kan.org.il/media/r4fpcz1h/הזמר-אדם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l52ylbdd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "שרון אבר מספרת באולפן על סצנת נהגי המרוצים בישראל וגם אדם ממתלבט מה הוא יותר - זמר או שחקן?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/s1/830252/",
+       "id": "830252",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "לא רק כדורגל | פתיח",
+       "logo": "https://www.kan.org.il/media/ij0biixa/לא-רק-כדורגל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0yrljoht/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח האהוב של תוכנית האירוח ''לא רק כדורגל'' בהנחיית יאיר לפיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-830221/861555/",
+       "id": "861555"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

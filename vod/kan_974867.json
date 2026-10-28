@@ -1,0 +1,59 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - טעמו של שינוי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-974867/",
+   "series_id": "974867",
+   "updated": "2026-10-28 11:17",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טעמו של שינוי | פרק 4 - אוכל יחבר בינינו",
+       "logo": "https://www.kan.org.il/media/wjzb4vjy/פרק-4-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2062036/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "מינג טאן יוצא לבדוק איך אוכל יוצר חיבור בין אנשים ובין מדינות. הוא מציג ארוחות משותפות בסינגפור ומראה איך אכילה משותפת בונה קהילות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-974867/s1/975949/",
+       "id": "975949",
+       "season": 1
+      },
+      {
+       "name": "טעמו של שינוי | פרק 3 - אוכל להצלת הפלנטה",
+       "logo": "https://www.kan.org.il/media/gvlexh1y/פרק-3-לאתר-טעמו-של-שינוי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2062283/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "השף מינג טאן מבקר בחוות דגים ומגלה לברק סנט ג’ון משופר גנטית, מדגים רבייה סלקטיבית, קוצר אורז בחקלאות אנכית וחוקר אגרואקולוגיה עמידה לטייפונים בפיליפינים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-974867/s1/975931/",
+       "id": "975931",
+       "season": 1
+      },
+      {
+       "name": "טעמו של שינוי | פרק 2 - אוכל להחלמה",
+       "logo": "https://www.kan.org.il/media/g1mfjpa4/פרק-3-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2064278/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "השף מינג טאן בודק כיצד אכילת אוכל לא מעובד, סיבים ודגנים מלאים יכולה להוריד את רמת הגלוקוז והכולסטרול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-974867/s1/975917/",
+       "id": "975917",
+       "season": 1
+      },
+      {
+       "name": "טעמו של שינוי | פרק 1 - אוכל למוח",
+       "logo": "https://www.kan.org.il/media/hnfpwza1/טעמו-של-שינוי-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007641/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "השף מינג טאן יוצא לבדוק בעזרת מומחים שונים איך אוכל משפיע על המוח, המתח הנפשי ומצב הרוח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-974867/s1/975912/",
+       "id": "975912",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

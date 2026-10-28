@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - 100 שושנים - מחווה לשושנה דמארי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-505378/",
+   "series_id": "505378",
+   "updated": "2026-10-27 21:15",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "100 שושנים - מחווה לשושנה דמארי - הצצה ",
+       "logo": "https://www.kan.org.il/media/j0xo5jaa/100-שושנים-מחווה-לשושנה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7mrszv6f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-15",
+       "plot": "קטע מתוך ערב המחווה לשושנה דמארי, במלאת 100 שנים להולדתה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-505378/920698/",
+       "id": "920698"
+      },
+      {
+       "name": "100 שושנים - מחווה לשושנה דמארי ",
+       "logo": "https://www.kan.org.il/media/4s5dwksv/s0439584_100_00_00_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4xgqoysv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-27",
+       "plot": "ערב מחווה לשושנה דמארי, מלכת הזמר העברי וכלת פרס ישראל, במלאת 100 להולדתה, שהתקיים בפסטיבל ימי זמר בתיאטרון חולון. \nמשתתפות: שלומית אהרון, אסתר רדא, קרן הדר, עדי כהן, תום כהן, ואלרי חמאתי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-505378/505380/",
+       "id": "505380"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

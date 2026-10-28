@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - משמרת לילה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-747141/",
+   "series_id": "747141",
+   "updated": "2026-10-28 12:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "משמרת לילה | פרק 3 - אמת או חובה",
+       "logo": "https://www.kan.org.il/media/gaddvyrl/משמרת-לילה-פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bf7fxazq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "נערה צעירה בת 17 מגיעה למיון מחוסרת הכרה ומכוסה בדם, הצוות הרפואי ועמליה בראשו ניגשים לטפל בה ומגלים על הסיבה האמיתית והמזעזעת שבעקבותה הגיעה הנערה למיון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747141/s1/747210/",
+       "id": "747210",
+       "season": 1
+      },
+      {
+       "name": "משמרת לילה | פרק 2 - עמליה",
+       "logo": "https://www.kan.org.il/media/xglbxi13/משמרת-לילה-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mj1wwx46/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "עמליה, רופאה בכירה בחדר המיון מסתבכת במשמרת משותפת עם רופא בכיר שהיחסים ביניהם מורכבים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747141/s1/747204/",
+       "id": "747204",
+       "season": 1
+      },
+      {
+       "name": "משמרת לילה |  פרק 1 - ולתפארת מדינת ישראל",
+       "logo": "https://www.kan.org.il/media/nulhgmkv/משמרת-לילה_פרק-1.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_236m6vfr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "דנינו יוצא לאפטר מהצבא לכבוד יום העצמאות ומפתיע את בת זוגתו העובדת בבית החולים. לחדר המיון מגיעה ילדה הישר מתאונת דרכים, הצוות הרפואי מנסים להציל את ראייתה ונאלצים להודיע בשורה קשה לאחד הפצועים האחרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747141/s1/747177/",
+       "id": "747177",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "משמרת לילה | הצצה",
+       "logo": "https://www.kan.org.il/media/u2red00n/משמרת-לילה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h07zo1nw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "הצצה לסדרת הדרמה \"משמרת לילה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747141/943338/",
+       "id": "943338"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

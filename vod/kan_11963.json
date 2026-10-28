@@ -1,0 +1,541 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - האחוזון העליון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11963/",
+   "series_id": "11963",
+   "updated": "2026-10-28 09:44",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 16 - ספיישל הזדמנות שנייה",
+       "logo": "https://www.kan.org.il/media/0ysnlrqo/אתר-עדכני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035993/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "פרק אחרון לעונה, והפעם: כל מאה המתמודדים כבר ניסו את מזלם במהלך העונה - וכשלו. האם אחד מהם יילך עד הסוף וייצא עם הכסף? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984408/",
+       "id": "984408",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 12 - ספיישל אירוויזיון",
+       "logo": "https://www.kan.org.il/media/sjkbopkg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035990/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "לקראת חגיגת המוזיקה הגדולה בווינה, משחק הטלוויזיה לובש חג עם שאלות מוזיקליות ומוזרות במיוחד. עם להקה חיה באולפן, ושחר חסון נרגש במיוחד!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984407/",
+       "id": "984407",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 8 - פורים",
+       "logo": "https://www.kan.org.il/media/ud2i1r1k/דראג.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007674/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "מאה מתמודדים מחופשים ושחר חסון אחד בספיישל פורימי מטורף! קבוצת מעודדות, נמרים מרקדים, דראג קווין עוקצנית, מהנדסים מבולבלים – האם אחד מהם ייצא עם משלוח מנות בסך מאה אלף שקלים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984404/",
+       "id": "984404",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 15",
+       "logo": "https://www.kan.org.il/media/phcj0ivj/s0490458_100_01_10_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007642/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "משחק הטלוויזיה המצחיק בישראל שבו חייבים הגיון בריא... ועקום! והפעם בין מאה המתמודדים: אחיות חובבות אופנה יפנית, בונה כוחות-על, ודו קרב ייצרי בין קבוצת הקרניבורים לקבוצת הטבעונים. מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984401/",
+       "id": "984401",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 14 - ספיישל הורים וילדים",
+       "logo": "https://www.kan.org.il/media/xhhpotxq/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2024206/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "50 הורים ו-50 ילדים באים לשחק ולנסות להגדיל את הקופה המשפחתית. על הדרך נענה על שאלת השאלות – מי חכם יותר: אבא ואמא, או דווקא הדור הצעיר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984396/",
+       "id": "984396",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 13",
+       "logo": "https://www.kan.org.il/media/nigdhgbx/s0490456_100_01_04_04still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007608/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "אבישי והבובה החצופה שלו גיורא, מדריך יוגה צחוק, ושתי אחיות נחושות. מי ייצא עם הכסף הגדול? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984392/",
+       "id": "984392",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 11",
+       "logo": "https://www.kan.org.il/media/dyujoi03/s0490455_100_01_04_17still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007607/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "והפעם, בין מאה המתמודדים: בחור צעיר שחייב את הכסף כדי לקנות טבעת נישואין, וקרובת משפחה רחוקה... של המנחה. האם מישהו ייקח את הכסף הגדול?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984383/",
+       "id": "984383",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 10 - ספיישל עמים",
+       "logo": "https://www.kan.org.il/media/jdokzrsv/s0490450_100_03_15_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007575/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "מאה עולים חדשים וותיקים מכל רחבי העולם התקבצו באולפן כדי לברר אחת ולתמיד, איזו תפוצה הכי חכמה בישראל? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984375/",
+       "id": "984375",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 9",
+       "logo": "https://www.kan.org.il/media/mindknpi/s0490453_100_00_54_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1999345/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "הפעם: בין מאה המתמודדים תמצאו אקורדיוניסט אנרגטי, זמר חתונות, שני אחים חתיכים וקונדיטורית עם הפתעה. וגם: מי יגיע רחוק יותר במשחק – קבוצת הג'ינג'ים או קבוצת הבלונדינים? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984367/",
+       "id": "984367",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 7",
+       "logo": "https://www.kan.org.il/media/yqkfhf1w/s0490452_100_00_45_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1999310/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "בין מאה המתמודדים תמצאו את האישה עם הצחוק המוזר בישראל, ועובדי מגרש רכבים הכי חזקים בטיקטוק. וגם: דו קרב בין שני מתקשרים שמשוכנעים שהם יודעים מי ינצח במשחק. מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984363/",
+       "id": "984363",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 6",
+       "logo": "https://www.kan.org.il/media/bfzciuii/s0490451_100_02_03_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007802/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "בין מאה המתמודדים תמצאו מאפר, זוג מאורס, זמיר תימני, וקומיקאי שזומם על תפקיד המנחה. וגם: חברי להקת פולקלור גאורגית באים להרעיד את האולפן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/983846/",
+       "id": "983846",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 5",
+       "logo": "https://www.kan.org.il/media/u1hnd224/s0490454_100_03_21_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1995539/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "בין מאה המתמודדים תמצאו שחקן כדורסל ממשפחה מפורסמת, אלוף עולם בהורדת ידיים, ותוכי אחד שגונב את ההצגה. וגם: מי יגיע רחוק יותר במשחק – קבוצת השמאליים או דווקא אלה שמשתמשים ביד ימין? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/983843/",
+       "id": "983843",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 4 - ספיישל ערים",
+       "logo": "https://www.kan.org.il/media/y2ib0lfv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007541/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "מאה מתמודדים מערים שונות בישראל ינסו להביא כבוד, ולהראות איפה חיים האנשים הכי חכמים בארץ! אז איפה גר מי שיגיע לשאלת האחוז האחד ויזכה בכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/983842/",
+       "id": "983842",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 3",
+       "logo": "https://www.kan.org.il/media/kkyb3tgj/פריי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007509/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "בין מאה השחקנים תמצאו את בעל הזקן הארוך בארץ, מתמודדת עם שם משפחה בלתי אפשרי, ודו-קרב בין קבוצת אוהבי חתולים לקבוצת אוהבי כלבים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/983841/",
+       "id": "983841",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 2",
+       "logo": "https://www.kan.org.il/media/3c1bqqnz/לאתר-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007508/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "הצטרפו למשחק הטלוויזיה שבו צריך לחשוב מחוץ לקופסה כדי לזכות במאה אלף שקלים! והפעם, בין מאה השחקנים תמצאו שלוש בננות ותיקן אחד, את מלכה מ\"טיול לחמישה\" ומתמודד אחד שנכנס לויכוח מהותי עם המנחה - שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/983840/",
+       "id": "983840",
+       "season": 3
+      },
+      {
+       "name": "האחוזון העליון עונה 3 | פרק 1",
+       "logo": "https://www.kan.org.il/media/lfiiwkj2/s0490446_1_new00_00_52_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1985685/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-24",
+       "plot": "עונה חדשה למשחק הטלוויזיה שבו חייבים לחשוב מחוץ לקופסה. מאה מתמודדים ינסו לפתור שאלות הגיון בדרגות קושי עולה, בתקווה לזכות במאה אלף שקלים ובתואר חבר ב\"האחוזון העליון\". מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/983430/",
+       "id": "983430",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 16",
+       "logo": "https://www.kan.org.il/media/ilyfnlt1/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s85g8p99/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-30",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nפרק אחרון לעונה של משחק הטלוויזיה שכל המשפחה יכולה לשחק יחד. מאה משתתפים ינסו לענות על שאלות הגיון שנשלחו מראש למדגם\n מייצג. מי יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה נכון? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/755367/",
+       "id": "755367",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 15",
+       "logo": "https://www.kan.org.il/media/oiinrpni/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gzfibt4z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-30",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמאה משתתפים ינסו לענות על שאלות הגיון שנשלחו מראש למדגם מייצג. מי יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה\n נכון? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/755365/",
+       "id": "755365",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 14",
+       "logo": "https://www.kan.org.il/media/nvzfwo0y/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b8d5b8w0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-27",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה 2 למשחק הטלוויזיה שכל המשפחה יכולה לשחק יחד! מאה משתתפים ינסו לענות על שאלות הגיון שנשלחו מראש למדגם מייצג. מי\n יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה נכון? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/754164/",
+       "id": "754164",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 13",
+       "logo": "https://www.kan.org.il/media/elspbz5e/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d14nvvh3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-20",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמאה משתתפים ינסו לענות על שאלות הגיון שנשלחו מראש למדגם מייצג. מי יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה\n נכון? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/751391/",
+       "id": "751391",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 12 - ספיישל יום עצמאות ",
+       "logo": "https://www.kan.org.il/media/ilwfhnrl/טמבנייל-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g155tq7d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nספיישל כחול-לבן באחוזון העליון. בין דגלניות שעושות תרגילי סדר תמצאו לא מעט פרצופים מוכרים בקהל, וגיא מזיג אחד שבא להרים את\n האולפן. האם יצליחו להיכנס למועדון האחוזון העליון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/745507/",
+       "id": "745507",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 9 - ספיישל רווקים",
+       "logo": "https://www.kan.org.il/media/5gxn3nk2/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vmb3238b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמאה רווקות ורווקים מנסים לזכות במאה אלף שקלים, להיכנס למועדון האחוזון העליון, וגם, על הדרך, אולי, למצוא אהבה חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/715757/",
+       "id": "715757",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 10",
+       "logo": "https://www.kan.org.il/media/dsapmhdf/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2bc3fwva/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמאה משתתפים ינסו לענות על שאלות היגיון שנשלחו מראש למדגם מייצג. מי יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה\n נכון? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/715754/",
+       "id": "715754",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 11",
+       "logo": "https://www.kan.org.il/media/tfllo0gp/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0n8rvjy9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nאחרי הפוגה קצרה, האחוזון העליון שוב איתנו. מי יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה נכון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/715725/",
+       "id": "715725",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 5 - ספיישל פורים",
+       "logo": "https://www.kan.org.il/media/cbzpfxrd/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_etqrgmfg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nספיישל פורים עמוס תחפושות וכמה כמה אורחים מפתיעים – הצ'ייסר איתי הרמן, מיקי גבע ושחר חסון שעשוי כולו... מבלונים. מנחה: שחר\n חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/715698/",
+       "id": "715698",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 4",
+       "logo": "https://www.kan.org.il/media/d1addxfy/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tfi4mh5c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-21",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.  \nהצטרפו למשחק הטלוויזיה שבו כל מה שצריך זה קצת הגיון בריא וחשיבה מחוץ לקופסה. והפעם, רומן מלבלב בין כדורסלנית לבנה של\n זמרת מפורסמת, כדורגלן עבר ומשימת קילוף ביצים שיצאה משליטה. מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/708599/",
+       "id": "708599",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 3 - ספיישל נשים",
+       "logo": "https://www.kan.org.il/media/dkgnx3sx/s0435067_1-00_10_19_17-still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wzgk7xer/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-21",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nלכבוד יום האישה המתקרב, מאה נשים התקבצו באולפן כדי להוכיח שהמין היפה יותר הוא גם המין החכם יותר. מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/708598/",
+       "id": "708598",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 8",
+       "logo": "https://www.kan.org.il/media/5w4lhr1l/s0435066_טמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3yt9h3bf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-30",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nחייל בודד, אלוף העולם בג'ו ג'יטסו ובחור לפני דייט, האם אחד מהם יענה על שאלת האחוז? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/694975/",
+       "id": "694975",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 6",
+       "logo": "https://www.kan.org.il/media/2b2gutqa/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2sismsqo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-30",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nלוכד נחשים שאפתן, רוקמת אופנתית ורב-אמן בשחמט, האם אחד מהם יענה על שאלת האחוז? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/694969/",
+       "id": "694969",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 7",
+       "logo": "https://www.kan.org.il/media/npaj3g2l/s0435065_טמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nigj9boj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-30",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nהצטרפו למשחק הטלוויזיה שבו צריך שקצת הגיון בריא וחשיבה מחוץ לקופסה. והפעם: האם יש מספיק ג'חנון לכל הקהל? כמה רחוק תגיע\n המתמודדת עם פוביה מדגים? והאם בחולון מסתתר חקיין החיות הטוב במדינה? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/694961/",
+       "id": "694961",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 2",
+       "logo": "https://www.kan.org.il/media/dqvdfoos/vlcsnap-2024-02-25-11h25m28s050.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_riae8b8w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-30",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק הטלוויזיה שבו ידע כללי הוא רק בגדר המלצה. והפעם: זוג צעיר שמת לנסוע לטיול בסין, מישהי עם שם לא שגרתי מ\"שיר השירים\",\n ואודליה סוויסה חסרת מעצורים אחת  – האם מישהו יזכה בפרס הגדול? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/694882/",
+       "id": "694882",
+       "season": 2
+      },
+      {
+       "name": "האחוזון העליון עונה 2 | פרק 1",
+       "logo": "https://www.kan.org.il/media/qszacddc/האחוזון-העליון-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o0ievygx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-30",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה חדשה למשחק הטלוויזיה שבו כל מה שצריך זה לחשוב מחוץ לקופסה! והפעם: אמא ובן, סטנדאפיסט לשעבר וגננת לחינוך מיוחד. האם\n אחד מהם יזכה ב-100 אלף שקלים וייכנס למועדון \"האחוזון העליון\"? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s2/694881/",
+       "id": "694881",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "האחוזון העליון | פרק 15",
+       "logo": "https://www.kan.org.il/media/w5to5c5e/https-kanstaticazureedgenet-download-pictures-2023-1-11-imgid-90977_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jfazczvp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמשחק הטלוויזיה שכל המשפחה יכולה לשחק ביחד! והפעם: ספיישל בני נוער. \nמאה תיכוניסטים ינסו להוכיח שהמוח הצעיר שלהם קצת יותר חד מזה של המבוגרים... האם אחד מהם יזכה בפרס הגדול ?\nמנחה: שחר חסון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/157148/",
+       "id": "157148",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 13",
+       "logo": "https://www.kan.org.il/media/ts4jcwyw/https-kanstaticazureedgenet-download-pictures-2023-1-8-imgid-90689_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4mpst46f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמשחק הטלוויזיה שכל המשפחה יכולה לשחק יחד! מאה משתתפים ינסו לענות על שאלות הגיון לא פשוטות בדרגת קושי עולה - מי יזכה\n בכסף ויצטרף בסוף המשחק למועדון \"האחוזון העליון\"?\nמנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/156851/",
+       "id": "156851",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 16",
+       "logo": "https://www.kan.org.il/media/k5tjafia/https-kanstaticazureedgenet-download-pictures-2023-1-2-imgid-90244_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l4cjuqxa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nפרק אחרון לעונה.\nמשחק הטלוויזיה שכל המשפחה יכולה לשבת מולו ביחד! והפעם: האם שחר חסון מתכנן הסבה מקצועית ויהפוך ללוליין בקרקס? כמה מתמודדים יגיעו לשאלת האחוז הבודד, והאם מישהו ייקח את הפרס הגדול?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/156418/",
+       "id": "156418",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 14",
+       "logo": "https://www.kan.org.il/media/vnclwoko/2022-12-26-imgid-89807_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d22trp8y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק הטלוויזיה שכל המשפחה יכולה לשחק ביחד! והפעם: האם בקרב מאה היושבים בקהל מסתתרים האחד או האחת שיצליחו לפתור את\n כל השאלות, להגיע לשאלת האחוז האחד, ולקחת הבייתה עד מאה אלף שקלים?\nמנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/156047/",
+       "id": "156047",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 10",
+       "logo": "https://www.kan.org.il/media/1kifoxai/https-kanstaticazureedgenet-download-pictures-2022-12-18-imgid-89079_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rabkqjaf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק הטלוויזיה שכל המשפחה יכולה לשבור מולו את הראש ביחד. והפעם: עד לאיזו שאלה יגיע האיש הגבוה בישראל, ואיך כל זה קשור\n לשעון ענק על רצפת האולפן?\nמנחה: שחר חסון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/155111/",
+       "id": "155111",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 9",
+       "logo": "https://www.kan.org.il/media/xzyjr1qh/https-kanstaticazureedgenet-download-pictures-2022-12-15-imgid-88887_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sbn5hbor/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק הטלוויזיה שבודק עד כמה אתם חכמים משאר המדינה!\nוהפעם: עד לאיזה שלב במשחק תגענה שתי חברות צחקקניות, ואיך כל זה קשור למצה לחג הפסח ולחוט רקמה? \nמנחה: שחר חסון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/154925/",
+       "id": "154925",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 6",
+       "logo": "https://www.kan.org.il/media/b3zdygcd/https-kanstaticazureedgenet-download-pictures-2022-12-11-imgid-88529_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_21y9irdf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק טלוויזיה חדש שכל המשפחה יכולה לשחק יחד!.\nוהפעם: לאיזה שלב במשחק תגיע שחקנית צעירה, והאם חברת תזמורת אחת תצליח להתעלות מעל לכל חבריה? \nמנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/154592/",
+       "id": "154592",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 7",
+       "logo": "https://www.kan.org.il/media/1h2g4ayz/https-kanstaticazureedgenet-download-pictures-2022-12-18-imgid-89079_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gbsjyprq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק טלוויזיה שכדי לנצח בו צריך ראש פתוח והגיון עקום. \nוהפעם: יש להם יכולת אנליטית ותפיסה חזותית, אבל האם זה יעזור למומחי הקובייה ההונגרית לנצח את המשחק ולקחת את כל הכסף שבקופה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/154463/",
+       "id": "154463",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 12",
+       "logo": "https://www.kan.org.il/media/uhwjdi34/https-kanstaticazureedgenet-download-pictures-2022-12-18-imgid-89079_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_12tnc9dx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק הטלוויזיה שכל המשפחה יכולה לשחק יחד! והפעם: אורחת מפתיעה מ\"בואו לאכול איתי\", מרפא בצחוק ועוד כמה טיפוסים מקווים\n להיות אלה שייצאו מהאולפן עם מאה אלף שקלים. \nמנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/154460/",
+       "id": "154460",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 11",
+       "logo": "https://www.kan.org.il/media/xbrfnbhs/https-kanstaticazureedgenet-download-pictures-2022-12-1-imgid-87622_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_os1k511b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק הטלוויזיה שכל המשפחה יכולה לשבור מולו את הראש ביחד. \nוהפעם: אתם מכירים אותה בתור הבחורה הזועמת מהאינטרנט, אבלבשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה האם בריז'יט העצבנית תירגע מספיק כדי לנצח במשחק?\nמנחה:שחר חסון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/153638/",
+       "id": "153638",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 8",
+       "logo": "https://www.kan.org.il/media/ufomarnq/https-kanstaticazureedgenet-download-pictures-2022-12-18-imgid-89079_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cmwdr3we/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק הטלוויזיה שכל המשפחה יכולה לאמץ את הראש ולשחק יחד! \nוהפעם, מיהו המעריץ הפנאט של שלמה ארצי שאפילו קעקע את פניו של הזמר על גופו, והאם הוא יגיע עד לשאלת הגמר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/152543/",
+       "id": "152543",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 4 - ספיישל מונדיאל",
+       "logo": "https://www.kan.org.il/media/cv3ltb5i/https-kanstaticazureedgenet-download-pictures-2022-11-13-imgid-85452_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g4oun2f2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק של חשיבה מחוץ לקופסה שאפשר לשחק עם כל המשפחה! \nוהפעם: ספיישל מונדיאל צבעוני באולפן! לאיזו נבחרת יש את האוהדים המקוריים והחכמים ביותר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/152037/",
+       "id": "152037",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 5",
+       "logo": "https://www.kan.org.il/media/esxpjb3q/https-kanstaticazureedgenet-download-pictures-2022-11-6-imgid-84843_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ifq2buqu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק טלוויזיה שכדי לנצח בו צריך ראש פתוח והגיון עקום. \nוהפעם: עד לאן יגיעו רקדן סטפס ובונה הציפורניים, והאם מתמודדת שהתבלבלה תצליח בכל זאת להגיע לשאלת הפרס? \nמנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/151700/",
+       "id": "151700",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 3",
+       "logo": "https://www.kan.org.il/media/yyahykbo/https-kanstaticazureedgenet-download-pictures-2022-11-7-imgid-84901_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fgibp6q1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק טלוויזיה שכדי לנצח בו צריך ראש פתוח והגיון עקום. \nוהפעם: עד לאן יגיעו רקדן סטפס ובונה הציפורניים, והאם מתמודדת שהתבלבלה תצליח בכל זאת להגיע לשאלת הפרס? \nמנחה: שחר חסון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/151697/",
+       "id": "151697",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 2",
+       "logo": "https://www.kan.org.il/media/bvzgj5zf/https-kanstaticazureedgenet-download-pictures-2022-10-31-imgid-84445_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hz76fpx2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמשחק טלוויזיה שכדי לנצח בו צריך ראש פתוח והגיון עקום. \nוהפעם: עד לאן יגיעו רקדן סטפס ובונה הציפורניים, והאם מתמודדת שהתבלבלה תצליח בכל זאת להגיע לשאלת הפרס? \nמנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/151505/",
+       "id": "151505",
+       "season": 1
+      },
+      {
+       "name": "האחוזון העליון | פרק 1",
+       "logo": "https://www.kan.org.il/media/d3enuvee/https-kanstaticazureedgenet-download-pictures-2022-10-24-imgid-83913_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_79fztyrg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה\nמשחק טלוויזיה חדש שכל המשפחה יכולה לשחק יחד! מאה משתתפים ינסו לענות על שאלות הגיון שנשלחו מראש למדגם מייצג. מי יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה נכון? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/s1/151187/",
+       "id": "151187",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "האחוזון העליון | טריילר",
+       "logo": "https://www.kan.org.il/media/xs0oj3b5/https-kanstaticazureedgenet-download-pictures-2022-10-23-imgid-83810_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bqcn7nic/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "מי יצליח לענות על שאלה שרק אחוז אחד מהישראלים ענה עליה נכון? בהנחיית שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/866253/",
+       "id": "866253"
+      },
+      {
+       "name": "האחוזון העליון - הצצה | חושבים שאתם חזקים בסדרות?",
+       "logo": "https://www.kan.org.il/media/k2obdspj/האחוזון-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hfdvk4r7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "שחר חסון בשאלה שרק נראית פשוטה, אבל אל תאמינו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/858916/",
+       "id": "858916"
+      },
+      {
+       "name": "האחוזון העליון - הצצה | \"איך הופכים כלב לצעיר יותר?\"",
+       "logo": "https://www.kan.org.il/media/2yjd4tdy/האחוזון-1-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nvl1w6bj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "תופתעו לגלות איזה איבר חסר לכלבים שאנחנו כל כך אוהבים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11963/858912/",
+       "id": "858912"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - לאן נעלם ג'ורג' חליל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-755260/",
+   "series_id": "755260",
+   "updated": "2026-10-28 11:32",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "לאן נעלם ג'ורג חליל | טריילר ",
+       "logo": "https://www.kan.org.il/media/caenynbg/squer-logo-image_500x500_לאן-נעלם-גורג-חליל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ksshnpo7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-10",
+       "plot": "מה עלה בגורל הסוכן הלבנוני שנעלם וגופתו לא נמצאה עד היום?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-755260/881358/",
+       "id": "881358"
+      },
+      {
+       "name": "לאן נעלם ג'ורג' חליל?",
+       "logo": "https://www.kan.org.il/media/umzjkoro/1920x1080_no-logo_2_לאן-נעלם-גורג-חליל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6h5plz16/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "כאן דוקו. סיפור בלשי מרתק החושף את האמת מאחורי היעלמותו של הסייען הלבנוני, ג'ורג' חליל. הסרט שופך אור על אחת מהתקופות השנויות במחלוקת - שהות צה\"ל בלבנון בשנות ה-80, ואת מאחורי הקלעים של יחידה 504",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-755260/755261/",
+       "id": "755261"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

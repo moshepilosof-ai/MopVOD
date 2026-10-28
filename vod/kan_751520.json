@@ -1,0 +1,235 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סרטי תעודה נבחרים | סרטים מלאים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-751520/",
+   "series_id": "751520",
+   "updated": "2026-10-28 13:02",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סרט תעודה | כולנו נידונים",
+       "logo": "https://www.kan.org.il/media/ydmfiult/כולנו-נידונים-2013.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_atdvg08l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-20",
+       "plot": "ידיעת מותנו וקץ החיים מעלים שאלות בדבר משמעות החיים ותכליתם, מפגשים מעוררי מחשבה על החיים והמוות. בבימוייה של סלי סלמה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/908316/",
+       "id": "908316"
+      },
+      {
+       "name": "סרט תעודה | היקים",
+       "logo": "https://www.kan.org.il/media/xpejowm3/ee21022225_haiekim.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_psyolkjb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-05",
+       "plot": "סיפורם של יוצאי גרמניה בישראל ומאבקם על ערכיהם התרבותיים. בבימויו של נתנאל גוטמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/896865/",
+       "id": "896865"
+      },
+      {
+       "name": "מקרה ראש פינה",
+       "logo": "https://www.kan.org.il/media/e5vnghsx/be10017459_roshpina.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h600nnb9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-05",
+       "plot": "הסרט מביא את סיפורה של המושבה השקטה כשנתיים לאחר שבני הזוג זהבה וצבי אורן נמצאו ירויים בביתם, מקרה רצח שלא פוענח עד היום. בבימויה של ליאורה אייזנשטיין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/896848/",
+       "id": "896848"
+      },
+      {
+       "name": "להיות קצין",
+       "logo": "https://www.kan.org.il/media/musgkjh4/להיות-קצין-web.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p401tljx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "התקוות והפחדים של צוערי קורס קציני חי\"ר בבה\"ד 1 בשנת 1990. בהשתתפות צוערים שהפכו במהלך השנים לדמויות ציבוריות: הפעיל החברתי ארז אשל, האלוף יהודה פוקס וח\"כ מיכאל ביטון. סרטו של איתן אורן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/746328/",
+       "id": "746328"
+      },
+      {
+       "name": "עמוס עוז, חורף 1983 ",
+       "logo": "https://www.kan.org.il/media/clrld5zr/עמוס-עוז-web.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8babj22u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "הסופר מתאר את ילדותו, הגותו הפוליטית ומקורות ההשראה לספריו. בבימוי אסתר דר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/746285/",
+       "id": "746285"
+      },
+      {
+       "name": "ישעיהו ליבוביץ במעלות",
+       "logo": "https://www.kan.org.il/media/xljhezma/ישעיהו-ליבוביץ-במעלות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4oujfut9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "הפילוסוף החריף בסימפוזיון סוער עם ד\"ר ישראל אלדד ופרופסור מנחם ברינקר על ציונות, אידיאולוגיה, משיחיות, דת ומדינה. בבימויו של יגאל בורשטיין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/746257/",
+       "id": "746257"
+      },
+      {
+       "name": "באר חלב באמצע עיר",
+       "logo": "https://www.kan.org.il/media/gxnn1lmo/באר-חלב-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_abh0zjwm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-11",
+       "plot": "פרויקט תעודה הצולל לנבכי הנפש של 14 משוררים ומשוררות צעירים וצעירות בבימוי אורי ברבש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736715/",
+       "id": "736715"
+      },
+      {
+       "name": "הסיפור האמיתי - היידה יפו - הבולגרים חוזרים ",
+       "logo": "https://www.kan.org.il/media/spnguiwx/הבולגרים-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v0skvluw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-11",
+       "plot": "סרטם של יובל אור וענת יהלום \"היידה יפו - הבולגרים חוזרים\" - סיפורה המרגש של קבוצת הכדורגל מכבי יפו ועל אוהדיה, שמרביתם יוצאי בולגריה, שנאבקים להעלות אותה ליגה. סרטו של יובל אור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736709/",
+       "id": "736709"
+      },
+      {
+       "name": "נתן זך - פגישה עם משורר",
+       "logo": "https://www.kan.org.il/media/nsdd5ths/נתן-זך-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_crp8t7nb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-11",
+       "plot": "מסע אל נבכי נפש האמן, בו היוצר מדבר על הבדידות שחווה ועל הילדות שהביאה אותו לימינו אנו. סרטו של יהודה קווה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736660/",
+       "id": "736660"
+      },
+      {
+       "name": "הסיפור האמיתי - למרוד במלכות",
+       "logo": "https://www.kan.org.il/media/e04f11ps/למרוד-במלכות-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_srgbvv6f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-11",
+       "plot": "מה קורה כשקבוצת אידיאולוגים פועלת למימוש החזון הדתי, ומוכנה לעבור כל מכשול בדרך? על הקו הדק בין אמונה למשמעת לאומית. סרטה של גליה עוז",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736630/",
+       "id": "736630"
+      },
+      {
+       "name": "הסיפור האמיתי - אבידניום",
+       "logo": "https://www.kan.org.il/media/sdqpxgei/אבידניום-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dwo0pr2z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-11",
+       "plot": "על חייו של המשורר האהוב דוד אבידן, קרוביו וחבריו מספרים על האישיות המאתגרת והאירועים ששינו את האדם שהכירו. סרטו של יהודה קווה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736612/",
+       "id": "736612"
+      },
+      {
+       "name": "הסיפור האמיתי - חלומות מסתערבים",
+       "logo": "https://www.kan.org.il/media/tiwbxxrw/webjpg-חלומות-מסתערבים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sd12sf35/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "בוגרי היחידות המובחרות שמשון ודובדבן מספרים על הפעילות המסוכנת בשטחים במהלך האינתיפאדה הראשונה. סרטו של יהודה קווה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736076/",
+       "id": "736076"
+      },
+      {
+       "name": "הסיפור האמיתי - צביקה היזיקאס",
+       "logo": "https://www.kan.org.il/media/usnhhor5/web-צביקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9x4g1n65/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "הסרט מתעד את המסע הארוך שצביקה היזיקאס, רקדן ממוצא אתיופי, עשה עד שהתקבל לאקדמיה למוזיקה בניו יורק, כנגד כל הסיכויים. סרטה של ורד ברמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736073/",
+       "id": "736073"
+      },
+      {
+       "name": "אפרים קישון-יעקב כהן, סרט לא מצחיק",
+       "logo": "https://www.kan.org.il/media/duqltd0l/webjpg-סרט-לא-מצחיק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jzn6044v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "צמד הקומיקאים שגורמים לישראלים לצחוק פעם אחר פעם. סרטה של אילת הלר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736068/",
+       "id": "736068"
+      },
+      {
+       "name": "נסיך הרוק",
+       "logo": "https://www.kan.org.il/media/0lfdqqu5/web-נסיך-הרוק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p7c5txox/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "בגיל 20 לזמר מאור כהן כבר הייתה קריירה מצליחה יחד עם להקתו \"זקני צפת\". הסרט מתלווה אליו בין חזרות להופעות וגם מנסה להבין, מה הקהל חושב על האיש והתופעה? סרטו של אורי גולדשטיין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736064/",
+       "id": "736064"
+      },
+      {
+       "name": "אולסי פרי",
+       "logo": "https://www.kan.org.il/media/eelhglsj/web-אולסי-פרי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b8geq5sk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "בסרט מתועדים ימיו האחרונים של אולסי פרי בכלא, הסיבה שבגללה הגיע לשם מלכתחילה והפגישות המרגשות עם קרובי משפחתו וחבריו לקבוצה לאחר שחרורו. סרטו של ניל וייסברוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736060/",
+       "id": "736060"
+      },
+      {
+       "name": "אי אפשר להסתיר את זה",
+       "logo": "https://www.kan.org.il/media/qdlpgded/web-אי-אפשר-להסתיר-את-זה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xa8x1art/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "ציבור נמוכי הקומה בישראל מונה כ-800 אנשים. הסרט מתעד את הקשיים היומיומיים שהם נתקלים בהם, ובודק את השתלבותם במקומות עבודה בפרט ובחברה הישראלית בכלל. סרטו של עמי דרוזד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736056/",
+       "id": "736056"
+      },
+      {
+       "name": "חיים גורי: השירה והזמן",
+       "logo": "https://www.kan.org.il/media/t30b2ax3/webחיים-גורי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_641ea9xt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "המשורר הפלמ\"חניק מספר על יחסיו עם המדינה ומקריא משיריו. סרטו של יהודה קווה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736053/",
+       "id": "736053"
+      },
+      {
+       "name": "שכרון סיני",
+       "logo": "https://www.kan.org.il/media/3qpfbydb/webשיכרון-סיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6pzsfpdq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "מסע אנתרופולוגי אל תרבותם של הבדואים בדרום סיני מ-1979: הנדידה במדבר, קבלת האורחים והפולחנים המסורתיים. סרטו של עמק פרי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736048/",
+       "id": "736048"
+      },
+      {
+       "name": "פסטיבל המוזיקה \"נביעות-נואיבה\" ",
+       "logo": "https://www.kan.org.il/media/f2xi4muv/web-נביעות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_id70pvcr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-02",
+       "plot": "ב-1978 התקיים \"הוודסטוק הישראלי\" בחצי האי סיני שסימן את הפרידה מהאזור לפני הסכם השלום עם מצרים. הסרט מתעד את הקהל וההופעות החיות של שלום חנוך, שלמה ארצי, יהודית רביץ, צביקה פיק ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/732358/",
+       "id": "732358"
+      },
+      {
+       "name": "אנשים שבדרך",
+       "logo": "https://www.kan.org.il/media/12jdd3mf/web-אנשים-שבדרך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_46i6vwxc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-31",
+       "plot": "מפגשים עם טיפוסים שונים ברחבי הארץ: עובדי רכבת בתחנת קישון, בוקרים ברמת הגולן, יושבי בית קפה קטן בכפר אל בורג' שברצועת עזה וגם תיעוד מיוחד של לידה בבית חולים הדסה. סרטו של חיים גיל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/731336/",
+       "id": "731336"
+      },
+      {
+       "name": "שידוכין",
+       "logo": "https://www.kan.org.il/media/iuzhlzyi/web-שידוכין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4ntp2wtk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-31",
+       "plot": "איך מכירים בני זוג לחופה וקידושין ב-1970? שדכנים ושדכניות חושפים מה רוצים הלקוחות ורווקים ורווקות מספרים על הדרך למצוא אהבה. סרטה של רחל חלפי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/731302/",
+       "id": "731302"
+      },
+      {
+       "name": "ימים ידברו",
+       "logo": "https://www.kan.org.il/media/t0ppgz2z/web-ימים-ידברו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_76epm0zl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-31",
+       "plot": "כשנה לפני מותו, ש\"י עגנון מספר על ילדותו בבוצ'אץ', חלומו לעלות לירושלים בגיל 5, פירסום ספרו הראשון בישראל \"עגונות\", הפריצה לביתו במאורעות תרפ\"ט ועל קבלת פרס הנובל לספרות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/731248/",
+       "id": "731248"
+      },
+      {
+       "name": "בית\"ר ירושלים זה משהו אחר | תעודה",
+       "logo": "https://www.kan.org.il/media/fy3jhdix/webjpg-%d7%91%d7%99%d7%aa%d7%a8-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%96%d7%94-%d7%9e%d7%a9%d7%94%d7%95-%d7%90%d7%97%d7%a8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2qg12jkm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "1979-08-11",
+       "plot": "דרכה של הקבוצה לזכייה בגביע המדינה ב-1980\\1979 עם רובי רבלין מנהל הקבוצה חדור המטרה, מלמיליאן האגדי וכמובן האוהדים השרופים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-751520/736035/",
+       "id": "736035"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

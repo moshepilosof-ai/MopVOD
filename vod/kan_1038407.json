@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ציפיטפוט",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1038407/",
+   "series_id": "1038407",
+   "updated": "2026-10-28 13:09",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ציפיטפוט | פתיח",
+       "logo": "https://www.kan.org.il/media/0u2dppr0/arc_xxxxxxxx_1_v100_00_06_06still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197982/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-07",
+       "plot": "פתיח לתוכנית הילדים \"ציפיטפוט\" בכיכובה של ציפי שביט.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1038407/1038464/",
+       "id": "1038464"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

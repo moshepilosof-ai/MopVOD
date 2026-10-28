@@ -1,0 +1,512 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קארפול קריוקי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11606/",
+   "series_id": "11606",
+   "updated": "2026-10-28 13:10",
+   "sub_categories": [
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 14 - דויד ברוזה",
+       "logo": "https://www.kan.org.il/media/bxdjyk4v/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xqwrg2bw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "פרק אחרון לעונה. \"האישה שאיתי\", \"חיפה\", \"סיגליות\", \"רעמים וברקים\"... אין שיר שאי אפשר שלא להתחיל לזמזם. האיש והגיטרה מגיע לנסיעה קורעת, גורם לשחר לרקוד פלמנקו, ונדרש למבחן הטעימה של \"מים ממיכל של מקלט\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/864443/",
+       "id": "864443",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 13 - דני רובס",
+       "logo": "https://www.kan.org.il/media/vkhdabeh/קארפול-קריוקי-עונה-4-פרק-13-דני-רובס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vfhgamh6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "מעטים הזמרים שיכולים להביא את שחר חסון לדמעות, ודני רובס הוא אחד מהם. למה הוא הפסיק לשיר עם רי\"ש? מה הוא עשה עם מכשיר הקלטה בבית כנסת תימני? והאם יש באוטו מספיק מקום לאישיותה המתפרצת של פנינה רוזנבלום?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/864442/",
+       "id": "864442",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 12 - איפה הילד?",
+       "logo": "https://www.kan.org.il/media/4zfhggvf/הילד-2.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ndmeg5qd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "נסיכי הרוק של הניינטיז עדיין נותנים בראש! איך חמי רודנר הפך לאלוף הקולות השניים? האם השורה \"בועט בחתולה\" עוברת את מבחן הזמן? ומפגש מרגש עם להקת רוקיסטים שהם תלמידי בי\"ס יסודי. אורח מיוחד: יהודה קיסר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/864438/",
+       "id": "864438",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 11 - ג'יין בורדו",
+       "logo": "https://www.kan.org.il/media/mfkmmxrb/קארפול-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6ggt8k5j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-13",
+       "plot": "הזוג המוזיקלי הכי מתוק מגיע לנסיעה עם הלהיטים הרבים. וגם – איך הופכים קונטרבס לסקסי, הכריכים עם השילובים הכי מוזרים בעולם, ולמה דורון טלמון לא יכולה לשתות וויסקי? אורחת מיוחדת: אקו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/859739/",
+       "id": "859739",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 10 - גלי עטרי",
+       "logo": "https://www.kan.org.il/media/w1ppfjbu/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d7q6rqim/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "אם יש לכם שמש – יש לכם גלי עטרי בנסיעה בלתי נשכחת, עם מיטב הלהיטים \"הללויה\", \"חזקה מהרוח\", \"דרך ארוכה\", סיפורים וזיכרונות מצחיקים מהאחיות יונה ושוש, והשאלה הגדולה - האם גלי יודעת לשיר ביפנית או סתם מחרטטת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/851305/",
+       "id": "851305",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 9 - התקווה 6",
+       "logo": "https://www.kan.org.il/media/pp0b3xcn/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ldqqtl83/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "הלהקה הכי ישראלי-לי-לית עולה לאוטו של שחר: האם האחים עמרי ושלי גליקמן רבים בצרפתית? מי ינצח בתחרות הכריך הכי מפנק? מה עידן עמדי חשב על השיר \"גיבורי על\"? והאם החברים יזכו בתואר \"הלהקה הכי סאחית בישראל\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/851302/",
+       "id": "851302",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 8 - אנה זק",
+       "logo": "https://www.kan.org.il/media/t2ngveuv/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wm8gfvsw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "אנה זק עולה על אולסטאר וגופייה עם כל הלהיטים האהובים, ומנסה ללמד את שחר להרים חפצים עם הרגליים, לנפח אהיל מזכוכית, ולאכול גמבה עם דבש. מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/851299/",
+       "id": "851299",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 6 - זהבה בן",
+       "logo": "https://www.kan.org.il/media/g3yfonxq/אתר-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n7muxm9t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-13",
+       "plot": "לאוטו נכנסת השבוע מלכת הסנוקר, רוזנת תפירת הבובות וקיסרית המאוואלים– זהבה בן! לכמה אנשים יש קעקוע של דמותה? האם היא תנצח בתחרות משחק ה\"מדרכות\"? ומי עונה למספר שמופיע בשיר \"טלפון האהבה\"? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/846643/",
+       "id": "846643",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 5 - דני סנדרסון",
+       "logo": "https://www.kan.org.il/media/oxgc3bn0/נקי-דני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l2ky44vk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-05",
+       "plot": "שחר חסון מארח אצלו את האיש שהיה חלק מיצירת הפסקול הישראלי, דני סנדרסון. חנוכת המיני-תכנית \"שירים מהבגאז'\", לאן הולכים כשגיטרה קצת לא מרגישה טוב, ובתחרות חולי הניקיון בין דני לבין שחר, מי ינצח?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/843876/",
+       "id": "843876",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 3 - סטטיק",
+       "logo": "https://www.kan.org.il/media/x5fp3umb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pqoo89gj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-19",
+       "plot": "הצטרפו לנסיעה עם סטט-בוי ודוד שחר ותעשו רונדלים. וגם: מי ינצח בבאטל ראפ, איך מנגנים על בירימבאו, וסדנת תכשיטנות לאמנים נטולי אמצעים. אורחים מיוחדים: עדי ביטי וצדי צרפתי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/837930/",
+       "id": "837930",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 1 - נרקיס",
+       "logo": "https://www.kan.org.il/media/s2ufrv4j/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ob4z08zc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-03",
+       "plot": "עונה חדשה. שחר חסון נכנס אל כיסא הנהג ומארח את הזמרת נרקיס בנסיעה שהופכת לדייט מוזר: תחרות גלגול שווארמות, מחרוזת שירי כל החגים, תצוגת ה\"בובואים\" הגדולה וגם כמה וידויים מרגשים שלא ישאירו עין יבשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/831865/",
+       "id": "831865",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 7 - סאבלימינל",
+       "logo": "https://www.kan.org.il/media/ecpjojqj/תמונה-לאתר-מעודכן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6rqsfyri/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-03",
+       "plot": "הסנדק של ההיפ-הופ הישראלי מרים את הסאן-רוף! \"טורו\", \"פרחים בקנה\" ו\"התקווה\" – אתם מכירים את כל המילים? מבחן טעימות לאוכל אוקראיני, סיבוב דאווין על סוסיתא, ומי הטרמפיסט שעולה בהפתעה? מנחה: שחר חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/831851/",
+       "id": "831851",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי – אסף אמדורסקי",
+       "logo": "https://www.kan.org.il/media/zb3ly1co/קארפול-פרק-2-מעודכן-1612.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0k3go6iv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-03",
+       "plot": "אסף אמדורסקי מגיע לאוטו של שחר חסון עם כל הלהיטים הגדולים! אז איך נשמע השיר \"15 דקות\" בגרמנית? לאיזה שיר קראו במקור \"קקי בכינרת\"? ומה קורה כששני אנשים שלא אוהבים מגע אנושי מוצאים את עצמם בסדנת חיבוקים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/831844/",
+       "id": "831844",
+       "season": 4
+      },
+      {
+       "name": "קארפול קריוקי עונה 4 | פרק 4 - אגם בוחבוט",
+       "logo": "https://www.kan.org.il/media/udzlsjf3/לאתר-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mp9ds7gm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-03",
+       "plot": "מתיחה מתוקה שיוצאת משליטה, משחק טניס עם אלוף ישראל, ואפילו עצירה לנמנום במושב האחורי. האם בנסיעה אחת נספיק לשיר את כל הלהיטים של אגם בוחבוט? אורחים מיוחדים: שחר סיאול ושחר טבוך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/831829/",
+       "id": "831829",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 9 - נינט טייב",
+       "logo": "https://www.kan.org.il/media/lkrl0zk1/https-kanstaticazureedgenet-download-pictures-2023-2-5-imgid-93087_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yc276qv2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nנינט טייב מגיחה מלוס אנג'לס ישר לאוטו של אודי כגן כדי לענות על שאלת השאלות: האם לשיר לבד באוטו זה מגניב או עצוב? וגם: מרתון\n משותף של פתיחי תכניות ילדים, ועצירה לליקוט צמחי מרפא ביער",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/159444/",
+       "id": "159444",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 10 - שירי מרפסת",
+       "logo": "https://www.kan.org.il/media/uhqptsz4/https-kanstaticazureedgenet-download-pictures-2023-1-30-imgid-92628_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rfkkchqv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהצמד הקומי-מוזיקלי של רועי כפרי וטל טירנגל מגיע לנסיעה לא שגרתית! איך רועי מגיע לכזה פלצט דקיק, איך השיער של טל מתבדר כל כך\n ברוח, ומה המשיכה הלא ברורה של שניהם לנסיעה על רולר בליידס? מנחה: אודי כגן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/159021/",
+       "id": "159021",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 12 - טיפקס",
+       "logo": "https://www.kan.org.il/media/ntohsqji/2023-1-30-imgid-92627_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l3ogrlf0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהלהקה הכי שמחה בישראל, נדחקת (כמעט) כולה לאוטו של אודי כגן, ויוצאת לנסיעה עם כל השירים הגדולים.\nבתכנית : למה הם מתחילים כל הופעה עם תה נענע? מה הסיפור עם החליפות הלבנות? והאם קובי אוז באמת קורא שפתיים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/159018/",
+       "id": "159018",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 8 - מירי מסיקה",
+       "logo": "https://www.kan.org.il/media/jarfmupn/https-kanstaticazureedgenet-download-pictures-2023-1-9-imgid-90772_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g5bo0a85/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nמירי מסיקה היא אחד הקולות הנפלאים במוזיקה הישראלית, אבל במשך שנים היא הסתירה סוד אפל: היא מעולם לא עברה בחינת בגרות\n בספורט. האם אודי כגן יצליח לתקן את העוול ההיסטורי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/156941/",
+       "id": "156941",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 7 - שלומי שבן",
+       "logo": "https://www.kan.org.il/media/wkhdddwv/https-kanstaticazureedgenet-download-pictures-2023-1-9-imgid-90771_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4erp2744/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nקארפול קריוקי, עונה חדשה! הצטרפו לאודי כגן לנסיעה הכי מוזיקלית והכי מוטרפת שיש!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/156938/",
+       "id": "156938",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 3 - יוני רכטר",
+       "logo": "https://www.kan.org.il/media/0pleogz2/https-kanstaticazureedgenet-download-pictures-2022-12-22-imgid-89625_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_39yjn6h5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nיוני רכטר, הפסנתרן והמלחין שכולנו גדלנו על שיריו מגיע לנסיעה יוצאת דופן. \nלמה אין שירים לגיל הזהב, מדוע \"עטור מצחך\" לא הפך לפרסומת לשטיחים, ואיך יתמודד רכטר עם המפגש שמתכנן לו אודי עם הררי ג'אנק פוד?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/155888/",
+       "id": "155888",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3  | פרק 4 - יסמין מועלם",
+       "logo": "https://www.kan.org.il/media/jgbjystu/https-kanstaticazureedgenet-download-pictures-2022-12-21-imgid-89424_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yngq0124/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nיסמין מועלם היא אחת הזמרות הכי מצליחות בארץ, אבל בעצם חולמת לפתוח חנות ירקות. \nבנסיעה עם אודי כגן יתגלה מאיפה הגיע הכינוי \"חמי\", את איזו להקה היא מחקה בשלמות, ומה הדרך הנכונה לאכול \"כריות\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/155621/",
+       "id": "155621",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 6 - רמי קלינשטיין",
+       "logo": "https://www.kan.org.il/media/dazhua3h/https-kanstaticazureedgenet-download-pictures-2022-12-18-imgid-89084_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vqp92cd4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nקארפול קריוקי, עונה חדשה! הצטרפו לאודי כגן לנסיעה הכי מוזיקלית והכי מוטרפת שיש!\nרמי קלינשטיין מתרגל שירה עם ר' מתגלגלת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/155168/",
+       "id": "155168",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 11 - עברי לידר",
+       "logo": "https://www.kan.org.il/media/0aeb3nmx/2023-2-28-imgid-94952_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sfn2g9hk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nתכנית אחרונה לעונה. אודי כגן סוף-סוף מציג בפני עברי לידר את ''קול עברי לידר'' שלו. ביחד הם טועמים את הגלידות המטורפות ביותר\n בעולם, ויוצאים לרכיבת שטח על אופניים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/154496/",
+       "id": "154496",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 5 - נתן גושן",
+       "logo": "https://www.kan.org.il/media/nlpjmj4m/2022-12-9-imgid-88405_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8jy9v2cl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהשירים שלו יפהפיים, אבל אודי כגן הזמין את נתן גושן לנסיעה בעיקר כדי למצוא כובע איקוני משלו. וגם: אחרי ששרצו שם במשך כל שנות\n העשרה שלכם – האם נתן ואודי יילכו לאיבוד...בדיזנגוף סנטר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/154490/",
+       "id": "154490",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 2 - נגה ארז ורוסו",
+       "logo": "https://www.kan.org.il/media/xwnfxquj/https-kanstaticazureedgenet-download-pictures-2022-12-18-imgid-89081_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bw9d8c56/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהצמד שהטריף את העולם לוקח הפסקה מהבמות הגדולות ומגיע לרכב של אודי כגן. מי תוכתר כ\"מנה החמה\" הטעימה בעולם ומי ינצח\n בתחרות קואורדינציה שיצאה משליטה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/154487/",
+       "id": "154487",
+       "season": 3
+      },
+      {
+       "name": "קארפול קריוקי עונה 3 | פרק 1 - רן דנקר",
+       "logo": "https://www.kan.org.il/media/miia1wld/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-d05a5578-d165-4d52-aa6f-ad3742476de1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_43r5iqic/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nרן דנקר הופך את האוטו לבית משוגעים, עם מעגל מתופפים שמגיע בהפתעה ושיחה באנגלית משובשת עד כאב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s3/154484/",
+       "id": "154484",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 8 - ריטה",
+       "logo": "https://www.kan.org.il/media/kvcja3uk/https-kanstaticazureedgenet-download-pictures-2021-3-25-imgid-49803_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qurcnoea/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nבאוטו מקושט בדגלי כחול לבן, אודי כגן יוצא לחגוג את יום העצמאות עם האחת והיחידה - ריטה! עם הלהיטים הגדולים, הופעה מאולתרת\n של \"שרה ברחובות\" באמצע הרחוב, שיחזור סקנדל הכתפייה, ותחרות דיבוב שיוצאת משליטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/129210/",
+       "id": "129210",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 7 - איתי לוי",
+       "logo": "https://www.kan.org.il/media/22cfpigh/https-kanstaticazureedgenet-download-pictures-2021-2-25-imgid-48033_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jipv9bzv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nכדי שאיתי לוי יסכים בכלל לעלות לרכב - נדרש מבצע ניקיון חסר רחמים. ועם כל הכבוד לשרשרת הלהיטים שלו, האם איתי, זוכה מאסטרשף,\n יזכה בדו קרב השקשוקות מול אודי כגן וישמור על התואר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/128053/",
+       "id": "128053",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 24 - בועז שרעבי (ספיישל סיום)",
+       "logo": "https://www.kan.org.il/media/20ddqcf1/https-kanstaticazureedgenet-download-pictures-2021-10-24-imgid-63034_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6yqxqgx8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nעונה שנייה לעיבוד המקומי לפורמט הבינלאומי המצליח. אודי כגן יוצא עם הזמרים המובילים של ישראל לנסיעה שכולה מפגש מוזיקלי,\n\n אינטימי ומשעשע, החושף צדדים לא מוכרים אצל האמנים שכולנו אוהבים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126325/",
+       "id": "126325",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 23 - אתניקס",
+       "logo": "https://www.kan.org.il/media/ve1cld1e/https-kanstaticazureedgenet-download-pictures-2021-10-24-imgid-63033_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xu8e65m2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהרימו ידיים, קצב ברגליים! ''אתניקס'' מגיעה לקארפול קריוקי עם כל הלהיטים האהובים. מה יקרה כשזאב ילמד את אודי לזוז כמו נחמה, מי\n יזכה בתחרות אכילת החריף, ולמה אף אחד לא אוהב לנגן את ''כתם הפרי''?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126322/",
+       "id": "126322",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 22 - משה פרץ",
+       "logo": "https://www.kan.org.il/media/nldb0v2m/https-kanstaticazureedgenet-download-pictures-2021-11-7-imgid-63857_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tmuxnp06/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nעונה שנייה לעיבוד המקומי לפורמט הבינלאומי המצליח. אודי כגן יוצא עם הזמרים המובילים של ישראל לנסיעה שכולה מפגש מוזיקלי, \nאינטימי ומשעשע, החושף צדדים לא מוכרים אצל האמנים שכולנו אוהבים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126319/",
+       "id": "126319",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 20 - ארקדי דוכין",
+       "logo": "https://www.kan.org.il/media/akrlsjpc/https-kanstaticazureedgenet-download-pictures-2021-9-5-imgid-60521_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vbanxwo8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהאם אודי כגן יצליח להפוך את ארקדי דוכין, הזמר הכי נוגה בישראל, למכונת קומדיה פרועה? וגם: מה כל כך מרגיע אותו בלצאת לדוג בלילה,\n ומה הקטע שלו עם איגואנות?!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126313/",
+       "id": "126313",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 14 - אליעד",
+       "logo": "https://www.kan.org.il/media/p31iakdb/https-kanstaticazureedgenet-download-pictures-2021-6-6-imgid-54514_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ywqcznm0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהכינו את היוקלילי, כי אליעד עולה לנסיעה פרועה. ביחד, אודי ואליעד מנסים להשתלט על שוק המלצרים המזמרים, כותבים שיר הלל לבת ים\n על סירת פדלים, ונלחמים על תואר בדיחת הקרש המטופשת בכל הזמנים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126310/",
+       "id": "126310",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 11 - רותם כהן",
+       "logo": "https://www.kan.org.il/media/k4dli3vc/https-kanstaticazureedgenet-download-pictures-2021-4-28-imgid-51782_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ezokv41f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nרותם כהן עולה לאוטו של אודי לנסיעה במקצב של מאהב לטיני. האם רותם ידביק את אודי באהבתו לאמנות מודרנית והאם אודי יגייס את\n רותם לסרט האקשן החדש שלו? יאללה אמיגוס, ואיה קון דיוס!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126304/",
+       "id": "126304",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 10 - הדג נחש",
+       "logo": "https://www.kan.org.il/media/i44h1p4m/https-kanstaticazureedgenet-download-pictures-2021-4-21-imgid-51411_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ftwzwnjh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהפעם יהיה קצת צפוף באוטו, אבל זה שווה כדי לארח (כמעט) את כל \"הדג נחש\"! בין ביטים לחרוזים, אודי כגן והחבר'ה עוצרים לנגב חומוס\n ולשחק כדורגל קצת... אחרת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126239/",
+       "id": "126239",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 16 - גידי גוב",
+       "logo": "https://www.kan.org.il/media/33sfa4kc/https-kanstaticazureedgenet-download-pictures-2021-6-17-imgid-55405_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h9p1tvnu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nגידי גוב האחד והיחיד עולה לאוטו של אודי כגן לחגיגה של להיטים בלתי נשכחים. האם אודי יקבל את הטיפים של גידי לאיך להנחות תכנית אירוח מצליחה והאם גידי יקבל התקף לב כשאודי ייקח אותו לנהיגת שטח בטרקטורון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126236/",
+       "id": "126236",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 15 - קרן פלס",
+       "logo": "https://www.kan.org.il/media/g4gjtq3h/https-kanstaticazureedgenet-download-pictures-2021-6-10-imgid-54887_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_etg4yi37/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nאודי כגן אוסף את קרן פלס לנסיעה, אבל היא משוכנעת שהגיעה ל''מונית הכסף''... לצד כל הלהיטים, הם עוצרים לבקר את הקרנפית קרן\n פלס בספארי ומלחינים את כל הביקורות הרעות שכתבו עליהם. אם אלה החיים, מה צריך יותר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126233/",
+       "id": "126233",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 21 - עדן חסון",
+       "logo": "https://www.kan.org.il/media/jwjk1unx/https-kanstaticazureedgenet-download-pictures-2021-7-25-imgid-57857_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kqxvx20i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nעונה שנייה לעיבוד המקומי לפורמט הבינלאומי המצליח. אודי כגן יוצא עם הזמרים המובילים של ישראל לנסיעה שכולה מפגש מוזיקלי,\n אינטימי ומשעשע, החושף צדדים לא מוכרים אצל האמנים שכולנו אוהבים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126230/",
+       "id": "126230",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 12 - אביב גפן",
+       "logo": "https://www.kan.org.il/media/qecpc4co/https-kanstaticazureedgenet-download-pictures-2021-5-19-imgid-53394_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m59c4d4q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nאודי כגן בהתרגשות שיא: אליל נעוריו, אביב גפן, מגיע לקארפול! אז מה סוד הקסם בללכת יחף? האם באמת יש כדור שמרפא צרידות? ומי\n ינצח בבאטל שירי שנות השמונים הצ'יזיים ביותר? ילדי אור הירח, התאחדו!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126227/",
+       "id": "126227",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 9 - סטפן",
+       "logo": "https://www.kan.org.il/media/zmybw3pv/https-kanstaticazureedgenet-download-pictures-2021-4-18-imgid-51155_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jb6uw1l3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nהכינו את הבלינג ורעננו את הביט, סטפן לגר עולה לאוטו של אודי כגן! האם הוא באמת זוכר את כל מי שצילם אתו סלפי אי פעם? מה המאכל\n האקזוטי שבלעדיו הוא לא יכול? והאם הדואט הרומנטי שהקליט עם אודי ישבור את הרשת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126224/",
+       "id": "126224",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 6 - ליאור נרקיס",
+       "logo": "https://www.kan.org.il/media/el4mnrgh/https-kanstaticazureedgenet-download-pictures-2021-2-15-imgid-47497_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7kup7vx5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nלליאור נרקיס קצת קשה להתניע בבוקר, אבל ברגע שהוא נכנס לאוטו של אודי כגן - קוראים לזה שגעת! מאיפה המשיכה המוזרה שלו לארטישוק - והאם היה מצליח כקריין פרסומות? הצטרפו לפרק שכולו מהפכה של שמחה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126221/",
+       "id": "126221",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 5 - נועה קירל ומרגי",
+       "logo": "https://www.kan.org.il/media/cz4j2d01/https-kanstaticazureedgenet-download-pictures-2021-2-14-imgid-47421_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h4v3fout/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nנועה קירל ויהונתן מרגי, הזוג המלכותי של הפופ הישראלי, עולים לנסיעה רומנטית לכבוד יום האהבה. אל תגלו, אבל אודי כגן אירגן להם דייט\n ראשון רשמי, כזה שמעולם לא היה להם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126218/",
+       "id": "126218",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 4 - אברהם טל",
+       "logo": "https://www.kan.org.il/media/biifjppb/https-kanstaticazureedgenet-download-pictures-2021-1-27-imgid-46279_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u3ws3vgj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nאברהם טל עולה לרכב של אודי כגן וכל גלגל מסתובב! אז איך נראה משבר גיל הארבעים של נסיך השאנטי? בכמה כלי נגינה הוא יודע לנגן?\n\n והאם ישכנע את אודי, שונא הים, לצאת איתו לגלישה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126215/",
+       "id": "126215",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 3 - חנן בן ארי",
+       "logo": "https://www.kan.org.il/media/hwvlyusz/https-kanstaticazureedgenet-download-pictures-2021-1-27-imgid-46278_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ml5k9x6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nעונה חדשה! אודי כגן יוצא לנסיעה עם חנן בן ארי, הזמר הכי שמח בישראל, שמתגלה כמומחה עולמי למאנצ'יז ונגר סביר בהחלט. נו, פלא\n שהחיים שלו תותים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126212/",
+       "id": "126212",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 2- נטע ברזילי",
+       "logo": "https://www.kan.org.il/media/thhb1um2/https-kanstaticazureedgenet-download-pictures-2021-1-25-imgid-46139_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_of3bpq3g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nעונה חדשה! קארפול קריוקי. בערב בו בוחרים את השיר הישראלי לאירוויזיון, אודי כגן מסיע את נטע ברזילי כדי לצלם קליפ מקורי ל\"ננה\n בננה\". התאמנו על קרקורי התרנגולת שלכם, זו הולכת להיות נסיעה דוז פואה!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126209/",
+       "id": "126209",
+       "season": 2
+      },
+      {
+       "name": "קארפול קריוקי עונה 2 | פרק 1 - שרית חדד",
+       "logo": "https://www.kan.org.il/media/je5aiaqo/https-kanstaticazureedgenet-download-pictures-2021-1-21-imgid-45970_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l1jyga3c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \n\nאודי כגן פותח עונה חדשה של התוכנית העולמית המתגלגלת עם המלכה - שרית חדד! הצטרפו לנסיעה עם כל הלהיטים, כמה עצירות\n מפתיעות ואפילו ביקור של מוטי, ההוא שהלך הביתה...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/s2/126206/",
+       "id": "126206",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קארפול קריוקי - הצצה | אגם בוחבוט ושחר טבוך",
+       "logo": "https://www.kan.org.il/media/ztxhkmig/קארפול-קריוקי-הצצה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_geq5oyg9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "שחר טבוך מצטרף לנסיעה של אגם בוחבוט במונית המוזיקלית והדציבלים עולים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/856163/",
+       "id": "856163"
+      },
+      {
+       "name": "קארפול קריוקי - הצצה | זהבה בן",
+       "logo": "https://www.kan.org.il/media/1dggopcm/קארפול-קריוקי-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z1hlgo9o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "שחר וזהבה בן מדברים על אחד השירים הגדולים שלה - טלפון אהבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11606/856157/",
+       "id": "856157"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

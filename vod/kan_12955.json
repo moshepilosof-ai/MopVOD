@@ -1,0 +1,391 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סיפורים מהכורסה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12955/",
+   "series_id": "12955",
+   "updated": "2026-10-28 13:00",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 10 - טעויות",
+       "logo": "https://www.kan.org.il/media/b1fizxgs/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1978586/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "שרון טייכר בשרשרת טעויות במלחמת המפרץ, טעות קטנה שהולידה ריב ענק בין יעל שרוני לאמא שלה והדר לוי מסתבכת עם ועד הכיתה בגלל הזמנת פלאפל שיצאה משליטה. פרק אחרון לעונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967909/",
+       "id": "967909",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 9 - הורות",
+       "logo": "https://www.kan.org.il/media/w4hidjw0/s0492150-digital00_01_06_23still009.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949532/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "מה קרה בטיול בר המצווה של שי אביבי עם סבא ג'לאל? מה היה לאמא של יעל שרוני לשתף את גלי עטרי? ומה כל כך מיוחד בעברית של אבא של יונתן ברק?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967906/",
+       "id": "967906",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 8 -  אהבה וזוגיות",
+       "logo": "https://www.kan.org.il/media/uyqp4mq3/s0492150-digital00_01_05_05still008.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1913846/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "מה קרה בדייט הרומנטי של עלמה זק בחוף הים? למה הדר לוי כתבה מכתב אהבה בשם של ילדה אחרת? ומי הציע נישואין לזוגתו עם חתיכת פח מהרצפה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967904/",
+       "id": "967904",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 7 -  קורונה",
+       "logo": "https://www.kan.org.il/media/e2tbkb3t/s0492150-digital00_01_03_11still007.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949531/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "מי הדביק את כל מי שנכח במסיבת יום ההולדת של הדר לוי? איך שי אביבי מצא את עצמו עובד כשליח במהלך הסגר? ומה הבעיה של שרון טייכר עם מסכות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967902/",
+       "id": "967902",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 6 - חידושים והמצאות",
+       "logo": "https://www.kan.org.il/media/rknexq2n/s0492150-digital00_01_01_02still006.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1923588/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "על איזה חידוש סקסי הכריז חיים יבין במהדורת \"מבט\"? איך שינה מכשיר הטלוויזיה את חייו של דודו ארז? ולמה עלמה זק לא מזמינה דברים באינטרנט?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967899/",
+       "id": "967899",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 5 - אני מול הטבע",
+       "logo": "https://www.kan.org.il/media/rsxc3e0t/s0492150-digital00_00_59_15still005.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1952000/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "איך יעל שרוני נתקעה על פסגת הר מושלג? למה הטיולים של יונתן ברק מתנהלים כמו מבצע צבאי? ומה עלה בגורל הקמפינג הלא חוקי של יונה קפח?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967898/",
+       "id": "967898",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 4 - השכונה שלי",
+       "logo": "https://www.kan.org.il/media/2fqfqmrv/s0492150-digital00_00_58_05still004.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907053/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "מה הקשר בין אבא של הדר לוי לשלמה ארצי? מי רצתה לבקר בבית ילדותה ונכנסה לבית הלא נכון? ומי ניצח בקרב על הבניין - מתן חלק או הומלס?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967896/",
+       "id": "967896",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 3 - ספורט",
+       "logo": "https://www.kan.org.il/media/h4fkiglu/s0492150-digital00_00_56_14still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907052/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "מה הקשר של מתן חלק לרונאלדיניו? מי הטירון ששבר את שיא הבר-אור? מה חשב הילד יונתן ברק על המתאבק יוקוזונה? ואיך יעל שרוני רצה מהר יותר.. מעצמה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967895/",
+       "id": "967895",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 2 - בתיאבון",
+       "logo": "https://www.kan.org.il/media/25pfwtwi/s0492150-digital00_00_54_01still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907019/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "האנשים הכי מצחיקים מספרים את הסיפור של כולנו. והפעם: מה מצאה יעל שרוני במנת פלאפל? מי בישלה ארוחה ביתית לאייל שני? למה דודו ארז לא יוצא למסעדות? מי ניסה להשיק \"לחוחייה\" והתרסק? ומה זה \"עוף מפגר\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967894/",
+       "id": "967894",
+       "season": 5
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 5 | פרק 1 - אופנה וטרנדים",
+       "logo": "https://www.kan.org.il/media/smcn0lhm/s0492150-digital00_00_52_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1903221/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "האנשים הכי מצחיקים בישראל חוזרים בעונה חדשה עם סיפורי אופנה וטרנדים: מי הגיעה לחתונה של בת דודה לבושה בלבן? איזה טוטאל לוק שלט בבת מצווה של הדר לוי? ולמה שרון טייכר מסתובב עם כובע שלא מתאים? הפרק מוקדש לזכרו של עמוס ארבל ז\"ל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967893/",
+       "id": "967893",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "סיפורים מהכורסה עונה 4 | פרק 10 - שריטות",
+       "logo": "https://www.kan.org.il/media/z2uhdqtj/אתר-חדש.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nsfv5m8o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-26",
+       "plot": "פרק אחרון לעונה. הסיפורים הכי מצחיקים על השריטות הקטנות שלנו. למה אסור למגי אזרזר להסיר נעליים בבית? מה גיתית פישר שרה לעצמה כשהיא נכנסת למצוקה? והאם אלי חביב הוא באמת מנטליסט של חטיפים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/829053/",
+       "id": "829053",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 4 | פרק 9 - עשרים פלוס",
+       "logo": "https://www.kan.org.il/media/d3ddhwfk/סיפורים-9-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pou7ei8y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-10",
+       "plot": "הסיפורים הכי מצחיקים על גיל עשרים פלוס. למה דב נבון גר בתוך תפאורה בבית הספר למשחק? מה קרה ליניב ביטון ביום שעבר לגור בתל אביב? ולאיזו שחקנית גנבה טליה ברטפלד שייק פירות כשעבדה במזנון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/810983/",
+       "id": "810983",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 4 | פרק 8 - גיבורים ופחדנים",
+       "logo": "https://www.kan.org.il/media/4lcovyeu/screenshot-2024-11-04-103601.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_04bygvxp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-09",
+       "plot": "הסיפורים הכי מצחיקים על גיבורים ופחדנים: איך נמלט אלי חביב מנמר בגן החיות? איך אורלי זילברשץ הופכת לגיבורת על בסופרמרקט? וכשכלב התקיף את הבת שלו – איך הגיב אבא דב נבון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/810636/",
+       "id": "810636",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 4 | פרק 6 - טקסים ומסיבות",
+       "logo": "https://www.kan.org.il/media/msvfgwcj/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jq7jxqzs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-11",
+       "plot": "סיפורים על טקסים מרגשים (או משמימים), ומסיבות שיצאו משליטה: למה יניב ביטון פתח עין על הדי.ג'יי בבר מצווה? איך קובי מימון מצא עצמו מסתובב עם עורלה? ואחרי שכולם צפו בסרטונים, מגי אזרזר מספרת על החתונה שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/799111/",
+       "id": "799111",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 4 | פרק 7 - עולם הזוהר",
+       "logo": "https://www.kan.org.il/media/3mfgul1m/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lqfymnlu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-10",
+       "plot": "סיפורים על סלבס והמרדף אחרי התהילה: דב נבון רודף אחרי מישל פייפר בניו יורק, טליה ברטפלד מטרילה כתבי רכילות, מגי אזרזר חווה נטישת קהל המונית באמצע הצגה, וגיתית פישר מבקשת אש, מעוז זהבי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/798670/",
+       "id": "798670",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה 4 | פרק 5 - סיפורי חיות",
+       "logo": "https://www.kan.org.il/media/qs2pnq0t/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2cwa16q1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-04",
+       "plot": "סיפורי חיות - למה קובי מימון מפחד מחרקים? איך אלי חביב ניצל מנמר בגן החיות? מי ניצח בקרב בין גיתית פישר לג'וק הכי חכם בהודו? למה אורלי זילברשץ קנתה ארנב מקולקל? ועל שם איזו חיה קרויה מגי אזרזר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/796487/",
+       "id": "796487",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 4 | פרק 3 - התבגרות",
+       "logo": "https://www.kan.org.il/media/fbmjlof1/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rp7qlmpr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-25",
+       "plot": "סיפורים מצחיקים מספסל הלימודים והורמונים משתוללים: איזה בלגנים עשתה מגי אזרזר בטיול השנתי, מה עשתה מגמת הערבית של יניב ביטון במצרים, למה דב נבון מתקלח עם ההורים, ואיך יסמיניש קיבלה \"היקי\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/792598/",
+       "id": "792598",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה 4 | פרק 2 - סיפורי קיץ",
+       "logo": "https://www.kan.org.il/media/wdrh5wuv/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4imxui38/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "האנשים הכי מצחיקים בישראל עם סיפורי קיץ: מגי אזרזר על חופשות ילדות מופרעות באילת, דב נבון נזכר בפחדים מבילוי בים עם אבא, אורלי זילברשץ מטפלת בהתקף חרדה בהודו, ומה משפחת ברוש עשתה ב\"הכל כלול\" בטורקיה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/785437/",
+       "id": "785437",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה 4 | פרק 4 - איזה יופי",
+       "logo": "https://www.kan.org.il/media/h4acegn0/סיפורים-מהכורסה-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g6104jbj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-14",
+       "plot": "האנשים הכי מצחיקים בישראל מספרים על לוקים, אופנות וטרנדים. למה מגי אזרזר שונאת גזרה נמוכה? איך נגמר שיעור היוגה של דב נבון? והתקרית המפדחת של דייל במטוס מול יניב ביטון ההמום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/784350/",
+       "id": "784350",
+       "season": 4
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 4 | פרק 1 - אהבה וזוגיות",
+       "logo": "https://www.kan.org.il/media/l12e2uoj/סיפורים-מהכורסה-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kouemx6a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-14",
+       "plot": "האנשים הכי מצחיקים בישראל חוזרים בעונה חדשה, ולכבוד ט\"ו באב - סיפורי אהבה וזוגיות: הרומן של טליה בטרפלד במשמרות הזה\"ב, למה לא לצאת לצלילה זוגית עם דב נבון, ועל מי מפנטזים אצל משפחת ברוש מ\"מייקל\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/784347/",
+       "id": "784347",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 9 - הפעם הראשונה שלי",
+       "logo": "https://www.kan.org.il/media/epxk0ftt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gpaj9kg7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-13",
+       "plot": "האנשים המצחיקים בישראל מספרים את הסיפור של כולנו. הפעם: מי קיבלה מחזור וסטירה באותו יום? על מי השתין פיל בקרקס? מי זכתה להצהרת אהבה ראשונה שנגמרה בתאונה? ואת מי זכר נשיא המדינה בגלל רק רצף קללות מטורף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/484865/",
+       "id": "484865",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 8 - העיר שלי",
+       "logo": "https://www.kan.org.il/media/lpwegnj4/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gg1uuuiy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-20",
+       "plot": "האנשים הכי מצחיקים מספרים את הסיפור של כולנו. והפעם, העיר שלי: למה התחנה המרכזית בבאר שבע משפרת מצב רוח לנשים רווקות? על מי בולשות שכנות זקנות בכפר סבא בלילה? ואיך שוכרים דירה בתל אביב - בלי לראות אותה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/451100/",
+       "id": "451100",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 7 - חופשות",
+       "logo": "https://www.kan.org.il/media/wc1htlts/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y7er8a15/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-17",
+       "plot": "האנשים הכי מצחיקים מספרים את הסיפור של כולנו. והפעם, סיפורי חופשות: מה חיכה לאוראל צברי במיטה בירח הדבש במלדיביים? מה אושרית סרוסי עשתה ביורודיסני עם קופסת שימורים? ואיפה מבלה ציפי שביט את החופש הגדול?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/446900/",
+       "id": "446900",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 6 - שקר החן",
+       "logo": "https://www.kan.org.il/media/p2idhsm2/vlcsnap-2023-07-10-14h42m44s861.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ajnb3ruz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-10",
+       "plot": "האנשים הכי מצחיקים בישראל מספרים את הסיפור של כולנו. והפעם: שקר החן. הקראש המטרוסקסואלי של אושרית סרוסי, מישושי החזה של שני כהן, ציפי שביט יוצאת מרוסקת מטיפול פנים ולמה נוסבאום לא ישתיל שיער בטורקיה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/440449/",
+       "id": "440449",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 4 - האוטו שלנו (תחבורה)",
+       "logo": "https://www.kan.org.il/media/udhjyyz0/s0406386-digital00_01_48_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s0kpt8xe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-27",
+       "plot": "עונה חדשה עם האנשים הכי מצחיקים בישראל, שמספרים את הסיפור של כולנו. והפעם: סיפורי תחבורה. איך שוטר עזר לנוסבאום לעבור טסט? מי חלם כל ילדותו להיות נהג אוטובוס? ומי נסעה עם נהג מונית עם תחתונים על הראש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/418130/",
+       "id": "418130",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 5 - סכסוכים",
+       "logo": "https://www.kan.org.il/media/2nhnj1mf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i6uoa3ry/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-27",
+       "plot": "אוראל צברי מסתבך עם הבובה קלרה, סבתא ציפי שביט ישנה ברחוב, אושרית סרוסי מתכסחת על מספרי הלוטו, ואיך רבים בבית משפחת חוגי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/417716/",
+       "id": "417716",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 3 - סיפורי מוזיקה",
+       "logo": "https://www.kan.org.il/media/yranmn5t/צביקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jbrblhlr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-08",
+       "plot": "האנשים הכי מצחיקים בישראל מספרים את הסיפור של כולנו. והפעם: סיפורי מוזיקה. מה הקשר בין גבס ללהיט הילדים \"ג'מבו\"? מי העריץ את \"הופה היי\" ומיהו הסטוקר של גידי גוב?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/390616/",
+       "id": "390616",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 2 - מחוץ לחוק",
+       "logo": "https://www.kan.org.il/media/eiqdisks/לאתר-עונה-3-פרק-2-מחוץ-לחוק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0iukcjde/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-31",
+       "plot": "הפעם: סיפורים על תאקלים עם הרשויות. איך נגמרה תרמית ה sms של אושרית סרוסי? האם צביקה הדר דפק ליהודה פוליקר פחית בראש? איפה גלעד כהנא שומר את כל החשמל שגנב? ומה עישנו גלית חוגי ושוטר סיור ב\"לונה גל\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/380957/",
+       "id": "380957",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה 3 | פרק 1 - יום הולדת",
+       "logo": "https://www.kan.org.il/media/2j0e344r/כורסה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lmhk0za1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "עונה חדשה עם האנשים הכי מצחיקים בישראל, שמספרים את הסיפור של כולנו. והפעם: יום הולדת. איך חגג הילד אוראל צברי ב\"החדר של חני\"? איזו מתנה כמעט והרגה את נוסבאום? ומה עשתה שני כהן עם הצמיד המכוער שקיבלה מבעלה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/371798/",
+       "id": "371798",
+       "season": 3
+      },
+      {
+       "name": "סיפורים מהכורסה עונה 3 | ספיישל - מועדים לשמחה",
+       "logo": "https://www.kan.org.il/media/rald5ecx/2023-4-25-imgid-98928_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c22ngxfz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "איך נקלע נוסבאום לקטטה המונית ביום העצמאות, איך מעצבים סוכה אצל אושרית סרוסי, ומה עלה בגורלן של כל תחפושות ז'וז'ו חלסטרה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s3/327763/",
+       "id": "327763",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "חושבים שאתם מכירים את הקומיקאים האהובים בישראל? ענו על החידון",
+       "logo": "https://www.kan.org.il/media/umxd0ewy/https-kanstaticazureedgenet-download-pictures-2021-10-2-imgid-61759_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ifwqd47y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מה משותף לשלום אסייג ויניב ביטון, איך אמא של נלי תגר הביכה אותה, מי עשה סדר פסח משפחתי במסעדה ערבית ומה סבא של נועה קולר עשה כש\"חזר מהמתים\"? רגע לפני העונה החדשה של \"סיפורים מהכורסה\" (ג', 22:15 בכאן 11 ובדיגיטל) ענו על החידון ואולי תופתעו לגלות דברים חדשים על הקומיקאים שכולנו מכירים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s2/136002/",
+       "id": "136002",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סיפורים מהכורסה | פרק 1 - שירות צבאי",
+       "logo": "https://www.kan.org.il/media/joqnes5u/https-kanstaticazureedgenet-download-pictures-2020-11-16-imgid-42074_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_032xts4q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בראבא, לסלאו, קטורזה, רשף, גורי, פוליאקוב, גיתית, ליטל, פרידמן, דב ותום - על כורסה אחת. וכולם משתפים את החוויות והסיפורים הכי אישיים, מוזרים ומצחיקים, שנמצא בהם גם את עצמנו. והפעם: השירות הצבאי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/s1/117860/",
+       "id": "117860",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "טריילר - סיפורים מהכורסה",
+       "logo": "https://www.kan.org.il/media/ebkdeb3s/1920x1080-with-logo_.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y883s3il/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "הקומיקאים האהובים בישראל יושבים על ספה ומשתפים בחוויות הכי מצחיקות, מביכות ומוזרות מחייהם, שכל הצופים בבית גם מכירים מחייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/866224/",
+       "id": "866224"
+      },
+      {
+       "name": "סיפורים מהכורסה - הצצה | צביקה הדר יזם מלידה",
+       "logo": "https://www.kan.org.il/media/zkqbmhp0/3c36a63f-5903-4277-824f-55fe1a004cad.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ec82vsrw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "מנהלת בית הספר של צביקה הדר אמרה לו שלא יעז להביא הופעות לאולם ספורט, ואז הוא נזכר שהאולם בשכירות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/856179/",
+       "id": "856179"
+      },
+      {
+       "name": "סיפורים מהכורסא - הצצה | חוויות מהצבא",
+       "logo": "https://www.kan.org.il/media/k5nncuzc/סיפורים-מהכורסא-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9zck3fk9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "הקומיקאים האהובים בישראל חוזרים לחוויות מהצבא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12955/856174/",
+       "id": "856174"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

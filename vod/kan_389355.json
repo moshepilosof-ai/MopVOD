@@ -1,0 +1,131 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שישה אפסים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-389355/",
+   "series_id": "389355",
+   "updated": "2026-10-28 13:28",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שישה אפסים | פרק 8 - מפגש שמיני ואחרון",
+       "logo": "https://www.kan.org.il/media/apfj3thi/שישה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v5xmz0jh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-12",
+       "plot": "מפגש שמיני ואחרון - רגע האמת כבר כאן, המפגש האחרון של הסדנה. עוד רגע והם מיליונרים אבל האם הכול יעבור בשלום ומה הזוכים יחליטו לעשות עם כספם?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/443017/",
+       "id": "443017",
+       "season": 1
+      },
+      {
+       "name": "שישה אפסים | פרק 7 - מפגש שביעי",
+       "logo": "https://www.kan.org.il/media/da2phtba/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dsk8tgf5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-12",
+       "plot": "הפערים בין אדם לגלי מעמיקים, רותי מחפשת אמפתיה ממשפחתה וארנונה וצבי מתנסים בחיים בנפרד. איילת מנסה לעזור לאימה, אך חוצה גבול מול אלכס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/443013/",
+       "id": "443013",
+       "season": 1
+      },
+      {
+       "name": "שישה אפסים | פרק 6 - מפגש שישי",
+       "logo": "https://www.kan.org.il/media/z12dxxvu/vlcsnap-2023-06-27-12h07m46s584.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_83i2k0qs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-27",
+       "plot": "גלי מפתיעה את אדם, והשקר שלו מתגלה. צבי נאלץ לעשות חשבון נפש ביום הולדתו. אלכס מגלה דברים על חייה של איילת. רותי מקבלת בשורה כואבת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/417702/",
+       "id": "417702",
+       "season": 1
+      },
+      {
+       "name": "שישה אפסים - מפגש חמישי",
+       "logo": "https://www.kan.org.il/media/2gvfe4lj/s0386204_100_14_36_09still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l30zd0ir/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-27",
+       "plot": "6 זוכים טריים בהגרלה מחוייבים לעבור סדנת הכנה לחייהם כמיליונרים. \nפרק 5- אדם מנסה, ללא הצלחה, לסמוך על גלי. צבי רוצה לעשות צעד רומנטי, אבל ארנונה מקדימה אותו. אבא של רותי במצב לא טוב. איילת ואלכס מתקרבים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/417699/",
+       "id": "417699",
+       "season": 1
+      },
+      {
+       "name": "שישה אפסים | פרק 4 - מפגש רביעי",
+       "logo": "https://www.kan.org.il/media/f12ad3ic/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lpk0zvun/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-22",
+       "plot": "אדם וגלי מקבלים החלטה גורלית; החתונה של רותי ואמיר מסתבכת; ארנונה לא יכולה לשתוק עוד; ואלכס נאלץ לצאת מאזור הנוחות שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/409377/",
+       "id": "409377",
+       "season": 1
+      },
+      {
+       "name": "שישה אפסים | פרק 3 - מפגש שלישי",
+       "logo": "https://www.kan.org.il/media/awfnvpgk/ש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zq684ivr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-19",
+       "plot": "סדרה חדשה. 6 זוכים טריים בהגרלה מחוייבים לעבור סדנת הכנה לחייהם כמיליונרים. \nפרק 3. הסיפור של איילת נחשף. אדם נקלע לחוויה לא צפויה עם אביו. רותי ואמיר מתמודדים עם השלכות פליטת הפה של אמיר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/402602/",
+       "id": "402602",
+       "season": 1
+      },
+      {
+       "name": "שישה אפסים - פרק 2 - מפגש שני",
+       "logo": "https://www.kan.org.il/media/rhhlhnq2/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g5llko7f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-08",
+       "plot": "ההכנות לחתונה של רותי ואמיר בעיצומן כשסודות שמתגלים יוצרים משבר משפחתי. ארנונה מתעלמת מהרצונות של צבי. אדם וגלי מתקרבים. משתתף חדש מגיע לסדנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/390647/",
+       "id": "390647",
+       "season": 1
+      },
+      {
+       "name": "שישה אפסים | פרק 1 - מפגש ראשון",
+       "logo": "https://www.kan.org.il/media/dlxlglpy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q2ybozkc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-08",
+       "plot": "הזוכים בלוטו מגיעים למפגש הראשון של הסדנה ומגלים להפתעתם שהם לא יקבלו את כספי הזכייה שלהם כל כך מהר. חלומותיהם מתחילים לפגוש את המציאות ולהסתבך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/s1/390646/",
+       "id": "390646",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שישה אפסים | טריילר",
+       "logo": "https://www.kan.org.il/media/bb2nxhnl/1_cover-image_1920x1080.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lxd8ryh1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "שישה מיליונרים טריים מגלים שכדי לקבל את כספם עליהם לעבור קודם סדנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/866172/",
+       "id": "866172"
+      },
+      {
+       "name": "שישה אפסים - הצצה | כסף מערער יחסים",
+       "logo": "https://www.kan.org.il/media/bmtjn4d3/1a9d9bd7-2543-44af-b2d2-e8298c932f70.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ho0kwwrx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "כספי הזכייה מערערים את היחסים בין צבי לארנונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/855898/",
+       "id": "855898"
+      },
+      {
+       "name": "שישה אפסים - הצצה | סדנה למיליונרים חדשים?",
+       "logo": "https://www.kan.org.il/media/xcfd0kc2/0793bf27-1e58-4c78-b3ed-8c60d30b3a22.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mc7vr5tt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "אמיר מתנגד לסדנה אבל מבין שאין לו ברירה אלא להישאר ולשתף פעולה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-389355/855897/",
+       "id": "855897"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

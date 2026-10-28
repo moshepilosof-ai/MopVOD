@@ -1,0 +1,113 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בקצה המכחול",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670783/",
+   "series_id": "670783",
+   "updated": "2026-10-28 09:36",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בקצה המכחול | פרק 1 - ציירי לך שפם",
+       "logo": "https://www.kan.org.il/media/yarpxo0t/bektsehamikhol01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wkquhf0q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הדאדאיזם ומרסל דושאן, הקוביזם ופבלו פיקאסו, הרנסנס ולאונרדו דה-וינצ'י, והמונה ליזה שקיבלה תוספת שפם אומנותית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673771/",
+       "id": "673771",
+       "season": 1
+      },
+      {
+       "name": "בקצה המכחול | פרק 2 - קצה ההיגיון",
+       "logo": "https://www.kan.org.il/media/xm5o4nez/bektsehamikhol02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8638gean/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "היצירות הסוריאליסטיות של סלבדור דאלי, הגיהינום וגן העדן של הירונימוס בוש, ומולאן רוז' ורקדניות הקאן-קאן של טולוז לוטרק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673768/",
+       "id": "673768",
+       "season": 1
+      },
+      {
+       "name": "בקצה המכחול | פרק 3 - מחלב ועד קולה",
+       "logo": "https://www.kan.org.il/media/2ogbc30m/bektsehamikhol03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_adg5sx6r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פול גוגן ואיי טהיטי, יאן ורמיר הריאליסט והאישה שמוזגת חלב, ואנדי וורהול אומן הפופ-ארט שצייר קולה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673765/",
+       "id": "673765",
+       "season": 1
+      },
+      {
+       "name": "בקצה המכחול | פרק 4 - פחות אבל יותר",
+       "logo": "https://www.kan.org.il/media/k4lbpd33/bektsehamikhol04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qemd72ic/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אקספרסיוניזם וציורי טבע אצל וינסנט ואן גוך, פיט מונדריאן ופרנאן לז'ה, כל אחד מנקודת המבט שלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673762/",
+       "id": "673762",
+       "season": 1
+      },
+      {
+       "name": "בקצה המכחול | פרק 5 - חפש את האישה",
+       "logo": "https://www.kan.org.il/media/bcahlnpe/bektsehamikhol05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_owfgpzse/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "דמות האישה כפי שהיא משתקפת ביצירות המפורסמות של סנדרו בוטיצ'לי, וילם דה קונינג ושל אדגר דגה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673759/",
+       "id": "673759",
+       "season": 1
+      },
+      {
+       "name": "בקצה המכחול | פרק 6 - אור בקצה המנהרה",
+       "logo": "https://www.kan.org.il/media/rpmjtpgt/bektsehamikhol06.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3bu42rsa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "משחקי אור וצל, מציאות ופנטזיה, ביצירותיהם המפורסמות של רמברנדט, רנה מגריט וקלוד מונה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673756/",
+       "id": "673756",
+       "season": 1
+      },
+      {
+       "name": "בקצה המכחול | פרק 7 - סימפוניה של צבעים",
+       "logo": "https://www.kan.org.il/media/il3p3jsi/bektsehamikhol07.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hs09x2py/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צבעים ומוזיקה אצל וסילי קנדינסקי הרוסי, אונורה דומייה הקריקטוריסט הצרפתי וקצושיקה הוקוסאי היפני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673753/",
+       "id": "673753",
+       "season": 1
+      },
+      {
+       "name": "בקצה המכחול | פרק 8 - קו האופק (לקט)",
+       "logo": "https://www.kan.org.il/media/klsn1nbv/bektsehamikhol08.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_18sx3wvn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קטעים נבחרים מהפרקים הקודמים, ציירים ואומנים שהכרנו, כולל הופעות אורח של מרילין מונרו ושל האדם הקדמון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/s1/673750/",
+       "id": "673750",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בקצה המכחול | פתיח",
+       "logo": "https://www.kan.org.il/media/0z1nnze0/פתיח-בקצה-המכחול.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9ikr5had/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית \"בקצה המכחול\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670783/943164/",
+       "id": "943164"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

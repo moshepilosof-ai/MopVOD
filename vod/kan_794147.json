@@ -1,0 +1,137 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - פלאי האוקיינוס",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-794147/",
+   "series_id": "794147",
+   "updated": "2026-10-28 13:08",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 8 -  לוטרות ים ודג צפרדע",
+       "logo": "https://www.kan.org.il/media/csclbsoo/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906986/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "טום \"הבלופיש\" הרד חוקר את לוטרת הים המטלטלת, משיג לעצמו ביצת אלמוגים משלו כדי לחשוף את דרך הרבייה המוזרה של האלמוג ומסביר כיצד הפרשה של תולעת היא אוצר לאדם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968961/",
+       "id": "968961",
+       "season": 2
+      },
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 7 - תנין הים ודוב הקוטב",
+       "logo": "https://www.kan.org.il/media/12bhwcwm/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906953/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "טום \"הבלופיש\" הרד חוקר את כוח הרחרוח הפלאי של דוב הקוטב, מאתגר סרטן קטיפה במרוץ דראג ומציג מדוע תנין הים הוא מלך הלעיסות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968958/",
+       "id": "968958",
+       "season": 2
+      },
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 6 - טרייגונים וצלופחי קונגר",
+       "logo": "https://www.kan.org.il/media/sv3hc5w0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906952/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "טום \"הבלופיש\" הרד מדגים כיצד הטרייגונים חודרים לגופם של טרפם, מסביר למה צלופח הקונגר הוא סיוטו הגרוע ביותר של כל דג וחוקר את החדקרן הפנטסטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968955/",
+       "id": "968955",
+       "season": 2
+      },
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 5 - צבי ים ודיונונים מסוגננים",
+       "logo": "https://www.kan.org.il/media/5hzfhmnj/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906951/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "טום \"הבלופיש\" הרד חושף את שיטות השרידות המסוגננות של דיונון הבובטייל, מסביר כיצד העקרבנון ההדור מחסל אלמוגים וקופץ לתוך סנפירי צב הים כדי להדגים את שיטות הניווט שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968952/",
+       "id": "968952",
+       "season": 2
+      },
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 4 - כלבי ים ודומדמני הים",
+       "logo": "https://www.kan.org.il/media/23hgjkjb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906914/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "טום \"הבלופיש\" הרד פוגש כלב ים בעל חוטם ענק, מציג את המולים שלו, מחקה את תנועות דומדמן הים רקדן הדיסקו והופך את עצמו לחילזון חרוט כדי להדגים מדוע הוא רכיכה רצחנית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968950/",
+       "id": "968950",
+       "season": 2
+      },
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 3 - לוויתן הזרע וטונה יוצאת דופן",
+       "logo": "https://www.kan.org.il/media/04tjux0a/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906881/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "טום ה\"בלופיש\" הרד מחליק וגולש כדי להדגים כיצד פינגווינים מדדים, חוקר את הראש הימי של לווייתני הזרע ועומד בכוחות ג'י בפעלול אווירי בהשראת דגי הטונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968949/",
+       "id": "968949",
+       "season": 2
+      },
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 2 - לוויתן גדול-סנפיר",
+       "logo": "https://www.kan.org.il/media/wriocxcw/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906880/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "טום \"הבלופיש\" הרד פוגש דג אבו נפחא אמיתי, מציג כיצד לווייתנים גדולי-סנפיר סועדים, חושף את הגאונות האדריכלית של תולעת בנאי החול וקופץ לתוך בריכה כדי לצוד כמו טורף-על",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968948/",
+       "id": "968948",
+       "season": 2
+      },
+      {
+       "name": "פלאי האוקיינוס עונה 2 | פרק 1 - לווייתן הקשת וכריש פטיש",
+       "logo": "https://www.kan.org.il/media/54qctumr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1906879/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "כיצד מבנה ראשו הייחודי של כריש פטיש מאפשר לו לזהות טרף חבוי? איך דיונונים מתחמקים מאיומים בעזרת דיו?  וגם איך לווייתן הקשת מצליח לשבור קרח ולהתמודד עם תנאים קיצוניים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s2/968944/",
+       "id": "968944",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פלאי האוקיינוס עונה 1 | פרק 1 - כלבי ים ודגי צלף",
+       "logo": "https://www.kan.org.il/media/5gglqyzo/אתר-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g3y4yuc6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-29",
+       "plot": "טום \"דה בלופיש\" הרד צולל עם כלבי ים כדי לחקור את שערות השפם הסופר-רגישות שלהם, בוחן את כישורי הירי שלו נגד דג צלף ויורה בתותח כדי להדגים את כוח החבטה של חסילון גמלן שלמה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/s1/794166/",
+       "id": "794166",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "פלאי האוקיינוס - הצצה | הדג המרושע שלא תרצו להתעסק איתו",
+       "logo": "https://www.kan.org.il/media/cpzjggeu/פלאי-האוקיינוס-הצצה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ivaug82g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "\"ברקודה\": האימה הגדולה של הדגים שחיים בין שוניות האלמוגים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/858992/",
+       "id": "858992"
+      },
+      {
+       "name": "פלאי האוקיינוס - הצצה | הסודות והמסתורין של האוקיינוס ",
+       "logo": "https://www.kan.org.il/media/os2b5jib/פלאי-האוקיינוס-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zp0qhqc1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "הביולוג הימי שהחליט להקדיש את חייו כדי לגלות את נסתרות שבמעמקי הים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-794147/858986/",
+       "id": "858986"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

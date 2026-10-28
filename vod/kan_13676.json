@@ -1,0 +1,280 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן איתכם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13676/",
+   "series_id": "13676",
+   "updated": "2026-10-28 11:19",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כאן איתכם - הצצה | לבד בבית",
+       "logo": "https://www.kan.org.il/media/n5jk0bgl/כאן-איתכם-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s2lw2skh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-12",
+       "plot": "איך להתמודד בצורה הטובה ביותר במצבים החדשים שנתקלים בהם בגיל השלישי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/919270/",
+       "id": "919270"
+      },
+      {
+       "name": "כאן איתכם | פרק 27",
+       "logo": "https://www.kan.org.il/media/qu1fv1hu/2020-6-9-imgid-34743_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sx6ktkys/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/113788/",
+       "id": "113788"
+      },
+      {
+       "name": "כאן איתכם | פרק 24",
+       "logo": "https://www.kan.org.il/media/k2qbwswp/2020-6-4-imgid-34521_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v1lui58u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/113684/",
+       "id": "113684"
+      },
+      {
+       "name": "כאן איתכם | פרק 22",
+       "logo": "https://www.kan.org.il/media/4xrll3jp/2020-6-2-imgid-34395_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cr1pdcpk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/113554/",
+       "id": "113554"
+      },
+      {
+       "name": "כאן איתכם | פרק 18",
+       "logo": "https://www.kan.org.il/media/hvrduin3/2020-5-26-imgid-34071_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xyc6s71s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/113396/",
+       "id": "113396"
+      },
+      {
+       "name": "כאן איתכם | פרק 11",
+       "logo": "https://www.kan.org.il/media/rhcj0j0e/2020-5-12-imgid-33306_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4paedobo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/113056/",
+       "id": "113056"
+      },
+      {
+       "name": "כאן איתכם | פרק 1",
+       "logo": "https://www.kan.org.il/media/1tjb30nc/2020-4-22-imgid-32323_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ga597hpn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112422/",
+       "id": "112422"
+      },
+      {
+       "name": "כאן איתכם | פרק 2",
+       "logo": "https://www.kan.org.il/media/w2kfiq1a/2020-4-23-imgid-32379_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m82sn4gg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112419/",
+       "id": "112419"
+      },
+      {
+       "name": "כאן איתכם | פרק 3",
+       "logo": "https://www.kan.org.il/media/qcsl2s3m/2020-4-26-imgid-32472_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4uo3w5zk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112416/",
+       "id": "112416"
+      },
+      {
+       "name": "כאן איתכם | פרק 4",
+       "logo": "https://www.kan.org.il/media/mjzlzu1m/2020-4-27-imgid-32562_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pxbdax8w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112413/",
+       "id": "112413"
+      },
+      {
+       "name": "כאן איתכם | פרק 5",
+       "logo": "https://www.kan.org.il/media/dc5bxgdy/2020-5-3-imgid-32856_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jddauyy0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112410/",
+       "id": "112410"
+      },
+      {
+       "name": "כאן איתכם | פרק 6",
+       "logo": "https://www.kan.org.il/media/fwybcgnw/2020-5-4-imgid-32905_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f0f9et3h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112407/",
+       "id": "112407"
+      },
+      {
+       "name": "כאן איתכם | פרק 7",
+       "logo": "https://www.kan.org.il/media/py5hzfkn/2020-5-5-imgid-32956_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_guxh68b8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112404/",
+       "id": "112404"
+      },
+      {
+       "name": "כאן איתכם | פרק 8",
+       "logo": "https://www.kan.org.il/media/2anf1cuv/2020-5-6-imgid-33034_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uyvbnbac/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112401/",
+       "id": "112401"
+      },
+      {
+       "name": "כאן איתכם | פרק 9",
+       "logo": "https://www.kan.org.il/media/jcmj4lrw/2020-5-10-imgid-33206_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_702s04x6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112398/",
+       "id": "112398"
+      },
+      {
+       "name": "כאן איתכם | פרק 10",
+       "logo": "https://www.kan.org.il/media/npsejlgo/2020-5-11-imgid-33263_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qg0ewwsp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112395/",
+       "id": "112395"
+      },
+      {
+       "name": "כאן איתכם | פרק 12",
+       "logo": "https://www.kan.org.il/media/ggrciubi/2020-5-13-imgid-33387_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5slg5mys/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112392/",
+       "id": "112392"
+      },
+      {
+       "name": "כאן איתכם | פרק 13",
+       "logo": "https://www.kan.org.il/media/vmqlfsxv/2020-5-18-imgid-33642_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ab580nn4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112389/",
+       "id": "112389"
+      },
+      {
+       "name": "כאן איתכם | פרק 14",
+       "logo": "https://www.kan.org.il/media/lyuopp3y/2020-5-19-imgid-33688_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0o1qmi4r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112386/",
+       "id": "112386"
+      },
+      {
+       "name": "כאן איתכם | פרק 15",
+       "logo": "https://www.kan.org.il/media/weejdf21/2020-5-20-imgid-33745_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x2cego4z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112383/",
+       "id": "112383"
+      },
+      {
+       "name": "כאן איתכם | פרק 16",
+       "logo": "https://www.kan.org.il/media/2vfdxtlt/2020-5-21-imgid-33835_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4f7p3l1l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112380/",
+       "id": "112380"
+      },
+      {
+       "name": "כאן איתכם | פרק 17",
+       "logo": "https://www.kan.org.il/media/hztgyeut/2020-5-25-imgid-34003_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6qzxdjv7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112377/",
+       "id": "112377"
+      },
+      {
+       "name": "כאן איתכם | פרק 19",
+       "logo": "https://www.kan.org.il/media/zxjepwdv/2020-5-27-imgid-34129_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z01urz3w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112374/",
+       "id": "112374"
+      },
+      {
+       "name": "כאן איתכם | פרק 20",
+       "logo": "https://www.kan.org.il/media/o0afb15b/2020-5-31-imgid-34275_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_plwwlouh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112371/",
+       "id": "112371"
+      },
+      {
+       "name": "כאן איתכם | פרק 21",
+       "logo": "https://www.kan.org.il/media/raplrflb/2020-6-1-imgid-34345_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0axurtcj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112368/",
+       "id": "112368"
+      },
+      {
+       "name": "כאן איתכם | פרק 23",
+       "logo": "https://www.kan.org.il/media/mefhrr3x/2020-6-4-imgid-34496_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tgoitsrc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112365/",
+       "id": "112365"
+      },
+      {
+       "name": "כאן איתכם | פרק 25",
+       "logo": "https://www.kan.org.il/media/tl3jjgxu/2020-6-7-imgid-34642_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9z4adqtt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112362/",
+       "id": "112362"
+      },
+      {
+       "name": "כאן איתכם | פרק 26",
+       "logo": "https://www.kan.org.il/media/ihia4hmb/2020-6-8-imgid-34706_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n4qw4fzo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112359/",
+       "id": "112359"
+      },
+      {
+       "name": "כאן איתכם | פרק 28",
+       "logo": "https://www.kan.org.il/media/ziypahup/2020-6-10-imgid-34831_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_klujlbm3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי ועוסקת בנושאים שמעסיקים את האוכלוסיה המבוגרת. פינת תרבות, פינת טכנולוגיה, פינת הסטוריה, פינת כושר ועוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13676/112356/",
+       "id": "112356"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

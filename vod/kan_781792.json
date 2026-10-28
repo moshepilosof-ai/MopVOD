@@ -1,0 +1,113 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שיחה בשניים | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-781792/",
+   "series_id": "781792",
+   "updated": "2026-10-28 13:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שיחה בשניים | פרק 8 - ח\"כ מטילדה גז",
+       "logo": "https://www.kan.org.il/media/vqkjnyro/מטילדה-רז.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8l9dgnx0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "מיכה שגריר בריאיון עם חברת הכנסת לשעבר, על תחושת המיצוי והרצון לחזור לחופש מהעול הפוליטי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781886/",
+       "id": "781886",
+       "season": 1
+      },
+      {
+       "name": "שיחה בשניים | פרק 7 - השופט בדימוס חיים כהן",
+       "logo": "https://www.kan.org.il/media/bs0nozno/השופט-חיים-כהן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sh8ub6t8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "בריאיון מול אשתו, המשפטן מגיב לתוויות שהודבקו עליו במהלך הקריירה ועל הקווים המשיקים בין דת לחוק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781880/",
+       "id": "781880",
+       "season": 1
+      },
+      {
+       "name": "שיחה בשניים | פרק 6 - יעקב חזן",
+       "logo": "https://www.kan.org.il/media/rrrjzcv0/יעקב-חזן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fgt24u9b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "על האפשרות לשלום בין הישראלים לפלסטינים, והסכנה הקיומית שמרחפת מעלינו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781874/",
+       "id": "781874",
+       "season": 1
+      },
+      {
+       "name": "שיחה בשניים | פרק 5 - שאול ארלוזורוב",
+       "logo": "https://www.kan.org.il/media/c11pamoh/שאול-ארלוזורוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5nvu97oa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "על ההתמודדות עם מותו הטרגי של אביו כשהיה בן 3 והחיים בצל דמותו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781871/",
+       "id": "781871",
+       "season": 1
+      },
+      {
+       "name": "שיחה בשניים | פרק 4 - פרופ' אפרים קציר",
+       "logo": "https://www.kan.org.il/media/rflj4x2e/אפרים-קציר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cbyis1wr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "הביוכימאי שעוסק במהות החיים והיה נשיאה ה-4 של מדינת ישראל בריאיון עם שלום רוזנפלד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781867/",
+       "id": "781867",
+       "season": 1
+      },
+      {
+       "name": "שיחה בשניים | פרק 3 - יעקב אחימאיר",
+       "logo": "https://www.kan.org.il/media/twzbwtg1/תמונה-שיחה-בשנייםstill001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ib6fyreu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "השינוי הקיצוני באידאולוגיה של אביו, אב\"א אחימאיר, קריאות הגנאי שכינו אותו כפשיסט והמחלוקת הציבורית סביב פועלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781856/",
+       "id": "781856",
+       "season": 1
+      },
+      {
+       "name": "שיחה בשניים | פרק 2 - עזר ויצמן",
+       "logo": "https://www.kan.org.il/media/mr0j221l/עזר-ויצמן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tb73f8z9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "נשיאה השביעי של מדינת ישראל בריאיון על השלום הנכסף במזרח התיכון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781828/",
+       "id": "781828",
+       "season": 1
+      },
+      {
+       "name": "שיחה בשניים | פרק 1 - יצחק שלו",
+       "logo": "https://www.kan.org.il/media/h10ls3tf/יצחק-שלו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0e8b6a1g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "מאיר שלו ואביו יושבים לראיון שהוא בעצם שיחה על מקורות ההשראה ליצירה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/s1/781826/",
+       "id": "781826",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שיחה בשניים - הצצה | הראיון המיוחד של יצחק שליו עם בנו מאיר",
+       "logo": "https://www.kan.org.il/media/c5dppzyq/שיחה-בשניים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6s2ar9cn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-24",
+       "plot": "מאיר שליו בראיון המיוחד עם אביו, יצחק שליו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781792/863956/",
+       "id": "863956"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

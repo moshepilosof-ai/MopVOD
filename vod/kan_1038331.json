@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עיר האלוהים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1038331/",
+   "series_id": "1038331",
+   "updated": "2026-10-28 13:03",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חילונים יוצאים, חרדים נכנסים: המסע בערים שאיבדו את הרוב הליברלי",
+       "logo": "https://www.kan.org.il/media/soybtwym/10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196736/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-04",
+       "plot": "הפריפריה משנה את פניה: בפרק השני של הפרויקט המיוחד \"עיר האלוהים\", ישראל רוזנר יוצא למסע בשלוש ערים שאיבדו את הרוב הליברלי לטובת המגזר החרדי - מהקולות של התושבים הוותיקים שמוכרים את נכסיהם ועד לקהילות החדשות שמעצבות מחדש את המרחב הציבורי",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1038331/s1/1037336/",
+       "id": "1037336",
+       "season": 1
+      },
+      {
+       "name": "\"בית ספר חילוני הפך לגטו חרדי\": איך התחרדו הערים הקטנות בפריפריה?",
+       "logo": "https://www.kan.org.il/media/ljpfunq4/7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196600/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "עיר האלוהים: שורת ערים בפריפריה עוברות בשנים האחרונות תהליך מואץ של התחרדות. האם זוהי נבואה למה שצפוי בישראל כולה? ישראל רוזנר יצא למסע בשלוש ערים שאיבדו את הרוב הליברלי לטובת אוכלוסייה חרדית. ההחלטה ההיסטורית של האדמו\"ר מגור לשלוח את חסדיו לערד - ולמה בחסידות קרלין בחרו להביא את הקהילה לשפת הכינרת",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1038331/s1/1036876/",
+       "id": "1036876",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

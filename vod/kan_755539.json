@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - המסע",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-755539/",
+   "series_id": "755539",
+   "updated": "2026-10-28 09:57",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "המסע | פרק ג' - אנשים טובים באמצע הדרך",
+       "logo": "https://www.kan.org.il/media/ddyhg03n/המסע-פרק-ג.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l7eki3hk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-30",
+       "plot": "חברי הכפר נפרדים מהקשישים שנותרו מאחור ויוצאים למסע ברגשות מעורבים. הם מגלים על הקשיים שמסתתרים בדרך, ועל כמה חשובה עבודת צוות להשלמת המסע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-755539/s1/755558/",
+       "id": "755558",
+       "season": 1
+      },
+      {
+       "name": "המסע | פרק ב' - עניין של השקפה",
+       "logo": "https://www.kan.org.il/media/tdnpnxln/המסע-פרק-ב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9nmm6mfi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-30",
+       "plot": "טלהון, חברו החדש של ממו, מתמודד עם התדמית שהדביקו לו בכפר ומנסה לשכנע אותו לצאת למסע משלהם לירושלים. שאר תושבי הכפר מתכוננים ליציאה ומתמודדים עם הרגשות המעורבים לקראת עזיבת הכפר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-755539/s1/755551/",
+       "id": "755551",
+       "season": 1
+      },
+      {
+       "name": "המסע | פרק א' - יציאת אתיופיה",
+       "logo": "https://www.kan.org.il/media/5hmnaup4/המסע-פרק-א.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_343388k3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-30",
+       "plot": "קבוצה קטנה של יהודים מאיזור גונדר שבאתיופיה יוצאים למסע ליעד הנכסף - ארץ ישראל. כל זאת תחת סיכוני המסע באיזור עוין ובתנאי שטח קשים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-755539/s1/755542/",
+       "id": "755542",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "המסע | פתיח",
+       "logo": "https://www.kan.org.il/media/1hsnmhfx/צילום-מסך-2025-08-18-135009.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5t18auiw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"המסע\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-755539/942669/",
+       "id": "942669"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,879 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מה שתגידו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11510/",
+   "series_id": "11510",
+   "updated": "2026-10-28 11:35",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "מה שתגידו עונה 5 | פרק 14 - ספיישל מונדיאל",
+       "logo": "https://www.kan.org.il/media/lxfgttap/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222158/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-06",
+       "plot": "הזוגות פותחים על כל מה שקרה השבוע, במונדיאל ובכלל! הבחירות הקרבות, המכביה וגם חופשת הקיץ! עם: קותי סבג ומאיה בצלאל, מנדי וביתאן, גורי ואמה אלפי, עומר עציון ועלמה זק, תומר עובדיה ולידור אדמוני.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1072018/",
+       "id": "1072018",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 13 - ספיישל מונדיאל",
+       "logo": "https://www.kan.org.il/media/ksuhpt4k/טאמב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210180/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-10",
+       "plot": "נבחרת המצחיקנים מגיעה לבעוט בכל מה שהוא לא כדור! עם: יוסי מרשק וליאור אשכנזי, קותי סבג ומאיה בצלאל, עומר קולי ודנית גרינברג, אוראל צברי ויונה קפח, תומר עובדיה ולידור אדמוני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1051382/",
+       "id": "1051382",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 12 - 04.06.26",
+       "logo": "https://www.kan.org.il/media/mj2k3hxp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207942/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "המגעים להפסקת אש, פיזור הכנסת, הפיטורין בהייטק וגם טרנד השיזוף הקיצוני. עם יוסי מרשק וליאור אשכנזי, קותי סבג ומאיה בצלאל, גיה באר גורביץ' ויוגת יפת, רועי עידן וברק כהן, שיר ראובן ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1048950/",
+       "id": "1048950",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 11 - 28.05.26",
+       "logo": "https://www.kan.org.il/media/qilmzaw3/מה_שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205753/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-28",
+       "plot": "השבוע: ההסכם עם איראן, הלחימה בלבנון, הבחירות, משבר הטיסות וגם תרבות הטיפים. עם: קותי סבג ומאיה בצלאל, גורי ואמה אלפי, מנדי וביתאן, גלית חוגי וגלעד כהנא, שרון טייכר ועמרי אנגל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1046320/",
+       "id": "1046320",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 10 - 20.05.26",
+       "logo": "https://www.kan.org.il/media/0j1lajxd/s057962600_05_25_04still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202586/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "האם המלחמה חוזרת? מתי יהיו בחירות? האם מערכת החינוך קורסת? וכמה עוגות גבינה תקעתם כבר? עם: יוסי מרשק וליאור אשכנזי, רועי עידן וברק כהן, מנדי וביתאן, קותי סבג ומאיה בצלאל, יואב רבינוביץ' ושיר ראובן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1043486/",
+       "id": "1043486",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 9 - ספיישל אירוויזיון",
+       "logo": "https://www.kan.org.il/media/fh3f2bjs/תמונה-מאנה.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200543/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-14",
+       "plot": "רגע לפני הגמר, הזוגות פותחים על התחרות שחוגגת 70, על היחס לישראל ועל הנאמברים שמייחלים לדוז פואה. עם: דנית גרינברג ועומר קולי, ליאור אשכנזי ויוסי מרשק, קותי סבג ומאיה בצלאל, שרון טייכר ועמרי אנגל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1041298/",
+       "id": "1041298",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 8 - 07.05.26",
+       "logo": "https://www.kan.org.il/media/qqrpa13g/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198003/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-07",
+       "plot": "השתהות המלחמה, מצב המשטרה, המחירים בסופר, ל\"ג בעומר ואפילו אפליקציית ספירת הצעדים. עם: הדר לוי ונלי תגר, קותי סבג ומאיה בצלאל, מאור זגורי ורועי חסן, מנדי וביתאן, גלית חוגי וגלעד כהנא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1038510/",
+       "id": "1038510",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 7 - 30.04.26",
+       "logo": "https://www.kan.org.il/media/1jhbbgto/מהשתגידולאתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195678/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-30",
+       "plot": "המפץ הפוליטי, הפסקת האש בצפון, נשים וחרדים ראש בראש בצה\"ל ויום הולדת לספוטיפיי. עם ליאור אשכנזי ויוסי מרשק, קותי סבג ומאיה בצלאל, מנדי וביתאן, יונה קפח ואוראל צברי, שרון טייכר ועמרי אנגל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1035866/",
+       "id": "1035866",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 6 - ספיישל עצמאות",
+       "logo": "https://www.kan.org.il/media/1k1lvycl/mashetagidu_digital_se05ep06_22042600_04_32_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192738/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-22",
+       "plot": "הזוגות עם הפה הכי גדול מניפים דגל כחול-לבן, עושים על האש וחוגגים יום הולדת למדינה! עם: קותי סבג ומאיה בצלאל, יואב רבינוביץ' ושיר ראובן, רועי עידן וברק כהן, עומר קולי ודנית גרינברג, הפשוטע ושיר הדס מאיר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1032157/",
+       "id": "1032157",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 5 - 16.04.26",
+       "logo": "https://www.kan.org.il/media/2lvkufoh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190648/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-16",
+       "plot": "השבוע: הפסקת האש, המגעים עם לבנון, בג\"ץ בן גביר, הבחירות בהונגריה ואפילו ''ארטמיס 2''. עם: יוסי מרשק וליאור אשכנזי, גיה באר גורביץ' ויוגב יפת, קותי סבג ומאיה בצלאל, מנדי וביתאן, גלית חוגי וגלעד כהנא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1029788/",
+       "id": "1029788",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 4",
+       "logo": "https://www.kan.org.il/media/cvebayz1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181095/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-26",
+       "plot": "השבוע: המשך מלחמת \"שאגת הארי\", האירופאים שמהססים להיכנס ורשימת ההישגים הלא מאוד ברורה. עם: מנדי וביתאן, קותי סבג ומאיה בצלאל, יוסי מרשק ושי אביבי, טס השילוני ואלונה סער, עקיבא נוביק ואסף ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1019038/",
+       "id": "1019038",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 3",
+       "logo": "https://www.kan.org.il/media/qx1fqu1c/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180118/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-19",
+       "plot": "האנשים עם הפה הכי גדול מדברים על מלחמת \"שאגת הארי\", המשך החקיקה המשפטית וטקס האוסקר. עם: קותי סבג ומיאה בצלאל, ליאור אשכנזי ויוסי מרשק, גלית חוגי וגלעד כהנא, רועי עידן וברק כהן, דנית גרינברג ועומר קולי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1015489/",
+       "id": "1015489",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 2 - 12.03.26",
+       "logo": "https://www.kan.org.il/media/gwrawqg2/545da0d5-fb02-4c46-8f84-f620ccb2d8f9.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177279/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-12",
+       "plot": "הזוגות עם הפה הכי גדול מדברים על מלחמת איראן ה-2, חנינה לנתניהו ויום האישה. עם: קותי סבג ומאיה בצלאל, ליאור אשכנזי ויוסי מרשק, יואב רבינוביץ' ושיר ראובן, יונה קפח ובת אל מוסרי, אלעד תורג'מן וענת עצמון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1011164/",
+       "id": "1011164",
+       "season": 5
+      },
+      {
+       "name": "מה שתגידו עונה 5 | פרק 1 - ספיישל סוף המלחמה?",
+       "logo": "https://www.kan.org.il/media/ya0l2zij/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890821/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-18",
+       "plot": "האנשים עם הפה הכי גדול מסכמים את השבוע בתוכנית מיוחדת לסוף המלחמה: שיבת החטופים, ביקור הבזק של טראמפ, הפסגה בשארם ועוד. עם גורי ואמה אלפי, מנדי וביתאן, קותי סבג ומאיה בצלאל, ויוסי מרשק ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/961244/",
+       "id": "961244",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "מה שתגידו עונה 4 | פרק 39 - 24.07.25",
+       "logo": "https://www.kan.org.il/media/qi2atuvp/מה-שתגידו-לאתר-סופי-סופי-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ae15a41t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-24",
+       "plot": "הכנסת יוצאת לפגרה, הדרוזים נלחמים בסוריה, התקרית האלימה נגד איימן עודה, וגל סרטי הקיץ בקולנוע. עם טל פרידמן ויוסי מרשק, מירי מסיקה ואורי זך, קותי סבג ומאיה בצלאל, מנדי וביתאן, ורועי עידן וברק כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/934743/",
+       "id": "934743",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 38 - 17.07.25",
+       "logo": "https://www.kan.org.il/media/0lybsv4z/מה-שתגידו-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6xt2uaqc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-17",
+       "plot": "עסקת החטופים, קריסת המשטרה ושובה של הרפורמה. עם: דב נבון ויוסי מרשק, מנדי וביתאן, קותי סבג ומאיה בצלאל, גלעד כהנא וגלית חוגי, יונה קפח ודניאל כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/932383/",
+       "id": "932383",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 37 - 10.07.25",
+       "logo": "https://www.kan.org.il/media/c0tn1zgf/mashtagidu_s04ep37_digital_10072500_00_43_14still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7koecyo0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-10",
+       "plot": "ההתקדמות להפסקת אש, עליהום על הרמטכ\"ל, עסקת אנבידיה וגם בובות לבובו. עם: יוסי מרשק ונועה קולר, הפוליאקוביות, קותי סבג ומאיה בצלאל, מנדי וביתאן, טס השילוני ואלונה סער.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/930010/",
+       "id": "930010",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 36 - 03.07.25",
+       "logo": "https://www.kan.org.il/media/sukh3gb3/ליוטיוב-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n9fiyecj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-03",
+       "plot": "משפט נתניהו ועסקה תמורת עסקה, אלימות ביו\"ש, שובו של שבוע הספר והחופש הגדול יוצא לדרך! עם: אסף ליברמן ועקיבא נוביק, רועי עידן וברק כהן, קותי סבג ומאיה בצלאל, גלעד כהנא וגלית חוגי, אמה וגורי אלפי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/927696/",
+       "id": "927696",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 35 - 26.06.25",
+       "logo": "https://www.kan.org.il/media/qohmj52o/תמונה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_puwu98ec/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-26",
+       "plot": "החיים במקלטים, הנחיות פיקוד העורף, האיום על ח'אמנאי, ההצטרפות של טראמפ ועד הפסקת האש. עם אשכנזי ומרשק, קותי ומאיה, מנדי וביתאן, גלית חוגי וגלעד כהנא, יונה קפאח ודניאל כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/925530/",
+       "id": "925530",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 34 - 19.06.25",
+       "logo": "https://www.kan.org.il/media/3rtp2es4/מה-שתגידו-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_36dqxek5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-19",
+       "plot": "האנשים עם הפה הכי גדול מסכמים שבוע של מלחמה עם איראן. עם מרשק ואשכנזי, קותי ומאיה, גלית חוגי ומנדי גרוזמן, ברק כהן ורועי עידן, נלי תגר ודב נבון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/922781/",
+       "id": "922781",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 33 - 12.06.25",
+       "logo": "https://www.kan.org.il/media/orxinztw/מה-שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vtb15dvx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-12",
+       "plot": "ריח הבחירות, המשט לעזה, מלחמות הכנופיות, טראמפ מול מאסק, חודש הגאווה והחתונה של אבנר נתניהו. השבוע פותחים את הפה: ליאור אשכנזי ויוסי מרשק, קותי ומאיה, מנדי וביתאן, מעיין לאוב וגלעד כהנא, אלונה סער וטס השילוני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/919120/",
+       "id": "919120",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 32 - 29.05.25",
+       "logo": "https://www.kan.org.il/media/uaqf4054/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qdip5nhq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-29",
+       "plot": "השבוע: מינוי האלוף זיני, 600 יום למלחמה, בינה מלאכותית וחג השבועות. עם עלמה זק וליאור אשכנזי, קותי סבג ומאיה בצלאל, טס השילוני ואלונה סער, רועי חסן ומאור זגורי, גלעד כהנא וגלית חוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/913311/",
+       "id": "913311",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 31 - 22.05.25",
+       "logo": "https://www.kan.org.il/media/echjbiyp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e0yds98u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-22",
+       "plot": "מלחמה מול הסכם, הביזנס של טראמפ, מכונת הרעל וגם עליות המחירים. עם קותי סבג ומאיה בצלאל, מנדי וביתאן, רועי עידן וברק כהן, יונה קפח ודניאל כהן, גלעד כהנא וגלית חוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/910869/",
+       "id": "910869",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 30 - ספיישל אירוויזיון 2025",
+       "logo": "https://www.kan.org.il/media/ltblv4ek/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_86dkn7yf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-15",
+       "plot": "האנשים עם הפה הכי גדול בטלוויזיה מתכוננים לגמר הגדול בבאזל, בספיישל אירוויזיון 2025! עם: גורי ואמה אלפי, קותי סבג ומאיה בצלאל, דורון מדלי ובל אגם, גלעד כהנא וגלית חוגי, שירה נאור ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/903008/",
+       "id": "903008",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 29 - ספיישל עצמאות 2025",
+       "logo": "https://www.kan.org.il/media/ktujkh1t/מה-שתגידו-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9nje3k1w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "התכנית צולמה לפני ארועי היממה האחרונה. האנשים עם הפה הכי גדול בישראל בספיישל עצמאות 2025 בסימן \"חילופי זוגות\": גלעד כהנא ומאיה בצלאל, מנדי גרוזמן ויוסי מרשק, יונה קפאח ואלי ביתאן, קותי סבג ומירי מסיקה, גלית חוגי ורועי עידן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/894941/",
+       "id": "894941",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 28 - 03.04.25",
+       "logo": "https://www.kan.org.il/media/bcporxub/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zlxhn3rj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-03",
+       "plot": "פרשת קטארגייט, מינוי ראש השב\"כ, עסקה לשחרור חטופים, ההפגנות בטורקיה וגם פסח בא. עם יוסי מרשק וליאור אשכנזי, מאיה בצלאל וקותי סבג, גלית חוגי וגלעד כהנא, אלונה סער וטס השילוני, אסף ליברמן ועקיבא נוביק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/878722/",
+       "id": "878722",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 27 - 27.03.25",
+       "logo": "https://www.kan.org.il/media/xhwfrhtu/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_al5om45l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-27",
+       "plot": "חזרת המלחמה, ההתנגשות החוקתית, ה\"דיפ סטייט\", מוקדמות המונדיאל והקיץ שחוזר. עם יוסי מרשק וליאור אשכנזי, מאיה בצלאל וקותי סבג, רועי עידן וברק כהן, גלית חוגי ואלי ביתאן, אלונה סער וטס השילוני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/875993/",
+       "id": "875993",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 26 - 20.03.25",
+       "logo": "https://www.kan.org.il/media/22knrn0m/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dv7z5cee/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-20",
+       "plot": "חזרת המלחמה, פיטורי ראש השב''כ, התקציב, גיוס פרופיל 64 וגל הברחת החיות האקזוטיות. עם: מרשק ופרידמן, מנדי וביתאן, קותי ומאיה, גלית חוגי וגלעד כהנא, רועי חסן ומאור זגורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/872828/",
+       "id": "872828",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 25 - 13.03.25",
+       "logo": "https://www.kan.org.il/media/ypah4szu/טאמבנייל-פרק-25-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_623k8ugp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-13",
+       "plot": "מרשק ופרידמן, מאיה וקותי, מנדי וביתאן, רועי עידן וברק כהן ולירון ויצמן ונלי תגר פותחים על מה שקרה השבוע: עסקה בחסות האמריקאים, הפרישה של דניאל הגרי, החינוך של השר קיש, מגפת הפודקאסטים וכמובן – פורים!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/870218/",
+       "id": "870218",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 24 - 06.03.25",
+       "logo": "https://www.kan.org.il/media/otqpxfj3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ndwhup2o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-06",
+       "plot": "מרשק ופרידמן, מנדי וביתאן, קותי ומאיה, אלונה סער וטס השילוני, ועלמה זק ואסי ישראלוף, יפתחו פה על תחקירי המחדל, הפסקת הפסקת האש, עלילות הנשיא טראמפ, טקס האוסקר ויום האישה הבינלאומי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/867734/",
+       "id": "867734",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 23 - 27.02.25",
+       "logo": "https://www.kan.org.il/media/d5kninzx/מה-שתגידו-לאתר-פרק-23.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gfa2y2q1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-23",
+       "plot": "עסקת חטופים, משפט נתניהו, מחדלי השב\"כ, הלווית נסראללה ויום המשפחה. עם: פרידמן ומרשק, מנדי וביתאן, קותי סבג ומאיה בצלאל, טס השילוני ואלונה סער, רועי חסן ומאור זגורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/863379/",
+       "id": "863379",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 22 - 21.02.25",
+       "logo": "https://www.kan.org.il/media/3mbjxar2/kan-box_hero_image-test.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dakd4xab/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-20",
+       "plot": "500 ימים למלחמה, \"קטאר-גייט\", החזרה לשגרה בצפון, גל הפשיעה וגם החורף שנזכר להגיע! עם: פרידמן ומרשק, מאיה וקותי, מנדי וביתאן, ברק כהן ורועי עידן, גלית חוגי וגלעד כהנא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/862468/",
+       "id": "862468",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 21 - 13.02.25",
+       "logo": "https://www.kan.org.il/media/idwb41o2/מה-שתגידו-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x47nm3k8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-12",
+       "plot": "נתניהו בארה\"ב, עסקת החטופים, ועדת חקירה ממלכתית, סערת האירוויזיון וגם וולנטיינ'ס דיי!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/859342/",
+       "id": "859342",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 20 - 06.02.25",
+       "logo": "https://www.kan.org.il/media/isedgiiy/לאתר-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u7hvxrca/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-06",
+       "plot": "רמטכ\"ל חצי תימני יחסוך בתקציב הביטחון, את מי כדאי לצרף למטוס של ביבי כשהוא טס, ומה כדאי לבקש מטראמפ שיגשים לנו בפעם הבאה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/856904/",
+       "id": "856904",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 19 - 29.01.25",
+       "logo": "https://www.kan.org.il/media/51te2knt/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zm41u4lz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-28",
+       "plot": "פותחים על עסקת החטופים והפסקת האש, השופט עמית והמשבר החוקתי, המירוץ לרמטכ\"לות והמחירים המטורפים של וולט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/852992/",
+       "id": "852992",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 18 - 18.01.25",
+       "logo": "https://www.kan.org.il/media/1jblpfbm/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_231nzcp0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-16",
+       "plot": "עסקת החטופים, מתווה ההסכמה במערכת המשפט, התפוררות האופוזיציה, שובה של השפעת ועידן טראמפ מתחיל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/848124/",
+       "id": "848124",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 17 - 09.01.25",
+       "logo": "https://www.kan.org.il/media/ibijmbxt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0htr3064/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-09",
+       "plot": "השבוע: עסקת חטופים, פרשת אייל גולן, צווי מעצר בין-לאומיים, התחקיר על מאי גולן ומלחמה בלתי נגמרת. עם: פרידמן ומרשק, מנדי וביתאן, קותי סבג ומאיה בצלאל, אמה אלפי ואלונה סער, ברק כהן ורועי עידן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/845351/",
+       "id": "845351",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 16 - 02.01.25",
+       "logo": "https://www.kan.org.il/media/itfoxute/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q8n75u6k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-02",
+       "plot": "המהפכה הרפואית ואשפוז נתניהו, עליות המחירים, חגיגות שנתיים לממשלה וגם מטוסים שנופלים מהשמיים. עם: יוסי מרשק ועלמה זק, קותי סבג ומאיה בצלאל, מתן פרץ ויונה קפאח, מנדי וביטאן, מירי מסיקה ואורי זך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/842997/",
+       "id": "842997",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 15 - 26.12.24",
+       "logo": "https://www.kan.org.il/media/d0petvk3/רועי-וברק-מה-שתגידו-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vw86nxbr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-26",
+       "plot": "גם האנשים עם הפה הכי גדול מתגייסים ליום המילואימניקים של ''כאן''! עם: הפוליאקוביות, מנדי וביתאן, מאיה בצלאל ומושיק גלאמין, אמה אלפי ואלונה סער, ברק כהן ורועי עידן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/840611/",
+       "id": "840611",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 14 - 19.12.24",
+       "logo": "https://www.kan.org.il/media/gyclpv41/55555.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mhqesmv7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-19",
+       "plot": "שובה של ההפיכה המשפטית, גיוס החרדים, מופעי החנוכה ואפילו הגרלת מוקדמות המונדיאל. עם: יוסי מרשק ועלמה זק, קותי סבג ומאיה בצלאל, מנדי וביתאן, גלית חוגי וגלעד כהנא, יונה קפאח וחן מזרחי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/837860/",
+       "id": "837860",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 13 - 05.12.24",
+       "logo": "https://www.kan.org.il/media/4owjv12a/פרק-13-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_25gbjtme/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-05",
+       "plot": "המורדים בסוריה, עסקה בעזה, השיבה לצפון, ביידן והחנינה והאיסור על טיקטוק באוסטרליה. עם מרשק ופרידמן, הפוליאקוביות, קותי סבג ומאיה בצלאל, יונה קפאח ומתן פרץ, אלונה סער ואמה אלפי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/832655/",
+       "id": "832655",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 12 - 28.11.24",
+       "logo": "https://www.kan.org.il/media/1vmll3ef/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zf2vkh7h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-25",
+       "plot": "העיסקה המסתמנת עם לבנון, בליץ החקיקה בכנסת, צווי המעצר בהאג, חזרת משפט נתניהו ואפילו קצת נוסטלגיה. עם פרידמן ומרשק, מאיה בצלאל וקותי סבג, מנדי וביתאן, רועי עידן וברק כהן, מירי מסיקה ואורי זך.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/828640/",
+       "id": "828640",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 11 - 21.11.24",
+       "logo": "https://www.kan.org.il/media/23lfh0rg/מה-שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tl9ih7tc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "המחאה החזירה את הרפורמה המשפטית? ההסדרה בלבנון בדרך? בעד או נגד גיוס חרדים? מה חשב טראמפ כשמינה את הממשלה? ואיפה נאכל כשהכל יגמר? יעל ושוש, טל ויוסי, גלעד וגלית, יונה ומתן, ומנדי וביתאן מסכמים את השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/811889/",
+       "id": "811889",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 10 - 14.11.24",
+       "logo": "https://www.kan.org.il/media/zvrpgzv1/מה-שתגידו-1411.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mel42y66/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "הפרשיות בלשכת רוה\"מ, קבוצת הוואטסאפ הסודית של בן גביר, 400 יום למלחמה, וטירוף הסיילים של נובמבר. עם קותי סבג ומאיה בצלאל, טל פרידמן ויוסי מרשק, נלי תגר ולירון ויצמן, מתן פרץ ויונה קפאח ומנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/811888/",
+       "id": "811888",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 9 - 07.11.24",
+       "logo": "https://www.kan.org.il/media/3veprs2g/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ntthrc9j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "הנצחון של טראמפ, ליל גלנט השני, החקירות בלשכת רה\"מ, החזרה לאוניברסיטאות ואפילו גל הפרידות בביצה. עם פרידמן ומרשק, הפוליאקוביות, קותי סבג ומאיה בצלאל, גלעד כהנא וגלית חוגי, רועי עידן וברק כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/811885/",
+       "id": "811885",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 8 - 31.10.24",
+       "logo": "https://www.kan.org.il/media/mcuh5uab/מה-שתגידו-נקי-פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7y40ugtn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "התקיפה באיראן, שובה של החקיקה המשפטית והישורת האחרונה לפני הבחירות באמריקה. עם: מרשק ופרידמן, קותי סבג ומאיה בצלאל, מנדי וביתאן, יונה קפח ומתן פרץ, אורלי זילברשץ וליאור אשכנזי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/811883/",
+       "id": "811883",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 7 - ספיישל חגים - 20.10.24",
+       "logo": "https://www.kan.org.il/media/plvp4i2f/תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9ie8bn4a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-08",
+       "plot": "האנשים עם הפה הכי גדול חוגגים את סוכות בפרט וחגי תשרי בכלל, מסכמים את השנה שעברה, ומביעים כמה משאלות ובקשות לשנה החדשה. עם מרשק ופרידמן, מנדי וביתאן, קותי סבג ומאיה בצלאל ויעל ושוש פוליאקוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/810228/",
+       "id": "810228",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 6 - 26.09.24",
+       "logo": "https://www.kan.org.il/media/f31h3g5u/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pqv9csbf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-26",
+       "plot": "האנשים עם הפה הכי גדול מדברים על כל מה שקרה השבוע, בלי פילטרים. סיכום המערכה בצפון, האם יחיא סינוואר באמת חוסל, הישראלי שריגל עבור איראן, מחירי העגבניות מאמירים וגם סיכומי השנה במוזיקה העברית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/804702/",
+       "id": "804702",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 5 - 19.09.24",
+       "logo": "https://www.kan.org.il/media/osdcscgq/מה-שתגידו-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gxrm8b10/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-19",
+       "plot": "מבצע הביפרים בלבנון, המגעים בין נתניהו לסער והחורף שהגיע. עם מרשק ופרידמן, מנדי וביתאן, קותי סבג ומאיה בצלאל, גלעד כהנא וגלית חוגי, יונה קפח ומתן פרץ, לייזה פאנלים ודניאלה לונדון-דקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/801935/",
+       "id": "801935",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 4 - 12.09.24",
+       "logo": "https://www.kan.org.il/media/qvxp523u/מה-שתגידו-משופר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2n2abjfg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-12",
+       "plot": "שובה של הרפורמה, עימות האריס- טראמפ, פרשיית \"הקובבה\" והאירוסין של נועה קירל. עם מנדי וביתאן, קותי סבג ומאיה בצלאל, יוסי מרשק וליאור אשכנזי, רועי עידן וברק כהן, אורלי זילברשץ ואלישע בנאי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/799388/",
+       "id": "799388",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 3 - 05.09.24",
+       "logo": "https://www.kan.org.il/media/t1vj5qj1/מה-שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0yubmece/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "האנשים עם הפה הכי גדול מדברים על כל מה שקרה השבוע: ההפגנות לחתימה על עיסקה, השביתה שלא צלחה, השבוע הראשון ללימודים וכמובן – בהלת הכרטיסים לאיחוד של אואזיס. עם פרידמן ומרשק, הפוליאקוביות, מנדי וביתאן, קותי סבג ומאיה בצלאל, מישל פרו ואלעד תורג'מן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/796886/",
+       "id": "796886",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 2 - 29.08.24",
+       "logo": "https://www.kan.org.il/media/kijng5yn/קותי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7vkr6bfv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-29",
+       "plot": "הזוגות עם הפה הכי גדול פותחים על כל מה שקרה השבוע: מתקפת המנע בלבנון, השר בן גביר נגד כל העולם, השבוע האחרון של אוגוסט - והאם סינוואר לובש בגדי נשים? עם פרידמן ומרשק, הפוליאקוביות, קותי סבג ומאיה בצלאל, גלית חוגי וגלעד כהנא, יונה קפח ומתן פרץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/794089/",
+       "id": "794089",
+       "season": 4
+      },
+      {
+       "name": "מה שתגידו עונה 4 | פרק 1 - 22.08.24",
+       "logo": "https://www.kan.org.il/media/nzthrimh/מה-שתגידו-עונה-4-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zctzr1dl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-22",
+       "plot": "האנשים עם הפה הכי גדול פותחים על כל מה שקרה: ועידת ההזדמנות האחרונה, ההמתנה למלחמה אזורית, ט''ו באב ואוגוסט המסוייט. עם: מרשק ופרידמן, מנדי וביתאן, אמה וגורי אלפי, קותי סבג ומאיה בצלאל, חני ואביחי ריץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/791651/",
+       "id": "791651",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "מה שתגידו | ספיישל אירוויזיון",
+       "logo": "https://www.kan.org.il/media/usyna0w3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fxuuqdfy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-10",
+       "plot": "שלום אנד גוד איבנינג אירופה! האנשים עם הפה הכי גדול עולים על נצנצים כדי לסכם את תחרות הזמר הגדולה בעולם, וכמובן להרים לעדן גולן. עם מרשק ופרידמן, קותי סבג ומאיה בצלאל, מנדי וביתאן, ויעל ושוש פוליאקוב מחוזקות ברועי בר נתן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/747766/",
+       "id": "747766",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 17 - 22.02.24",
+       "logo": "https://www.kan.org.il/media/muphkidh/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0zvtadla/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-22",
+       "plot": "פרק אחרון לעונה! פרידמן ומרשק, הפוליאקוביות, חן מזרחי ויונה קפח, קותי סבג ומאיה בצלאל, גלית חוגי וגלעד כהנא, ידברו על: הלחץ להקמת מדינה פלסטינית, פוטין המחסל השקט, העלייה להר הבית והאם הבחירות באמת באופק?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/709040/",
+       "id": "709040",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 16 - 15.02.24",
+       "logo": "https://www.kan.org.il/media/rbgb4r0v/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kj2y0ka6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-15",
+       "plot": "האם יוצאים לפעולה ברפיח? מה יהיה עם חוק הגיוס? מה אומר הדו\"ח של מודי'ס? ומי רוצה לחגוג את יום האהבה? עם מרשק ופרידמן, קותי סבג ומאיה בצלאל, גלית חוגי וגלעד כהנא, שי אביבי ונורית גפן, ומנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/704887/",
+       "id": "704887",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 15 - 08.02.24",
+       "logo": "https://www.kan.org.il/media/kjoo5hzy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vdq74x6r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-08",
+       "plot": "האם הממשלה מתפרקת, מי ינצח בקרב בין בן גביר לאמריקה, האם עברנו ללחימה בצפון, ולמי יש כח ליום הקולנוע הישראלי? עם קותי סבג ומאיה בצלאל, גלעד כהנא וגלית חוגי, מנדי וביתאן, אורנה בנאי ובל אגם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/700176/",
+       "id": "700176",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 14 - 03.02.24",
+       "logo": "https://www.kan.org.il/media/fzyjvg3i/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3b5fq5kc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-01",
+       "plot": "האם תהיה עסקה לשחרור החטופים, מי אוהב תאוריות קונספירציה, מי ישלוט בעזה ביום שאחרי ולמי יש כוח לאירוויזיון? עם פרידמן ומרשק, קותי סבג וליאור דיין, גלית חוגי וגלעד כהנא, הפוליאקוביות, ומנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/696200/",
+       "id": "696200",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 13 - 25.01.24",
+       "logo": "https://www.kan.org.il/media/wdxflyeq/אתר-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_epsyeriq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-25",
+       "plot": "הזוגות מדברים על כל מה שקורה: האם הולכים לבחירות? מי רוצה מדינה פלסטינית? וזכרתם שט''ו בשבט מעבר לפינה? עם פרידמן ומרשק, חן מזרחי ויונה קפאח, מנדי וביתאן, קותי סבג וליאור דיין, פאולה וליאון רוזנברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/692107/",
+       "id": "692107",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 12 - המיטב",
+       "logo": "https://www.kan.org.il/media/ti0d2x5e/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0z8liuyt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-18",
+       "plot": "לקט הקטעים הכי מצחיקים של האנשים עם הפה הכי גדול בישראל. עם מנדי וביתאן, הפוליאקוביות, גלית חוגי וגלעד כהנא, קותי סבג ומאיה בצלאל, אמה וגורי אלפי, טל פרידמן ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/686822/",
+       "id": "686822",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 11 - 11.01.24",
+       "logo": "https://www.kan.org.il/media/eqff2gkz/טאמבנייל-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mtkyt6sy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-11",
+       "plot": "הזוגות עם הפה הכי גדול בישראל מדברים על כל מה שקורה: מאה ימים למלחמה, מדיניות החיסולים, וישראל נוסעת לבית הדין בהאג. עם מרשק ופרידמן, מנדי וביתאן, גלית חוגי וגלעד כהנא, קותי סבג וליאור דיין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/682284/",
+       "id": "682284",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 10 - 04.01.24",
+       "logo": "https://www.kan.org.il/media/bb2pkgbs/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_scruxhpv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-04",
+       "plot": "מלחמת בג''צ, סבב המינויים הבכירים, שובן של האוניברסיטאות, והשנה אזרחית החדשה. עם גלעד כהנא וגלית חוגי, נורית גפן ושי אביבי, מנדי וביתאן, חן מזרחי ויונה קפאח, פרידמן ומרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/669017/",
+       "id": "669017",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 9 - 28.12.23",
+       "logo": "https://www.kan.org.il/media/pe1n1fbu/מה-שתגידו-לאתר-פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e5htv4cn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-28",
+       "plot": "מה השלב הבא במלחמה, מה עושים עם המפונים ואיך מסכמים שנה שכולם היו מעדיפים לשכוח? עם פרידמן ומרשק, גילי וגלית, מנדי וביתאן, חן ויונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/664220/",
+       "id": "664220",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 8 - 21.12.23",
+       "logo": "https://www.kan.org.il/media/fcqgilqw/לאתר-פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i8zpz3fh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-21",
+       "plot": "האנשים עם הפה הכי גדול מדברים על כל מה שקורה: מבצעי המוסד בחו''ל, זוגיות בביצה בזמן מלחמה, תחילת ''הקמפיין''. עם מרשק ופרידמן, קותי ומאיה, הפוליאקוביות, עקיבא נוביק ואסף ליברמן, ונורית גפן ושי אביבי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/659615/",
+       "id": "659615",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 7 - 14.12.23",
+       "logo": "https://www.kan.org.il/media/5x2bt1t2/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9duk0iy8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מיטוט החמאס, שיקום העוטף, אויבים מעבר לים, קריסת הכלכלה ותחיית התרבות. עם מנדי וביתאן, גלית חוגי וגלעד כהנא, קותי סבג ומאיה בצלאל, טל פרידמן ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/654184/",
+       "id": "654184",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 6 - 06.12.23",
+       "logo": "https://www.kan.org.il/media/rejhywhz/מה-שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3yfl9679/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-06",
+       "plot": "האנשים עם הפה הכי גדול מדברים על כל מה שקרה השבוע: חזרה ללחימה, פוליטיקה קטנה ואפילו חנוכה! עם פרידמן ומרשק, מנדי וביתאן, הפוליאקוביות, קותי סבג ומאיה בצלאל, חן מזרחי ותקווה גדעון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/642549/",
+       "id": "642549",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 5 - 01.12.23",
+       "logo": "https://www.kan.org.il/media/5vgfukyq/לאתר-3-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pb0ejm56/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-29",
+       "plot": "האנשים עם הפה הכי גדול במדינה מדברים על כל מה שקורה: החזרת השבויים, פייק ניוז, נשים במלחמה, ומה הסיפור עם קטאר? עם מרשק ופרידמן, הפוליאקוביות, מנדי וביתאן, גלעד כהנא וגלית חוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/630886/",
+       "id": "630886",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 4 - 22.11.23",
+       "logo": "https://www.kan.org.il/media/3fpfvh0j/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2eoyilon/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-22",
+       "plot": "האנשים עם הפה הכי גדול פותחים על כל מה שקורה: התנאים להפסקת אש, ההתלקחות בצפון ופוליטיקה בזמן מלחמה. עם: מרשק ופרידמן, מנדי וביתאן, קותי ומאיה, וחן מזרחי עם תקווה גדעון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/619206/",
+       "id": "619206",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 3 - 16.11.23",
+       "logo": "https://www.kan.org.il/media/y1vbr05d/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m2sxgo6l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-16",
+       "plot": "הזוגות מנתחים את המצב עם חרבות ברזל. הסיכויים שלנו באירוויזיון, האתרוג ששרד והפוליטקאים הכושלים. עם מרשק ופרידמן, קותי ומאיה, גלעד כהנא וגלית חוגי, גורי ואמה אלפי, אלונה סער ואדם גבאי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/611154/",
+       "id": "611154",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 2 - 09.11.23",
+       "logo": "https://www.kan.org.il/media/llyjb3ox/לאתר-9112023.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_efy8j2y8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-09",
+       "plot": "הזוגות עם הפה הכי גדול נרתמים למאמץ המלחמתי. והפעם: שגרת המלחמה, כיתור הרצועה, אנטישמיות גואה וצוללות גרעיניות. עם מנדי וביתאן, טל פרידמן ויוסי מרשק, הפוליאקוביות, קותי סבג ומאיה בצלאל, אמה וגורי אלפי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/601468/",
+       "id": "601468",
+       "season": 3
+      },
+      {
+       "name": "מה שתגידו עונה 3 | פרק 1 - 02.11.23",
+       "logo": "https://www.kan.org.il/media/ofxjyuky/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_twmrtoze/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "הזוגות עם הפה הכי גדול בישראל מתגייסים כדי לדבר על כל מה שקורה. עם גורי ואמה אלפי, טל פרידמן ומתן חלק, קותי סבג ומאיה בצלאל, מנדי וביתאן, גלעד כהנא וגלית חוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s3/592411/",
+       "id": "592411",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "מה שתגידו עונה 2 | פרק 11 - 10.08.23",
+       "logo": "https://www.kan.org.il/media/wquk1rce/לאתר.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gv60ufpo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-10",
+       "plot": "תכנית אחרונה לעונה. פותחים על כל מה שקרה השבוע: הקרב על בגץ, הבחירות המוניציפליות, החופשה של ראש הממשלה בנוה אטיב והצמות של קותי. עם קותי ומאיה, מענדי וביתן, שוש ויעל, חוגי וכהנא, יונה קפאח וחן מזרחי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/481513/",
+       "id": "481513",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 10 - 03.08.23",
+       "logo": "https://www.kan.org.il/media/dflkcywg/s043287600_23_47_06still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hh1lk6nl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-03",
+       "plot": "מה שתגידו פותחים על כל מה שקרה השבוע: הטלטלות במשטרה, תנועת ההיפרדות, רכבת מקריית שמונה לאילת ואפילו - חייזרים! עם פרידמן ומרשק, חיים לוינסון ורועי עידן, קותי סבג ומאיה בצלאל, גלית חוגי וגלעד כהנא והפוליאקוביות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/472260/",
+       "id": "472260",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 9 - 27.07.23",
+       "logo": "https://www.kan.org.il/media/zorj1vs3/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ljkbq2ud/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "ביטול עילת הסבירות, הקרע בצבא, שביתת הרופאים, מערכת החינוך, ואיך אפשר בלי ''בארבי''? עם פרידמן ומרשק, קותי ומאיה, מנדי וביתאן, גלית חוגי וגלעד כהנא, יונה קפח וחן מזרחי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/463294/",
+       "id": "463294",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 8 - 20.07.23",
+       "logo": "https://www.kan.org.il/media/s5uj0r4p/s0432874mxf01_14_18_08still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_npco9xml/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-20",
+       "plot": "מה שתגידו פותחים על כל מה שקרה השבוע: יום השיבוש והחקיקה, ההתגרויות של חזבאללה, מעמד האישה וקבורה בקומות. עם: פרידמן ומרשק, הפוליאקוביות, רועי עידן וחיים לוינסון, מנדי וביתאן, אלונה סער ואדם גבאי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/451277/",
+       "id": "451277",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 7 - 13.07.23",
+       "logo": "https://www.kan.org.il/media/l2dlvrif/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_63xp4byd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-13",
+       "plot": "מה שתגידו מדברים על כל מה שקרה השבוע: יום השיבוש, הקרע עם ארצות הברית, הרשת החברתית החדשה, ונוסף על כל זה - חם! כמה חם בחוץ! עם פרידמן ומרשק, קותי ומאיה, הפוליאקובים, גלעד כהנא וגלית חוגי, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/444633/",
+       "id": "444633",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 6 - 06.07.23",
+       "logo": "https://www.kan.org.il/media/lnxomhbh/hawow.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mnis3xrp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-06",
+       "plot": "מה שתגידו פותחים על מה שקרה השבוע! שובה של המחאה, המהומות בפריז, המבצע בג'נין, הנבחרת הצעירה ואלטון ג'ון. עם פרידמן ומרשק, קותי ומאיה, חיים לוינסון ורועי עידן, יונה קפח וחן מזרחי, גלעד כהנא וגלית חוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/436628/",
+       "id": "436628",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 5 - 29.06.23",
+       "logo": "https://www.kan.org.il/media/mqiblwkx/לאתר-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aoof5ie6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-29",
+       "plot": "מה שתגידו פותחים על כל מה שקרה השבוע, בלי מעצורים: קופה ראשית, משפט נתניהו, המלחמה באוקראינה והאלימות בשטחים. עם פרידמן ומרשק, הפוליאקוביות, יונה קפח וחן מזרחי, גלית חוגי וגלעד כהנא ומנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/422124/",
+       "id": "422124",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 4 - 22.06.23",
+       "logo": "https://www.kan.org.il/media/tmkkdco4/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gn8ivesr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-22",
+       "plot": "כל מה שקרה השבוע, בלי מעצורים: הבחירות ללשכת עורכי הדין, ריבים בקואליציה, חידוש הרפורמה ואפילו \"ספיידרמן\"! עם פרידמן ומרשק, קותי ומאיה, מנדי וביתאן, חיים לוינסון ורועי עידן, גלעד כהנא וגלית חוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/409819/",
+       "id": "409819",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 3 - 18.06.23",
+       "logo": "https://www.kan.org.il/media/htfpp5v1/מה-שתגידו-לכל-מה-שלא-יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lh507ouv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-15",
+       "plot": "הזוגות הכי חסרי מעצורים פותחים על כל מה שקרה השבוע: הוועדה למינוי שופטים, האלימות בחברה הערבית, שבוע הספר העברי וברונו מארס. עם פרידמן ומרשק, הפוליאקוביות, קותי ומאיה, גלעד וגלית, אלונה סער ושירה נאור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/396793/",
+       "id": "396793",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 2 - 15.06.23",
+       "logo": "https://www.kan.org.il/media/43qhlvce/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g669cxbg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-09",
+       "plot": "הזוגות הכי ישירים בטלוויזיה פותחים על כל מה שקרה השבוע: האיום האיראני, משבר החשמל, סערת המגאפון וכמובן – המונדיאליטו. עם פרידמן ומרשק, לוינסון וביתאן, הפוליאקוביות, קותי ומאיה וגלעד וגלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/390961/",
+       "id": "390961",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו עונה 2 | פרק 1 - 01.06.23",
+       "logo": "https://www.kan.org.il/media/yjihoeoc/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zeai9mfs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-01",
+       "plot": "הצמדים חוזרים בעונה חדשה ומסכמים את ארועי השבוע: ממצעד הגאווה והמונדיאליטו ועד המשחקייה בחריש ואבי מעוז. עם פרידמן ומרשק, הפוליאקוביות, מנדי וביתאן, קותי ומאיה, גלית חוגי וגלעד כהנא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/383404/",
+       "id": "383404",
+       "season": 2
+      },
+      {
+       "name": "מה שתגידו | ספיישל יום העצמאות",
+       "logo": "https://www.kan.org.il/media/q51a0c3a/2023-4-25-imgid-98983_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u531vxke/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "הזוגות של מה שתגידו – קותי ומאיה, מנדי וביתאן, פרידמן ומרשק, אמה ונועה ומשפחת פוליאקוב - יוצאים מהאולפן הממוזג כדי לחגוג בכל רחבי הארץ: מי עם דור תש\"ח, מי בחידון התנ\"ך ומי במנגל מסורתי בגינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s2/327781/",
+       "id": "327781",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מה שתגידו עונה 1 | פרק 13 - 23.03.23",
+       "logo": "https://www.kan.org.il/media/tihktu2y/https-kanstaticazureedgenet-download-pictures-2023-3-23-imgid-96717_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0lve2110/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חיים לוינסון ורועי עידן, קותי סבג ומאיה בצלאל, אלי ביתאן ומנדי גרוזמן, גלעד כהנא וגלית חוגי, אלונה סער ואדם גבאי פותחים על המשך החקיקה, יום השיתוק, מדד האושר ונקיונות לפסח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11510/s1/163241/",
+       "id": "163241",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הכוורת",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
+   "series_id": "1075348",
+   "updated": "2026-10-28 09:53",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הכוורת | פרק 42",
+       "logo": "https://www.kan.org.il/media/bz4jtxbs/כוורת42לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252974/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-07",
+       "plot": "שלושה מתמודדים חכמים במיוחד: וקטור, יוצרת-תוכן ומומחה לצמחים ינסו לפצח כוורת אחת בעזרת ידע ואסטרטגיה. רק אחד מהם יהיה מלך או מלכת הכוורת.  הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1106888/",
+       "id": "1106888",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 41",
+       "logo": "https://www.kan.org.il/media/f54j534d/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252764/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-06",
+       "plot": "מתכנת, קלינאית תקשורת ואיש שוק ההון מול כוורת אחת. שלושתם ינסו להפוך למלך ומלכת הכוורת בעזרת ידע מהירות ואסטרטגיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1106500/",
+       "id": "1106500",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 40",
+       "logo": "https://www.kan.org.il/media/k40bfvan/s0610848_digital00_00_46_48.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252082/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-04",
+       "plot": "דוקטור לכימיה, מהנדס מכונות ומאמנת סדנאות להתפתחות אישית במשחק מותח מול הכוורת. מי יפצח את הכוורת ויחזור עם כסף הביתה? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1105639/",
+       "id": "1105639",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 39",
+       "logo": "https://www.kan.org.il/media/cc4pcali/s0610848_digital00_00_46_48.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250837/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-30",
+       "plot": "שלושה חובבי טריוויה: יאיר, יעל וקורן ינסו לפצח כוורת אחת. מי מהם יזכה בתואר מלך או מלכת הכוורת ויחזור עם כסף הביתה? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1104559/",
+       "id": "1104559",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 37",
+       "logo": "https://www.kan.org.il/media/qxzdc0z3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250220/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "הייטקיסט, אוהד שרוף של מכבי חיפה וחיילת משוחררת שחזרה הרגע מהטיול הגדול. שלושתם ינסו להפוך למלך או מלכת הכוורת שלנו - הם יצטרכו ידע, אסטרטגיה ומהירות בדרך אל הכתר של מלך או מלכת הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1103846/",
+       "id": "1103846",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 36",
+       "logo": "https://www.kan.org.il/media/j5tlsx4u/טאמבנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249782/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "מרצה באוניברסיטה, סטודנט למוסיקה ותסריטאית במשחק מותח מול הכוורת. מי מהם יצליח לפצח את הכוורת ולקחת את הכסף? שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1103284/",
+       "id": "1103284",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 35",
+       "logo": "https://www.kan.org.il/media/ldpdicz2/s0610845_digital00_00_09_42still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248196/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-22",
+       "plot": "שלושה מתמודדים ינסו לפצח כוורת אחת. מורה ליוגה, חוקר מתחום מדעי המחשב ועיתונאי ספורט, מי מהם יהיה מלך או מלכת הכוורת ויחזור עם כסף הביתה? הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1101548/",
+       "id": "1101548",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 34",
+       "logo": "https://www.kan.org.il/media/2v1mka5v/אתר_סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2247430/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-20",
+       "plot": "מה קורה כשפסנתרן, מורה לביולוגיה וסוכן ביטוח מנסים לפצח כוורת אחת? מי מהם יצליח לצאת עם הכסף? כל זה קורה  בשעשועון חדש לכל המשפחה. הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1101272/",
+       "id": "1101272",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 38",
+       "logo": "https://www.kan.org.il/media/aeolz0qw/כוורת-34.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246370/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-16",
+       "plot": "משחק הזוגות המהיר של הכוורת מארח שני מתכנתים שיתמודדו ראש בראש מול שתי חובבות מבוכים ודרקונים מי מהזוגות יילך הביתה עם כסף? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1100090/",
+       "id": "1100090",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 33",
+       "logo": "https://www.kan.org.il/media/kj4hx1q5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "סטודנטית להנדסה תעשייה וניהול, ארכיטקט תוכנה, ומנהל בחברה לניהול-חניונים, ישתמשו בכל הידע שלהם, וגם באסטרטגיה, כדי לפצח את הכוורת ולצאת עם הכסף. שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1099632/",
+       "id": "1099632",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 32",
+       "logo": "https://www.kan.org.il/media/fslbun5x/s0610841_digital00_00_37_42still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241963/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "שלושה מתמודדים חכמים במיוחד ינסו לגבור על הכוורת. מורה לפסיכומטרי, מנתח נתונים וחוקרת בחברת תרופות - כולם ינסו, כל אחד בדרכו, למצוא את הדרך לפצח את הכוורת. מי יצליח לצאת עם כסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1095277/",
+       "id": "1095277",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 31",
+       "logo": "https://www.kan.org.il/media/3tocvew5/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241602/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-01",
+       "plot": "מרצה באוניברסיטה, סטודנט למוסיקה ותסריטאית, במשחק מותח מול הכוורת. מי מהם יצליח לפצח אותה ולקחת את הכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1094803/",
+       "id": "1094803",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 30",
+       "logo": "https://www.kan.org.il/media/4rxoklxa/perek30.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241116/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-31",
+       "plot": "מומחה לשיגורים, סוכן מכס ודוקטורנטית לפסיכולוגיה במשחק מוחות מול הכוורת. מי מהם ייצא עם התואר מלך או מלכת הכוורת? שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1094429/",
+       "id": "1094429",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 29",
+       "logo": "https://www.kan.org.il/media/4kvk1n10/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240902/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-30",
+       "plot": "הייטקיסט, אוהד שרוף של מכבי חיפה, וחיילת משוחררת שחזרה הרגע מהטיול הגדול. שלושתם ינסו להפוך למלך או מלכת הכוורת. הם צריכים להפגין ידע, אסטרטגיה ומהירות. הכוורת שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1094006/",
+       "id": "1094006",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 28",
+       "logo": "https://www.kan.org.il/media/5ienl1gg/תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239587/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-26",
+       "plot": "מפתח משחקים, הייטקיסטית וספר יפעילו את המוח שלהם כדי לפצח את הכוורת - ורק אחד מהם יכול לקחת את הכסף הביתה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1092840/",
+       "id": "1092840",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 27",
+       "logo": "https://www.kan.org.il/media/u4lgl53w/כוורת_לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239115/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-25",
+       "plot": "חייל משוחרר, מנהלת תחום שיווק ופודקאסטר על ה-NBA ינסו לעשות צעד וחצי במשחק מותח אל מול הכוורת. האם מישהו מהשלושה יצליח לפצח את הכוורת וללכת הביתה עם הכסף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1092493/",
+       "id": "1092493",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 26",
+       "logo": "https://www.kan.org.il/media/abvnvhsg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238932/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-24",
+       "plot": "מה קורה כששלושה אנשים יצירתיים במיוחד: מלחין, מאייר ומומחית לחדשנות ויצירתיות פוגשים את הכוורת? מי מהם יצליח לפצח אותה ולצאת עם הכסף? כל זה קורה  בשעשועון חדש לכל המשפחה. הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1092221/",
+       "id": "1092221",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 25",
+       "logo": "https://www.kan.org.il/media/mbvn51zh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238462/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "מהנדס תוכנה, מורה וספרנית מנסים לעבור את המבחן של הכוורת. הם יצטרכו להיות ידענים, זריזים ולהפעיל הרבה מחשבה כדי לזכות בתואר מלך או מלכת הכוורת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1091865/",
+       "id": "1091865",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 24",
+       "logo": "https://www.kan.org.il/media/lmgektnq/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237127/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-19",
+       "plot": "זוג נשוי מתמודד מול זוג צעיר מי מהם יצליח לפצח את הכוורת ולחזור עם כסף הביתה. הכוורת שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1090672/",
+       "id": "1090672",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 23",
+       "logo": "https://www.kan.org.il/media/jikdrf1j/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236878/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "מנהלת פרוייקטים, עורך דין וקופירייטר יצטרכו להפעיל את כישורי התכנון, הדיון והיצירתיות שלהם כדי לפצח את הכוורת. במשחק שכולו ידע, טקטיקה וזריזות - רק אחד מהם ייצא מכאן עם הכסף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1090168/",
+       "id": "1090168",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 22",
+       "logo": "https://www.kan.org.il/media/ndnblzfd/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236421/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-17",
+       "plot": "מלש\"ב שסיים הרגע תיכון, נוירולוג ואמא עם רישיון לאופנוע כבד ינסו לפצח את הכוורת. מי מהם יצליח לפצח את הכוורת ולהיות מלך או מלכת הכוורת? כל זה קורה בשעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1089708/",
+       "id": "1089708",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 21",
+       "logo": "https://www.kan.org.il/media/fdwp0sex/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236242/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-16",
+       "plot": "מנהלת תוכן ושיווק, מפתח מערכות מידע ומומחה לצמחי בר שינסו לגייס את כל הידע שיש להם כדי לפצח את הכוורת מי מהם יצליח לזכות בכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1089355/",
+       "id": "1089355",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 20",
+       "logo": "https://www.kan.org.il/media/cl3ndxu1/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235053/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-12",
+       "plot": "משחק הזוגות המהיר של הכוורת מארח אחים צעירים מול זוג בפרק ג'. איזה זוג יפצח את הכוורת? שעשעון טריוויה בהנחיית שלמור שטורזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1088220/",
+       "id": "1088220",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 19",
+       "logo": "https://www.kan.org.il/media/zs4bnwgz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234593/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-11",
+       "plot": "שלושה מתמודדים חדשים ינסו לפצח את הכוורת- כדי לעשות את זה הם יצטרכו להיות ידענים, זריזים ולהפעיל הרבה מחשבה. מעצבת פנים עוזרת אישית וסדרן בקולנוע.שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087857/",
+       "id": "1087857",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 18",
+       "logo": "https://www.kan.org.il/media/td4p24by/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234452/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "מרפא בעיסוק, בונה אוטומציות בAI וחוקרת סייבר - הרכב מנצח לפצח את הכוורת. אבל מי משלושתם ייפצח את הכוורת ויהיה מלך או מלכת הכוורת ויזכה בכסף?  שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087723/",
+       "id": "1087723",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 17",
+       "logo": "https://www.kan.org.il/media/uglptbwi/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234423/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "שלושה מתמודדים: מנהל צוות, מנהל בטחון ופיזיותרפיסטית ישתמשו בכל התרגילים שיש כדי לגבור על כוורת אחת- רק אחד מהם יזכה לעלות לגמר ולנסות לפצח אותה. הכוורת שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087671/",
+       "id": "1087671",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 16",
+       "logo": "https://www.kan.org.il/media/ycqeh41l/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234422/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "מי יפצח את הכוורת? משחק הזוגות של שעשועון הטריוויה החדש בהנחיית שלמור שטרוזמן. שני זוגות מנסים לפצח את הכוורת באמצעות ידע, אסטרטגיה ובניית רצף בקצב מהיר במיוחד. מי יוכתר למלך ומלכת הכוורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087670/",
+       "id": "1087670",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 15",
+       "logo": "https://www.kan.org.il/media/vqzcveij/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234421/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "שלושה מתחרים מול כוורת אחת בשלושה סיבובים. מורה ליוגה, מנהל תחום משכנתאות ומרצה לעמידה מול קהל יעמדו מול הכוורת שלנו. הם יצטרכו לגייס  את כל הידע המהירות והאסטרטגיה שלהם כדי לפצח אותה ולזכות בכסף. מי יהיה מלך או מלכת הכוורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087669/",
+       "id": "1087669",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 14",
+       "logo": "https://www.kan.org.il/media/annpxs3a/55065600_03_42_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234420/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "שחקנית, רוקחת ומפתח תרופות. מול כוורת אחת. האם הם ימצאו את הדרך לפצח את הכוורת או שהם יעקצו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087668/",
+       "id": "1087668",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 13",
+       "logo": "https://www.kan.org.il/media/ekab2l2w/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234419/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "סטודנט, מכביסטית שרופה ואספן לגו. \nהאם הם מספיק ידענים ומהירים כדי לפצח את הכוורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087667/",
+       "id": "1087667",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 12",
+       "logo": "https://www.kan.org.il/media/km3bvno1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230354/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-29",
+       "plot": "משחק הזוגות המהיר מארח זוג צעיר שהכיר על ספסל הלימודים מול חברים שהכירו על ספסל בית הכנסת. איזה זוג יצליח לפצח את הכוורת? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1082726/",
+       "id": "1082726",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 11",
+       "logo": "https://www.kan.org.il/media/gbhhszwi/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230150/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-28",
+       "plot": "שלושה מתמודדים מול כוורת אחת. מי מהם יפצח אותה ויזכה להיות מלך או מלכת הכוורת? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1082239/",
+       "id": "1082239",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 10",
+       "logo": "https://www.kan.org.il/media/wcwh0byd/55065200_00_06_17.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229680/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-27",
+       "plot": "סטודנטית, יהלומן וגיאולוג יצטרכו להיות גם חכמים וגם מהירים כדי לפצח את הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1081839/",
+       "id": "1081839",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 9",
+       "logo": "https://www.kan.org.il/media/4takd2ea/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229485/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-26",
+       "plot": "מהנדס מזון, מורה לפילאטיס ועורך טקסי חתונה אלטרנטיביים - האם אחד מהם יהיה מלך או מלכת הכוורת או שהכורת תעקוץ את שלושתם? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1081444/",
+       "id": "1081444",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 8",
+       "logo": "https://www.kan.org.il/media/2eylnnen/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228217/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-22",
+       "plot": "משחק הזוגות המהיר של הכוורת, שעשועון טריוויה בהנחיית שלמור שטרוזמן. זוג נשוי מול זוג חברים בלב ובנפש. איזו זוגיות תוכיח את עצמה מול הכוורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1079932/",
+       "id": "1079932",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 7",
+       "logo": "https://www.kan.org.il/media/vbbn424u/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227745/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-21",
+       "plot": "שלושה מתמודדים, שלושה סיבובים וכוורת אחת. מי יצליח לעקוץ את הכוורת? משחק טריוויה לכל המשפחה בהנחיית שלמור שטרוזמן\nהערב בכוורת שלושה מתמודדים ינסו לפצח את הכוורת. הם יצליחו או ייעקצו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1079487/",
+       "id": "1079487",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 6",
+       "logo": "https://www.kan.org.il/media/exkbzaim/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227535/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "מומחית למוסיקה, במאית שהיא גם זמרת וחובב ג'אגלינג ינסו לפצח את הכוורת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1079036/",
+       "id": "1079036",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 5",
+       "logo": "https://www.kan.org.il/media/ig3npzev/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226995/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-19",
+       "plot": "מומחית למשא ומתן ושני מתחרים עם זיכרון פנומנלי - מי מהם יפצח את הכוורת? שעשועון טריוויה בהנחיית שלמור שטורזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1078460/",
+       "id": "1078460",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 4",
+       "logo": "https://www.kan.org.il/media/00blklk5/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225523/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-15",
+       "plot": "מי יפצח את הכוורת? משחק הזוגות של שעשועון הטריוויה החדש בהנחיית שלמור שטרוזמן. שני זוגות מנסים לפצח את הכוורת באמצעות ידע, אסטרטגיה ובניית רצף בקצב מהיר במיוחד. מי יוכתר למלך ומלכת הכוורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1076732/",
+       "id": "1076732",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 3",
+       "logo": "https://www.kan.org.il/media/cmcj34py/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225247/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-14",
+       "plot": "עורך ספרים, כלכלן ונומרולוגית מתחרים מי יפצח את הכוורת בשעשועון הטריוויה החדש בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1076067/",
+       "id": "1076067",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 2",
+       "logo": "https://www.kan.org.il/media/zm4lb4pk/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224742/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "נתורופתית, קולנוען ודבוראי אמיתי ינסו לפצח את הכוורת. האם המומחיות של מומחה הדבורים תעזור לו לפצח את הכוורת? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1075554/",
+       "id": "1075554",
+       "season": 1
+      },
+      {
+       "name": "הכוורת | פרק 1",
+       "logo": "https://www.kan.org.il/media/f2tgwwwt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224612/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "שלושה מתמודדים ינסו לפצח כוורת אחת בשעשועון חדש לכל המשפחה.  איש קבע לשעבר, מנהלת פרויקטים ומהנדס תוכנה - מי יהיה מלך או מלכת הכוורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1075351/",
+       "id": "1075351",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הכוורת | טריילר",
+       "logo": "https://www.kan.org.il/media/2gep1ldq/1920x1080_no-logo_הכוורת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228443/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-23",
+       "plot": "שומעים את הזמזום? זה שעשועון הטריוויה החדש שלנו. מי יצליח לבנות רצף שיוביל אותו לתואר מלך או מלכת הכוורת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/1080433/",
+       "id": "1080433"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חמישייה על הגג",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671011/",
+   "series_id": "671011",
+   "updated": "2026-10-28 11:15",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חמישייה על הגג | פרק 3 - קשר מחשבים",
+       "logo": "https://www.kan.org.il/media/0nhj2v0p/hamishia3_cover.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ll4z504n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הנוכלים פורצים למערכת המיחשוב ומנסים לעקוץ משכורות. שודר בשנת 1990",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671011/s1/677471/",
+       "id": "677471",
+       "season": 1
+      },
+      {
+       "name": "חמישייה על הגג | פרק 4 - גל עוצמה",
+       "logo": "https://www.kan.org.il/media/oe2fazvh/hamishia4_cover.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i70tj7kd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חוקר מיוחד שמגיע לחקור את תעלומת החדירה למחשבי המשרד לאיכות הסביבה. שודר בשנת 1990",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671011/s1/677468/",
+       "id": "677468",
+       "season": 1
+      },
+      {
+       "name": "חמישייה על הגג | פרק 5 - טלוויזיה בכבלים",
+       "logo": "https://www.kan.org.il/media/xxfn0yej/hamishia5_cover.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bu6mcxs9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "האם בעלי המפעל הם גם כוכבי שידורים לא חוקיים? שודר בשנת 1990",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671011/s1/677465/",
+       "id": "677465",
+       "season": 1
+      },
+      {
+       "name": "חמישייה על הגג | פרק 6 - רעל קטלני",
+       "logo": "https://www.kan.org.il/media/koddxvti/hamishia6_cover.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3wq5i202/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה עושים כשג'וקים משתלטים על עליית הגג ומי נתפס במלכודת? שודר בשנת 1990",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671011/s1/677462/",
+       "id": "677462",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חמישייה על הגג | פתיח",
+       "logo": "https://www.kan.org.il/media/h0bn0jxl/חמישייה-על-הגג-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uds39tzf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "\"הפתיח של :\"חמישייה על הגג",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671011/938957/",
+       "id": "938957"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אוכל מהצומח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-833777/",
+   "series_id": "833777",
+   "updated": "2026-10-27 21:29",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אוכל מהצומח - הצצה | \"הרשימה לא נגמרת, זה כמו בגן עדן\"",
+       "logo": "https://www.kan.org.il/media/qxuahsig/אוכל-מהצומח-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v4bjfytw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-09",
+       "plot": "איך הפך שוק הכרמל לאחד האתרים הקולינריים הלוהטים ביותר בתל אביב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833777/858087/",
+       "id": "858087"
+      },
+      {
+       "name": "אוכל מהצומח - הצצה | מה אתם מכניסים לפה?",
+       "logo": "https://www.kan.org.il/media/ptzow4q2/אוכל-מהצומח-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_53zyeu6z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-09",
+       "plot": "המודעות לאורח חיים בריא רק עולה והאוכל האורגני הוא הפתרון המושלם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833777/858082/",
+       "id": "858082"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

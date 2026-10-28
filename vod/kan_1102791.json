@@ -1,0 +1,99 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - נפרדים מיהודה אטלס",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/remembering/p-1102791/",
+   "series_id": "1102791",
+   "updated": "2026-10-28 12:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מי סופר ? | יהודה אטלס",
+       "logo": "https://www.kan.org.il/media/zxcozdch/arc_mb70238771_atlas_1_v100_03_44_18still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249802/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "יהודה אטלס משוחח עם גדי טאוב, הילדים, ועם \"למה\" תולעת הספרים, ומקריא להם מספרו בחרוזים \"לראות איך\"",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1103555/",
+       "id": "1103555",
+       "season": 1
+      },
+      {
+       "name": "סוכן תרבות | יהודה אטלס",
+       "logo": "https://www.kan.org.il/media/bqphrmvp/arc_s0416309_1_v100_00_09_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249799/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "המשורר והסופר עונה לשאלון של קובי מידן. זכרונות ילדות מעין עירון, הרכיבה על חמור לביה\"ס, המכות ב\"טוסיק\" מאבא, הסופר האהוב עליו ש\"י עגנון, ספרו \"הילד הזה הוא אני\", דאגתו למדינה, שירים שנולדים מסיפורים אמיתיים, ספרו \"ילדים של אף אחד\" על ילדים בסיכון, והשיר שירצה שישירו בהלווייתו : \"שיר ערש לאבנר\" שאביו שר לו כשהשכיב אותו לישון",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1103537/",
+       "id": "1103537",
+       "season": 1
+      },
+      {
+       "name": "חוצה ישראל | יהודה אטלס",
+       "logo": "https://www.kan.org.il/media/joul1w4n/arc_hv00032603_1_v100_01_53_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "דב אלבוים משוחח עם סופר הילדים יהודה אטלס, על סדרת הספרים שהוציא לאחרונה על סופרי ילדים ויצירותיהם, נסיונו להבין את סוד היצירה, מציאת הקשר בין הביוגרפיה של הסופרים ליצירותיהם והשתקפות חייהם ביצירה, ספרות כתרפיה ועוד",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1103535/",
+       "id": "1103535",
+       "season": 1
+      },
+      {
+       "name": "בקריאה ראשונה | יהודה אטלס",
+       "logo": "https://www.kan.org.il/media/tm1ivve4/arc_hv00033442_1_v100_00_49_18still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249798/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "בשיחה בלונה פארק על הגלגל הענק פוגשת אבירמה גולן את הסופר, המשתף באהבתו לדמויות בספרי הילדים - אמיל טישביין, טינקרבל חזרזיר ואחרים, ספרים כנכסי תרבות אלמותיים, הרגלי קריאה אצל ילדים וגם בספר האהוב עליו ועוד",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1103534/",
+       "id": "1103534",
+       "season": 1
+      },
+      {
+       "name": "יהודה אטלס | והילד הזה הוא עדיין אני",
+       "logo": "https://www.kan.org.il/media/xhfnszik/צילום-מסך-2026-09-27-103936.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249794/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "אמיר גרא פוגש את הסופר שגם בגיל 83  לא עוצר וממשיך לכתוב. על ספרו \"והילד הזה הוא אני\" שיצא לאור לפני 40 שנה ועל הכתיבה למען ילדים בסיכון שתוכל לספק להם נחמה וביטוי",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1103533/",
+       "id": "1103533",
+       "season": 1
+      },
+      {
+       "name": "זו ילדותי | יהודה אטלס",
+       "logo": "https://www.kan.org.il/media/kbsbwbrz/זו-ילדותי-יהודה-אטלס-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jd3i0j4m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "שיחה עם הסופר והמשורר על יצירותיו לילדים וכן על ילדותו שלו. בהשתתפות הצייר והמאייר דני קרמן, חבר ילדות של אטלס שאייר את ספריו",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1102816/",
+       "id": "1102816",
+       "season": 1
+      },
+      {
+       "name": "פגישה עם רוני קובן עונה 5 | פרק 21 - יהודה אטלס",
+       "logo": "https://www.kan.org.il/media/ndpdvgxb/https-kanstaticazureedgenet-download-pictures-2022-3-13-imgid-70803_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aqgpqspp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "הסופר והמשורר הנערץ בן ה-85, יהודה אטלס, חוגג יומולדת 45 שנים לספר האיקוני ״והילד הזה הוא אני״ ומדבר לראשונה על גירושיו ואבהותו הכואבת שלו",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1102815/",
+       "id": "1102815",
+       "season": 1
+      },
+      {
+       "name": "חיות במה יוצרות פרק 9 | יהודה אטלס",
+       "logo": "https://www.kan.org.il/media/fx0dhjyc/חיות-במה-יהודה-אטלס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gb2ne6jr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "תם אהרון והילדים מארחים את הסופר יהודה אטלס ומדברים על כמה מהשירים האיקונים מתוך \"והילד הזה הוא אני\"",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102791/s1/1102814/",
+       "id": "1102814",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

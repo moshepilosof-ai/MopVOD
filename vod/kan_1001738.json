@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ציפי ללא הפסקה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1001738/",
+   "series_id": "1001738",
+   "updated": "2026-10-28 13:09",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ציפי בלי הפסקה | פתיח",
+       "logo": "https://www.kan.org.il/media/bv0fxs50/1920x1080_no-logo_ציפי-בלי-הפסקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174115/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1001738/1007259/",
+       "id": "1007259"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

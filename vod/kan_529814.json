@@ -1,0 +1,91 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - האחת",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-529814/",
+   "series_id": "529814",
+   "updated": "2026-10-28 09:44",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "האחת | טריילר",
+       "logo": "https://www.kan.org.il/media/k1datcop/1_cover-image_1920x1080.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tm8h3wls/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-12",
+       "plot": "טריילר לסדרת הדוקו \"האחת\", סיפורה של טייסת 201 של חיל האוויר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/869948/",
+       "id": "869948"
+      },
+      {
+       "name": "האחת - הצצה | כולם מפחדים",
+       "logo": "https://www.kan.org.il/media/z14cl43z/האחת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4oubqc0l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-06",
+       "plot": "טייסי מלחמת יום כיפור על ההתמודדות עם הפחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/856981/",
+       "id": "856981"
+      },
+      {
+       "name": "האחת | טריילר",
+       "logo": "https://www.kan.org.il/media/xupo0wdj/2_clean-cover-image_1920x1080_no-logo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m8abx3be/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-18",
+       "plot": "\"אף פעם לא דיברתי על זה\": 50 שנה אחרי מלחמת יום הכיפורים, לוחמי טייסת 201 פותחים את הפצעים לראשונה בסדרה תיעודית חדשה יוצאת דופן. צפו בטריילר של \"האחת\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/535683/",
+       "id": "535683"
+      },
+      {
+       "name": "אחרי ה\"האחת\"",
+       "logo": "https://www.kan.org.il/media/p0ifuc3w/web_app_-אחרי-האחת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_er694kkm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-14",
+       "plot": "בעקבות הסדרה ה\"האחת\", בנות הזוג של רון חולדאי ודן חלוץ מדברות על טראומת יום כיפור, נעם לניר מספר על אביו שנפל בשבי ולא חזר ולהקת חיל האוויר 73 מתאחדת לביצוע מרגש. מגיש: קובי מידן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/530971/",
+       "id": "530971"
+      },
+      {
+       "name": "האחת | פרק 4 - מוכרחים להמשיך לנגן",
+       "logo": "https://www.kan.org.il/media/mawagwup/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_po8182uv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-14",
+       "plot": "פרק רביעי ואחרון: טייס צעיר, שבעקבות להיטותו להפיל מיג סורי, נהרג הנווט שלו, מדבר באומץ על הכישלון ורגשי האשמה. וחידת מותו של דורון שלו, ארבע שנים אחרי שהפיל את המטוס הלובי. מראיינת: סימה קדמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/530970/",
+       "id": "530970"
+      },
+      {
+       "name": "האחת | פרק 3: בנהא - הקרב שאינו נגמר",
+       "logo": "https://www.kan.org.il/media/wreplj3y/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uyjsh51z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-14",
+       "plot": "50 שנה אחרי קרב אוויר טראומתי בעומק מצרים, משתתפי הגיחה מתייצבים בפעם הראשונה מול המצלמות ומעלים סימני שאלה על ההתנהלות של מפקדם, איתן בן-אליהו. מראיינת: סימה קדמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/530969/",
+       "id": "530969"
+      },
+      {
+       "name": "האחת | פרק 2 - איך טייסים פוחדים",
+       "logo": "https://www.kan.org.il/media/qh2iueoe/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_04lds9md/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-14",
+       "plot": "מפקד טייסת \"האחת\" ממריא לגיחה הראשונה שלו רק ביום הרביעי למלחמה ומוחלף כעבור ארבעה ימים. אחדים מלוחמי הטייסת פוחדים להמריא לגיחות מסוכנות. מראיינת: סימה קדמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/530968/",
+       "id": "530968"
+      },
+      {
+       "name": "האחת | פרק 1 - הטיל כופף את כנף המטוס",
+       "logo": "https://www.kan.org.il/media/tlgd0jxu/האחת-תמונת-1920x-1080-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_coq483i1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-14",
+       "plot": "האופוריה שאחרי מלחמת ששת הימים מפנה את מקומה לקטסטרופה של יום כיפור. שבעה טייסים ונווטים נופלים תוך חצי שעה בשבי הסורי במבצע ״דוגמן 5״. מראיינת: סימה קדמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-529814/530967/",
+       "id": "530967"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

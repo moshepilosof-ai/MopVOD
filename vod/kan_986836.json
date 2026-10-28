@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - החוקר והרב",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-986836/",
+   "series_id": "986836",
+   "updated": "2026-10-28 09:48",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "החוקר והרב | פרק 3 - הפקרה",
+       "logo": "https://www.kan.org.il/media/pn1d0g3r/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2158166/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-03",
+       "plot": "במלחמה על התודעה ועל הנרטיב הציבורי כל האמצעים כשרים ומכונת הרעל נגד תנ״צ אפרים ברכה ז\"ל פעלה ללא לאות. ברכה נותר בודד ומופקר במערכה, ללא המעטפת החיונית והנדרשת שעשויה היתה - אולי - להציל את חייו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-986836/s1/995447/",
+       "id": "995447",
+       "season": 1
+      },
+      {
+       "name": "החוקר והרב | פרק 2 - שבעים ימים",
+       "logo": "https://www.kan.org.il/media/eo2fbile/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2125369/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-27",
+       "plot": "כניסה מרתקת לתוככי חדרי החקירות לעדויות של תנ״צ אפרים ברכה ולחקירות של הרב יאשיהו פינטו במשטרת ישראל, וחשיפת האירועים, נסיבות החיים, מערכות היחסים, התככים והמזימות שעלו בהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-986836/s1/993370/",
+       "id": "993370",
+       "season": 1
+      },
+      {
+       "name": "החוקר והרב | פרק 1 - זכות אבות",
+       "logo": "https://www.kan.org.il/media/pnrdpxk4/לאתר-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2088908/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-19",
+       "plot": "סדרת דוקו חדשה המביאה את הקשר גורלי בין הרב יאשיהו פינטו, לתנ״צ אפרים ברכה ז\"ל. קשר שנגדע בפרשת שוחד והסתיים באובדן חיים, בהתנגשות בין אמונה לחוק ובשאלות קשות על החברה הישראלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-986836/s1/991049/",
+       "id": "991049",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "החוקר והרב | הצצה",
+       "logo": "https://www.kan.org.il/media/fscl3n2t/1920x1080-with-logo_החוקר-והרב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2103710/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-22",
+       "plot": "סדרת דוקו חדשה המביאה את הקשר הגורלי בין הרב יאשיהו פינטו, לתנ״צ אפרים ברכה ז\"ל. קשר שנגדע בפרשת שוחד והסתיים באובדן חיים, בהתנגשות בין אמונה לחוק ובשאלות קשות על החברה הישראלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-986836/992051/",
+       "id": "992051"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

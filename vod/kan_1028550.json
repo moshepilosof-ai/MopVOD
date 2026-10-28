@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הבן יקיר לי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1028550/",
+   "series_id": "1028550",
+   "updated": "2026-10-28 09:45",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הבן יקיר לי",
+       "logo": "https://www.kan.org.il/media/0mrd4vy5/1920x1080_no-logo_הבן-יקיר-לי_.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189704/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-14",
+       "plot": "סרט דוקו העוקב אחר ראשי ישיבות ההסדר, הרבנים יעקב מדן ותמיר גרנות, בלב מלחמת חרבות ברזל. חרף השבר האישי, נפילת בנו של הרב גרנות ופציעתו הקשה של בנו של הרב מדן, הם ממשיכים להנהיג באומץ ולשמש עוגן רוחני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1028550/1028551/",
+       "id": "1028551"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

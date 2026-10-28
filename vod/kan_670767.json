@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - דה איזראליז",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670767/",
+   "series_id": "670767",
+   "updated": "2026-10-28 09:40",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "דה איזראליז | פרק 1 - הקיבוץ",
+       "logo": "https://www.kan.org.il/media/smwdmzqb/deisraelis01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_at1tatp5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הישראלים המהגרים חיים באמריקה פיזית, אך ממשיכים לחיות את ישראל והישראליות, \"קיבוצניקים\" בנשמתם ואמריקאים בחייהם. בימוי: עפרה אברמוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670767/s1/673466/",
+       "id": "673466",
+       "season": 1
+      },
+      {
+       "name": "דה איזראליז | פרק 2 - סיר הבשר",
+       "logo": "https://www.kan.org.il/media/ivxh4m4h/deisraelis02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zwf4k7t7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ישראלים מדברים על הבחירה להצליח בחו\"ל ולאו דווקא בישראל, על התגובות המעורבות מהסביבה, הצדקנות, הקנאה והמצפון. בימוי: עפרה אברמוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670767/s1/673463/",
+       "id": "673463",
+       "season": 1
+      },
+      {
+       "name": "דה איזראליז | פרק 3 - הוי ארצי",
+       "logo": "https://www.kan.org.il/media/ztmhpsiw/deisraelis03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uet6jnkz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "היורדים פותחים את הלב ומדברים על הגעגועים לישראל, לישראלים ולמולדת, וגם על הסיבות שבגללן בכל זאת נשארו בנכר. בימוי: עפרה אברמוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670767/s1/673460/",
+       "id": "673460",
+       "season": 1
+      },
+      {
+       "name": "דה איזראליז | פרק 4 - מדינת ישראל הפסידה תושב",
+       "logo": "https://www.kan.org.il/media/oq4frcb4/deisraelis04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cwcpj832/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "היורדים מציבים מראה מול הישראלים שחיים בישראל, מה ההבדל בינם ובין אלה שירדו מהארץ? בימוי: עפרה אברמוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670767/s1/673457/",
+       "id": "673457",
+       "season": 1
+      },
+      {
+       "name": "דה איזראליז | פרק 5 - ג'ואיש איזראלי פרינסס",
+       "logo": "https://www.kan.org.il/media/pxxf2k25/deisraelis05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mfflulhq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ישראלים אמריקאים או אולי אמריקאים ישראלים? הם אוהבים את אמריקה ואוהבים את ישראל, לא יכולים להחליט ומתלבטים כל הזמן בין השתיים. בימוי: עפרה אברמוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670767/s1/673454/",
+       "id": "673454",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "דה איזראליז | פתיח",
+       "logo": "https://www.kan.org.il/media/foikta3e/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_59qvqi5g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח הסדרה התיעודית דה איזראליז",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670767/942885/",
+       "id": "942885"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

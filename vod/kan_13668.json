@@ -1,0 +1,64 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קצה חוט",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13668/",
+   "series_id": "13668",
+   "updated": "2026-10-28 13:11",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קצה חוט - הצצה | החוטף",
+       "logo": "https://www.kan.org.il/media/h3ilbabq/קצה-חוט-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0b3dfuie/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-10",
+       "plot": "ההורים והמשטרה מנסים לעשות משא ומתן עם החוטף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13668/858290/",
+       "id": "858290"
+      },
+      {
+       "name": "קצה חוט - הצצה | איפה הילד שנחטף?",
+       "logo": "https://www.kan.org.il/media/ntgpqela/קצה-חוט.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fcbtr2lx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-10",
+       "plot": "החיפושים אחרי החוטף של הילד ממשיכים, הלחץ על החוקרים גדל ככל שהשעות עוברות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13668/858286/",
+       "id": "858286"
+      },
+      {
+       "name": "קצה חוט | פרק 3 - דנה בנט",
+       "logo": "https://www.kan.org.il/media/1xvdzfq5/2020-7-15-imgid-36717_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e1fsvt45/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סודות מהוואדי - דוקו פשע. סיפור ההעלמות המסתורי של דנה בנט, החקירה המשטרתית המסועפת שלא העלתה דבר במשך 6 שנים, עד לעדות מצמררת שמסרה בת זוגו של הרוצח, שהביאה למציאת הגופה ולפענוח פרשות רצח נוספות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13668/114671/",
+       "id": "114671"
+      },
+      {
+       "name": "קצה חוט | פרק 2 - רינת רואס",
+       "logo": "https://www.kan.org.il/media/neacqnbz/2020-6-10-imgid-34858_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m9o66rmr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תעודה. לפני כ-15 שנים, רינת רואס נסעה עם המנהל שלה אחרי העבודה, לרחוב בו גרה. למחרת בבוקר התגלתה גופתה החבולה באתר בנייה סמוך. הסרט מחקה אחרי שלבי החקירה שנמשכה 9 שנים, כשבסופה נתפס הרוצח כמעט במקרה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13668/113855/",
+       "id": "113855"
+      },
+      {
+       "name": "קצה חוט | פרק 1 - אורון ירדן",
+       "logo": "https://www.kan.org.il/media/me2pl03p/2020-6-8-imgid-34710_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ep9tkcr4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קץ התמימות - דוקו פשע. לפני 40 שנה בדיוק, ביוני 1980, טלטלה פרשת חטיפתו של הילד אורון ירדן את המדינה כולה. סיפור הפרשה, שהפכה מחטיפה לרצח אכזרי, והאופן בה פוצחה, מובאים מפיהם של מי שעמדו בראש החקירה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13668/113776/",
+       "id": "113776"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

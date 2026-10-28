@@ -1,0 +1,79 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מוזות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12887/",
+   "series_id": "12887",
+   "updated": "2026-10-28 12:21",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מוזות | אמל מורקוס",
+       "logo": "https://www.kan.org.il/media/lplfahfo/2022-2-9-imgid-69013_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e0evtju4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אמל מורקוס היא זמרת, שחקנית ומנחת טלוויזיה פלסטינית המתגוררת בכפר יאסיף שבגליל. הסרט משרטט את דיוקנה של אמל כילדה חולמת ואישה לוחמת. כאמנית מצליחה ופופולרית אשר מופיעה על במות חשובות בעולם, בעוד חלק גדול מהציבור הישראלי כלל לא מודע ליצירתה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12887/s1/141057/",
+       "id": "141057",
+       "season": 1
+      },
+      {
+       "name": "מוזות | זויה צ'רקסקי",
+       "logo": "https://www.kan.org.il/media/qshfu4rt/2022-1-17-imgid-67717_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c6qij403/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מסע למחוזות ילדותה של הציירת זויה צרקסקי, שעבודותיה נמכרות בעשרות אלפי דולרים, אך הצבעים העזים שלהם מספרים על זרות נצחית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12887/s1/140109/",
+       "id": "140109",
+       "season": 1
+      },
+      {
+       "name": "מוזות | דוד פולונסקי",
+       "logo": "https://www.kan.org.il/media/2vzdowro/2022-1-14-imgid-67568_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iebz855d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הסרט מלווה את המאייר עטור הפרסים דוד פולונסקי בתהליך עבודתו על ספר ילדים חדש וחושף אותנו במקביל גם לסרטי האנימציה הגדולים שאייר וגם ולעולמו האישי כילד שהיגר לארץ מקייב .",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12887/s1/140040/",
+       "id": "140040",
+       "season": 1
+      },
+      {
+       "name": "מוזות | רוני סומק",
+       "logo": "https://www.kan.org.il/media/luoktio0/2022-1-10-imgid-67301_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_llyawryj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרה המתעדת אומנים בתהליך עבודתם. בסרט \"עירקי פיג'מה\" מכריז המשורר רוני סומק : אֲנִי עִירָקִי-פִּיגָ´מָה, אִשְׁתִּי רוֹמָנִיָּה/ וְהַבַּת שֶׁלָּנוּ הִיא הַגַּנָּב מִבַּגְדָד..",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12887/s1/139866/",
+       "id": "139866",
+       "season": 1
+      },
+      {
+       "name": "מוזות | צרויה שלו",
+       "logo": "https://www.kan.org.il/media/ieelvjp3/2022-1-4-imgid-66981_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dilak326/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרה המתעדת אומנים בתהליך עבודתם. ב\"מאמינה במוזה\", צרויה שלו מנסה לסיים את ספרה האחרון \"פליאה\" בלי שהחתולים שלה ישתינו על המחשב ויעכבו את כתיבתה. הצצה לחדר העבודה של אחת הסופרות הישראליות המובילות בעולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12887/s1/139662/",
+       "id": "139662",
+       "season": 1
+      },
+      {
+       "name": "מוזות | ששון גבאי",
+       "logo": "https://www.kan.org.il/media/y54gos2f/2022-1-3-imgid-66921_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r6mcbzf8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דיוקן אינטימי המביא את מערכת היחסים המיוחדת בין ששון גבאי, מבכירי השחקנים בישראל, לבנו הצעיר, אדם שהוא שחקן ויוצר בעצמו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12887/s1/139647/",
+       "id": "139647",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

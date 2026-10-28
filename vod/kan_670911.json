@@ -1,0 +1,313 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - לגעת ברוח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670911/",
+   "series_id": "670911",
+   "updated": "2026-10-28 11:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "לגעת ברוח | פרק 23 - יוני רועה",
+       "logo": "https://www.kan.org.il/media/5ogbyna2/יוני-רועה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uefqtdt1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מרוק עד מזרחית ומוזיקה מיינסטרים. על הקריירה הענפה של הפזמונאי האהוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986558/",
+       "id": "986558",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 13 - מרגלית צנעני ",
+       "logo": "https://www.kan.org.il/media/lmsdfidm/מרגלית-צנעני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_00lciljq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מי היא מרגול? על הקריירה הענפה שלה, מהמחזמר \"שיער\" שפרץ לה את הדרך ועד השירים המצליחים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986546/",
+       "id": "986546",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 14 - עלי מוהר",
+       "logo": "https://www.kan.org.il/media/xw3nkhse/עלי-מוהר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_crecoek/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "איך זה לגדול בבית של חריזה וכתיבה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986545/",
+       "id": "986545",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 2 - אהוד מנור",
+       "logo": "https://www.kan.org.il/media/33ppi2xt/אהוד-מנור-במרפסת-ילדותו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tcn61ljw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "על הילד שישב במרפסת בית ילדותו, האזין לאלה פיצג'רלד מתקליט וחשב על עולמות אחרים. בבימויו של",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986518/",
+       "id": "986518",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 24 - דני ליטני",
+       "logo": "https://www.kan.org.il/media/hrri1t4z/לגעת-ברוח-דני-ליטני-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ggz110ss/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מסע בזמן עם היוצר והשחקן, דרך ילדותו כקיבוצניק, הגילוי של מוזיקת הרוק בנעוריו, הגיטרה שהובילה אותו לקדמת הבמה ולשירה, עולם המשחק ושיתופי הפעולה עם אומנים אחרים כמו יהודית רביץ ויהונתן גפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986516/",
+       "id": "986516",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | רמי פורטיס - פרק 10",
+       "logo": "https://www.kan.org.il/media/kxuflki4/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g9ut4rgn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "יואב גינאי מגיע לביתו של פורטיס נחשף לחייו הכפריים, החדשים והרגועים ומשוחח איתו על תחנות בקריירה ובחיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986514/",
+       "id": "986514",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 11 - דוד טרטקובר",
+       "logo": "https://www.kan.org.il/media/pebh4aij/דוד-טרטקובר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rax0sv7j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "בביתו בנווה צדק, משוחח עם יואב גינאי על שלושת מעגלי היצירה שלו כמעצב גרפי, אוצר גרפיקה ישראלית, ואמן פוליטי. ביחד עם חברו האדריכל דוד גוגנהיים, הם מדברים על ימיהם בירושלים, הלימודים בלונדון וקבוצת הגר עם אריק אינשטיין ואורי זוהר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986513/",
+       "id": "986513",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 18 - טוביה צפיר",
+       "logo": "https://www.kan.org.il/media/w4zfyvrc/לגעת-ברוח-טוביה-צפיר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1962623/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "יואב גינאי נפגש עם השחקן והבדרן טוביה צפיר לשיחה על עשרות שנות קריירה ענפה, על ילדותו ועל המשפחה שהקים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986473/",
+       "id": "986473",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 25 - שמעון ישראלי",
+       "logo": "https://www.kan.org.il/media/s5njxe2s/לגעת-ברוח-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_il1g43qa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "היוצר והזמר בעל הקול הגדול מהחיים משתף על הקריירה המוזיקלית שלו והיוצרים שהושפע מהם, ועל סיפורו האישי כניצול שואה שכל משפחתו נספתה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986471/",
+       "id": "986471",
+       "season": 1
+      },
+      {
+       "name": " לגעת ברוח | פרק 22 - מולי שפירא",
+       "logo": "https://www.kan.org.il/media/zlfpc445/לגעת-ברוח-מולי-שפירא.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cpmqvxfe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מולי לא מתכוון ללכת לשום מקום בקרוב אך משתף במה שכנראה יכתב על מצבתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986470/",
+       "id": "986470",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 29 - ריקי גל",
+       "logo": "https://www.kan.org.il/media/5yqjj2xm/לגעת-ברוח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3stdgg18/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "\"כל שיר מחובר איכשהו להיסטוריה שלי\": שיחה אינטימית עם ריקי גל. בבימוייה של ריקי אריכא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986469/",
+       "id": "986469",
+       "season": 1
+      },
+      {
+       "name": " לגעת ברוח | פרק 7 - עוזי חיטמן",
+       "logo": "https://www.kan.org.il/media/0avflc1z/לגעת-ברוח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_31trk82g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "שירים מבית אבא: יואב גינאי מתלווה לסיור בבית הכנסת בו התפלל הזמר בילדותו והיווה השראה ליצירותיו לאורך השנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986466/",
+       "id": "986466",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 21 - זאב רווח",
+       "logo": "https://www.kan.org.il/media/yvijbud2/bb10001772jpg-מוכן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ekb3cz9q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "יואב גינאי פוגש את השחקן זאב רווח בשכונת ילדותו - שכונת מוסררה הירושלמית.  בהשתתפות ז'ק כהן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986465/",
+       "id": "986465",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 4 - רות וסטהיימר",
+       "logo": "https://www.kan.org.il/media/2otheays/untitled-1-4.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j8u3ples/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "יואב גינאי מדבר עם הסופרת על משפחתה שנספתה בשואה, איך ניצלה מירי פגז ב-48', על שנותיה בארץ ועל הצלחתה כסקסולוגית מוכרת ברחבי העולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986464/",
+       "id": "986464",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 28 - יעל דיין",
+       "logo": "https://www.kan.org.il/media/4nrl13f5/לגעת-ברוח-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ffq0bvzq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "יואב גינאי פוגש לראיון פתוח את הסופרת, העיתונאית והפוליטיקאית בביתה שבתל אביב ושומע על הקשר לאביה, ספריה ופעילותה הציבורית בפוליטיקה ובחברה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986463/",
+       "id": "986463",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 19 - סמי מיכאל",
+       "logo": "https://www.kan.org.il/media/kmspvkdq/לגעת-ברוח-סמי-מיכאל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9cvuk211/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "הסופר בשיחה אינטימית על הילדות בעיראק בצל הרוחות המנשבות מגרמניה הנאצית, הצורך להוכיח את עצמו כיהודי וגם עונה על השאלה - איך הוא היה רוצה שיזכרו אותו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986462/",
+       "id": "986462",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 30 - נעמי פולני",
+       "logo": "https://www.kan.org.il/media/wrkjxleh/לגעת-ברוח-נעמי-פולני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tgqvciz7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "יואב גינאי מתארח בביתה של היוצרת במושבה כינרת ובמפגש מיוחד מדבר עמה על תקופת הזוהר בה יצרה את פס הקול של הזמר העברי. על עבודת הבימוי והעיבוד הקולי שיצרה ושנחשבת לקלאסיקה ישראלית. על תקופת הצ'יזבטרון, הלהקות הצבאיות, להקת התרנגולים ועוד.  עם הבדרן והשחקן גברי בנאי ובנה יותם ייני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986461/",
+       "id": "986461",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 16 - דוד קרויאנקר ",
+       "logo": "https://www.kan.org.il/media/zvjlngdf/be20605899_davidkroinaker_lagatbaruach.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_37fz0u15/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מן הילדות ברחביה ולימודי האדריכלות בלונדון, דרך עבודת תיעוד ושימור שיטתית של שכונות, בתים ואתרים ועד מבט השוואתי שמסביר כיצד זהויות אתניות ותרבותיות מתגלמות באבן הירושלמית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986459/",
+       "id": "986459",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 15 - מוני אמריליו",
+       "logo": "https://www.kan.org.il/media/w5vnnd4q/לגעת-ברוח-אמריליו-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5ehoaasg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "על עלייתו ארצה, החיים בקיבוץ והקריירה המוסיקלית העניפה - משירי פסטיבלי הזמר שהלחין, הניהול המוסיקלי של תכנית הילדים \"טלפלא\", על שיתופי פעולה עם יוצרים ותכניותיו לעתיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986458/",
+       "id": "986458",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 3 - דן אלמגור",
+       "logo": "https://www.kan.org.il/media/dbffujfu/לגעת-ברוח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mfftmsx3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "בסיור ברחובות, העיר בה גדל, מספר ליואב גינאי על זיכרונות ילדות, הערכים שהשפיעו על יצירתו, הסיפור העסיסי שמאחורי השיר \"ונצואלה\" ולמה היה רוצה להיזכר כ\"צ'ופצ'יק של הקומקום\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986454/",
+       "id": "986454",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 6 - קורין אלאל",
+       "logo": "https://www.kan.org.il/media/shgegslr/לגעת-ברוח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7w8bl0g9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "ריאיון עם חנה גולדברג על חברות ויצירה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986453/",
+       "id": "986453",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 9 - אביהו מדינה",
+       "logo": "https://www.kan.org.il/media/beppwmeu/לגעת-ברוח-אביהו-מדינה-קל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6vva4rgn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "שיחה אינטימית עם היוצר והמלחין שחי כנער מתבגר בקיבוץ כיסופים שבנגב, ובו למד על חופש ביטוי וחופש יצירה, ונחשף לתרבות שהשפיעה רבות על יצירתו.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/986449/",
+       "id": "986449",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 1 - דן תורן",
+       "logo": "https://www.kan.org.il/media/io0jhdyp/thumbnail.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2bntp3vq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "על האבהות, על השותפות בכתיבת השירים עם הפזמונאי מאיר גולדברג ועל תחומי יצירתו. קטע מתוך \"הבילויים\" (בבימוי רינה הררית 1995). משיריו: \"לבן על לבן\", \"שוב השקר הזה\", \"אימפריות נופלות\", \"עוד סיבוב\", \"אם את הולכת\", \"עלה קרח\", \"חופשה בעליי\", \"זנב לא שוכח\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/755151/",
+       "id": "755151",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 27 - דבורה קידר",
+       "logo": "https://www.kan.org.il/media/plykq33h/winddvora01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rmn7pt87/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-30",
+       "plot": "יואב גינאי משוחח עם השחקנית שמופיעה כבר למעלה מ-70 שנה על הבמה, בקולנוע ובטלוויזיה, על הקריירה שהתחילה בתיאטרון \"המטאטא\", ההיכרות עם בעלה המנוח והתפקיד האייקוני כאימא של בנצי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/694939/",
+       "id": "694939",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 17 - א.ב יהושע",
+       "logo": "https://www.kan.org.il/media/jijf12et/ab.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ifvp4zt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הסופר וחתן פרס ישראל לספרות מארח את יואב גינאי בביתו שבחיפה, לשיחה על ילדותו בירושלים, משפחתו וילדיו והנוכחות המתמדת של המוות בספריו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/675420/",
+       "id": "675420",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 20 - אורי אורלב",
+       "logo": "https://www.kan.org.il/media/11cgmfdu/אורלב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1sbhvz59/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הסופר והמתרגם פותח את ביתו בירושלים ומספר על ילדותו בוורשה, השואה בראי היצירה ועל ספרי הילדים האהובים שכתב, מ\"סבתא סורגת\" ועד \"האי ברחוב הציפורים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/675177/",
+       "id": "675177",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 8 - צדי צרפתי",
+       "logo": "https://www.kan.org.il/media/v3xchitt/tzedi.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7svjl25x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הבמאי מספר על האבולציה שלו מהמשחק לבימוי, על ההשפעות והעבודה עם גדולי הכוכבים המקומיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/674885/",
+       "id": "674885",
+       "season": 1
+      },
+      {
+       "name": "לגעת ברוח | פרק 12 - מאיר ויזלטיר",
+       "logo": "https://www.kan.org.il/media/1w2p3qgg/meirvizeltir.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y94ylxpk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יואב גינאי משוחח עם המשורר חתן פרס ישראל, על ילדותו באירופה, הפילוסופיה של השירה ועל מצבה של התרבות ושל העיר תל אביב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/s1/673861/",
+       "id": "673861",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "לגעת ברוח | פתיח",
+       "logo": "https://www.kan.org.il/media/kfilyk1g/לגעת-ברוח-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o3ryb893/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"לגעת ברוח\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670911/942822/",
+       "id": "942822"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

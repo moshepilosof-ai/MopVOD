@@ -1,0 +1,449 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הסוכנות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-963910/",
+   "series_id": "963910",
+   "updated": "2026-10-28 10:00",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "הסוכנות עונה 5 | פרק 9 - יוצא לדרך",
+       "logo": "https://www.kan.org.il/media/gf1ht4nb/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167609/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "המשימה של מארי-ז'אן במצרים מסתיימת והיא מוזמנת לשוב לסוכנות לאחר עזיבתו של ז'יז'יאה. מלוטרו מנסה להסתגל לחייו החדשים. מבצע החילוץ של קרלוב יוצא לדרך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999577/",
+       "id": "999577",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 8 - כמעט בלתי נראה",
+       "logo": "https://www.kan.org.il/media/gohh2mjz/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167608/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "קרלוב מתחיל להבין שנפל למלכודת. פבל מחליט לדאוג לחילוצה של נדיה ומסכן את המבצע של ז'יז'יאה. בקטין מתקרב יותר ויותר למציאת האמת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999553/",
+       "id": "999553",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 10 - להשאיר הכל מאחור",
+       "logo": "https://www.kan.org.il/media/tovp4iv4/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167103/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "איש מסתורי מאוזבקיסטן מגיע לפריז ומבקר במקום שבו שהה קרלוב. פול חושב שקרלוב השאיר אחריו משהו על מנת לפגוע בו. ז'ונאס נאלץ להיעזר במרינה כדי לגלות את האמת לגבי ויקי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999548/",
+       "id": "999548",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 7 - מתחילים מההתחלה",
+       "logo": "https://www.kan.org.il/media/omwbnlel/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216553/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "ז'יז'יאה מקדם את התוכנית לגיוס קנדי. פבל פוגש שוב את נדיה. מיל סאבור ממשיך לחטט ולנסות לגלות יותר על עברו של מלוטרו. בית המלון של מארי-ז'אן בקהיר נעשה יעד למתקפה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999252/",
+       "id": "999252",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 6 - התקפה אירופאית",
+       "logo": "https://www.kan.org.il/media/ejfn1vab/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167086/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "ז'ונאס מגיע לקהיר כדי לנהל משא ומתן עם השייח'. סיסטרון מצטרף לחקירה נגד ז'יז'יאה. סזאר עומד בראש מתקפת רשת נרחבת נגד ארגונים רבים באירופה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999251/",
+       "id": "999251",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 5 - להפוך את היוצרות",
+       "logo": "https://www.kan.org.il/media/hxffxrvb/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167082/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "נדיה ופבל מקבלים את ברכתו של קרלוב ומבלים יחד במוסקבה. מרינה יוצאת לסייע למיל סאבור בירדן ובקטין טס אל פנום פן כדי למצוא את סזאר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999194/",
+       "id": "999194",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 4 - המקור",
+       "logo": "https://www.kan.org.il/media/eyjbi4sv/ו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167080/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "בקטין ממשיך להתעמק בחקירת לבדב, מה שגורם לעימות עם קרלוב. ז'יז'יאה מצליח למצוא את מקור הכתבה וסזאר עושה טעות במבצע הפריצה שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999182/",
+       "id": "999182",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 3 - קשר עין",
+       "logo": "https://www.kan.org.il/media/wfig44jd/הההה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167074/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "פבל לבדב נכנס לתפקידו החדש בפס\"ב. הפרנויה של ז'יז'יאה מתגברת והוא מחליט להציע לפבל משימה. סיסטרון נוסע לקהיר כדי לבדוק אם מארי-ז'אן אחראית להדלפה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999165/",
+       "id": "999165",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 2 - שיקול דעת",
+       "logo": "https://www.kan.org.il/media/1h0hq2on/סוכנות-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165721/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "אנשי הסוכנות חוששים שסזאר נחטף ומחליטים לצאת למצוד. אלנשטיין מטיל ספק בשיקול הדעת של ז'יז'יאה. מארי-ז'אן נשארת בסיני עם רעמסס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999164/",
+       "id": "999164",
+       "season": 5
+      },
+      {
+       "name": "הסוכנות עונה 5 | פרק 1 - הפיצו את השמועה",
+       "logo": "https://www.kan.org.il/media/iuzptbe5/הסוכנות-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165713/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "הידיעה על מותו של מלוטרו מופצת בתקשורת וגורמת לבלבול בקרב סוכני מנהל הביטחון. אנשי הסוכנות יוצאים לחקור איך בדיוק המידע דלף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s5/999162/",
+       "id": "999162",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "הסוכנות עונה 4 | פרק 10 - עכשיו זה הזמן",
+       "logo": "https://www.kan.org.il/media/1quhic1x/פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152772/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "מלוטרו מגיע לקחת את מרינה באוקראינה, אבל כאשר המלווים שלהם סוטים מהמסלול המתוכנן הוא נאלץ להזהיר את סיסטרון. מארי-ז'אן מתעמתת עם ז'יז'יאה ופונט. ז'ונאס חוקר את יוד 3 בתקווה למנוע מתקפת טרור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995140/",
+       "id": "995140",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 9 - לעומק",
+       "logo": "https://www.kan.org.il/media/qv5asorg/פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152719/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "סיסטרון מזהיר את מרינה שהיא נחשפה אבל מעצרה ברוסיה יוכל להועיל למשימה אחרת ועליה להחליט אם לחזור לרוסיה או לצרפת. מלוטרו נפרד מסמרה וחוזר לצרפת, שם הוא נשלח לבידוד ועובר תחקירים מעמיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995139/",
+       "id": "995139",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 8 - שביל ההרס",
+       "logo": "https://www.kan.org.il/media/5oao2c01/פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152664/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "קרלוב מציע למלוטרו להצטרף לפס\"ב במוסקבה. מרינה מתבקשת להפסיק את הפעילות בזמן שמנסים לגייס את מישה. ז'יז'יאה ממשיך בניסיונותיו להדיח את מארי-ז'אן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995138/",
+       "id": "995138",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 4 - שיתוף פעולה מקומי",
+       "logo": "https://www.kan.org.il/media/khtb1rv2/פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152611/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "זמן שהפס\"ב ממשיכים ללחוץ עליו, מלוטרו חושב כיצד לגייס סוכן מקומי. בינתיים בצרפת, מארי-ז'אן פונה למאג כדי לקבל עצה אך מגלה שז'יז'יאה גרם לו להתפטר ושהיא עלולה להיות הבאה בתור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995117/",
+       "id": "995117",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 7 - נקודת תורפה",
+       "logo": "https://www.kan.org.il/media/vtcf2ept/פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152558/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "מלוטרו נפגש במוסקבה עם סזאר, שמתחזה לאלנשטיין. קרלוב ואנשיו עוקבים אחרי השניים מקרוב כדי להבין מהי האמת וז'יז'יאה מבחין בפגם בתוכנית ומזהיר את אנשי הסוכנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995115/",
+       "id": "995115",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 6 - יוד 3",
+       "logo": "https://www.kan.org.il/media/1i2haif1/פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152557/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "מלוטרו מתחיל בתהליך הגיוס של אלנשטיין. סיסטרון חושש שסזאר לא מוכן למשימה ועלול לחשוף את הכיסוי שלו. ז'ונאס חובר אל יחידת נשים יזידיות במטרה למצוא את יוד 3",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995113/",
+       "id": "995113",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 1 - ראשים יעופו",
+       "logo": "https://www.kan.org.il/media/xltpjyzi/פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152556/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "מלוטרו בורח למוסקבה כדי לחמוק ממנהל הביטחון ומסוכנות הביון האמריקנית. מנהל האבטחה החדש מורה על ביקורת מקיפה של הסוכנות ושל המנהלת החדשה מארי-ז'אן. ז'ונאס מתחקר ג'יהאדיסט צרפתי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995112/",
+       "id": "995112",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 5 - מתקפת סייבר",
+       "logo": "https://www.kan.org.il/media/ipskz4sg/פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152499/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "מלוטרו מציע לרוסים לגייס את אלנשטיין. מארי-ז'אן מפקחת על מתקפת סייבר במטרה לאתר את מי שפרץ לטלפון של מרינה. ז'ונאס יוצא לחפש את האספן במוסול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995109/",
+       "id": "995109",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 3 - הצעד הבא",
+       "logo": "https://www.kan.org.il/media/pwbl5x52/פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2070763/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "השירות החשאי של רוסיה עוצר את מלוטרו באשמת ריגול והוא מוצא את עצמו בבית כלא ובחסדם של האסירים האחרים בזמן שבצרפת אנשי הסוכנות מנסים להבין את המניעים שלו ולשקול את צעדיהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995104/",
+       "id": "995104",
+       "season": 4
+      },
+      {
+       "name": "הסוכנות עונה 4 | פרק 2 - מניעים נסתרים",
+       "logo": "https://www.kan.org.il/media/uc3p1ueo/פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2070677/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "לאחר שמנהל הביטחון נוטש אותו, מלוטרו יוצא מהמסתור שלו ובמהרה מושך את תשומת לב השירות החשאי של רוסיה. מרינה יוצאת למשימה הסמויה שלה במכון המחקר ומנסה להתרגל לתרבות ההאקרים במקום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s4/995102/",
+       "id": "995102",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "הסוכנות עונה 3 | פרק 10 - הזדמנות חד פעמית",
+       "logo": "https://www.kan.org.il/media/ulqnbkcc/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2153037/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "פיליפ ממשיך לכלוא את מרינה בבית המלון בזמן שאנשי המוסד מתכננים לחסל אותה. מארי-ז'אן מגלה על פגישה סודית בין נדיה למלוטרו ומחליטה לנצל את ההזדמנות כדי לתפוס אותו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991720/",
+       "id": "991720",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 9 - עקבות",
+       "logo": "https://www.kan.org.il/media/wddkxget/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152874/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "נדיה ואנשי הסוכנות עושים הכול כדי לאתר את מלוטרו, שהצליח לטשטש את עקבותיו במומחיות. מצבה של מרינה בבאקו מסתבך כאשר פיליפ מתחיל לחשוד שזו לא המשימה הראשונה שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991719/",
+       "id": "991719",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 8 - השעה הקשה ביותר",
+       "logo": "https://www.kan.org.il/media/gk0nwv0v/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2115845/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "אנשי ביטחון החוץ נאלצים להתמודד עם בשורות קשות ומחליטים לצאת למבצע לחילוץ קושיז ומלוטרו. מרינה ממשיכה במשימתה מטעם המוסד ומנסה לחדור לרשת של המכון הסיסמולוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991718/",
+       "id": "991718",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 7 - נעים להכיר",
+       "logo": "https://www.kan.org.il/media/vv4phqvh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219792/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "מרינה ממשיכה במשימתה בבאקו אבל המצב מסתבך כאשר היא נתקפת פרנויה. דופלו פוגש סוף סוף את קושיז והשניים דנים בשיתוף פעולה ובחילוץ מלוטרו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991717/",
+       "id": "991717",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 6 - הילחם או ברח",
+       "logo": "https://www.kan.org.il/media/bbif4sxa/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2115522/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "מלוטרו נותר לבדו ועושה הכול כדי לשרוד ולהתחמק מאלה שמחפשים אותו. דופלו נוסע לפגישה עם קושיז על גדות נהר פרת. מרינה מקבלת הצעת עבודה מהמכון הסיסמולוגי בבאקו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991716/",
+       "id": "991716",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 5 - מעבר לקווי האויב",
+       "logo": "https://www.kan.org.il/media/s0kjpsxm/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2115267/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "מלוטרו והסוכן הרוסי עושים את דרכם בשטחי האויב בניסיון לחמוק מכוחות הג'יהאד שמחפשים אותם. דופלו מתכונן לצאת לשטח כדי לפגוש את קושיז בתקווה להציל את מלוטרו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991715/",
+       "id": "991715",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 4 - הנחיות חדשות",
+       "logo": "https://www.kan.org.il/media/oonbdi20/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2098813/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "קצין דאעש מעביר מסר מוצפן למנהל הביטחון ואומר שהוא מוכן לערוק. השתול הרוסי חוזר עם הנחיות חדשות מהפס\"ב ומניח למלוטרו להירקב בתא. פיליס מאמן את מרינה ומבקש ממנה להשתתף בכנס בבאקו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991714/",
+       "id": "991714",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 3 - רסיסים",
+       "logo": "https://www.kan.org.il/media/tj0dnuzr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2098710/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "הסוכן הרוסי נפצע בקרב ומלוטרו מאבד תקווה. מרינה מנסה לחזור לחיים פשוטים אך הצעה משונה משבשת את התוכניות שלה. רמון מטפל בגיוס אסרין לסוכנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/991712/",
+       "id": "991712",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 2 - חזרה למשחק",
+       "logo": "https://www.kan.org.il/media/l4unc5i3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219507/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-05",
+       "plot": "נדיה מקדמת את המגעים בין דאעש למנהל הביטחון. מלוטרו פוגש סוכן פס\"ב שנשלח למשימה סמויה בתור הסוהר שלו. מרינה מתקשה לחזור לשטח בשל התקפי חרדה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/987003/",
+       "id": "987003",
+       "season": 3
+      },
+      {
+       "name": "הסוכנות עונה 3 | פרק 1 - רוחות העבר",
+       "logo": "https://www.kan.org.il/media/w5aee0dz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2040439/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-05",
+       "plot": "מלוטרו עדיין בידי דאעש ומנהל הביטחון מגייס את נדיה כדי לתכנן משימת חילוץ מסוכנת. האמריקנים חוששים מחילוצו של מלוטרו ומחשיפת הבגידה שלו לציבור. מרינה מנסה לחזור לשגרה אך נרדפת על ידי מה שקרה לה באיראן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/986805/",
+       "id": "986805",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "הסוכנות עונה 2 | פרק 10 - זה הזמן שלנו",
+       "logo": "https://www.kan.org.il/media/sozjh3fv/פרק-10-הסוכנות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2024229/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "בזמן שבאיראן מרינה מועברת בין מתקני כליאה ונאלצת להילחם על חייה, בא-רקה מלוטרו נחוש בדעתו לסיים את המשימה שלו ומוצא את עצמו עם שנאבל בדרך לפגוש את טאופיק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980747/",
+       "id": "980747",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 9 - רשלנות",
+       "logo": "https://www.kan.org.il/media/2mng3oc4/s0536501_100_24_28_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975223/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "הרשלנות של שאפור גורמת למעצרה של מרינה ונשקפת סכנה ממשית לחייה. אנשי ביטחון החוץ דורשים מהאמריקנים לחשוף את זהות החפרפרת שלהם. המבצע לנטרול שבלייה נתקל בקשיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980746/",
+       "id": "980746",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 8 - האיש בפנים",
+       "logo": "https://www.kan.org.il/media/11rbfnol/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975254/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "סלין ומלוטרו מנסים לטמון מלכודת לעיתונאי גרמני במטרה לנצל את קשריו עם דאעש. דופלו מתקשה להבין איך האמריקנים הצליחו להערים עליהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980745/",
+       "id": "980745",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 7 - אחריות",
+       "logo": "https://www.kan.org.il/media/k44njqff/s0536499_100_27_45_21still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975190/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "בזמן שהסוכנות נענית לבקשתה של נדיה להגנה, מלוטרו נאלץ להשתמש באמצעים קיצוניים כדי לחלץ אותה מהמבצע. קלמנט יוצא למשימה בדוחה במטרה לגייס את שאפור זמאני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980744/",
+       "id": "980744",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 6 - הכל או כלום",
+       "logo": "https://www.kan.org.il/media/idvj4m2e/s0536498_100_38_37_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975154/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "מצבו של סיסטרון בשטח מסתבך ומאלץ את אנשי הסוכנות לעשות הכול על מנת להחזיר אותו הביתה בשלום. מלוטרו מקבל משימה חדשה, נטרול איש הג'יהאד הצרפתי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980741/",
+       "id": "980741",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 5 - אל תבטח באף אחד",
+       "logo": "https://www.kan.org.il/media/lwhb4uej/s0536497_100_23_45_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975153/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "בזמן שבסוכנות כבר לא יודעים במי לבטוח בטיפול במשימות ובסוכנים, רמון וסברינה עושים את דרכם אל גבול טורקיה-סוריה כדי לפגוש את שבלייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980739/",
+       "id": "980739",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 4 - קלף מיקוח",
+       "logo": "https://www.kan.org.il/media/3a4ftojw/s0536496_100_23_05_07still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975119/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "בעקבות סיבוכים במשימה שלה, מרינה מוחזרת לפריז ונאלצת להתרחק משאפור. מלוטרו מאבד את קלף המיקוח שלו בניסיון לגרום לסוכנות הביון האמריקנית להציל את נדיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980738/",
+       "id": "980738",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 3 - קשר דם",
+       "logo": "https://www.kan.org.il/media/w1kh4nwh/s0536495_100_13_19_07still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1971908/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "אנשי הסוכנות מתכננים מבצע לגיוס סברינה, אחותו של הג'יהאדיסט הצרפתי. מלוטרו מבקש מסלין עזרה בבירור מצבה של נדיה, שנמצאת בסוריה ונחקרת על ידי אחד השופטים הערמומיים ביותר במשטר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980736/",
+       "id": "980736",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 2 - בעיניים עצומות",
+       "logo": "https://www.kan.org.il/media/gzplsxrx/s0536494_100_02_10_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215019/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "מלוטרו פועל מאחורי הגב של הממונים עליו כדי להשיג פיקוד על המשימה של מרינה באיראן בזמן שהיא מתקרבת לשאפור זמאני, בן של איש ציבור איראני בכיר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980735/",
+       "id": "980735",
+       "season": 2
+      },
+      {
+       "name": "הסוכנות עונה 2 | פרק 1 - תעשו משהו",
+       "logo": "https://www.kan.org.il/media/hayfqujo/s0536493_100_14_43_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1972065/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "לאחר ארבעה חודשים שבהם שימש שתול של סוכנות הביון האמריקנית בסוכנות, מלוטרו מאיים לנתק איתם כל קשר אם לא יעשו משהו כדי להציל את נדיה, שעדיין מוחזקת בשבי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s2/980734/",
+       "id": "980734",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הסוכנות עונה 1 | פרק 1 - שש שנים",
+       "logo": "https://www.kan.org.il/media/ruehguiz/s0536483_100_33_56_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1926884/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-17",
+       "plot": "לאחר שש שנים שבהן היה סוכן סמוי בדמשק, הסוכן מלוטרו חוזר לביתו שבפריז ומתחיל להתרגל מחדש לחייו האמיתיים, למשפחה, לעבודה ולחברים, אך הוא מתקשה לשכוח את המאהבת שלו נדיה, שבה התאהב בסוריה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-963910/s1/971339/",
+       "id": "971339",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

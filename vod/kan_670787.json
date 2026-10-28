@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חטף פתח | פרקים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670787/",
+   "series_id": "670787",
+   "updated": "2026-10-28 11:14",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חטף פתח | פרק 2 - משחק הגולות",
+       "logo": "https://www.kan.org.il/media/3zxnphhf/gulot.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uweov089/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מאיר שלו ודן בירון מלמדים בעגה הירושלמית כיצד משחקים במשחק הרחוב האהוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670787/s1/673795/",
+       "id": "673795",
+       "season": 1
+      },
+      {
+       "name": "חטף פתח | פרק 3 - מעשה בחיריק קטן",
+       "logo": "https://www.kan.org.il/media/2zkponen/hirik.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kyrcrjpw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מאיר שלו על ניקוד קטן שעושה הבדל גדול בשפה העברית וגם על הטעויות שלו עצמו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670787/s1/673792/",
+       "id": "673792",
+       "season": 1
+      },
+      {
+       "name": "חטף פתח | פרק 1 - טאבו בשפה העברית",
+       "logo": "https://www.kan.org.il/media/n5mndrme/taboo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j9ilqchz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מאיר שלו וד\"ר רפאל ניר על המילים בשפה העברית שיש עליהן איסור חברתי מתוך תחושה חברתית משותפת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670787/s1/673789/",
+       "id": "673789",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חטף פתח | פתיח",
+       "logo": "https://www.kan.org.il/media/sddi1vws/פתיח-פתח-חטף.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mh3ggexq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לסדרה \"חטף פתח\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670787/943238/",
+       "id": "943238"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

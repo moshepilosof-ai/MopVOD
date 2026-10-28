@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שתי מדינות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1060519/",
+   "series_id": "1060519",
+   "updated": "2026-10-28 13:39",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בצפון - מלחמה, בתל אביב - משתזפים על החוף | שתי מדינות - פרק 2",
+       "logo": "https://www.kan.org.il/media/kjzdl2n2/9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207980/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "מה קרה כשתושבי הצפון הגיעו למרכז – וגילו מחדש איך החיים נראים תחת שקט אמיתי? הפרק השני בסדרת הכתבות \"שתי מדינות\"",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1060519/s1/1049019/",
+       "id": "1049019",
+       "season": 1
+      },
+      {
+       "name": "\"מרגישה שהפקירו אותי, למה יותר חשוב לשקם את המרכז?\" | צפון ומרכז - שתי מדינות - פרק 1",
+       "logo": "https://www.kan.org.il/media/focbjntm/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207647/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-03",
+       "plot": "מי שלא גר בקו העימות בצפון לא באמת יכול לדמיין מה עובר שם על התושבים: אזעקות, עסקים מרוסקים, בלי שגרת חיים ובלי מסגרות לילדים. הפרק הראשון בפרויקט המיוחד \"שתי מדינות\" – זו שיש בה כבר חודשים מלחמה, וזו שהחיים בה ממשיכים כרגיל",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1060519/s1/1048671/",
+       "id": "1048671",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

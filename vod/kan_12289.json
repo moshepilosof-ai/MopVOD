@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מחברות שחורות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12289/",
+   "series_id": "12289",
+   "updated": "2026-10-28 12:22",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מחברות שחורות | טריילר",
+       "logo": "https://www.kan.org.il/media/agofs2yb/https-kanstaticazureedgenet-download-pictures-2022-6-14-imgid-76187_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_42a7965s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-27",
+       "plot": "סדרה המתעדת את המסע הקולנועי אחר חייה של אחת השחקניות הגדולות והחשובות בתולדות הקולנוע הישראלי - רונית אלקבץ, ומספקת הצצה נדירה לחייה בזכות עשרות שעות תיעוד משפחתי. \"אדם מצלם את חייו. צילם התחלה וגילה שצילם את הסוף\" - שלומי אלקבץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12289/894280/",
+       "id": "894280"
+      },
+      {
+       "name": "מחברות שחורות | מחברת חמישית: פנים אל פנים",
+       "logo": "https://www.kan.org.il/media/wbifkc4f/https-kanstaticazureedgenet-download-pictures-2022-6-16-imgid-76282_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m8hbl9hn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרת תעודה שהיא דיוקן משפחתי אינטימי ושיר אהבה ופרידה של אח אל אחותו. בפרק האחרון ״פנים אל פנים״ מערכה אחרונה בסיפור האהבה והפרידה של אח ואחות, ושל אישה, רונית אלקבץ, הנפרדת מהקולנוע ומהחיים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12289/136948/",
+       "id": "136948"
+      },
+      {
+       "name": "מחברות שחורות | מחברת רביעית: הסיפור",
+       "logo": "https://www.kan.org.il/media/j5yn2cu0/https-kanstaticazureedgenet-download-pictures-2021-11-10-imgid-64033_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_79f92b2x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לאחר קבלת הבשורה על הגורל המצפה לה, רונית ושלומי יוצאים למסע משותף בניסיון אחרון לשנות את הגורל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12289/136945/",
+       "id": "136945"
+      },
+      {
+       "name": "מחברות שחורות | מחברת שלישית: הבת",
+       "logo": "https://www.kan.org.il/media/hwmjr5gr/https-kanstaticazureedgenet-download-pictures-2021-11-7-imgid-63799_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k2m0uygh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רונית נוסעת לפריז כדי להימלט מגורלה של אמה, מתאהבת, מתחתנת, יולדת תאומים ומגלה שהבריחה בלתי אפשרית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12289/136942/",
+       "id": "136942"
+      },
+      {
+       "name": "מחברות שחורות | מחברת שנייה: האב",
+       "logo": "https://www.kan.org.il/media/cvyf4m2q/https-kanstaticazureedgenet-download-pictures-2022-6-16-imgid-76285_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wrnue4se/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דרך דמות אב המשפחה, עולה הקונפליקט של חילוניות מול מסורת ודת, בבית מול המשפחה וגם מול דמותו בסרטים שיצרו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12289/136939/",
+       "id": "136939"
+      },
+      {
+       "name": "מחברות שחורות | מחברת ראשונה: האם",
+       "logo": "https://www.kan.org.il/media/mkocm5fo/https-kanstaticazureedgenet-download-pictures-2022-6-16-imgid-76284_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_peh1eztx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שלומי מנסה להזהיר את רונית מהבשורה שקיבל ממגיד עתידות, ומצייר קוים נסתרים וגלויים בינה לבין אמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12289/136936/",
+       "id": "136936"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

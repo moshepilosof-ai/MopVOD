@@ -1,0 +1,334 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן מקשיבים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-11664/",
+   "series_id": "11664",
+   "updated": "2026-10-28 11:28",
+   "sub_categories": [
+    {
+     "name": "עונה 2025",
+     "channels": [
+      {
+       "name": "כאן מקשיבים | \"אני כוכב בממלכת השכול\"",
+       "logo": "https://www.kan.org.il/media/id5nej0y/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a1ui48cl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-21",
+       "plot": "אורי סלוטקי איבד את שני אחיו, נועם וישי, ב-7 באוקטובר. הם יצאו מבתיהם בבאר שבע ונפלו יחד בקרב על קיבוץ עלומים, ואורי נאלץ לזהות את הגופות שלהם. למרות הכאב והשכול, לא היה לו ספק לרגע שהוא מתגייס למילואים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2025/888088/",
+       "id": "888088",
+       "season": 2025
+      },
+      {
+       "name": "כאן מקשיבים | הבן שלי קרא לי אמא בגיל 9",
+       "logo": "https://www.kan.org.il/media/vqsm5qnq/vlcsnap-2025-03-31-11h30m52s517.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a8mf1rpt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-02",
+       "plot": "\"לא היו מטפלים אז הלכתי ולמדתי\": אושרית, פסיכולוגית במקצועה, מלמדת את הבן האוטיסט שלה לדבר, לכתוב ולתקשר לגמרי לבדה. כשגילתה שיש מחסור חמור במטפלים באזור מגוריה בדרום, החליטה ללמוד בעצמה כל מה שהילד שלה צריך, החל מניתוח התנהגות ועד שיטות מיוחדות כמו טיפול בצלילים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2025/878382/",
+       "id": "878382",
+       "season": 2025
+      },
+      {
+       "name": "כאן מקשיבים | בעלי איבד את הרגל במלחמה",
+       "logo": "https://www.kan.org.il/media/dzdhk450/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6ymozaue/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-29",
+       "plot": "ארוסה של תמר שילוני נפצע באורח אנוש במלחמה ורגל שמאל שלו נקטעה. לכאן מקשיבים היא מספרת על חתונה על רגל אחת, על השיקום של בעלה ועל החיים עם נכה: \"היום זה סטייל להיות קטוע\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2025/853302/",
+       "id": "853302",
+       "season": 2025
+      },
+      {
+       "name": "כאן מקשיבים | אחותו של אסף דגן נלחמת על ההכרה בו כחלל צה\"ל",
+       "logo": "https://www.kan.org.il/media/4ynmlmj0/capturejpg-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7sujgsnf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "ענבל היא אחותו של אסף דגן, נווט הקרב ששם קץ לחייו בעקבות פוסט-טראומה. הוא מעולם לא סיפר על הדברים הקשים שחווה בשירות הצבאי, לא ביקש עזרה מאיש, ואף המשיך להגיע למילואים בתפקידים מסווגים. היום, ענבל מנסה לעכל את האובדן ואת התחושה שלא הצליחה להציל אחיה, וכואבת על כך שצה\"ל מסרב להכיר בו כחלל: \"ההפקרות של המפקדים והצבא במקרה של אסף - זועקת\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2025/850968/",
+       "id": "850968",
+       "season": 2025
+      }
+     ]
+    },
+    {
+     "name": "עונה 2024",
+     "channels": [
+      {
+       "name": "כאן מקשיבים | אני אמא גיבורה",
+       "logo": "https://www.kan.org.il/media/4tvdrmxo/065f1055-80a1-432c-a592-43bb868ff204.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7y2elifs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-11",
+       "plot": "\"להעמיד פני חיה\": רווית איבדה את בנה, סרן עידן בלוי, ב-7 באוקטובר בנחל עוז. היא מספרת על החיים שהפכו לעבודה יומיומית קשה וכואבת, על האכזבה העמוקה מהמדינה והצבא, ועל השבועה שתחיה מען בנותיה. איך ממשיכים לגדל בנות ולגייס גם אותן כשהשכול על הכתפיים?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/835064/",
+       "id": "835064",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | אני עגונה כבר 22 שנה",
+       "logo": "https://www.kan.org.il/media/0rqilu2i/757007f9-7003-4f26-bb10-40bcfeaf6aec.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aff1z3qq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-01",
+       "plot": "\"הוא שולט עליי והמערכת עוזרת לו\": ג'ני, בת 52, אמא לשלושה ילדים ומסורבת גט כבר למעלה מ-20 שנה. כשהקטנה שלה הייתה בת חודשיים ג'ני מצאה בביתה מנת סמים של בעלה והחליטה לעזוב אותו. מאותו הרגע היא נכנסת למאבק של יותר משני עשורים מול אבי ילדיה על החופש שלה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/831189/",
+       "id": "831189",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | לא הצלחתי להציל את קארין ז'ורנו מהנובה",
+       "logo": "https://www.kan.org.il/media/0j0hhgik/whatsapp-image-2024-11-21-at-103552.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p6qcv30v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-21",
+       "plot": "מיכאל ללוש היה במסיבת הנובה כשהחלה התופת. הוא נאלץ להימלט תחת השפעת סמים ובדרך פגש את קארין ז'ורנו, שכבר הייתה פצועה. בשארית כוחותיו הוא סחב אותה על הידיים בניסיון להציל אותה, עד שכבר לא יכל יותר והשאיר אותה מתחת לשיח. מאז הוא הפסיק עם הסמים לגמרי, יצא למסע שיקום, ומטפל בעצמו כדי להשתחרר מהסיוטים והאשמה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/826971/",
+       "id": "826971",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | אמי הביולוגית הייתה זונה",
+       "logo": "https://www.kan.org.il/media/z3yi2x34/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pt4lsfjn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-13",
+       "plot": "\"אני בת זונה\": גלי שני נולדה לאמא שהייתה במעגל הזנות. יומיים אחרי הלידה שלה, היא נמסרה לבית מעבר, שם אומצה על ידי ההורים שגידלו אותה. 37 שנים אחרי, היא מתגעגעת לקשר שלא היה, ועל החיים שאמה נאלצה לעבור",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/824271/",
+       "id": "824271",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | מהבת שלי נשארו שלוש שיניים",
+       "logo": "https://www.kan.org.il/media/3gkdyfn0/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q9wzp6sb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-07",
+       "plot": "קארין ז'ורנו התחבאה ב\"אמבולנס המוות\" בנובה ב-7 באוקטובר. מחבלים ירו RPG על האמבולנס וכל מה שנשאר ממנה זה שלוש שיניים. אמא שלה, עינבל, מספרת על האובדן הקשה ועל התחושה \"שהילדה שלך התאדתה מהעולם\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/821671/",
+       "id": "821671",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | האובדן שלי כפול",
+       "logo": "https://www.kan.org.il/media/vwgda0um/1_07759.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ilpldk5x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-31",
+       "plot": "שרית אוחיון איבדה את בעלה ובנה בקרב על אופקים בשבעה באוקטובר. \"אני מרגישה שהם הולכים איתי ואז אני יכולה גם לעשות דברים שלא עשיתי קודם\". היא מאמינה שהכול מדויק ושהקב\"ה יודע מה הוא עושה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/818856/",
+       "id": "818856",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | בת זוג שכולה",
+       "logo": "https://www.kan.org.il/media/eazfelfb/3389_makshivim-shani_tv-clean_02219.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_44x2jx8w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "שני אומיאל-פלדמן שכלה את האהבה הראשונה שלה שנפל במבצע חומת מגן ב-2002 ומאז היא מתמודדת עם פוסט טראומה. היא היום נשואה ואמא אבל עדיין מתאבלת על האהוב שנפל: \"אנשים ניחמו אותי ואמרו מזל שלא התחתנתם, זה גזלייטינג חברתי מטורף\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/814547/",
+       "id": "814547",
+       "season": 2024
+      },
+      {
+       "name": "\"לא פחדתי מדפיקה בדלת, פחדתי על הנפש שלו\"",
+       "logo": "https://www.kan.org.il/media/s4oju2nm/vlcsnap-2024-09-26-10h24m15s117.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r8e0zq7u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-26",
+       "plot": "רני, בעלה של רז, יצא להילחם למרות שהוא התמודד עם פוסט טראומה מהצבא והיה פטור ממילואים. הוא היה מטופל שלוש פעמים בשבוע במחלקת בריאות הנפש ברמב\"ם, אבל באוקטובר לא היה מסוגל להישאר בבית ולראות את חבריו נלחמים בלעדיו. בסוף הגיעה הדפיקה בדלת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/804695/",
+       "id": "804695",
+       "season": 2024
+      },
+      {
+       "name": "שבעה שלא נגמרת: קצינת נפגעים במלחמה",
+       "logo": "https://www.kan.org.il/media/jwjpuire/vlcsnap-2024-09-18-10h11m46s835.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jzdie7g4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-18",
+       "plot": "\"למען מי שנמצא בשעות הכי קשות שלו\": נוי מרגאי היא קצינת נפגעים, שב-7 באוקטובר מצאה את עצמה לבד יוצאת לנחם משפחות של רבים ממי שהיו חברים שלה. היא לצדם החל מלסייע בכל הבירוקרטיה שכואב מדי להתעסק בה כרגע, ועד ללתת חיבוק ופשוט לבכות יחד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/801476/",
+       "id": "801476",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | יש לי ארבע מחלות גנטיות",
+       "logo": "https://www.kan.org.il/media/mvnntup3/vlcsnap-2024-08-15-09h50m39s567.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y4bzs14o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-15",
+       "plot": "\"הרגשתי שנולדתי פגומה\": שחר סובלת ממצב רפואי נדיר שפוגע בארבע מערכות שונות בגופה. גם כשהיא סובלת מכאבים היא מרגישה אשמה, וחוששת להעמיס על משפחתה שמטפלת בה באהבה. למרות הכל, שחר נלחמת לשמור על השמחה ועל הפלפליות שלה, ועל הזוגיות המאושרת שהיא מצליחה לטפח",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/784506/",
+       "id": "784506",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | יילדתי את האחיינית של הנייה",
+       "logo": "https://www.kan.org.il/media/javlmn33/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yg2a7ann/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-08",
+       "plot": "גלית גרינר-נחמיאס היא מיילדת במקצועה, ואם שכולה שאיבדה ב-7 באוקטובר את בנה איתי. כמה חודשים אחרי היא נדהמה לגלות בחדר הלידה את אחייניתו של איסמעיל הנייה, והתעקשה ליילד אותה למרות הקושי הבלתי נתפס: \"אני מקווה שהיא תזכור את היחס ההוגן שלי בחינוך של ילדיה\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/782142/",
+       "id": "782142",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | בעלי נשבר בשבעה באוקטובר",
+       "logo": "https://www.kan.org.il/media/vm4oketb/1_02014.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dztwb2k3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-29",
+       "plot": "בעלה של אירית, חיים, היה נהג הסעות שהתנדב להסיע ילדים מהעוטף למלונות בשבעה באוקטובר. שבועיים אחרי, הוא התאבד. אירית מספרת על אותה נסיעת מוות שממנה לא הצליח להתאושש, ועל המאבק שיוכר כנפגע פעולות איבה. \"היה ריח של מוות, אלה היו ילדים שכבר לא היו ילדים\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/778285/",
+       "id": "778285",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | \"הלך לישון ולא התעורר\": בני היחיד נפטר מאפילפסיה",
+       "logo": "https://www.kan.org.il/media/ypjlkev1/untitled-project_tv_2024-07-10_140930.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_16wr9x0j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "\"אם הוא לא היה ישן על הבטן, אולי הוא היה פה היום\": אושרת ניסתה לשמור על בנה היחיד מפני האפילפסיה, אבל התקף אחד קטלני לקח אותו לנצח. לו רק הרופאים היו מוסרים לה פרט מידע אחד, שהיה משנה את הכל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/771980/",
+       "id": "771980",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | \"סבא שלי חשב שאני מנכ\"לית, אבל הייתי זונה\"",
+       "logo": "https://www.kan.org.il/media/5f5dlqg3/vlcsnap-2024-07-02-13h10m45s734.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qszqtj3p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "\"חשבתי שזה מה שהעולם רוצה ממני\": קטי לא חשבה שהיא תמצא את עצמה עוסקת בזנות. אחרי ילדות קשה שכללה אונס ופגיעות מיניות, קטי הייתה חיילת עם חובות כלכליים שפשוט חיפשה בגוגל \"נערות ליווי\", ולמחרת כבר התחילה לעבוד. אחרי שש שנים טראומתיות של סבל נפשי ופיזי, היא הצליחה לצאת מזה אחת ולתמיד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/769497/",
+       "id": "769497",
+       "season": 2024
+      },
+      {
+       "name": "מקשיבים | תמיד הרגשתי גבר",
+       "logo": "https://www.kan.org.il/media/4ncn4h0v/1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ddtud9t9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-26",
+       "plot": "בגיל 15 מיכה יהודי הבין שהוא רוצה להיות גבר הומו ולא ילדה דתייה. בגיל 16 הוא הבין שהוא לעולם לא יהיה מאושר בגלל זה. כל זה השתנה עד שהוא החליט לצאת מהארון המגדרי ולהיות אחראי לאושר שלו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/765951/",
+       "id": "765951",
+       "season": 2024
+      },
+      {
+       "name": "\"שתיתי רבע כוס מים בשעה\": תומר חי בלי קיבה",
+       "logo": "https://www.kan.org.il/media/numj13b1/2.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2fixtu88/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-19",
+       "plot": "כשהרופאים אמרו לתומר שחייבים להסיר לו את הקיבה בגלל גידול, הוא חשב שזה הסוף. אחרי תהליך שיקום ארוך והחלטה שהוא לא מוותר על חייו - הוא חזר ללכת ואפילו לעשות מרתונים: \"קשה לרוץ 42 קילומטר בלי קיבה\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/762872/",
+       "id": "762872",
+       "season": 2024
+      },
+      {
+       "name": "מקשיבים | ספיר רוצה נכד מבתו שנפטרה",
+       "logo": "https://www.kan.org.il/media/5utpi3fj/1_02733.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1upxlea6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "\"יש אפליה בין זרע לביצית\": ספיר רוזנבוים נלחם בבירוקרטיה כדי להביא נכד מבתו שנפטרה, נועם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/758106/",
+       "id": "758106",
+       "season": 2024
+      },
+      {
+       "name": "מקשיבים | \"התעוררתי בלי רגליים, בלי כליות ובלי שמחת חיים\"",
+       "logo": "https://www.kan.org.il/media/qgjdxgzd/ayala_thinfin_01877.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1si08j47/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-23",
+       "plot": "אחרי חודש וחצי של תרדמת, שאול גרינפלד התעורר לחיים חדשים שהוא לא ממש רוצה לחיות. הוא מספר על החיידק הטורף שתקף את הגוף שלו ועל איך זה להיות נכה שלא ממלחמה - בזמן מלחמה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/752747/",
+       "id": "752747",
+       "season": 2024
+      },
+      {
+       "name": "מקשיבים | \"כמו להסתובב עם אות קין\": להיות גרוש בקהילה הדתית-לאומית",
+       "logo": "https://www.kan.org.il/media/dqqb5vaw/2_00396.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tetrnhvd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-22",
+       "plot": "איך זה לחפש זוגיות כגרוש בקהילה הדתית לאומית? אלחנן התגרש בגיל 25 ומאז עובר אתגרים לא פשוטים בדרך להקמת בית בישראל. \"מישהי אמרה לי: אם אני אצא איתך וזה לא ילך - אז יגידו שיצאתי עם גרוש\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/752348/",
+       "id": "752348",
+       "season": 2024
+      },
+      {
+       "name": "כלאו, חטפו והרביצו: בנו של הרב הנעלם פותח הכול",
+       "logo": "https://www.kan.org.il/media/zntpfe1d/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vkfacjoh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-04",
+       "plot": "\"אמרו שהוא עושה תיקון על עם ישראל\": אבא של נוריה, הרב ניר בן ארצי, הוא רב מקובל שיום אחד נעלם. הוא נחטף על ידי חבורה שעבדה אצלו, שכלאה ועינתה אותו. במשך שנים הם האשימו את נוריה בילדותו שהכל בגלל החטאים שלו, והיום, אחרי שהצליח להתפייס עם המשפחה ועם עצמו, הוא מנסה שוב להאמין בבני אדם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/733442/",
+       "id": "733442",
+       "season": 2024
+      },
+      {
+       "name": "מקשיבים | כל יום קצין דפק לי בדלת",
+       "logo": "https://www.kan.org.il/media/oojfxflj/מקשיבים-קטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xjamvs6w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "בנו של שי פורת סבל מגידול נדיר בראש ומת בגיל צעיר. דווקא כשהוא הרגיש שהוא מצליח לצאת מהאבל, הגיע שבעה באוקטובר וליבו נשבר מחדש. \"הרגשתי שבשבילי יש קצין שדפק בדלת כל יום לאורך המחלה של יובל, כל יום עוד משהו מת\", הוא מספר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/726519/",
+       "id": "726519",
+       "season": 2024
+      },
+      {
+       "name": "מקשיבים | \"רק הנהג נשאר בחיים\": בר הציל חבר בקרב ואיבד שלושה",
+       "logo": "https://www.kan.org.il/media/qblnteqy/vlcsnap-2024-03-14-09h33m38s334.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_84ng4myt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-14",
+       "plot": "\"חושב על מה הייתי יכול לעשות אחרת, עוד פעם, ועוד פעם\": הטנק שהיה ליד בר פורמן בכניסה לשג'אעייה נפגע מטיל. בלי לחשוב פעמיים, הוא נכנס לתוכו כדי להציל את החברים שלו. בתקרית הקשה, רק הנהג ניצל. שלושת החיילים הנוספים שהיו בטנק, תובל צנעני, איתן פיש ויקיר שינקולובסקי נפלו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/722744/",
+       "id": "722744",
+       "season": 2024
+      },
+      {
+       "name": "\"זוכרת כל פרט\": רוית אספה משטח המסיבה חפצים של נרצחים",
+       "logo": "https://www.kan.org.il/media/zhyjehjx/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lw38h7yw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-21",
+       "plot": "\"מסתכלת על תיק איפור, על נעליים, ומבינה שלא ישתמשו בהם יותר\": במשך שלושה חודשים רוית נאור חזרה שוב ושוב למקום בו התבצע הטבח, אספה חפצים אישיים והחזירה אותם לשורדים ולמשפחות הנרצחים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/708284/",
+       "id": "708284",
+       "season": 2024
+      },
+      {
+       "name": "\"פחדתי שיגידו ששחר חסון המצליח חי עם אחותו המשוגעת\"",
+       "logo": "https://www.kan.org.il/media/wkpj55a0/pic_01331.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_61oh2zxp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-01",
+       "plot": "עכשיו כשהמלחמה עוררה בה טראומות לא פשוטות מהעבר, שמרית חסון החליטה להפסיק להתבייש ולדבר בפתיחות על ההתמודדות הנפשית",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/696163/",
+       "id": "696163",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | לא ישבנו שבעה, ישבנו שבעתיים",
+       "logo": "https://www.kan.org.il/media/41mnj2i1/neahcho.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ahikbsc8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-18",
+       "plot": "ליאורה איבדה שלושה אנשים קרובים מדי בחייה. בגיל צעיר התאלמנה ואחר כך איבדה בת זוג. אך המוות הנורא מכל היה של בנה טל, מפקד כיתת הכוננות בכפר עזה שנרצח ב-7 באוקטובר. בשיחה עם אורית נבון היא מספרת איך קמים מהשברים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/687287/",
+       "id": "687287",
+       "season": 2024
+      },
+      {
+       "name": "לחגי יש גידול בגזע המוח - אבל כרגע הוא עסוק בלדאוג למפונים",
+       "logo": "https://www.kan.org.il/media/jftltbz4/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5a12vnsn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-11",
+       "plot": "חגי הרגיש שהעולם מסתובב, הוא ראה הכל כפול 4 ולא הצליח לדבר. כשהרופאים גילו נגעים בגזע המוח שלו, הוא התחיל לריב עם אלוהים: \"אתה לא יודע עם מי יש לך עסק, אתה לא תיקח אותי\". עכשיו במלחמה הוא ומשפחתו מפונים מביתם בשלומי כבר 3 חודשים ועדיין לא רואים את הסוף",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/682350/",
+       "id": "682350",
+       "season": 2024
+      },
+      {
+       "name": "כאן מקשיבים | המוות רדף אותי",
+       "logo": "https://www.kan.org.il/media/nkvat0kz/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jewqa813/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-04",
+       "plot": "היא סבלה מגידול נדיר בראשה, נפצעה בתאונת דרכים, נקלעה לזירת פיגוע וכמעט מתה בלידה. נוית עברה רצף של טראומות בחיים אבל אם תקשיבו לה, הלב שלכם יתמלא בתקווה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11664/s2024/669019/",
+       "id": "669019",
+       "season": 2024
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

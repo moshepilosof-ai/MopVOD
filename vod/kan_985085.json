@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - פרח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-985085/",
+   "series_id": "985085",
+   "updated": "2026-10-28 13:09",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "פרח - הצצה",
+       "logo": "https://www.kan.org.il/media/jlijbpyt/2_clean-cover-image_1920x1080_no-logo_פרח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2074237/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "מפגש מקרי בין אנה ים, צלמת, לאיילין ניר, דרת רחוב המכונה \"פרח\", מצית סקרנות הדדית, ומוביל את השתיים לצאת למסע שובר מוסכמות בחצר האחורית האפלה של תל אביב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-985085/990154/",
+       "id": "990154"
+      },
+      {
+       "name": "פרח",
+       "logo": "https://www.kan.org.il/media/xjchn0qm/2_clean-cover-image_1920x1080_no-logo_פרח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2054655/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-30",
+       "plot": "כאן דוקו. מפגש מקרי בין אנה ים, צלמת, לאיילין ניר, דרת רחוב המכונה \"פרח\", מצית סקרנות הדדית, ומוביל את השתיים לצאת למסע שובר מוסכמות בחצר האחורית האפלה של תל אביב | סרט בגרסת פסטיבלים מורחבת, כפי שהוצג בפסטיבל דוקאביב 2025",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-985085/985086/",
+       "id": "985086"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

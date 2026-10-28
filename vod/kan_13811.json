@@ -1,0 +1,136 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - העברים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13811/",
+   "series_id": "13811",
+   "updated": "2026-10-28 10:00",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "העברים - הצצה | \"הטראומה היא כל כך עמוקה\" ",
+       "logo": "https://www.kan.org.il/media/ggtpaymh/העברים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qqzjxg8e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-20",
+       "plot": "הטראומה הקשה שהביאה ליצירתו של סיפור מופלא ואותנטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/873007/",
+       "id": "873007"
+      },
+      {
+       "name": "האקטיביסט - קרל מרקס",
+       "logo": "https://www.kan.org.il/media/mjufquap/2_clean-cover-image_1920x1080_no-logo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zbg7092z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-21",
+       "plot": "סיפורו של האקטיביסט הגדול מכולם, אבי הקומוניזם, קרל מרקס, שתיאר את החוליים של הקפיטליזם, יצא נגד דיכוי מעמד הפועלים ויצר כלים להתנגדות ושינוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/370986/",
+       "id": "370986"
+      },
+      {
+       "name": "המוחרם: שפינוזה",
+       "logo": "https://www.kan.org.il/media/ltknvbma/2023-4-19-imgid-98512_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8x77zugz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שש תחנות להבנת החרם על ברוך שפינוזה. הבמאי דוד אופק יוצא למסע בלשי חוצה ארצות בעקבות ברוך שפינוזה, אחד הפילוסופים החשובים בעת החדשה, מגלה תגליות מפתיעות ומשרטט קווים לדמותו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/162471/",
+       "id": "162471"
+      },
+      {
+       "name": "ביאליק - מלך היהודים",
+       "logo": "https://www.kan.org.il/media/xrylj3du/2020-3-10-imgid-29937_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k1dmblk4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ביאליק הוא המשורר המנוכס, המשומש, התפוס, והלא מובן ביותר בתרבות שלנו. כבר בגיל 30 הוא הוכתר כמשורר הלאומי. \"מלך היהודים\" הוא ניסיון למצוא את הלב הפועם, הבועט, הרוטן, שביאליק היה בחייו – דרך אנימציה ייחודית, קטעי ארכיון נדירים, צילומים נשכחים, שירי ביאליק ששרה נינט, ומיטב חוקרי ביאליק מהארץ ומהעולם, נחווה את סיפור הילד הקטן מהעיירה שהיה למלך היהודים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96643/",
+       "id": "96643"
+      },
+      {
+       "name": "זאב ז'בוטינסקי - העורב",
+       "logo": "https://www.kan.org.il/media/gcrlcvjt/2020-3-10-imgid-29936_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_93ki0456/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לפני 75 שנה הוא מת מוות פתאומי, בודד ורחוק מכל מוקד השפעה וכוח, במחנה צופים במדינת ניו יורק. בשיאו הוא דיבר וכתב בשמונה שפות, נחשב לסופר מבטיח, מתרגם גאוני ששינה את השפה העברית, מנהיג נערץ ושנוא, ומועמד להנהגת העם היהודי. \"העורב\" הוא סרט תיעודי ראשון מסוגו על אחת הדמויות המסקרנות בהיסטוריה היהודית – זאב ז‘בוטינסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96640/",
+       "id": "96640"
+      },
+      {
+       "name": "רבי דוד בוזגלו - שיר ידידות",
+       "logo": "https://www.kan.org.il/media/efbf45iu/2020-3-10-imgid-29935_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_47ps4fzo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ר' דוד בוזגלו היה גדול הפייטנים של המאה העשרים. נולד במרוקו ב-1903 והשפיע בעשייתו התרבותית על קהילה של מאות אלפים. בין הגלות הפורה לישראל הקרועה, שירתו שינתה את תפיסת הפיוט הספרדי. אלא שבוזגלו לא היה רק משורר גדול, אלא גם אדם שההיסטוריה העניקה לו הזדמנות להפוך למשפיע קריטי על זהותה של קהילת יוצאי המגרב במאה העשרים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96637/",
+       "id": "96637"
+      },
+      {
+       "name": "המשוררת רחל - העלמה בלובשטיין",
+       "logo": "https://www.kan.org.il/media/vfzlhwgw/2020-3-10-imgid-29934_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q7osnoxw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סרט תיעודי במלאת 125 שנה להולדת רחל המשוררת – מחזק את דמותה כמשוררת העברית הראשונה, שהצליחה לבטא את חיי הנפש של דור שלם בשפה שחיה ונושמת עד היום. דנה אולמרט, ענת וייסמן, אפרת מישורי, מוקי צור, אורי מילשטיין יהודית רביץ, קרני פוסטל ואחרים, ידברו, וישירו ויחד עם אנימציה ומכתבים לא מוכרים של רחל יציירו מחדש את דמותה יוצאת הדופן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96634/",
+       "id": "96634"
+      },
+      {
+       "name": "העברים - יוסף חיים ברנר",
+       "logo": "https://www.kan.org.il/media/zlwfibus/2020-3-10-imgid-29933_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894950/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרה תיעודית על גדולי התרבות העברית בשיתוף מיטב היוצרים והאמנים בישראל. פרק 2: המעורר- יוסף חיים ברנר. הפרק מלווה את האפלה בחייו וביצירותיו של הסופר המרדני, שובר המוסכמות והחלוצי עד למותו הטראגי. יוצר: יאיר קדר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96631/",
+       "id": "96631"
+      },
+      {
+       "name": "זלדה - אישה פשוטה",
+       "logo": "https://www.kan.org.il/media/eojo0xxh/2020-3-10-imgid-29932_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o5uxlj5n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הסרט מיועד לצפייה ביתית בלבד.\r\nלמרות שפרסמה ספר שירים ראשון רק בגיל 53, היא היתה מיד משוררת מהשורה הראשונה, אשה דתייה צנועה, שמיעטה לצאת מביתה.\r\nלמרות שלא צמחה בחצרות ספרותיות, היא עיצבה שפה עצמית ייחודית ומופלאה של שירה שאין דומה לה.\r\n30 שנה לאחר מותה, באמצעות קטעי ארכיון משנות ה-70, יומנים שלא פורסמו ושיחות עם החצר הפנימית של זלדה, משורטט דיוקנה המרהיב של המשוררת שכינתה עצמה אשה פשוטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96628/",
+       "id": "96628"
+      },
+      {
+       "name": "אבות ישורון - שישה פרקי אבות",
+       "logo": "https://www.kan.org.il/media/divjyrud/cat41966_img562878118.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1mlbeidz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סיפורו של יחיאל פרלמוטר שהמציא את עצמו כמשורר הישראלי הגדול מכולם, אבות ישורון. דיוקנו של משורר שכתב את מאורעות הזמן בעברית מהולה ביידיש וערבית, ונע במסע מתמיד בין נידוי להכרה. עבור רבים, הוא היה המשורר הישראלי הגדול מכולם, אלא שאת מרבית חייו הוא העביר מנודה ומוחרם, כמשורר רדיקלי ומבודד ששובר את השפה ומתפרע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96626/",
+       "id": "96626"
+      },
+      {
+       "name": "דוד פוגל - איבד פוגל את פוגל",
+       "logo": "https://www.kan.org.il/media/jnhn4lty/cat41965_img727560442.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0869l8xw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הוא נחשב לאחד מגדולי הספרות העברית, למרות שלא היה ציוני. מי היה דוד פוגל? האיש שהותיר מאחורי קורפוס של רומנים, נובלות ושירים בעברית נהדרת שתיארו מיניות ותשוקה כפי שאיש לא תיאר לפניו. באמצעות יומניו, מכתביו וכתביו, נצא למסע באירופה ובפלשתינה, בעקבות היוצר העצוב, שעשה פלאות בעברית, אבל הצליח להיות כל פעם במקום הלא נכון, בזמן הלא נכון, עד שהדבר עלה לו בחייו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96624/",
+       "id": "96624"
+      },
+      {
+       "name": "שלום שבזי - מורי, חידת שבזי",
+       "logo": "https://www.kan.org.il/media/dsdpn14e/2020-6-24-imgid-35706_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_db2qlaxf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לא הרבה פרטים ידועים על שבזי. אפילו איור של פניו לא נמצא. אך גם ארבע מאות שנה לאחר מותו, רבי שלום שבזי הוא משורר פופולארי ונחשב לגדול חכמי ומשוררי תימן. מסע בעקבות אחד מגדולי היוצרים בספרות העברית והיהודית, שכתב למעלה מ 800 שירים, עירב בכתיבתו עברית וערבית, התאהב במשיח, התייסר בחשקים, הרג שניים מילדיו והפך לאגדה.  בימוי ותסריט : ישראלה שאער מעודד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96622/",
+       "id": "96622"
+      },
+      {
+       "name": "מרים ילן שטקליס - לבדיתי",
+       "logo": "https://www.kan.org.il/media/mzcaamqw/cat41963_img199165568.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b9k7oj8q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "תעודה. בדירה קטנטנה בירושלים, מוקפת בובות וחתולים, כתבה מרים ילן שטקליס שירי ילדים שכבשו לבבות של דורות שלמים – הבובה זהבה, הסבון בכה מאוד, מיכאל ואחרים. מסע בעקבות גדולת משוררי הילדים הישראלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13811/96620/",
+       "id": "96620"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

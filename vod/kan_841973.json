@@ -1,0 +1,123 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חוליגנים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-841973/",
+   "series_id": "841973",
+   "updated": "2026-10-28 11:14",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חוליגנים | טריילר",
+       "logo": "https://www.kan.org.il/media/3hndg3ax/1920x1080_no-logo_חוליגנים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cshf4rww/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-26",
+       "plot": "סדרת דרמה-מתח חברתית חדשה, שבמרכזה גיבורים צעירים משולי החברה המוצאים שייכות ומשפחה חלופית במועדון אוהדים קיצוני של קבוצת כדורגל. בכיכובם של בן סולטן, דקלה, דוד שאול, אסף הראל ורבים נוספים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/912032/",
+       "id": "912032",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 8 - אם אשכחך ירושלים",
+       "logo": "https://www.kan.org.il/media/ef5a3fiz/s0476862_100_11_36_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d5yh9w7r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "העונה מגיעה לשיאה בעימות דרמטי בין מני לעובד, בו מערכת היחסים המיוחדת שלהם עומדת בפני מבחן קשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841989/",
+       "id": "841989",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 7 - אני נשבע",
+       "logo": "https://www.kan.org.il/media/wsiala13/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ra11gvgn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "מדמוני מגבירה את הלחץ ודורשת ממני להשיג מידע על עסקת הסמים. העימות בין אוהדי הקבוצה האירופית לשומרי החומות מוביל לפיצוץ המשחק ולפציעתו של מני, מיד לאחר שהוא מגלה היכן יקיר ועובד מסתירים את הסמים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841988/",
+       "id": "841988",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 6 - אוהב אותך",
+       "logo": "https://www.kan.org.il/media/r2rin4jl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5ovgfs6n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "ארגון \"שומרי החומות\" מתארגן לקראת משחק החוץ האירופי של הקבוצה. מדמוני שולחת את מני למשחק החוץ במטרה להשיג מידע על עסקת סמים שבה מעורב יקיר. בעודם בחו\"ל רומן מתפתח בין כינרת למני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841987/",
+       "id": "841987",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 5 - אל תירא ישראל",
+       "logo": "https://www.kan.org.il/media/unjh1vvd/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5zkrxnz1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "אירועי המשחק בסכנין מובילים להתפרעויות והפרות סדר בירושלים. כתגובה מחליטים \"שומרי החומות\" לצאת במצעד דגלים. עובד מטיל על מני את ההשגחה על אסי, בו הוא חושד כשתול בארגון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841986/",
+       "id": "841986",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 4 - להיות עם חופשי",
+       "logo": "https://www.kan.org.il/media/l4xdxyau/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aq74hhed/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "אוטובוס של אוהדי ירושלים יוצא לסכנין למשחק הנפיץ עם הקבוצה הערבית המקומית. על האוטובוס נמצא גם מני, אלא שחשדם של אנשי הארגון כי ביניהם נמצא \"שתול\" מוביל להורדתו של מני מהנסיעה באמצע הדרך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841984/",
+       "id": "841984",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 3 - קראו לי אלים",
+       "logo": "https://www.kan.org.il/media/dovohx4i/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_udji50fc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "עובד מזמין את מני לגור בביתו, והקשר בין השניים מתהדק עוד יותר. בינתיים, בלחץ המשטרה וראש העיר, מנכ\"ל קבוצת הכדורגל מחליט להרחיק מהמשחקים את כל אנשי \"שומרי החומות\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841982/",
+       "id": "841982",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 2 - העיר הזאת שייכת לי",
+       "logo": "https://www.kan.org.il/media/ueqjptn4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lwpgomrg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "מני מקבל הזדמנות להוכיח את עצמו בפני חברי ארגון \"שומרי החומות\". עובד מגלה כי ראש העיר מונע ממנו לעבוד במכרז הקבלני בו זכה, ופועל כדי לפתור את הבעיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841981/",
+       "id": "841981",
+       "season": 1
+      },
+      {
+       "name": "חוליגנים | פרק 1 - הנה היא עולה",
+       "logo": "https://www.kan.org.il/media/i2hlhuj4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gyb847em/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "סדרת דרמה חדשה המביאה את סיפורו של מני, צעיר ממשפחה לא מתפקדת, שמסתבך בקטטת אוהדים המקרבת בינו לבין עובד מנהיג ארגון האוהדים 'שומרי החומות', אך גם מסבכת אותו עם המשטרה הרוצה להפעיל אותו כמושתל בארגון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841980/",
+       "id": "841980",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חוליגנים - טריילר",
+       "logo": "https://www.kan.org.il/media/o2cbdj3p/חוליגנים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_59jblw1o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "גיבורים צעירים משולי החברה מוצאים משפחה חלופית במועדון אוהדים קיצוני של קבוצת כדורגל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-841973/922287/",
+       "id": "922287"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

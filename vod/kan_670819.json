@@ -1,0 +1,168 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - דיוקן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670819/",
+   "series_id": "670819",
+   "updated": "2026-10-28 09:43",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "דיוקן 2 | פרק 1 - רובי ריבלין",
+       "logo": "https://www.kan.org.il/media/txkfvq4k/rouben01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ee57ixh2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יו\"ר הכנסת בוחר בתמונה שהזכירה לו את ציורו של בן גוריון, בה מבטו מלווה את המתבונן מכל מקום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s2/674022/",
+       "id": "674022",
+       "season": 2
+      },
+      {
+       "name": "דיוקן 2 | פרק 2 - אחמד טיבי",
+       "logo": "https://www.kan.org.il/media/2epfmb5w/ahmed01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kg4jemq0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חבר הכנסת מרגיש חשוף ועם זאת יש לו ציפיות לדיוקן אמיתי, אותנטי ויפה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s2/674019/",
+       "id": "674019",
+       "season": 2
+      },
+      {
+       "name": "דיוקן 2 | פרק 3 - יהונתן גפן",
+       "logo": "https://www.kan.org.il/media/5c1kgm40/jonathan01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_htsnexel/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "המשורר, המחזאי והעיתונאי, חושב שציירים טובים צריכים לתפוס בציור משהו נוסף שהוא לא יודע על עצמו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s2/674016/",
+       "id": "674016",
+       "season": 2
+      },
+      {
+       "name": "דיוקן 2 | פרק 4 - אנסטסיה מיכאלי",
+       "logo": "https://www.kan.org.il/media/w1me5zgo/anastasiamich01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3sz99g96/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "לחברת הכנסת נסיון רב עם מצלמות בשל עברה כדוגמנית, אבל לא עם משיכות מכחול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s2/674010/",
+       "id": "674010",
+       "season": 2
+      },
+      {
+       "name": "דיוקן 2 | פרק 5 - עינת שרוף",
+       "logo": "https://www.kan.org.il/media/kdyhzlfx/einat-saruf.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xt1urfhy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הזמרת רוצה לראות דיוקן שמח של עצמה ובטוחה שיציירו אותה עצובה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s2/674007/",
+       "id": "674007",
+       "season": 2
+      },
+      {
+       "name": "דיוקן 2 | פרק 6 - ציון אמיר",
+       "logo": "https://www.kan.org.il/media/bt3owce0/zionamir.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0kbls8il/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עורך הדין חושב שהצייר המוכשר יצטרך לראות את החלק המסתורי שלא נראה לעין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s2/674003/",
+       "id": "674003",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "דיוקן | פרק 1 - חנה לסלאו",
+       "logo": "https://www.kan.org.il/media/nwvdc3hx/hanalasslo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ye0ckwp5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שלושה אמנים בתהליך יצירה שונה ומרתק שהתחיל בסוזאן דלאל, מקום שבחרה מודל הציור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s1/674117/",
+       "id": "674117",
+       "season": 1
+      },
+      {
+       "name": "דיוקן | פרק 2 - איתן בן אליהו",
+       "logo": "https://www.kan.org.il/media/nknjqz3m/eithan01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dx7mkxc6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איזה רשמים אנחנו מותרים על האחר מעצם היותנו? ומה נראה מכך בציור?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s1/674114/",
+       "id": "674114",
+       "season": 1
+      },
+      {
+       "name": "דיוקן | פרק 3 - אריה אלדד",
+       "logo": "https://www.kan.org.il/media/3oubumfk/aryeel01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zw28e364/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אלדד סקרן לדעת איך הוא נראה דרך עיניים של אמן במקום שהוא הכי הוא - בבית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s1/674111/",
+       "id": "674111",
+       "season": 1
+      },
+      {
+       "name": "דיוקן | פרק 4 - שלי יחימוביץ'",
+       "logo": "https://www.kan.org.il/media/1umf2dsx/shellyye.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xpte2puf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נפעמת מהטכניקות השונות בהן בחרו לצייר אותה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s1/674108/",
+       "id": "674108",
+       "season": 1
+      },
+      {
+       "name": "דיוקן | פרק 6 - לאורה ריבלין",
+       "logo": "https://www.kan.org.il/media/z5olivin/liora01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_47wh2j92/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השחקנית תוהה אם להתקיים בציור זה דבר שמנציח את הרגש או מפעיל אותו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s1/674099/",
+       "id": "674099",
+       "season": 1
+      },
+      {
+       "name": "דיוקן | פרק 7 - אביגדור פלדמן",
+       "logo": "https://www.kan.org.il/media/jenbcppz/avigdor01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kolpvjlm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "למרות שהצהיר שהוא מוכן להיחשף בפני הציירים, דילה כי הישיבה בזמן שמציירים אותו הופכת לחוויה מאוד אינטימית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s1/674095/",
+       "id": "674095",
+       "season": 1
+      },
+      {
+       "name": "דיוקן | פרק 8 - יגאל שילון",
+       "logo": "https://www.kan.org.il/media/fzjnsimn/yigalshilon01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kxal3pwj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איש הטלוויזיה מקווה שלא להיות מובך כשיראה את יצירות האומנות בדמותו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/s1/674091/",
+       "id": "674091",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "דיוקן | פתיח",
+       "logo": "https://www.kan.org.il/media/n2fpoihp/פתיח-דיוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jnvaqv97/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית \"דיוקן\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670819/943160/",
+       "id": "943160"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

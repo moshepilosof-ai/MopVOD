@@ -1,0 +1,779 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שום פלפל ושמן זית",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-682519/",
+   "series_id": "682519",
+   "updated": "2026-10-28 13:27",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "שום פלפל ושמן זית עונה 3 | אניה בוקשטיין",
+       "logo": "https://www.kan.org.il/media/aeglgysl/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257780/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-22",
+       "plot": "חיים כהן מארח את השחקנית והזמרת אניה בוקשטיין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1111732/",
+       "id": "1111732",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 22 - צופית גרנט",
+       "logo": "https://www.kan.org.il/media/tikavhi4/לאתר-צופית-גרנט.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249017/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "חיים כהן מארח במטבח את מנחת הטלוויזיה והשחקנית צופית גרנט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1102697/",
+       "id": "1102697",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 21 - הפרויקט של רביבו",
+       "logo": "https://www.kan.org.il/media/3h2hqnx5/פרק-21-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249008/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "חיים כהן מארח את \"הפרויקט של רביבו\" לקבלת שבת שמחה ומלאת מוסיקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1102632/",
+       "id": "1102632",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 14 - קובי אדרי",
+       "logo": "https://www.kan.org.il/media/mwrp5chu/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230819/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "חיים כהן מארח במטבח את בלוגר האוכל קובי אדרי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1083495/",
+       "id": "1083495",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 15 - נועם קליינשטיין",
+       "logo": "https://www.kan.org.il/media/vl5mdv3h/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2221560/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "חיים כהן מארח במטבח את היוצרת והזמרת נועם קליינשטיין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1071060/",
+       "id": "1071060",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 19 - דניאל כהן",
+       "logo": "https://www.kan.org.il/media/5pfpnlhg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219511/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את הסטנדאפיסט דניאל כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067711/",
+       "id": "1067711",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 20 - מיקי קם",
+       "logo": "https://www.kan.org.il/media/myscspj4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219510/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח את השחקנית, הזמרת והקומיקאית מיקי קם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067707/",
+       "id": "1067707",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 23 - הילה קורח",
+       "logo": "https://www.kan.org.il/media/fgudq0jh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219508/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את הילה קורח, מנחת טלוויזיה רופאה וחובבת קולינריה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067700/",
+       "id": "1067700",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 17 - חנן סביון",
+       "logo": "https://www.kan.org.il/media/rmahgd2h/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219506/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את השחקן, התסריטאי והבמאי חנן סביון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067675/",
+       "id": "1067675",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 16 - חגית ביליה (לייזה פאנלים)",
+       "logo": "https://www.kan.org.il/media/aw0dv1zr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219503/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את בלוגרית האוכל חגית ביליה, הלא היא לייזה פאנלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067664/",
+       "id": "1067664",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 11 - עדן חסון",
+       "logo": "https://www.kan.org.il/media/zrsm32t2/אתר-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219501/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את הזמר עדן חסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067655/",
+       "id": "1067655",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 13 - שירה נאור",
+       "logo": "https://www.kan.org.il/media/4yzhzg3z/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219497/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את השחקנית שירה נאור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067653/",
+       "id": "1067653",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 12 - דודו אהרון",
+       "logo": "https://www.kan.org.il/media/oljllueu/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219495/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את הזמר דודו אהרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067652/",
+       "id": "1067652",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 18 - אליאנה תדהר",
+       "logo": "https://www.kan.org.il/media/0msf2klw/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219489/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "חיים כהן מארח במטבח את השחקנית, הזמרת והמוזיקאית אליאנה תדהר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1067603/",
+       "id": "1067603",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 10 - ליאור רז",
+       "logo": "https://www.kan.org.il/media/ss3lam3q/s0548518-digital00_11_04_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213857/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-18",
+       "plot": "חיים כהן מארח במטבח את השחקן והתסריטאי ליאור רז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1057485/",
+       "id": "1057485",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 8 - טל פרידמן",
+       "logo": "https://www.kan.org.il/media/rasnvbe0/s0548520-digital00_01_45_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202553/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "חיים כהן מארח במטבח את הקומיקאי והמוסיקאי טל פרידמן לארוחה מלאת הומור, סקרנות ונשמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1043394/",
+       "id": "1043394",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 9 - צביקה הדר ",
+       "logo": "https://www.kan.org.il/media/dtriisi4/s0548522-digital00_03_16_05still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202557/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "חיים כהן מארח במטבח את השחקן, המגיש והקומיקאי צביקה הדר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1043350/",
+       "id": "1043350",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 7 - ספיישל אירוויזיון - נטע ברזילי",
+       "logo": "https://www.kan.org.il/media/eqfcdpsj/s0548517-digital00_02_58_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195196/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-29",
+       "plot": "חיים כהן מארח במטבח את היוצרת והזמרת נטע ברזילי, רגע לפני גמר אירוויזיון 2026",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1034942/",
+       "id": "1034942",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 6 - מאיה בצלאל עסיס",
+       "logo": "https://www.kan.org.il/media/udnlnwyk/s0548518-digital00_15_23_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195195/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-29",
+       "plot": "חיים כהן מארח את אשת התקשורת מאיה בצלאל עסיס לארוחה מלאת לב ואנרגיות גבוהות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1034939/",
+       "id": "1034939",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 5 - גורי אלפי",
+       "logo": "https://www.kan.org.il/media/jwnc5z50/s0548521-digital00_15_57_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194784/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "חיים כהן מארח את הבמאי והשחקן גורי אלפי לארוחה שכולה זיכרונות של אוכל בין סביח למישלן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1034530/",
+       "id": "1034530",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 4 - איתי לוי ",
+       "logo": "https://www.kan.org.il/media/bv4nb2bf/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192916/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": "חיים כהן מארח במטבח את הזמר איתי לוי למפגש מרגש שכולו לב, נשמה וסלסולים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1032441/",
+       "id": "1032441",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 3 - מיכל הרצוג",
+       "logo": "https://www.kan.org.il/media/3myj0oku/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191991/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-20",
+       "plot": "חיים כהן מארח את מיכל הרצוג, רעיית נשיא המדינה, בתוכנית מיוחדת ליום העצמאות. איך מתכוננים לארוחה רשמית בבית הנשיא ומה הנשיא אוהב להכין בארוחה המשפחתית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1031276/",
+       "id": "1031276",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 2 - ציפי שביט",
+       "logo": "https://www.kan.org.il/media/nrnnlqxn/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183635/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-30",
+       "plot": "חיים כהן מארח את האחת והיחידה - ציפי שביט, למפגש פסגה של הומור ואוכל טוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1020899/",
+       "id": "1020899",
+       "season": 3
+      },
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 1 - אמיר שורוש",
+       "logo": "https://www.kan.org.il/media/3mvnziez/אתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183628/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-30",
+       "plot": "תכנית האוכל האהובה עם חיים כהן חוזרת לעונה חדשה. בפרק הפתיחה חיים כהן מארח את אמיר שורוש הלא הוא רמזי מקופה ראשית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1020870/",
+       "id": "1020870",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 30 - יגאל עדיקא",
+       "logo": "https://www.kan.org.il/media/1kdgpu2f/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891478/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "חיים כהן מארח את מנהל רשת הסופרים הכי מוכר בארץ. השחקן יגאל עדיקא מגיע למטבח עם זכרונות אוכל מרגשים במיוחד מהבית בירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/934161/",
+       "id": "934161",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 28 - אגם רודברג",
+       "logo": "https://www.kan.org.il/media/vo5fdrlg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890820/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "חיים כהן מארח הפעם את השחקנית אגם רודברג לארוחה של ביסים קטנים, והרבה מתוק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/934147/",
+       "id": "934147",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 25 - אוראל צברי",
+       "logo": "https://www.kan.org.il/media/f1xgl5vd/אוראל-צברי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nrmutqxy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-21",
+       "plot": "לקראת ראש השנה חיים כהן מארח את השחקן והקומיקאי אוראל צברי לארוחה מיוחדת ומצחיקה עם הרבה לחוח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/933762/",
+       "id": "933762",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 27 - אורי גוטליב",
+       "logo": "https://www.kan.org.il/media/dhqbabno/אורי-גוטליב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g3g23x3e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-21",
+       "plot": "חיים כהן מארח במטבח את השחקן, הקומיקאי ושדרן הרדיו אורי גוטליב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/933760/",
+       "id": "933760",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 29 - טלי מורנו",
+       "logo": "https://www.kan.org.il/media/cpcfo0fe/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_932v5db3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "חיים כהן מארח הפעם במטבח את העיתונאית טלי מורנו מגישת המהדורה המרכזית \"כאן חדשות\" לארוחה משפחתית ומחוייכת עם אורח מיוחד: אייל קיציס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/931057/",
+       "id": "931057",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 23 - אלי יצפאן",
+       "logo": "https://www.kan.org.il/media/pdrmts22/לאתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hb1pmv5q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "חיים כהן מארח הפעם את הקומיקאי אלי יצפאן לארוחה שכולה רצינות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/931049/",
+       "id": "931049",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 16 - רז הרשקו",
+       "logo": "https://www.kan.org.il/media/jubbrm2y/רז-הרשקו-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f6b3q57k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח הפעם את הג'ודוקא רז הרשקו, מדליסטית אולימפית שחובבת בישול ואוכל טוב מהילדות בנתניה ועד לתחרויות בכל העולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844375/",
+       "id": "844375",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 24 - ספיר ברמן",
+       "logo": "https://www.kan.org.il/media/lxplpd3z/s0480427_100_00_55_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bx9b7hvc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח הפעם את ספיר ברמן שופטת הכדורגל הטראסנג'נדרית שעשתה היסטוריה בארץ ובעולם לארוחה טבעונית טעימה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844370/",
+       "id": "844370",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 15 - שי צברי",
+       "logo": "https://www.kan.org.il/media/qhkh10e0/שום-פלפל-פרק-22-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0o5i1u2c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח הפעם את הזמר שי צברי לארוחה קיטוגנית מרגשת במיוחד ומוסיקלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844368/",
+       "id": "844368",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 18 - אליטה אופק",
+       "logo": "https://www.kan.org.il/media/4vzfc14z/שום-פלפל-פרק-21-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yr7kpmww/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח את בלוגרית האוכל המצליחה באינסטגרם - אליטה אופק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844365/",
+       "id": "844365",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 19 - נרקיס ",
+       "logo": "https://www.kan.org.il/media/felhfkr0/שום-פלפל-פרק-20-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h06c8r51/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח במטבח את הזמרת נרקיס למסע בתחנות האוכל והאמונה של חייה. מסע שהתחיל בבית בגוש קטיף שלפני ההתנתקות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844360/",
+       "id": "844360",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 17 - שלומי שבת",
+       "logo": "https://www.kan.org.il/media/3ymctpyv/שלומי-שבת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4sgjme1e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח את הזמר שלומי שבת לארוחה עם הרבה מוסיקה ואורח מיוחד ואהוב על שניהם - פבלו רוזנברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844358/",
+       "id": "844358",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 14 - יעל שרוני",
+       "logo": "https://www.kan.org.il/media/nrthsglf/לאתרררררר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p8ct2zcp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "השחקנית יעל שרוני מגיעה למטבח של חיים כהן לארוחה טובה ולשיחה מצחיקה ומרגשת על אימהות קריירה וחברות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844355/",
+       "id": "844355",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 21 - קובי אוז",
+       "logo": "https://www.kan.org.il/media/we0palbt/פרק-13-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t77sf47q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח את היוצר והזמר קובי אוז לארוחה שכולה טעמי שכונה וילדות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844352/",
+       "id": "844352",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 22 - דיקלה ",
+       "logo": "https://www.kan.org.il/media/rvdkpw0h/דקלה-תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fj5tbx48/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח את הזמרת דיקלה לארוחה של זיכרונות אוכל מרגשים ומשותפים לשניהם מהשכונה ומהבית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844350/",
+       "id": "844350",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 20 - דובל'ה גליקמן",
+       "logo": "https://www.kan.org.il/media/rdffbdsu/דבלה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hpbarqho/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח את דובל'ה גליקמן, שחקן וחבר, עם אורחת מיוחדת שמצטרפת לארוחה: הזמרת רונה קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844349/",
+       "id": "844349",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 26 - רוני דלומי",
+       "logo": "https://www.kan.org.il/media/tsqnmeeo/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uvqcxxuk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "במטבח של חיים כהן מתארחת הפעם הזמרת והשחקנית רוני דלומי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844348/",
+       "id": "844348",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 12 - ירדנה ארזי",
+       "logo": "https://www.kan.org.il/media/25rexakh/screenshot-2025-05-29-082908.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hvcqp8yd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "הזמרת ירדנה ארזי וחברותיה להרכב \"שוקולד מנטה מסטיק\" מתארחות במטבח של חיים כהן לארוחה מלאת גבינות לכבוד שבועות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844347/",
+       "id": "844347",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 13 - יניב סוויסה",
+       "logo": "https://www.kan.org.il/media/03ahzpeb/22.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_84p1e5ji/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח במטבח את הקצב הכי מפורסם במדינה: השחקן יניב סוויסה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844346/",
+       "id": "844346",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 11 - רוני קובן",
+       "logo": "https://www.kan.org.il/media/cl1pn1ld/שום-פלפל-פרק-11-לאתר-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5q58vvon/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "העיתונאי ומגיש הטלוויזיה רוני קובן מגיע ל\"פגישה קולינרית\" מרתקת וטעימה במטבח של חיים כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844345/",
+       "id": "844345",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 10 - רותם אבוהב",
+       "logo": "https://www.kan.org.il/media/voklc443/שום-פלפל-פרק-10-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hj6c8n85/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח את השחקנית והקומיקאית רותם אבוהב לשיעור מצחיק ומרגש בבישול למשפחה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844344/",
+       "id": "844344",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 9 - עמוס תמם",
+       "logo": "https://www.kan.org.il/media/ynqlns3d/פרק-9-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tp6w6eme/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "השחקן עמוס תמם מגיע למטבח של חיים כהן לארוחה שמעלה זיכרונות של אוכל מהבית, וריחות של תבלינים מהשוק ברמלה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844343/",
+       "id": "844343",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 8 - ספיישל עצמאות - יחי זינו וחיילים",
+       "logo": "https://www.kan.org.il/media/sg1f1ovh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nd7pnd7j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "ספיישל עצמאות! השפים חיים כהן ויחי זינו מבשלים ארוחה חגיגית לאיתן כבל וצוות המילואימניקים האגדי שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844342/",
+       "id": "844342",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 7 - מירי מסיקה",
+       "logo": "https://www.kan.org.il/media/dp2ogxct/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p7vwy0zm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "הזמרת מירי מסיקה מתארחת במטבח של חיים כהן לבשל מנות מרגשות שהיא אוהבת במיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844341/",
+       "id": "844341",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 2 - יונה קפח",
+       "logo": "https://www.kan.org.il/media/cb1fpxjz/תמונה-לאתר-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hswnkozk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "שום פלפל ושמן זית באווירה פורימית. השף חיים כהן מארח במטבח את הקומיקאית יונה קפאח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844339/",
+       "id": "844339",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 1 - ישראל קטורזה",
+       "logo": "https://www.kan.org.il/media/ixbfeoh2/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ofm2mxel/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "תכנית האוכל האהובה חוזרת לעונה חדשה. בפרק פתיחה מצחיק ומרגש חיים כהן מבשל לקומיקאי האהוב ישראל קטורזה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844338/",
+       "id": "844338",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 6 - מנדי וביתאן - ספיישל פסח",
+       "logo": "https://www.kan.org.il/media/k4ipxn3m/שום-פלפל-ומנדי-ביתאן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jn2ju7bg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "צמד השדרנים המצחיקנים מנדי וביתאן מגיע להתארח במטבח של חיים כהן לארוחה חגיגית וכשרה לפסח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844337/",
+       "id": "844337",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 5 - יוסי מרשק",
+       "logo": "https://www.kan.org.il/media/hykpu2ux/אתר-יוסי-מרשק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cyghoyug/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מבשל לשחקן יוסי מרשק ארוחה שמתחילה במטבח הטורקי ומסתיימת בברביקיו אמריקאי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844336/",
+       "id": "844336",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 4 - חן אמסלם",
+       "logo": "https://www.kan.org.il/media/c1sbkf2n/אתר-חן-אמסלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xjhon4cx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח במטבח את השחקנית חן אמסלם לארוחה עם הרבה פלפל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844335/",
+       "id": "844335",
+       "season": 2
+      },
+      {
+       "name": "שום פלפל ושמן זית 2025 | פרק 3 - דב נבון",
+       "logo": "https://www.kan.org.il/media/1hynkksa/תמונה-דב-נבון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_crfvm7v8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "חיים כהן מארח את השחקן דב נבון לארוחה שכולה זיכרונות מרגשים, טעימים ומצחיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/844334/",
+       "id": "844334",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 20 - תמרה אהרוני",
+       "logo": "https://www.kan.org.il/media/22fbdlmo/תמרה-אהרוני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ak4zjjh3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-03",
+       "plot": "פרק סיום העונה. חיים כהן מארח את תמרה אהרוני לקראת עליית התוכנית \"שום פלפל ברחבי ישראל\", במהלכה היא תחקור את חומרי הגלם הישראלים שמככבים ב\"שום פלפל ושמן זית\". אהבתם את האוכל? המתכונים המלאים מחכים לכם פה למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/756953/",
+       "id": "756953",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 19 - רינת צדוק",
+       "logo": "https://www.kan.org.il/media/ojop4va0/s0446476-digital00_01_43_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gxu57rjo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-23",
+       "plot": "חיים כהן מארח את רינת צדוק, מהקונדיטוריות המובילות בישראל, שכבשה את ניו-יורק עם אפייה ישראלית, והיום היא ממציאה את עצמה מחדש כמטפלת באמצעות בישול. אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינק למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/752953/",
+       "id": "752953",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 18 - גידי גוב",
+       "logo": "https://www.kan.org.il/media/0sbmzq1x/גידי-מחייך-משופר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_510gooyj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-14",
+       "plot": "חיים כהן מארח את גידי גוב לארוחת יום עצמאות מיוחדת שעושה כבוד למאכלים ישראלים קלאסיים מתקופת הצנע ועד ימינו. עם אורח מיוחד: ישראל אהרוני. אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינקים למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/749095/",
+       "id": "749095",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 17 - הילה אלפרט",
+       "logo": "https://www.kan.org.il/media/pwfffmf4/s0446480_100_15_46_10still004.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eni5k57o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "חיים כהן מארח את הילה אלפרט, חברה ותיקה, לארוחה שחוגגת את חומרי הגלם שלא זוכים למספיק תהילה. בזמן הבישול היא משתפת את חיים בסיפור חייה כפי שלא סופר מעולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/746286/",
+       "id": "746286",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 16 - ריימונד אמסלם",
+       "logo": "https://www.kan.org.il/media/1akozf5q/s0446479-youtube00_19_46_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0hvio8aq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-02",
+       "plot": "חיים כהן מארח את השחקנית ריימונד אמסלם. ביחד הם יכינו מנות קלאסיות מהמטבח המרוקאי, ויגייסו את תיקי דיין כדי להכריע בשאלה – איך מכינים מז'וז'ים? אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינקים למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/744364/",
+       "id": "744364",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 15 - לירז צ'רכי",
+       "logo": "https://www.kan.org.il/media/by1bvbw4/vlcsnap-2024-04-21-14h46m37s370.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o5gt3zjk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-21",
+       "plot": "חיים כהן מארח את השחקנית והזמרת לירז צ'רכי לארוחה חגיגית וכשרה לפסח, בנוסח יהדות פרס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/740787/",
+       "id": "740787",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 14 - יוני בלוך",
+       "logo": "https://www.kan.org.il/media/nkgcmk22/vlcsnap-2024-04-18-08h24m44s622.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7918v4m9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-19",
+       "plot": "חיים כהן מארח את יוני בלוך לארוחה שמורכבת ממנות ילדים, שמותאמות במיוחד \"לגדולים\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/739948/",
+       "id": "739948",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 13 - נעמי לבוב",
+       "logo": "https://www.kan.org.il/media/acdmtik1/טמבנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1zlpl643/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-02",
+       "plot": "חיים כהן מארח את השחקנית נעמי לבוב, בת להורים שעלו מאיטליה, לארוחה שכולה חגיגה של טעמים איטלקיים קלאסיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/732534/",
+       "id": "732534",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 12 - קרן אגם",
+       "logo": "https://www.kan.org.il/media/vh1guthz/טמבנייל-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0exv8fa9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-02",
+       "plot": "חיים כהן מארח את קרן אגם, בעלת הבלוג \"נשואה למאפיה\", לארוחה ולשיחה על החיים כבת למפוני סיני, ועל הפריחה והפריצה בגיל מאוחר. אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינק למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/732489/",
+       "id": "732489",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 11 - שי אביבי",
+       "logo": "https://www.kan.org.il/media/haidlzr0/s0446477_100_18_09_17still004.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_can7zrzi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "חיים כהן מארח את שי אביבי לארוחה צמחונית שמתחילה בעשן מדורות ומסתיימת בקינוח אלגנטי. אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינק למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/730107/",
+       "id": "730107",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 10 - אנה ארונוב",
+       "logo": "https://www.kan.org.il/media/kxlbeppb/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sh7nn32z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-17",
+       "plot": "חיים כהן מארח את אנה ארונוב לארוחה חד פעמית ומלכותית שנעה בין ארמונות הצאר במוסקבה לארמון האליזה בפריז. אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינק למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/724242/",
+       "id": "724242",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 9 - ירדן ג'רבי",
+       "logo": "https://www.kan.org.il/media/okyll00g/יחצ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4fkrpx80/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-11",
+       "plot": "חיים כהן מארח את המדליסטית האולימפית ירדן ג'רבי בתוכנית מיוחדת שמוקדשת למנות וטיפים לאירוח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/719466/",
+       "id": "719466",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 8 - נאיפה מולא",
+       "logo": "https://www.kan.org.il/media/zl0bikgp/s0446471-t.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pzxcetjp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-28",
+       "plot": "לרגל יום האישה, חיים כהן מארח את המסעדנית נאיפה מולא שגדלה בחברה מסורתית, יצאה נגד הסטיגמות, פרצה את תקרת הזכוכית והיום היא מחזיקה בכוחות עצמה מסעדה מצליחה שמפרנסת עשרות עובדות ועובדים. אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינקים למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/713027/",
+       "id": "713027",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 7 - יניב ביטון",
+       "logo": "https://www.kan.org.il/media/o2zjv453/vlcsnap-2024-02-28-09h21m24s115.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l2155sjn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-28",
+       "plot": "חיים כהן מארח את השחקן והקומיקאי יניב ביטון (\"היהודים באים\") שסובל מחרדת מטבח. האם חיים יצליח לעזור ליניב להתגבר על הפחד ולהתחיל לבשל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/713013/",
+       "id": "713013",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 6 - אורלי זילברשץ",
+       "logo": "https://www.kan.org.il/media/yuvbhe1a/s0446469-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v93g82fx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-20",
+       "plot": "חיים כהן מארח את השחקנית אורלי זילברשץ לארוחת דגים מפוארת שכולה כח נשי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/707868/",
+       "id": "707868",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 5 - נועה קולר",
+       "logo": "https://www.kan.org.il/media/lgoam0vv/חיים-כהן-נוער-קולר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_chgatvyo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-15",
+       "plot": "חיים כהן מארח את כוכבת \"קופה ראשית\" נועה קולר. הוא ינסה להפיג את חששותיה מהמטבח, והיא תנסה להגיש תוכנית בישול משלה. אהבתם את האוכל, המתכונים המלאים מחכים לכם בלינק למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/704892/",
+       "id": "704892",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 4 - גל מלכה",
+       "logo": "https://www.kan.org.il/media/tmvlfwye/שום-פלפל-וגל-מלכה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_shhetko2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-05",
+       "plot": "חיים כהן מארח את גל מלכה, כוכבת הסדרה \"המפקדת\". חיים יבשל לגל את המנות האהובות עליה, והם ישוחחו על המעבר מחיי המושב אל אור הזרקורים, ועל חייה בימים אלו כאשת מילואימניק. אהבתם את האוכל? המתכונים המלאים מחכים לכם בלינק למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/698498/",
+       "id": "698498",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 3 - רותי ברודו ",
+       "logo": "https://www.kan.org.il/media/gqljtikv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9xf7aaug/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-30",
+       "plot": "חיים כהן מארח את רותי ברודו, ומחזיר אותה לטעמי הילדות. רותי חולקת סיפורים שמעולם לא חשפה על ילדותה כבת לניצולי שואה, וגם את הטיפים לגולאש המושלם. אהבת את האוכל? המתכונים המלאים מחכים לכם בלינק למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/695047/",
+       "id": "695047",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 2 - ליאור אשכנזי",
+       "logo": "https://www.kan.org.il/media/jc1dxhv2/לאתר-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9c2xawd3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-23",
+       "plot": "חיים כהן מחזיר את השחקן ליאור אשכנזי אל המסורת ששניהם חולקים מבית אבא, בארוחה של מנות קלאסיות מהמטבח הטורקי שכל אחד יכול להכין בבית. אהבתם את האוכל? המתכונים מחכים לכם בקישור למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/690718/",
+       "id": "690718",
+       "season": 1
+      },
+      {
+       "name": "כש\"בואו לאכול איתי\" פגשה את \"שום פלפל ושמן זית\"",
+       "logo": "https://www.kan.org.il/media/dqfbelv0/3160_shum_pilpel_orry_final_tv_clean_02628.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a0iyhr89/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-18",
+       "plot": "רגע לפני שתוכנית הבישול המיתולוגית חוזרת למסך, רועי, המנצח מ\"בואו לאכול איתי\" 7, פגש את השף חיים כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/687053/",
+       "id": "687053",
+       "season": 1
+      },
+      {
+       "name": "שום פלפל ושמן זית 2024 | פרק 1 - חיים ילין",
+       "logo": "https://www.kan.org.il/media/1qcck0sy/s044646400_12_09_15still005.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ndeg43dr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-17",
+       "plot": "תוכנית הבישול המיתולוגית חוזרת אל המסך. בפרק הבכורה, השף חיים כהן יארח את חיים ילין לארוחה ארגנטינאית עם ניחוחות של בית. בין מנה אחת לשנייה, יספר חיים ילין סיפור שטרם חשף. אהבתם את האוכל? המתכונים המלאים מחכים לכם בקישור למטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s1/686084/",
+       "id": "686084",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

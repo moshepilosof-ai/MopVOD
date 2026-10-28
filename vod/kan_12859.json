@@ -1,0 +1,232 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - משפחה בהסעה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12859/",
+   "series_id": "12859",
+   "updated": "2026-10-28 12:31",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "משפחה בהסעה עונה 3 | פרק 7 - איך שגלגל מסתובב",
+       "logo": "https://www.kan.org.il/media/rj5njrg2/משפחה7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lweapif0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "קובי לא מסכים עם שיטות החינוך של בנו, פז הוא החבר הכי טוב של אבא – ומוותר על חייו שלו, ונטלי ומרסל מעלות אפשרות של מעבר לדיור מוגן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s3/882782/",
+       "id": "882782",
+       "season": 3
+      },
+      {
+       "name": "משפחה בהסעה עונה 3 | פרק 6 - חבל הטבור",
+       "logo": "https://www.kan.org.il/media/v1lcg4zi/משפחה6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ce6hpjah/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "הבנות מתוודות בפני האימהות על האופן בו חוו אותן מילדות ועד היום. חנה ורינת מדברות על הצורך להתנתק זו מזו, איילת ואוריה מלבנות את יחסיהן בראי ה-7.10, ואירה ורחלי מגלות מחדש זו את זו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s3/882778/",
+       "id": "882778",
+       "season": 3
+      },
+      {
+       "name": "משפחה בהסעה עונה 3 | פרק 5 - מוטב מאוחר מאשר אף פעם",
+       "logo": "https://www.kan.org.il/media/43ubqwyv/משפחה5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qf8fx1s3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "ההורים והילדים מדברים בגילוי לב על המשקעים שנוצרו בעקבות שנים רבות של סודות משפחתיים שהוסתרו. עכשיו, בגיל מבוגר, הם מעיזים סוף סוף לגעת בכאב, ולחלוק אחד עם השני את כל האמת כולה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s3/882774/",
+       "id": "882774",
+       "season": 3
+      },
+      {
+       "name": "משפחה בהסעה עונה 3 | פרק 4 - אישה של פעם",
+       "logo": "https://www.kan.org.il/media/suoom1pu/משפחה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_15cm36ma/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "האימהות והבנות של \"משפחה בהסעה\" מדברות על הפערים בתפיסת מעמד האישה אז והיום, על הגשמה עצמית ללא גבולות, על אומץ ועוצמה חוצת תרבויות. שראל וינגוסה, בנות העדה האתיופית, מדברות על זוגיות ואהבה בראי הדורות; אליסיה חוששת שלבתה, מירית, אין זוגיות; ויהודית מעולם לא קיבלה את העובדה שבתה, טל, יצאה מהארון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s3/882769/",
+       "id": "882769",
+       "season": 3
+      },
+      {
+       "name": "משפחה בהסעה עונה 3 | פרק 3 - תחנה אחרונה",
+       "logo": "https://www.kan.org.il/media/r4rbpp30/משפחה3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e25kbsig/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "ההורים והילדים מתמודדים עם שלדים מהעבר המשפחתי: אסי מנסה לסלוח לאביו אחרי שנים של כעס, לידיה רוצה לדעת שבתה \"מסודרת\" לפני שהיא הולכת לעולמה, ושמי רוצה לקצר את חייו אך מיה בתו מתנגדת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s3/882768/",
+       "id": "882768",
+       "season": 3
+      },
+      {
+       "name": "משפחה בהסעה עונה 3 | פרק 2 - ילדים של אהבה",
+       "logo": "https://www.kan.org.il/media/4u0o3hup/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949520/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "האם משקעים מגירושי ההורים בילדות עוברים כאשר מתבגרים? המשפחות משוחחות לראשונה על ההשלכות של החיים כילדים להורים פרודים, בייחוד לקראת הגיל השלישי. טל רוצה שאמו תרפה ממנו ותגשים את עצמה, הקירבה של קים ואמה מקשה עליה למצוא זוגיות, ושחף מתוודה בפני אביו על הרתיעה ארוכת השנים ממנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s3/882761/",
+       "id": "882761",
+       "season": 3
+      },
+      {
+       "name": "משפחה בהסעה עונה 3 | פרק 1 - חשבון פתוח",
+       "logo": "https://www.kan.org.il/media/n0kjxvkz/משפחה1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mae6jd8m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "הפעם ההורים יהיו אלה שיסעו ברכב עם הוריהם, בני הגיל השלישי. הנסיעה יחד היא הזדמנות לדבר על דברים שמעולם לא עלו בעבר, עם אפשרות לסגור חשבונות ולהשלים לפני שיהיה מאוחר מדי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s3/882748/",
+       "id": "882748",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "משפחה בהסעה 2 | פרק 10 - לקיים או לא לקיים?",
+       "logo": "https://www.kan.org.il/media/umofhs5q/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kyly8vae/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-09",
+       "plot": "כשהההורמונים משתוללים: אבא של גאיה מתחלחל מהמחשבה שלבתו יש חבר, אמא של נעמה מקבלת זריקת מציאות על חיי אהבה של בתה, הילה סוגרת חשבון עם אמא על כך שמין תמיד היה טאבו בבית ועומר מספר על אהבה על הספקטרום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/480265/",
+       "id": "480265",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה 2 | פרק 9 - לא כמו כולם",
+       "logo": "https://www.kan.org.il/media/ilvpysjn/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7qcfctht/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-09",
+       "plot": "המשפחות ידברו על כמה חשוב להיות חלק מהכלל, וכמה חשוב למצוא את מקומך הייחודי בעולם. איך ילי מתמודדת עם המבטים והתגובות ללוק שלה? איך החיים בין יהודים וערבים משפיעים על ליאן? מה אמא של תום חושבת על המיניות המוחצנת שלו? והאם יואל הוא באמת איש מבוגר שכלוא בגוף של נער?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/480260/",
+       "id": "480260",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה 2 | פרק 8 - כבר לא קטינים",
+       "logo": "https://www.kan.org.il/media/iu4nztxh/artboard7-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lldnqeab/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-09",
+       "plot": "עם הגיעם לגיל 18, חלק מהמתבגרים רוצים עצמאות ולהתנתק מחבל הטבור. והפעם: יובל רוצה לחגוג במסיבה עם אלכוהול לחרדתו של אבא; עינב מתחננת לאמא שתיתן לה לצאת מגבולות קריית מוצקין; גאיה רוצה שאבא יפסיק לעקוב אחריה וזוהר חוככת בדעתה האם לפתוח את תיק האימוץ שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/480258/",
+       "id": "480258",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה עונה 2 | פרק 5 - בית חרושת לציונים",
+       "logo": "https://www.kan.org.il/media/ik5jqaq1/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ftkgyrra/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-09",
+       "plot": "האם בכלל צריך בית ספר ב-2023? ישנם פערים רבים בין התחושות של בני הנוער ובין המשמעות וחשיבות המסגרת עבור הוריהם. המתבגרים ישוחחו על הקשיים בלימודים, הביקורת שלהם על המערכת, ועל ריטלין והשפעותיו החברתיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/480037/",
+       "id": "480037",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה 2 | פרק 7 - הג'ונגל החברתי",
+       "logo": "https://www.kan.org.il/media/p2gii4ht/טמבנייל-אתרר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hpgxlobd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "המתבגרים ישוחחו בפתיחות על קשיים חברתיים והתמודדות עם בדידות וחרדה. והפעם: אליאן עדיין מתקשה להתגבר על חרם ואלימות שעברה; תמר מסבירה באריכות במה מתבטאת חרדה חברתית; ולירון מבטיחה לאבא שתמיד תנסה לראות את החלשים והלא מקובלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/463493/",
+       "id": "463493",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה עונה 2 | פרק 6 - כשתגדלו תבינו",
+       "logo": "https://www.kan.org.il/media/0eugdekd/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_awhe6de2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "הבדלים בתפיסות עולם בין המתבגרים להורים: אלכס הפמיניסטית הולכת ראש בראש עם אביה השמרן; אגם מסרבת להנציח את המעמד המגדרי שאמא קבעה בבית; וליאן מתקשה לשמור על האיזון בין החיים בין החברה המוסלמית לזו היהודית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/463490/",
+       "id": "463490",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה עונה 2 | פרק 4 - מראה מראה שעל הקיר",
+       "logo": "https://www.kan.org.il/media/u3rfeaai/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rg41ncng/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "בני נוער רבים עוסקים בדימוי הגוף, המשקל והמראה החיצוני שלהם. המתבגרים ישתפו את ההורים בקשיים שלהם, שהובילו את חלקם לבעיות אכילה והרעבה, וגם ההורים ישתפו בחוויות שלהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/463481/",
+       "id": "463481",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה עונה 2 | פרק 3 - איך כסף בא לעולם",
+       "logo": "https://www.kan.org.il/media/qj1pugfo/טמבנייל-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wpnkc0aj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "איך כסף בא לעולם? כסף הוא נושא שחשוב מאוד להורים להשריש בילדיהם. נפגוש את הפערים בתפיסות הכלכליות בין המתבגרים להורים שלהם, כמו פינוק ובזבזנות יתר. לחלק מהמשפחות קריירה רווחית והצלחה חשובה יותר ולחלק פחות, ולגישות האלה יש השפעה גדולה על המתבגרים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/463477/",
+       "id": "463477",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה עונה 2 | פרק 2 - משפחה זה כואב",
+       "logo": "https://www.kan.org.il/media/jgujbq3d/טמבנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_soyintty/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "הורים ומתבגרים מדברים על הכל ברכב המשפחתי. והפעם: \"משפחה זה כואב\". איך ממשיכים לחיות יחד אחרי גירושים? איך מתמודדים כשההורים בנישואים פתוחים או כשאחד ההורים הולך לעולמו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/463474/",
+       "id": "463474",
+       "season": 2
+      },
+      {
+       "name": "משפחה בהסעה עונה 2 | פרק 1 - נא לא לגעת",
+       "logo": "https://www.kan.org.il/media/xfeehye0/s0399266_1_4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qugwkiv6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-27",
+       "plot": "אין הורה שלא מפחד על הילד שלו בצאתו לעולם. חלק מההורים מגוננים יותר או פחות, מה שמשותף הוא שכל המתבגרים בטוחים שההורים דאגנים, ושהם יודעים כבר הכול על העולם. המשפחות ישוחחו על הסכנות דרך חוויות אישיות. הסכנות ברשת, בעולם האמיתי, ובהקשרים המיניים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s2/463471/",
+       "id": "463471",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "משפחה בהסעה | פרק 1 - בואו נדבר על סקס",
+       "logo": "https://www.kan.org.il/media/salh4u2p/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53855_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dbtwwmer/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מפסיקים להתבייש ונותנים להורמונים להשתולל. מה יצוף לפני השטח כאשר ההורים והילדים ידברו על מין ומיניות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/s1/131343/",
+       "id": "131343",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "משפחה בהסעה - הצצה | \"אז מה אם את בת 18?\"",
+       "logo": "https://www.kan.org.il/media/epvjtsrg/משפחה-בהסעה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yvaz5r6b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "גאיה מסבירה לאבא שלה שהוא לא יכול לצאת איתה למסיבות ובילויים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/856478/",
+       "id": "856478"
+      },
+      {
+       "name": "משפחה בהסעה - הצצה | תפסיק לעקוב אחריי",
+       "logo": "https://www.kan.org.il/media/k2hpaugt/משפחה-בהסעה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_se9b1wrk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "יובל מסבירה לאבא שלה שזה לא תקין לשלוח את התלמידים שלו לעקוב אחריה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12859/856477/",
+       "id": "856477"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

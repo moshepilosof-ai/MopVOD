@@ -1,0 +1,103 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - החמאם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-371806/",
+   "series_id": "371806",
+   "updated": "2026-10-28 09:49",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טריילר | החמאם",
+       "logo": "https://www.kan.org.il/media/4saakoc2/1920x1080_no-logo-חמאם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949974/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-27",
+       "plot": "סיפור תנ\"כי נשכח מתעורר מחדש לחיים דרך חיילי מוצב ה\"חמאם\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/974877/",
+       "id": "974877",
+       "season": 1
+      },
+      {
+       "name": "החמאם | פרק 6 – יום הדין",
+       "logo": "https://www.kan.org.il/media/2e0pdvlo/פרק-6-לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936465/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-01",
+       "plot": "יום כיפור מתקרב, הסופה סוגרת על החמאם, ודודי ואורי מתנגשים במסלול מסוכן. מיקה נלחמת להציל את מה שנשאר - האם יקשיבו לה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/383232/",
+       "id": "383232",
+       "season": 1
+      },
+      {
+       "name": "החמאם | פרק 5 – איילת חן",
+       "logo": "https://www.kan.org.il/media/ccofspaa/החמאם-פרק-5-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936464/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-30",
+       "plot": "המחלקה מנסה להתאושש, ודודי נקלע לעימות מסוכן שמערער אותו מבפנים. במקביל, מיקה חושפת רמזים חדשים והפאזל מתחיל להתחבר: מתברר שהקללה שריחפה מעל שאול לא נעלמה, וממשיכה לאיים על מי שנשאר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/380478/",
+       "id": "380478",
+       "season": 1
+      },
+      {
+       "name": "החמאם | פרק 3 – גבעת האנטנה",
+       "logo": "https://www.kan.org.il/media/jpyhvc1r/חמאם-פרק-3-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936434/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-30",
+       "plot": "סיפור הגבורה של דודי תופס תאוצה, ושאול מרגיש את הקרקע בורחת. בזמן שדודי נשאב לדרמה של אורי ובטי, שאול נתקל בגילויים מוזרים בגבעת האנטנה ובמיושבת הבדואית - שרק מערערים אותו עוד יותר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/380471/",
+       "id": "380471",
+       "season": 1
+      },
+      {
+       "name": "החמאם | פרק 4 - מלכות חדשה",
+       "logo": "https://www.kan.org.il/media/zeac1xkp/החמאם-פרק-4-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936463/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-30",
+       "plot": "דודי מתרגל להנהיג, אבל מערכות היחסים סביבו מסתבכות. המתח עם מיקה, הסדקים עם יוני ומסיבת ראש השנה מערערים אותו. וכשכולם חוזרים לחמאם - משהו מתחת לפני הקרקע מאיים להתפרץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/380469/",
+       "id": "380469",
+       "season": 1
+      },
+      {
+       "name": "החמאם | פרק 2 - ניגון עתיק",
+       "logo": "https://www.kan.org.il/media/yyrpanf3/פרק-2-לאתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936433/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-30",
+       "plot": "הצוות מנסה לעכל את הטלטלה. שאול מנסה לא לשקוע ונשען על דודי, שמתחיל להפתיע ולבלוט. במקביל מיקה יוצאת לחקירה ומגלה רמזים לכך שמשהו עמוק ומטריד מתחולל בחמאם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/380468/",
+       "id": "380468",
+       "season": 1
+      },
+      {
+       "name": "החמאם | פרק 1 - המנחוס מנחוס",
+       "logo": "https://www.kan.org.il/media/esxmw4q4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936432/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-30",
+       "plot": "צוות לוחמים צעיר תחת פיקודו של סגן שאול שיראזי מגיע למוצב שכוח-אל בבקעת הירדן. רצף אירועים מסתוריים מערער את תחושת הביטחון שלהם. שאול מנסה לשמור על פאסון, אבל משהו בו נסדק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/380463/",
+       "id": "380463",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "טריילר | החמאם",
+       "logo": "https://www.kan.org.il/media/4saakoc2/1920x1080_no-logo-חמאם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949974/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-18",
+       "plot": "סיפור תנ\"כי נשכח מתעורר מחדש לחיים דרך חיילי מוצב ה\"חמאם\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371806/981764/",
+       "id": "981764"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - רצח למהדרין",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-748227/",
+   "series_id": "748227",
+   "updated": "2026-10-28 13:13",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "רצח למהדרין | פרק ג' - אות קין",
+       "logo": "https://www.kan.org.il/media/ipkfve2j/אות-קין-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6khu4a07/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-12",
+       "plot": "בהמשך חיפושיו אחר זהות מזייף מסכת הקידושין, יואב מגיע למלון בו הרב שיינפלד והרב פרנקל מתארחים. הוא מגלה פרטים מטרידים שמעידים על צירופי מקרים ועל ממזרים הרחוקים מן העין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-748227/s1/748272/",
+       "id": "748272",
+       "season": 1
+      },
+      {
+       "name": "רצח למהדרין | פרק ב' - המת החי",
+       "logo": "https://www.kan.org.il/media/qquh25d2/המת-החי-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7rvlvylu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-12",
+       "plot": "האחים הבלגים נכנסו לתמונה עם כיסים מלאים בניסיון למצוא את מזייף הכתובה, אבל המסע הולך ומתפתל עם גילויים מרעישים משנים עברו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-748227/s1/748262/",
+       "id": "748262",
+       "season": 1
+      },
+      {
+       "name": "רצח למהדרין | פרק א' - מסכת קידושין",
+       "logo": "https://www.kan.org.il/media/ndcobkwj/מסכת-קידושין-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xqfqp9vy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-12",
+       "plot": "הרב חיים יוסף פרנקל, סוחר ספרים עתיקים, נרצח באופן מסתורי ערב חג הסוכות. החשודים העיקריים הם חברי משמרות הצניעות של החברה החרדית, אבל מהו המניע שגרם להם לפעול?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-748227/s1/748255/",
+       "id": "748255",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "רצח למהדרין | הצצה",
+       "logo": "https://www.kan.org.il/media/zvpdz34h/רצח-למהדרין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_05jgl1w0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "למה הרב חיים יוסף פרנקל נרצח?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-748227/938918/",
+       "id": "938918"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

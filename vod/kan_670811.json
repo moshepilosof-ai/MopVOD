@@ -1,0 +1,418 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עשרים פלוס | פרקים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670811/",
+   "series_id": "670811",
+   "updated": "2026-10-28 13:06",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "עונה 2 | פרק 1 - שכנים חדשים",
+       "logo": "https://www.kan.org.il/media/4htcke4m/esrimplus0201.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_crwa53m6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויצמן ועידו יוצאים לחגוג את חיי החופש והרווקות. ויצמן פוגש חבר לשעבר והפגישה גורמת לו להרגיש שהוא נשאר מאחור. ויצמן עוזר למיקי להתקבל לעבודה ומתחיל להסתכל עליה בעיניים אחרות. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673536/",
+       "id": "673536",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 2 - בלי לערב הורים",
+       "logo": "https://www.kan.org.il/media/u3snfbck/esrimplus0202.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4jxzodu5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עידו מגלה להפתעתו שהוריו עומדים להיפרד. הקשר בין ויצמן למיקי מתפתח מאחורי הגב של עידו. בני וטלי מתווכחים על תליית תמונה. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673533/",
+       "id": "673533",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 3 - דיברתי איתך על אהבה",
+       "logo": "https://www.kan.org.il/media/00afjgdp/esrimplus0203.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o8uzb30j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עידו מבחין בקשר הרומנטי בין השותפים. הקשר בין מיקי לוויצמן מתחיל להקשות על מיקי. עידו מתעמת עם אביו.\nבני וטלי מתמודדים עם שגרת הזוגיות שלהם. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673530/",
+       "id": "673530",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 4 - אל תגידי שלום",
+       "logo": "https://www.kan.org.il/media/ppmhlaeg/esrimplus0204.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h5ivsnxv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עידו נגרר לרומן כפול ללא מחויבות רגשית. ויצמן לוחץ על מיקי, ובעקבות זאת היא עוזבת ועוברת לערבה. אחותו של בני מגיעה לביקור וחושפת את ציפיות המשפחה לגבי הקשר. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673527/",
+       "id": "673527",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 5 - דרוש שותף איכותי",
+       "logo": "https://www.kan.org.il/media/qf4aukin/esrimplus0205.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n23fv0uy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עידו עוזר לוויצמן להתגבר על משבר הפרידה ממיקי. והם מחפשים שותף שלישי. טלי מוצאת עבודה ובני עדיין מובטל. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673524/",
+       "id": "673524",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 6 - המלצת השף",
+       "logo": "https://www.kan.org.il/media/z3xjbpcy/esrimplus0206.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5q03dh9v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויצמן ועידו מתקשים להסתגל לנוכחות של איילה. ויצמן מתחיל למלצר בבית הקפה. עידו והילה מתקרבים.\nבני פוגש חברת ילדות והם מעלים זיכרונות, למורת רוחה של טלי. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673521/",
+       "id": "673521",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 7 - שישי שבת",
+       "logo": "https://www.kan.org.il/media/w1rnvbkd/esrimplus0207.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5avpwequ/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויצמן ועידו מככבים ללא ידיעתם בסרט וידיאו שצילמה איילה. השלושה הולכים להתקלח אצל בני וטלי וזוכים לארוחת ליל שבת. עידו מבלה בבריכה עם הילה ויותם ונהנה מאוד. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673518/",
+       "id": "673518",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 8 - חיי כלב",
+       "logo": "https://www.kan.org.il/media/gucjobov/esrimplus0208.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_57ee7l90/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הקשר בין עידו והילה מתערער כשהוא מגלה שהיא התחמקה ממנו. איילה עסוקה בקניות בגדים בעוד שוויצמן מאמץ כלב נטוש. בני וטלי מארחים חבר מובטל. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673512/",
+       "id": "673512",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 9 - דנדוש",
+       "logo": "https://www.kan.org.il/media/vpofo4ce/esrimplus0209.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xcpwwrj8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שפרה מנסה לשדך לוויצמן קרובת משפחה. ויצמן מוזמן לנסיעה על אופנוע. איילה לומדת עם ידיד ונקלעת למצב לא רצוי. עידו מתאכזב מהילה. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673509/",
+       "id": "673509",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 10 - מישהו דופק בדלת",
+       "logo": "https://www.kan.org.il/media/22sb0yjx/esrimplus0210.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ob9m7u5b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עידו נאלץ לעבוד בסטודיו לצילום. הקשר עם הילה במשבר. איילה מסתבכת עם סוכן שטיחים. ויצמן שוב פוגש את שלומציון. אחותו של בני באה לבקר. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673506/",
+       "id": "673506",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 11 - נוסטלגיה",
+       "logo": "https://www.kan.org.il/media/0z2c2ffn/esrimplus0211.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_363ymv4j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איילה לומדת נהיגה. ויצמן מגיע לפגישה עיוורת. עידו פוגש את חברתו מהתיכון. בני מוצא מכתב אהבה שכתבה טלי ונהג צועק על שפרה בבית הקפה. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673503/",
+       "id": "673503",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 12 - חבר מביא חבר",
+       "logo": "https://www.kan.org.il/media/0ndhe5or/esrimplus0212.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8bj94jrx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויצמן מעודד את עידו לעבוד בבית הקפה, אך מקנא בהצלחתו. ויצמן מגלה את האמת על העבודה של עידו. שיחת נפש לילית מתפתחת בין עידו לדנה. איילה מצלמת סרט פרסומת בהשתתפות בני וטלי. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673500/",
+       "id": "673500",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 13 - סיפורי סבתא",
+       "logo": "https://www.kan.org.il/media/xazh5d3x/esrimplus0213.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qxydfr1o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סבתא באה לבקר בזמן שאיילה מנסה להתקבל לקורס דיילות. שפרה מודאגת ומבולבלת לקראת האימהות וויצמן יורד לאילת כדי להתרחק מעידו, שמעביר לילה עם דנה. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673497/",
+       "id": "673497",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 14 - מעל ומתחת פני הים",
+       "logo": "https://www.kan.org.il/media/d0ol0yb0/esrimplus0214.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vr572y4p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויצמן ועידו מתעמתים, ולמרות זאת נהנים מצלילה משותפת באילת. איילה וחברתה מבלות בפאב ונקלעות לקטטה אלימה. ויצמן שוב פוגש את שלומציון. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673494/",
+       "id": "673494",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 15 - שלושה חודשים מראש",
+       "logo": "https://www.kan.org.il/media/ndthumxj/esrimplus0215.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ko0b0e6l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שלושת השותפים נדרשים לשלם שכר דירה מראש, ונעזרים בחבר עורך הדין של איילה במאבק על המשכורות שלהם. ויצמן מותש משלומציון ומחדש את הקשר עם שחר. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673491/",
+       "id": "673491",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 16 - בחירות",
+       "logo": "https://www.kan.org.il/media/e24i02gb/esrimplus0216.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mrb8zl90/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איילה מתקבלת לקורס דיילות ומכינה ארוחה חגיגית לחברים. עידו עובד על קמפיין בחירות לראש המועצה.\nשלומציון מציעה לוויצמן ערב חופשי והוא מתייחס לזה בחשדנות. עידו נתקל בחברה מהעבר. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673488/",
+       "id": "673488",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 17 - חופשי זה לגמרי לבד",
+       "logo": "https://www.kan.org.il/media/nffb1gt0/esrimplus0217.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_58eh6dsf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עידו מרגיש בודד בין שני זוגות האוהבים בדירה, ומתלבט אם לחדש את הקשר עם תמר.\nויצמן מחליט ללכת עם שלומציון לסדנת מדיטציה, אבל היא לא מגיעה. ויצמן ובני מנהלים שיחת נפש על הקשיים שבאהבה. שודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673485/",
+       "id": "673485",
+       "season": 2
+      },
+      {
+       "name": "עונה 2 | פרק 18 - חג האהבה",
+       "logo": "https://www.kan.org.il/media/jrlnqeqs/esrimplus0218.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yuxlzjry/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בבית הקפה מתכננים לחגוג את ט\"ו באב. ויצמן ושלומציון מתפייסים וגם עידו ותמר מתקרבים. בערב חג האהבה מגיעים לבית הקפה ויצמן ושלומציון, איילה מחליטה להיפרד מסער, ותמר מגיעה לחגוג עם עידו. שודק בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s2/673481/",
+       "id": "673481",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עונה 1 | פרק 1 - כבר לא אקטואלי",
+       "logo": "https://www.kan.org.il/media/hzcli2u1/esrimplus01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a7znlfyj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויצמן ועידו מחפשים שותף שלישי לדירה, הם מכינים שאלון ארוך ומפורט למועמד אך מיקי, שבאה לראות את הדירה קובעת עובדה בשטח ולוקחת את החדר. שודרה בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673955/",
+       "id": "673955",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 2 - צו קריאה",
+       "logo": "https://www.kan.org.il/media/we0mlfbr/esrimplus02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n05w11qe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עידו מקבל צו מילואים ל \"30 יום תעסוקה מבצעית\" ומנסה לקבל פטור בדרכים שונות בעזרת לירון, החבר \"הקומבינטור\". שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673952/",
+       "id": "673952",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 3 - עשינו עסק",
+       "logo": "https://www.kan.org.il/media/ecrdqief/esrimplus03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kk1x284t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויצמן מקבל דירה לשיפוץ גדול ולוקח לעזרה פועל רומני. נקודות המפגש שלו עם בעלת הבית, עם ויצמן המעסיק אותו ועם החברים בדירה, מציג פנים שונות של תופעת העובדים הזרים בארץ. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673949/",
+       "id": "673949",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 4 - זה ייגמר בפיצה",
+       "logo": "https://www.kan.org.il/media/w25cqkgi/esrimplus04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qofpvkhy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השלישיה עוברת סדרת ארועים שונים של חדירה לפרטיותם. החל מסוקרת שדופקת על דלת הדירה ומטרידה בשאלות אישיות, ועד חיטוט בכביסה האישית של מיקי. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673946/",
+       "id": "673946",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 5 - בעזרת השם",
+       "logo": "https://www.kan.org.il/media/rqplq5bp/esrimplus05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8qsa28fc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הפרק מפגיש אותנו עם אריאל, החבר הדתי של מרקוביץ'. הם נפגשים ללמוד יחד לבחינה בפסיכולוגיה, וכך הוא נחשף ל - \"כללי הדת\". שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673943/",
+       "id": "673943",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 6 - בחזרה למקום הפשע",
+       "logo": "https://www.kan.org.il/media/weapke5y/esrimplus06.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gzpnohaz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פריצה אצל השכנים למטה, מכניסה את מיקי לבהלה, היא חוששת להישאר לבד, במקביל ויצמן מחפש את דרכו בחיים. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673937/",
+       "id": "673937",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 7 - בליינד דייט",
+       "logo": "https://www.kan.org.il/media/vyhnt0fh/esrimplus07.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eofc2k59/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "למיקי ולויצמן אין תוכנית לערב שישי, ובכל זאת הם מופתעים ומוצאים את עצמם בבילוי ספונטני. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673934/",
+       "id": "673934",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 8 - שריקות, מדים, ואפטרשייב",
+       "logo": "https://www.kan.org.il/media/1awl31pq/esrimplus08.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ayn7tdeg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חבר של ויצמן מהשייטת מגיע לחופשה מהצבא ומתארח בדירה. נוכחותו מעוררת אצל כל אחד משהו, ומשפיעה על הסדר הפנימי: מיקי קצת מתאהבת בו, ויצמן מהרהר בחזרה לצבא, ומרקוביץ' מקנא בסוג החברות ה\"צבאית\" המיוחדת. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673931/",
+       "id": "673931",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 9 - לוותר על הסמבה",
+       "logo": "https://www.kan.org.il/media/ev2dgwk0/esrimplus089.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e2xwbfav/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חודש לפני חתונתה בורחת הדס, חברת ילדות של מיקי, ומגיעה לדירת השותפים. כל אחד מגיב אחרת לנושא החתונה שעומדת על הפרק. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673928/",
+       "id": "673928",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 10 - עצמאות כלכלית",
+       "logo": "https://www.kan.org.il/media/j0mfbsrv/esrimplus10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i4ha9rew/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מרקוביץ' מגלה שאבא שלו לא יכול לשלם יותר ומתמודד עם נושא הפרנסה של אנשים צעירים הבונים את עתידם. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673925/",
+       "id": "673925",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 11 - בקצה, קרוב לגבול",
+       "logo": "https://www.kan.org.il/media/mdfk4nxl/esrimplus11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m8ck3svi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "למיקי יש חבר חדש, עידו נזכר שהוא מכיר אותו ומתפתח ויכוח בין ויצמן למרקוביץ' בשאלה האם הם צריכים להתערב או לא. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673922/",
+       "id": "673922",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 12 - חשבון נפש",
+       "logo": "https://www.kan.org.il/media/izmmjcye/esrimplus12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gf9unib2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השלושה מתמודדים עם שאלות על השגחה, שכר ועונש וסליחה ומחילה. ויצמן מחליט לצום, ובהמשך מצטרפים אליו גם מיקי ומרקוביץ', כולם משתתפים במשחק בנושא סודות וחטאים ויצמן מתוודה על חטא שעשה כלפי עידו. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673919/",
+       "id": "673919",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 13 - איזון עדין",
+       "logo": "https://www.kan.org.il/media/yidckfqs/esrimplus13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9sa7d0v3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מצב היחסים בין מרקוביץ' לויצמן הולך ומתדרדר למריבות קשות. בתוך כל זה, ידידו של מרקובייץ', אריאל, עורך תצפית על התנהגות השלושה בדירה. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673916/",
+       "id": "673916",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 14 - משלושה יוצא אחד",
+       "logo": "https://www.kan.org.il/media/mcsi2va5/esrimplus14.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w7pvr9qm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בניסיון להראות אסרטיביות, מיקי מחליטה ללכת לתוכנית שידוכים בטלוויזיה. ויצמן ומרקוביץ' מגלים את תוכניתה ומצטרפים גם הם לתוכנית. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673913/",
+       "id": "673913",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 15 - חזרת",
+       "logo": "https://www.kan.org.il/media/t55ezypx/esrimplus15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5mj4496w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מיקי, שחלתה בחזרת, נעזרת באחותה באירגון מסיבת יום הולדת 80 לסבה, ומרקוביץ' מסתבך עם הטסט לאוטו. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673910/",
+       "id": "673910",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 16 - תקרא לזה מזל",
+       "logo": "https://www.kan.org.il/media/cfol2k2t/esrimplus16.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nr5ji3sc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בחיים יש מזל או צירופי מקרים? מרקוביץ', ויצמן ומיקי מתחבטים בשאלה זו לאור החוויות השונות והמשונות שעוברות עליהם. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673889/",
+       "id": "673889",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 17 - תעודת זהות",
+       "logo": "https://www.kan.org.il/media/qtqkour4/esrimplus17.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zbmm8bki/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הופמן מאבדת את תעודת הזהות שלה ממש לפני מבחן חשוב ומאבדת את העשתונות. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673886/",
+       "id": "673886",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 18 - חרוסת",
+       "logo": "https://www.kan.org.il/media/phlbdpe1/esrimplus18.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lbr7cr3o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ערב פסח, ושלושת השותפים מחליטים לערוך ליל סדר חברים בדירתם,  החברים נוטשים אותם ברגע האחרון. ולמרות זאת, הם עורכים סדר פסח שמח עם מסובים חדשים. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673883/",
+       "id": "673883",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 19 - בית פתוח",
+       "logo": "https://www.kan.org.il/media/fajllcjv/esrimplus19.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yg3abojz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השכנה בבניין בו גרים שלושת השותפים, נאלצת להשאיר את בנה בן ה-3 חודשים למשמרת בידי עידו. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673880/",
+       "id": "673880",
+       "season": 1
+      },
+      {
+       "name": "עונה 1 | פרק 20 - קום והתהלך בארץ ",
+       "logo": "https://www.kan.org.il/media/a1bn35cy/esrimplus20.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o90t1pbv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק אחרון של העונה הראשונה. השלושה יוצאים לטיול בטבע שבמהלכו הם פוגשים דמויות שונות: חייל המשרת בלבנון, תיירת אוסטרלית ובדואי עם סיפור משלו. שודר בשנת 1997",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/s1/673876/",
+       "id": "673876",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "עשרים פלוס עונה 1 | פתיח",
+       "logo": "https://www.kan.org.il/media/supdcfos/עשרים-פלוס-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6d6vca4s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "פתיח לסדרה \"עשרים פלוס\" עונה 1",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670811/943587/",
+       "id": "943587"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

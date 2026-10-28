@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הטיול הגדול",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13461/",
+   "series_id": "13461",
+   "updated": "2026-10-28 09:49",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הטיול הגדול 2 - הצצה | ההר שמושך אליו אלפי מבקרים ",
+       "logo": "https://www.kan.org.il/media/ed2fpa4m/הטיול-הגדול-2-הצצה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c2a9gngm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "מה יש באולימפוס שמושך אליו כל כך הרבה מטיילים ומטפסים מכל העולם?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13461/859002/",
+       "id": "859002"
+      },
+      {
+       "name": "הטיול הגדול 2 - הצצה | למה שאנשים ירצו לצאת למסע כזה? ",
+       "logo": "https://www.kan.org.il/media/mwqp2nyd/הטיול-הגדול-2-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ehmurn5n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "הזוג הספרדי שיוצא לגלות מה מושך מטיילים בחופשה למסלולי ההליכה הארוכים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13461/858999/",
+       "id": "858999"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

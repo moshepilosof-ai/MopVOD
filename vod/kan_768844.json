@@ -1,0 +1,339 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הגורם האנושי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-768844/",
+   "series_id": "768844",
+   "updated": "2026-10-28 09:46",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הגורם האנושי | מתן חלם להיות הסאונדמן של הנובה - ממנה לא שב",
+       "logo": "https://www.kan.org.il/media/0zig0j1x/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252978/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-07",
+       "plot": "\"יש פה מחבלים בטנדרים שעומדים לשטוף אותנו\": מתן ליאור כל כך שמח שבחרו בו לעשות את הסאונד של מסיבת הנובה, בה הוא נרצח. יגיל רימוני, מפיק ומנהל האבטחה של המסיבה, מספר על הזוועות שראה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/1106924/",
+       "id": "1106924",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | אני חיה עם כתמים על הגוף",
+       "logo": "https://www.kan.org.il/media/by1plq0n/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241980/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "אזהרת טריגר: פגיעה מינית. \"אני מוכתמת בפנים שלי, אני מוכתמת בגוף שלי\". צופיה הפכה את ההתמודדות עם הויטיליגו לעסק שעוזר לרפא את הגוף (והנפש)",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/1095370/",
+       "id": "1095370",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | קיבוץ חדש בישראל",
+       "logo": "https://www.kan.org.il/media/d4hdik5d/9_02718.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230830/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "\"38 שנים לא קם קיבוץ בישראל\": גל עזב את הצבא בדרגת תת-אלוף כדי להגשים חלום ולהקים קיבוץ חדש בנגב. למרות הקשיים, בעיות בדרך, הבירוקרטיה והשכנים בסביבה - גל מאמין שתוך שנה הקיבוץ ייפתח לכל מי שרק ירצה לבוא להתיישב",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/1083582/",
+       "id": "1083582",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | אהרון ידיעות",
+       "logo": "https://www.kan.org.il/media/b45jbh1x/frame-4-website.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181096/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-26",
+       "plot": "אהרון ידיעות רק בן 20 וכבר מפעיל ערוץ חדשות בוואטסאפ עם מאה אלף עוקבים. הפחד הכי גדול שלו זה שתיגמר הסוללה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/1019043/",
+       "id": "1019043",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | טיפול חדשני לפוסט-טראומה",
+       "logo": "https://www.kan.org.il/media/lbgpgytl/02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2115033/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-25",
+       "plot": "\"להיות באותו גוף, בלי כל הטרפת הזאת\": יכול להיות שיש דבר כזה זריקה נגד פוסט טראומה? ד\"ר יפתח גולוב, שסובל מפוסט טראומה בעצמו, הלך לנסות להזריק זריקה מהפכנית, אותה הוא מגדיר \"הזריקה אל האושר\", שמפחיתה תסמיני של PTSD",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/992634/",
+       "id": "992634",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | יעלה מרימה במסיבות - על כיסא גלגלים",
+       "logo": "https://www.kan.org.il/media/0d3gw03u/06.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1929889/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-18",
+       "plot": "כיף איתה במסיבות: כשיעלה הייתה בת 3 חודשים היא חלתה בפוליו, מה שגרם לה לשיתוק ברגליים. למרות כל הקשיים, ובעזרת ההורים שעשו הכול בשביל שלא תרגיש שונה, יעלה לא נותנת לנכות לעצור אותה. היא יוצאת להרים במסיבות ובפסטיבלים על הכיסא שלה, ומאמינה באמונה שלמה שהיא בסדר - והעולם דפוק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/971665/",
+       "id": "971665",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | יגאל אמן הגרפיטי",
+       "logo": "https://www.kan.org.il/media/xuuflhtu/02.webp",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891632/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "\"התיעוד הזה חייב להישאר לעד\": לפני 30 שנה יגאל שתיים צייר על קיר בפלורנטין את הרגע בו יגאל עמיר נתפס במצלמה רוצח את ראש הממשלה יצחק רבין. עברו השנים, הקיר כוסה בציור אחר, והיום יגאל מצייר אותו מחדש",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/967196/",
+       "id": "967196",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | אופקית מנהלת את מאהל החטופים בירושלים",
+       "logo": "https://www.kan.org.il/media/uirlk1v5/20251013_kan_c5715mp418_31_54_03still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890994/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-22",
+       "plot": "בזמן שהיא עוברת תהליך להתאמה מגדרית, לומדת לתואר ומפונה מביתה בשדרות - אופקית מצאה בית וקהילה במאהל החטופים בירושלים. מעל שנה היא גרה שם, באוהל קטן בתוך המאהל, מנהלת את המאבק להשבת החטופים, ולא תוותר עד שיחזור החטוף אחרון",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/962681/",
+       "id": "962681",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | יובל הגנן",
+       "logo": "https://www.kan.org.il/media/hghdsdd5/0000_project-name_tv-clean_00813.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cw4k524i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-12",
+       "plot": "\"החיים מתרחשים איפה שיש משכורת מינימום\": יובל הוא גנן (בגן ילדים, כן?) וסטנדאפיסט שאומר תודה על כל רגע שהוא לא עובד בהייטק. אחרי שגויס למילואים ב-7 באוקטובר, הוא מצא לעצמו טייטל חדש - הגנן של האמבולנס, וגילה שבעצם יש הרבה קווי דמיון בין מילואימניקים לגננות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/940546/",
+       "id": "940546",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | \"מיוחדים\": היכרויות לאנשים עם מוגבלויות",
+       "logo": "https://www.kan.org.il/media/rztfspmr/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_asuvf209/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-10",
+       "plot": "\"גם אדם עם צרכים מיוחדים זכאי לאהבה וחברים\": שלמה ביטון הוא בן לאמא \"מיוחדת\" שמאמין שלכולם מגיעה אהבה. אחרי שראה המון לבבות שבורים מדייטים עם אנשים \"רגילים\", הוא החליט להקים אתר היכרויות לאנשים עם מוגבלויות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/939909/",
+       "id": "939909",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | מנחה למיניות ברשת",
+       "logo": "https://www.kan.org.il/media/ds0mqkdg/vlcsnap-2025-06-04-12h26m49s854.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5wsly4d6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-04",
+       "plot": "\"מותר להתענג\": לנה לילה עוזרת לאנשים להתחבר לאנרגיה המינית שלהם, בעיקר בתקופת המלחמה המורכבת. היא מסייעת לגברים ונשים להחלים מפצעי עבר שנוגעים באינטימיות וברשת היא כבר הפכה לכוכבת עם מאות אלפי צפיות לסרטונים שלה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/915168/",
+       "id": "915168",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | שביל גבול הצפון",
+       "logo": "https://www.kan.org.il/media/zxcbvy1i/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bcec81eb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-11",
+       "plot": "\"כמו שחיזבאללה מסתכל עלינו, ככה אנחנו נסתכל עליהם\":  שמואל, מודי ומאיר הם פנסיונרים ואנשי צבא לשעבר שכבר שנים חולמים לפתוח את שביל הטיול הבא של ישראל בגבול הצפון. יחד הם חונכים מחדש את האזור הנטוש שעמוס במורשת קרב, ומקווים להפיח בו שוב חיים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/901499/",
+       "id": "901499",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | סבתא בורסה עושה כסף",
+       "logo": "https://www.kan.org.il/media/wbtnsfik/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_151a09fz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-15",
+       "plot": "\"חשבתי שאני סבתא ושכבר מאוחר\": מפגש עם מגדת עתידות הוביל את מיכל ליבנה ללמוד איך עושים כסף, בזמן שמעט מאוד אנשים בארץ התעסקו בתחום. היום היא סבתא בת 78 ואושיית טיקטוק שמלמדת נשים וצעירים על ניירות ערך, מניות ובורסה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/882672/",
+       "id": "882672",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | \"יש לי מצפה כוכבים בבית\"",
+       "logo": "https://www.kan.org.il/media/lqpck2rl/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_283yqqwq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-17",
+       "plot": "אילן שפירא ממושב שתולים חולם לראות את הכוכב ביטלג'וז מתפוצץ, ויש לו שישה טלסקופים שיעזרו לו לעשות זאת. האהבה שלו לאסטרונומיה התחילה לפני שש שנים, כשקנה את הטלסקופ הראשון שלו לרגל ליקוי ירח. מאז הוא הספיק לבנות לעצמו מצפה כוכבים בבית ולהגיע עם התמונות המרהיבות שלו למגזינים בינלאומיים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/861218/",
+       "id": "861218",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | מזקקה בחניתה",
+       "logo": "https://www.kan.org.il/media/aykjod5y/juv_006_00164.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6q1rug6f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-10",
+       "plot": "שתיתם פעם משקה עם 60% אלכוהול? יובל \"ג'וב\" הוא חקלאי שלוקח את התוצרת שלו ופשוט מתסיס ומזקק אותה. מאז המלחמה, המקום הקסום שלו בקיבוץ חניתה מושבת, והוא רק מחכה שוב להגיש את המשקאות שלו מגזר, מחרובים, ואפילו מפריקי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/858271/",
+       "id": "858271",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | מירוץ הגמלים החוקי הראשון בישראל",
+       "logo": "https://www.kan.org.il/media/5mpbt1cl/12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d2m5djzi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-24",
+       "plot": "יניב שלמה, \"החות'י\", הוא הממונה על החברה הבדואית מטעם משרד התפוצות. אחרי שנים של מירוצי גמלים בלתי חוקיים ומאמצים אדירים לאכוף אותם, החליט יניב ליצור שינוי ולהפוך את האירוע הכי חשוב של הבדואים שמסמל מסורת וכבוד, לחוקי. נתראה בשנה הבאה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/828220/",
+       "id": "828220",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | היום אתה לא יכול למות בלי סטיקר",
+       "logo": "https://www.kan.org.il/media/3ctb2bde/whatsapp-image-2024-11-14-at-205733_cd928b4d.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oeck4gko/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-14",
+       "plot": "אילון ויס נפל בצפון רצועת עזה, בתוך הטנק שלו. אשתו נטע ובנותיו חיפשו משפט אחד שלו, שיוכל לגעת בכולם. הן החליטו להסב את הרכב ששימש אותו מאז תחילת הלחימה לאנדרטת סטיקרים, והסתובבו בארץ בין משפחות שכולות כדי לאסוף עוד סיפורים וסטיקרים לרכב, שהוצב בהר הרצל: \"היום אתה לא יכול למות בלי סטיקר\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/824707/",
+       "id": "824707",
+       "season": 1
+      },
+      {
+       "name": "חואניטה ניגנה עם נינה סימון ולואי ארמסטרונג - ומופיעה גם בגיל 92",
+       "logo": "https://www.kan.org.il/media/efvlibqk/vlcsnap-2024-11-13-09h52m09s887.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2tymcm36/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-13",
+       "plot": "היא ניגנה עם נינה סימון, בילי הולידיי ולואי ארמסטרונג אבל אז עזבה את ניו-יורק ועלתה לישראל. חואניטה אוולין כהן סמית', פסנתרנית ג'אז שגם בגיל 92 לא מפסיקה להופיע. \"הגורם האנושי\" יורדים לפסטיבל הג'אז באילת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/824009/",
+       "id": "824009",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | אבא שלי חטוף בעזה",
+       "logo": "https://www.kan.org.il/media/eakb5rae/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jnholrlw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-10",
+       "plot": "\"אם היית אומר לי שזה יקח שנה, יש מצב הייתי מתאבדת\", שיר סיגל סופרת כל יום עד שאבא שלה, קית' סיגל, יחזור מהשבי. \"החיים שלי זה לעבוד בלהחזיר אותו הביתה\", היא אומרת ומסבירה מה בכל זאת שומר עליה בתקופה הזאת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/822638/",
+       "id": "822638",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | אנדרטה תת ימית",
+       "logo": "https://www.kan.org.il/media/r1cddj3o/vlcsnap-2024-10-13-19h46m43s193.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v9cp3zvs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "באוניברסיטת בן גוריון מדפיסים במדפסת תלת מימד אלמוגים ושוניות מלאכותיות כדי להתגבר על נזקים שיד האדם יצרו. לאחר 7 באוקטובר הם התחילו להדפיס שוניות בצורת ילדים המנציחים חטופים או חיילים שנהרגו במלחמה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/812056/",
+       "id": "812056",
+       "season": 1
+      },
+      {
+       "name": "אמא, פונדקאית ומילואימניקית",
+       "logo": "https://www.kan.org.il/media/kntnek2r/ליאת-גולן-ישראלי-הגורם-האנושי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b9kbzaul/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-05",
+       "plot": "מאז 7 באוקטובר ליאור גולן ישראלי מתפקדת כמילואימניקית במשרה מלאה, אמא לשניים וגם פונדקאית בפעם השנייה. היא מספרת על הסבתא המאמצת שהובילה אותה לקבל את ההחלטה המורכבת ועל איך הגיבו החברים מהמילואים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/796894/",
+       "id": "796894",
+       "season": 1
+      },
+      {
+       "name": "הגורם האנושי | \"לסכן את עצמי בשביל הנחשים זה הכי הגיוני\"",
+       "logo": "https://www.kan.org.il/media/iaglaqn1/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5xx53aac/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-12",
+       "plot": "טוהר אלמדוי מקרית שמונה לא מוכן לוותר על הזוחלים האהובים שלו גם כשהעיר תחת ירי ומטחים בלתי פוסקים. גם בזמן אזעקות, הוא נוסע לטפל בהם כשהוא יודע שהוא היחידי שיכול לעשות זאת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/783395/",
+       "id": "783395",
+       "season": 1
+      },
+      {
+       "name": "מפעל קסום של אדם אחד: נדב יוצר דמויות בבלוטים",
+       "logo": "https://www.kan.org.il/media/2pilptog/03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lbj2y81t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-23",
+       "plot": "גם בתקופות קשות של בדידות והסתגרות, היצירה בבלוטים עושה לנדב שמעוני טוב בלב. התנסות מקרית בשיעור אומנות הפכה למפעל קסום של אדם אחד, והרבה בלוטים וספלולים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/764495/",
+       "id": "764495",
+       "season": 1
+      },
+      {
+       "name": "בסמה רצתה להאכיל את כל חטיבה 300 - לזכר בעלה",
+       "logo": "https://www.kan.org.il/media/pzif144r/2_05785.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lvq6em19/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-02",
+       "plot": "\"המסעדה הדרוזית הכשרה הראשונה בעולם\": אחרי שאיבדה את בעלה בעקבות פעילות מבצעית, בסמה הנו החליטה לבשל לכל החטיבה שלו - והיא לא הייתה מוכנה שיהיה אפילו חייל אחד שלא יוכל לאכול",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/756364/",
+       "id": "756364",
+       "season": 1
+      },
+      {
+       "name": "הותיר אחריו יצירת אמנות: הציור של הלוחם שנפל בעזה",
+       "logo": "https://www.kan.org.il/media/nw0nlhkl/1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3k1cqw9k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-12",
+       "plot": "איתן רוזנצוויג נפל בלחימה ברצועת עזה כשהוא רק בן 21. למרות גילו הצעיר, הוא הותיר אחריו יצירת אומנות מיוחדת. הוריו החליטו להגשים את צוואתו, ולחשוף את היצירות שלו לעולם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/748410/",
+       "id": "748410",
+       "season": 1
+      },
+      {
+       "name": "המנטליסט הצבאי הראשון",
+       "logo": "https://www.kan.org.il/media/cjdpmbwh/vlcsnap-2024-02-26-10h34m18s758.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_te0dkrsd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-26",
+       "plot": "הכירו את נבו אבוטבול, המנטליסט הראשון בצה\"ל. את אורות הזרקורים שעל הבמה הוא מחליף באורות של האמר ואת האולמות באוהלים. מבחינתו מדובר בשליחות לכל דבר ועניין. אז איך מתמודדים עם אזעקה באמצע הופעה ומה עושים כשמישהו חושב על שם של הרוג ב-7 באוקטובר?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/711715/",
+       "id": "711715",
+       "season": 1
+      },
+      {
+       "name": " חרבות, 25 מיליון שקל ובובת החייאה של תינוק: יחידת השלל של צה\"ל",
+       "logo": "https://www.kan.org.il/media/islnyjgd/s0412458_item0600_07_27_09still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oux2f9qc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-08",
+       "plot": "מאות כלי נשק, מנשאים של RPG, חרבות, מזוודות של כסף ואפילו בובת החייאה של תינוק: ליווינו את סגן מפקד היחידה לפינוי שלל, עידן שרון קטלר, שסיפר לנו על כל הממצאים שצה\"ל אוסף ושומר במכולות ענק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/700472/",
+       "id": "700472",
+       "season": 1
+      },
+      {
+       "name": "מאי מבקרת פצועים תאילנדים - וגם תומכת בבנה שניצל מהמסיבה",
+       "logo": "https://www.kan.org.il/media/pkxn53fv/תאילנדית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hcxopaeg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-24",
+       "plot": "מאי שלום התאילנדית התחתנה עם ישראלי והשתקעה בארץ. בשבת השחורה הבן שלה היה במסיבה ברעים וניצל, ומאז היא מבקרת פצועים תאילנדים שמאושפזים לבדם בבתי החולים - מתווכת להם את השפה ומנסה לעודד אותם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/661176/",
+       "id": "661176",
+       "season": 1
+      },
+      {
+       "name": "גם מצילה חיים וגם עושה אחלה הסברה: הכירו את אליה הפרמדיקית",
+       "logo": "https://www.kan.org.il/media/eiyp0yw1/screenshot-2023-11-16-144810.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ir8c3yjl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-22",
+       "plot": "אליה עתאלי רק בת 24 וכבר עושה יותר מכולנו. היא משרתת במילואים בתור פרמדיקית לוחמת אבל במקביל גם נלחמת בזירה אחרת - זירת ההסברה. עם מיליון לייקים בטיקטוק ומאה אלף עוקבים, לא פלא שבפלוגה שלה כולם קוראים לה טיקטוק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/619070/",
+       "id": "619070",
+       "season": 1
+      },
+      {
+       "name": "\"כל אחד מכיר מישהו? אנחנו מכירים מאות\": מכללת ספיר נותרה שבורה",
+       "logo": "https://www.kan.org.il/media/uu2cfkal/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6ph2whbw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-07",
+       "plot": "מנכ\"לית \"ספיר\", אורנה גיגי, חוזרת לראשונה מאז השבת השחורה אל המסדרונות הריקים של המכללה. היא מספרת על הקהילה המיוחדת שנוצרה, שהאמינה בשלום ובציונות - ונשברה לרסיסים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/598930/",
+       "id": "598930",
+       "season": 1
+      },
+      {
+       "name": "\"הם מתו לי בידיים\": ארבעת אחייניו הצעירים של סעיד נהרגו מפגיעת רקטה בשבת השחורה",
+       "logo": "https://www.kan.org.il/media/2n2pdbmz/8.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1meglum1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-27",
+       "plot": "סעיד אלקרעאן הוא קצין בקבע מהפזורה הבדואית שמתגורר ליד ישוב מולדה. ביום שבת השחורה, אחת מהרקטות הרבות ששוגרו מעזה, פגעה פגיעה ישירה בבית אחיו וארבעת אחייניו הצעירים נהרגו. \"הם מתו לי בידיים, איבדנו את היקר לנו מכל\", הוא אומר בגרון חנוק ומביע אכזבה מהמדינה: \"מישהו צריך לתת פה פתרון. מגיעה לנו אזעקה ומגיע לנו מיגון כמו לכל אזרח ישראלי\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/584287/",
+       "id": "584287",
+       "season": 1
+      },
+      {
+       "name": "\"לא נשאיר אף חייל רעב במדינה\": הפוד טראק של אלי מגיע גם למקומות הכי נידחים",
+       "logo": "https://www.kan.org.il/media/byqnqfnd/dp_3010_03_tv_clean_01716.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mix7rrbg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-17",
+       "plot": "אלי חדד תכנן לפתוח פוד טראק עם משפחתו ליד נהריה אבל כל הזמן היו עיכובים. ביום שבת, אחרי התקיפה האכזרית, הוא החליט לפתוח אותו בחינם לחיילים ולאנשי הבטחון וההצלה. \"לא נשאיר אף חייל רעב במדינה. אנחנו מחפשים אותם בחורשות וביערות ומביאים להם אוכל\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-768844/s1/571436/",
+       "id": "571436",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

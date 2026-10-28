@@ -1,0 +1,433 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - זהו זה! הקלאסיקות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671183/",
+   "series_id": "671183",
+   "updated": "2026-10-28 10:30",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זהו זה | פרק 40 - חורבן הבית",
+       "logo": "https://www.kan.org.il/media/qf5fpbev/זהו-זה-תשעה-באב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7x41fkbg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-15",
+       "plot": "בפרק מיוחד לט' באב, מוני וגידי מגלמים את יוחנן החכם ורבן יוסף בן יחזקאל בהר הבית של שנת 70 לפנה\"ס, ברגעי חורבן בית המקדש השני. צמד הדודאים מגיעים לשיר, ודודו גבע מדבר על המהפכה הקוביסטית של פיקאסו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/931703/",
+       "id": "931703",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 39 - החזאים (הוריקן)",
+       "logo": "https://www.kan.org.il/media/wvzfd0o3/זהו-זה-חזאים-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z3tyx494/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-17",
+       "plot": "מוני ודבל'ה הם צמד חזאים כושלים שמנסים להציל את שמם הטוב. העניינים מסתבכים כשמישהו צועק לעברם \"אורי כאן\", ומוני, בטעות, מבין שמדובר באזהרה לסופת הוריקן – וממהר לדווח על כך ברדיו. הטעות הקומית הזו מובילה לגל של פאניקה ברחבי הארץ, אך גם מעניקה לשניים רגעים נדירים של תהילה. בפרק תוכלו למצוא גם את הלהיט האלמותי \"אמא שלי ממרוקו\" של להקת דור שני (צעירי קריית מלאכי)",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/887007/",
+       "id": "887007",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 38 - נס חנוכה",
+       "logo": "https://www.kan.org.il/media/pcsjq2ez/זהו-זה-ניסים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mec984ab/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-24",
+       "plot": "מוני ודוב'לה פותחים מאפייה לכבוד החג ולעזרתם מגיע ניסים מחברת \"נס חנוכה בע\"מ\" וגם הבוס הגדול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/839801/",
+       "id": "839801",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 37 - ספיישל חנוכה",
+       "logo": "https://www.kan.org.il/media/0sahxngl/זהו-זה-חנוכה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wowvbd44/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-16",
+       "plot": "חווה אלברשטיין, יהורם גאון, יגאל בשן ואילנה אביטל הם רק חלק מהכוכבים הגדולים שהתארחו בספיישל חנוכה החגיגי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/836758/",
+       "id": "836758",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 36 - בחירות באמריקה",
+       "logo": "https://www.kan.org.il/media/2a5pk35j/מוני-מושונוב-ודבלה-גליגמן-במערכון-על-הבחירות-בארהב-זהו-זה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gdo6g1ji/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-05",
+       "plot": "ג'ורג' בוש האב מתכונן לבחירות 1992 מול ביל קלינטון, אבל המשימה לא פשוטה כלל וכלל, מכיוון שעליו להתמודד עם הסיוטים על סדאם חוסיין, הסקרים הלא מחמיאים, ההיעלמות של לוצי הכלבה והדמנציה המתקדמת שלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/820673/",
+       "id": "820673",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 1 - בחירות 1984",
+       "logo": "https://www.kan.org.il/media/bu5hxltv/1984.jpg",
+       "url": "https://www.youtube.com/embed/yJxSK30bMb4",
+       "date": "2024-01-07",
+       "plot": "התקופה היא מערכת הבחירות של 1984. מוני וגידי מתמודדים זה בזה במערכת הבחירות על ראשות זהו זה. כל אחד מהם מנסה לשכנע את דבל'ה, האזרח הקטן, לבחור בו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679105/",
+       "id": "679105",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 11 - טיל בחירות",
+       "logo": "https://www.kan.org.il/media/vzcdy5bm/til.jpg",
+       "url": "https://www.youtube.com/embed/fe4aRps0BEg",
+       "date": "2024-01-07",
+       "plot": "קושניר ואלי גורנשטיין בפרק על תעמולת הבחירות לכנסת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679102/",
+       "id": "679102",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 12 - הלם בחירות",
+       "logo": "https://www.kan.org.il/media/wf1judb1/helem.jpg",
+       "url": "https://www.youtube.com/embed/mILqqPUHXBY",
+       "date": "2024-01-07",
+       "plot": "דובל'ה ומוני לא ממש מצליחים להבין איך כל העסק הזה, שנקרא בחירות, עובד. פרק פארודיה על מערכת הבחירות הישראלית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679099/",
+       "id": "679099",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 26 - בחירות 1992",
+       "logo": "https://www.kan.org.il/media/o3mjmj5d/1992.jpg",
+       "url": "https://www.youtube.com/embed/nh_kz5jQOF4",
+       "date": "2024-01-07",
+       "plot": "פרק אהוב ופופולרי במיוחד על הבחירות והמהפך של 1992, כולל המערכון המפורסם שבו יצחק רבין (גידי גוב) לא מצליח לומר את שמו של שמעון פרס",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679096/",
+       "id": "679096",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 9 - חשדות",
+       "logo": "https://www.kan.org.il/media/ftoj252e/1988.jpg",
+       "url": "https://www.youtube.com/embed/hcUdljaosxA",
+       "date": "2024-01-07",
+       "plot": "אמנון לא מבין מדוע הוא אינו מקודם בעבודה, ומתברר שבתקופת בחירות עובדים אחרים, \"מביני עניין\", כן מקודמים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679093/",
+       "id": "679093",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 7 - שר בלי תיק",
+       "logo": "https://www.kan.org.il/media/gkzix0za/adoni.jpg",
+       "url": "https://www.youtube.com/embed/siQS_d1TqJ0",
+       "date": "2024-01-07",
+       "plot": "ששון גבאי הוא שר בלי תיק, שמופתע לגלות שאף אחד לא הכין את המשרד לבואו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679090/",
+       "id": "679090",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 20 - מימון מפלגות",
+       "logo": "https://www.kan.org.il/media/xicgri1t/mimun.jpg",
+       "url": "https://www.youtube.com/embed/-zv-fvH-t48",
+       "date": "2024-01-07",
+       "plot": "המפלגה חייבת להחזיר מיליונים, אבל אין מאיפה לקחת את הכסף. מה עושים? מטילים מיסים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679087/",
+       "id": "679087",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 21 - בעקבות הח\"כ",
+       "logo": "https://www.kan.org.il/media/4awg5tzt/follow.jpg",
+       "url": "https://www.youtube.com/embed/Fswc24_tffQ",
+       "date": "2024-01-07",
+       "plot": "ליו''ר הקואליציה יש בעיה - אין לו רוב להצבעת האי-אמון הממשמשת ובאה, מכיוון שח''כ אברהם קיים נעלם ואף אחד לא יודע היכן הוא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679084/",
+       "id": "679084",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 25 - חברי כנסת",
+       "logo": "https://www.kan.org.il/media/p1whtdxy/kneset.jpg",
+       "url": "https://www.youtube.com/embed/lk81dnUswZw",
+       "date": "2024-01-07",
+       "plot": "אבנר גורניץ הוא שר-על. בדיוק כשהוא יוצא לחופשה, מגיע לביקור פתע שר החוץ האמריקאי. לכן צילה המזכירה, חייבת למצוא פתרון מיידי למחדל, פן תתרחש קטסטרופה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679081/",
+       "id": "679081",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 27 - השר לשעבר",
+       "logo": "https://www.kan.org.il/media/0vljgxes/hasar.jpg",
+       "url": "https://www.youtube.com/embed/0rSsCMDLwGw",
+       "date": "2024-01-07",
+       "plot": "לאחר 15 שנה בממשלה, המפלגה של יוסק'ה קרקר מפסידה את הבחירות, והחיים באזרחות מתגלים כקשים במיוחד עבור מי שהתרגל לחיות כל כך הרבה שנים על חשבון הציבור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679078/",
+       "id": "679078",
+       "season": 1
+      },
+      {
+       "name": "זהו זה - פרק 29 - מדינה חדשה",
+       "logo": "https://www.kan.org.il/media/utqniee2/medina.jpg",
+       "url": "https://www.youtube.com/embed/RUorDMV2Aso",
+       "date": "2024-01-07",
+       "plot": "טוביה כץ הוא עסקן מפלגתי מזדקן שלא מצליח להשיג לעצמו יותר ג'ובים. לעזרתו נרתם המנקה הפלשתיני של מטה המפלגה, שמציע לו לבוא לייעץ בהקמת מדינה פלשתינית דשה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679075/",
+       "id": "679075",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 30 - ועדת חקירה",
+       "logo": "https://www.kan.org.il/media/2mtpvoqx/vaadat.jpg",
+       "url": "https://www.youtube.com/embed/mcul0hpYEKY",
+       "date": "2024-01-07",
+       "plot": "התקופה: ימי ממשלת רבין. הנושא: ועדות חקירה שלא מאפיינות רק את ימי ממשלת רבין. הש.ג. מציע לרוה\"מ - בוא נקים ועדת חקירה לפני האסון. רעיון גדול?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679072/",
+       "id": "679072",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 31 - הצעת חוק",
+       "logo": "https://www.kan.org.il/media/qzhjhhsd/chok.jpg",
+       "url": "https://www.youtube.com/embed/zuKJrZJdYjg",
+       "date": "2024-01-07",
+       "plot": "מה אומרים על חוק המקצה 25% ממקומות החנייה לנשים בלבד? או חוק לפיו שדכן מוכר יהיה חייב להיות מעל גיל 30? הפריימריז הקרבים מביאים את הפוליטיקאים ליזום חוקים משונים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/679069/",
+       "id": "679069",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 2 - מלך רודניה",
+       "logo": "https://www.kan.org.il/media/pyldjwzm/rodania.jpg",
+       "url": "https://www.youtube.com/embed/cc9b9UGeCcc",
+       "date": "2024-01-07",
+       "plot": "פרק מיוחד ששודר ביום הבחירות ב-1984. בראבא הוא מלך עריץ בממלכת רודניה. בנו (דבל'ה) מנסה לשכנע אותו להפוך את המדינה לדמוקרטית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/678854/",
+       "id": "678854",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 4 - בית מלון (1986)",
+       "logo": "https://www.kan.org.il/media/wt2nqqt2/zeoze01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kz023ej9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אלימלך (דבל'ה) ואלכס (גידי) זוכים בחופשה במלון ועקב טעות נאלצים לחלוק חדר. העניינים מסתבכים כשאלימלך פוגש את החדרנית המפוזרת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676062/",
+       "id": "676062",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 3 - רוקי",
+       "logo": "https://www.kan.org.il/media/limdh1gv/zeoze02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uuw5hr79/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בעידודו של אביו, צעיר חלשלוש מגיע לאימוני איגרוף. האם יצליח לגבור על היריב המנוסה שהוצמד לו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676059/",
+       "id": "676059",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 28 - אולפן מזה ומזה",
+       "logo": "https://www.kan.org.il/media/cxpnsx2d/zeoze03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lw9exht3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כשחדוה ושלומיק הפכו לשלומ'קה ושוש'קה וגם - כל מה שרציתם לדעת על מסעדות ולא העזתם לשאול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676056/",
+       "id": "676056",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 8 - האחים בוז",
+       "logo": "https://www.kan.org.il/media/dchopvky/zeoze04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r61o29nj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "המן הרשע חטף את אסתריקה, ושני אחיה העבריינים נקראים להצילה. האם יצליחו? זאת ועוד בפרק מיוחד לפורים, עם עפרה חזה, מזי כהן ורמי קליינשטיין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676053/",
+       "id": "676053",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 32 - הקוטב בידינו: חלק א'",
+       "logo": "https://www.kan.org.il/media/1edlhi35/zeoze05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7if8x8hi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מוני ובראבא הם יונה וברגר, שני חברים, שמחליטים להיכנס לספר השיאים של גינס בכל מחיר ונקלעים לאיגלו בודד בקוטב הצפוני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676047/",
+       "id": "676047",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 33 - הקוטב בידנו: חלק ב'",
+       "logo": "https://www.kan.org.il/media/3fgm5dat/zeoze06.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_66z834so/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מוני ובראבא הם יונה וברגר, שמנסים להחזיק מעמד באיגלו בודד בקוטב הצפוני במטרה לשבור שיא גינס. כשמגיע הזוהר הצפוני, החברות שלהם עומדת למבחן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676044/",
+       "id": "676044",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 35 - קבוצת תמיכה",
+       "logo": "https://www.kan.org.il/media/k4caigge/batsoret.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h59z2bs2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "לסדנה הקבוצתית עם משה מגיעים אריק החוואי, רפול המושבניק ושמעון התל אביבי, לאחר שנחלו אכזבה ממערכות היחסים אחד עם השני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676041/",
+       "id": "676041",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 34 - סיפור הפרברים (1997)",
+       "logo": "https://www.kan.org.il/media/hrdcya1s/parvarim.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2fastyya/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השלישייה בגרסה עדכנית וסוחפת לשירי המחזמר הקלאסי וגם מערכון שיגרום לכם לשים לב למובן המילולי של כל ביטוי שנאמר בסביבתכם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/676038/",
+       "id": "676038",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 5 - סרט ערבי",
+       "logo": "https://www.kan.org.il/media/1nratb5z/zeuzearabfil.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_45ho9w17/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "דוב'לה ומוני בפרק מחווה בלתי נשכח לרצועת הסרט הערבי ששודר בימי שישי בערוץ הראשון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674329/",
+       "id": "674329",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 14 - הנגיף המזמר",
+       "logo": "https://www.kan.org.il/media/t4qpvolp/zeuzenagif.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a6tudpgv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מחזות הזמר והמופעים המוזיקליים הולידו מגפה מוזרה במדינה, שגורמת לכולם לשיר במקום לדבר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674326/",
+       "id": "674326",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 10 - בשיטור משודר",
+       "logo": "https://www.kan.org.il/media/vkffyau2/zeuzebeshitur.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n051ystg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בראבא נכנס לנעליו של רפי גינת, המנסה לפתור שוד בשידור חי, עוד לפני שהמשטרה מגיעה למקום הפשע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674323/",
+       "id": "674323",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 13 - היורדים",
+       "logo": "https://www.kan.org.il/media/wwodhsiw/zeuzehayordim.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nvrl50ju/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שמוליק (גידי גוב) יורד מהארץ ומגלה שהדשא של השכן באמת ירוק יותר, אבל המשק לא יכול בלעדיו ולכן הם שולחים את רובק'ה (מוני מושונוב) להחזיר אותו. האם שמוליק יסכים לעשות עלייה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674320/",
+       "id": "674320",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 16 - משפחת קוסבי",
+       "logo": "https://www.kan.org.il/media/eiwne5gh/01kosby.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3dkdr5eq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ד\"ר הקסטבל ואשתו קלייר חיים באושר בביתם המרווח, אך המעטה האידיאלי נסדק כאשר מתברר שאב המשפחה הוא פרזיט. פארודיה על קומדיית המצבים האמריקאית \"משפחת קוסבי\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674317/",
+       "id": "674317",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 24 - טיסה 357",
+       "logo": "https://www.kan.org.il/media/4t2fnjs4/02tisa.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_17k82qrh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הטיסה יוצאת למשימה, להביא לארץ את יהודי תאילנד. נחיתת חירום מפגישה בין צוות המטוס הנחוש לבין תרמילאים ישראלים והם מתעקשים להעלות אותם לארץ המובטחת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674314/",
+       "id": "674314",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 19 - מלכות יופי",
+       "logo": "https://www.kan.org.il/media/jrinspyc/03beauty.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8kpufnt6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הפרק מלווה את סוזי ושמחה (גידי ומוני) בדרכן לכתר מלכת היופי הנכסף, דרך וועדת הקבלה, האימונים המפרכים והטקס המשפיל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674311/",
+       "id": "674311",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 22 - אופנובנק",
+       "logo": "https://www.kan.org.il/media/wuaohacq/04ofnobank.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wmbmsvrc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "האופנובנק מטיל את אימתו על פקידי הבנקים וסוחף אחריו מעריצים מרחבי המדינה, אך המשטרה לא ממהרת לעצור אותו - חוץ מהמורה שלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674308/",
+       "id": "674308",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 18 - כנרת",
+       "logo": "https://www.kan.org.il/media/zesddhcx/zeuzekineret.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wco83dk2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שני דייגים מגלים בוקר אחד כי מפלס הכינרת ירד לשפל חסר תקדים ומוצאים פתרון יוצא דופן, לפחות עד שיגיע השקע החמקמק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/674302/",
+       "id": "674302",
+       "season": 1
+      },
+      {
+       "name": "זהו זה! | פרק 6 - רחוב שום שום",
+       "logo": "https://www.kan.org.il/media/50sizz5v/shumshumweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_40gh4315/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כשקיקי בן-בואש מנהל את רחוב שום שום, האווירה בשכונה לא הולמת תוכנית ילדים חינוכית. במקום יונה מופיעה ציונה חסרת הסבלנות, בואש מסריח מתנחל בביתו של קיפי ומתברר שעוגי מעדיף לאכול ילדים קטנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/672335/",
+       "id": "672335",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 16 - פנויים פנויות",
+       "logo": "https://www.kan.org.il/media/mfbph0se/פנויים-פנויות-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n3eyzxq5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שלמה ודפנה מאמללים זה את זה במערכת יחסים כושלת. לאחר מריבה קשה הם מנסים את מזלם בשוק הפנויים והפנויות ומגלים שחיפוש אחר שידוך הוא עסק מורכב. לבסוף הם לומדים שלכל סיפולוקס יש הבלון שלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/672332/",
+       "id": "672332",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 15 - משטרה",
+       "logo": "https://www.kan.org.il/media/kqcjtb55/משטרה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yozhir3e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "במקום לעצור את מכת הגניבות המתחוללת בשכונה, השוטרים לא מחמיצים שום הזדמנות לפשל- פארודיה על תפקוד המשטרה בשנות ה-80",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/672277/",
+       "id": "672277",
+       "season": 1
+      },
+      {
+       "name": "זהו זה | פרק 23 - מלחמת המפרץ: שבוע שלישי",
+       "logo": "https://www.kan.org.il/media/bcmhphsu/מלחמה-3-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b84que98/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "למה יש כל כך הרבה אזעקות שווא? יצאנו לבדוק מה קורה במרכז האזעקות הארצי, צ'יקו בן קיקו בודק באילו סרטים עם ישראל צופה בזמן המלחמה, הבאבא בובה נותן פרשנויות בגימטריה, והזקנים על הספסל מקטרים על הכול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/s1/671569/",
+       "id": "671569",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "זהו זה! הקלאסיקות | פתיח",
+       "logo": "https://www.kan.org.il/media/ldzou1dk/זהו-זה-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vdxwmrug/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "הפתיח האייקוני של סדרת הקלאט זהו זה!",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671183/943686/",
+       "id": "943686"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

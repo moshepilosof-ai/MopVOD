@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בין הכיסאות | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-724323/",
+   "series_id": "724323",
+   "updated": "2026-10-28 09:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בין הכיסאות | תוכנית 15 - בין הגלולה לחסידה",
+       "logo": "https://www.kan.org.il/media/2wpnyu1c/30-שנה-לגלולה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v74y4jsv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-24",
+       "plot": "במלאת 30 שנה להמצאת הגלולה למניעת הריון, תוכנית המוקדשת למהפכה שהביאה לארץ ישראל, ההשלכות ההתנהגותיות והרפואיות והלבטים שנשות ישראל נאלצות להתמודד איתם בנושא מניעת ההריון וחינוך מיני. יוסי לשם מנסה להסביר מעין הגיעה האגדה על החסידה שמביאה ילדים, ומה הקשר של הגלולה לפולקלור שעובר מדור לדור?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/728063/",
+       "id": "728063",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 14 - IN & OUT",
+       "logo": "https://www.kan.org.il/media/roglquox/שושיק-ודליה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fb1tbwtx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "מערכון בכיכובן של שושיק שני ודליה פרידלנד. דודו קופרמן, מנהל האולפן של \"בין הכיסאות\" מספר על עשייתו בזמן הפנוי והכתיבה על המסיבות בירושלים. מעצבת האופנה שלוה בן גל מספרת על הפריט היחידי שמעולם לא יצא מהאופנה וארי גושן, ארכיטקט, מדבר על הטרנדים האדריכליים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726852/",
+       "id": "726852",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 13 - היפנוזה רפואית",
+       "logo": "https://www.kan.org.il/media/13kdxmfh/היפנוזה-רפואית-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8rwabjnf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "השיטה הלא קונבנציונלית לטיפול בהרטבות לילה בגילאים בוגרים, עד כמה משמעותי ההבדל בין דמויות ילדים לתכונות הטבעיות של החיות עליהן הן מבוססות ותצוגת אופנה לקיץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726844/",
+       "id": "726844",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 12 - מתנה לחג הום-מייד",
+       "logo": "https://www.kan.org.il/media/hdvdgg3d/שי-לפסח-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2qxq0tkb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "יושבי ראש של מספר ועדי עובדים מגיעים לתחרות סמויה על המתנה השווה ביותר לחג הפסח. ד\"ר עלי שריף, התייר המצרי היחיד שמגיע לישראל למטרות חופשה ולא במסגרת נסיעת עבודה - מספר על העניין והחששות מביקור במדינה שחתומה על שלום קר. מיקה דרימר מדגימה מספר דרכים לשימוש בצעיפים - גם בקיץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726837/",
+       "id": "726837",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 11 - הגומל מכרמיאל",
+       "logo": "https://www.kan.org.il/media/sgldmaop/הגומל-מכרמיכאל-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h0m3aimz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "יצחק הרפזי, מספר על השיטה המתקדמת שעזרה לשמעון פרס ורבים אחריו להיגמל מההרגל הרע. עמוס ארבל יצא למשאל רחוב על התקנות הכלכליות שהועברו עם תחילת השנה האזרחית החדשה והזמין את צוות המומחים בראשות ד\"ר נחמן בן יהודה לדיון על ההשפעה של המצב המדיני על מצב הרוח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726822/",
+       "id": "726822",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 10 - יונה בלי עלה זית",
+       "logo": "https://www.kan.org.il/media/anmbxexf/מגדל-יונים-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bd9ef31r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "יוסקה מאירוביץ', המנצח בתערוכה בינלאומית על אספנות יונים, מספר על היונה המיוחדת שהביאה לו את הניצחון. יונת פרייליך וצוות הפאנל בדיון על מצב ההשתלות הרפואיות והתרומות שמגויסות למען עזרה רפואית לנדרשי ההשתלה. איתן דהארי, הספר שמשתמש בתוכנה מיוחדת במחשב, מדגים כיצד יראו השינויים שאנו מעוניינים אך חוששים לעשות במראה החיצוני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726815/",
+       "id": "726815",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 9 - מתכוננים לקיץ",
+       "logo": "https://www.kan.org.il/media/vygpjahz/מדוע-מזיעים-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_szfmfz38/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "ד\"ר מיכה הופ, שעוסק בחקר מחלות ואבולוציה, עונה על השאלה שהופכת חמה משנה לשנה: למה בני האדם סובלים כל כך מחום בקיץ? דליה כהן משתפת ברעיון החדשני והיעיל לקייטנה שמנוהלת על ידי ההורים עצמם, ומוכר האבטיחים שפותח את הבאסטה כבר מעל ל-20 שנה נותן את הטיפים המנצחים לבחירת אבטיח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726803/",
+       "id": "726803",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 8 - כוחו של הבגד",
+       "logo": "https://www.kan.org.il/media/u25j0tpr/בגדים-המשנים-תדמית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p4glgjay/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "האנשים בעלי שמות הפרטיים המיוחדים מגיעים לראיון מעניין באולפן. משפחת לנגפורד מספרים על יצירות האומנות שהם יוצרים ביחד מזכוכית. הדוגמנית דיטה מדגימה בעזרת אנשי המקצוע את כוחו של המראה החיצוני והשפעתו על התחושה הפנימית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726783/",
+       "id": "726783",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 7 - על חוט השערה",
+       "logo": "https://www.kan.org.il/media/bpunhdvm/תצוגת-תסרוקות-משוגעות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mab5a7yt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "רינה מנדלסון מגיעה לסדנת ציור על עץ, כמנהגם העתיק של האיכרים באירופה שעסקו בציור בימי החורף הקרים. דבורה חבקין ודוד בן יוסף מגיעים לאולפן לשיחה עמוקה על הקשר בין הגוף לנפש, ואת התוכנית סוגרת תצוגת התסרוקות שלא ראיתם בשום מקום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726732/",
+       "id": "726732",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 6 - הגבר בעידן הפמיניסטי",
+       "logo": "https://www.kan.org.il/media/foup5bwe/הגבר-בעידן-הפמיניסטי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rt56a2gz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "עמוס ארבל יוצא לסדרת ראיונות ופעילויות באולפן בתוכנית חגיגית שמוקדשת (כמעט) כולה לגברים - החל מהלבוש, המלחמה בהתקרחות והקשר ההדוק בינם לבין אנשי הציבור המוכרים בפוליטיקה הישראלית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726726/",
+       "id": "726726",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 5 - נפגעי פרשת קו 300 ",
+       "logo": "https://www.kan.org.il/media/bm3l3ofg/נפגעי-פרשת-קו-300.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kqyczg95/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "לאחר שהילד כפיר אוזמו נפצע ברגליו, הוא נותח באנגליה - וחזר ללכת. דוקטור אסתר עזיזי מגיעה לאולפן להעלות את המודעות לסיכונים הכרוכים בחשיפת יתר לשמש לקראת עונת הקיץ. ניצולי פרשת קו 300 שנחטף ע\"י מחבלים בראיון מרתק על החוויה המטלטלת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/726711/",
+       "id": "726711",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 4 - להתגרש מעו\"ד ומדענים מרקדים",
+       "logo": "https://www.kan.org.il/media/4hff22yw/התגרש-מעורך-הדין-שלך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_12h69fxr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-17",
+       "plot": "תוכנית גדושה באורחים שמדברים על ספר חדש, איך להיות יותר בריאים, לעבור את החורף בחיסכון, חיזוי העתיד כתופעה פסיכולוגית, מחקר בעכברים ומדענים המתגלים כרקדניות בטן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/724448/",
+       "id": "724448",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 3 - סולחה בעיר העתיקה",
+       "logo": "https://www.kan.org.il/media/ni2mmveh/סולחה-בעיר-העתיקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f68ecdht/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-17",
+       "plot": "פותחים דף חדש בנוסח ירושלמי, נבין לעומק מה גורם לבעיות פרקים, ונסיים בריקוד בנוסח ארגנטינאי. שודרה בשנת 1985",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/724430/",
+       "id": "724430",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 1 - וידוייה של גרושה, אופנת הכוהנים ומלכת היופי",
+       "logo": "https://www.kan.org.il/media/sekezypx/איידס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1n0e38dx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-17",
+       "plot": "מחלת המין שאף אחד לא רוצה לדבר עליה, מה עובר על נשים כשהן עולות במדרגות הרבנות, גילוף בחומר מיוחד, הקאמבק של הכוהנים ומלכת היופי לשנת 1985.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/724417/",
+       "id": "724417",
+       "season": 1
+      },
+      {
+       "name": "בין הכיסאות | תוכנית 2 - כאבי גב, תבלינים והישראלי הגונב",
+       "logo": "https://www.kan.org.il/media/rhlo5fem/כירופרקטיקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0gu4fr70/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-17",
+       "plot": "מה זה כירופרקטיקה, מה הסופר והעיתונאי מגדל על גג ביתו, עם איזה תופעה מתמודד מנכ\"ל חברת ביטחון ישראלית ומה היו הפרחים הכי מבוקשים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/s1/724337/",
+       "id": "724337",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בין הכיסאות | פתיח",
+       "logo": "https://www.kan.org.il/media/5q4ldlhk/בין-הכיסאות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fdid3w5o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית \"בין הכיסאות\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-724323/943395/",
+       "id": "943395"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

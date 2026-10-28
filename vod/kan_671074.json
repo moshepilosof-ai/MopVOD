@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הערב עם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671074/",
+   "series_id": "671074",
+   "updated": "2026-10-28 10:24",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הערב עם | פרק 5 - יהורם גאון",
+       "logo": "https://www.kan.org.il/media/lrcpjab2/yehoram.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k8idj44g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "\"רחל\", \"רוזה\" וגם שיר בלדינו, מערכון מתקופת התנ\"ך וביקור של הפרברים, בתוכנית עם האחד והיחיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677996/",
+       "id": "677996",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 4 - אילי גורליצקי",
+       "logo": "https://www.kan.org.il/media/xcxfhr4f/eilli.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gemy7h5c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שירים מתוך \"גבירתי הנאווה\", \"שוק המציאות\" ועוד, עם יונה עטרי ואורחים נוספים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677993/",
+       "id": "677993",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 7 - חוה אלברשטיין",
+       "logo": "https://www.kan.org.il/media/d0fpbd34/chava.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_55br6hdf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אהוד מנור במפגש של שיחה ושירים עם הזמרת האהובה והותיקה. בתוכנית: \"הדרך לאי שם\", \"אליעזר בן יהודה\", \"את חרותי\" ועוד. שודר בשנת 1972",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677990/",
+       "id": "677990",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 1 - מי אתה, מייק בורשטיין?",
+       "logo": "https://www.kan.org.il/media/xu1legbx/mike.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xhuceivb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית עם שיריו של השחקן והזמר, בה מתארחים גם משתתפי המחזמר שיער, שושיק שני, חוה אלברשטיין ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677987/",
+       "id": "677987",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 2 - מוטי גלעדי",
+       "logo": "https://www.kan.org.il/media/x1igckcu/moti.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u57ky85m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השחקן-זמר שהוא גם קומיקאי וכותב, משלב בתוכנית הכל יחד וגם מארח חברים לערב של שירה וכיף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677984/",
+       "id": "677984",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 3 - רבקה מיכאלי",
+       "logo": "https://www.kan.org.il/media/24jndgrw/rivka.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9uwxqy6n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אורחים מוכשרים, שירים, מערכונים, והכל בניצוחה של הגברת הראשונה של הבידור הישראלי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677981/",
+       "id": "677981",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 8 - גדי יגיל",
+       "logo": "https://www.kan.org.il/media/w1ajk4vt/gadi.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s6rjrung/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק של תחפושות, חיקויים והמון מוזיקה, בהשתתפות ירדנה ארזי ואפילו פופאי שקופץ לביקור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677978/",
+       "id": "677978",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 9 - אריס סאן",
+       "logo": "https://www.kan.org.il/media/v2fc00d2/aris.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6lu2nzx3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הזמר היווני הכי ישראלי שיש, עם הלהיטים הגדולים בשידור ממלון הילטון בירושלים. שודר בשנת 1973",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677975/",
+       "id": "677975",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 10 - דודו דותן",
+       "logo": "https://www.kan.org.il/media/snxpq1yj/dudu.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a9h8n605/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השחקן המוכשר מותח עוברי אורח תמימים ומחקה את כל הגדולים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677972/",
+       "id": "677972",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 12 - שושנה דמארי",
+       "logo": "https://www.kan.org.il/media/ny2psc2d/shoshana.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y89ftu3h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הזמרת והסטייל הנצחי שרה מכל להיטיה וגם מסבירה איך זה שהקול שומר עליה ולא להיפך",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677969/",
+       "id": "677969",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 11 - אילנה רובינא: לך איתה",
+       "logo": "https://www.kan.org.il/media/g1bdkup2/ilana.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zbjli5ke/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בשירה ומשחק לצד השמות הגדולים של התקופה, הזמרת והשחקנית מארחת תוכנית משלה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677966/",
+       "id": "677966",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 13 - בומבה צור",
+       "logo": "https://www.kan.org.il/media/nutdfnd1/bomba.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ubi17gs3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בין אם על במת התיאטרון או עם גיטרה ביד, הזמר והשחקן מארח חברים לתוכנית בלתי נשכחת. שודר בשנת 1977",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677963/",
+       "id": "677963",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 14 - צביקה פיק",
+       "logo": "https://www.kan.org.il/media/z4tkamkx/zvika.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3qf78xeu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הלהיטים הגדולים של שנות ה-70 לצד מערכונים משעשעים וחברים שמתארחים. שודר בשנת 1977",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677960/",
+       "id": "677960",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 16 - יוסי בנאי",
+       "logo": "https://www.kan.org.il/media/3zon0wgq/yossi.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x43qd0jm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בהנחיית אהוד מנור, דרך שירים אהובים וראיונות מרתקים שמגלים עוד צדדים על אמן הבמה הנפלא. שודר בשנת 1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677957/",
+       "id": "677957",
+       "season": 1
+      },
+      {
+       "name": "הערב עם | פרק 17 - עליזה רוזן",
+       "logo": "https://www.kan.org.il/media/ycmcmx53/aliza.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3zyx34eq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שירי תיאטרון ושירי נפש, שירים מלאי או נטולי הומור. למה בחרה השחקנית המזמרת שירים מקצוות שונים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/s1/677954/",
+       "id": "677954",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הערב עם - הצצה | הערב עם מייק בורשטיין",
+       "logo": "https://www.kan.org.il/media/lagmqwvo/הערב-עם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6p9h64x9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הצצה ל-\"הערב עם מייק בורשטיין\" משנת 1971",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671074/861416/",
+       "id": "861416"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

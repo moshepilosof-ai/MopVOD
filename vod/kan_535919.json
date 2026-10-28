@@ -1,0 +1,132 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - האמת",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-535919/",
+   "series_id": "535919",
+   "updated": "2026-10-28 09:45",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "האמת | טריילר",
+       "logo": "https://www.kan.org.il/media/crkijk5j/share-image_1200x630_האמת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_527r56zr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "צפו בטריילר ל\"האמת\", סדרת דרמה חדשה של התאגיד. רצח של נערה במתנ\"ס בראש העין מערער מדינה שלמה. עשור אחרי, במהלך משפטו החוזר של הרוצח שהורשע, מתרחש רצח זהה לחלוטין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/769635/",
+       "id": "769635",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 8 - האמת",
+       "logo": "https://www.kan.org.il/media/bd5n5041/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8cbc27br/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "למרות שכל העדויות מצביעות לכיוון של אשם אחד, רחלי עדיין מחפשת תשובות. החיפוש מוביל אותה לכיוון מפתיע אשר שופך אור חדש על פרשיית הרצח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/761816/",
+       "id": "761816",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 7 - נחשים חלקלקים",
+       "logo": "https://www.kan.org.il/media/5bkgdhyd/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h9uhi6oo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "האם \"השפן הרצחני\", הוא בעצם כינוי גנאי לשירן, נערה שסועת שפה, שסבלה התעללות נפשית וחרם חברתי? שירן נחקרת ומספקת זוית מטרידה על אישיותה של הנרצחת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/761815/",
+       "id": "761815",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 6 - שפן לשפן זאב",
+       "logo": "https://www.kan.org.il/media/hllnpzz2/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y6gn5pqw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "חיטוט בקבוצת הוואטסאפ של חברותיה של הנרצחת מעלה דמות של שפן רצחני שמרבה להופיע בהתכתבויות. במי מדובר והאם יש לו קשר לנבלת השפן האמיתי שהמשטרה מוצאת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/761814/",
+       "id": "761814",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 5 - ירדן פלאי בלב",
+       "logo": "https://www.kan.org.il/media/os5bqpep/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yc0rd2r9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "שמועות על רוצח סדרתי מאיימות על תושבי העיר, אך נותנות תקווה שרובי יזוכה. כולם נדמים כחשודים. דווקא כעת, סודות העבר של רחלי מגיעים לאוזניו של פורגס, והיא נזרקת מהצח\"מ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/761809/",
+       "id": "761809",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 4 - אנשים לא משתנים",
+       "logo": "https://www.kan.org.il/media/em3n143u/האמת-פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eessqnd3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "כאשר מיכאל, בנו של הרוצח המורשע, מותקף באלימות, עולות תהיות חדשות לגבי הקשר בין רובי דלויה לרצח השני, ומעורבותה של אישה מסתורית. מידע ממקור מפתיע מוביל את רחלי לחשוש שעוד נערה נרצחה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/761808/",
+       "id": "761808",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 3 - הדסה שלי",
+       "logo": "https://www.kan.org.il/media/vv1dimre/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3yd5xr4a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "רחלי קושרת את הממצאים בזירות לארי עוזרי, מי שהיה המורה לספרות של שתי הנרצחות. היא הולכת אליו במטרה לחקור אותו אבל נשבית בקסמיו - בדיוק כמו לפני 10 שנים, כשהייתה, גם היא, תלמידתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/761805/",
+       "id": "761805",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 2 - משחקת באש",
+       "logo": "https://www.kan.org.il/media/orshzhfh/vlcsnap-2024-06-20-14h49m11s668.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u437uzw6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-18",
+       "plot": "תנ\"צ פורגס מונחת לניהול החקירה, למורת רוחו של סנ\"צ בדימוס אליהו זבטני, אבא של רחלי ומי שהביא להרשעת רובי דלויה. פורגס מקים צוות חקירה מיוחד ואינו כולל את רחלי, אשר נלחמת על מקומה. בלווית הנרצחת, אחיה מפנה אצבע מאשימה למקום בלתי צפוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/535930/",
+       "id": "535930",
+       "season": 1
+      },
+      {
+       "name": "האמת | פרק 1 - ילדה קטנה",
+       "logo": "https://www.kan.org.il/media/fzjlbk1y/vlcsnap-2024-06-20-14h22m41s288.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mniu8l17/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-18",
+       "plot": "רובי דלויה, רוצח מורשע, טוען לחפותו כבר עשור. רגע לפני פרסום ההכרעה הסופית בנוגע לערעורו, רחלי, חוקרת נוער במשטרת ראש העין, נקראת לזירה אשר שופכת אור חדש על הרצח הישן.\nביום בו אמורה להינתן ההכרעה הסופית במשפט הרצח השנוי במחלוקת ביותר בישראל, מתרחש במתנ\"ס שכונתי בראש העין רצח נוסף - זהה לחלוטין. חוקרת הנוער רחלי זבטני, מי שהייתה נערה כשהרצח הראשון התרחש, נדרשת לחזור לסודות מעברה בכדי לפענח את הרצח החדש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/s1/535920/",
+       "id": "535920",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "האמת | טריילר",
+       "logo": "https://www.kan.org.il/media/rb4jnxpb/1920x1080-with-logo_האמת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xh2tav5q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "טריילר לסדרת הדרמת מתח הישראלית \"האמת\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/866109/",
+       "id": "866109"
+      },
+      {
+       "name": "האמת - הצצה | שתי נערות נרצחות",
+       "logo": "https://www.kan.org.il/media/5r2prcw0/האמת-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zke14qpp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "רצח של נערה מביא את המשטרה לפתיחה של חקירת מקרה דומה מהעבר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-535919/855885/",
+       "id": "855885"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

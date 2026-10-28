@@ -1,0 +1,49 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מה זה היה? עם רועי בר נתן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-897228/",
+   "series_id": "897228",
+   "updated": "2026-10-28 11:34",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מה זה היה? עם רועי בר נתן | ירדנה ארזי",
+       "logo": "https://www.kan.org.il/media/zmiovsqh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198975/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-10",
+       "plot": "רגע לפני שידור האירוויזיון, רועי בר נתן יוצא עם ירדנה ארזי, לסיור מפתיע ומשעשע בקטעי הארכיון שלה, כדי לנסות ולהבין ״מה זה היה?״, ומוצא אוצרות שלא הכירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-897228/s1/1039257/",
+       "id": "1039257",
+       "season": 1
+      },
+      {
+       "name": "מה זה היה? עם רועי בר נתן | רבקה מיכאלי",
+       "logo": "https://www.kan.org.il/media/lw4ptje3/אתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186228/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-09",
+       "plot": "לציון 90 שנות שידור ציבורי, רועי בר נתן לוקח את רבקה מיכאלי, האישה שהיא היא השידור הציבורי, לסיור משעשע בקטעי הארכיון שלה, כדי לנסות ולהבין ״מה זה היה?״",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-897228/s1/1025038/",
+       "id": "1025038",
+       "season": 1
+      },
+      {
+       "name": "מה זה היה? עם רועי בר נתן | גלי עטרי",
+       "logo": "https://www.kan.org.il/media/k4wlxeyk/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_am1gpypb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-06",
+       "plot": "רועי בר נתן מנסה לברר עם גלי עטרי מה היא זוכרת מהרגעים הבלתי חשובים ביותר בחייה. יחד הם יוצאים לסיור משעשע בין קטעי הארכיון והזכרונות המרגשים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-897228/s1/897230/",
+       "id": "897230",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

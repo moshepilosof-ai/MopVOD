@@ -1,0 +1,119 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - נפרדים ממנשה רז",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/remembering/p-1102458/",
+   "series_id": "1102458",
+   "updated": "2026-10-28 12:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יומן השבוע | כוסות רוח לגשש החיוור",
+       "logo": "https://www.kan.org.il/media/vygfahgy/fi1911974.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249012/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "מלווה את שלישיית הגשש החיוור בחזרות למופע החדש \"כוסות רוח\" שכתב וביים יוסי בנאי. ראיונות עם השלושה, דיונים וויכוחים על הטקסטים, עבודה על הריקודים בסטודיו של ליכטיג בר זוהר, וגם שיחה עם המעבד המוזיקלי קובי אושרת והרצון להשאיר אותנו עם \"טעם של עוד\"",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102659/",
+       "id": "1102659",
+       "season": 1
+      },
+      {
+       "name": "מבט | מרכז המבצעים של אל על",
+       "logo": "https://www.kan.org.il/media/51ea2glu/fi27304164.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249010/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "משדר ממרכז המבצעים של \"אל על\" לשם הגיעו פרטים ראשונים על נסיון הפיגוע במטוס אל על בקפריסין. על המטוס הנושא את סמלי ארקיע שאש אוטומטית נורתה לעברו מג'יפ שהתקרב. המחבלים חוסלו ולנוסעי המטוס שלום",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102647/",
+       "id": "1102647",
+       "season": 1
+      },
+      {
+       "name": "שלח את עמי ומהר | עליית יהודי אתיופיה",
+       "logo": "https://www.kan.org.il/media/2rcjs11x/ue17024894.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249007/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "על מצבם של יהודי אתיופיה הממתינים באדיס אבבה לעלייתם ארצה במדינה הנחשלת. הפערים בין ההבטחות לעלייה למצב בשטח, תנאי המצוקה הקשים במדינה הענייה, עוני בערות ומלחמות פנימיות מול ארגוני המורדים השולטים במקום",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102624/",
+       "id": "1102624",
+       "season": 1
+      },
+      {
+       "name": "מסיבת עיתונאים | על הטרור האיסלאמי",
+       "logo": "https://www.kan.org.il/media/ou5aovdd/be10609719.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249004/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "פרק מתוך סדרת התכניות \"מסיבת עיתונאים\" שערך והגיש בנושאי אקטואליה ושעל סדר היום. מראיין את ראש המוסד לשעבר אפרים הלוי לשיחה על הטרור האסלאמי וארגוני חמאס ואלקעידה והאם תתכן אפשרות שיהיו אי פעם פרטנרים לשלום",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102613/",
+       "id": "1102613",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | על המתרחש בבתי הסוהר",
+       "logo": "https://www.kan.org.il/media/pduowk3r/ei17809969.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248995/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "פרק מתוך סדרת הסרטים על המתרחש בבתי הסוהר בארץ. תנאים קשים וצפיפות, ראיונות עם אסירים, סוהרים, בעיות התעסוקה, הענישה וההתמודדות עם האתגרים השטח",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102590/",
+       "id": "1102590",
+       "season": 1
+      },
+      {
+       "name": "משחק השבת | מעמדו של בג\"צ",
+       "logo": "https://www.kan.org.il/media/qgvhimhj/be20187948.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248990/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "כמגיש ועורך סדרת התכניות \"משחק השבת\", מראיין את רוני מילוא על פגישתו עם ערפאת, את יוסי שריד ודוד ליבאי על ממשלת אחדות, וגם דיון על הביקורת כלפי בית המשפט העליון ומעמדו של בג\"צ עם ע\"וד חוטר ישי ודב ויסגלס",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102585/",
+       "id": "1102585",
+       "season": 1
+      },
+      {
+       "name": "חדשות | דיווח מחזית סיני",
+       "logo": "https://www.kan.org.il/media/df4hdoxp/ei17311990.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248986/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "מדווח מחזית סיני - על התקדמות הלחימה ועל קרב הבלימה שמנהלים כוחות צה\"ל בגזרות השונות בסיני במהלך מלחמת יום כיפור",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102568/",
+       "id": "1102568",
+       "season": 1
+      },
+      {
+       "name": "בנעלי בית | מנשה רז",
+       "logo": "https://www.kan.org.il/media/3rpfohvr/hv00042414.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248974/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "שיחה מלב אל לב עם בן כספית על הילדות השמחה בגדרה, הרדיו הראשון של המשפחה שהתחבב עליו, הקריירה העיתונאית כמגיש הרדיו בתכנית \"העולם הזה\", הראיונות שערך עם משה דיין ועם דדו, סיקור \"מבצע שלמה\" להעלאת עולי אתיופיה, הגשת בוקר טוב ישראל, סיקור מלחמת יום כיפור, וגם על המשיכה המאגית שלו לחיל האוויר וחיבתו לטיסה",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102481/",
+       "id": "1102481",
+       "season": 1
+      },
+      {
+       "name": "מבטים | מנשה רז",
+       "logo": "https://www.kan.org.il/media/pwhlkjw5/מנשה-רז-מבטים-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1910082/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "מה היתה המשימה של מנשה רז בטיסת ה-F15 של חיל האוויר שאליה הצטרף, ועם אילו תובנות חזר מגובה רב על המתרחש במציאות שעל פני הקרקע",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102462/",
+       "id": "1102462",
+       "season": 1
+      },
+      {
+       "name": "מבט שני | חיל האוויר",
+       "logo": "https://www.kan.org.il/media/fecjtgbu/ei18104145.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lax1twtn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "תיעודים נדירים בסרטו על חיל האוויר, הטייסות והטייסים, הצוותים הטכניים ורכישת מטוסי ה-F16 מארה\"ב שאספקתם הושעתה לאחר תקיפת הכור העיראקי ותחודש לאחר הפסקת האש בצפון",
+       "page": "https://www.kan.org.il/content/archive1/remembering/p-1102458/s1/1102460/",
+       "id": "1102460",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

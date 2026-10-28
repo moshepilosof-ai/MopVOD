@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הייתי שם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-965856/",
+   "series_id": "965856",
+   "updated": "2026-10-28 09:52",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הייתי שם | פרק 3 - רעידת האדמה בנפאל",
+       "logo": "https://www.kan.org.il/media/ahekep2s/artboard-1-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202537/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "עשור אחרי שניצלו, חוזרים ישראלים שהיו בנפאל אל רגעי החרדה והפחד, כשהאדמה רעדה בעוצמה שהרגה אלפים. פרק שלישי בסדרה שחוזרת לאירועים שנצרבו בזיכרון הלאומי מנקודת מבטם של מי שהיו שם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965856/s1/1043242/",
+       "id": "1043242",
+       "season": 1
+      },
+      {
+       "name": "הייתי שם | פרק 2 - אסון ורסאי",
+       "logo": "https://www.kan.org.il/media/geadspym/לאתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196551/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "25 שנה לאחר אסון הקריסה באולמי ורסאי, הניצולים חוזרים לחגיגת החתונה בירושלים שהסתיימה באחד האסונות האזרחיים הקשים בתולדות המדינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965856/s1/1036756/",
+       "id": "1036756",
+       "season": 1
+      },
+      {
+       "name": "הייתי שם | פרק 4 - מצעד הגאווה",
+       "logo": "https://www.kan.org.il/media/dp5d31es/אתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165529/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "סיפורם של האנשים שנכחו במצעד הגאווה בירושלים ביולי 2015, שהסתיים באסון בו נרצחה שירה בנקי בת ה-16 ושישה אנשים נוספים נדקרו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965856/s1/997638/",
+       "id": "997638",
+       "season": 1
+      },
+      {
+       "name": "הייתי שם | טריילר",
+       "logo": "https://www.kan.org.il/media/1qjdm4k2/1_eh89n9d4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891602/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "כל ישראלי יודע מה קרה באותו לילה, אבל לא כמו האנשים האלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965856/s1/967007/",
+       "id": "967007",
+       "season": 1
+      },
+      {
+       "name": "הייתי שם | פרק 1 - רצח רבין",
+       "logo": "https://www.kan.org.il/media/evmdylbt/s0533814_100_26_47_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891601/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-02",
+       "plot": "30 שנה לרצח רה\"מ יצחק רבין: סיפורם האישי של האנשים שהיו שם באותו ערב גורלי בכיכר בשעות שלפני ובעצרת למען השלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965856/s1/966679/",
+       "id": "966679",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הייתי שם | טריילר",
+       "logo": "https://www.kan.org.il/media/zpke0mzd/1920x1080_no-logo-הייתי-שם.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891602/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "כל ישראלי יודע מה קרה באותו לילה, אבל לא כמו האנשים האלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-965856/990027/",
+       "id": "990027"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

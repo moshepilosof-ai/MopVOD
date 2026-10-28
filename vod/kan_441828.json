@@ -1,0 +1,186 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מועדון הסטנד-אפ",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-441828/",
+   "series_id": "441828",
+   "updated": "2026-10-28 12:21",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 12 - דייט, חייזרים וטירונות בגולני",
+       "logo": "https://www.kan.org.il/media/y4hd4hqx/פרק-12-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h6lehypn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "פרק אחרון לעונה: יונה קפח יוצאת לדייט, ארז שלם שולח את אמא שלו להלל יפה, גיתית פישר פוגשת חייזרים, שי וידר מאבד את כל הציוד בטירונות ודניאל חן מוצא משהו ששייך לאמא שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812158/",
+       "id": "812158",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 11 - הסגברה, כדורגל ותספורת בברלין",
+       "logo": "https://www.kan.org.il/media/5qlklih2/פרק-11-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jxwmg26v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "עידן ברקאי עושה הסגברה, אלי חביב הולך להסתפר בברלין עם חששות, אבי נוסבאום לא צופה בכדורגל לכיף, שלמה בייבי בייבי הולך לאסיפת הורים שונה, ותום יער חוזרת לפרויקט חשוב מכיתה ה'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812153/",
+       "id": "812153",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 10 - טסט, פיקניק ודילר",
+       "logo": "https://www.kan.org.il/media/gdcny3qw/הדר-לוי-טסט-לאוטו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3nvxi4dx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "מתן פרץ רב עם חברה שלו, עידן ברקאי פוגש את הדילר שלו בבית קפה, הדר לוי מעבירה את האוטו טסט, ועידו קציר מגלה מה זה הביתה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812151/",
+       "id": "812151",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 9 - אינסטגרם, יוגה ופוליטיקלי קורקט",
+       "logo": "https://www.kan.org.il/media/bhfn0ygg/פרק-9-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ji62j8u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "אורי גוטליב מנסה \"תקשורת מקרבת\" כשנחתך בכביש, הדר לוי יושבת בבית קפה בתל אביב, נגה דאנג׳לי עם בעלה בשיעור יוגה, ואיתי זבולון יוצא לגלות מי הוריד לו עוקב באינסטגרם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812149/",
+       "id": "812149",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 8 - משלוחים, אודישן ולילילי לולולו",
+       "logo": "https://www.kan.org.il/media/0fhfbesj/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cpvr4znf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "גיא אדלר מתקמצן, נועה מנור מגשימה חלום להיות שחקנית, אלי חביב עושה סקסטינג, רודי סעדה מגלה סוד משפחתי ותום יער מזמינה שפתון אחד במשלוח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812147/",
+       "id": "812147",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 7 - כלב, בופה ואמא שלך",
+       "logo": "https://www.kan.org.il/media/lpuj0jk2/אתר-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ikc3lko/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "גיתית פישר מקבלת מאמא שלה מטלות בית של עניים, תום יער עם המדריך לבופה של מלון, גיא אדלר משחק עם כלב במסיבה, ועידן אלתרמן מדבר מלוכלך ונזכר באמא שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812146/",
+       "id": "812146",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 6 - נערה מתבגרת, חברה עשירה ואבי קושניר",
+       "logo": "https://www.kan.org.il/media/s1fhpuay/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e1cnkjn4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "ארז שלם נותן זכות קדימה לדמות מקרטון, גיתית פישר חוזרת לגיל ההתבגרות, מני עוזרי עובר קורס נהיגה מונעת, ועידו קציר באפוס ״אבי קושניר״",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812125/",
+       "id": "812125",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 5 - ליבידו, אמא והשוטר צורי",
+       "logo": "https://www.kan.org.il/media/lctbmyzi/אתר-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g0faxoav/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "עונה חדשה לתכנית הבידור שבה קטעי סטנד-אפ קמים לתחייה והופכים למערכונים. אורי גוטליב נפרד מאמא שלו, נועה מנור עוברת הסללה מגדרית, אורנה בנאי מספידה את הליבידו שלה ודניאל חן מסתבך עם השוטר צורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812124/",
+       "id": "812124",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 4 - תאילנד, פייסבוק וקרנף",
+       "logo": "https://www.kan.org.il/media/tpyhdmxc/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sfvi4oif/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-16",
+       "plot": "אסף מור יוסף מקריא טקסט שאשתו כתבה לו, אלי חביב חוקר קרנפים, נגה ד׳אנג׳לי מסליקה טמפון, טליה ברטפלד מוציאה סכין על אחותה ועידן ברקאי מצא תחביב מוזר במיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/800667/",
+       "id": "800667",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 3 - שד רוסי, מוכר פרסי וקרחת",
+       "logo": "https://www.kan.org.il/media/3klpre32/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b3sbzy5h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-16",
+       "plot": "גיורא זינגר נאבק באמונות תפלות, הדר לוי מאבדת את הילד בקניון, וחן מזרחי קונה נעליים ממוכר פרסי ויונה קפח מנקה לשבת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/800666/",
+       "id": "800666",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 2 - גרוזינים, לסביות ובנות שמעשנות וויד",
+       "logo": "https://www.kan.org.il/media/gewm5vbt/תמונה-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mih5ofiy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-16",
+       "plot": "עונה חדשה לתכנית הבידור שבה קטעי סטנד-אפ קמים לתחיה והופכים למערכונים. תום יער מזמינה על בעלה גרוזינים עם אלות, אבי נוסבאום מצא טריק לא לשלם בחניון, מתן פרץ אוהב בנות שמעשנות וויד, אורנה בנאי רבה עם חברה שלה ומני עוזרי מקבל ברכה ריחנית במיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/800664/",
+       "id": "800664",
+       "season": 2
+      },
+      {
+       "name": "מועדון הסטנד-אפ עונה 2 | פרק 1 - פרצוף בעייתי, ערומים בקאנטרי וזיווג הגון",
+       "logo": "https://www.kan.org.il/media/5mxl3kxt/תמונה-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9kbbdn1q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-16",
+       "plot": "עונה חדשה לתכנית הבידור שבה קטעי סטנד אפ קמים לתחייה והופכים למערכונים. בפרק הבכורה: אסף מור יוסף בורח מהמשטרה, גיתית פישר רוצה להיות כמו הבנות האלה, איתי זבולון נוסע לאשקלון, ועידן אלתרמן מתקלח בקאנטרי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/800663/",
+       "id": "800663",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מועדון הסטנד-אפ עונה 1 | פרק 1 - דלק, סוסים וכפיות",
+       "logo": "https://www.kan.org.il/media/gwhb2ehz/לאתר-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ltgxpkso/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-11",
+       "plot": "בשל הסכמי זכויות שידור, תוכן זה כבר לא זמין לצפייה. גורי אלפי רוכב על סוסים, בן בן ברוך נתקע בלי דלק, אורנה בנאי יוצאת מהארון, תום יער בזוגיות שוחקת, גיא אדלר מתעלל בחברים, שי וידר בטיול אחרי הצבא ואלי חביב ממליץ על פסיכולוגית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/s1/441904/",
+       "id": "441904",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מועדון הסטנד-אפ | טריילר",
+       "logo": "https://www.kan.org.il/media/3brdtp4m/1_cover-image_1920x1080_מועדון-הסטנדאפ_אבי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vb1q2ee3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "תוכנית בידור קומית שמשלבת סטנד-אפ עם מערכונים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/866213/",
+       "id": "866213"
+      },
+      {
+       "name": "מועדון הסטנד-אפ - הצצה | שיחות של מערכת יחסים ארוכה",
+       "logo": "https://www.kan.org.il/media/3wtfd1rb/מועדון-הסטנדאפ-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dshlkyr0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "תום יער מספרת על נושא השיחה היחיד שנשאר לה ולבעלה אחרי כל כך הרבה שנים יחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/856150/",
+       "id": "856150"
+      },
+      {
+       "name": "מועדון הסטנד-אפ - הצצה | אורנה בנאי רבה עם בת הזוג",
+       "logo": "https://www.kan.org.il/media/swabqrho/מועדון-הסטנדאפ-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g599qlbb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "לא נעים. מה קורה כשאורנה בנאי רבה עם בת הזוג שלה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-441828/856137/",
+       "id": "856137"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

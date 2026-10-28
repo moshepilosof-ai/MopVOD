@@ -1,0 +1,103 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - על נהרות תבל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-739746/",
+   "series_id": "739746",
+   "updated": "2026-10-28 13:03",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "על נהרות תבל | פרק 7 - ג'נטלמנים יהודים",
+       "logo": "https://www.kan.org.il/media/v4fepe4o/אנגליה-web.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3eqp4n0w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "יוסי גודארד לוקח אותנו לסיפורו של כרמל קולג'. פנימיה יהודית תיכונית לתלמידי יהודים עשירים באנגליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/s1/739762/",
+       "id": "739762",
+       "season": 1
+      },
+      {
+       "name": "על נהרות תבל | פרק 6 - אחרי שאינם היהודים חלק ב'",
+       "logo": "https://www.kan.org.il/media/rvgnaceq/פולין-ב-web.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l7rh3t6o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "יהודה קווה על השינויים שחלו בעיר ורשה, משנות ה-30-20 שלפני השואה ועד היום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/s1/739761/",
+       "id": "739761",
+       "season": 1
+      },
+      {
+       "name": "על נהרות תבל | פרק 5 - אחרי שאינם היהודים חלק א'",
+       "logo": "https://www.kan.org.il/media/s01h5gep/פולין-א-web.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5dujk9le/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "יהודה קווה בפרק ראשון בסדרה על יהדות פולין, תמונות מהקהילה היהודית, שיחות עם ניצולי שואה יהודים בפולין והתרבות השורשית שנותרה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/s1/739760/",
+       "id": "739760",
+       "season": 1
+      },
+      {
+       "name": "על נהרות תבל | פרק 4 - מגלות לגלות",
+       "logo": "https://www.kan.org.il/media/ptefp2q0/צרפת-web.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gj2w4282/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "יעקב אסל לוקח אותנו לסיפורה של הקהילה היהודית בצרפת - תקשורת, דת, נישואים, שגשוג וציונות. שודר בשנת 1987",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/s1/739754/",
+       "id": "739754",
+       "season": 1
+      },
+      {
+       "name": "על נהרות תבל | פרק 3 - שחורים לבנים ויהודים",
+       "logo": "https://www.kan.org.il/media/jk5p1zub/דרום-אפריקה-web.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dm5z8xul/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "יוסי גודארד לוקח אותנו לסיפורה של קהילה יהודית שצריכה להשתלב במאבק בין שחורים ללבנים בדרום אפריקה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/s1/739753/",
+       "id": "739753",
+       "season": 1
+      },
+      {
+       "name": "על נהרות תבל | פרק 2 - יהדות בלי עתיד",
+       "logo": "https://www.kan.org.il/media/1nhlutb5/הונגריה.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2inobsgn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "סלים פתאל לוקח אותנו ליהדות הונגריה, שרידי הקהילה השניה הגדולה באירופה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/s1/739752/",
+       "id": "739752",
+       "season": 1
+      },
+      {
+       "name": "על נהרות תבל | פרק 1 - אור צפוני בשטוקהולם",
+       "logo": "https://www.kan.org.il/media/b4qjnumu/שוודיה.gif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g8xy2i9i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "יוסי גודארד לוקח אותנו לסיפורה של הקהילה היהודית בשבדיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/s1/739750/",
+       "id": "739750",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "על נהרות תבל | פתיח",
+       "logo": "https://www.kan.org.il/media/3thh2tvc/על-נהרות-תבל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yo3puia4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לסדרה הדוקומנטרית \"על נהרות תבל\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-739746/943344/",
+       "id": "943344"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

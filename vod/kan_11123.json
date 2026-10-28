@@ -1,0 +1,397 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - המנגנון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11123/",
+   "series_id": "11123",
+   "updated": "2026-10-28 09:56",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אפילו המנכ\"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון",
+       "logo": "https://www.kan.org.il/media/n4shiavt/s0489484_item01b.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-28",
+       "plot": "חודש אוגוסט בפתח ועונת הטיסות בשיאה: טיסה לרומא באלף דולר, תלונות בלתי נגמרות על שירות הלקוחות וחופשות משפחתיות שכמעט והפכו למותרות - כך נראה הקיץ של לא מעט ישראלים. מנכ\"ל חברת ישראייר אורי סירקיס בטוח שהסיבה למחירים היקרים היא גלובלית ובכלל - התחזית שלו מאוד אופטימית, וכוללת הבטחה ליעד חדש ואטרקטיבי שיצטרף ללוח ההמראות בנתב\"ג. #המנגנון של שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/935911/",
+       "id": "935911"
+      },
+      {
+       "name": "ב-3 בלילה, בלי בית: איך דואגים להמוני תושבים שהפכו לפליטים בעירם? ",
+       "logo": "https://www.kan.org.il/media/u3kpmsiq/thumbnail_tzvika_brot_clean-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uofqdmg7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-24",
+       "plot": "הטיל האיראני שפגע בבת ים הותיר אחריו את אתר ההרס הגדול ביותר במדינת ישראל, ותושבים שבבת אחת נותרו בלי בית ובלי רכוש עלי אדמות. מה עושים כדי שאיש לא ימצא את עצמו ללא קורת גג ואיך הם יקבלו את המגיע להם מהמדינה? בין שלל המאמצים, ברוט מפרגן לרשויות על היעילות והרצון הטוב בהקלת הסיוט הבירוקרטי והסחבת. משם הוא ממשיך לתוכנית ארוכת הטווח לשיקום ההריסות, ואיך גורמים לכך שבמקום עיי החורבות תעמוד שכונה חדשה בזמן הקצר ביותר: המנגנון עם שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/924986/",
+       "id": "924986"
+      },
+      {
+       "name": "ירושלים היא הדבר החם הבא של ישראל? המנגנון של משה ליאון",
+       "logo": "https://www.kan.org.il/media/rkdehwun/maxresdefault-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tc5ftbl5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-13",
+       "plot": "\"אורו של עולם\" או \"קדושה, מסוכסכת, ענייה\"? ראש עיריית ירושלים אופטימי באופן מעורר השתאות, ובטוח שהעיר תהפוך להיות מרכז הייטק, תחבורה ותרבות. מה עם הירידה לאשכול סוציו-אקונומי 2 והמתחים בין כל הקבוצות בעיר? ליאון בטוח שהעיר בדרך הנכונה למעלה ואפילו מכריז על צמצום מענק הבירה ב-10 השנים הקרובות. המנגנון עם שאול אמסטרדמסקי בהפקת כאן חדשות בדיגיטל",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/882141/",
+       "id": "882141"
+      },
+      {
+       "name": "\"למה מי שלומד תורה מפחד? לחרדים יש כוח לתרום\" | המנגנון של הרב תמיר גרנות",
+       "logo": "https://www.kan.org.il/media/nwel423t/thumbnail_rav_tamir_granot_clean.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0bm5v0dc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-17",
+       "plot": "להבין שלימוד תורה הוא ערך לאומי, לנטוש את הקונספציה שהשאירה את החרדים מחוץ לצבא ולקרוא להם להשתתף בסדר החדש בחברה הישראלית. הרב תמיר גרנות הוא ראש ישיבת הסדר \"אורות שאול\" ואב שכול שאיבד את בנו במלחמה. מאז הוא מנסה למצוא חזון לברית חדשה בין חלקי העם, ודרך לגשר על השסעים שנפתחו שוב מאז ה-7 באוקטובר, כולל התגובה שלו לכינוי שהודבק לציבור שלו - \"אוכלי מוות\"בק לציבור שלו - \"אוכלי מוות\"",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/837089/",
+       "id": "837089"
+      },
+      {
+       "name": "\"לפרק את המחנות המדומיינים\": ליונתן שמריז יש סיפור חדש | המנגנון של המחר",
+       "logo": "https://www.kan.org.il/media/agwbew0g/maxresdefault-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q1hvcfyy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-06",
+       "plot": "יונתן שמריז מכפר עזה איבד במלחמה את אחיו אלון, שנחטף לעזה ב-7 באוקטובר ונורה בטעות בעזה לאחר שברח משוביו. את האובדן והטראומה הוא בוחר להפוך לכוח מניע ליצירת עתיד חדש למדינה. כי - \"אם אלון הצליח לעשות את מה שהוא עשה, מי אני שאוותר?\". הוא אחד ממובילי טקס הזיכרון הלאומי של המשפחות השכולות ומשפחות החטופים, והקים את תנועת \"קומו\" לשיקום הקהילות בעוטף והצפון. הוא בטוח שגדלנו על נרטיבים מפלגים שלא קיימים, ושהשיח שמקדם אותם נוצר רק בשנים האחרונות וייעלם בתהליכים משותפים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/809050/",
+       "id": "809050"
+      },
+      {
+       "name": "לאן הולכת מערכת החינוך? המנגנון של השר קיש",
+       "logo": "https://www.kan.org.il/media/edodmdt2/thumbnail_yoav_kisch_clean.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wkmnwl6k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-26",
+       "plot": "בעוד ישראל מנהלת מלחמה בשתי חזיתות, לשר החינוך יואב קיש יש לפחות שלוש. בימים אלה הוא עסוק במשא ומתן מול ארגון המורים המאיים בשביתה, במאמץ לספק מסגרות לילדי מקווי העימות בצפון ובדרום וכן באתגר מול מערכת חינוך חרדית שדורשת תקציבים אבל מסרבת לתת למדינה דריסת רגל במוסדותיה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/793038/",
+       "id": "793038"
+      },
+      {
+       "name": "האיש שיוריד את מחירי הדיור? המנגנון של מנהל רשות מקרקעי ישראל",
+       "logo": "https://www.kan.org.il/media/n0uhcwdo/thumbnail_yanki_quint_clean.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_42us88b8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-12",
+       "plot": "בתוקף תפקידו כמחזיק בעתודות הקרקע גדולות בישראל, לינקי קווינט יש את מנוף ההשפעה החזק ביותר על מחירי הנדל\"ן. מצד שני, הוא גם אחראי לשורת הרווח של המדינה ממכירת הקרקעות האלו. מבחינתו הוא בטוח שהרשות עושה הכל כדי שמחירי הדיור יירדו - מטווח השפעה הגבוה בפריפריה ועד למצבים המורכבים של אזור המרכז. בפרק נוסף של ההצפת \"המנגנון\", שאול אמסטרדסמקי מנסה להבין את מערכת השיקולים של רשות מקרקעי ישראל, ואת ההתמודות שלה עם מצב המלחמה שמשפיע על שוק הנדל\"ן מהדרום ועד הצפון",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/783607/",
+       "id": "783607"
+      },
+      {
+       "name": "הרב מבני ברק שיגייס אלפי חרדים: המנגנון של הרב דוד לייבל",
+       "logo": "https://www.kan.org.il/media/vskjjgsc/maxresdefault.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6rhccer0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "הרב דוד לייבל הוא משהו אחר. נולד בצרפת ועלה לישראל בגיל 17. למד אצל הרב שך בישיבת פוניבז' והפך לראש כולל. הוא גם איש עסקים מצליח בתחום היהלומים ומאמין גדול בשילוב של תורה ועבודה. הוא הקים את \"אחוות תורה\" - רשת קהילות שנותנת בית לחרדים עובדים שנודו מקהילותיהם. כעת הוא מנסה למצוא פתרון מעשי גם לסוגיית הגיוס. שמענו ממנו מה צריך לקרות כדי לראות אלפי חרדים על מדים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/769612/",
+       "id": "769612"
+      },
+      {
+       "name": "לטפל בנפש הפצועה של ישראל: המנגנון של ראש המערך לבריאות הנפש",
+       "logo": "https://www.kan.org.il/media/20ij22qc/המנגנון-בריאות-הנפש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yyedb2mu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-27",
+       "plot": "גלעד בודנהיימר, ראש האגף לבריאות הנפש במשרד הבריאות, לא קיבל לידיו מערך שנמצא בשיאו. הביקורת על איכות טיפול הנפש הציבורי בישראל רבה, ולתוך הקלחת הזו הגיעה מלחמה שדורשת משאבים עצומים - בכסף וברגש. בריאיון לשאול אמסטרדמסקי, מספר בודנהיימר על הניסיון להתכונן למבול של נזקקים לטיפול - שיגיעו להערכתו עם שוך הקרבות. המנגנון עם שאול אמסטרדמסקי, 26.06.24",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/766535/",
+       "id": "766535"
+      },
+      {
+       "name": "אין כזה דבר עצמאות מוחלטת - וטוב שכך: המנגנון של יו\"ר רפאל",
+       "logo": "https://www.kan.org.il/media/4jyoph0q/המנגנון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l3k1hxtd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-23",
+       "plot": "אחרי קריירה פוליטית בת יותר מ-20 שנה, יובל שטייניץ הוא היום יו\"ר של ענקית הנשק הישראלית רפאל. בריאיון לשאול אמסטרדמסקי מסביר שטייניץ איך עולם הסחר בנשק תלוי ביחסי גומלין מורכבים, וכמה ההצהרות על \"נסתדר לבד\" רחוקות ממה שמצוי וממה שרצוי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/764514/",
+       "id": "764514"
+      },
+      {
+       "name": "איך תיגמר המלחמה? המנגנון של השר עמיחי שיקלי",
+       "logo": "https://www.kan.org.il/media/3uyfd4s5/שיקלי-במנגנון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u0v0qzan/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-08",
+       "plot": "לפני יומיים חמאס הפתיע בהודעה - \"מקבלים את ההצעה להפסקת אש\". לא הרבה אחר כך, צייץ עמיחי שיקלי סטיקר עם הכיתוב \"Fuck Hamas\". בהמשך התברר שההסכמה של חמאס היא לא בדיוק הסכמה, אבל לא מעט ראו בציוץ של שיקלי כהתרסה מול הסיכוי לשחרר את החטופים. בריאיון למנגנון, שר התפוצות שיקלי פורט מה לדעתו ייחשב ניצחון על חמאס, איך זה מתיישב עם הרצון להחזיר הביתה את החטופים וכן מתייחס למצב הקשה של ישראל בחזית הקמפוסים בארצות הברית. שאול אמסטרדמסקי בפרק חדש - המנגנון של עמיחי שיקלי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/746940/",
+       "id": "746940"
+      },
+      {
+       "name": "השיעור שלמדתי בסטנפורד ב-7.10: המנגנון של יותם ברגר",
+       "logo": "https://www.kan.org.il/media/03epu3dy/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r4deq3jn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-03",
+       "plot": "עד לפני חצי שנה ראה את עצמו יותם ברגר, לשעבר עיתונאי בגלי צה\"ל ובהארץ, כחלק מקהילה בין-לאומית אקסלוסיבית. הוא תלמיד דוקטורט, בשנה השנייה ללימודיו בפקולטה למשפטים באוניברסיטת סטנפורד, אחת היוקרתיות בארצות הברית ובעולם בכלל. אבל ב-7.10 כל החוויה שלו התהפכה. הקמפוס שהפך לבית פתאום גילה הזדהות עם מעשי זוועה וטרור, חברים ללימודים ניתקו קשר וההנהלה השתתקה. בשיחה מאירת עיניים מתאר ברגר את השינוי שחוללה המלחמה בו ובסביבה שלו בחודשים האחרונים. המנגנון במלחמה עם שאול אמסטרדמסקי בפרק טרנס-אטלנטי מיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/744783/",
+       "id": "744783"
+      },
+      {
+       "name": "ביום של עלטה: המנגנון של מנכ\"ל חברת החשמל",
+       "logo": "https://www.kan.org.il/media/eppfpoct/maxresdefault-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jnkdltxk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-09",
+       "plot": "מאיר שפיגלר הוא האיש שאחראי על כך שכשישראלי לוחץ על המתג, האור אצלו בבית נדלק. זה מובן מאליו ביום יום, אבל האם זה מה שיקרה גם כשעשרות טילים איראניים יעופו לעבר ישראל? מנכ\"ל חברת החשמל מתארח במנגנון ומספר על מה נצטרך לוותר כשתרחיש העלטה המפורסם יתרחש. המנגנון עם שאול אמסטרדמסקי מארח את מנכ\"ל חברת החשמל מאיר שפיגלר, 09.04.24",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/735792/",
+       "id": "735792"
+      },
+      {
+       "name": "בלי שהמדינה תפריע, בלי שהרבנים יעזרו: המנגנון של מגייסת החרדים",
+       "logo": "https://www.kan.org.il/media/lj0i2ewf/המנגנון-ענבר-גיטי-ושאול-אמסטרדמסקי.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_godr185d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-26",
+       "plot": "ענבר גיטי גויסה על ידי בני גנץ, כשהיה שר ביטחון, להיות אחראית על מתווה לשירות שיצליח לשלב חרדים בצבא. היא עבדה עם קציני הצבא ועם אנשי ציבור חרדים להקים מסגרות שיוכלו לשלב צעירים מ\"ההארד-קור\" של הישיבות בתוך בסיסי צה\"ל - וראתה את הקשיים שעוד נכונים לכולנו. אז מה יצליח להביא את החרדים לצבא? המנגנון של ענבר גיטי, לשעבר פרויקטורית מתווה השירות במשרד הביטחון",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/729171/",
+       "id": "729171"
+      },
+      {
+       "name": "האשליה הגדולה שמוכרים לנו: המנגנון של דובר צה\"ל לשעבר",
+       "logo": "https://www.kan.org.il/media/xtnj0paj/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b8lqa5wb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "דובר צה\"ל לשעבר רונן מנליס לא מבין למה ישראל לא מכריזה על סיום המלחמה בעזה, אם גם בדרך המדיני וגם בדרג הצבאי יודעים שחיסול חמאס יהיה תהליך של שנים. הוא מאמין שמאחורי ההחלטה שלא לסיים את המלחמה ישנה הטעיה שגורמת לציבור לחשוב ש\"הניצחון המוחלט\" אוטוטו מגיע. בסיבות למחדל הוא מונה בין היתר את ההיבריס בצמרת הצבאית ובתרבות שהוביל הרמטכ\"ל לשעבר אביב כוכבי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/726911/",
+       "id": "726911"
+      },
+      {
+       "name": "איך לא נפסיד בכלכלה? המנגנון של יוג'ין קנדל",
+       "logo": "https://www.kan.org.il/media/sudea4jw/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pxhoz8rj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-01",
+       "plot": "לישראל אף פעם לא הייתה חשיבה אסטרטגית וניהול סיכונים, היא לא ערוכה להתמודד עם התחרותיות בעולם כיום, ואם יש דבר אחד שיגרום לקריסה אמיתית הוא עזיבה של הדור הצעיר. ראש המועצה הלאומית לכלכלה ויועצו לשעבר של ראש הממשלה נתניהו, יוג'ין קנדל, רואה דרך לצאת מהמלחמה בלי פגיעה אנושה בכלכלה, והיא עוברת בשינוי סדר העדיפויות - של הבוחרים בקלפיות",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/714007/",
+       "id": "714007"
+      },
+      {
+       "name": "להתנתק מעזה, הפעם באמת: המנגנון של יוסי כהן",
+       "logo": "https://www.kan.org.il/media/jrmpp0xs/thumbnail_yossi_cohen.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9221wjye/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-08",
+       "plot": "את הנהגת חמאס צריך לחסל בהקדם, מעזה צריך להתנתק לחלוטין, בצפון צריך להימנע ממלחמה ולתכנן מתקפת פתע, ומראש הנחש בטהרן צריך למנוע מלהגיע לפצצה בכל מחיר. יוסי כהן, לשעבר ראש המוסד, בטוח שיש לו את הצעדים הדרושים להחזרת הביטחון וההרתעה לישראל. המנגנון במלחמה עם שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/700430/",
+       "id": "700430"
+      },
+      {
+       "name": "לא למדינה פלסטינית - ולא הזמן להתנחלות בעזה: המנגנון של גדעון סער",
+       "logo": "https://www.kan.org.il/media/tbgffcpq/המנגנון-סער.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pk1oapjb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-02",
+       "plot": "השר גדעון סער הוא חבר הקבינט המדיני ביטחוני באחד הצמתים המשמעותיים בתולדות מדינת ישראל. ערב עסקה בעניין החטופים, בזמן שממשל ביידן טווה את המזרח התיכון מחדש וחזית נוספת בצפון נראית כמו עניין של זמן. בשיחה עם שאול אמסטרדמסקי מנמק סער את ההתנגדות שלו למדינה פלסטינית, מדבר על עזה ביום שאחרי המלחמה ומסביר מדוע הוא נמנע מקריאה לבחירות בשלב הזה. המנגנון במלחמה עם שאול אמסטרדמסקי מארח את גדעון סער",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/696944/",
+       "id": "696944"
+      },
+      {
+       "name": "היו-יו של משרדי הממשלה: המנגנון של מנכ\"ל המשרד לשיוויון חברתי",
+       "logo": "https://www.kan.org.il/media/z4wj32ov/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_36t7kf76/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-22",
+       "plot": "בשבועות האחרונים מתגברת הדרישה לסגור משרדי ממשלה \"מיותרים\". מבין שלל משרדים חדשים יחסית, בין הראשונים שהועלה למזבח הוא המשרד לשוויון חברתי. בינתיים מסתבר שהמשרד לא יסגר, אלא רק יחליף שרים, אבל זו הזדמנות טובה להתמקד במשרד קטן - שלטענת המנכ\"ל שלו מטפל בציבור שאף אחד בממשלה לא עוסק בו. מנכ\"ל המשרד לשוויון חברתי מאיר בינג מתארח במנגנון עם שאול אמסטרדמסקי, 22.01.24",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/689737/",
+       "id": "689737"
+      },
+      {
+       "name": "כמה עולה באמת להגן על ישראל? המנגנון של היועץ הכספי לרמטכ\"ל לשעבר",
+       "logo": "https://www.kan.org.il/media/x05du35v/thumbnail_reem_aminoach.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w8u5o31w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-04",
+       "plot": "ראם עמינח, היועץ הכספי לרמטכ\"ל לשעבר, מעריך שכדי לתת מענה לאיומים על ישראל אנחנו צריכים להכפיל את תקציב משרד הביטחון השנתי, מסביר מה בעייתי בעובדה שאנחנו רוכשים ציוד צבאי מארה\"ב – ולמה אחרי ה-7 באוקטובר הוא דווקא יותר רגוע",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/669315/",
+       "id": "669315"
+      },
+      {
+       "name": "להתחבר לכוחות הריפוי שלנו: המנגנון של ראש מרכז חוסן שדרות",
+       "logo": "https://www.kan.org.il/media/xyslos34/maxresdefault.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gpcafv3m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-25",
+       "plot": "איך משקמים קהילה שעברה אירוע מטלטל כל כך? הילה גונן ברזילי אחראית לשיקום הנפשי של למעלה מ-30 אלף תושבי שדרות שנמצאים עכשיו במקומות שונים ברחבי הארץ. היא מאמינה בכוחות הריפוי הפנימי של מי שמגיע אליה לטיפול, ובטוחה שהשיקום מתחיל מלראות את הטוב, כמו זה שמתגלה בחברה הישראלית בימים אלו. פרק נוסף של \"המנגנון\", ההצפת של שאול אמסטרדמסקי וכאן חדשות בדיגיטל",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/662273/",
+       "id": "662273"
+      },
+      {
+       "name": "מה יעשו החרדים אחרי המלחמה? המנגנון של הרב יונתן רייס",
+       "logo": "https://www.kan.org.il/media/1tundcnh/thumbnail_rabbi_yonathan_reiss.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r9lhcs36/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "הרב יונתן רייס, ראש רשת ישיבות ההסדר החרדיות \"חדוותא\", מעריך שבציבור החרדי מבינים שלא תהיה הסכמה על חוק שיפטור אותם מגיוס לצבא. מצד שני, הוא בטוח שהציבור החרדי לא ייזום מהלך גיוס, אבל כאן המקום למתווה שיגרום לחברה החרדית לקחת אחריות",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/654983/",
+       "id": "654983"
+      },
+      {
+       "name": "מה שסינוואר לא מבין: המנגנון של גרשון בסקין",
+       "logo": "https://www.kan.org.il/media/3oxooaoi/maxresdefault.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lro7m39h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-07",
+       "plot": "בכירי חמאס לא באמת מבינה את המשמעות של ה-7 באוקטובר עבור ישראל, והם בטוחים שבסופו של עוד סבב הם ייצאו מתחת לאדמה כמנצחים. זו ההתרשמות של גרשון בסקין, מאדריכלי עסקת שליט ואחד מהישראלים שמכיר את חמאס היטב. הוא לא מתחרט על חלקו בעסקה ההיא, אבל חושב שהפעם עסקה של \"כולם תמורת כולם\" לא ריאלית עבור מדינת ישראל. ביום שאחרי, כמו שהוא רואה אותו, יחכה לישראלים  ולפלסטינים \"שלום של אין ברירה\" בחסות הממשל האמריקאי. פרק נוסף של המנגנון במלחמה עם שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/644513/",
+       "id": "644513"
+      },
+      {
+       "name": "מדינה מחפשת מנהל: המנגנון של איתן יוחננוף",
+       "logo": "https://www.kan.org.il/media/c23bxbc1/thumbnail_eitan_yochanaof.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xh6nubbh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-30",
+       "plot": "המנכ\"ל ובעל השליטה ברשת הסופרים יוחננוף ראה את המשק הישראלי מתמודד עם מצבי חירום בהצלחה. אבל במלחמה הזאת הוא מרגיש שאין יד מכוונת - מהקריאות לחרם כולל ועד הדאגה לחקלאים. כאיש עסקים בכיר שמעדיף לברוח מאור הזרקורים הוא החליט להתראיין ולהקדיש את הפרק הזה של המנגנון במלחמה כדי להשמיע הזעקה שלו - הגיע הזמן לחשוב על המדינה שנשאיר לילדים שלנו",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/631500/",
+       "id": "631500"
+      },
+      {
+       "name": "המלחמה שהעירה את ישראל מהחלום: המנגנון של יוסי קופרווסר",
+       "logo": "https://www.kan.org.il/media/ljmnsn5n/המנגנון-של-יוסי-קופרווסר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tsycl120/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-24",
+       "plot": "ראש חטיבת המחקר באמ\"ן לשעבר בטוח שה-7 באוקטובר הביא איתו שינוי עמוק בתפיסת הביטחון של ישראל, שכולל ויתור על איכות החיים הגבוהה, לטובת השקעה גדולה יותר במלחמה על החיים עצמם, הפעם מילולית. מה יקרה ביום שאחרי? קודם כל הפלסטינים צריכים לוותר על החלום לחזור לכל מדינת ישראל, חלום שבו מחזיקים גם חמאס וגם הרשות. עד אז, ישראל צריכה לשלוט ברצועה ולחכות שיקום מנהיג פלסטיני שיתאים את עצמו למציאות",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/621667/",
+       "id": "621667"
+      },
+      {
+       "name": "צבא קטן וחכם (של הסברה): המנגנון של אלה קינן",
+       "logo": "https://www.kan.org.il/media/nysklfr2/thumbnail_ella_kenan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_psj9077d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-14",
+       "plot": "עד לפני חמישה שבועות הייתה אלה קינן בלוגרית טיולים. כמו ישראלים רבים, שבת שמחת תורה הביאה אותה לשתף לעוקביה בעולם את הידיעות על מעשי הזוועה של חמאס. אבל קינן לא עצרה בזה - היא הצליחה לשכלל את הפעילות שלה בטוויטר למכונת הסברה משומנת שמגיעה למיליונים. המנגנון עם שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/608474/",
+       "id": "608474"
+      },
+      {
+       "name": "לתכנן את עוטף עזה של אחרי המלחמה: המנגנון של גדי ירקוני",
+       "logo": "https://www.kan.org.il/media/y03dplhk/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i2ndv5n3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-27",
+       "plot": "במועצה האזורית אשכול חיו עד לפני שלושה שבועות כ-17 אלף תושבים ב-32 יישובים. כיום רוב התושבים חיים כפליטים במלונות באילת או בקיבוצים אחרים ברחבי הארץ. אחד מהם הוא גדי ירקוני, ראש המועצה, שנולד בקיבוץ נירים. פגשנו השבוע את ירקוני בחורבות הקיבוץ שלו, לפרק מיוחד של המנגנון במלחמה, ושמענו על האתגר העצום שיידרש למדינת ישראל על מנת לשקם את חבל הארץ החשוב הזה. המנגנון במלחמה עם שאול אמסטרדמסקי מארח את ראש המועצה האזורית אשכול גדי ירקוני, 26.10.23",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/584155/",
+       "id": "584155"
+      },
+      {
+       "name": "בין הדחה לנקמה: המנגנון של יו\"ר דואר ישראל",
+       "logo": "https://www.kan.org.il/media/3xlbgkia/המנגנון-עם-מישאל-וקנין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zk0o7evv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-28",
+       "plot": "עם כניסתה של הממשלה החדשה לכהונתה מצא את עצמו יו\"ר הדואר מישאל וקנין בעין הסערה. שר התקשורת החדש שלמה קרעי ביקש להדיח אותו לאחר שנה בלבד בתפקיד - וזאת למרות שווקנין עמד בהצלחה במשימה הראשית שהוגדרה עבורו, להעביר את דואר ישראל תוכנית הבראה. אחרי שפנה לבג\"ץ והצליח להשיג צו נגד ההדחה, וקנין מגיע למנגנון ומספר על מערכת האינטרסים מאחורי השירות והציבורי - ועל מה דרוש כדי להפוך את הדואר ליעיל",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/547727/",
+       "id": "547727"
+      },
+      {
+       "name": "\"זו מלחמה על מדינת ישראל\": המנגנון של החינוך הממלכתי-חרדי עם טלי פרקש",
+       "logo": "https://www.kan.org.il/media/pcnnezgt/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u30wfrrm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-21",
+       "plot": "העיתונאית והחוקרת טלי פרקש נאלצה לאחרונה לעזוב את העיר אלעד, בה התגוררה ב-20 השנים האחרונות. הסיבה – העירייה מסרבת לפתוח בית ספר ממלכתי-חרדי (ממ\"ח) שיתאים לילדיה. פרקש היא מנהלת משותפת של אגודת ידידי הממ\"ח – ארגון שנועד לקדם את הזרם. מדוע יש בו צורך? החינוך הממלכתי-חרדי הוקם בהחלטה של השר שי פירון לפני עשר שנים, ולומדים בו 5% מהתלמידים החרדים במדינה. אולם למרות היותו ממלכתי, הוא סובל מהתנגדות פעילה של ראשי ערים ושל אנשי הממשלה עצמם – בעיקר מהמפלגות החרדיות. למה זה המצב? פרקש מאירה את מנגנון החינוך החרדי ואת משמעות השינוי שנקרא הממ\"ח",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/540127/",
+       "id": "540127"
+      },
+      {
+       "name": "למה יקר פה? המנגנון של מנכ\"ל דיפלומט נועם וימן",
+       "logo": "https://www.kan.org.il/media/x4eh4iuw/whatsapp-image-2023-07-31-at-230126.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hfpt8xg6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-01",
+       "plot": "דיפלומט - היבואנית והמפיצה של מוצרי ג'ילט, סטארקיסט, פאמפרז, היינץ, פיירי, קלוגס ועוד שלל מותגים - היא אחת החברות החזקות בשוק הישראלי. בראש החברה עומד, כבר 34 שנה, נועם וימן. בריאיון ראשון לתקשורת משיב וימן לתפיסה הרווחת שהיבואניות והמפיצות הגדולות אחראיות לכך שסל הקניות בישראל יקר יותר מבאירופה, מגיב לביקורת על השכר הגבוה שלו ומצביע על הסיבה שישראל יקרה יותר ממדינות בעלות פרופיל דומה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/469210/",
+       "id": "469210"
+      },
+      {
+       "name": "רפורמה חזקה, שקל חזק, תקשורת שמאלנית: המנגנון של בצלאל סמוטריץ'",
+       "logo": "https://www.kan.org.il/media/pnujizqm/whatsapp-image-2023-06-19-at-125011.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vd5ep6h9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-19",
+       "plot": "בחמשת החודשים של סמוטריץ' בתפקיד שר האוצר, הוא נאלץ בעיקר להדוף צונאמי של ביקורת וחששות מכל העולם בעקבות המהלכים החקיקתיים שהממשלה מקדמת. אבל הוא משוכנע שהרפורמה המשפטית תחזק את הכלכלה ואת השקל ומדבר על לימודי הליבה ומערכת החינוך בישראל | צפו",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/403025/",
+       "id": "403025"
+      },
+      {
+       "name": "ערבי, פלסטיני, מוסלמי ומכיר במדינת ישראל: המנגנון של מנסור עבאס",
+       "logo": "https://www.kan.org.il/media/k1ogete0/maxresdefault-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s2qjpha4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-14",
+       "plot": "לפני שנתיים מנסור עבאס עשה מהלך היסטורי, אך קצר ימים - הוא נכנס עם מפלגתו רע\"ם לקואליציה ובכך היה למנהיג ערבי ראשון שעושה את זה. היום, ממקומו באופוזיציה, עבאס מספר עד לאן יהיה מוכן ללכת כדי להיות במוקדי קבלת ההחלטות של המדינה - באופן שיטפל בבעיות הליבה של הציבור שבחר בו",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/394134/",
+       "id": "394134"
+      },
+      {
+       "name": "לא רק לדתיים - תל אביב רוצה חינוך משלה: המנגנון של שירלי רימון ברכה",
+       "logo": "https://www.kan.org.il/media/21en4nhx/whatsapp-image-2023-05-24-at-130046.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lertang1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-24",
+       "plot": "מנהלת מינהל חינוך בעיריית תל אביב-יפו, הכינה פיילוט לתוכנית לימודים ליברלית, שתתחיל לפעול כבר בשנה הבאה, והיא בטוחה שיצטרפו אליה רשויות מקומיות נוספות. האם אלו הניצנים של חינוך עצמאי - הפעם מהצד החילוני?",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/374691/",
+       "id": "374691"
+      },
+      {
+       "name": "מה יגרום לחרדים להתגייס? המנגנון של אריה ארליך",
+       "logo": "https://www.kan.org.il/media/o5kptiju/imgid-100656_z.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9861rqim/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-17",
+       "plot": "עורך המגזין של עיתון \"במשפחה\" בטוח שחרדים יתחילו להתגייס בשנים הקרובות, השאלה היא האם המדינה תסכים לקבל אותם | המנגנון עם שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/365867/",
+       "id": "365867"
+      },
+      {
+       "name": "המחאה, השסע העדתי ועבאס: המנגנון של מירב כהן",
+       "logo": "https://www.kan.org.il/media/u0pin5ml/2023-5-4-imgid-99735_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_94eee6tk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "בלי המחאה ברחובות המהפכה המשפטית הייתה עוברת בקלות, הסקרים לא מחמיאים כי אין למפלגה שלה פתרון קל, הממשלה הקודמת נפלה כי היא התביישה בשותפות עם עבאס והשסע העדתי לא ייפתר בנפנופי ידיים | המנגנון עם שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/361764/",
+       "id": "361764"
+      },
+      {
+       "name": "המנגנון | הגרעין האיראני - לא מה שחשבתם: המנגנון של ראש המל\"ל היוצא",
+       "logo": "https://www.kan.org.il/media/k5njylpr/ראש-המלל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_coegkysa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איל חולתא שירת 23 שנה במוסד, ואחרי פרישתו מהארגון מונה לכהן כראש המטה לביטחון לאומי תחת ראשי הממשלה בנט ולפיד. איך רואים את האיומים על ישראל - והמסקנות הלא שגרתיות | המנגנון עם שאול אמסטרדמסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/163817/",
+       "id": "163817"
+      },
+      {
+       "name": "המנגנון | מה יקרה כשפוליטיקאים ימנו לעליון ולמה \"לוין שונא שופטים\"?",
+       "logo": "https://www.kan.org.il/media/zotj3czs/https-kanstaticazureedgenet-download-pictures-2023-3-21-imgid-96519_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y6hb3esb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השופטת בדימוס ורדה אלשיך חושבת שאפשר לשנות את שיטת בחירת השופטים בישראל, אבל לא על ידי הפיכת תהליך המינוי שלהם לפוליטי עוד יותר, מצפה שחבריה השופטים בדימוס יפתחו את הפה, אבל יש לה מה להגיד כשהם פותחים את הפה לכיוון השני",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/163016/",
+       "id": "163016"
+      },
+      {
+       "name": "המנגנון | החברה שרוצה לשנות את הכללים: המנגנון של מנכ\"לית וולט",
+       "logo": "https://www.kan.org.il/media/xgnc3dy5/https-kanstaticazureedgenet-download-pictures-2023-3-12-imgid-95745_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kpsoriqw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ליאור אשכול חושבת שמודל העסקת השליחים ינצח ושחוקי העבודה מתאימים לשנות ה-50, בטוחה שהאפליקציה לא מדרבנת נהיגה פרועה, ומאמינה שהחברה תרחיב את היקף הפעילות בישראל בשנים הקרובות | צפו ב\"המנגנון\"",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/162375/",
+       "id": "162375"
+      },
+      {
+       "name": " המנגנון | היום שאחרי המהפכה: המנגנון של גדעון סער",
+       "logo": "https://www.kan.org.il/media/tu1fcbwh/https-kanstaticazureedgenet-download-pictures-2023-2-17-imgid-94174_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qzyh093k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כבר כמעט 20 שנה שגדעון סער מוביל שינויים במערכת המשפט. הוא נאבק באקטיביזם השיפוטי והצליח להגביל את הכוח של המשפטנים בוועדה לבחירת שופטים. אבל היום, שממשלת נתניהו מתכננת רפורמה מרחיקת לכת במערכת, הוא מהמתנגדים החריפים לה. בפרק 4 של המנגנון, סער מפרט בדיוק מה ההבדל בין התפיסה הביקורתית שלו על הרשות השופטת לעומת מה שהוא מכינה תפיסה מהפכנית של נתניהו ואנשיו",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/160644/",
+       "id": "160644"
+      },
+      {
+       "name": "המנגנון | בין מקוואות לקאנטרי: בית שמש - הצצה לעתיד של ישראל",
+       "logo": "https://www.kan.org.il/media/qzbdcfvv/https-kanstaticazureedgenet-download-pictures-2023-2-7-imgid-93280_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zenfno4n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "היא צריכה 4 כיתות חדשות כל שבוע, בונה מקווה לצד קן לצופים ורודפת אחרי שרים ופקידים - ראש עיריית בית שמש משרטטת תוכנית לחיים משותפים בין חרדים וחילונים | צפו בפרק ה-3 של \"המנגנון\"",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/159612/",
+       "id": "159612"
+      },
+      {
+       "name": "המנגנון | ללמוד או לעבוד? המנגנון של אברימי יוסטמן",
+       "logo": "https://www.kan.org.il/media/0bubsb0q/https-kanstaticazureedgenet-download-pictures-2023-1-25-imgid-92205_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zyj9mwj4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אברימי יוסטמן הוא מנכ\"ל הקרן לשילוב חרדים וחבר צוות המו\"מ הקואליציוני מטעם יהדות התורה. מצד אחד הוא עובד כבר שנים כדי שיותר חרדים ישתלבו בשוק העבודה, ומצד שני ניסח את ההסכם הקואליציוני שחרט על דגלו את קידומם של לומדי התורה, שאינם עובדים. איך הדבר משתלב?",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/158601/",
+       "id": "158601"
+      },
+      {
+       "name": "המדריך למהפכה המשפטית: המנגנון של שמחה רוטמן",
+       "logo": "https://www.kan.org.il/media/dyqhntj2/2023-1-10-imgid-90859_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tiirhlmn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יו\"ר ועדת חוקה חוק ומשפט, שמקדם בכנסת את המהפכה המשפטית, פורס את האידאולוגיה שלו ומצייר מדינה שלדעתו כולם ירצו לחיות בה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11123/157202/",
+       "id": "157202"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

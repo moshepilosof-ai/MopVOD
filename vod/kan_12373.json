@@ -1,0 +1,1612 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אגן הים התיכון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12373/",
+   "series_id": "12373",
+   "updated": "2026-10-27 21:28",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 23.10.26",
+       "logo": "https://www.kan.org.il/media/zymn5dfc/אגן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258316/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1112090/",
+       "id": "1112090"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 16.10.26",
+       "logo": "https://www.kan.org.il/media/1jujnsbc/אגן-הים-התיכון-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2255940/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-16",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1109831/",
+       "id": "1109831"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 09.10.26",
+       "logo": "https://www.kan.org.il/media/lyqbcj0h/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2253693/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-09",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1107703/",
+       "id": "1107703"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 02.10.26",
+       "logo": "https://www.kan.org.il/media/t5dbljbg/אגן-הים-התיכון-21000_01_17_11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2251525/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-02",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1105346/",
+       "id": "1105346"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 25.09.26",
+       "logo": "https://www.kan.org.il/media/yggprckl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249203/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-25",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1102951/",
+       "id": "1102951"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 18.09.26",
+       "logo": "https://www.kan.org.il/media/bu0pmf4g/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246986/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-18",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1100980/",
+       "id": "1100980"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 11.09.26",
+       "logo": "https://www.kan.org.il/media/ghjmiux5/65d0039e-2c82-4d53-886a-bc0f906bd3af.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244955/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-11",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1098786/",
+       "id": "1098786"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 04.09.26",
+       "logo": "https://www.kan.org.il/media/b3sckcca/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242676/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-04",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1096037/",
+       "id": "1096037"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 28.08.26",
+       "logo": "https://www.kan.org.il/media/f3cpp23d/cb075c13-58f6-45f0-85a4-39be18665e7e.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240319/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-28",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1093626/",
+       "id": "1093626"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 21.08.26",
+       "logo": "https://www.kan.org.il/media/c0qajfpn/b02bf1fc-7aa0-4990-aee8-5828286f1d9c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237900/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1091553/",
+       "id": "1091553"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 14.08.26",
+       "logo": "https://www.kan.org.il/media/irgloqag/אגן_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235678/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1088972/",
+       "id": "1088972"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 07.08.26",
+       "logo": "https://www.kan.org.il/media/gsobgcj3/60a14299-d56f-45a1-b075-b5b1b21857fd.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236256/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-07",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1086705/",
+       "id": "1086705"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 31.07.26",
+       "logo": "https://www.kan.org.il/media/fk0gisce/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231046/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-31",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1083907/",
+       "id": "1083907"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 24.07.26",
+       "logo": "https://www.kan.org.il/media/nrtpc1lf/545256f0-8025-4364-889a-25945c604e39.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228893/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-24",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1080988/",
+       "id": "1080988"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 17.07.26",
+       "logo": "https://www.kan.org.il/media/fkujh2dq/אגן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226348/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-17",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1077815/",
+       "id": "1077815"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 10.07.26",
+       "logo": "https://www.kan.org.il/media/rmaoqgdc/ddfba28b-1376-4543-a70e-b042e1ea7c54.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223791/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-10",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1074232/",
+       "id": "1074232"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 12.06.26",
+       "logo": "https://www.kan.org.il/media/4e0duea2/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2211085/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-12",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1052416/",
+       "id": "1052416"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 05.06.26",
+       "logo": "https://www.kan.org.il/media/pt4hgwvn/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208116/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-05",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1049155/",
+       "id": "1049155"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 29.05.26",
+       "logo": "https://www.kan.org.il/media/pa1hvkpf/aea89d93-3a1c-4e3e-90fa-29e5940ef45e.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205931/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-29",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1046510/",
+       "id": "1046510"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 15.05.26",
+       "logo": "https://www.kan.org.il/media/bziifajl/אגן-הים-התיכון-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200686/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-15",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1041436/",
+       "id": "1041436"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 08.05.26",
+       "logo": "https://www.kan.org.il/media/rufj5oe4/1920x1080_4800_hp00_04_55_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198414/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1038768/",
+       "id": "1038768"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 01.05.26",
+       "logo": "https://www.kan.org.il/media/nl3iwtq1/49becc1d-f622-40a0-b96a-ceef1cf55d3b.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196372/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1036477/",
+       "id": "1036477"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 24.04.26",
+       "logo": "https://www.kan.org.il/media/djpie4ld/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2193422/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-24",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1032790/",
+       "id": "1032790"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 17.04.26",
+       "logo": "https://www.kan.org.il/media/ar5fgkgr/ורד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190804/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-17",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1030008/",
+       "id": "1030008"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 10.04.26",
+       "logo": "https://www.kan.org.il/media/v2hlz3xn/96c43bac-a78b-4c3d-a8bc-27c79a2c7c22.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187818/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-10",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1025489/",
+       "id": "1025489"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 26.02.26",
+       "logo": "https://www.kan.org.il/media/yhznn3yr/2171483_1772191830788.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171483/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-27",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1003665/",
+       "id": "1003665"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 20.02.26",
+       "logo": "https://www.kan.org.il/media/cfapscd1/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169075/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-20",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/1001292/",
+       "id": "1001292"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 13.02.26",
+       "logo": "https://www.kan.org.il/media/nyjdkqus/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166462/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-13",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/998759/",
+       "id": "998759"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 06.02.26",
+       "logo": "https://www.kan.org.il/media/43wdzerd/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2164067/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-06",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/996430/",
+       "id": "996430"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 30.01.26",
+       "logo": "https://www.kan.org.il/media/o4mfhoka/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2139191/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-30",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/994284/",
+       "id": "994284"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 23.01.26",
+       "logo": "https://www.kan.org.il/media/hdhbmuka/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2107663/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/992285/",
+       "id": "992285"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 16.01.26",
+       "logo": "https://www.kan.org.il/media/e0fdarjz/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2077344/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-16",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/990319/",
+       "id": "990319"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 09.01.26",
+       "logo": "https://www.kan.org.il/media/d1wp1usg/s0490737_1_t00_00_55_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2057749/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-09",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/988253/",
+       "id": "988253"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 02.01.26",
+       "logo": "https://www.kan.org.il/media/iokpzedj/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2028140/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-02",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/986044/",
+       "id": "986044"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 26.12.25",
+       "logo": "https://www.kan.org.il/media/l3tknons/s0490735_1_t00_00_20_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2015913/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-26",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/983963/",
+       "id": "983963"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 19.12.25",
+       "logo": "https://www.kan.org.il/media/543lbbs2/אגן-הים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1989176/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-19",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/981921/",
+       "id": "981921"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 12.12.25",
+       "logo": "https://www.kan.org.il/media/2luoogcs/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1965289/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-12",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/979916/",
+       "id": "979916"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 05.12.25",
+       "logo": "https://www.kan.org.il/media/nqtpqsls/s0490732_1_t00_01_36_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1956454/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-05",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/977258/",
+       "id": "977258"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 28.11.25",
+       "logo": "https://www.kan.org.il/media/um4dinxv/ורד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1950258/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-28",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/975077/",
+       "id": "975077"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 21.11.25",
+       "logo": "https://www.kan.org.il/media/jjympbb5/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1939933/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/972679/",
+       "id": "972679"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 14.11.25",
+       "logo": "https://www.kan.org.il/media/ltwltmr5/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1917234/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/970657/",
+       "id": "970657"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 07.11.25",
+       "logo": "https://www.kan.org.il/media/pkwfoaqw/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1895351/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-07",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/968472/",
+       "id": "968472"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 31.10.25",
+       "logo": "https://www.kan.org.il/media/ftflznaw/s0490727_1_t00_01_34_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891474/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-31",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/966184/",
+       "id": "966184"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 24.10.25",
+       "logo": "https://www.kan.org.il/media/md1mobrv/s0490726_1_t00_00_05_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891110/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-24",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/963287/",
+       "id": "963287"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 17.10.25",
+       "logo": "https://www.kan.org.il/media/lqbdae2t/s0490725_1_t00_00_44_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890802/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-17",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/961069/",
+       "id": "961069"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 03.10.25",
+       "logo": "https://www.kan.org.il/media/z1gl1daj/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_felrwxyf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-03",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/956507/",
+       "id": "956507"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 26.09.25",
+       "logo": "https://www.kan.org.il/media/azgi1j2o/s0490722_1_t00_00_32_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1f8zevkl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-25",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/954582/",
+       "id": "954582"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 19.09.25",
+       "logo": "https://www.kan.org.il/media/je3bpi0v/s0490721_1_t00_00_59_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4754pjvj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-19",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/952836/",
+       "id": "952836"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 12.09.25",
+       "logo": "https://www.kan.org.il/media/kwtoeibz/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6cpv9yrg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-12",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/950614/",
+       "id": "950614"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 05.09.25",
+       "logo": "https://www.kan.org.il/media/1laliugh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7gxy56ps/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-05",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/948442/",
+       "id": "948442"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 29.08.25",
+       "logo": "https://www.kan.org.il/media/3jofurhg/s0490718_1_t00_00_06_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x30ls4g4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-29",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/946393/",
+       "id": "946393"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 22.08.25",
+       "logo": "https://www.kan.org.il/media/y24bh0ug/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k3nlpput/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-22",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/944234/",
+       "id": "944234"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 15.08.25",
+       "logo": "https://www.kan.org.il/media/v4ldqwwi/s0490716_1_t00_00_49_15still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w5blx5jv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-15",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/941604/",
+       "id": "941604"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 08.08.25",
+       "logo": "https://www.kan.org.il/media/3aypti0f/אגן-היום-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o52gddst/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-08",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/939446/",
+       "id": "939446"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 01.08.25",
+       "logo": "https://www.kan.org.il/media/5encu3ec/s0490714_1_t00_00_26_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_djxn6bmg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-01",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/937173/",
+       "id": "937173"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 25.07.25",
+       "logo": "https://www.kan.org.il/media/t2liif23/s0490713_1_t00_00_08_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rn43ieez/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-25",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. מגישה: ורד יפתחי גרין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/935035/",
+       "id": "935035"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין וקובי אוז  - 18.07.25",
+       "logo": "https://www.kan.org.il/media/moykjef0/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lb80dxgb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-18",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/932672/",
+       "id": "932672"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין ונדב אבקסיס - 11.07.25",
+       "logo": "https://www.kan.org.il/media/n2jp13cu/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3xfnngu2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-11",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/930343/",
+       "id": "930343"
+      },
+      {
+       "name": "אגן הים התיכון עם עומר בן רובי ופרלה דנוך - 04.07.25",
+       "logo": "https://www.kan.org.il/media/5a4iadw3/אגן.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t3jw6wjn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-04",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" בהגשת עומר בן רובי ופרלה דנוך – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/927964/",
+       "id": "927964"
+      },
+      {
+       "name": "אגן הים התיכון עם יניב ביטון וורד יפתחי גרין - 27.06.25",
+       "logo": "https://www.kan.org.il/media/4tan1q3e/יניב-ביטון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yxx08irw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-27",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" בהגשת יניב ביטון וורד יפתחי גרין. הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/925763/",
+       "id": "925763"
+      },
+      {
+       "name": "אגן הים התיכון עם עומר בן רובי וקובי פרג'- 06.06.25",
+       "logo": "https://www.kan.org.il/media/n4afwxc2/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_52zraxp3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-06",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. הפעם עם אגן הים התיכון עם עומר בן רובי וקובי פרג'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/916988/",
+       "id": "916988"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 30.05.25",
+       "logo": "https://www.kan.org.il/media/igmp3kts/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qecvsd2m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-30",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/913645/",
+       "id": "913645"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 23.05.25",
+       "logo": "https://www.kan.org.il/media/bq5p2nfh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aavchpre/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/911225/",
+       "id": "911225"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 16.05.25",
+       "logo": "https://www.kan.org.il/media/5qkpl0js/s0490703_1_t00_08_02_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xb2ydjzb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-16",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/903229/",
+       "id": "903229"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 09.05.25",
+       "logo": "https://www.kan.org.il/media/mqbfn2uo/s0490702_1_t00_00_33_05still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_91bjhoeh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-09",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/900640/",
+       "id": "900640"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 02.05.25",
+       "logo": "https://www.kan.org.il/media/2kdj5n3m/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qggvlpuy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-02",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/895916/",
+       "id": "895916"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 25.04.25",
+       "logo": "https://www.kan.org.il/media/uakgpjgr/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pkeg45fz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-25",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/893627/",
+       "id": "893627"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 18.04.25",
+       "logo": "https://www.kan.org.il/media/wuymds5p/אגן-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9bco9u0w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-18",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/887241/",
+       "id": "887241"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 11.04.25",
+       "logo": "https://www.kan.org.il/media/zb2lnqax/s0490698_1_t00_00_22_16still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qro83vx7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-11",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/881710/",
+       "id": "881710"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 04.04.25",
+       "logo": "https://www.kan.org.il/media/0z1nyvhs/אגן.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_va3a0365/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-04",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/879089/",
+       "id": "879089"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 28.03.25",
+       "logo": "https://www.kan.org.il/media/dxvdfpns/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6a6j6yyk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-28",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/876557/",
+       "id": "876557"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 21.03.25",
+       "logo": "https://www.kan.org.il/media/bsclrzqx/s0490695_1_t00_51_18_21still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qjfwutwu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/873425/",
+       "id": "873425"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 14.03.25",
+       "logo": "https://www.kan.org.il/media/uhifo45m/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vlbmal48/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/870622/",
+       "id": "870622"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 07.03.25",
+       "logo": "https://www.kan.org.il/media/dn3pcu3o/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3qnrqrtt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-07",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/868115/",
+       "id": "868115"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 28.02.25",
+       "logo": "https://www.kan.org.il/media/budhubjy/יכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q2u0sgv6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-28",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/865600/",
+       "id": "865600"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 21.02.25",
+       "logo": "https://www.kan.org.il/media/05gdao51/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fszcwnxb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/862695/",
+       "id": "862695"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 14.02.25",
+       "logo": "https://www.kan.org.il/media/5lcgfr0k/מיכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wxlesbb4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/860045/",
+       "id": "860045"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 07.02.25",
+       "logo": "https://www.kan.org.il/media/ui0nmzm4/s0490689_1_t00_04_37_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c1800rlq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-07",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/857259/",
+       "id": "857259"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 31.01.25",
+       "logo": "https://www.kan.org.il/media/djxflrha/אגן-הים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mvgjl7rk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-31",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/854429/",
+       "id": "854429"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 24.01.25",
+       "logo": "https://www.kan.org.il/media/5nrofhoz/s0490687_1_t00_12_56_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f6ybh5s0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-24",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/851417/",
+       "id": "851417"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 10.01.25",
+       "logo": "https://www.kan.org.il/media/fu0mpbzm/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1gjt2d49/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-10",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/845700/",
+       "id": "845700"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 03.01.25",
+       "logo": "https://www.kan.org.il/media/le4ngrgz/s0483427_1_t00_00_03_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ss5npmc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-03",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/843442/",
+       "id": "843442"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 27.12.24",
+       "logo": "https://www.kan.org.il/media/0ahcen4v/אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a42fczk7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-27",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/841006/",
+       "id": "841006"
+      },
+      {
+       "name": "אגן הים התיכון",
+       "logo": "https://www.kan.org.il/media/u22pygbr/התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w0jbfnii/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-20",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/838282/",
+       "id": "838282"
+      },
+      {
+       "name": "אגן הים התיכון",
+       "logo": "https://www.kan.org.il/media/kltbybgz/מיכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dh8fy2f2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-13",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/835705/",
+       "id": "835705"
+      },
+      {
+       "name": "אגן הים התיכון",
+       "logo": "https://www.kan.org.il/media/slnls2bb/אגן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uyxua4q9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-06",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/832994/",
+       "id": "832994"
+      },
+      {
+       "name": "אגן הים התיכון",
+       "logo": "https://www.kan.org.il/media/vmmlxejt/מיכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_igimpmhy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-28",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/830341/",
+       "id": "830341"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 22.11.24",
+       "logo": "https://www.kan.org.il/media/1snnpkhj/nhfk.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_az3knozy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/827122/",
+       "id": "827122"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 15.11.24",
+       "logo": "https://www.kan.org.il/media/hmsfycct/s0483420_1_t00_00_25_15still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t9pa0lhj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-15",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/824850/",
+       "id": "824850"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 01.11.2024",
+       "logo": "https://www.kan.org.il/media/ntijzjed/מיכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wbniwh5w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-01",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/819239/",
+       "id": "819239"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 25.10.24",
+       "logo": "https://www.kan.org.il/media/htzf0g21/s0437418_1_t00_26_21_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3rnt4ao9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-25",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/816262/",
+       "id": "816262"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 18.10.24",
+       "logo": "https://www.kan.org.il/media/2konb3kb/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rw3lax6s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-18",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/813772/",
+       "id": "813772"
+      },
+      {
+       "name": "אגן הים התיכון - ספיישל רון שובל - 16.10.24",
+       "logo": "https://www.kan.org.il/media/l5vb4ybj/אגן-הים-התיכון-1610.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tm0k0fei/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-16",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/813122/",
+       "id": "813122"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 27.09.24",
+       "logo": "https://www.kan.org.il/media/nvchp0qs/s0437414_1_t00_00_12_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m9fi29lo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-27",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/805137/",
+       "id": "805137"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 20.09.24",
+       "logo": "https://www.kan.org.il/media/ttef1hre/מיכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8fvz46f0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-20",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/802343/",
+       "id": "802343"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 13.09.24",
+       "logo": "https://www.kan.org.il/media/nbrjxqer/אגן-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6qt2gld3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-13",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/799726/",
+       "id": "799726"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 06.09.24",
+       "logo": "https://www.kan.org.il/media/zpkjxl4n/אגן-הים-התיכון-תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rf9d8yyx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-06",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/797293/",
+       "id": "797293"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 30.08.24",
+       "logo": "https://www.kan.org.il/media/5x0kbx5c/מיכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_di0alds3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-30",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/794393/",
+       "id": "794393"
+      },
+      {
+       "name": "אגן הים התיכון - ספיישל שלומי שבת - 23.08.24",
+       "logo": "https://www.kan.org.il/media/34vh31mx/שלומי-אגן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gfamrb2z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, בספיישל שלומי שבת לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/792021/",
+       "id": "792021"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 23.08.24",
+       "logo": "https://www.kan.org.il/media/2smg2ldd/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qgn8spse/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/792020/",
+       "id": "792020"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 16.08.24",
+       "logo": "https://www.kan.org.il/media/f5ti2ozp/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rnq3ohki/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-16",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/784844/",
+       "id": "784844"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 09.08.24",
+       "logo": "https://www.kan.org.il/media/5anhfr3n/kan11_2024-08-09_10_33_31.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o219tu6t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-09",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/782515/",
+       "id": "782515"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 02.08.24",
+       "logo": "https://www.kan.org.il/media/a5inhz12/אגן-הים-התיכון-28.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_spqh5xbl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-02",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/779735/",
+       "id": "779735"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 26.07.24",
+       "logo": "https://www.kan.org.il/media/qweldmsp/s0437405_1_t00_00_58_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_24biwsh6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-26",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/777304/",
+       "id": "777304"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 19.07.24",
+       "logo": "https://www.kan.org.il/media/dzoarsux/מיכל-אסוללין-אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ie3mu581/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-19",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/774780/",
+       "id": "774780"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 12.07.24",
+       "logo": "https://www.kan.org.il/media/qkwnseux/s0437403_1_t00_27_30_05still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ndjzypl7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-12",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/772285/",
+       "id": "772285"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 05.07.24",
+       "logo": "https://www.kan.org.il/media/o5wkptri/s0437402_1_t00_01_25_04still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mwjoc2uo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-05",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/769810/",
+       "id": "769810"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 28.06.24",
+       "logo": "https://www.kan.org.il/media/4qbbywtc/אגן-הים-התיכון-286.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5eobx2kh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-28",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/767023/",
+       "id": "767023"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 21.06.24",
+       "logo": "https://www.kan.org.il/media/vv4pezxs/אגן-הים-התיכון-216.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_reav45zm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/763939/",
+       "id": "763939"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 14.06.24",
+       "logo": "https://www.kan.org.il/media/0dublr4l/אגן-הים-התיכון-146.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y48auwf2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/760942/",
+       "id": "760942"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 11.06.24",
+       "logo": "https://www.kan.org.il/media/1ded1uue/kan11_2024-06-11_11_06_26.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wwh0qata/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-11",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/760029/",
+       "id": "760029"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 07.06.24",
+       "logo": "https://www.kan.org.il/media/1yrnyvlf/אגן-הים-התיכון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kyabfeou/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-07",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/758544/",
+       "id": "758544"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 31.05.24",
+       "logo": "https://www.kan.org.il/media/m45io4tj/אגן-הים-התיכון-310524.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2wzoneiu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-31",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/755808/",
+       "id": "755808"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 24.05.24",
+       "logo": "https://www.kan.org.il/media/bllhp4de/agan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_16i7uwxh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-24",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/753115/",
+       "id": "753115"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 17.05.24",
+       "logo": "https://www.kan.org.il/media/rwhfsxsg/אגן-הים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_homepxl6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-17",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/750315/",
+       "id": "750315"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 14.05.24",
+       "logo": "https://www.kan.org.il/media/3bjfn0mm/s0471120_1_t00_00_23_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ihcvnktw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-14",
+       "plot": "מצעד אגן הים התיכון של כאן גימל בשיתוף YNET. בו ייבחרו השירים האהובים, החשובים והגדולים בתולדות הזמר הים תיכוני מאז קום המדינה ועד היום. מגישים: מיכל אסולין ואבי אבורומי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/749097/",
+       "id": "749097"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 10.05.24",
+       "logo": "https://www.kan.org.il/media/5hriqkvb/kan11_2024-05-10_11_56_18.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_921tkg3y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-10",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/747628/",
+       "id": "747628"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 03.05.24",
+       "logo": "https://www.kan.org.il/media/sahfvllp/אגן-הים-התיכון-030524.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_skxbnip0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-03",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/744746/",
+       "id": "744746"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 26.04.24",
+       "logo": "https://www.kan.org.il/media/evljo2a0/אגן-הים-260424.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fhi6gpxx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-19",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/739942/",
+       "id": "739942"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 12.04.24",
+       "logo": "https://www.kan.org.il/media/dcglkcey/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7j645iqq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-12",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/736922/",
+       "id": "736922"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 05.04.24",
+       "logo": "https://www.kan.org.il/media/3iojiouh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_493kwmps/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-05",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/734030/",
+       "id": "734030"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 29.03.24",
+       "logo": "https://www.kan.org.il/media/dt1dp3oh/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tkf0ppty/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-29",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/730674/",
+       "id": "730674"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 22.03.24",
+       "logo": "https://www.kan.org.il/media/5ijdg3ki/אגן-הים-התיכון-עם-מיכל-אסולין-220324.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_47aswc86/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-22",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/727116/",
+       "id": "727116"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 15.03.24",
+       "logo": "https://www.kan.org.il/media/tfgdbddy/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jwezowsw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-15",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/723528/",
+       "id": "723528"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 08.03.24",
+       "logo": "https://www.kan.org.il/media/3efoxwl1/37.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lm1yd0a1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-07",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/717440/",
+       "id": "717440"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 01.03.24",
+       "logo": "https://www.kan.org.il/media/htihsbqc/s0437384_100_08_10_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1wqpv1ov/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-01",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/714166/",
+       "id": "714166"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 23.02.24",
+       "logo": "https://www.kan.org.il/media/shtb1tdo/00.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hs8g6oo0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/709495/",
+       "id": "709495"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 16.02.24",
+       "logo": "https://www.kan.org.il/media/grlbghvw/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k2he5ho4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-16",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/705575/",
+       "id": "705575"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 09.02.24",
+       "logo": "https://www.kan.org.il/media/hyvhtbg2/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zl7ikfp1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-09",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/700816/",
+       "id": "700816"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 02.02.24",
+       "logo": "https://www.kan.org.il/media/hswklfss/agent-tarbut-pgm-020224-digital00_10_58_13still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3vlpugl6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-02",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/696904/",
+       "id": "696904"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 26.01.24",
+       "logo": "https://www.kan.org.il/media/qphlfxjo/s0437379_1_t00_00_05_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qv42e76c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-26",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/692716/",
+       "id": "692716"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 19.01.24",
+       "logo": "https://www.kan.org.il/media/wpplanap/s0437378_1_m_t00_32_39_13still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j9riq68u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-19",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/687591/",
+       "id": "687591"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 06.10.23",
+       "logo": "https://www.kan.org.il/media/k1alyi0z/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a4u5oh5j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-06",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/557602/",
+       "id": "557602"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 29.09.23",
+       "logo": "https://www.kan.org.il/media/bljgmmag/s0437376_1_t00_00_13_17still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gtvjghb6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-29",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/548838/",
+       "id": "548838"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 22.09.23",
+       "logo": "https://www.kan.org.il/media/oeimyuce/s0437375_1_t00_07_48_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_43vqmikk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/539806/",
+       "id": "539806"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 15.09.23",
+       "logo": "https://www.kan.org.il/media/linpo525/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tawg2del/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-15",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/532322/",
+       "id": "532322"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 08.09.23",
+       "logo": "https://www.kan.org.il/media/kc3d0zqg/agan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qa22p3md/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-08",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/522594/",
+       "id": "522594"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 01.09.23",
+       "logo": "https://www.kan.org.il/media/cchiru5n/agan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w90nllzy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-01",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/512753/",
+       "id": "512753"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 25.08.23",
+       "logo": "https://www.kan.org.il/media/0fpndz2c/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t6ss2rx5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-25",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/502239/",
+       "id": "502239"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 18.08.23",
+       "logo": "https://www.kan.org.il/media/wjmjbe0s/a01_133368183039270000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_72f5klio/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-18",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/492310/",
+       "id": "492310"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 11.08.23",
+       "logo": "https://www.kan.org.il/media/emxdocmf/a01_133362128876070000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i2xtfqxk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-11",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/482864/",
+       "id": "482864"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 04.08.23",
+       "logo": "https://www.kan.org.il/media/qm1eoaf2/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iczod292/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-03",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/472125/",
+       "id": "472125"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 28.07.23",
+       "logo": "https://www.kan.org.il/media/jwyox12a/agan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5w0saa83/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-28",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/464374/",
+       "id": "464374"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 21.07.23",
+       "logo": "https://www.kan.org.il/media/42tlmy13/agan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7buhqhwd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-21",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/455611/",
+       "id": "455611"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 14.07.23",
+       "logo": "https://www.kan.org.il/media/khqb322t/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zt0xbtpg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/445314/",
+       "id": "445314"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 07.07.23",
+       "logo": "https://www.kan.org.il/media/n0xpe5ov/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_etgvncza/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-07",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/437285/",
+       "id": "437285"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 30.06.23",
+       "logo": "https://www.kan.org.il/media/ws2br4as/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6y1wbxzp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-30",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/423064/",
+       "id": "423064"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 23.06.23",
+       "logo": "https://www.kan.org.il/media/vmve0dav/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ppv1ttqa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/410747/",
+       "id": "410747"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 16.06.23",
+       "logo": "https://www.kan.org.il/media/kuvljxjw/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ht1kvbw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-16",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/397970/",
+       "id": "397970"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 09.06.23",
+       "logo": "https://www.kan.org.il/media/y2ebbhur/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_00sqi9ak/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-09",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/390893/",
+       "id": "390893"
+      },
+      {
+       "name": "אגן הים התיכון",
+       "logo": "https://www.kan.org.il/media/qtdplfdf/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xyqwcity/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-02",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/384171/",
+       "id": "384171"
+      },
+      {
+       "name": "אגן הים התיכון עם ורד יפתחי גרין - 19.05.23",
+       "logo": "https://www.kan.org.il/media/gyljzk15/agan.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fuqv5k9d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-19",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם ורד יפתחי גרין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/368915/",
+       "id": "368915"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 12.05.23",
+       "logo": "https://www.kan.org.il/media/irahn2ik/2023-5-12-imgid-100323_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_13sx40o8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/362347/",
+       "id": "362347"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 05.05.23",
+       "logo": "https://www.kan.org.il/media/ak0pnvgp/2023-5-5-imgid-99791_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wcuzi5c4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/361807/",
+       "id": "361807"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 28.04.23",
+       "logo": "https://www.kan.org.il/media/wwbfm432/2023-4-28-imgid-99184_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cu8d3f04/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/327910/",
+       "id": "327910"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 21.04.23",
+       "logo": "https://www.kan.org.il/media/psflg2ob/2023-4-21-imgid-98636_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cx9d4bb9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/164651/",
+       "id": "164651"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 14.04.23",
+       "logo": "https://www.kan.org.il/media/qmyp0maq/2023-4-14-imgid-98124_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d4qwk7xj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/164207/",
+       "id": "164207"
+      },
+      {
+       "name": "אגן הים התיכון - ספיישל מימונה - 13.4.23",
+       "logo": "https://www.kan.org.il/media/jozlji1w/https-kanstaticazureedgenet-download-pictures-2023-4-13-imgid-98056_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_41ax1zha/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/164156/",
+       "id": "164156"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 07.04.23",
+       "logo": "https://www.kan.org.il/media/mrtlacmd/https-kanstaticazureedgenet-download-pictures-2023-4-7-imgid-97698_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a40b6x4t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/163919/",
+       "id": "163919"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 31.03.23",
+       "logo": "https://www.kan.org.il/media/gnper0hf/https-kanstaticazureedgenet-download-pictures-2023-3-31-imgid-97237_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0nipaup3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/163631/",
+       "id": "163631"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 24.03.23",
+       "logo": "https://www.kan.org.il/media/305dtewr/2023-3-24-imgid-96752_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1d49m9vb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/163265/",
+       "id": "163265"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 17.03.23",
+       "logo": "https://www.kan.org.il/media/ylfdtwyc/https-kanstaticazureedgenet-download-pictures-2023-3-17-imgid-96235_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qy4b4azw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/162829/",
+       "id": "162829"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 10.03.23",
+       "logo": "https://www.kan.org.il/media/33mhtygx/https-kanstaticazureedgenet-download-pictures-2023-3-10-imgid-95666_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nz96u38z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/162285/",
+       "id": "162285"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 03.03.23",
+       "logo": "https://www.kan.org.il/media/1o1ny5t2/https-kanstaticazureedgenet-download-pictures-2023-3-3-imgid-95193_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ma0254f8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/161787/",
+       "id": "161787"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 24.02.23",
+       "logo": "https://www.kan.org.il/media/nj4frrtl/https-kanstaticazureedgenet-download-pictures-2023-2-24-imgid-94714_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7p6v9h30/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/161307/",
+       "id": "161307"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 17.02.23",
+       "logo": "https://www.kan.org.il/media/4rvisvdu/https-kanstaticazureedgenet-download-pictures-2023-2-17-imgid-94183_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_36wlqxub/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/160575/",
+       "id": "160575"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 10.02.23",
+       "logo": "https://www.kan.org.il/media/ji5nnwtr/https-kanstaticazureedgenet-download-pictures-2023-2-10-imgid-93639_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ngo54aez/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/159975/",
+       "id": "159975"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 03.02.23",
+       "logo": "https://www.kan.org.il/media/wzwfa3cx/https-kanstaticazureedgenet-download-pictures-2023-2-3-imgid-92993_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4aovb6d1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/159378/",
+       "id": "159378"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 27.01.23",
+       "logo": "https://www.kan.org.il/media/w2xphvv5/https-kanstaticazureedgenet-download-pictures-2023-1-27-imgid-92407_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d5hl1i19/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/158865/",
+       "id": "158865"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 20.01.23",
+       "logo": "https://www.kan.org.il/media/qcufbmy4/https-kanstaticazureedgenet-download-pictures-2023-1-20-imgid-91736_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sk7fg1fz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/157934/",
+       "id": "157934"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 13.01.23",
+       "logo": "https://www.kan.org.il/media/msndzyyn/2023-1-13-imgid-91100_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kiqz8j4p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/157286/",
+       "id": "157286"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 06.01.23",
+       "logo": "https://www.kan.org.il/media/gdef3yd1/https-kanstaticazureedgenet-download-pictures-2023-1-6-imgid-90609_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_32jzib05/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/156782/",
+       "id": "156782"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 30.12.22",
+       "logo": "https://www.kan.org.il/media/r2gn5dlv/https-kanstaticazureedgenet-download-pictures-2022-12-30-imgid-90103_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0rixskap/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/156282/",
+       "id": "156282"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 23.12.22",
+       "logo": "https://www.kan.org.il/media/jzvkmdu2/https-kanstaticazureedgenet-download-pictures-2022-12-23-imgid-89640_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9tnlew63/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/155909/",
+       "id": "155909"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 16.12.22",
+       "logo": "https://www.kan.org.il/media/0uoleiik/https-kanstaticazureedgenet-download-pictures-2022-12-16-imgid-88992_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0awlfx4y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/155075/",
+       "id": "155075"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 09.12.22",
+       "logo": "https://www.kan.org.il/media/j1rjsyy2/2022-12-9-imgid-88370_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mf21wsm4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/154451/",
+       "id": "154451"
+      },
+      {
+       "name": "אגן הים התיכון עם מיכל אסולין - 02.12.22",
+       "logo": "https://www.kan.org.il/media/fzejtxpt/https-kanstaticazureedgenet-download-pictures-2022-12-2-imgid-87733_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mf21wsm4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית המיתולוגית ״אגן הים התיכון\" – הפסקול של יום שישי, עם המוזיקה שתלווה אתכם לקראת השבת. עם מיכל אסולין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12373/153782/",
+       "id": "153782"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

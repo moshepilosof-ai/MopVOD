@@ -1,0 +1,186 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אתה חייב לקרוא את זה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-895076/",
+   "series_id": "895076",
+   "updated": "2026-10-28 09:29",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אתה חייב לקרוא את זה - עונה 2 | פרק 12 - מיקל ושרה",
+       "logo": "https://www.kan.org.il/media/knilypxj/12_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203930/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "פרק סיום העונה. גורי אלפי, ג'ימבו ג'יי, הילה קורח, שיר ראובן, אלונה סער ותם אהרון, ממליצים למבקשת מקלט מאריתריאה ולסבתא סטנדאפיסטית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1045069/",
+       "id": "1045069",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 11 - לי ואריאל",
+       "logo": "https://www.kan.org.il/media/g2nj3yhc/11_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199208/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-11",
+       "plot": "קומיקאים ואנשי ספר נאבקים על המלצת הקריאה המושלמת - בלי רחמים. והפעם דנה מודן, יובל מנדלסון, איתי רייכר, עינב גלילי, אלי ביתאן וחיה גלבוע ממליצים למתורגמנית לשפת הסימנים ולמתאבק \"רסלינג ישראל\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1039895/",
+       "id": "1039895",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה - עונה 2 | פרק 9 - עידן ושלי",
+       "logo": "https://www.kan.org.il/media/sykjpqh1/9_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196647/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-04",
+       "plot": "דורון נשר, שיר ראובן, איתי רייכר, ג'רמי פוגל, קותי סבג ושרון קנטור ממליצים למנהלת מחלקת הטורפים בספארי ולעובד באסדת הגז \"תמר\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1037008/",
+       "id": "1037008",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 8 - אוריין ואנדרו",
+       "logo": "https://www.kan.org.il/media/03tbasqk/אתה-חייב-לקרוא-את-זה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196558/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "טל פרידמן, בן בן ברוך, הילה קורח, איתי רייכר, ג'רמי פוגל וליה שרביט ממליצים לעולה חדש ממיאמי ולמנצח בתזמורת האנדלוסית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1036783/",
+       "id": "1036783",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה! עונה 2 | פרק 10 - יעל ומאי",
+       "logo": "https://www.kan.org.il/media/bk4jqgk2/10_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196483/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "רון קופמן, גורי אלפי, שיר ראובן, דן אריאלי, הילה קורח ויובל פלוטקין ממליצים לפונדקאית ולשחקנית פוקר תחרותית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1036527/",
+       "id": "1036527",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 7 - עידן ונועה",
+       "logo": "https://www.kan.org.il/media/lmvosw4b/אחלאז7_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194808/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "יניב ביטון, ליאור דיין, גיתית פישר, מיה דגן, הילה קורח וליה שרביט ממליצים לכוכב היוטיוב עידן אינדה גיים ולביולוגית ימית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1034566/",
+       "id": "1034566",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 6 - לירז ואושרי",
+       "logo": "https://www.kan.org.il/media/0o0jztxy/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194806/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "הפעם עינב גלילי, גורי אלפי, גיתית פישר, אלי ביתאן, גלית חוגי ויובל פלוטקין ממליצים לסוכנת משטרה סמויה ולנער גאון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1034561/",
+       "id": "1034561",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה! עונה 2 | פרק 5 - שירה, בן ודורון",
+       "logo": "https://www.kan.org.il/media/5o4ietb3/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169700/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-22",
+       "plot": "צביקה הדר, נטע רוט, פרופ' דן אריאלי, איתי רייכר, אלעד בר נוי ומיה דגן מהטיקטוק, ממליצים לזוג נשוי שקורא ספרים ביחד וללוכדת נחשים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1001837/",
+       "id": "1001837",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 2 - קרן ויהלי",
+       "logo": "https://www.kan.org.il/media/pszdxubl/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169697/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-22",
+       "plot": "גיתית פישר, שיר ראובן, ג'רמי פוגל, אמה אלפי, רבקה מיכאלי ויובל מנדלסון ממליצים לאחות המלווה אנשים להמתת חסד בשוויץ ולנערה \"בוקטוקרית\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/1001835/",
+       "id": "1001835",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 4 - אנת תהון ודודי",
+       "logo": "https://www.kan.org.il/media/ihrbqldj/d7b539a3-a64f-4f20-9784-a834b5dbaa7b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167658/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "טל פרידמן, גיתית פישר, יובל מנדלסון, איתי רייכר, רויטל ויטלזון-יעקבס ואלעד בר נוי ממליצים לספרנית בכלא ולשייט שקורא ספר אחד ביום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/999902/",
+       "id": "999902",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 3 - חן ויודי",
+       "logo": "https://www.kan.org.il/media/uiodzz0g/0ffb7aca-94e1-481a-b7d7-6b83c7efb902.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167650/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "והפעם איל קיציס, ג'רמי פוגל, אלונה סער, איתי רייכר, דינה סנדרסון ופרופ' עודד רכבי ממליצים לחן הפוליאמורית וליודי רועה הצאן מרמת הגולן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/999843/",
+       "id": "999843",
+       "season": 2
+      },
+      {
+       "name": "אתה חייב לקרוא את זה עונה 2 | פרק 1 - איתמר ואלמוג",
+       "logo": "https://www.kan.org.il/media/upwb1agi/231fd55f-9bfd-4559-9c28-c784fb717faf.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167645/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "עונה חדשה! קומיקאים ואנשי ספר נאבקים על המלצת הקריאה המושלמת. בלי רחמים. והפעם גורי אלפי, גיתית פישר, צדי צרפתי, יניב ביטון, רביטל ויטלזון יעקבס וקותי סבג ממליצים לחוקר פרטי ולדוקטור המתמחה בפטריות הזיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/999803/",
+       "id": "999803",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אתה חייב לקרוא את זה עונה 1 | פרק 1 - תמר וזוהר",
+       "logo": "https://www.kan.org.il/media/vixjetew/תמונה-לטמבנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x6fskvvc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "קומיקאים ואנשי ספר פוגשים אורח שמחפש מה לקרוא. הם ינסו לשכנע אותו שההמלצה שלהם מושלמת ושל השאר ממש לא. עם גורי אלפי, אלי חביב, דנה מודן, אלונה סער, איתי רייכר ורביטל ויטלזון יעקבס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/s1/895077/",
+       "id": "895077",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אתה חייב לקרוא את זה | הצצה",
+       "logo": "https://www.kan.org.il/media/c2ynlafo/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169878/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "קומיקאים ואנשי ספר פוגשים אורח שמחפש מה לקרוא. הם ינסו לשכנע אותו שההמלצה שלהם מושלמת ושל השאר ממש לא. כל האמצעים כשרים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/1002361/",
+       "id": "1002361"
+      },
+      {
+       "name": "אתה חייב לקרוא את זה | טריילר",
+       "logo": "https://www.kan.org.il/media/aw3la3fn/1920x1080-with-logo_אתה-חייב-לקרוא-את-זה-copy.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_crwc0pn6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "קומיקאים ואנשי ספר פוגשים אורח שמחפש מה לקרוא. הם ינסו לשכנע אותו שההמלצה שלהם מושלמת ושל השאר ממש לא. כל האמצעים כשרים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/922327/",
+       "id": "922327"
+      },
+      {
+       "name": "אתה חייב לקרוא את זה - הצצה | המלצה לתמר",
+       "logo": "https://www.kan.org.il/media/kzchwlig/אתהחייב-לקרוא-את-זה-ת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x1sg4c7b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-09",
+       "plot": "גורי אלפי, דנה מודן ואלי חביב ינסו להמליץ על ספר שייתן לתמר השראה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-895076/918087/",
+       "id": "918087"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

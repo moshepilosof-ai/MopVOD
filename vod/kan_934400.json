@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קישקה: מספר את עצמי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-934400/",
+   "series_id": "934400",
+   "updated": "2026-10-28 13:11",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קישקה: מספר את עצמי | הצצה",
+       "logo": "https://www.kan.org.il/media/fjnkn4rv/1920x1080-with-logo_קישקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2131538/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-28",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-934400/993941/",
+       "id": "993941"
+      },
+      {
+       "name": "קישקה: מספר את עצמי",
+       "logo": "https://www.kan.org.il/media/qpopcv5t/1920x1080_no-logo_קישקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2phgp86n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-23",
+       "plot": "לקראת פרישתו ובשיא הצלחתו כמאייר וקומיקסאי חושף מישל קישקה בן הדור השני את סיפור משפחתו הטרגי בצל אבא ניצול שואה, ומנסה לצייר קוים בין עברו הטראגי למצב החברה בישראל היום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-934400/934414/",
+       "id": "934414"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

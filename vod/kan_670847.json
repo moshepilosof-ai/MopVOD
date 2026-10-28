@@ -1,0 +1,163 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חיים שכאלה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670847/",
+   "series_id": "670847",
+   "updated": "2026-10-28 11:15",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חיים שכאלה | פרק 11 - יוסי ידין",
+       "logo": "https://www.kan.org.il/media/hjyicjix/yossiyadin_cover.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s1jhkuq5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית מלאת הפתעות והעלאת זכרונות לאחד מבכירי השחקנים של תיאטרון הקאמרי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/677519/",
+       "id": "677519",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 1 - חיים גורי",
+       "logo": "https://www.kan.org.il/media/z3vkfyhk/haimguri01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pxrci638/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הסופר והמשורר חתן פרס ישראל, בתוכנית מלאת אורחים וזכרונות מתחנות חייו - מהילדות בתל אביב, דרך שירותו בפלמ\"ח ועד לקריירת הכתיבה המפוארת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/676434/",
+       "id": "676434",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 12 - חיים שכאלה חוזרים עם אביגדור קהלני",
+       "logo": "https://www.kan.org.il/media/mogfmqdv/kahalani.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ityi14ob/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית המוקדשת לגיבור ישראל, עם חברים, לוחמים ובני משפחה, המספרים סיפורים ואנקדוטות מפתיעות מחייו של האורח המיוחד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674353/",
+       "id": "674353",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 3 - עזר וייצמן חלק א'",
+       "logo": "https://www.kan.org.il/media/yeklagic/waizman01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kw99dit3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית המוקדשת למפקד חיל האוויר לשעבר ונשיא ישראל לעתיד. עם חברים ובני משפחה, החושפים עוד סיפורים וצדדים בחייו של הטייס המהולל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674350/",
+       "id": "674350",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 4 - עזר ויצמן חלק ב'",
+       "logo": "https://www.kan.org.il/media/sh0iupy4/waizman02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ypzqwhn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית המוקדשת למפקד חיל האוויר לשעבר ונשיא ישראל לעתיד. עם חברים ובני משפחה, החושפים עוד סיפורים וצדדים בחייו של הטייס המהולל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674344/",
+       "id": "674344",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 6 - גולדה מאיר חלק א'",
+       "logo": "https://www.kan.org.il/media/kobnyrph/golda1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wba5tdij/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית המוקדשת לקורות חייה המפוארים של ראש הממשלה הרביעית של ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674338/",
+       "id": "674338",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 7 - גולדה מאיר חלק ב'",
+       "logo": "https://www.kan.org.il/media/nevjjwfz/golda2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xooeq3hl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית המוקדשת לקורות חייה המפוארים של ראש הממשלה הרביעית של ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674335/",
+       "id": "674335",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 8 - שושנה דמארי",
+       "logo": "https://www.kan.org.il/media/cgbh5y1a/shoshana.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u3ht21p1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק המוקדש למסע בין תחנות חייה של מלכת הזמר העברי , בליווי אורחים, חברים ושירים בביצועה. שודר בשנת 1984",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674138/",
+       "id": "674138",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 5 - חיים טופול",
+       "logo": "https://www.kan.org.il/media/dlkhnvlw/חיים-שכאלה-חיים-טופול.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fwagauvw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מילדותו בשכונת פלורנטין ועד לקריירה הבינלאומית - נקודות בחייו של היוצר הישראלי מרובה הכשרונות. שודר בשנת 1977",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674053/",
+       "id": "674053",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 13 - חיים שכאלה חוזרים עם חיים טופול",
+       "logo": "https://www.kan.org.il/media/2gppyknx/haimtopol01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_28qzjrx4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חוזרים 21 שנים אחורה אל אולפן התכנית בשחור לבן הישר לשנת 1977 שם צולמה התכנית בכיכובו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674050/",
+       "id": "674050",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 2 - שלמה בר שביט",
+       "logo": "https://www.kan.org.il/media/s2uccfnd/shlomo-bar-shavit.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s4r333ut/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אורח התכנית הוא שחקן תאטרון שסיפור חייו מלווה תקופה של מאורעות גדולים וקטנים בהיסטוריה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674031/",
+       "id": "674031",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 10 - אפרים קישון",
+       "logo": "https://www.kan.org.il/media/wrdbowr1/efraimkish01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t7svb375/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נקודות בחייו של הסופר, הסאטיריקן, המחזאי, הסריטאי, הפובליציסט, וחתן פרס ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674028/",
+       "id": "674028",
+       "season": 1
+      },
+      {
+       "name": "חיים שכאלה | פרק 9 - יפה ירקוני",
+       "logo": "https://www.kan.org.il/media/zlvjgmhi/yafayarkoni01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hx5jydu6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הזמרת שמילאה אולמות בארץ ובחו\"ל היתה בטוחה שמגיעה להופיע בתכנית \"סיבה למסיבה\" ומופתעת בכניסה לאולפן. שודר בשנת 1986",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/s1/674025/",
+       "id": "674025",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חיים שכאלה | פתיח",
+       "logo": "https://www.kan.org.il/media/1v3g5vhg/פתיח-חיים-שכאלה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hm5xhoju/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית המיתולוגית \"חיים שכאלה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670847/943244/",
+       "id": "943244"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

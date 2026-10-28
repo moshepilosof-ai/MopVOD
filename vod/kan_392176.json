@@ -1,0 +1,129 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מחשבות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-392176/",
+   "series_id": "392176",
+   "updated": "2026-10-28 12:22",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מחשבות | כל מה שחשבתם בהרמת הכוסית במשרד",
+       "logo": "https://www.kan.org.il/media/s0plgt3e/4026_1_00252.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "מתי תיגמר המצגת המייגעת הזאת ומה המתנה המבאסת שאקבל כי שוב שכחתי לבחור שי לחג? בקיצור, הדבר הראשון שאנחנו מאחלים לעצמנו זה שתיגמר הרמת הכוסית הזאת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/1098698/",
+       "id": "1098698",
+       "season": 1
+      },
+      {
+       "name": "אני לא נרדמת בלילה",
+       "logo": "https://www.kan.org.il/media/b05bszuo/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nf197i0u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-27",
+       "plot": "\"מעניין אם תהיה מחר אזעקה, או אם אשמע על עוד מישהו שאני מכירה שנהרג\": ליאור מדברת את המחשבות שמקשות על כולנו, בעיקר בלילות. בן הזוג במילואים, החטופים שעוד לא חזרו, האנטישמיות בעולם, הצפון הבוער וכמובן, עונת היתושים שהחלה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/829485/",
+       "id": "829485",
+       "season": 1
+      },
+      {
+       "name": "מחשבות | עוד סבב מילואים?",
+       "logo": "https://www.kan.org.il/media/p0rhwrwf/3375_mahshavot_tv_no_sub_02776.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_78nzjn0l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-20",
+       "plot": "כל שיחת טלפון ממנו מקפיצה אותה, אבל לא מהסיבות שאתם חושבים.  להגן על המולדת זה חשוב, אבל גם החופשה הזוגית. יעל לא בטוחה שתשרוד עוד סבב מילואים של בעלה. האם היא יכולה להציב אולטימטום?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/814518/",
+       "id": "814518",
+       "season": 1
+      },
+      {
+       "name": "מחשבות | ערבות הדדית?",
+       "logo": "https://www.kan.org.il/media/w3yjuqnp/רותם-מחשבות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nayf57di/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-09-11",
+       "plot": "בימים כאלו אנחנו מגלים כמה העם שלנו יפה, כמה נתינה... ואיזה חשוב זה ערבות הדדית? מאוד, רק אל תבקשו מאיתנו שיחת טלפון",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/799035/",
+       "id": "799035",
+       "season": 1
+      },
+      {
+       "name": "מחשבות | לרדת מהארץ?",
+       "logo": "https://www.kan.org.il/media/ybxd11lz/0000_pushim_v1_3351_mahshavothagira_clean_2024-07-03_114606.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qiba9him/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-07",
+       "plot": "לא משנה כמה חרא, כשחבר טוב רוצה לרדת מהארץ פתאום כולנו הופכים לפרזנטורים של הציונות. אור בוטבול מצטרף למלחמת ההסברה בבית קפה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/770427/",
+       "id": "770427",
+       "season": 1
+      },
+      {
+       "name": "מחשבות | חולה בעבודה",
+       "logo": "https://www.kan.org.il/media/iqxp3dnp/חולה-בעבודה-קטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n8m71wrm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-04",
+       "plot": "עונת החורף בשיאה ואיתה גם העובדים שמתעקשים להגיע חולים לעבודה ולשכנע את עצמם ואת כולם שהם בסדר. האם רותם תצליח לעבוד על כולם בישיבה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/715561/",
+       "id": "715561",
+       "season": 1
+      },
+      {
+       "name": "מחשבות | מסאז' מול חמאס, כדי לחזק את העורף",
+       "logo": "https://www.kan.org.il/media/ddgpzvyw/3209_machshavot_ruth_ori_tv-clean_02808.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6n2nt31n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-04",
+       "plot": "זה שיש מלחמה בחוץ לא אומר שאנחנו לא צריכים להירגע. ואנחנו ממש לא צריכים להרגיש רע שאנחנו עושים מסאז', ככה הרי נחזק את העורף. כן, כן, העורף. רות הגיעה לעשות מסאז' כדי להירגע - האם היא הצליחה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/697623/",
+       "id": "697623",
+       "season": 1
+      },
+      {
+       "name": "אקסטרה-אקסטרה מביך: למה זה כל כך קשה לקנות קונדומים?",
+       "logo": "https://www.kan.org.il/media/bzbpxsqb/rc_new-ver_21_for-srtmp4_snapshot_0043200.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2yebgtb2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-22",
+       "plot": "אור קבעה דייט עם מילואימניק חמוד, ונאלצה לעבור מסע מביך בין מסדרונות הפארם. האם זה באמת חייב להיות כל כך קשה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/689332/",
+       "id": "689332",
+       "season": 1
+      },
+      {
+       "name": "מחשבות | לבקש העלאה בזמן מלחמה - חוסר טאקט או חכם דווקא?",
+       "logo": "https://www.kan.org.il/media/ncjlyw5r/3045_fc_02194.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qqxrj27d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בימים קשים אלה, לא מתאים לבקש כסף. או שבעצם זה הכי חכם כי כולם במילואים? אז תגידי שבעלך במילואים, למרות שאת לא נשואה, אבל אל תחשבי על כסף בימים קשים אלה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/679177/",
+       "id": "679177",
+       "season": 1
+      },
+      {
+       "name": "מחשבות | אחד משלנו",
+       "logo": "https://www.kan.org.il/media/gbnhbzwe/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_85irktda/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-12",
+       "plot": "ימני או שמאלני? בעד הרפורומה או נגד? אור עלה על מונית בימים מתוחים פוליטית וחשף את המחשבות שעוברות לכולנו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/443423/",
+       "id": "443423",
+       "season": 1
+      },
+      {
+       "name": "הוא מתחיל איתי? | מחשבות ברביעייה ריקה ברכבת",
+       "logo": "https://www.kan.org.il/media/4m4jhvym/03_large.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gfqhb8zs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-12",
+       "plot": "רותם מתיישבת ברביעייה ריקה ברכבת כשלפתע מישהו מתיישב מולה. היא פוצחת במונולוג פנימי, שהוא בעצם המונולוג של כולנו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-392176/s1/392180/",
+       "id": "392180",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

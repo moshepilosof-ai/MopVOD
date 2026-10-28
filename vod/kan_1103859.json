@@ -1,0 +1,173 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - דאבל על הכסף",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1103859/",
+   "series_id": "1103859",
+   "updated": "2026-10-28 09:39",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "דאבל על הכסף | פרק 5",
+       "logo": "https://www.kan.org.il/media/k05pklni/פרק-חמש-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250230/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "איך מכפילים 4,000 שקלים ב-3 ימים? אורית ושלומי מחכים לקהל שלא מגיע, לי ואמנון בונים מוצר אחד בלבד ללקוח אחד, והאחים חיליק וחזי מגיעים לנקודת משבר. מי הזוג שיילך הביתה בסוף המשימה? מנחה: אגם רודברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/s1/1103864/",
+       "id": "1103864",
+       "season": 1
+      },
+      {
+       "name": "דאבל על הכסף | פרק 4",
+       "logo": "https://www.kan.org.il/media/zojg3efm/דאבל-על-הכסף-עדכני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250229/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "הזוגות צריכים להכפיל אלפיים שקלים ולחזור עם 4,000 שקלים או יותר. הסיבוב מתחיל בהבטחה גדולה אבל מגיע מהר מאוד לדרמות עוד יותר גדולות: ריבים, ביטולים, חוסר היענות, ומשברים. מי הזוג שיודח בסוף הפרק? מנחה: אדם רודברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/s1/1103863/",
+       "id": "1103863",
+       "season": 1
+      },
+      {
+       "name": "דאבל על הכסף | פרק 3",
+       "logo": "https://www.kan.org.il/media/2otazo4m/דאבל-על-הכסף-פרק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250228/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "הסכומים עולים והזוגות שנשארו מקבלים אלף שקלים – כדי להכפילם ל-2,000: קינוחי פירות, בישום לרכב, ביטוחי חיים, הכל הולך. שני זוגות חושבים בדיוק על אותו רעיון, אבל נתקלים בדיוק באותן בעיות. מנחה: אגם רודברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/s1/1103862/",
+       "id": "1103862",
+       "season": 1
+      },
+      {
+       "name": "דאבל על הכסף | פרק הבכורה - חלק ב'",
+       "logo": "https://www.kan.org.il/media/3lze3dus/דאבללאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250227/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "עשרה זוגות יוצאים לדרך עם 500 שקלים, ויצטרכו להכפיל את הסכום מדי שבוע באמצעות שלל יוזמות עסקיות, יצירתיות ותעוזה. הזוג שיגיע לקו הסיום עם הסכום הנמוך ביותר יודח מהתחרות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/s1/1103861/",
+       "id": "1103861",
+       "season": 1
+      },
+      {
+       "name": "דאבל על הכסף | פרק הבכורה - חלק א'",
+       "logo": "https://www.kan.org.il/media/nfqp2geq/לאתר_חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250226/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "עשרה זוגות יוצאים להרפתקת ריאליטי יוצאת דופן, שתבחן יזמות, קור רוח וגם חוצפה ישראלית: בכל פרק הם יקבלו סכום כסף ויצטרכו להכפיל אותו. הזוג שיחזור עם הסכום הנמוך ביותר – יודח מהתחרות. מנחה: אגם רודברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/s1/1103860/",
+       "id": "1103860",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "דאבל על הכסף | טריילר",
+       "logo": "https://www.kan.org.il/media/napk34nm/דאבל-טריילר-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254772/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "10 זוגות יוצאים להרפתקת ריאליטי יוצאת דופן, שתבחן יזמות, קור רוח וגם חוצפה ישראלית: בכל פרק הם יקבלו סכום כסף ויצטרכו להכפיל אותו. הזוג שיחזור עם הסכום הנמוך ביותר – יודח מהתחרות. מנחה: אגם רודברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108647/",
+       "id": "1108647"
+      },
+      {
+       "name": "הכירו את המתמודדים | יהלי ושירי",
+       "logo": "https://www.kan.org.il/media/tdzhz1hh/הילי-ושירי.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254754/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "אל תקראו להן \"משפיעניות\" כי הן יוצרות תוכן, ואולי הן גם אחיות מגלגול קודם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108642/",
+       "id": "1108642"
+      },
+      {
+       "name": "הכירו את המתמודדים | שלומי ואורית",
+       "logo": "https://www.kan.org.il/media/hbybjfwz/שלומי-ואורית.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254753/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "לא רואים עליהם, אבל שלומי ואורית הררי הם זוג נשוי עם שבעה ילדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108609/",
+       "id": "1108609"
+      },
+      {
+       "name": "הכירו את המתמודדים | שירן ודודו",
+       "logo": "https://www.kan.org.il/media/wjviloth/שירן-ודודו.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254752/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "מלהקת המחול ברמלה ועד לארה\"ב: שירן ודודו הם חברי ילדות בלתי נפרדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108607/",
+       "id": "1108607"
+      },
+      {
+       "name": "הכירו את המתמודדים | אלירן ונאור",
+       "logo": "https://www.kan.org.il/media/byqhiu52/אלירן-ונאור-לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254751/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "קבלו את האחים אזולאי שמנהלים יחד חברה אבל עדיין רבים מי המנכ\"ל שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108606/",
+       "id": "1108606"
+      },
+      {
+       "name": "הכירו את המתמודדים | רעיה ומני",
+       "logo": "https://www.kan.org.il/media/drmd2yot/מני-ורעיה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254748/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "רעיה צריכה לממן טיפולים אסתטיים ומני עוזר לבעלה לשאת בנטל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108603/",
+       "id": "1108603"
+      },
+      {
+       "name": "הכירו את המתמודדים | מאור ודבורה",
+       "logo": "https://www.kan.org.il/media/u22asvkm/מאור-ודבורה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254747/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "דבורה ומאור הן הסבתא והנכדה הכי לא שגרתיות שיש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108602/",
+       "id": "1108602"
+      },
+      {
+       "name": "הכירו את המתמודדים | עדי ולירון",
+       "logo": "https://www.kan.org.il/media/kapnpais/לירון-ועדי.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254746/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "\"יש ילדה נחת ויש ילדה תחת\": עדי ולירון הן אחיות וחברות טובות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108601/",
+       "id": "1108601"
+      },
+      {
+       "name": "הכירו את המתמודדים | חזי וחיליק",
+       "logo": "https://www.kan.org.il/media/xkwkazxn/חזי-וחליק.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254745/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "חיליק וחזי הם חברי נפש, למרות שהם לא מאמינים בדיוק באותם הדברים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108587/",
+       "id": "1108587"
+      },
+      {
+       "name": "הכירו את המתמודדים | חן ותומר",
+       "logo": "https://www.kan.org.il/media/3z1hvnco/חן-ותומר-לאתרjpg.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254738/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-12",
+       "plot": "האם חן תצליח להוכיח לחמה תומר שהיא יודעת להכניס כסף ולא רק להוציא?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108575/",
+       "id": "1108575"
+      },
+      {
+       "name": "הכירו את המתמודדים | אמנון ולי",
+       "logo": "https://www.kan.org.il/media/ywzkyspe/אמנון-ולי.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254737/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-11",
+       "plot": "\"הזוג הכי חנוני שיהיה בתחרות\": אמנון ולי הכירו ב-8200 ומאז הם לא נפרדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/1108174/",
+       "id": "1108174"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

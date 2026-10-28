@@ -1,0 +1,93 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הבית היהודי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670843/",
+   "series_id": "670843",
+   "updated": "2026-10-28 09:45",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הבית היהודי | פרק 103 - מגיה, כשפים, קבלה ועולם הסוד",
+       "logo": "https://www.kan.org.il/media/braceoaz/kmeotjews01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lnpj16vn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהו יחס היהדות לעיסוק במגיה? על כישופים, תורת הקבלה ועוד עולמות מצמררים שמעבר להבנתנו האנושית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670843/s1/676873/",
+       "id": "676873",
+       "season": 1
+      },
+      {
+       "name": "הבית היהודי | פרק 7 - בלי עין הרע",
+       "logo": "https://www.kan.org.il/media/i1ophz00/kmeotjews02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yia60yzi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "דיון על עולם הסגולות וכוח האמונה לצד אנשי רוח ומדע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670843/s1/676870/",
+       "id": "676870",
+       "season": 1
+      },
+      {
+       "name": "הבית היהודי | פרק 139 -  6 שנים ללכתו של עוזי חיטמן",
+       "logo": "https://www.kan.org.il/media/vh4hxtmj/uzi02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vdb98v1p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית מיוחדת המוקדשת לזמר והפזמונאי, בהשתתפות חברים ובני משפחה, על יצירותיו והתרומה שלו למוזיקה החסידית ושירי ארץ ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670843/s1/674132/",
+       "id": "674132",
+       "season": 1
+      },
+      {
+       "name": "הבית היהודי | פרק 137 - החיים בקהילות היהודיות במדינות חבר העמים",
+       "logo": "https://www.kan.org.il/media/t42p30d4/habaitusr.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6dw3uhj8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה קורה בקהילויות היהודיות שנותרו מאחור 20 שנים לאחר גל העליה הגדול?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670843/s1/674129/",
+       "id": "674129",
+       "season": 1
+      },
+      {
+       "name": "הבית היהודי | פרק 140 - הרמב\"ם",
+       "logo": "https://www.kan.org.il/media/iaknllwy/habaitrambam.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_butsfl02/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על נשים חרדיות המצטרפות למעגל העבודה, עמותת \"ידידים\", ישיבה חילונית וכוכבים עולים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670843/s1/674126/",
+       "id": "674126",
+       "season": 1
+      },
+      {
+       "name": "הבית היהודי | פרק 155 - יום האישה הבין-לאומי",
+       "logo": "https://www.kan.org.il/media/t4bex2sd/habaitbres.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sye7dswo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על השינויים במעמד האישה הדתית ועל חדירת הפמיניזם ליהדות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670843/s1/674123/",
+       "id": "674123",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הבית היהודי | פתיח",
+       "logo": "https://www.kan.org.il/media/tnrgpqhd/הבית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yx7h27zg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"הבית היהודי\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670843/942897/",
+       "id": "942897"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

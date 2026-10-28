@@ -1,0 +1,92 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - נייעס",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13692/",
+   "series_id": "13692",
+   "updated": "2026-10-28 12:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "נייעס | פרק 5 - \"סוֺף דַבָר הכֺל נשְמַע\"",
+       "logo": "https://www.kan.org.il/media/xcabay4f/2020-5-11-imgid-33253_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0hnfjtwp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרק חמישי ואחרון לעונה:\"סוֺף דַבָר הכֺל נשְמַע\" העיתונאים נאלצים להכריע האם הם יותר חרדים או יותר עיתונאים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13692/s1/111622/",
+       "id": "111622",
+       "season": 1
+      },
+      {
+       "name": "נייעס | פרק 4 - \"חֲטאְנו לְפַניךָ\"",
+       "logo": "https://www.kan.org.il/media/kaghvtsg/2020-4-20-imgid-32183_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s411j8c7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"חֲטאְנו לְפַניךָ\": תקופת הסליחות מעוררת בחינה מחודשת של בחירות מקצועיות והשלכותיהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13692/s1/111620/",
+       "id": "111620",
+       "season": 1
+      },
+      {
+       "name": "נייעס | פרק 3 - על חומותייך הפקדתי שומרים",
+       "logo": "https://www.kan.org.il/media/whlhd1gh/2020-3-23-imgid-30705_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sjl52jq7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "על חומותייך עיר דוד הפקדתי שומרים: לעולם התקשורת החרדית נכנסים כוחות חדשים שמאיימים לסדוק את החומות שביצרו אותה עד היום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13692/s1/111513/",
+       "id": "111513",
+       "season": 1
+      },
+      {
+       "name": "נייעס | פרק 2 - ככל אשר יורוך",
+       "logo": "https://www.kan.org.il/media/vzwccoxc/2020-3-17-imgid-30327_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rcaa526y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "וַעֲשִיתֲ כֱכֹל אֲשֱר יוֹרוּּךַ\": ייחודו של העיתונאי החרדי בא לידי ביטוי ביום הבחירות הדרמטי\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13692/s1/111308/",
+       "id": "111308",
+       "season": 1
+      },
+      {
+       "name": "נייעס | פרק 1 - זכות הציבור שלא לדעת",
+       "logo": "https://www.kan.org.il/media/stud4kk2/2020-3-9-imgid-29841_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y1mnshgc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זכות הציבור שלא לדעת: איך זה להיות עיתונאי חרדי ולפעול בתוך מערכת חוקים נוקשה ביותר, בה יש יותר אסור ממותר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13692/s1/110904/",
+       "id": "110904",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "נייעס | טריילר",
+       "logo": "https://www.kan.org.il/media/b2tnmcdj/nayes_promo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8enw7t5u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "\"אצלנו, זכות הציבור לא לדעת\": הצצה אל תוך עולם התקשורת החרדית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13692/934092/",
+       "id": "934092"
+      },
+      {
+       "name": "נייעס - הצצה | אברהם דב גרינבוים",
+       "logo": "https://www.kan.org.il/media/nqfizw5d/נייעס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hw5vvay9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-11",
+       "plot": "\"הפרינט מת בעולם, בציבור החרדי הוא חי, קיים, נושם ובועט\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13692/918861/",
+       "id": "918861"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

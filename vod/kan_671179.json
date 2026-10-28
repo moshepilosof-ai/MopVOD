@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - יום אחד",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671179/",
+   "series_id": "671179",
+   "updated": "2026-10-28 11:18",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "יום אחד | הצצה",
+       "logo": "https://www.kan.org.il/media/qh0pfr5h/יום-אחד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fcii6cv1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-12",
+       "plot": "עודד קוטלר זוכר את הלילה ההוא לאחר הודעת התוצאות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671179/940778/",
+       "id": "940778"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

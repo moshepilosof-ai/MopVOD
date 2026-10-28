@@ -1,0 +1,293 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מה ת'אומר?!",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-725264/",
+   "series_id": "725264",
+   "updated": "2026-10-28 11:36",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מה ת'אומר?! | תוכנית 27 - שקרים",
+       "logo": "https://www.kan.org.il/media/vsthoupj/omer27-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zh7vsd5z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם הילדים מרגישים לפעמים רגשות אשם וגם כמה ביטחון עצמי יש להם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725493/",
+       "id": "725493",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 26 - נימוסים והליכות",
+       "logo": "https://www.kan.org.il/media/s33dx5qc/omer26-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nncmpmpm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם לדעת הילדים חשוב להגיד \"תודה\" ו\"סליחה\" וגם מה הם מעדיפים: שמש או ירח?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725478/",
+       "id": "725478",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 25 - אהבה",
+       "logo": "https://www.kan.org.il/media/4imf54ic/omer25-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ia3mlxp0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מה זאת נשיקה צרפתית והאם יש גן עדן נפרד לחיות?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725471/",
+       "id": "725471",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 23 - סודות",
+       "logo": "https://www.kan.org.il/media/32sdphaf/omer23-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kw1jb4p5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם ילדים טובים בלספר בדיחות קרש? ומה הם לא מגלים בשום אופן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725467/",
+       "id": "725467",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 22 - דיאטה",
+       "logo": "https://www.kan.org.il/media/0lgbqped/omer22-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bale7oh6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מה ילדים חושבים על הגירה והאם נהיים נמוכים יותר ברגע שמרזים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725457/",
+       "id": "725457",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 21 - ג'וקים",
+       "logo": "https://www.kan.org.il/media/ixmdurgs/omer21-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jn4qfl0w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מה באמת מפחיד ילדים והאם גודל האוזניים משפיע על איכות השמיעה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725454/",
+       "id": "725454",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 20 - פורים",
+       "logo": "https://www.kan.org.il/media/gdpm2kae/omer20-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o7s3cp3a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "תוכנית מיוחדת לכבוד החג בה התפקידים מתהפכים, הילדים מנסים להבין מה המבוגרים חושבים: האם הם יעדיפו להתחפש לחיה או לבני המין השני והאם הם מרוצים מאיך שהם נראים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725435/",
+       "id": "725435",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 19 - להיות מבוגרים",
+       "logo": "https://www.kan.org.il/media/lnvnbbbj/omer19-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k2o0ljbt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "ממה הילדים הכי פוחדים והאם חיים כמו של פיטר פן הם באמת החיים שהם רוצים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725428/",
+       "id": "725428",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 18 - אמריקה",
+       "logo": "https://www.kan.org.il/media/lx4nvjb3/omer18-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_carat3ho/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מה יש לילדים להגיד על ישו ומי מהם מתכנן להגשים את החלום האמריקאי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725407/",
+       "id": "725407",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 17 - אלכוהול",
+       "logo": "https://www.kan.org.il/media/1k3dd4qo/omer17-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qaciskdm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "הילדים חושפים סודות: מי כבר שתה משקאות חריפים, האם כדאי לקבל כסף כדי לסדר את החדר וגם מי לדעתם חכמים יותר - הבנים או הבנות?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725391/",
+       "id": "725391",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 16 - משפחה",
+       "logo": "https://www.kan.org.il/media/3encnxmo/omer16-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2jxw79b3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "עונה חדשה לשעשועון בהנחיית גיא מרוז בו מבוגרים מנסים להבין איך ילדים חושבים - מי מהילדים רוצה להתחתן? ומי היה מעדיף שיהיה לו אח תאום?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725383/",
+       "id": "725383",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 15 - קיבוץ מעגן מיכאל",
+       "logo": "https://www.kan.org.il/media/rv5dzbii/omer15-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q2t4an1a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "גיא מרוז ויותם מתארחים בקיבוץ ושואלים שאלות ילדים והורים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725378/",
+       "id": "725378",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 14 - קופת חולים",
+       "logo": "https://www.kan.org.il/media/wfrhad3i/omer14-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0glbbw1z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "תוכנית מיוחדת בה רופאים וילדים מספרים על בדיקות ומחלות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725370/",
+       "id": "725370",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 13 - חיי נצח",
+       "logo": "https://www.kan.org.il/media/xbqbeorr/omer13-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lp0eiqvw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מה לדעת הילדים משמעות הביטוי \"מים שקטים חודרים עמוק\" והאם היו רוצים לחיות לתמיד?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725353/",
+       "id": "725353",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 12 - חוזים את העתיד",
+       "logo": "https://www.kan.org.il/media/pakirdyn/omer12-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nfnv0ztr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם הילדים יודעים איך קוראים לילד מ\"פטר והזאב\"? מי גר באיגלו? והאם לדעתם יהיו עוד מלחמות?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725350/",
+       "id": "725350",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 11 - ציונות",
+       "logo": "https://www.kan.org.il/media/1wobje52/omer11-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g63bhrbe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "הילדים מסבירים למבוגרים על התנועה הלאומית וגם על כוכבי הלכת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725318/",
+       "id": "725318",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית  10 - גיל ההתבגרות",
+       "logo": "https://www.kan.org.il/media/mzwbckeg/omer10-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0vxb08b8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם הילדים מבינים מה זה חזרה בתשובה ומה לדעתם קורה בגיל הטיפש עשרה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725305/",
+       "id": "725305",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 9 - אבולוציה",
+       "logo": "https://www.kan.org.il/media/abfh5s44/omer09-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lurwm2fm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מה הילדים יודעים על תורתו של דרווין והאם לדעתם שר חייב להיות חבר כנסת?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725303/",
+       "id": "725303",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 8 - מורה בישראל",
+       "logo": "https://www.kan.org.il/media/csnjpydz/omer08-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ma4ieq3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "הילדים משערים מה המשכורת החודשית של אנשי החינוך וגם מה עדיף להיות: חרוץ או בר מזל?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725300/",
+       "id": "725300",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 7 - נשים מנהיגות",
+       "logo": "https://www.kan.org.il/media/py4nh0ir/omer07-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7cwboipa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "המתחרים מנסים לנחש איך הילדים מגדירים אדם תרבותי והאם הם היו בוחרים באישה לנשיאות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725295/",
+       "id": "725295",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 6 - מצטרפים לממשלה",
+       "logo": "https://www.kan.org.il/media/yurdzz2k/omer06-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vq5ddqyw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם הילדים היו רוצים להיות חברי כנסת, האם יש חיים בחלל? ומה זה בכלל באפלו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725291/",
+       "id": "725291",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 5 - זוכים בטוטו",
+       "logo": "https://www.kan.org.il/media/gybiav2x/omer05-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qd17fao3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "ילדי השעשועון עונים מה הם היו עושים לו היו מתעשרים, מי נחשב לדעתם כאגואיסט ומה זה בעצם חרק שלמה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725281/",
+       "id": "725281",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 4 - טלוויזיה",
+       "logo": "https://www.kan.org.il/media/5qdbptym/omer04-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b44kpf9o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם יש לילדים דעות קדומות על דעות קדומות, מי יצר את מיקי מאוס ומה הכמות המומלצת בשבילם לצפות במסך?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725277/",
+       "id": "725277",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 3 - כדורגל",
+       "logo": "https://www.kan.org.il/media/5itijqj1/omer03-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j6r1n8hc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "מה הילדים חושבים על קהל האוהדים הישראלי ומה לדעתם עדיף להיות: מבוגר ועשיר או צעיר ועני?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725273/",
+       "id": "725273",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 2 - מה זה אופטימיסט?",
+       "logo": "https://www.kan.org.il/media/xfqfohj4/omer02-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pdoemf7r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "האם הילדים יודעים מה זו מיגרנה וגם באיזה טמפרטורה המים הופכים לאדים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725271/",
+       "id": "725271",
+       "season": 1
+      },
+      {
+       "name": "מה ת'אומר?! | תוכנית 1 - מה הם יודעים?",
+       "logo": "https://www.kan.org.il/media/lhtbkxj2/omer01-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uoj8dlqn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-19",
+       "plot": "שעשועון בהנחיית גיא מרוז בו שלושה מתחרים מנסים להיכנס לראשם של 9 ילדים - מה הם חושבים, מה הם רוצים ומה הם הכי שונאים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/s1/725267/",
+       "id": "725267",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "!?מה ת'אומר | פתיח",
+       "logo": "https://www.kan.org.il/media/hgqlubm2/מה-תאומר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tn1lg67d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לסדרה \"!?מה ת'אומר\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-725264/943457/",
+       "id": "943457"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תלושים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1044383/",
+   "series_id": "1044383",
+   "updated": "2026-10-28 13:41",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "תלושים | פרק 3 - טופאק פינת קריית משה",
+       "logo": "https://www.kan.org.il/media/neyhjf12/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205226/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-27",
+       "plot": "אחרי שנים ארוכות ומתישות של חיפוש זהות, ״התלושים״ מצאו את דרכם, תוך שהם שואלים את עצמם, איך מבטיחים שהילדות והילדים שלהם לא יצטרכו להיאבק כדי למצוא את מקומם בחברה הישראלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1044383/s1/1045836/",
+       "id": "1045836",
+       "season": 1
+      },
+      {
+       "name": "תלושים | פרק 2 - כושי ילד קט",
+       "logo": "https://www.kan.org.il/media/tunhjmy4/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204978/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-26",
+       "plot": "הפרק השני מציג את חוויית ההתנגשות הכואבת בין צעירים יוצאי אתיופיה לבין חברה שמתקשה להכיל את צבע עורם. דרך סיפורם האישי נחשף מאבק מתמשך על כבוד, שייכות וזהות בישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1044383/s1/1045490/",
+       "id": "1045490",
+       "season": 1
+      },
+      {
+       "name": "תלושים | פרק 1 - שוברים שתיקה",
+       "logo": "https://www.kan.org.il/media/mvbfnqgk/s047747600_12_57_20.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203709/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-24",
+       "plot": "סדרה תיעודית העוקבת אחר סיפור עלייתם וקליטתם של יהודי אתיופיה מ\"מבצע משה\" אשר עלו בשנת 1984. דרך דיאלוג שנפתח לראשונה בין דור ילדי העולים, לבין דור ההורים שעבר את טראומת ההגירה, ושתק עד היום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1044383/s1/1044385/",
+       "id": "1044385",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

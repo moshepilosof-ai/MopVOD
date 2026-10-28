@@ -1,0 +1,72 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כוורת - נתתי לה חיי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-864357/",
+   "series_id": "864357",
+   "updated": "2026-10-28 11:29",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "כוורת - נתתי לה חיי | פרק 3 ",
+       "logo": "https://www.kan.org.il/media/bkbfzruu/kaveret_ep03_stills_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lbroozis/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "הלהקה נוסעת לנסות ולכבוש את אמריקה, אבל לא עוברת את האודישן הגורלי. כל חבר בשביעייה פונה לקריירת סולו מיתולוגית, אבל מתברר שהחיים האמיתים של \"כוורת\" התחילו רק אחרי שהתפרקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864357/s1/864370/",
+       "id": "864370",
+       "season": 1
+      },
+      {
+       "name": "כוורת - נתתי לה חיי | פרק 2 ",
+       "logo": "https://www.kan.org.il/media/lieiwqml/kaveret_ep02_stills_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0jwoa9qu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "ההופעות בצל מלחמת יום הכיפורים גורמות ללהקה לנסוק, והיא אף נוסעת לייצג את ישראל באירוויזיון. אבל משהו בדינמיקה הקבוצתית מתחיל להיסדק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864357/s1/864368/",
+       "id": "864368",
+       "season": 1
+      },
+      {
+       "name": "כוורת – נתתי לה חיי  | פרק 1",
+       "logo": "https://www.kan.org.il/media/m20jwmxb/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jyigw5sk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "סדרת תעודה מוזיקלית מאת יואב קוטנר על הלהקה המשפיעה ביותר בישראל: \"כוורת\": מהקמתה היה ברור שהשילוב המהפכני של מוזיקה וצחוק ישנה את פני הבידור הישראלי, אך רגע לפני הפריצה הגדולה פורצת מלחמת יום הכיפורים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864357/s1/864367/",
+       "id": "864367",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כוורת - נתתי לך חיי | טריילר",
+       "logo": "https://www.kan.org.il/media/g22jebqb/1920x1080-with-logo_כוורת-נתתי-לה-חיי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7srgg6og/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-07",
+       "plot": "סדרת תעודה מוזיקלית מאת יואב קוטנר על הלהקה המשפיעה ביותר בישראל: \"כוורת\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864357/880151/",
+       "id": "880151"
+      },
+      {
+       "name": "כוורת - נתתי לה חיי - הצצה | איך הכל התחיל?",
+       "logo": "https://www.kan.org.il/media/yapd1sac/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rud218jz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-01",
+       "plot": "יואב קוטנר מספר איך המוזיקה של כוורת עזרה לו להתחיל מחדש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864357/878148/",
+       "id": "878148"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - משדרי סליחות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1091218/",
+   "series_id": "1091218",
+   "updated": "2026-10-28 12:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "משדר סליחות | 30.8.26 - י\"ז באלול התשפ\"ו",
+       "logo": "https://www.kan.org.il/media/sdvfdgil/42436127-54fb-4f70-8378-73d1734b7959.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240526/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-30",
+       "plot": "מעמד הסליחות בשידור חי מישיבת \"אור החיים\" בירושלים. מגיש: אלי ביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1091218/s1/1093963/",
+       "id": "1093963",
+       "season": 1
+      },
+      {
+       "name": "משדר סליחות | 23.8.26 - י' באלול התשפ\"ו",
+       "logo": "https://www.kan.org.il/media/f2rhotgi/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238359/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "מעמד הסליחות בשידור חי היישר מישיבת \"אור החיים\" בירושלים. מגיש: אלי ביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1091218/s1/1091820/",
+       "id": "1091820",
+       "season": 1
+      },
+      {
+       "name": "משדר סליחות | 15.8.26 - ב' באלול התשפ\"ו",
+       "logo": "https://www.kan.org.il/media/eoiazlic/סליחות-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235870/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-20",
+       "plot": "מעמד הסליחות מישיבת \"אור החיים\" בירושלים. מגיש: אלי ביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1091218/s1/1091252/",
+       "id": "1091252",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

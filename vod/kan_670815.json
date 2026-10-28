@@ -1,0 +1,173 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שערורייה!",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670815/",
+   "series_id": "670815",
+   "updated": "2026-10-28 13:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שערורייה! | פרק 1 - דיאטת איי.קיו",
+       "logo": "https://www.kan.org.il/media/indnebi0/shaaruria01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b2e1qkfc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נשים משכילות ואינטליגנטיות פונות למכון המוריד את מנת המשכל שלהן כדי שתוכלנה למצוא בן זוג",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673997/",
+       "id": "673997",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 2 - הפסנתר",
+       "logo": "https://www.kan.org.il/media/b5xlpljr/shaaruria02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_edexadpl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כל רצונו של ילד, עולה חדש מבלגיה הוא פסנתר - כיצד אטימות המערכת בארץ הפכה אותו לפסנתרן דגול?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673994/",
+       "id": "673994",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 3 - פרשת בז'ראנו",
+       "logo": "https://www.kan.org.il/media/ojyf2bd4/shaaruria03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y859hhal/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה הקשר בין מלחמת ששת הימים, הפצצת הכור בעירק, וכאבי הגב של הישראלי? ואיך זה מתקשר לתקווה בז'ראנו המועמדת הישראלית בתחרות מיס יוניברס?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673991/",
+       "id": "673991",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 4 - רחמים, צדק, חיים",
+       "logo": "https://www.kan.org.il/media/bjdhf4mh/shaaruria04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tivb9xhv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ויקטור הונגלנדר מאמין שבתנאים מסוימים כל אחד יכול לעוף, מה עושים כשהתנאים עדיין לא בשלים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673988/",
+       "id": "673988",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 5 - הנעלמים",
+       "logo": "https://www.kan.org.il/media/utsdbdg4/shaaruria05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sf5vq849/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שלושה אנשים מצטרפים לרשימת נעלמים ארוכה ובלתי פתורה. מערכת שערורייה מאתרת אותם וחושפת את הקשר הסמוי שבין ההעלמויות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673985/",
+       "id": "673985",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 6 - נגיף OSV",
+       "logo": "https://www.kan.org.il/media/lefpf3qm/shaaruria06.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_55gcaa6s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שערוריה חושפת נגיף ישראלי חדש בשם OSV. הנגיף פולט אנזים הגורם לאי שקט אצל החולה ולצורך בלתי פוסק בשינויים. לעיתים קרובות גורם הנגיף להתמכרות חסרת מעצורים לשיפוץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673982/",
+       "id": "673982",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 7 - תיק דולי",
+       "logo": "https://www.kan.org.il/media/1s4jumtw/shaaruria07.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7mm3o2mx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה גורם לגרשון לרר, איש רב פעלים ונכסים, לנשל את משפחתו מירושתו העצומה ולהוריש את כל הונו ל-30 אנשים זרים לכאורה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673976/",
+       "id": "673976",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 8 - צדק לכל",
+       "logo": "https://www.kan.org.il/media/smmd0ma5/shaaruria08.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m5ksbkq9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ד\"ר יובל גורן פונה למזכירתו בשאלה תמימה. ניסוח רב משמעי של דבריו, מסבך אותו בפרשה שמתפתחת למימדים מפלצתיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673973/",
+       "id": "673973",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 9 - כאן נולדתי",
+       "logo": "https://www.kan.org.il/media/3y4ppe3w/shaaruria09.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8hnq45qr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה מביא את מנחם ספקטור ואישתו, לארוז את מטלטליהם ולעזוב מקום בו הקימו את ביתם ולעקור לארץ אחרת?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673970/",
+       "id": "673970",
+       "season": 1
+      },
+      {
+       "name": "שערורייה | פרק 10 - תרבות הרייטינג",
+       "logo": "https://www.kan.org.il/media/lbllybvv/shaaruria10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uth3wy58/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אלי קדוש, נסיך רייטינג, יוזם תוכנית בה יושתל בפעם הראשונה בישראל ואף בעולם - לב, בשידור חי. בגלל שורה של מכשולים בלתי צפויים לחלוטין, נמנע מעם ישראל השידור ההיסטורי הזה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673967/",
+       "id": "673967",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 11 - שונצקו, שפיגולטק, אבוגזיר",
+       "logo": "https://www.kan.org.il/media/omen3ak5/shaaruria11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e188fs7g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "משרד הפירסום יוזם קמפיין המשך ל\"זבל מי שמלכלך\": \"מניאק מי שממהר\" ו\"סע כהלכה או שתחטוף בהפוכה\". מסעות הפירסום החדשים מעלים את רמת האלימות ברחוב לשיאים חדשים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673964/",
+       "id": "673964",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 12 - סדיקוב הקדוש",
+       "logo": "https://www.kan.org.il/media/oc5huazv/shaaruria12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dswsu592/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מערכת שערורייה מגלה את הסיבה האמיתית לכך שסדיקוב הקדוש, עושה הניסים מגבעת שמואל, מסרב להמשיך בפעולתו הקדושה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673961/",
+       "id": "673961",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 13 - חמישים שנה",
+       "logo": "https://www.kan.org.il/media/gzzntov1/shaaruria13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3vu1hkn4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שלוש כתבות בשערורייה:  לקראת חגיגות החמישים למדינה -  עקומת הפשע בארץ עולה, חשיפה של תופעה יוצאת דופן,  ואורן שביט - מועמד לראשות הממשלה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673958/",
+       "id": "673958",
+       "season": 1
+      },
+      {
+       "name": "שערורייה! | פרק 14 - לקט",
+       "logo": "https://www.kan.org.il/media/kuldy2za/sharuria14.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h0w0yvv0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קטעים נבחרים מהפרקים הקודמים: מחקר הצ'פחות, דיאטת איי-קיו, וירוס שיפוצים, תקווה מלכת היופי ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/s1/673940/",
+       "id": "673940",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שערורייה! | פתיח",
+       "logo": "https://www.kan.org.il/media/voil34sp/שערורייה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_57g3y0cf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית הסאטירה \"!שערורייה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670815/943495/",
+       "id": "943495"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

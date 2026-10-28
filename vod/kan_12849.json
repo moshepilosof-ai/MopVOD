@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן פיוט",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-12849/",
+   "series_id": "12849",
+   "updated": "2026-10-28 11:29",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כאן פיוט - הצצה | המשורר רבי יהודה בן שמואל אבן-עבאס",
+       "logo": "https://www.kan.org.il/media/jkiltnuj/כאן-פיוט-_-עת-שערי-רצון-להיפתח00_00_10_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e5yqfrg5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-15",
+       "plot": "הדרך הפיוטית בה מתאר רבי יהודה בן שמואל אבן-עבאס את סיפור עקדת יצחק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12849/920735/",
+       "id": "920735"
+      },
+      {
+       "name": "כאן פיוט | שירת הבקשות - להפוך את החושך לאור ואת הפירוד לאחדות",
+       "logo": "https://www.kan.org.il/media/15fhv2zq/https-kanstaticazureedgenet-download-pictures-2022-10-16-imgid-83425_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bzduad8n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אם תעברו באחד מלילות שבת הקרירים ליד בית כנסת של עדות המזרח, תזכו לשמוע ולראות מנהג עתיק ומרהיב. עודד הרוש על שירת הבקשות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12849/125529/",
+       "id": "125529"
+      },
+      {
+       "name": "כאן פיוט | הפיוט המזוהה ביותר עם חנוכה שנכתב מתוך כאב ומצוקה",
+       "logo": "https://www.kan.org.il/media/xl1dbreo/https-kanstaticazureedgenet-download-pictures-2020-12-14-imgid-43668_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4wzij4be/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"מעוז צור\" הוא אחד השירים המזוהים ביותר עם חג החנוכה, אך בפועל נכתב מתוך סבל וכאב שלא קשורים רק בחג זה. ומי הוא אותו מרדכי שחיבר את הפיוט? עודד הרוש ממשיך לצלול לפיוטים של חגינו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12849/119180/",
+       "id": "119180"
+      },
+      {
+       "name": "כאן פיוט | ונתנה תוקף",
+       "logo": "https://www.kan.org.il/media/tlwpsheu/https-kanstaticazureedgenet-download-pictures-2020-9-23-imgid-39386_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a2bldbta/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפיוט \"ונתנה תוקף\" מוכר לרבים בעיקר בזכות הלחן של יאיר רוזנבלום לאחר נפילת 11 מבני קיבוץ בית השיטה במלחמת יום הכיפורים, אך הפיוט העתיק נקשר גם בסיפור מצמרר על הגמון רשע ורב צדיק, ומלווה את העם היהודי כבר למעלה מ-1000 שנה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12849/116665/",
+       "id": "116665"
+      },
+      {
+       "name": "כאן פיוט | אחות קטנה",
+       "logo": "https://www.kan.org.il/media/1pilpqu3/https-kanstaticazureedgenet-download-pictures-2020-9-17-imgid-39133_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oulwast0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תכלה שנה וקללותיה! מדוע פיוט קשה כמו \"אחות קטנה\" נבחר לפתוח את תפילת ראש השנה ואיך זה קשור למגיפה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12849/116573/",
+       "id": "116573"
+      },
+      {
+       "name": "כאן פיוט | עת שערי רצון להיפתח",
+       "logo": "https://www.kan.org.il/media/kqulg40z/https-kanstaticazureedgenet-download-pictures-2020-9-7-imgid-38601_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_di9te7l7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"עת שערי רצון להפתח\" - הפיוט המרגש של רבי יהודה המושמע בבתי הכנסת בראש השנה, טומן בין מילותיו סיפור על אב, בן, אהבה וכאב. עודד הרוש מביא את סיפורו בפרק ראשון של \"כאן פיוט\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12849/116263/",
+       "id": "116263"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

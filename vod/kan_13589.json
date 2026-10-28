@@ -1,0 +1,162 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - יומני היקר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13589/",
+   "series_id": "13589",
+   "updated": "2026-10-28 11:18",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יומני היקר - פרק 12",
+       "logo": "https://www.kan.org.il/media/42jaydh3/https-kanstaticazureedgenet-download-pictures-2021-3-17-imgid-49268_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ty19vk1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אנשים אמיצים חושפים קטעים מיומני הילדות שלהם. \r\nוהפעם 'תמימות חולפת'. פרק אחרון ומרגש לעונה, בו כולנו נתפקח מהתמימות שליוותה אותנו בילדות. בואו להציץ בפעם האחרונה במי שהיינו, ובמי שגדלנו להיות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119309/",
+       "id": "119309",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 11",
+       "logo": "https://www.kan.org.il/media/01lduitq/https-kanstaticazureedgenet-download-pictures-2021-3-1-imgid-48293_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tbbpsxyf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אנשים אמיצים חושפים קטעים מיומני הילדות שלהם. \r\nוהפעם 'גירושים וחיבורים'. איך זה הרגיש פעם לגדול להורים גרושים? ואיך זה מרגיש עכשיו לשתף את הקרובים שלכם בתחושות? הצצה למי שהיינו ולמי שגדלנו להיות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119307/",
+       "id": "119307",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 10",
+       "logo": "https://www.kan.org.il/media/mb0nc0hc/https-kanstaticazureedgenet-download-pictures-2021-2-28-imgid-48184_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_80d9j57l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אנשים אמיצים חושפים קטעים מיומני הילדות שלהם.\r\nוהפעם 'בין עולמות': בין הדתי לחילוני, בין מקובלות לבדידות, בין זיכרון לשכחה ובין הרצון להיות בן כשנולדת בת לפני 60 שנה. הצצה למי שהיינו ולמי שגדלנו להיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119305/",
+       "id": "119305",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 9",
+       "logo": "https://www.kan.org.il/media/wqwpniok/https-kanstaticazureedgenet-download-pictures-2021-2-18-imgid-47628_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1d052xkp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אנשים אמיצים חושפים קטעים מיומני הילדות שלהם.\r\nוהפעם מי זוכר את הנשיקה הראשונה? את היציאה מהארון? ואיך כל זה נשמע אחרי 60 שנה? הפעם הראשונה של כולנו ממרחק הזמן. הצצה למי שהיינו ולמי שגדלנו להיות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119302/",
+       "id": "119302",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 8",
+       "logo": "https://www.kan.org.il/media/ud4jpoyo/https-kanstaticazureedgenet-download-pictures-2021-2-4-imgid-46745_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s3u38y7x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: הכל אודות אמא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119300/",
+       "id": "119300",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 7",
+       "logo": "https://www.kan.org.il/media/5e2nzh5p/https-kanstaticazureedgenet-download-pictures-2021-1-19-imgid-45765_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8boccynk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: לגעת בכוכבים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119298/",
+       "id": "119298",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 6",
+       "logo": "https://www.kan.org.il/media/vnllbvob/https-kanstaticazureedgenet-download-pictures-2021-2-1-imgid-46560_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3l0eby6r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: החיים בזבל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119296/",
+       "id": "119296",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 5",
+       "logo": "https://www.kan.org.il/media/qyibhjca/https-kanstaticazureedgenet-download-pictures-2021-1-14-imgid-45435_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_30vlypjl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: יומן נעורים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119294/",
+       "id": "119294",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 4",
+       "logo": "https://www.kan.org.il/media/lrajinva/https-kanstaticazureedgenet-download-pictures-2022-10-16-imgid-83413_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3lluf8xn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: מציאות כואבת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119291/",
+       "id": "119291",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 3",
+       "logo": "https://www.kan.org.il/media/5dwnek5t/https-kanstaticazureedgenet-download-pictures-2020-12-31-imgid-44569_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iqb549nv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: משפחה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119289/",
+       "id": "119289",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 2",
+       "logo": "https://www.kan.org.il/media/t3anx3to/https-kanstaticazureedgenet-download-pictures-2020-12-23-imgid-44154_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lje81rop/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: הדימוי האידיאלי .",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119287/",
+       "id": "119287",
+       "season": 1
+      },
+      {
+       "name": "יומני היקר - פרק 1",
+       "logo": "https://www.kan.org.il/media/0vameu45/https-kanstaticazureedgenet-download-pictures-2020-12-17-imgid-43869_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_efcwssks/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יומני ילדות, זוכרים? ניסיתם לקרוא בהם לאחרונה? על במה, מול קהל של זרים, מקריאים אנשים בוגרים את יומני הנעורים שלהם. הצצה מצחיקה ומרגשת לעולמם הפנימי הסוער (והמביך) של מתבגרים. והפעם: אובססיה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/s1/119285/",
+       "id": "119285",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "יומני היקר - הצצה | תשומת לב",
+       "logo": "https://www.kan.org.il/media/isuhm5g4/תמונה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bpc240ze/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "אווירת מתח בין בני המשפחה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/856683/",
+       "id": "856683"
+      },
+      {
+       "name": "יומני היקר - הצצה | נשיקה סטירה",
+       "logo": "https://www.kan.org.il/media/mdyi255o/יומני-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_58cvlv33/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "הבת מצווה של ענבל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13589/856680/",
+       "id": "856680"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

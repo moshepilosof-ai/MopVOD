@@ -1,0 +1,793 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - החמישיה הקאמרית",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1084497/",
+   "series_id": "1084497",
+   "updated": "2026-10-28 09:49",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "החמישיה הקאמרית עונה 5 | לקט שני",
+       "logo": "https://www.kan.org.il/media/xtkdjnoy/be10208876.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241165/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-31",
+       "plot": "תפילה ופרסומות, ערוץ הילדים/מי זה רבין? בקרוב \"וענונו\"! החוזר בתשובה והוריו, בקרוב  - הסזון  המיתלה ופרשת חסון, \"יש עם מי לדבר\",  זה בית פרטי, טוקר והלפרין, יצפאן מאמריקה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1094624/",
+       "id": "1094624",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | לקט ראשון",
+       "logo": "https://www.kan.org.il/media/l1nbazee/be10187021.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241163/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-31",
+       "plot": "הפסנתרן הגידם, משכורת רה\"מ, לא המלחמה שלך, תשובה לפקס, קטן עלינו עצירות, חוקר השב\"כ בשרותים, חמאסניקים בפקק, שכבתי עם החבר הטוב ביותר שלך, ישיבת ועד הבית, הפקת טטריס",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1094623/",
+       "id": "1094623",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 5",
+       "logo": "https://www.kan.org.il/media/no5f3ztr/be10184192.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231654/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "סופרמרקט - בונוס חצילים, מזכירה אלקטרונית, ככה סתם,  אמא פולנייה - אמא ובן בטלפון, הכונו לביאת השליח, בית אבות - מרכז יום לקשיש, החיים הנפלאים - מתאבד חירש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084671/",
+       "id": "1084671",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 1",
+       "logo": "https://www.kan.org.il/media/rkhjuz2e/be10183350.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231653/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "ריח מלחמה באויר, חוקרי שב\"כ בשירותים, בית כנסת - חזנים ופרסומות, לא המלחמה שלך, ראש הממשלה והעץ, אינטרקום, הילד והמאבטח, ערוץ הילדים -מי זה רבין? יגאל עמיר בכלא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084670/",
+       "id": "1084670",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 11",
+       "logo": "https://www.kan.org.il/media/by2pbrhp/be30207274.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231652/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "כדורסל -  למה אתה צועק עלי, חקירת רה\"מ, כריכי עיתון \"דבר\", מזל טוב - הזוכה בלוטו, אל תצעקי עלי, החבר הערבי שלי, בפאתי עזה, הקפצה למילואים בפורים, בוא תתגייס לצבא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084668/",
+       "id": "1084668",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 7",
+       "logo": "https://www.kan.org.il/media/g2tb1cfv/be30202739.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231651/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "יש/אין עם מי לדבר, סיבובים קטנים באוזן, חתונה, שדרן באולפן, על האמונה, עשית חימום? לא קל, הכל מספרים -המאזין המעצבן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084667/",
+       "id": "1084667",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 4",
+       "logo": "https://www.kan.org.il/media/gh3c15mf/be30187260.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231650/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "אוטוסטרדת המידע - פסנתרן קטוע ידיים, משכורת רוה\"מ, הצוללת אח\"י דקר, נהיה משהו בפה, קטן עלינו - חוקן, פעילת השמאל הכוסית, החוזר בתשובה והוריו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084666/",
+       "id": "1084666",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 6",
+       "logo": "https://www.kan.org.il/media/ypqbvvp4/be30187013.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231649/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "אתיופי במשרד נסיעות, אחלה דרמות -וענונו הסזון, המתלה, המהנדס, בורמה הדרך, ריצ'רד השלישי. חיזר בשרותים, רוחות משפחה, בית הקפה הידידותי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084665/",
+       "id": "1084665",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 12",
+       "logo": "https://www.kan.org.il/media/eb2frggk/be20211722.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231648/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": ". ד.שילון ור.רשף - ערב טוב, רס\"ר החוזרים בתשובה,  שירי התמלוגים - פאב, מזרחי, פועלים, עושה לי נעים  -זוג במונית,  הצב בגן העיר,  ידידים בלימוזינה - \"מה קרה לי השד יודע\", פרסומת  לקולה, כדורסל - פרידה מציון, \"עוד יהיה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084661/",
+       "id": "1084661",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 9",
+       "logo": "https://www.kan.org.il/media/kvjk0h0d/be20204016.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231647/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "עמודו/ דג מלוח, בני ברק - מונית עירונית, סיפור הפרברים - שרה נתניהו, הבאבא  דיסני, היום שבו מתה מרלין מונרו - הצגה אמריקאית, ללא מילים - אין מילים לתאר את העצב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084658/",
+       "id": "1084658",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 2",
+       "logo": "https://www.kan.org.il/media/152dmlf0/be20190033.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231646/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "בית מדרש - לימוד תורה ורייטינג, המשך שידורינו להערב - \"שכבתי עם החבר הכי טוב שלך\", בית - בעל מכה, הבוהמה השמאלנית - מתנחל במסיבת אסיד, הכן ביתך למלחמה, אוסקר שינדלר - הניצב ב\"רשימת שינדלר\", שייקספיר - אמנים גאונים בשתי דקות, גשר צר מאוד - המתאבד והדתיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084656/",
+       "id": "1084656",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 3",
+       "logo": "https://www.kan.org.il/media/ngimagta/be20187112.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231645/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "מכונית תופת -  חמאסניקים בפקק, הוא והיא - אלוהים בפוליטקלי קורקט, הריון - המזריע, דירה בשיכון ג' - ישיבת ועד הבית, רכבת     הפרברים, הפקת טטריס, מאז המיתון - הזוג המטייל, אכזבות ופיטורים, המנהרה,  חופשת מולדת -  קום וסע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084655/",
+       "id": "1084655",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 10",
+       "logo": "https://www.kan.org.il/media/nhgpuxzt/be10210898.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231644/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "רפובליקת בננות - מסעדה, מיטה, סלון, ספרים, ירקות. גשם -  איש הפשע המאורגן, עקרת בית וחייל - ג'יגולו צה\"לי, עוזרות בית, תפילת תיקון לשי אביבי, ראש השב\"כ והאמן הישראלי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084654/",
+       "id": "1084654",
+       "season": 5
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 5 | פרק 8",
+       "logo": "https://www.kan.org.il/media/212mdf5i/be10205369.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231643/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-02",
+       "plot": "יצפאן מאמריקה, מהדורת חצות - טוקר והלפרין, קו העוני אצל מש' זיכתוני, העמקת ערכים - הילדה ודג הזהב, מיץ פז, מוכר הקרח, בית קטן בערבה\n\nי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s5/1084653/",
+       "id": "1084653",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "החמישיה הקאמרית עונה 4 | לקט בחירות",
+       "logo": "https://www.kan.org.il/media/e30nqsum/arc_be10168005_1_v1לקטבחירות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241982/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "לקט ששודר בליל בחירות 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1095350/",
+       "id": "1095350",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | לקט ראשון",
+       "logo": "https://www.kan.org.il/media/miydthzf/arc_be10160184_1_v1לקט1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241981/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "דג הזהב, חסמב\"ה ותרומות הדם, אל תגיד של אבא, הומואים חדשים בבנין, יש\"ע זה כאן, אשתי מדענית אטום, אחותי הזונה, אתי לא עובדת כאן יותר, החייאת מוניטור, אני ראיתי אותו אחרון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1095347/",
+       "id": "1095347",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 10",
+       "logo": "https://www.kan.org.il/media/r1cnjhhy/be10162735.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236901/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "המלחמה בלבנון, צדיק כתמר, ברביקיו עם ברכט, אספרסו בר, המשפט העברי - סוטה מין בביהמ\"ש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1090275/",
+       "id": "1090275",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 7",
+       "logo": "https://www.kan.org.il/media/oeggq2ad/be10158048.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "עובד \"בזק\", דימוי ילדותי, אינטרוויו - תרגום סימולטני, דימוי סקסי, האישה המושלמת, דימוי בדרנית, הכפתור האדום, וויט האוס - שלום בבית הלבן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1090273/",
+       "id": "1090273",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 11",
+       "logo": "https://www.kan.org.il/media/spklojxf/be10159848.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236900/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "נהג מונית חולה, פרסומאי לתעמולת הבחירות, אני שונא גרמנים, סבא נוסע לברזיל, אני שונא את דרום אמריקה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1090272/",
+       "id": "1090272",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 12",
+       "logo": "https://www.kan.org.il/media/lebl33r3/be20170100.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236899/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "דן שילון בקרית שמונה, פרס ההומניסט, מסיבת עיתונאים, הצבעה ראשונה, עקדת יצחק, רקדנית בטן בקלפי, ארתור אמר, במכולת-זה טוב ליהודים? אמנון וביבי, תאטרון השמאל, דן שילון בת\"א אחרי המלחמה, החיוך של יגאל עמיר, שיר ה\"אין\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1090268/",
+       "id": "1090268",
+       "season": 4
+      },
+      {
+       "name": "החמישייה הקאמרית עונה 4 | פרק 9",
+       "logo": "https://www.kan.org.il/media/x5bhkwtc/be30161471.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236892/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "רפי\"ס -החמישיה אצל רפי רשף בחנות, שומר תורים - אחרון בתור לבנק, דיאגנוזה - דב נבון אצל רופא, האיש מהעתיד, חכו תשמעו איך פגשתי את החשמלאי, הרוזן ממונטה קריסטו, הצגה ניסיונית בשתי מערכות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1090258/",
+       "id": "1090258",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 8",
+       "logo": "https://www.kan.org.il/media/a4ml1cvy/be30160226.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236891/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "משרד פרסום-רבין נרצח? הפגנה מאורגנת למבט, הסופרמרקט כמשל, משרד השקעות - המזכירה המתאבדת, אב ובנו - שיחת אב ובן, שידוך, ארוחת ערב עם דני ודנה, דניאל ודניאלה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1090257/",
+       "id": "1090257",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית  עונה 4 | פרק 6",
+       "logo": "https://www.kan.org.il/media/2hjlrhq2/החמישייה-הקאמרית-פרק-6.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235242/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-13",
+       "plot": "חדר זבל - המחטט בזבל, מעלית - תקועים במעלית, אינטרנט - חלי והאינטרנט, היכרות - זוג נשוי תגליות מאוחרות, רומנטיקה - סרנדה,    וידאו קשר- לשחות עם טונה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1088632/",
+       "id": "1088632",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 5",
+       "logo": "https://www.kan.org.il/media/2vyb0zfd/be10155317_perek5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233184/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-06",
+       "plot": "נאום בחירות, בית התפוצות - המאבטחים במוזיאון מולטימדיה, זה לא קרה ככה - עם ענת במקלחת, שחקן השחמט, אני לא אתי - אתי הייתה עושה את זה אחרת, דיאלוג פורה - בייגה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1086491/",
+       "id": "1086491",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 4",
+       "logo": "https://www.kan.org.il/media/4s4b0nxa/החמישייה-הקאמרית-פרק-4.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233159/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-06",
+       "plot": "בית משותף - הומואים חדשים בבניין, כבוד השר - השר מנש ושיחת 056, דבק - הנסיך הקטן, חרטה - הסלון האוירי בפריס, שכנים - זוג שכנים צורח, התנצלות על \"יש\"ע זה כאן\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1086412/",
+       "id": "1086412",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 3",
+       "logo": "https://www.kan.org.il/media/oyddt1di/החמישייה-הקאמרית-פרק-3.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232337/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "סופרמן באפסנאות, נהג מונית שקט, ילד גירושין בספארי, עברתי למכבי, נקמה - הזמנה לברית, זובין בא?, חסמב\"ה ותרומת הדם, יש\"ע זה כאן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1085449/",
+       "id": "1085449",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 2",
+       "logo": "https://www.kan.org.il/media/rsafxnqk/החמישייה-הקאמרית-פרק-2.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232328/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "דג הזהב בסופר, שיחת סלון, דיאלוג - האישה עם גישה למכשירים והגבר הרגיש  ,פקח חניה בעירייה, חכי כאן -אישה מחכה לגבר שהלך לקנות סיגריות, מה תשתו - שיפור הזכרון, שרותים ציבוריים, קובה בחומוס",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1085407/",
+       "id": "1085407",
+       "season": 4
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 4 | פרק 1",
+       "logo": "https://www.kan.org.il/media/kw5f4tra/החמישייה-פרק-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232165/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "ביפ -החייאת מוניטור, שלושה עמים, ריקודים - מבט לחדשות, צביקה ואחותו הזונה, נסיעת לילה, ריקודים - גלגל המזל, המסכן שחייב 250 ש\"ח, ריקודים - פופוליטיקה, ילדים -אל  תגיד \"של אבא\", ריקודים - פסוקו של יום, מקהלה  \"אני ראיתי אותו אחרון\", ריקודים -התקווה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s4/1085367/",
+       "id": "1085367",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "החמישיה הקאמרית עונה 3 | לקט ראשון",
+       "logo": "https://www.kan.org.il/media/lqenn4iu/החמישיה-הקאמרית.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248516/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "מוות לעננים, טרמפיסט קצין מיון, רוסים, יומן תרבות, דכאו, אולימפיאדה, מוטו שלי, מריה, דיבוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1102132/",
+       "id": "1102132",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | לקט שני",
+       "logo": "https://www.kan.org.il/media/w4jb4n50/arc_mb01350878_1_v1lekethag.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242234/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "מבחר מהמערכונים הסאטיריים של החמישיה הקאמרית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095820/",
+       "id": "1095820",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 18",
+       "logo": "https://www.kan.org.il/media/a3mp0cmg/arc_be30122754_1_v1perek18.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242224/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "הצעות לתכנית האחרונה, משלחת הישראלים לבוסניה, מלאכים בשמי ברלין, הקראת שיר על \"הסוף\", הגברת עם פיצול האישיות במספרה, שירת \"הבה נגילה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095819/",
+       "id": "1095819",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 17",
+       "logo": "https://www.kan.org.il/media/xaaian4h/arc_be10122671_1_v1perek17.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242220/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "נהג המונית ואשתו במסעדה, נהג מונית מתלבט בקשר לגולן, החנפן של הרמטכ\"ל, האישה שגילתה את הפלשתינים, חיים יבין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095818/",
+       "id": "1095818",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 16",
+       "logo": "https://www.kan.org.il/media/r4ylxin2/arc_be10122713_1_v1perek16.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242221/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "הטייס והדיילת, המסתפר הרגיש, גיורא מהמילואים, זקנים - נחום והסולידריות, פנקס הטלפונים, מסעדה הודית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095816/",
+       "id": "1095816",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 15",
+       "logo": "https://www.kan.org.il/media/cizdnc0n/arc_be10119271_1_v1perek15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242219/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "ערן המוודא - מוודא הנוכחות מהעיריה והמעיר, חושבת שחכמה - זאת שלא סוגרת דברים, קמצנים - 4 זוגות יאפים במסעדה, פרייארים, רק מראה שאפשר, זוג בוגדני ביום השנה ה-12, מאהב מתחבא -הבליטה במיטה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095815/",
+       "id": "1095815",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 14",
+       "logo": "https://www.kan.org.il/media/wvwl5u5e/arc_be20119230_1_v1perek14.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242223/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "נהגת מונית, סוכן הביטוח השלומיאל, נהג האמבולנס הדורס, קופסת הסיגריות האבודה, בן של - \"דייט בין שני בנים של...\", טעות בזיהוי - האח של אלכס ליברמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095814/",
+       "id": "1095814",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 13",
+       "logo": "https://www.kan.org.il/media/onidlwrl/arc_be10113845_1_v1perek13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242235/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "מסעדה עממית - הקמצן בחומוסיה, וידיאומט כחול, זכרון פנומנאלי - זאת שזוכרת שמות, תגיד תודה, הזוג שמתגרש - אמרתי לך שאת מטומטמת. האצן והפנקייקס, הצימר בקיבוץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095809/",
+       "id": "1095809",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 12",
+       "logo": "https://www.kan.org.il/media/clyjva4u/arc_be20112235_1_v1perek12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242222/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "קרקס עברי, אסלה - הפרטת צה\"ל, הכור האטומי, פסיכולוג ילדים, יומולדת לשלומיתי, פיספוסים משפחתי, מס ההכנסה בחרוזים, השחקן הפורש, חלבן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095806/",
+       "id": "1095806",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 11",
+       "logo": "https://www.kan.org.il/media/oxlflrkl/arc_be10119198_1_v1perek11_2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242231/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "דוחף הלווייתנים, אינפורמציה - השלישיה בפאב, פואנטה - זה שלא יכול לספר בדיחה, לימודים - ארוחה עם אבא עיוור, כסאות - קורס קושרים, \"המלט\" לועדי עובדים, קח אותי כמו שאני נטורל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095805/",
+       "id": "1095805",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 1",
+       "logo": "https://www.kan.org.il/media/vxtb11a3/bb00444619.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242202/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "רוסים - זוג עולים בלשכת התעסוקה, אשה בהיריון ואיש זקן באוטובוס,  מטכ\"ל - יחידה מובחרת, בואו בנים, בליינד דייט - פגישה עיוורת עם שלושה, הסנדלר והנגר, במונית לאחר הסילבסטר, בתור בקופ\"ח, החמישיה הקאמרית מנגנת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095656/",
+       "id": "1095656",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 2",
+       "logo": "https://www.kan.org.il/media/xanhwtmx/bb00431251.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242201/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "אשה הרה בתחנת  אוטובוס, מוות לעננים, קצין מיון - הרמטכ\"ל בטרמפיאדה, בית מרקחת, הקרב על המונית, דור שני, יורים ובוכים - החייל הבוכה, כיכר דכאו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095654/",
+       "id": "1095654",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 3",
+       "logo": "https://www.kan.org.il/media/uprpuzul/bb00413432.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242200/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "יומן תרבות, השוטר והשווארמה, סוכן סמוי - בית כנסת, טלפון ציבורי, פרישה, האב העצבני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095653/",
+       "id": "1095653",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 4",
+       "logo": "https://www.kan.org.il/media/syhhtzon/bb00387032.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242199/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "דיבוב, גמד מניאק, משחזרת - פרטים \"מדוייקים\", מילואים, פגישה עיוורת עם אישה בהריון, מריה הקדושה, חברים בבאר, הנשיא נבון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095651/",
+       "id": "1095651",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 9",
+       "logo": "https://www.kan.org.il/media/5zebzidn/be20111518.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242196/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "אורגזמה במסעדה, דרשת בר מצווה, אוסקר - תודה על האגרטל, בית חולים - חולה סרטן, הפסיכולוגיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095650/",
+       "id": "1095650",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 8",
+       "logo": "https://www.kan.org.il/media/cgdmjymj/be20104109.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242194/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "אינטלקטואלים - בניין האופרה, תכנית ספרות - הספר הזה זול יותר, חרא של כלב, מכון עיסוי, מונולוג קרן, תאונה, הבית הלבן - מתנה לנשיא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095649/",
+       "id": "1095649",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 6",
+       "logo": "https://www.kan.org.il/media/g3mou240/be20103580.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242193/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "הרס\"ר הידען, גירושין - שוקי ודורית מתגרשים, הכספומט, המתאגרף, בקבוק קטשופ, סרט \"בן זונה\", שוד המסעדה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095644/",
+       "id": "1095644",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 5",
+       "logo": "https://www.kan.org.il/media/we3ji1vi/be20038661.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242192/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "חיילת בטרמפיאדה, אולטראסאונד - עובר עצבני, ירקות - המשתין בחמוצים, שאלה טובה מאוד, דברים שאומרים בלב, המוטו שלי, שואה ושעשועים, אתלטיקה קלה, כדורגל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095642/",
+       "id": "1095642",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 10",
+       "logo": "https://www.kan.org.il/media/nv3nf2n4/be10107706_החמישיה-פרק-10-עונה-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242191/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "חייל נגד אמנים, אחרי שנים רבות זה אקטואלי - הזמנה לקפה, שיחה עם אלוהים, המדרגות הנעות, שיחה על סקס, ברל'ה ברל'ה צא החוצה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095639/",
+       "id": "1095639",
+       "season": 3
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 3 | פרק 7",
+       "logo": "https://www.kan.org.il/media/2zmi4t1o/be10103622.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242190/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "שיחה עם הברוקר, ראיון עם דליה, ביצה קשה, שישו ושימחו, חנות מתנות לכלי בית, ראש הממשלה, צרות בבר עפ\"י \"פרוטות מהרקיע\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s3/1095636/",
+       "id": "1095636",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "החמישייה הקאמרית עונה 2 | פרק 13",
+       "logo": "https://www.kan.org.il/media/314mmu3w/screenshot-2026-09-17-142422.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244658/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "אוטו תקוע, תחנת דלק, הלווייה, מגדל אייפל, העולם על פי גארפ, אידיש, פרידה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099654/",
+       "id": "1099654",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 12",
+       "logo": "https://www.kan.org.il/media/n2nkyvw5/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244657/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "טלפון - רבין סוהא ונלסון מנדלה, מכבסה, מעשנים, ארוחת ערב - פה גדול, מפתח בדלת, תאונות אימונים, שירותים ציבוריים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099653/",
+       "id": "1099653",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 11",
+       "logo": "https://www.kan.org.il/media/ykumgemn/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244656/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "טרמינטור, מצית - בירוקרטיה בכיכר העירייה, פראיירים במונדיאל, ספר, צופה - סטוקר, אבטיח וסבתא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099652/",
+       "id": "1099652",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 10",
+       "logo": "https://www.kan.org.il/media/eldo5su5/עונה-2-פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244655/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "טרמפיסט משוחרר בבקו\"ם, מפורסמים במסעדה, פרספקטיבה, אישה איש ואישה, כרישים בבריכה, חברים, צחוקים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099651/",
+       "id": "1099651",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 9",
+       "logo": "https://www.kan.org.il/media/fvcjui2f/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244654/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "חיידק ברחוב, קרן לעידוד קולנוע ישראלי, שיחה אירוטית, נאיבי, זוג במיטה, בית זקנים, בעל פה, הודו, חיידק וסוף העולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099650/",
+       "id": "1099650",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 8",
+       "logo": "https://www.kan.org.il/media/wyjf4cvn/תמונה-לאתר-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244653/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "להקת בת אור, טרמפיסט- רמטכ\"ל, חדר ניתוח, הורוסקופ, כמה כמה, להיות נחמד, שיעור בצרפתית, צרפתים בשדרה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099649/",
+       "id": "1099649",
+       "season": 2
+      },
+      {
+       "name": " החמישיה הקאמרית עונה 2 | פרק 7",
+       "logo": "https://www.kan.org.il/media/3bqfd0ka/תמונה-אתר-חמשייה-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244652/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "רוצח סדרתי, בסאונה, לבד - שליח פיצה, פיצה במבצע, מכנה משותף נמוך, הפרעות דיבור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099648/",
+       "id": "1099648",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 6",
+       "logo": "https://www.kan.org.il/media/du3lq21x/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244651/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "מכונת קפה, מפגש הירקון? צ'יפס סלט, החיים זה דבר שעובד בירידה, נעליים חדשות, נשוי, בעיה של אקוסטיקה, טיול מאורגן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099647/",
+       "id": "1099647",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 5",
+       "logo": "https://www.kan.org.il/media/uilnx4ia/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244650/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "סבתא לא מתה, מכולת 056, ער\"ן - עזרה ראשונה נפשית, מסתיר, אחים תאומים, מזכירה אלקטרונית, שוכחת שמות, חתונה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099646/",
+       "id": "1099646",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 4",
+       "logo": "https://www.kan.org.il/media/uzzhy12f/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244649/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "טרמפיסט - פרוטקציות בצבא, חדר מיון, מתנדבת בועד למען החייל, פיצה, מקלחת, ג'ון לנון, אימון כדורגל מכבי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099645/",
+       "id": "1099645",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 3",
+       "logo": "https://www.kan.org.il/media/xgrb4v03/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244648/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "קרקס תאורטי - קיר המוות, תור לקולנוע, חרא באוטו, פלאפון בבלט, חתונה, שירה בציבור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099644/",
+       "id": "1099644",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 2",
+       "logo": "https://www.kan.org.il/media/tggb5dfv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244647/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "מוזיאון, מזרזים במסעדה - ביסים קטנים, מכולת עם עו\"ד, רכילות בבית קפה, זווית, פלאפון ציבורי, חברת תעופה \"אייר פרנס\", כוס, איזה אוטו -שי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099643/",
+       "id": "1099643",
+       "season": 2
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 2 | פרק 1",
+       "logo": "https://www.kan.org.il/media/lgtmp3mz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244646/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "טבח, פלמ\"ח, בגין פגע, בן צור, הכרזת המדינה, שושנה דמארי, צפירה ביום הזיכרון, חדירה ופיגוע חבלני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s2/1099642/",
+       "id": "1099642",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 13",
+       "logo": "https://www.kan.org.il/media/v0cn4p5u/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240922/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "גנדי, סופר ואשתו, חנות ארוס, ספריית וידאו, לא במשרד נמצא, דב נמוך, אחיות, הפגנה נגד ציד חיות, באביב שבים לעונה נוספת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098328/",
+       "id": "1098328",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 12",
+       "logo": "https://www.kan.org.il/media/i3qntr3n/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240921/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "כתוביות, שתיקת הכבשים, יש לו כזה קטן, מנוי לתאטרון, מהיר, פרסומאים בחדר כושר, מה לא הספקתי לעשות, עיתון, אי פקק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098327/",
+       "id": "1098327",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 11",
+       "logo": "https://www.kan.org.il/media/bh3kxax5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240920/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "ט\"ו בשבט, סקפטי, מחבקת, מכשירי שמיעה, פונטנה, עורכי דין - ספרים, פוטבול, מעודדת, דודות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098326/",
+       "id": "1098326",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 10",
+       "logo": "https://www.kan.org.il/media/gvedcato/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240919/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "כדורגל- פשוט שיחקנו טוב, אוהדת באצטדיון, סלט אונס, זוג עם הפרשי גיל, אמא לתינוק בעגלה, חובב קורסים, לימודי רבנות, נדהמת, טרמפיסט, מתנחל מתלונן, שיחות השלום באוסלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098325/",
+       "id": "1098325",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 9",
+       "logo": "https://www.kan.org.il/media/kvugrcwx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240918/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "יואל משה סלומון, ליפ סינק, טלוויזיה מקולקלת, מסעדה תאורטית, הסרט \"אישה יפה\", כתב ים, כדורגלן פילוסוף, דו\"ח חנייה, כתב ברמזור, כתבת במיטה, סטרסקי והאץ', מתלונן רמזור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098324/",
+       "id": "1098324",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 8",
+       "logo": "https://www.kan.org.il/media/iujbu0kq/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240917/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "סילבסטר, ברבי, כשהארי פגש את סאלי, החמישיה במיטה, דו קרב, בליינד דייט ריב, בליינד דייט במיטה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098323/",
+       "id": "1098323",
+       "season": 1
+      },
+      {
+       "name": " החמישיה הקאמרית עונה 1 | פרק 7",
+       "logo": "https://www.kan.org.il/media/0kmaesjl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240916/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "כדורסל - מה זה LAYUP, מינוי לתאטרון, שחקנית גדולה, קלאודיוס חוגג יום הולדת, רצח קנדי, רצח קנדי בשידור מוסמך, מי זה הגבר שלידי? מתרימים, ניתוח בבית חולים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098322/",
+       "id": "1098322",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 6",
+       "logo": "https://www.kan.org.il/media/ce2nqnvg/פרק-שש-תמונה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240915/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "אברהם אבינו והעקדה, מכס, נר חנוכה אחרון, מתנחלות, תחנת משטרה - מוניות, עצבני בחתונה, כיפה, מכולת, אופניים, תחנת אוטובוס, מי ימלל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098321/",
+       "id": "1098321",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 5",
+       "logo": "https://www.kan.org.il/media/audhi0wb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240914/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "מערבון, פגישה בבר, משורר מקלל, פיטורין במסעדה - מוסקה, נעמיים - נעליים בחצי מחיר, שר החקלאות בבית אריזה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098320/",
+       "id": "1098320",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית  עונה 1 | פרק 4",
+       "logo": "https://www.kan.org.il/media/tvbicqhu/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240913/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "שוטרים והזמנת פיצה, מסעדה תימנית, חנות צעצועים, מועצת הלול, מבוהלת רחוב, שוטר מכה, רופא דרמטי, חנות אלקטרוניקה, שב\"כ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098319/",
+       "id": "1098319",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 3",
+       "logo": "https://www.kan.org.il/media/wy3kfhe2/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240912/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "סופרמרקט - קצב וקופאית, טלוויזיה כללית, אנשים מעל 2 מטר, חנוכת שלטים, מתלונן טרמפים, טייסת, פרחים בקנה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098318/",
+       "id": "1098318",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 2",
+       "logo": "https://www.kan.org.il/media/arlb4vv5/תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240911/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "בליינד דייט מגעילה, סרט שחור לבן, מבקרי קולנוע - האזרח קיין, ליל העשרים, עכו, מנשה הגיע הביתה, יריד הטנק, פרסומת מבוהלת - בית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098317/",
+       "id": "1098317",
+       "season": 1
+      },
+      {
+       "name": "החמישיה הקאמרית עונה 1 | פרק 1",
+       "logo": "https://www.kan.org.il/media/ebyn3hcv/תמונה-לאתר-חמשייה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240910/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "חידון צה\"ל, מסעדה יאפית, מלצר ורדיו, טנקים בכיכר, טרמפיסט בסלון, חייך אכלת אותך, מבקרי קולנוע , מפלצת הברזל, מנקה רחובות, קסטל, מתלונן חקלאי, קונצרט",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/s1/1098316/",
+       "id": "1098316",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "החמישיה הקאמרית | פתיח",
+       "logo": "https://www.kan.org.il/media/tnvpzesz/החמישייה-הקאמרית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245807/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1084497/1099299/",
+       "id": "1099299"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מדע הכדורגל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-11913/",
+   "series_id": "11913",
+   "updated": "2026-10-28 11:34",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מדע הכדורגל | הכירו את השחקן הכי גדול במונדיאל - הדשא",
+       "logo": "https://www.kan.org.il/media/smzdwd1o/2022-12-15-imgid-88904_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dwkxno4s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איך מגדלים דשא במדבר וכמה דשא צריך בשביל גביע העולם בכדורגל?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11913/154934/",
+       "id": "154934"
+      },
+      {
+       "name": "מדע הכדורגל | מה גורם לכדורגל להישמע כל כך טוב?",
+       "logo": "https://www.kan.org.il/media/uq1neu4d/2022-12-5-imgid-88023_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sal197yg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "למרות שכל השידורים זמינים בנייד ובטלוויזיה באיכות טובה יותר מאי פעם, אין כמו הדבר האמיתי - להיות באצטדיון. תחזיקו חזק ותעצמו עיניים, כי יכול להיות שהסיבה לכך מתחילה בכלל מהאוזניים. רות אלבז עולה למגרש כדי לברר איך הצורה של האצטדיון משפיעה על האופן שבו אנחנו שומעים משחקי כדורגל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11913/154076/",
+       "id": "154076"
+      },
+      {
+       "name": "מדע הכדורגל | אל תאמינו לכל מה שאומרים לכם: הכדור הוא לא באמת עגול",
+       "logo": "https://www.kan.org.il/media/iqscgs5h/2022-11-8-imgid-84976_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vktza4bx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כאן פותחים קורס מזורז של כדורגל לקראת המונדיאל, והפעם: הצורה האמיתית של הכדור. הוא אמנם נראה עגול, אבל אולי תופתעו לגלות שאת הצורה ההנדסית שלו המציא לאונרדו דה וינצ'י לפני מאות שנים. הכירו את העשרימון הקטום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11913/151790/",
+       "id": "151790"
+      },
+      {
+       "name": "מדע הכדורגל | האם צבע החולצה משפיע על תוצאת המשחק?",
+       "logo": "https://www.kan.org.il/media/vg0juozs/cat33350_img_cover694492767.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8k6ku2xs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "האם צבע החולצה של קבוצת הכדורגל יכול להשפיע על תוצאות המשחק? נשמע מוזר, אבל מתברר שכן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11913/87674/",
+       "id": "87674"
+      },
+      {
+       "name": "מדע הכדורגל | האם נגיחות פוגעות בכדורגלנים?",
+       "logo": "https://www.kan.org.il/media/mmqj5van/cat33077_img_cover215551363.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7xt45cni/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "האם כדורגלנים סובלים מנזק מוחי בגלל נגיחות מרובות? כאן בודקים בפרק של מדע הכדורגל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11913/87547/",
+       "id": "87547"
+      },
+      {
+       "name": "מדע הכדורגל | נעלי פקקים - איך זה עובד?",
+       "logo": "https://www.kan.org.il/media/qp3excee/cat32821_img_cover983901785.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_difglh22/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שחקני כדורגל נועלים נעליים עם פקקים כי הם משפרים את האחיזה ומונעים השתטחות, אבל איך בדיוק?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11913/87409/",
+       "id": "87409"
+      },
+      {
+       "name": "מדע הכדורגל | בעיטת בננה - איך זה קורה?!",
+       "logo": "https://www.kan.org.il/media/wzhd3suy/cat32194_img_cover666891444.jpg",
+       "url": "https://www.youtube.com/embed/L5W0OLNeYHY",
+       "date": "2023-04-22",
+       "plot": "בעיטת בננה מסוגלים לבצע באופן קבוע רק כדורגלנים מנוסים שמבינים את חוקי הפיזיקה. מה הם יודעים שאתם לא?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11913/87147/",
+       "id": "87147"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

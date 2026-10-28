@@ -1,0 +1,82 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חסידיסטוק",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13914/",
+   "series_id": "13914",
+   "updated": "2026-10-28 11:15",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חסידיסטוק - הצצה | \"אני עושה משהו שונה לגמרי\" ",
+       "logo": "https://www.kan.org.il/media/5nwjan0e/חסידטוק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0axza9dd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-20",
+       "plot": "מה הקשר בין היפ הופ לעולם החסידי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13914/872991/",
+       "id": "872991"
+      },
+      {
+       "name": "חסידיסטוק | פרק 6: שירת נשים",
+       "logo": "https://www.kan.org.il/media/r2eagg3e/cat36415_img83236446.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3udu2k2j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שלוש זמרות צעירות מתמודדות עם האיסור ההלכתי על שירת נשים. כל אחת בדרכה. ציפורה איבגי – חרדית ספרדית מכרמיאל מופיעה בפני נשים בלבד ואסור לצלם אותה שרה, אודהליה ברלין – הכוכבת הגדולה של המגזר מנגנת בפני גברים אך שרה לנשים בלבד. פרל וולף – חסידת חב\"ד משיקאגו מאמינה שהאיסור הוא לגברים בלבד ולכן היא מופיעה בפני קהל מעורב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13914/89065/",
+       "id": "89065"
+      },
+      {
+       "name": "חסידיסטוק | פרק 5: זושא",
+       "logo": "https://www.kan.org.il/media/sdmjlhi4/cat35612_img480726088.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kyb4qgdd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חבורת צעירים יהודים שגדלו בלב הבורגנות האמריקאית והפכו להיפסטרים חסידיים מברוקלין, מקימה להקה המשלבת את הניגון החסידי המסורתי עם מוסיקת הפולק והרגאי. הסרט מלווה אותם בהכנות לקמפינג טריפ – פסטיבל וודסטוק היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13914/88622/",
+       "id": "88622"
+      },
+      {
+       "name": "חסידיסטוק | פרק 4: מוטי שטיינמץ",
+       "logo": "https://www.kan.org.il/media/dqmieeus/cat35217_img949296197.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4ombxsaz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "את הקריירה שלו התחיל כילד ששר בשמחות של חסידות ויזניץ', שם גדל, ובמהרה הפך לכוכב העולה של המוסיקה החסידית המסורתית. קול הפעמונים שלו גורם לקשוחים שבחתנים לבכות תחת החופה, והוא מוזמן להופעות ברחבי העולם. הוא מסרב להופיע לפני קהל מעורב אך מנסה לשלב בין הכללים המחמירים של החסידות לבין חידושים מוסיקלים וביטוי אישי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13914/88240/",
+       "id": "88240"
+      },
+      {
+       "name": "חסידיסטוק | פרק 3: ליפא שמלצר",
+       "logo": "https://www.kan.org.il/media/kgulx415/cat35216_img112443953.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e6venz19/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ליפא שמלצר מכונה לפעמים \"ליידי גאגא החסידי\" אך מעדיף את הכינוי \"אלביס היהודי\". ליפא גדל בעיירה יהודית חרדית קיצונית במדינת ניו יורק וכבר מגיל צעיר זימר בפני האדמו\"ר, עד שנכבש בידי חיידק הפופ והפך לפופ סטאר של המגזר החסידי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13914/88238/",
+       "id": "88238"
+      },
+      {
+       "name": "חסידיסטוק | פרק 2: גד אלבז",
+       "logo": "https://www.kan.org.il/media/pbklmwdk/cat35052_img526659135.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bam51jpf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרה תיעודית על גיבורי התרבות במוסיקה היהודית העכשווית בארץ ובעולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13914/88171/",
+       "id": "88171"
+      },
+      {
+       "name": "חסידיסטוק | פרק הבכורה! ניסים בלאק",
+       "logo": "https://www.kan.org.il/media/oeifz1ho/cat35032_img909999708.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_omq1a5m1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרה תיעודית על גיבורי התרבות במוסיקה היהודית העכשווית בארץ ובעולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13914/88147/",
+       "id": "88147"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

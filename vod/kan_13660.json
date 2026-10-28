@@ -1,0 +1,109 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ארוחת ארבע",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13660/",
+   "series_id": "13660",
+   "updated": "2026-10-28 09:28",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ארוחת ארבע - הצצה | עוף או תרנגולת?",
+       "logo": "https://www.kan.org.il/media/ttnptpfu/ארוחת-ארבע-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_za6xocg0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-12",
+       "plot": "איך ארז קומרובסקי קורא לתרנגולות שלו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/919279/",
+       "id": "919279"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 9 - יחי זינו",
+       "logo": "https://www.kan.org.il/media/hdmc4jkx/2020-9-14-imgid-38971_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xzbmnkrj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תכנית מיוחדת לראש השנה! השף ברק יחזקאלי מארח שפים שמביאים עמם שלושה סיפורים אישיים הקשורים למנות בחייהם, וברק מכין עוד מנה בהשראתם. בתכנית החג יתארח השף יחי זינו - האיש שלוחש לדגים, כמו שמעטים יודעים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/116497/",
+       "id": "116497"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 8 - יוסי אלעד",
+       "logo": "https://www.kan.org.il/media/hvrleiku/2020-7-2-imgid-36095_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5xwvedlq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שפים, שיביאו עמם שלושה סיפורים אישיים הקשורים במנות. מנה אחת ברק יצור בהשראת האורח. השבוע: השף, אחד השגרירים הבולטים של המטבח הישראלי בחו\"ל, ומי שמאמין בחוצפה הישראלית, יוסי אלעד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/114397/",
+       "id": "114397"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 7 - רותי רוסו",
+       "logo": "https://www.kan.org.il/media/yqefrrro/2020-6-25-imgid-35775_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jrbq7sd7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שפים, שיביאו עמם שלושה סיפורים אישיים הקשורים למנות בחייהם. מנה אחת ברק יצור בהשראת האורחת. השבוע: העיתונאית, אשת הקולינריה, המרצה ונציגת המרכיבים הסודיים מאחורי הטעם- רותי רוסו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/114170/",
+       "id": "114170"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 6 - איילת לטוביץ'",
+       "logo": "https://www.kan.org.il/media/gg5fzszq/2020-6-17-imgid-35270_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fiwqenhb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שפים, שיביאו עמם שלושה סיפורים אישיים הקשורים למנות בחייהם. השבוע: השפית איילת לטוביץ' שמסעותיה בעולם הפגישו אותה עם מקומות נפלאים, והחזירו אותה מלאת השראה לכאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/114044/",
+       "id": "114044"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 5 - שיראל ברגר",
+       "logo": "https://www.kan.org.il/media/c5re1nb5/2020-6-11-imgid-34913_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bmrgfq63/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שפים, שיביאו עמם שלושה סיפורים אישיים הקשורים למנות בחייהם. את המנה האחרונה ברק יכין בהשראת האורח. השבוע: השפית המוערכת שיראל ברגר שלוחשת לירקות ופירות כמו שמעטים מצליחים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/113862/",
+       "id": "113862"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 4 - הילה אלפרט",
+       "logo": "https://www.kan.org.il/media/hd0laazu/2020-6-4-imgid-34507_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yyqyn42u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שף, שיביא עמו שלושה סיפורים אישיים הקשורים למנות בחייו. את המנה האחרונה ברק יכין בהשראת האורח. השבוע: אשת הקולינאריה הילה אלפרט שתקשור בין דמו של ישו לשימורי זכרונות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/112063/",
+       "id": "112063"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 3 - הדיי עפאים",
+       "logo": "https://www.kan.org.il/media/ovnfe43c/2020-5-27-imgid-34120_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5jpmugn3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שף, שיביא עמו שלושה סיפורים אישיים הקשורים למנות בחייו. את המנה האחרונה ברק יכין בהשראת האורח. בתכנית החגיגית לשבועות יתארח החקלאי, השף ואיש הרוח והחומר הדיי עפאים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/112060/",
+       "id": "112060"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 2 - ניר מסיקה",
+       "logo": "https://www.kan.org.il/media/d2lgokpb/2020-4-28-imgid-32624_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0gvxq7gx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שף, שיביא עמו שלושה סיפורים אישיים הקשורים למנות בחייו. דרך הזיכרונות, הם ישרטטו פרופיל אישי ומקצועי. את המנה האחרונה ברק יכין בהשראת האורח. השבוע: ניר מסיקה בפרק עצמאות מיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/112057/",
+       "id": "112057"
+      },
+      {
+       "name": "ארוחת ארבע | פרק 1 - ארז קומרובסקי",
+       "logo": "https://www.kan.org.il/media/hcdja1dm/2020-4-8-imgid-31706_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aqwccrmp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי מארח שף, המביא עמו שלושה סיפורים אישיים הקשורים למנות בחייו. דרך הזיכרונות, הם ישרטטו פרופיל אישי ומקצועי. את המנה האחרונה ברק יכין בהשראת האורח. השבוע: השף ארז קומורובסקי בפרק פסח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13660/112054/",
+       "id": "112054"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

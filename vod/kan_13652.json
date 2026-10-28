@@ -1,0 +1,64 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - רבנו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13652/",
+   "series_id": "13652",
+   "updated": "2026-10-28 13:12",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "רבנו - הצצה | אומן ראש השנה",
+       "logo": "https://www.kan.org.il/media/2ablinqh/הצצה-רבנו-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ue69ibtl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "הכנות אחרונות לערב ראש השנה בציון הקבר של רבי נחמן מברסלב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13652/858991/",
+       "id": "858991"
+      },
+      {
+       "name": "רבנו - הצצה | התבודדות",
+       "logo": "https://www.kan.org.il/media/qy3fch4u/עמוד-האש-1נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_si68kgm4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "\"שיחה שמטרתה ליצור קשר\": איך מדברים עם מי שברא את המציאות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13652/858978/",
+       "id": "858978"
+      },
+      {
+       "name": "רבנו | פרק 3 - היכל הגוונים המשתנים",
+       "logo": "https://www.kan.org.il/media/qu5ejdem/2020-9-13-imgid-38884_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gavvbp3y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דוקו. פרק 3 ואחרון: איך קרה שרבי נחמן הפך מדמות שנויה במחלוקת לאחד האיקונים הכי משפיעים על המנעד החברתי דתי ותרבותי של כלל ישראל? ומה מביא מאות אלפים מכל העולם להיסחף אחרי רב שנפטר לפני יותר מ200 שנה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13652/116026/",
+       "id": "116026"
+      },
+      {
+       "name": "רבנו | פרק 2 - בברסלב בוערת אש",
+       "logo": "https://www.kan.org.il/media/e0ehwefn/2020-9-4-imgid-38490_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cmzbmlzk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רבי נחמן במוצהר לא הותיר יורש, וחסידיו המעטים והנרדפים נקראו \"החסידים המתים\". כיצד הצליחו לשרוד ולהקים את החצר שלהם בישראל? מה קרה בעקבות כניסת רבנים כריזמטיים, שסחפו אחריהם ציבור מגוון של בעלי תשובה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13652/116023/",
+       "id": "116023"
+      },
+      {
+       "name": "רבנו | פרק 1 - אני איש פלא",
+       "logo": "https://www.kan.org.il/media/rkwdnilg/2020-8-29-imgid-38084_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qnjdihw8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרת דוקו. הסרת הלוט מעל דמותו האניגמטית של רבי נחמן מייסד חסידות ברסלב, שהקדים את זמנו ורק 200 שנים לאחר מותו הפך להיות הדמות המשפיעה ביותר על היהדות המודרנית. מהו הסוד של מי שהגדיר עצמו כאיש פלא מסתורי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13652/116020/",
+       "id": "116020"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

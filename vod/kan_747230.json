@@ -1,0 +1,153 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אישה באפור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-747230/",
+   "series_id": "747230",
+   "updated": "2026-10-27 21:29",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אשה באפור | פרק 12 - בלוקים",
+       "logo": "https://www.kan.org.il/media/bf3d3a0o/אישה-באפור_פרק-12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r27u5xti/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-16",
+       "plot": "בפרק האחרון לסדרה, סמדר פועלת בניגוד להוראות של הבוס שלה ומתעקשת שיעשה צדק, בדרך מתוחכמת.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/749875/",
+       "id": "749875",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 11 - דיר ג'ון",
+       "logo": "https://www.kan.org.il/media/acmnn13s/אישה-באפור_פרק-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tumut8a3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-16",
+       "plot": "חוסר הידע והניסיון של אביו של יונתן הביא לתאונה מצערת בה יונתן איבד את ידו. מה יעלה בגורל המשק שעכשיו גם העובדים אינם וגם בעל המשק עסוק בטיפול בנו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/749874/",
+       "id": "749874",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 10 - אנקת גבהים",
+       "logo": "https://www.kan.org.il/media/pg0juwfs/פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_139lmhm6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-16",
+       "plot": "בעיצומה של חקירה הקשורה בחייו של עובד בחברת חשמל, סמדר מושעה מתפקידה ונכפית לצאת לחופש.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/749873/",
+       "id": "749873",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 9 - פרופיל 97",
+       "logo": "https://www.kan.org.il/media/xlyby2k0/אשה-באפור_פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ndy98r25/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-16",
+       "plot": "סמדר מבלה מרבית מזמנה בשטח החקירה על מנת להבין על מי האחראיות למותו של אחד מהעובדים הצעירים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/749872/",
+       "id": "749872",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 8 - אלתור גורלי",
+       "logo": "https://www.kan.org.il/media/uj4jpsbf/אשה-באפור_פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3w0lgliy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-16",
+       "plot": "תקלה באחת מהמכונות גורמת לפציעת אחד העובדים באופן קשה. במקביל לחקירה, שינוי בחייה הרומנטיים של סמדר מתחילים להשפיע על יחסי העבודה שלה ושל אחד הקולגות.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/749870/",
+       "id": "749870",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 7 - קצר",
+       "logo": "https://www.kan.org.il/media/hhxpcg5q/אשה-באפור_פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zlvi5au2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "סמדר מקבלת חקירה של חשד ברצח בה מעורב גבר אלים, שמצא את מותו בעבודה ומנסה להבין האם יש קשר בין אשתו לבין מותו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/747238/",
+       "id": "747238",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 6 - חומר נפץ",
+       "logo": "https://www.kan.org.il/media/syfjhnvg/אישה-באפור_פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qdlvt4cm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "האם פיצוץ במשרד עם הבוס וחוסר שיתוף פעולה של המשטרה בזירת מותו של פועל, ירחיקו את סמדר מחקירת השטח?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/747237/",
+       "id": "747237",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 5 - היי טק",
+       "logo": "https://www.kan.org.il/media/hllaswhz/אשה-באפור_פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ikvago0b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "הפסקת חשמל במשרד עובדים הובילה לפיצוץ בחדר הגנרטורים. אחת מהעובדות התחזוקה נפגעה וסמדר מתחילה לחקור את סיבת הפיצוץ.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/747236/",
+       "id": "747236",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 4 - עסק משפחתי",
+       "logo": "https://www.kan.org.il/media/xdyfmrh3/אשה-באפור_פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y5tqdqca/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "איצ'ו עובד קשה על מנת לממן את בר המצווה של בנו. לאחר ויכוח עם מנהל האתר שהוא גם בן משפחתו, איצ'ו מצא את מותו בתאונת עבודה. סמדר מגיעה לזירה ומתחילה לחקור את הנסיבות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/747235/",
+       "id": "747235",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 3 - על טעם וריח",
+       "logo": "https://www.kan.org.il/media/qmghl22j/אשה-באפור_פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ik41uzo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "בזמן ביצוע חפירות סביב תשתית צבאית ישנה, חשבו השוטרים כי הפועלים נפגעו כתוצאה מפיצוץ של פגזים ישנים, מבירור ראשוני בשטח, הסתבר שהסיבה הייתה אחרת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/747234/",
+       "id": "747234",
+       "season": 1
+      },
+      {
+       "name": "'אשה באפור | פרק 2 - הזמנה דחופה חלק ב",
+       "logo": "https://www.kan.org.il/media/prajxni5/אשה-באפור_פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7y5f7ki9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "סמדר מגלה בהלוויה פרטים חדשים על מערכת היחסים בין העובדים למנהל בית החרושת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/747233/",
+       "id": "747233",
+       "season": 1
+      },
+      {
+       "name": "אשה באפור | פרק 1 - הזמנה דחופה",
+       "logo": "https://www.kan.org.il/media/33qnqfb5/אשה-באפור_פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ik41uzo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "סמדר עובדת במשרד חקירות ומרגישה שאינה מקבלת עבודה שתואמת את כישוריה, היא מגיעיה לזירת תאונת עבודה קשה בבית חרושת בבית שמש ומרגישה שעומד בפניה אתגר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/s1/747232/",
+       "id": "747232",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אשה באפור | פתיח",
+       "logo": "https://www.kan.org.il/media/glad0amb/אשה-באפור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qi2lmynh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "הפתיח המסתורי של ''אשה באפור''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747230/942616/",
+       "id": "942616"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

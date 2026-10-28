@@ -1,0 +1,358 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מחוננת",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-612692/",
+   "series_id": "612692",
+   "updated": "2026-10-28 12:22",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "מחוננת עונה 5 | פרק 8 - סופרנובה",
+       "logo": "https://www.kan.org.il/media/whuhg0dx/ע5פ8-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035137/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "במהלך מבחן הקבלה למשטרה, מורגן שוברת את הנהלים ומספרת לקראדק על המקרה האחרון שטיפלה בו. זיכרונות מהעבר משתלבים בפרטי החקירה בזמן שהיא ממהרת להציל אותו ועתידה במערכת אכיפת החוק תלוי על הכף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/986512/",
+       "id": "986512",
+       "season": 5
+      },
+      {
+       "name": "מחוננת עונה 5 | פרק 7 - אנחנו צריכים לדבר",
+       "logo": "https://www.kan.org.il/media/v1znjf5f/ע5פ7-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035018/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מורגן וקראדק מתמודדים עם תיק מורכב סמוך לגבול הבלגי. הקורבן, שמת בצרפת, הוא לא אחר ממנהל של מלון יוקרה בברוז'. בזמן שנראה שהקשר ביניהם סוף סוף הגיע לקיצו, השניים יוצאים להרפתקה פלמית שעלולה לזמן להם לא מעט הפתעות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/986508/",
+       "id": "986508",
+       "season": 5
+      },
+      {
+       "name": "מחוננת עונה 5 | פרק 6 - טאקילה סאנרייז",
+       "logo": "https://www.kan.org.il/media/uwrhgwqe/ע5פ6-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035447/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "במשטרת ליל הכול מסתבך בבת אחת: קארדק מגלה שאמה החורגת של מורגן מתה באופן חשוד, ובתיק הרצח החדש האשם העיקרי הוא הבן של הנציבה סלין. סלין מנסה להוכיח שבנה חף מפשע, וגוררת את כל הצוות ל\"מסיבת רצח\" כדי לגלות את האמת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/986504/",
+       "id": "986504",
+       "season": 5
+      },
+      {
+       "name": "מחוננת עונה 5 | פרק 5 - המוסקטרים מליל",
+       "logo": "https://www.kan.org.il/media/tbjj0qoj/ע5פ5-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035408/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מורגן וקראדק בקושי הספיקו להתאושש מהפרידה וכבר חוקרים רצח חדש. במקביל מורגן מתמודדת עם הטרדות בלתי פוסקות מצד גרושתו של אביה, שמשוכנעת שיש ירושה שלא קיימת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/986502/",
+       "id": "986502",
+       "season": 5
+      },
+      {
+       "name": "מחוננת עונה 5 | פרק 4 - האיש עם הסודה החצי מלאה",
+       "logo": "https://www.kan.org.il/media/zful5y1r/ע5פ4-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026706/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "במהלך נסיעה ברכבת, מורגן חושדת שאחד הנוסעים נחטף, וגוררת את המשטרה לחקירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/986499/",
+       "id": "986499",
+       "season": 5
+      },
+      {
+       "name": "מחוננת עונה 5 | פרק 3 - אפקט ברנום",
+       "logo": "https://www.kan.org.il/media/l42a3mos/ע5פ3-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026691/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "מדיום מגיעה לתחנת המשטרה וטוענת שראתה חיזיון של תקיפת אישה צעירה. משאבי אנוש מאלצים את מורגן וקאראדק להצהיר רשמית על מערכת היחסים ביניהם. אביה המנוכר של מורגן מנסה לחזור לחייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/986489/",
+       "id": "986489",
+       "season": 5
+      },
+      {
+       "name": "מחוננת עונה 5 | פרק 2 - גלתיאה",
+       "logo": "https://www.kan.org.il/media/cpxdxlo4/ע5פ2-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026639/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "זה היום הראשון של ליאו במעון, אבל קראדק לא מצליח להיפרד ממנו ומגיע איתו לזירת הרצח, מה שמוציא את מורגן מדעתה. הם חוקרים את מותו של גוטייה דה מאסקר, בעל חברת ציוד גולף, שמת במהלך נסיעה שיתופית ללא תאונה נראית לעין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/986485/",
+       "id": "986485",
+       "season": 5
+      },
+      {
+       "name": "מחוננת עונה 5 | פרק 1 - מהנמוך לגבוה",
+       "logo": "https://www.kan.org.il/media/bl3jqb51/ע5פ1-מוקטן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026628/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-30",
+       "plot": "לאחר לידתו של ליאו, מורגן וארבעת ילדיה עוברים לגור אצל קראדק, ובכך הם הופכים להיות שותפים להורות, לדירה וגם לעבודה. אחרי חופשת לידה שכללה לילות ללא שינה וקמפינג בסלון, שניהם חוזרים לעבודה, אבל העייפות מחד והפשע המסתורי שצריך לפענח מנגד, עלולים להפוך את היום הזה לארוך בחייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s5/985226/",
+       "id": "985226",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "מחוננת 3 | פרק 8 - קיקירי",
+       "logo": "https://www.kan.org.il/media/3pmhru5w/icw8wr6y3kfqymklrgawc1zzcj9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_egmbjrs9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nחקירת הרצח הנוכחית של הצוות מאלצת את מורגן לבחור בין הצוות לבין אביה, ומעמידה אותה ואת משפחתה בפני סכנה ממשית. סלין\n מנסה ליהנות מחופשה. יחסיהם של קראדק ומורגן עולים על שרטון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656772/",
+       "id": "656772",
+       "season": 3
+      },
+      {
+       "name": "מחוננת 3 | פרק 7 - רעמים וברקים",
+       "logo": "https://www.kan.org.il/media/4exfz030/48ixoub4hhis99sgjwc4ufsjzn7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_usmys6tr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהצוות חוקר רצח של בחור אנונימי המחופש לארנב. החקירה מסתבכת ומורגן מגייסת את כישורי המשחק שלה לטובת הצלחת החקירה. \nקראדק מנסה להזמין את מורגן לדייט שמסתבך. מורגן ותיאה משלבות כוחות בשביל לסייע לסרג'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656768/",
+       "id": "656768",
+       "season": 3
+      },
+      {
+       "name": "מחוננת 3 | פרק 6 - מזומן מלוכלך",
+       "logo": "https://www.kan.org.il/media/xh1ep3zm/fcidkrjoepfq8enbipgiiptljyw.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5p7vrdbf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nחקירה של גופת נערה שהתגלתה באוניברסיטה יוקרתית מאלצת את הצוות לפתח כיווני חקירה מגוונים. המתיחות בין קראדק למורגן עולה \nומשפיעה על הצוות כולו. לסלין מוגשת תלונה על אחד מאנשי התחנה. סכום כסף גדול שמורגן מוצאת בביתה מאיים לסבך אותה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656765/",
+       "id": "656765",
+       "season": 3
+      },
+      {
+       "name": "מחוננת 3 | פרק 5 - לאן הברווזים עפים כשהאגם קפוא",
+       "logo": "https://www.kan.org.il/media/vmehnhwp/15bquj21h3twnkl13dlphwo04wl.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nyyfgk3r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהצוות חוקר רצח אישה שגופתה התגלתה בבריכת הברווזים בפארק. קראדק ורוקסן מארחים את הצוות לארוחת ערב, אליה מורגן מגיעה עם אורח לא צפוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656763/",
+       "id": "656763",
+       "season": 3
+      },
+      {
+       "name": "מחוננת 3 | פרק 4 - חוק בנפורד",
+       "logo": "https://www.kan.org.il/media/30sfavqf/vadc7pnax8kp28vsiwn3ojuaslq.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd5lz5x6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמורגן נאלצת להתמודד עם אירועי הלילה הקודם עם טימות'י. הצוות חוקר מקרה של חטיפה ורצח המוביל אותם אל כת מסתורית. קראדק\n והצוות נדבקים בשפעת, לאחר שמורגן נאלצת להביא את בתה החולה לעבודה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656760/",
+       "id": "656760",
+       "season": 3
+      },
+      {
+       "name": "מחוננת 3 | פרק 3 - הפרשי שעות",
+       "logo": "https://www.kan.org.il/media/raflwkwl/rdewvyqxp3appn2chpiagaj7w8s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_asltzrag/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמיד לאחר חזרתה אל תחנת המשטרה, מורגן צוללת לחקירת מותה המשונה של ״בלדי גירל״, ראפרית צעירה שנרצחה בהיותה כוכב מוזיקה\n עולה. במהלך ניסיונותיה לפיצוח התעלומה, מורגן מסתבכת עם כנופיית פשע חשודה, מתעמתת עם קארדאק על עברם הרומנטי המשותף ואף זוכה לביקור מפתיע בביתה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656755/",
+       "id": "656755",
+       "season": 3
+      },
+      {
+       "name": "מחוננת 3 | פרק 2 - 18 קראט",
+       "logo": "https://www.kan.org.il/media/gs4j2shx/s5bilma4lqa90r7ebivmtszkbyc.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7prp89e8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמורגן נכלאת בבית סוהר תחת איום למאסר עולם, ועמיתיה מתגייסים לפיצוח תיק הרצח בו היא מואשמת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656748/",
+       "id": "656748",
+       "season": 3
+      },
+      {
+       "name": "מחוננת 3 | פרק 1 - סימטריה רדיקלית",
+       "logo": "https://www.kan.org.il/media/ce1dnly1/hpgztwpppel8xcjivhowiyc6ah6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9lyzo6q3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nלמרות ניסיונה להשאיר את עברה המשטרתי מאחוריה, מורגן חוזרת אליו שוב במהלך עבודתה כמנקה בביתה של גברת פונטיין, כאשר עולה בה החשד לניסיון רצח עתידי. בדרכה הייחודית ובעזרת ילדיה, מורגן מחליטה לרדת לשורש העניין ולתפוס את החשוד הרצחני לפני מזימתו הבאה, אך כהרגלה, נקלעת לצרות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s3/656727/",
+       "id": "656727",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "מחוננת 2 | פרק 8 - קוקטייל ושמו סרנדיפיטי",
+       "logo": "https://www.kan.org.il/media/0aodm3eo/08.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_65ij7ute/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nרוקסן במצב קריטי לאחר התקיפה. מורגן וקראדק פותחים מחדש את חקירת היעלמותו של רומן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637404/",
+       "id": "637404",
+       "season": 2
+      },
+      {
+       "name": "מחוננת 2 | פרק 7 - 55 קילו",
+       "logo": "https://www.kan.org.il/media/wgsnhc2t/07.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_utvgqib8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמורגן והחבורה חוקרים את היעלמות גופתה של בעלת אחוזה אמידה תוך כדי תכנון מסיבת יום הולדת לקראדק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637402/",
+       "id": "637402",
+       "season": 2
+      },
+      {
+       "name": "מחוננת 2 | פרק 6 - אס עבור איטליה",
+       "logo": "https://www.kan.org.il/media/bugjkzol/06.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1vb148ae/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nלאחר לילה קשה, מורגן מתעוררת בביתו של קראדק, והשניים נקראים לזירת רצח של גבר לבוש במדי טייס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637400/",
+       "id": "637400",
+       "season": 2
+      },
+      {
+       "name": "מחוננת 2 | פרק 5 - כמו אלף יונים",
+       "logo": "https://www.kan.org.il/media/xmigpm5u/05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qn9x4a19/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nבשעה שעיתונאית מזדקנת דוחפת את אפה בחקירה משטרתית בנוגע למותו של סטודנט, מורגן מתקשה להתגבר על הפרידה שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637397/",
+       "id": "637397",
+       "season": 2
+      },
+      {
+       "name": "מחוננת 2 | פרק 4 - כמו ילדים",
+       "logo": "https://www.kan.org.il/media/pgmhtxmi/04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o6sonnnm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nגופתו של נער נמצאה באסם של הוריו, ולעומת כולם מורגן טוענת שזה רצח. במקביל לחקירה, מורגן מחפשת בית חדש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637395/",
+       "id": "637395",
+       "season": 2
+      },
+      {
+       "name": "מחוננת 2 | פרק 3 - תוצרת צרפת",
+       "logo": "https://www.kan.org.il/media/v5mn23gr/03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_49y19f46/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמורגן מתחילה הכשרה לשוטרים, במהלכו היא עונה לקריאה על רצח מסתורי. קראדק מקבל הזמנה יוצאת דופן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637392/",
+       "id": "637392",
+       "season": 2
+      },
+      {
+       "name": "מחוננת 2 | פרק 2 - חשוד או לא חשוד",
+       "logo": "https://www.kan.org.il/media/ingjvwfc/02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yyxxosbb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nמורגן ולודו מתמודדים עם קריסת גג ביתם ועוברים לגור אצל ז'יל. מורגן מושעית מעבודתה על ידי המפקחת רוקסן אשר, אך מתקשה שלא להתערב בחקירת רציחתה של אישה המזוהה כשוטרת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637390/",
+       "id": "637390",
+       "season": 2
+      },
+      {
+       "name": "מחוננת 2 | פרק 1 - 2300 קלוריות",
+       "logo": "https://www.kan.org.il/media/kyzlz2pw/01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v9a3c0g2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nבמהלך סיבוב קניות בקניון, מורגן נתקלת בגופה ופותחת בחקירה. קראדק נחקר בידי המחלקה לחקירות שוטרים בעניין אירוע הירי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s2/637388/",
+       "id": "637388",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מחוננת | פרק 8 - אדם קטן אמונה",
+       "logo": "https://www.kan.org.il/media/culctmmy/faenjf6q5darbmagg8udutqyw1s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rfv4qal5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמחליקה על הקרח בעלת עתיד זוהר נדרסת למוות על ידי המכונית שלה. למרבה המזל, מישהי הייתה עדה לרצח. אך ישנה בעיה: העדה עיוורת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s1/612749/",
+       "id": "612749",
+       "season": 1
+      },
+      {
+       "name": "מחוננת | פרק 7 - בקבוק תבערה",
+       "logo": "https://www.kan.org.il/media/1amma3zr/e2anpquzdnhjmzacuxuytu2pfk7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gh38nl5n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nכשגופתו של מנהל מועדון שיט נמצאת בחוף הים, העד היחיד למאורע נחשב לחשוד העיקרי. מורגן מאמינה שהוא חף מפשע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s1/612739/",
+       "id": "612739",
+       "season": 1
+      },
+      {
+       "name": "מחוננת | פרק 6 - אהבה זה כואב",
+       "logo": "https://www.kan.org.il/media/kvsacmht/or945uwcn7wb8zqgeyfxv8otjiw.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1fvlyeod/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nקראדק ומורגן חוקרים את  הרצח של אלכס ויגנאלי ומבינים שדברים אינם בדיוק כפי שהם נראים. קראדק נאלץ להתמודד עם מערכת היחסים שלו עם מורגן. תיאה מצלמת כתבה על משטרת ליל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s1/612728/",
+       "id": "612728",
+       "season": 1
+      },
+      {
+       "name": "מחוננת | פרק 5 - כמו האדון, כמו הכלב",
+       "logo": "https://www.kan.org.il/media/vrmgwq22/לאתר-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cxrf6lnv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\n מישהו מנסה להרוג את אמיליאן קר בזמן שהוא מוציא את כלבו לטיול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s1/612709/",
+       "id": "612709",
+       "season": 1
+      },
+      {
+       "name": "מחוננת | פרק 4 - צפרדע חץ זהובה",
+       "logo": "https://www.kan.org.il/media/kgjjru4y/2x79eljkjiua2ndfwruvgjvn4w8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rzyiyss3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nוטרינרית נמצאת מתה במרפאה שלה, ונראה שבנסיבות טבעיות, אך מורגן מגלה שהיא הורעלה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s1/612703/",
+       "id": "612703",
+       "season": 1
+      },
+      {
+       "name": "מחוננת | פרק 3 - פרה עיוורת",
+       "logo": "https://www.kan.org.il/media/behdrsau/fwbgcrtneabssldrhhfx9x1wdbc.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s5gac72i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\n.שתי ילדות נעלמות, והחשד מופנה כלפי אביהן, אך מורגן חושדת שזה לא סוף הסיפור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s1/612702/",
+       "id": "612702",
+       "season": 1
+      },
+      {
+       "name": "מחוננת | פרק 2 - חליפה ממדגסקר",
+       "logo": "https://www.kan.org.il/media/orlb0u00/wvzrkzpj9rlyyfsgmomeluaroub.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vg089u33/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהחקירה הראשונה של מורגן מתמקדת בבנז'מין וינקלר, אשר נמצא בחדרו בבית מלון לאחר שטבע באמבטיה. החשודה המיידית היא אישה\nשפגש בבר של המלון, אך בזמן שטבע, החדר היה נעול מבפנים...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/s1/612699/",
+       "id": "612699",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מחוננת - הצצה | קומדיית פשע צרפתית ",
+       "logo": "https://www.kan.org.il/media/ejueokub/מחוננות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k4687xj0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-11",
+       "plot": "הצצה לקומדיית הפשע הצרפתית \"מחוננת\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-612692/918815/",
+       "id": "918815"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

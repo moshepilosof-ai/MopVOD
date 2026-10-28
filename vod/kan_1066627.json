@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - רכבת התקלות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1066627/",
+   "series_id": "1066627",
+   "updated": "2026-10-28 13:13",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "\"במזל לא היו נפגעים\": האמת מאחורי השבתת הרכבות - שמנסים להסתיר מהציבור | התחקיר של יפעת גליק",
+       "logo": "https://www.kan.org.il/media/ajrjvheg/רכבת-התקלות.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212873/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-16",
+       "plot": "גילויים חדשים בתחקיר \"רכבת התקלות\": לפני מספר ימים התרחשה תקלת ענק שהשביתה את קווי הצפון. בהודעה לעיתונות נכתב שמדובר בנפילה של פריטי מתכת מאחד הקרונות, אך כעת הסיפור האמיתי נחשף. כשהרשלנות הופכת לכאורה לשיטה, והמינויים גוברים על המקצועיות – השאלה היא לא אם יתרחש אסון, אלא מתי",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1066627/s1/1055860/",
+       "id": "1055860",
+       "season": 1
+      },
+      {
+       "name": "רכבת התקלות: \"הכבל נקרע עשרות פעמים, במזל אנשים לא התחשמלו למוות\"",
+       "logo": "https://www.kan.org.il/media/utlk3ova/s0544694_item0700_00_42_31still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207636/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-03",
+       "plot": "תחקיר רכבת התקלות: מה קורה על המסילות שמסיעות מאות אלפי ישראלים מדי יום? תחקיר מיוחד ומטריד במיוחד על שורת ליקויים - וההודעות שהשרה מירי רגב הייתה מעדיפה שלא נראה",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1066627/s1/1048658/",
+       "id": "1048658",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

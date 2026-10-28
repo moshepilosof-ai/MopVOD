@@ -1,0 +1,117 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - העתיד כבר כאן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12563/",
+   "series_id": "12563",
+   "updated": "2026-10-28 10:25",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "העתיד כבר כאן 2 | פרק 4 - לחסן את המוח",
+       "logo": "https://www.kan.org.il/media/hyhptnx1/2022-11-14-imgid-85485_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nmm4vuct/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בן שני במסע בעקבות ההמצאות והחוקרים הישראלים שישנו את פני עולם הרפואה. לחסן את המוח: סיפורה של החוקרת הישראלית ששינתה את התפיסה על הקשר בין המוח ומערכת החיסון, וכעת מנסה למצוא תרופה לאלצהיימר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/s2/152049/",
+       "id": "152049",
+       "season": 2
+      },
+      {
+       "name": "העתיד כבר כאן 2 | פרק 5 - לרפא את הלב",
+       "logo": "https://www.kan.org.il/media/doha3fja/2022-11-8-imgid-85000_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r2hulrt6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מחלות לב הן גורם המוות המוביל בעולם המערבי. סיפורם של החוקרים שמחפשים את הדרך לשקם לב שנפגע.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/s2/151832/",
+       "id": "151832",
+       "season": 2
+      },
+      {
+       "name": "העתיד כבר כאן 2 | פרק 3 - לתקן את הגן",
+       "logo": "https://www.kan.org.il/media/xjqj0x03/2022-9-19-imgid-82039_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k67aed5r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בן שני במסע בעקבות ההמצאות והחוקרים הישראליים שישנו את פני עולם הרפואה. פרק 3. לתקן את הגן: סיפורם של החוקרים שמנסים לשנות את הגורל שמכתיב ה-DNA שלנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/s2/150275/",
+       "id": "150275",
+       "season": 2
+      },
+      {
+       "name": "העתיד כבר כאן 2 | פרק 2 - לנצח את החיידק",
+       "logo": "https://www.kan.org.il/media/tq4mtib0/2022-9-19-imgid-82038_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7pt5g3vk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בן שני במסע בעקבות ההמצאות והחוקרים הישראליים שישנו את פני עולם הרפואה. פרק 2. לנצח את החיידק: סיפורם של החוקרים שמנסים לנצח את החיידקים העמידים לאנטיביוטיקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/s2/150269/",
+       "id": "150269",
+       "season": 2
+      },
+      {
+       "name": "העתיד כבר כאן 2 | פרק 6 - לגדל איברים על שבב",
+       "logo": "https://www.kan.org.il/media/shefiv1j/2022-9-15-imgid-81798_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8rylsu3v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בן שני במסע בעקבות ההמצאות והחוקרים הישראליים שישנו את פני עולם הרפואה. לגדל איברים על שבב: סיפורם של החוקרים שמגדלים איברים אנושיים על שבבים זעירים, שצפויים לשנות את התעשייה הרפואית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/s2/150167/",
+       "id": "150167",
+       "season": 2
+      },
+      {
+       "name": "העתיד כבר כאן 2 | פרק 1 - להנדס את החושים",
+       "logo": "https://www.kan.org.il/media/opmhhalr/2022-8-29-imgid-80603_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_flmn1ovq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בן שני במסע בעקבות ההמצאות והחוקרים הישראליים שישנו את פני עולם הרפואה. איך שומעים דרך האצבעות? סיפורו של חוקר המוח שמפתח טכנולוגיות חדשניות לשימוש בחושים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/s2/149540/",
+       "id": "149540",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "העתיד כבר כאן | פרק 1 - להדפיס לב",
+       "logo": "https://www.kan.org.il/media/xr5f5ug5/imgid-51320_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j5dzf2j7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-17",
+       "plot": "בן שני במסע בעקבות ההמצאות והחוקרים הישראלים שישנו את פני הרפואה. הנדסת חיידקים, טיפולים חשמליים ועריכת גנים ועוד. פרק 1. להדפיס לב: החוקרים הישראליים שמפתחים פתרון מפתיע לבעיית המחסור באיברים להשתלה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/s1/365818/",
+       "id": "365818",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "העתיד כבר כאן - הצצה | מרגישים את הקולות",
+       "logo": "https://www.kan.org.il/media/vz1i5x1s/העתיד-כבר-כאן-הצצה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g85gj06e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-09",
+       "plot": "יכול להיות שבעתיד נוכל לשמוע מוזיקה דרך האצבעות שלנו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/858040/",
+       "id": "858040"
+      },
+      {
+       "name": "העתיד כבר כאן - הצצה | תרופות בהתאמה אישית",
+       "logo": "https://www.kan.org.il/media/fevfrh4m/העתיד-כבר-כאן-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pw6b9qz8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-09",
+       "plot": "האם בעתיד נוכל לבדוק מה יהיו תופעות הלוואי של תרופה לפני שננסה אותה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12563/858038/",
+       "id": "858038"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

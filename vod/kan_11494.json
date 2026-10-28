@@ -1,0 +1,514 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קול התור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-11494/",
+   "series_id": "11494",
+   "updated": "2026-10-28 13:10",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קול התור | סוכות",
+       "logo": "https://www.kan.org.il/media/5zfibba3/whatsapp-image-2023-09-28-at-150242.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t0a1hf1v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-28",
+       "plot": "אורית איבדה בני משפחה ברצף טראגי של פיגוע ותאונת דרכים, ולמרות הכאב היא בוחרת לשמוח ולשמח. הפסיכיאטר ד\"ר אילן וולקוב מסביר על חשיבות השמחה ומקורותיה. פרק מיוחד לסוכות, החג שנאמר בו הכי הרבה פעמים שצריך להיות שמח",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/547879/",
+       "id": "547879"
+      },
+      {
+       "name": "קול התור | שבועות",
+       "logo": "https://www.kan.org.il/media/drefl4qm/kol44.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1b74z9sn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-25",
+       "plot": "ערב חג השבועות הוא לילה לבן ללימודי קודש ולא רק למאכלי חלב. לאהוד יש טראומה מלימוד הגמרא, ולחיה לא הרשו ללמוד אותה. האם לימוד הגמרא מתאים לכולנו?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/375529/",
+       "id": "375529"
+      },
+      {
+       "name": "קול התור | פסח",
+       "logo": "https://www.kan.org.il/media/lggfqmyo/2023-4-7-imgid-97694_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2l58u3fe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רות אלבז ועודד הרוש יוצאים לפגוש שני אנשים שונים מאוד שמצאו את הדרך שלהם לצאת מעבדות לחירות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/163916/",
+       "id": "163916"
+      },
+      {
+       "name": "קול התור | פרשת ויחי",
+       "logo": "https://www.kan.org.il/media/nqsdvyqu/2023-1-5-imgid-90553_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9chtvi6k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מתי בפעם האחרונה התקשרתם לסבתא וסבא שלכם? נתנאל אלינסון עולה על רכב השטח של דני ונועה פרל, סבא ונכדה עם קשר מיוחד שלא רואים בכל יום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/156737/",
+       "id": "156737"
+      },
+      {
+       "name": "קול התור | פרשת ויגש",
+       "logo": "https://www.kan.org.il/media/fgaeiong/2022-12-29-imgid-90079_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y31o4jix/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בכל יום נזרקים לפח טונות של מזון טוב למאכל, כשמנגד אלפי משפחות הולכות לישון רעבות. אז מה עושים? אנשים טובים כמו דניאלה ואיתי ממיזם \"מצילות המזון\" מצליחים לחלק את המזון באופן חכם יותר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/156270/",
+       "id": "156270"
+      },
+      {
+       "name": "קול התור | פרשת מקץ",
+       "logo": "https://www.kan.org.il/media/icpaerks/2022-12-22-imgid-89551_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6olskvki/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חלמתם פעם שנופלות לכם השיניים? רוב האנושות חלמה את אותו הדבר בדיוק. מומחה החלומות ד\"ר אודי בונשיין מספר על משמעות החלומות, ואיך אפשר לקבל מהם תשובות לשאלות ששוכנות עמוק בתוכנו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/155903/",
+       "id": "155903"
+      },
+      {
+       "name": "קול התור | פרשת וישב",
+       "logo": "https://www.kan.org.il/media/ljsbbsco/2022-12-16-imgid-88972_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_25jfgw5x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יהודי אתיופיה ערגו במשך במשך דורות לראות את ירושלים. אלפים מהם נספו בדרך המסוכנת ארצה, ויש שתועדו יוצאים ממחנות הפליטים אך שמאז נעלמו עקבותיהם. דוד מהרט איבד את אחיו, וגורלם לא נודע עד היום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/155030/",
+       "id": "155030"
+      },
+      {
+       "name": "קול התור | פרשת וישלח",
+       "logo": "https://www.kan.org.il/media/4ovn2kmf/2022-12-11-imgid-88524_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oub8744b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כשאנחנו שומעים על מקרה של אונס או הטרדה מינית, ליבנו יוצא אל הקורבן - ובצדק. אבל יש מי שמקדישים את רוב מאמציהם כדי לטפל דווקא בצד הפוגע. דנה קייזר היא ממקימות \"התחלה חדשה\", מרכז לאבחון וטיפול בעוברי חוק שמטפל גם במקרים של עבירות מין. מתוך תחושת שליחות היא מנסה להפריד את המעשים מהאדם: \"יש לי מטופלים שעשו דברים נוראיים ואני אוהבת אותם מאוד\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/154583/",
+       "id": "154583"
+      },
+      {
+       "name": "קול התור | פרשת ויצא",
+       "logo": "https://www.kan.org.il/media/simoccul/2022-12-1-imgid-87665_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ebkc4jvy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כל אישה שניסתה להיכנס להריון וחיכתה שנים לילדים יכולה להעיד על המצוקה והכאב שכרוכים בתהליך. לשמחתנו, הטכנולוגיה כיום מאפשרת ליצור חיים במעבדה, והעבודה של נשים כמו בת אל היא לגרום לזה לקרות. קול התור עם הסיפור של רחל, שלא הצליחה להרות ליעקב",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/153710/",
+       "id": "153710"
+      },
+      {
+       "name": "קול התור | פרשת וירא",
+       "logo": "https://www.kan.org.il/media/kuyaw1xb/2022-11-10-imgid-85191_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5s9gqidl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "טקס ברית המילה שנהוג ביום השמיני ללידה, נחשב על ידי מתנגדים להתערבות מכאיבה לילד. האם הטקס עדיין רלוונטי בימינו? עודד הרוש יצא לפגוש את המוהל נתן שטרנהל, שנוסע מסביב לעולם בשביל לערוך בריתות, גם למבוגרים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/151941/",
+       "id": "151941"
+      },
+      {
+       "name": "קול התור | פרשת לך לך",
+       "logo": "https://www.kan.org.il/media/3esjo14q/2022-11-7-imgid-84908_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fn8k0ycc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כשמדמיינים פונדקאית לא חושבים על מישהי כמו שלומית. היא מגיעה מרקע אורתודוקסי ויודעת מה עלולים להגיד עליה, אבל מאמינה שלעזור לזוג עקר להביא ילדים זו אחת המצוות הכי גדולות שיש",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/151748/",
+       "id": "151748"
+      },
+      {
+       "name": "קול התור | פרשת נח",
+       "logo": "https://www.kan.org.il/media/4rwegh2v/2022-10-28-imgid-84271_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e47fk7gj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ברבע לחצות רעדה האדמה, והחיים של אורנא התהפכו ביחד עם הבית היפה שבו גדלה בעיר החוף אגדיר שבמרוקו. היא היתה רק ילדה וניצלה בנס, אבל עם החורבן האישי והאובדן של הקרובים לה היא מתמודדת עד היום: \"עד רגע זה אני מחכה שאבא יבוא\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/151421/",
+       "id": "151421"
+      },
+      {
+       "name": "קול התור | פרשת בראשית",
+       "logo": "https://www.kan.org.il/media/ywfh1tnn/2022-10-20-imgid-83708_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wzdw68w8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עופר נולד גם כזכר וגם כנקבה. איך זה לגדול כילד כזה מיוחד ומה הוא חושב על ההורים שלו שסירבו לנתח אותו? קול התור על בריאת האדם, שהיה בעצם גם אישה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/151118/",
+       "id": "151118"
+      },
+      {
+       "name": "קול התור | פרשת וזאת הברכה",
+       "logo": "https://www.kan.org.il/media/ckwdjiw2/2022-10-13-imgid-83296_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ujk79utr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האם אנחנו מאושרים באמת? מה חסר לנו ואיזו ברכה נרצה לקבל השנה? פרק מיוחד ומרגש לכבוד הפרשה האחרונה בתורה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/150938/",
+       "id": "150938"
+      },
+      {
+       "name": "קול התור | פרשת האזינו",
+       "logo": "https://www.kan.org.il/media/3exft4sx/2022-10-6-imgid-82940_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yfm4v53n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רחל עברה את המסע הקשה והכואב ביותר עבור אמא, וליוותה את בתה אל מותה בגיל צעיר אחרי מחלה ממושכת. את הפרידה שלה מהעולם היא ניסתה להפוך לנעימה ככל שניתן, ועטפה אותה בחום ואהבה עד נשימותיה האחרונות. כיום היא מנהלת ארגון שעוזר למשפחות ברגעים הקשים מנשוא",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/150719/",
+       "id": "150719"
+      },
+      {
+       "name": "קול התור | פרשת וילך",
+       "logo": "https://www.kan.org.il/media/1hthsgrj/2022-9-30-imgid-82620_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ro6vx3v4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחיו של עודד הרוש, יגל, יצא בשאלה כשהיה בכיתה י'. הרבה דמעות נשפכו אז במשפחה הדתית מדימונה על \"הבן האובד\". עכשיו, שנים אחרי, פותחים השניים את הלב ומדברים בפעם הראשונה על המסע של יגל, שבסופו חזר לחיק המסורת והפך לאחד הקולות הבולטים בשירת הפיוט",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/150569/",
+       "id": "150569"
+      },
+      {
+       "name": "קול התור | פרשת ניצבים",
+       "logo": "https://www.kan.org.il/media/2sbnsbcb/2022-9-22-imgid-82255_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fed6s1jc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לניסים הייתה קריירה מוצלחת בהייטק, אבל הלב שלו רצה אחרת. אחרי שנים סוערות שבהן התחתן ארבע פעמים, הוא עשה שינוי בחיים וכיום עוזר לגברים אחרים לשפר את עצמם ואת המיניות שלהם - ומעודד אותם לבכות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/150398/",
+       "id": "150398"
+      },
+      {
+       "name": "קול התור | פרשת כי תבוא",
+       "logo": "https://www.kan.org.il/media/bz5jzi5w/2022-9-15-imgid-81804_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fih46s3n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"אנחנו השומרונים - השורש של עם ישראל\": ירושלים לא קדושה להם כמו הר גריזים, ביום כיפור הם נותנים גם לתינוקות לצום ואין מי שלא מכיר את הטחינה שהם מייצרים. נתנאל אלינסון בעקבות העדה השומרונית, שאנשיה מאמינים שהם השורש של עם ישראל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/150176/",
+       "id": "150176"
+      },
+      {
+       "name": "קול התור | פרשת כי תצא",
+       "logo": "https://www.kan.org.il/media/kiyi02xf/2022-9-8-imgid-81329_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tmoh4sg9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"להחזיר אבדה לבן אדם זה דבר מרגש\": מה עושה טוב יותר על הלב - לקבל בחזרה משהו שאיבדתם או להחזיר אבדה למישהו אחר? איציק מנהל את מחלקת האבדות ברכבת ישראל ומבחינתו זאת העבודה הכי טובה שעשה בחיים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/149939/",
+       "id": "149939"
+      },
+      {
+       "name": "קול התור | פרשת שופטים",
+       "logo": "https://www.kan.org.il/media/ypubb1sb/2022-9-1-imgid-80807_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h7ff7kwu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כמה חודשים אחרי שהתחתן, טל איבד שליטה על הרכב שבו נהג ואהבת חייו נהרגה. כדי לחזור למי שהוא היה לפני האסון, הוא ארז מזוודה ונסע רחוק. פרשת השבוע עם המושג \"עיר מקלט\", שהיה חלק מרכזי בסדר החברתי בתקופת המקרא",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/149672/",
+       "id": "149672"
+      },
+      {
+       "name": "קול התור | פרשת ראה",
+       "logo": "https://www.kan.org.il/media/1xgd54r4/2022-8-25-imgid-80416_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p5t5qmq7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איך מזהים דג כשר ולמה דגים הם דבר כל כך יקר? אהוד יצא לפגוש את תאופיק הדייג שלא נפרד מהים מאז היה ילד קטן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/149435/",
+       "id": "149435"
+      },
+      {
+       "name": "קול התור | פרשת עקב",
+       "logo": "https://www.kan.org.il/media/tavf4o3o/2022-8-18-imgid-80045_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kgpawjw5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מיכה הופך את המדבר לגן עדן, ותאמינו או לא, הוא זאת בעזרת צואה: \"אני הולך לשירותים עם כל השפע שקיבלתי ומחזיר אותו לאדמה\". פרשת השבוע עם ברכת המזון וחשיבות ההודייה על השפע שיש לנו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/149120/",
+       "id": "149120"
+      },
+      {
+       "name": "קול התור | פרשת ואתחנן",
+       "logo": "https://www.kan.org.il/media/ogzdjvl3/2022-8-11-imgid-79653_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s1q4bdfg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"שבועיים אחרי החתונה קיבלתי את הבוקס הראשון\": ר' התחתנה עם גבר שכמעט רצח אותה ואת ילדיהם. בתחילת הקשר, כשצווה עליה להתלבש צנוע, היא חשבה שהכל מגיע מאהבה עד שהגיעה גם האלימות הקשה שכמעט נגמרה במוות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/148862/",
+       "id": "148862"
+      },
+      {
+       "name": "קול התור | פרשת דברים",
+       "logo": "https://www.kan.org.il/media/oubnxyzr/2022-8-4-imgid-79150_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zxkclqt1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בתור ילדה בשכונת מאה שערים, מורן חוותה על בשרה שנאת חינם על בסיס יומיומי. כשהיא נזכרת בגזענות הבוטה היא לא מצליחה לעצור את הדמעות, אפילו שכיום היא עורכת דין מצליחה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/148655/",
+       "id": "148655"
+      },
+      {
+       "name": "קול התור | פרשת מסעי",
+       "logo": "https://www.kan.org.il/media/xxtdvcpl/2022-7-28-imgid-78718_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5jpt8s4s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ירון חי ברכב שלו, מטייל ברחבי הארץ ונהנה ממסע החיים בכל יום מחדש. נתנאל אלינסון הצטרף לאדם מיוחד שחי על גלגלים ומלא בשמחה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/148322/",
+       "id": "148322"
+      },
+      {
+       "name": "קול התור | פרשת מטות",
+       "logo": "https://www.kan.org.il/media/ufupropz/2022-7-21-imgid-78316_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ayvn2vx7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שיר היא המסתערבת הראשונה אך שנים נאלצה לשאת בושה ופוסט טראומה. החלוצות והחלוצים מסכנים את חייהם למעננו, אבל איך החברה שלנו מתייחסת אליהם?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/147971/",
+       "id": "147971"
+      },
+      {
+       "name": "קול התור | פרשת פנחס",
+       "logo": "https://www.kan.org.il/media/etylkbiw/2022-7-14-imgid-77875_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jhzcbn1a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אסתי שושן מובילה מהפך בקרב הציבור החרדי ומעודדת נשים להשמיע את קולן ולהיות מעורבות בפוליטיקה. כך גם בפרשת השבוע שלנו, שבה בנות צלפחד שאביהן נפטר ללא בנים, התאגדו וביקשו נחלה - צעד שהשפיע גם על הדורות הבאים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/147621/",
+       "id": "147621"
+      },
+      {
+       "name": "קול התור | פרשת בלק",
+       "logo": "https://www.kan.org.il/media/r3bffs3t/2022-7-7-imgid-77462_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1zav1fgc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חוששים מעין הרע? בעזרת אש, נחושת, ולחשים ניקה מנסה לשחרר כשפים. גם מי שלא מאמין בכוחות נסתרים, יכול ללמוד ממנה על כוחן של מילים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/147399/",
+       "id": "147399"
+      },
+      {
+       "name": "קול התור | פרשת חוקת",
+       "logo": "https://www.kan.org.il/media/vnnjtprh/2022-6-30-imgid-77066_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xdjum7dg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "במי רופאים צריכים לטפל קודם במקרה של פיגוע, בנפגעים או במחבל? עודד הרוש מצטרף לסדר היום העמוס של ד\"ר איתי זוארץ, מנהל יחידת הטראומה של בי\"ח אסותא אשדוד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/147141/",
+       "id": "147141"
+      },
+      {
+       "name": "קול התור | פרשת קרח",
+       "logo": "https://www.kan.org.il/media/ifoi2pld/2022-6-23-imgid-76704_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3b8xfz4e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עידית נאלצה לבחור בין קשר עם הוריה לבין קשר עם אחיה. היא בחרה בהורים מתוך כבוד אליהם ומתוך מחשבה שיש לה את כל הזמן שבעולם להשלים עם אחיה. אבל לחיים היו תוכניות אחרות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/146865/",
+       "id": "146865"
+      },
+      {
+       "name": "קול התור | פרשת שלח לך",
+       "logo": "https://www.kan.org.il/media/dorp0myq/2022-6-16-imgid-76303_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_76jn4his/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "גד שמרון הפך מילד טוב לסוכן מוסד קשוח שמותר לו לגנוב, לפרוץ ולרמות. הוא לקח חלק במבצע הגדול להצלת יהודי אתיופיה אבל גם שילם מחיר אישי: \"אף פעם לא זכיתי בתואר אב השנה\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/146580/",
+       "id": "146580"
+      },
+      {
+       "name": "קול התור | פרשת בהעלותך",
+       "logo": "https://www.kan.org.il/media/4vgdzzrt/2022-6-9-imgid-75932_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t3syuuz4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ליעל ליפשיץ יש תסמונת דאון אבל זה ממש לא עוצר אותה מלהיות שחקנית ודוגמנית עסוקה, וממש בקרוב תוכלו לראות אותה בסדרה \"מיוחדת\" בכאן חינוכית. יחד עם אמא שלה, היא מצליחה לפתוח דלת לרבים כמוה להיכנס ולהשתלב בחברה. שחר גבע פגשה אותה, ובהחלט התרגשה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/146325/",
+       "id": "146325"
+      },
+      {
+       "name": "קול התור | פרשת נשא",
+       "logo": "https://www.kan.org.il/media/vpej0mtq/2022-6-2-imgid-75536_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2oldmi1b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארז וסימבה דרוקר הם חוקרים פרטיים שמתעדים וחושפים את האמת - שמסתבר שאנשים מוכנים לשלם הון עבורה. עודד הרוש יצא עם הזוג למעקב אמיתי וניסה להבין מה מניע אותם בעבודה הזאת, ואיך מתרגלים לכל ה\"לכלוך\"?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/146055/",
+       "id": "146055"
+      },
+      {
+       "name": "קול התור | פרשת במדבר",
+       "logo": "https://www.kan.org.il/media/tb5hqlir/2022-5-26-imgid-75141_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mnnr8emz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "במשך אלפי שנים היה עין צין נווה מדבר יפהייפה עם מים צלולים ודקלים, אבל דווקא במשמרת שלנו בארץ הוא מתייבש, מזדהם וגווע. נתנאל אלינסון יוצא לערבה לפגוש את דורית ורועי שנחושים להציל את פיסת גן העדן שבה גדלו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/145641/",
+       "id": "145641"
+      },
+      {
+       "name": "קול התור | פרשת בחוקותיי",
+       "logo": "https://www.kan.org.il/media/elhdulw4/2022-5-19-imgid-74766_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o433fi7m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איך קובעים כמה בן אדם שווה בכסף? בתחתית נמצאים פועלים, והייטקיסטים בצמרת. זה אולי נשמע כמו משהו ששייך לעולם העתיק, אבל גם בימינו יש אנשים שהתפקיד שלהם היא לכמת את הערך הכספי של אחרים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/145314/",
+       "id": "145314"
+      },
+      {
+       "name": "קול התור | פרשת בהר סיני",
+       "logo": "https://www.kan.org.il/media/ukffkiss/2022-5-13-imgid-74342_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_57ji5en9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"יותר משזה לאדמה זה לנשמה\": אילנה טוויג, חקלאית, עזבה את כל עבודת השדה והפקירה את כל הקרקעות שלה כי החליטה לשמור שנת שמיטה. היא מספרת כמה קשה זה להצליח לשמוט, ופשוט לשחרר את השליטה אליה התרגלנו. פרשת בהר סיני מדברת על חשיבות המצווה עבור החלשים ובעלי השדות. אז מה עושים בחופש הגדול השנתי הזה? ואיך מתקיימים אם אין הכנסות בכלל?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/144891/",
+       "id": "144891"
+      },
+      {
+       "name": "קול התור | פרשת אמור",
+       "logo": "https://www.kan.org.il/media/3usbhblo/2022-5-5-imgid-73881_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d9ceyxg0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "גירושים קשים גרמו לבת שבע להתחיל לקלל, והרבה, את הסביבה ואפילו את בנה. כשהבינה שהיא פוגעת באנשים שהכי יקרים לה, היא פנתה לעזרה ואימצה דרכים אחרות להביע תסכול וכאב. קול התור בעקבות פרשת אמור, וכוחה ההרסני של תוקפנות מילולית",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/144501/",
+       "id": "144501"
+      },
+      {
+       "name": "קול התור | פרשת קדושים",
+       "logo": "https://www.kan.org.il/media/yzmhbnsf/2022-4-28-imgid-73467_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_juud3rd8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"כשהשורדים הולכים ומתמעטים, האחריות מוטלת על כתפינו\": פיני שניר עומד מאחורי מיזם שבו נכדים ונינים מפיקים סרטונים על הסבים שלהם, ניצולי השואה, ומראים שניתן לשמר את הסיפורים ולתת להם ערך מוסף גם בעולם הדיגיטלי. בפרשת השבוע שלנו, פרשת קדושים, בולט במיוחד ציווי אחד - \"והדרת פני זקן\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/144219/",
+       "id": "144219"
+      },
+      {
+       "name": "קול התור | פרשת אחרי מות",
+       "logo": "https://www.kan.org.il/media/rfmhbfcs/2022-4-21-imgid-73072_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pu6uexot/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כמעט שנה לאחר האסון הנוראי במירון, עודד הרוש פגש את הרב אביגדור חיות שאיבד בל\"ג בעומר הקודם גם את בנו אהובו וגם את אחד מתלמידיו. פרשת אחרי מות פותחת באחת מהטרגדיות בגדולות בתורה, מות שני בני אהרן, נדב ואביהו, ביום הכי שמח של בני ישראל במדבר - יום חנוכת המשכן. איך ממשיכים לחיות עם כאב כל כך גדול?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/143805/",
+       "id": "143805"
+      },
+      {
+       "name": "קול התור | פרשת מצורע",
+       "logo": "https://www.kan.org.il/media/t0zjzr5m/2022-4-7-imgid-72306_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gc07d5rx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בני ואיילה היו נשואים במשך כמעט 40 שנה עד שמשהו כרסם בקירות ביתם והזוגיות הגיעה לנקודת שבירה. פרשת מצורע מדברת בין היתר על צרעת הבית שגורמת לכתמים ונגעים על הקירות, שמהם ניתן להפטר רק על ידי פירוק ובנייה מחדש. בני ואיילה החליטו לנסות ליצור חיים משותפים בשנית, אך הפעם - \"לתת לאור להיכנס\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/143535/",
+       "id": "143535"
+      },
+      {
+       "name": "קול התור | פרשת תזריע",
+       "logo": "https://www.kan.org.il/media/1drpgsjs/2022-3-30-imgid-71897_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lxtmb5f0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האם זה אפשרי לקבוע מראש את מין הילוד? האם זה בכלל מוסרי? פרשת תזריע מדברת על כך באופן ברור וגלוי ואף נותנת לאישה תפקיד מרכזי בנושא. הודיה זינגבוים מתיתיה יצאה לפגוש את ד\"ר עידית בן יאיר, מומחית לפריון, שתנסה לעזור לה להבין כיצד ניתן להשפיע על התהליך, והאם זהו מעשה נכון",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/143215/",
+       "id": "143215"
+      },
+      {
+       "name": "קול התור | פרשת שמיני",
+       "logo": "https://www.kan.org.il/media/chtfkxir/2022-3-24-imgid-71542_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7425sqor/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפעם הראשונה בתורה שמוזכרים כל החי המותר והאסור לאכילה היא בפרשת שמיני. נתנאל אלינסון נסע לבקעת הירדן בשיא עונת הנדידה כדי לפגוש מאות מיני ציפורים ואת עטרה כץ, מדריכת טיולים שמצאה בשטח איה נדירה מתה והחליטה לעשות איתה פרויקט הנצחה מיוחד במינו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/142912/",
+       "id": "142912"
+      },
+      {
+       "name": "קול התור | פרשת צו",
+       "logo": "https://www.kan.org.il/media/g0giidd1/2022-3-17-imgid-71108_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xswo1ryn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אביגיל לא ציפתה שפוסט שפרסמה בפייסבוק בנושא תקיפה מינית בתוך המגזר יצבור כל כך הרבה תאוצה. כמות התגובות שקיבלה גרמה לה להרים את הכפפה, ומאז היא כבר הספיקה לסייע לאלפי בני אדם. פרשת צו עוסקת בקורבנות, אך כשמדובר בנפגעי תקיפה מינית - הגיע הזמן לשנות את הטרמינולוגיה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/142657/",
+       "id": "142657"
+      },
+      {
+       "name": "קול התור | פרשת ויקרא",
+       "logo": "https://www.kan.org.il/media/4wvp5v4a/2022-3-10-imgid-70699_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a7mgg8k6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הודיה זינגבוים מתתיה מרחיקה עד לגוש עציון ופוגשת שם את שבתי, רועה צאן המגדל כבשים כדי לשמור על אדמות מדינת ישראל, וכדי שיהוו קורבנות לכשיבנה בית המקדש השלישי. אבל מה עם צער בעלי חיים? ואיך זה בכלל רלוונטי בשנת 2022?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/142315/",
+       "id": "142315"
+      },
+      {
+       "name": "קול התור | פרשת פקודי",
+       "logo": "https://www.kan.org.il/media/nukdctq0/2022-3-3-imgid-70288_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nk33mcaw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עודד הרוש נסע לבירת הנגב להיפגש עם האדריכל אלי ארמון על מנת להבין את הקשר בין אסתטיקה לפרקטיקה. האם הדברים שאנו משתמשים בהם ביום יום צריכים להיות יפים ומיוחדים או מספיק שיהיו פשוטים ושימושיים?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/142081/",
+       "id": "142081"
+      },
+      {
+       "name": "קול התור | פרשת ויקהל",
+       "logo": "https://www.kan.org.il/media/xauhpubr/2022-2-24-imgid-69856_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cd0lpaml/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בפרשת השבוע, משה רבינו מבקש מהעם להפסיק להביא תרומות למשכן מפני שאין עוד צורך בשפע הגדול שזרם אליו. מה קורה לאדם שזוכה בלוטו בפרס הראשון ואחר כך מאבד את כולו? האם יש גבול לכמה ניתן לקבל ולהכיל? נתנאל אלינסון נפגש עם נאוה כהן שזכתה במיליוני שקלים אך לבסוף נותרה ללא שקל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/141796/",
+       "id": "141796"
+      },
+      {
+       "name": "קול התור | פרשת כי תשא",
+       "logo": "https://www.kan.org.il/media/ohjkeo5x/2022-2-16-imgid-69408_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ywzyby3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפעם עודד הרוש עם נדב הורוביץ אסיר משוחרר שריצה עונשו בכלא וכעת מנסה לחזור לחיים הנורמליים. בפרשה מהדהד \"חטא העגל\" שנעשה מיד לאחר מתן תורה והעונש החמור עליו. כיצד החברה שלנו כיום מקבלת את מי שחטא התחרט נענש ומנסה לחזור לשורותיה? האם אנחנו מסוגלים לסלוח ולפתוח דף חדש לפושעים שעשו תשובה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/141523/",
+       "id": "141523"
+      },
+      {
+       "name": "קול התור | פרשת תצוה",
+       "logo": "https://www.kan.org.il/media/1kdolo4l/2022-2-10-imgid-69092_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uyvs8w8w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התורה מקדישה 75 פסוקים לתיאור מפורט של בגדי הכוהנים - יותר פסוקים ממה שהתורה הקדישה לתיאור בריאת העולם. מדוע העיסוק בבגדים כל כך חשוב? הפעם נתנאל אלינסון פוגש את קרן איל מלמד, מלבישה בסרטים זוכת פרסי אופיר, שפותחת לו את ארון הבגדים שלה (וגם את הראש) כדי להבין את תפקיד הבגדים אז והיום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/141075/",
+       "id": "141075"
+      },
+      {
+       "name": "קול התור | פרשת תרומה",
+       "logo": "https://www.kan.org.il/media/mwzjvcui/2022-2-3-imgid-68694_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2o2mj58v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עודד הרוש פגש את גבי רביב שתרם כליה כדי להציל חיים של מישהו שהוא לא מכיר - ואז השתנו גם חייו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/140934/",
+       "id": "140934"
+      },
+      {
+       "name": "קול התור | פרשת משפטים",
+       "logo": "https://www.kan.org.il/media/qmnfylez/2022-1-27-imgid-68319_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y25mkdhl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי שנתקע עם פנצ'ר בלילה גשום, החליט ישראל להקים סטארט-אפ חברתי שהפך למפעל חסד הדדי עצום. נתנאל אלינסון פוגש את מייסד עמותת \"ידידים\" ומנסה להבין יחד איתו את עומק וחשיבות העזרה לזר ולנזקק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/140556/",
+       "id": "140556"
+      },
+      {
+       "name": "קול התור | פרשת יתרו",
+       "logo": "https://www.kan.org.il/media/seblwqm2/2022-1-20-imgid-67934_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6xysvpcq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "למה לרצות להיות יהודי? איך בכלל מחליטים להתגייר? עודד הרוש פגש את ג'זיליה ויוסף (חוסה לשעבר), נוצרים אדוקים שעזבו חיים רגועים בטקסס ארה\"ב, והחליטו לעלות לישראל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/140244/",
+       "id": "140244"
+      },
+      {
+       "name": "קול התור | פרשת בשלח",
+       "logo": "https://www.kan.org.il/media/b5lg3t1n/2022-1-13-imgid-67567_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eas7j36m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אליעזר רוזנפלד, איש של שירה וניגון, חווה בחייו טרגדיה אחר טרגדיה, אך הוא ממשיך בכל כוחו לשמח אנשים. מהיכן נבעה שירת הים שבני ישראל שרו כשחצו את ים סוף? ואיך שרים בהלוויה? מתוך אסון גדול יוצאת שמחה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/140028/",
+       "id": "140028"
+      },
+      {
+       "name": "קול התור | פרשת בא",
+       "logo": "https://www.kan.org.il/media/b3mpkpop/2022-1-7-imgid-67170_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aiawwwi6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הכירו את שלי - עיוורת מעוררת השראה שאיבדה את מאור עיניה בגיל צעיר ולמרות זאת התחתנה, ילדה ועובדת כמדריכה במוזיאון דיאלוג בחשיכה. מהו חושך מצרים? מה מרגישים עיוורים? ומה ילדה שכן רואה חושבת על אמה העיוורת?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/139800/",
+       "id": "139800"
+      },
+      {
+       "name": "קול התור | פרשת וארא",
+       "logo": "https://www.kan.org.il/media/kmhnbba1/2022-1-7-imgid-67172_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6beb5rnz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "נתנאל אלינסון פוגש את רפאל יפרח - מומחה לבעלי חיים ארסיים שמגדל אותם בביתו. יחד איתו הוא מנסה לברר מהי מכת הערוב המסתורית שהונחתה על מצרים והאם יש לנו צורך בבעלי חיים מפחידים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/139560/",
+       "id": "139560"
+      },
+      {
+       "name": "קול התור | פרשת שמות",
+       "logo": "https://www.kan.org.il/media/ycsfspgr/2022-1-7-imgid-67171_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nw817g7u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מהי עבדות מחשבתית? ואיך משתחררים ממנה? אראל היה מנכ\"ל של חברות הייטק מצליחות עם תפקיד ניהולי כבר בגיל 27, אבל דווקא שם הוא הבין שהוא לא חי את החיים שהוא באמת רוצה לחיות. בשיא ההצלחה, כשתחתיו עשרות עובדים, הוא עזב את המירוץ אחר הכסף וההצלחה לטובת חיים שקטים ורוחניים בכפר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11494/139355/",
+       "id": "139355"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

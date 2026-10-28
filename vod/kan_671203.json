@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בין המהפכים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671203/",
+   "series_id": "671203",
+   "updated": "2026-10-28 09:32",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בין המהפכים | פתיח",
+       "logo": "https://www.kan.org.il/media/gxrlkhcc/בין-המהפכים-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qqiv32pd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "הפתיח של \"בין המהפכים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671203/943647/",
+       "id": "943647"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

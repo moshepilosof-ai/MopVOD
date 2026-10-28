@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חשבון נפש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671066/",
+   "series_id": "671066",
+   "updated": "2026-10-28 11:15",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חשבון נפש | פתיח",
+       "logo": "https://www.kan.org.il/media/aklpgbnd/חשבון-נפש-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ahgg97gp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"חשבון נפש\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671066/942811/",
+       "id": "942811"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

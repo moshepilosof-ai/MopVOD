@@ -1,0 +1,46 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אגדת חורבן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12499/",
+   "series_id": "12499",
+   "updated": "2026-10-27 21:26",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אגדת חורבן - הצצה |  חורבן הבית",
+       "logo": "https://www.kan.org.il/media/14yoegrp/אגדת-החורבן-תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fzy3juxq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-27",
+       "plot": "יום הדין של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12499/876002/",
+       "id": "876002"
+      },
+      {
+       "name": "אגדת חורבן | טריילר",
+       "logo": "https://www.kan.org.il/media/32vjp4nb/https-kanstaticazureedgenet-download-pictures-2022-2-24-imgid-69858_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ytmgnsv2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-13",
+       "plot": "טריילר לסרט \"אגדת חורבן\" על המרד היהודי שהסתיים בחורבן בית שני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12499/870285/",
+       "id": "870285"
+      },
+      {
+       "name": "אגדת חורבן",
+       "logo": "https://www.kan.org.il/media/ruhhtst4/1920x1080-ללא-לוגו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3v7fzxza/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סיפור המרד היהודי ברומא המסתיים בחורבן בית המקדש השני. שולי רנד, עמוס תמם, זאב רווח, מוני מושונוב, יגאל נאור, יעל אבקסיס ו-1500 ציורים מאת דוד פולונסקי ומיכאל פאוסט בסרטו של גידי דר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12499/140931/",
+       "id": "140931"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

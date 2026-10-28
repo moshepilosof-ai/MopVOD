@@ -1,0 +1,223 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אצל מני | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-729680/",
+   "series_id": "729680",
+   "updated": "2026-10-28 09:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אצל מני | תוכנית 24 - 15.7.2002",
+       "logo": "https://www.kan.org.il/media/5q2kpyy0/אצל-מני-1572002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_04o4sd5m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "הזמרת עדנה לב מדברת על דיכאון, יהודה משי-זהב על גיוס החרדים ופרי שרביט שבנה נהרג בשוגג",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/730073/",
+       "id": "730073",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 23 - 27.8.2001",
+       "logo": "https://www.kan.org.il/media/dgenck0m/אצל-מני-2782001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l49gx85u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "סיפור הגבורה הלא ייאמן של אלכס ברוייר ניצול השואה, הילד שכובש את פסטיבלי המחול ברחבי העולם, שחקן הכדורגל פליקס חלפון ושרי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/730070/",
+       "id": "730070",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 22 - 4.12.2000",
+       "logo": "https://www.kan.org.il/media/dofpa5ru/web_אצל_מני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1bkibqp0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "פיליפ הלום קרב חושף את ההתמודדות שלו, צביקה הדר משתתף בפסטיגל, יעל בר-זוהר והכוכבות נורית גפן וג'וזי כץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/730068/",
+       "id": "730068",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 21 - 11.9.2000",
+       "logo": "https://www.kan.org.il/media/xq4pfzxo/אצל-מני-1192000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1tr2nt3e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "גלי עטרי, ציפי שביט, ספי ריבלין, ערן גולדשטיין נמוך הקומה ואורה ולוי ארגוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729780/",
+       "id": "729780",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 20 - 28.8.2000",
+       "logo": "https://www.kan.org.il/media/2ignu52s/אצל-מני-2882000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_azpjhk1h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "אמיר פיי גוטמן, עודד קוטלר - השחקן הישראלי הראשון שזכה בדקל הזהב בפסטיבל קאן, הזוג שהתחתן כנגד כל הסיכויים ואהובה עוזרי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729777/",
+       "id": "729777",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 19 - 13.3.2000",
+       "logo": "https://www.kan.org.il/media/2zkjubh0/אצל-מני-1332000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k5zvcsda/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "עמיר בניון, רחלי סמיה - שבעלה ניסה לרצוח אותה, במסר לכל הנשים שחיות במעגל האלימות והרב היהודי ההומוסקסואל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729773/",
+       "id": "729773",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 18 - 15.6.1999",
+       "logo": "https://www.kan.org.il/media/05iffune/אצל-מני-1561999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_17zg17t3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "תוכנית גברית עם אלי לוזון, למה ד\"ר עזמי בשארה עזב את המירוץ לראשות הממשלה והזמר דני דותן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729771/",
+       "id": "729771",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 14 - כתיבה ומשחק",
+       "logo": "https://www.kan.org.il/media/duojgwjq/אצל-מני-1431999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6x6whczw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "ליאור בויצ'וק עם ספרו המצמרר, שמעון פרנס מ\"ארץ שבת\" ויבגניה דודיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729758/",
+       "id": "729758",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 13 - מדגמנים חסידות",
+       "logo": "https://www.kan.org.il/media/gcmmt42u/אצל-מני-2321999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sjstkgt7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "אביהו מדינה, ליאון רוזנברג, רז ליברמן שהיה לוחם שייטת ואחרי שיחרורו הפך לדוגמן צמרת שעכשיו חסיד ברסלב בצפת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729754/",
+       "id": "729754",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 12 - שרים ומנחים",
+       "logo": "https://www.kan.org.il/media/apdejdgq/אצל-מני-2121999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h917brob/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "כנסיית השכל משיקה אלבום שלישי ודודו טופז האורח המיוחד של התוכנית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729749/",
+       "id": "729749",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 11 - הו הא מי זה בא?",
+       "logo": "https://www.kan.org.il/media/djio1wnb/אצל-מני-221999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c0bpbxp2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "חיליק כהן עם סיפור מרגש, שלומי שבת בשיר מרגש, המועמד לראשות הממשלה הרב יוסף בא-גד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729746/",
+       "id": "729746",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 10 - דברים טובים באריזות קטנות",
+       "logo": "https://www.kan.org.il/media/wt3frpzo/אצל-מני-511999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_79lucq94/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "מתן וילנאי אלוף במיל' - סייר ותיק, עלמה הראל השחקנית הנהדרת, לימור יבדני - ילדה בגובה 1.30 שניצחה את צה\"ל ואורי לוי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729739/",
+       "id": "729739",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 9 - בית נחשון",
+       "logo": "https://www.kan.org.il/media/an3bdt1m/אצל-מני-27101998.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wre5gti3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "דובי גל, דפנה דקל, רומי אבולעפיה וחנוכת \"שלוה - בית נחשון\" לציון 4 שנים לרצח נחשון וקסמן ז\"ל עם רפאל אחיו הקטן שמתמודד עם תסמונת דאון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729736/",
+       "id": "729736",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 8 - משפחה מארחת",
+       "logo": "https://www.kan.org.il/media/y4an4ibz/אצל-מני-1251998.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6cosoe9b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "ציפי שביט, חני נחמיאס, אקי אבני, ג'ימי טורק ואודי - בחור אוטיסט, יתום מהורים שמתגורר בכפר מיוחד ומצא משפחה מארחת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729730/",
+       "id": "729730",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 7 - חיים הצגה",
+       "logo": "https://www.kan.org.il/media/rziblu5u/meni.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_29vz32zj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "הרוצח אפרים שני שרצח את אשתו והוציא מחזה, יעל ארד שמעודדת את שחקן הפינג-פונג בן ה-10 שמחכה להשתלת כליה וחתן פרס ישראל אהוד מנור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729724/",
+       "id": "729724",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 6 - התמכרות וטוב",
+       "logo": "https://www.kan.org.il/media/rv1hqit4/אצל-מני-1021998.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_scovxkc0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "מלך הרדיו אלכס אנסקי, דנה דבורין בהופעה, הנערה גילי רחמים שאיבדה את רגלה במאבק עם הסרטן ועכשיו רוצה לשרת בצה\"ל, סיפור הגבורה האישי של הבחור שעוזר לאנשים לצאת ממעגל ההתמכרות וזלמן שושי וינדר פורש מהזנות ומתגייס לעמותת \"עת לירושלים\" למאבק באיידס",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729719/",
+       "id": "729719",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 5 - בידור ונפש",
+       "logo": "https://www.kan.org.il/media/fkifgnrb/אצל-מני-2011998.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h0h3rp6a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "המגמה לתקשורת באולפנית טבריה מתארחת באולפן, חנה לסלאו - הגברת הראשונה של הבידור הישראלי, גיא פינס,  מציינים את יום בריאות הנפש הבינלאומי עם ענת רבינוביץ' - מטפלת בעמותת אנו\"ש שהתמודדה עם בעיות נפשיות והנער גיל גרינברג שהוזמן ע\"י שמעון פרס לביקור בכנסתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729717/",
+       "id": "729717",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 4 - חנוכה",
+       "logo": "https://www.kan.org.il/media/yiaeifpb/אצל-מני-16121997.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q71bpm6f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "תוכנית מיוחדת לקראת חנוכה עם הרב דב קוק, מיכל ינאי, במאי התיאטרון אדם לרר ופולי מהגשש החיוור שמשחק בהצגה \"רובין הוד\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729714/",
+       "id": "729714",
+       "season": 1
+      },
+      {
+       "name": "אצל מני | תוכנית 3 - כנר באולפן",
+       "logo": "https://www.kan.org.il/media/ef0mnp0l/אצלי-מני-2051997.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bvl76nhw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-27",
+       "plot": "השחקנית רובי פורת-שובל על ההצגה החדשה שהיא מככבת בה, סמיר שוקרי עם הכינור ואהוד ברק מציין את יום הולדתו ה-39 של רון ארד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/s1/729710/",
+       "id": "729710",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אצל מני | פתיח",
+       "logo": "https://www.kan.org.il/media/vw3dbmkj/אצל-מני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_od0bc44k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית האירוח \"אצל מני\" בהנחיית מני פאר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-729680/943379/",
+       "id": "943379"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

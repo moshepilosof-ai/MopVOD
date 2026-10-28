@@ -1,0 +1,254 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן מסבירים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-12443/",
+   "series_id": "12443",
+   "updated": "2026-10-28 11:27",
+   "sub_categories": [
+    {
+     "name": "עונה 2024",
+     "channels": [
+      {
+       "name": "תחרות לחובבנים ועשירים: האבולוציה של האולימפיאדה",
+       "logo": "https://www.kan.org.il/media/snupjlnd/whatsapp-image-2024-07-25-at-171131.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sgu99z52/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-25",
+       "plot": "איך התחילו התחרויות האולימפיות, מה היו תנאי הקבלה ואיך כל זה קשור לאנשים עשירים עם תחביב ספורטיבי? כאן מסבירים על האבולוציה של האולימפיאדה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2024/777135/",
+       "id": "777135",
+       "season": 2024
+      },
+      {
+       "name": "מועצת הביטחון - מי אתם שתחליטו עלינו?",
+       "logo": "https://www.kan.org.il/media/40cfbb1b/4_04206.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jtxodtaz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-26",
+       "plot": "מה הקטע של מועצת הביטחון של האו\"ם, ולמה דווקא עכשיו עם הצווים של בית הדין בהאג אנחנו צריכים אותה יותר מתמיד? איליה גרינפלד עושה סדר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2024/753679/",
+       "id": "753679",
+       "season": 2024
+      },
+      {
+       "name": "למה בעצם עושים על האש ביום העצמאות?",
+       "logo": "https://www.kan.org.il/media/aimjk3sb/נחום-עצמאות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hr50o18v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-13",
+       "plot": "חשבתם פעם מאיפה הגיע המנהג הזה של לעשות על האש ביום העצמאות? יצאנו לחקור",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2024/748907/",
+       "id": "748907",
+       "season": 2024
+      },
+      {
+       "name": "כשהחות'ים מתקיפים במים בינלאומיים - מי האחראי? ומותר לעשן שם?",
+       "logo": "https://www.kan.org.il/media/3hndword/7_01809.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iyaqdtmh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-07",
+       "plot": "אין כמו הים, וכמה זה נחמד פשוט לכבוש אותו ולצעוק \"שלי\". אבל היום, כשזה קצת פחות עובד ככה, מי אחראי בעצם על החלוקה של השטח הבלתי נגמר הזה ומי זוכה בכל המשאבים והאוצרות?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2024/699515/",
+       "id": "699515",
+       "season": 2024
+      },
+      {
+       "name": "הפנקס הכי מיותר שיש: מה הסיפור של פנקסי השבי?",
+       "logo": "https://www.kan.org.il/media/uiohvsyw/02_00145.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wce86sym/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-18",
+       "plot": "כל חייל מקבל אותו ביום הראשון בצה\"ל, אבל מה בעצם הסיפור מאחורי פנקסי השבי, למה הכותרת שלו בצרפתית ומדוע הוא בכלל לא רלוונטי כשחיילים נחטפים על ידי ארגוני טרור?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2024/686868/",
+       "id": "686868",
+       "season": 2024
+      },
+      {
+       "name": "מה הסיפור של הצלב האדום ולמה הוא לא נפגש עם החטופים?",
+       "logo": "https://www.kan.org.il/media/hoiaitp2/01_00084.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lle34jp6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-24",
+       "plot": "הארגון הוקם במטרה לצמצם פגיעה בפצועים במלחמות מבלי לתפוס צד ולהישאר ניטרלי והומניטרי. אז איך מתנהלים מול גוף טרור רצחני כמו חמאס?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2024/661541/",
+       "id": "661541",
+       "season": 2024
+      },
+      {
+       "name": "מתי המקלטים עשו עלייה לישראל ומה בכלל הסיפור שלהם?",
+       "logo": "https://www.kan.org.il/media/ujrlvelj/04_04780.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9yc1usdo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-29",
+       "plot": "לדרום קוריאה יש 18 אלף, לגרמניה פחות מ-600 ולמדינות ערב אין אותם בכלל - מקלטים, מה הסיפור שלהם, מי היה הראשון שחשב עליהם, מה הקשר למלחמת המפרץ והאם ידעתם שהבריטים בנו אותם בסגנון DIY עם דף הוראות מהממשלה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2024/629419/",
+       "id": "629419",
+       "season": 2024
+      }
+     ]
+    },
+    {
+     "name": "עונה 2023",
+     "channels": [
+      {
+       "name": "כאן מסבירים | איך סופרים כמה אנשים היו בהפגנה?",
+       "logo": "https://www.kan.org.il/media/tlubxqhn/2023-3-1-imgid-95019_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hmzbphha/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בתום כל הפגנה מתחיל קרב המספרים. איך בכלל קובעים כמה אנשים היו שם? הצלבה של שיטות חישוב, תצלומים ואיכוני טלפונים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2023/161595/",
+       "id": "161595",
+       "season": 2023
+      }
+     ]
+    },
+    {
+     "name": "עונה 2022",
+     "channels": [
+      {
+       "name": "כאן מסבירים | למה אנחנו אוהבים להתנשק?",
+       "logo": "https://www.kan.org.il/media/qlil4qql/2022-12-29-imgid-90049_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jgzjile5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בנשיקה צרפתית אחת אפשר להעביר 80 מיליון חיידקים, ואפילו לא מעט מחלות. אז למה אנחנו עושים את זה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2022/156252/",
+       "id": "156252",
+       "season": 2022
+      },
+      {
+       "name": "כאן מסבירים | במשך כמה זמן מותר לאכול מקופסאות אוכל?",
+       "logo": "https://www.kan.org.il/media/030pmdsi/2022-12-4-imgid-87922_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_61x32m6n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי כמה זמן עדיין בטוח לאכול מקופסה שישבה במקרר? כאן עונים ומפצירים בכם להחזיר קופסאות ריקות לאמא.",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2022/153980/",
+       "id": "153980",
+       "season": 2022
+      },
+      {
+       "name": "כאן מסבירים | מה עומד מאחורי מחול הזרזירים?",
+       "logo": "https://www.kan.org.il/media/i25lfxnp/2022-12-4-imgid-87920_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r6at24e8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עד שישובו לאירופה בסוף פברואר, הזרזירים המצויים נותנים כאן מדי יום את הופעת חייהם - אלפי רקדנים מעופפים בלי שום אפקטים או פירוטכניקה. איך לעזאזל הם עושים את זה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2022/153977/",
+       "id": "153977",
+       "season": 2022
+      },
+      {
+       "name": "כאן מסבירים | האם כדאי לספר את הכלב לקראת הקיץ?",
+       "logo": "https://www.kan.org.il/media/op5pthdo/2022-6-26-imgid-76799_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v67x54qj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אליקו פלג הכלבן כנראה קצת יפתיע אתכם. ואיך מזהים מכת חום ובאילו שעות כדאי לטייל איתו? הכינו כלבכם לקיץ",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2022/146922/",
+       "id": "146922",
+       "season": 2022
+      },
+      {
+       "name": "כאן מסבירים | איך להרגיל כלבים לזיקוקי יום העצמאות?",
+       "logo": "https://www.kan.org.il/media/qq4jjvhv/2022-5-2-imgid-73638_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7aa0l07j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תקופת יום העצמאות מאוד קשה לחברינו הטובים, שנתקפים פאניקה ולעיתים אף בורחים. המאלף אליקו פלג מסביר איך נוכל להרגיל את הכלבים שלנו לזיקוקים ולבומים, ובכלל חושב שזו מסורת שצריך היה כבר להחליף",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2022/144402/",
+       "id": "144402",
+       "season": 2022
+      },
+      {
+       "name": "כאן מסבירים | איך מנקים הכי טוב?",
+       "logo": "https://www.kan.org.il/media/pqsbzlpx/2022-4-11-imgid-72506_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1004xvxx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עם או בלי אקונומיקה? לגרוף מים או להשתמש בסמרטוט? אהוד יצא ללכלך את המעבדה של מכון ויצמן בשביל להבין אחת ולתמיד איך הכי נכון לנקות לקראת פסח. מי חשב שלא צריך להיות יסודיים יותר מדי? זה לא אנחנו אמרנו, זה המדע",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2022/143613/",
+       "id": "143613",
+       "season": 2022
+      },
+      {
+       "name": "כאן מסבירים | מה אפשר ללמוד מהאמנות של יאיוי קוסמה?",
+       "logo": "https://www.kan.org.il/media/4n0g5dyl/2022-1-25-imgid-68144_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8p0r10fo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מה אנחנו רואים כשאנחנו נהנים מהעבודות של יאיוי קוסמה - הזדמנות לסלפי? אמנות גבוהה? ייתכן ואנחנו מפספסים את לב העניין. העבודות המרהיבות של קוסמה הן בעצם התגשמות פיזית של מחלת הנפש ממנה היא סובלת, והן יכולות לא רק להעביר לנו יום תרבותי נחמד, אלא גם לפתוח עבורנו שער לדיון ציבורי אמיתי על בריאות הנפש",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2022/140424/",
+       "id": "140424",
+       "season": 2022
+      }
+     ]
+    },
+    {
+     "name": "עונה 2021",
+     "channels": [
+      {
+       "name": "כאן מסבירים | מה זה \"שנת שבתון\", ולמה צריך את זה?",
+       "logo": "https://www.kan.org.il/media/24shitid/2021-9-14-imgid-60897_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dyndvpd8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מכירים את זה שהמורה שלכם מודיעה פתאום: \"בשנה הבאה לא אהיה בבית הספר, אני בשבתון\"? מתי זה התחיל, מה עושים בשנה הזו - ולמה שלא ניקח כולנו, מדי פעם, זמן לעצמנו?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2021/135353/",
+       "id": "135353",
+       "season": 2021
+      },
+      {
+       "name": "כאן מסבירים | הנזקים שעושה התאורה המלאכותית לכדור הארץ",
+       "logo": "https://www.kan.org.il/media/bgeclwb3/2021-8-12-imgid-59161_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hqfwz6xv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "צבים, עופות וגם בני אדם - כולם זקוקים לחושך כדי לשרוד. אבל העולם סובל מעודף אור, ולפחות שליש מהאור שאנחנו משתמשים בו בלילה - מבוזבז. למה לא כדאי לשנות מערכת אקולוגית שהתפתחה על פני שלושה וחצי מיליארד שנים, ואיך מתקנים את המצב בלי לשבת לבד בחושך?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2021/134609/",
+       "id": "134609",
+       "season": 2021
+      },
+      {
+       "name": "כאן מסבירים | ווסט זוהר ומשקפות מוזרות - מודדי הכביש נחשפים",
+       "logo": "https://www.kan.org.il/media/ahcj04zx/2021-7-29-imgid-58171_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fui7e83y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כולנו נתקלנו באנשים האלה עם הווסט הזוהר שעומדים שעות ברחוב ומביטים במשקפות המוזרות שלהם ובסוף מסמנים קודים משונים על המדרכה. אבל מה הם עושים? בונים משהו? מרחיבים את הכביש? בונים בניין ממול? אולי הם עולים על חריגות הבניה של השכנים? איתמר אבנרי הלך לברר איתם את הדברים, ולהבין למה הם צריכים ​ללמוד בטכניון ארבע שנים בשביל לעשות את מה שהם עושים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2021/134159/",
+       "id": "134159",
+       "season": 2021
+      },
+      {
+       "name": "כאן מסבירים | איך מנסחים שאלת טריוויה מוצלחת?",
+       "logo": "https://www.kan.org.il/media/bwbeeyxb/2021-7-1-imgid-56305_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9fpf82te/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כמה פעמים ישבתם מול הטלוויזיה, צפיתם בתוכנית טריוויה ואמרתם לעצמכם: \"אני הייתי יכול לעשות את זה יותר טוב\"? ובכן, על זה העיקרון של התוכניות האלה עובד! כדי שהוא יעבוד היטב, השאלות צריכות להיות מנוסחות בצורה מאוד מסוימת. אז איך עושים את זה? לוסי איוב מסבירה, עם קצת עזרה מהבית של \"הצ'ייסר\" - איתי הרמן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2021/133134/",
+       "id": "133134",
+       "season": 2021
+      },
+      {
+       "name": "כאן מסבירים | מה עושים במצב של חרדה?",
+       "logo": "https://www.kan.org.il/media/fgyb2sev/2021-5-13-imgid-52997_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4c08sf3a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לצערנו שוב צריך להיערך לשגרת חירום. רוצים לדעת איך לעזור לעצמכם ולאחרים להתמודד עם החרדה? אליה מסביר בעזרת אביגיל, מעשה ואמא",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2021/131171/",
+       "id": "131171",
+       "season": 2021
+      },
+      {
+       "name": "כאן מסבירים | מה הקשר בין מחלת הצליאק, פסח ומלחמת העולם השנייה?",
+       "logo": "https://www.kan.org.il/media/koxhbn0q/2021-4-1-imgid-50130_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ifnffcbu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חג הפסח הוא הזדמנות לעם ישראל להתאחד עם חולי הצליאק וגם הזדמנות בשבילנו להבין מה כוללת המחלה, איך מתמודדים איתה, האם גלוטן הוא אויב האנושות, ומה הקשר לרעב בהולנד במלחמת העולם השנייה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2021/129389/",
+       "id": "129389",
+       "season": 2021
+      },
+      {
+       "name": "כאן מסבירים | כיצד נולדה זכות ההצבעה לנשים בישראל?",
+       "logo": "https://www.kan.org.il/media/rlrl14su/2021-3-23-imgid-49626_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w7oz2yq0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הן היו חבורה של נשים נחושות שלא נכנעו לשום לחץ. שרק בזכותן, השתתפות נשים בבחירות לא עמדה בסימן שאלה כשקמה מדינת ישראל. בראש המאבק עמדה רוזה וולט שטראוס, האישה הנכונה, בזמן הנכון, במקום הנכון - שהגיעה לכאן לגמרי במקרה. רבה שוורץ על סיפורן של הנשים שלא נתנו שלא יספרו אותן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12443/s2021/129180/",
+       "id": "129180",
+       "season": 2021
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

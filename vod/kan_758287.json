@@ -1,0 +1,163 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - זומביט",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-758287/",
+   "series_id": "758287",
+   "updated": "2026-10-28 10:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זומביט | 28.7.1993 - משחקי טלפון",
+       "logo": "https://www.kan.org.il/media/atdanskx/מנחה-זומביט-מחזיק-טלפון-נייח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lwo3cm16/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-30",
+       "plot": "האורחים מראים איך גם בעזרת מכשיר התקשורת הנייח אפשר לשחק בטלוויזיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/778762/",
+       "id": "778762",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 1.7.1993 - התוכנית הראשונה",
+       "logo": "https://www.kan.org.il/media/1lub0hwc/מנחה-זומביט-עם-גוי-סטיק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wvrg4elp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-30",
+       "plot": "בפרק הראשון לסדרה שמביאה למסך את כל החידושים הטכנולוגיים, אורחים שונים מסבירים איך לנצח את משחקי המחשב והטלוויזיה האהובים ומה זה BBS?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/778739/",
+       "id": "778739",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 30.7.1993 - אוזה באולפן",
+       "logo": "https://www.kan.org.il/media/2jwhsphz/אוזה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uyymvg3k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-20",
+       "plot": "פרק לגיל הצעיר שמארח גם את הבובה האהובה מפרפר נחמד והמפעילה שלה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/763584/",
+       "id": "763584",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 6.7.1993 - משחקי מחשב לילדים",
+       "logo": "https://www.kan.org.il/media/rdsljapz/זומביט-משחקים-לילדים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_27eclwmx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-20",
+       "plot": "טיפים של אלופים צעירים לניצחון במשחקים ואבי קורניק עם שותפו על תוכנת התמלילים שהמציאו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/763570/",
+       "id": "763570",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 29.9.1995 - לקט חידושי מחשב",
+       "logo": "https://www.kan.org.il/media/4n1djn42/זומביט-הפקת-מולטמדיה-2991995.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pfirn3al/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-20",
+       "plot": "אוסף הכרזות חדשות על שימושי המחשב בתחומי הספורט, הסרטים, האנימציה ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/763557/",
+       "id": "763557",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 23.11.1998 - משחקים",
+       "logo": "https://www.kan.org.il/media/iuma035m/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h295269g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-19",
+       "plot": "נינטנדו של סוני - המתחרה החדש בפיפ\"א, פלייסטיישן ואתגרי השוק הישראלי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/763107/",
+       "id": "763107",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 2002 - מונדיאל",
+       "logo": "https://www.kan.org.il/media/xizllkar/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bk7tnho8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-19",
+       "plot": "האם הרשת מסוגלת להתמודד עם האירוע הספורטיבי הגדול ביותר בעולם והאם השחקנים מסוגלים להתמודד עם התגובות הרצות בה?. שודר בשנת 2002",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/763086/",
+       "id": "763086",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 26.6.1999 - טלפונים סלולריים",
+       "logo": "https://www.kan.org.il/media/2waf1px5/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wjw0v110/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-19",
+       "plot": "כל החידושים בנייד, סרט לצפייה באורך מלא והמשחק החדש 'מחץ הדלתא'",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/763082/",
+       "id": "763082",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 17.9.1995 - חגיגות ה-300 ",
+       "logo": "https://www.kan.org.il/media/lqlflklw/web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lcx1h967/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "מה זה בעצם זומביט? ואיך הכל התחיל? לרגל מספר הפרקים העגול והמכובד של התוכנית, איל קיציס מארח באולפן את יוצרי התוכנית - לאה לייבה ורוני צייג",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/758308/",
+       "id": "758308",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 17.5.1995 - לומדות מחשב",
+       "logo": "https://www.kan.org.il/media/gxbit4d5/זומביט-סיוון-רהב-הצעירה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_45fa81po/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "גיר ולוח? משעמם! סיון רהב מציגה את טכנולוגיות חדשות וכיפיות ללמידה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/758305/",
+       "id": "758305",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 22.12.1995 - פסטיבלי מחשב",
+       "logo": "https://www.kan.org.il/media/3elmmqtp/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0diwub31/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "איל קיציס מבקר בתערוכת עולם ה-P.C בגני התערוכה וב-Compofilm - הפסטיבל הראשון בסינמטק על סרטים שבמרכזם המחשב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/758303/",
+       "id": "758303",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 27.8.1995 - השקת Windows",
+       "logo": "https://www.kan.org.il/media/cikkg4cz/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0j0xi7mz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "לאחר המתנה של שנים, מיקרוסופט משיקה את מערכת ההפעלה החדשנית ופורצת הדרך. צפו בהסבר הראשון על גירסת הבטא שלה, נוסטלגיה במיטבה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/758300/",
+       "id": "758300",
+       "season": 1
+      },
+      {
+       "name": "זומביט | 5.8.1994 - תקשורת דרך האינטרנט",
+       "logo": "https://www.kan.org.il/media/qvzfd2yb/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3avmq3eo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-06",
+       "plot": "איך אפשר לתקשר עם אנשים ברחבי הארץ והעולם דרך הרשת?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/s1/758297/",
+       "id": "758297",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "זומביט | פתיח",
+       "logo": "https://www.kan.org.il/media/ggoa5hub/זומביט.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1o8fnvdj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-26",
+       "plot": "הפתיח הטכנולוגי של \"זומביט\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-758287/865000/",
+       "id": "865000"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

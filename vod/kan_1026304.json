@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - נער יהודי גאה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1026304/",
+   "series_id": "1026304",
+   "updated": "2026-10-28 12:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "נער יהודי גאה",
+       "logo": "https://www.kan.org.il/media/kcfnvrxw/1920x1080-no-logo-נער-יהודי-גאה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188447/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-12",
+       "plot": "הבמאי ישרי הלפרן יוצא למסע תיעודי-בלשי בעקבות סיפורו של הרשל גרינשפן, הנער המתנקש המסתורי, שהואשם על ידי יהודים באחריות לפוגרום שהתחיל את השואה ועל ידי הגרמנים כמי שהתחיל את מלחמת העולם השנייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1026304/1026305/",
+       "id": "1026305"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,367 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אנחנו על המפית",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12447/",
+   "series_id": "12447",
+   "updated": "2026-10-28 09:24",
+   "sub_categories": [
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "אנחנו על המפית - עונה 4 | הבית של חוסנייה",
+       "logo": "https://www.kan.org.il/media/1plom3zj/2022-7-3-imgid-77255_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a8m850wk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים קולינאריים בחברה הישראלית. הפעם הוא פוגש את חוסנייה אבן ברי, שמארחת באוהל ביתה קבוצות לארוחות בדואיות מסורתיות, ולוקחת חלק בתנועה מסקרנת להעצמת נשים ברהט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/147210/",
+       "id": "147210",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | ברוט",
+       "logo": "https://www.kan.org.il/media/kgidy0bi/2022-6-26-imgid-76795_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tma20uz7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים שמשפיעים על הצלחת של כולנו. יאיר ועומר הצליחו להתגבר על האגו, וחברו לפני 8 שנים לדרך משותפת במסעדת ״ברוט״ ובמעבדת הפודטק שהקימו, בהן נחקר הטעם המקומי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/146898/",
+       "id": "146898",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | ע'ג'ר",
+       "logo": "https://www.kan.org.il/media/yumpegcj/https-kanstaticazureedgenet-download-pictures-2022-6-19-imgid-76427_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ggk34cd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים קולינאריים בחברה הישראלית. השף ע׳לי ח׳טיב נולד וחי בכפר ע׳ג׳ר- שלכוד בין ישראל ללבנון. ע׳לי נשען על מסורת הבישול הסורית עלאווית, אותה הוא מפרק ומרכיב מחדש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/146649/",
+       "id": "146649",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | טאיקו",
+       "logo": "https://www.kan.org.il/media/tcscdyby/https-kanstaticazureedgenet-download-pictures-2022-5-23-imgid-74940_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qcjmiidb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים שמשפיעים על הצלחת של כולנו. טאיקו ושלמה חיים במכמנים ומנהלים משם אורחן שהוא ממלכה יפנית קטנה, ובה הם מגשרים באהבה בין שתי התרבויות הכל כך שונות זו מזו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/145416/",
+       "id": "145416",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | שמאלץ",
+       "logo": "https://www.kan.org.il/media/n5wookbz/2022-5-10-imgid-74112_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0js03nr8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים שמשפיעים על הצלחת של כולנו. אפרים גרינבלט, חרדי ליטאי שגדל בניו יורק ובעליהם של מבשלת בירה, מעדנייה ובר בירושלים, רואה במסעדנות דרך לקירוב לבבות ושבירת סטיגמות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/144657/",
+       "id": "144657",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | רוטנברג",
+       "logo": "https://www.kan.org.il/media/11inqlsp/https-kanstaticazureedgenet-download-pictures-2022-4-6-imgid-72239_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5q5655mk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים שמשפיעים על הצלחת שלנו. הילה ויזהר מקיימים מזה עשור דיאלוג בינאישי, קולינארי, היסטורי וגיאוגרפי, שמזין ומעצב את תפריט מסעדת רוטנברג המעוטרת, על גבול ישראל- ירדן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/143477/",
+       "id": "143477",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | אונאומה",
+       "logo": "https://www.kan.org.il/media/nzamclc0/https-kanstaticazureedgenet-download-pictures-2022-4-6-imgid-72238_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nleg07ny/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים שמשפיעים על הצלחת של כולנו. רובי ואונאומה, בעליה של המסעדה התאילנדית ״אונאומה״ בתל אביב, נחושים למצוא בית משלהם, שבו יפצו על היעדר הבתים של ילדותם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/143474/",
+       "id": "143474",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | ערבסקה",
+       "logo": "https://www.kan.org.il/media/wizli5ni/https-kanstaticazureedgenet-download-pictures-2022-4-6-imgid-72237_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_osjkh0jz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים שמשפיעים על הצלחת של כולנו. סיפור חייהם של הזוג עידן ואכרם הוביל אותם ליצור קהילה מגובשת ללא הבדל דת, צבע, או מגדר, שמרכזה במסעדת ערבסקה בשוק תלפיות בחיפה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/143471/",
+       "id": "143471",
+       "season": 4
+      },
+      {
+       "name": "אנחנו על המפית - עונה 4 | סיר לסלאם",
+       "logo": "https://www.kan.org.il/media/yoqpk2ip/https-kanstaticazureedgenet-download-pictures-2022-4-6-imgid-72236_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f3i19948/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השף ברק יחזקאלי יוצא בעקבות דיאלוגים שמשפיעים על הצלחת של כולנו. דפי ומוזנא מפגישות על הצלחת ובחיים את מסורות הבישול הפלסטיני והיהודי-המזרח אירופאי, בנסיון ליצור, כנגד כל הסיכויים, הווה משותף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s4/143468/",
+       "id": "143468",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "אנחנו על המפית - עונה 3 | הדיי עפאים - פרק 7",
+       "logo": "https://www.kan.org.il/media/is0pjssq/imgid-37982_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s9himxe3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי מסעותיו בחו״ל חוזר השף ברק יחזקאלי ארצה, כדי לפגוש את השפים שמנסחים מטבח מקומי עכשווי. והפעם: הדיי עפאים הוא שף, חקלאי בר קיימא ויזם, שהצליח לקחת את עקרונות המשק האוטרקי וליישם אותן במפעלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s3/115780/",
+       "id": "115780",
+       "season": 3
+      },
+      {
+       "name": "אנחנו על המפית - עונה 3 | תומר טל - פרק 6",
+       "logo": "https://www.kan.org.il/media/fxpdsogt/imgid-37983_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lmjdbeve/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי מסעותיו בחו״ל חוזר השף ברק יחזקאלי ארצה, כדי לפגוש את השפים שמנסחים מטבח מקומי עכשווי. והפעם: השף תומר טל, נציג הדור הצעיר של המטבח העכשווי, מערבב בין מסורות עדתיות, חומרי גלם מקומיים ורוח בין-לאומית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s3/115777/",
+       "id": "115777",
+       "season": 3
+      },
+      {
+       "name": "אנחנו על המפית - עונה 3 | עלאא מוסא - פרק 5",
+       "logo": "https://www.kan.org.il/media/jjcff3ms/imgid-37981_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7q5rucni/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי מסעותיו בחו״ל חוזר השף ברק יחזקאלי ארצה, כדי לפגוש את השפים שמנסחים מטבח מקומי עכשווי. והפעם: השף עלאא מוסא יוצר פירוק והרכבה מחודשת של מנות מבית אימו, ומגיש אותן באווירה חיפאית הוללת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s3/115774/",
+       "id": "115774",
+       "season": 3
+      },
+      {
+       "name": "אנחנו על המפית - עונה 3 | אסף דוקטור - פרק 4",
+       "logo": "https://www.kan.org.il/media/jyzpnicv/imgid-37976_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kkazk2ut/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי מסעותיו בחו״ל חוזר השף ברק יחזקאלי ארצה, כדי לפגוש את השפים שמנסחים מטבח מקומי עכשווי. והפעם: בשיאו של סגר הקורונה, השף אסף דוקטור- שחרט על דגלו חומרי גלם מקומיים בלבד, עובר שיעור בהישרדות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s3/115771/",
+       "id": "115771",
+       "season": 3
+      },
+      {
+       "name": "אנחנו על המפית - עונה 3 | רמה בן צבי - פרק 2",
+       "logo": "https://www.kan.org.il/media/eoqd04qn/imgid-37973_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hteg663j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי מסעותיו בחו״ל חוזר השף ברק יחזקאלי ארצה, כדי לפגוש את השפים שמנסחים מטבח מקומי עכשווי. והפעם: השפית רמה בן צבי, מחלוצות תיאוריית ״מהשדה לצלחת״, פותחת את ביתה בנטף ואת טראומת השריפה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s3/115768/",
+       "id": "115768",
+       "season": 3
+      },
+      {
+       "name": "אנחנו על המפית - עונה 3 | לונא זרייק - פרק 3",
+       "logo": "https://www.kan.org.il/media/2cwn0zlu/imgid-37971_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pdm4d5f7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי מסעותיו בחו״ל חוזר השף ברק יחזקאלי ארצה, כדי לפגוש את השפים שחוקרים ומנסחים מטבח מקומי עכשווי. והפעם: השפית לונא זרייק נשענת על מסורת המטבח הנצרתי, ואורזת אותו באריזה עכשווית ומעודכנת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s3/115765/",
+       "id": "115765",
+       "season": 3
+      },
+      {
+       "name": "אנחנו על המפית - עונה 3 | עזרא קדם - פרק 1",
+       "logo": "https://www.kan.org.il/media/oytkv5ci/imgid-37970_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e4gobbpz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי מסעותיו בחו״ל חוזר השף ברק יחזקאלי ארצה, כדי לפגוש את השפים שחוקרים מטבח מקומי עכשווי. והפעם: השף עזרא קדם, מחלוצי המטבח החדש, מנסח את שפתו הייחודית על בסיס מסורת מטבח הררי וירושלמי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s3/115762/",
+       "id": "115762",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אנחנו על המפית - עונה 2 | ברצלונה עם שי דובלרו - פרק 5",
+       "logo": "https://www.kan.org.il/media/ktrg33af/2019-8-4-imgid-17827_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q72ejbzn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא למסע בעקבות האוכל הישראלי, אשר הפך למותג נערץ בעולם. והפעם: השף שי דובלרו הגשים עם זוגתו מאריה חלום: מסעדה שוקקת משלהם שלימדה את הספרדים להתמכר לחציל בטחינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s2/104503/",
+       "id": "104503",
+       "season": 2
+      },
+      {
+       "name": "אנחנו על המפית - עונה 2 | ליסבון עם אלעד ואיתמר - פרק 7",
+       "logo": "https://www.kan.org.il/media/43kbewoz/2019-8-18-imgid-18756_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4k0dsmzd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא למסע בעקבות האוכל הישראלי, אשר הפך למותג נערץ בעולם. אלעד בודנשטיין ואיתמר אליהו התאהבו אחד בשני ובליסבון, ופתחו בה את המסעדה הישראלית המצליחה טנטורה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s2/104497/",
+       "id": "104497",
+       "season": 2
+      },
+      {
+       "name": "אנחנו על המפית - עונה 2 | פילדלפיה עם מייקל סולומונוב - פרק 6",
+       "logo": "https://www.kan.org.il/media/yqedsvjp/2019-8-12-imgid-18386_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v14go8e3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא למסע בעקבות האוכל הישראלי, אשר הפך למותג נערץ בעולם. והפעם: השף מייקל סולומונוב הוא השגריר הבולט ביותר של המטבח הישראלי בארה\"ב עם 5 פרסי ג'יימס בירד ו-14 מסעדות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s2/104491/",
+       "id": "104491",
+       "season": 2
+      },
+      {
+       "name": "אנחנו על המפית - עונה 2 | שנגחאי עם דורון לורן - פרק 4",
+       "logo": "https://www.kan.org.il/media/gawn4xbh/2019-7-4-imgid-15921_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sn79gqex/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא למסע בעקבות האוכל הישראלי, אשר הפך למותג נערץ בעולם. והפעם: השף קונדיטור דורון לורן הגיע לשנגחאי לפני כשלוש שנים כדי ללמד את הסינים להתאהב בשקשוקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s2/104482/",
+       "id": "104482",
+       "season": 2
+      },
+      {
+       "name": "אנחנו על המפית - עונה 2 | סידני עם מייקל רנטיסי - פרק 3",
+       "logo": "https://www.kan.org.il/media/i1wjyew0/2019-7-3-imgid-15870_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tnew7ef8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא למסע בעקבות האוכל הישראלי, אשר הפך למותג נערץ בעולם. והפעם: השף מייקל רנטיסי הגיע לסידני לפני 15 שנה, ויחד עם זוגתו כריסטי הם חולשים על 2 מסעדות, קייטרינג ו-2 ספרי בישול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s2/104470/",
+       "id": "104470",
+       "season": 2
+      },
+      {
+       "name": "אנחנו על המפית - עונה 2 | בריסל עם סימונה אלחרר - פרק 2",
+       "logo": "https://www.kan.org.il/media/izgndjbg/2019-7-3-imgid-15865_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c3wbyr3j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא למסע בעקבות האוכל הישראלי, אשר הפך למותג נערץ בעולם. והפעם: השפית סימונה אלחרר נסעה בעקבות האהבה לבריסל, פתחה את \"קיטצ'ן 151\" וגרמה לבלגים להתאהב בשקשוקה ובחומוס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s2/104461/",
+       "id": "104461",
+       "season": 2
+      },
+      {
+       "name": "אנחנו על המפית - עונה 2 | פריז עם יריב ברבי - פרק 1",
+       "logo": "https://www.kan.org.il/media/kiubwz2q/2019-7-3-imgid-15873_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8cyzdr97/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא למסע בעקבות האוכל הישראלי, אשר הפך למותג נערץ בעולם. והפעם: השף יריב ברבי נפרד ממסעדות מכוכבות מישלן כדי לפתוח את \"סלטים\" - מסעדה קטנה עם שניצל בלחמניה שכבש את פריז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s2/104434/",
+       "id": "104434",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אנחנו על המפית עונה 1 | וינה עם השפית חיה מולכו - פרק 8",
+       "logo": "https://www.kan.org.il/media/5dnncb1f/cat34710_img_cover713308114.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4kmows8d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "10 מסעדות, מותג סלטים באלפי סופרים ו-5 ספרים: שף חיה מולכו שולטת בוינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87961/",
+       "id": "87961",
+       "season": 1
+      },
+      {
+       "name": "אנחנו על המפית עונה 1 | ניו ג'רזי עם השף מני וקנין - פרק 7",
+       "logo": "https://www.kan.org.il/media/hnddguhb/2022-10-16-imgid-83416_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7auzdjgk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא לפגוש שפים ישראלים מצליחים בעולם ובודק איתם איך נראית ההצלחה ומה מחירה. הפעם: השף מני וקנין הגיע לפני 15 שנים לארה\"ב וכיום הוא הבעלים של המסעדות \"מישמיש\" ו\"מרסל\" בניו ג'רזי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87952/",
+       "id": "87952",
+       "season": 1
+      },
+      {
+       "name": "אנחנו על המפית עונה 1 | בורדו עם השף גיל אלעד - פרק 5",
+       "logo": "https://www.kan.org.il/media/dhxjnyne/2022-10-16-imgid-83415_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zejau8r5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא לפגוש שפים ישראלים מצליחים בעולם ובודק איתם איך נראית ההצלחה ומה המחיר שלה. היום בפרק: השף גיל אלעד השתקע בעיר בורדו שבצרפת והקים שם אימפריה קטנה שכוללת 2 מסעדות ופלאפליה חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87949/",
+       "id": "87949",
+       "season": 1
+      },
+      {
+       "name": "אנחנו על המפית עונה 1 | בלגרד עם השף ראם הרץ - פרק 6",
+       "logo": "https://www.kan.org.il/media/bwsflpge/cat34704_img_cover925215262.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m7mfdnhh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא לפגוש שפים ישראלים מצליחים בעולם ובודק איך נראית ההצלחה ומה מחירה. והפעם: השף ראם הרץ, שנולד בקיבוץ כפר מסריק, הגיע לבלגרד לפי פחות מעשור ועומד כיום בראש קבוצה שמחזיקה 6 מסעדות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87946/",
+       "id": "87946",
+       "season": 1
+      },
+      {
+       "name": "אנחנו על המפית עונה 1 | ברלין עם השף גל בן משה - פרק 4",
+       "logo": "https://www.kan.org.il/media/i0wemdbv/2022-10-16-imgid-83414_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pjrttnxu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא לפגוש שפים ישראלים מצליחים בעולם ובודק איך נראית ההצלחה ומה מחירה. הפעם: השף גל בן משה הגיע לפני 6 שנים לברלין ופתח את מסעדת גלאס שמתמחה במטבח ערבי מודרני מולקולארי וזוכה לשבחים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87943/",
+       "id": "87943",
+       "season": 1
+      },
+      {
+       "name": "אנחנו על המפית עונה 1 | בוקרשט עם השף יוסי חדד - פרק 3",
+       "logo": "https://www.kan.org.il/media/lb4f14nf/2022-10-16-imgid-83412_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_okz0tinj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף יוסי חדד הגיע לבוקרשט לפני 22 שנים ומאז הספיק להפוך לכוכב טלוויזיה מקומי ולהקים שתי מסעדות מצליחות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87937/",
+       "id": "87937",
+       "season": 1
+      },
+      {
+       "name": "אנחנו על המפית עונה 1 | לונדון עם השפים שרית פקר ואיתמר סרולוביץ' - פרק 2",
+       "logo": "https://www.kan.org.il/media/1jxnhoaq/cat34598_img_cover172736258.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m4gpg8bk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא לפגוש שפים ישראלים מצליחים בעולם ובודק איתם איך נראית ההצלחה ומה מחירה. הפעם: שרית פקר ואיתמר סרולוביץ' עשו את זה בלונדון עם 2 מסעדות, מעדנייה, ספרי בישול וטור שבועי בפייננשנל טיימס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87808/",
+       "id": "87808",
+       "season": 1
+      },
+      {
+       "name": "אנחנו על המפית עונה 1 | ניו יורק עם השפית עינת אדמוני - פרק 1",
+       "logo": "https://www.kan.org.il/media/lpnprkcj/cat34597_img_cover389665860.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e9jvesam/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "השף ברק יחזקאלי יוצא לפגוש שפים ישראלים מצליחים בעולם ובודק איתם איך נראית ההצלחה ומה המחיר שלה. והפעם: הכירו את השפית עינת אדמוני הגיעה לפני 20 שנה לניו יורק וכיום היא בעלת שש מסעדות, ביניהן \"בלבוסטה\", \"בר בולונט\" ו\"טעים\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/s1/87805/",
+       "id": "87805",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אנחנו על המפית - הצצה | עינת אדמוני",
+       "logo": "https://www.kan.org.il/media/ncmp0hvf/אנחנו-על-המפית-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7e3dwwcj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-12",
+       "plot": "השף ברק יחזקאלי פוגש בניו יורק את השפית הישראלית המצליחה עינת אדמוני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/919237/",
+       "id": "919237"
+      },
+      {
+       "name": "אנחנו על המפית | טריילר",
+       "logo": "https://www.kan.org.il/media/epbbymm0/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-aad71e99-3ad9-4646-ad69-6e30124239d0.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cg2fibhh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "השף ברק יחזקאלי יוצא הפעם למסע בעקבות דיאלוגים בחברה הישראלית שמשפיעים על הצלחת של כולנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12447/886766/",
+       "id": "886766"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מאש\"ה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671086/",
+   "series_id": "671086",
+   "updated": "2026-10-28 11:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מאש\"ה | פתיח",
+       "logo": "https://www.kan.org.il/media/qzdjeyif/צילום-מסך-2025-08-18-110409.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nygrhqnw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"מאש\"ה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671086/942582/",
+       "id": "942582"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

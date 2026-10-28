@@ -1,0 +1,460 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן בכושר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13599/",
+   "series_id": "13599",
+   "updated": "2026-10-28 11:20",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כאן בכושר | פרק 50",
+       "logo": "https://www.kan.org.il/media/aoudc3au/https-kanstaticazureedgenet-download-pictures-2021-7-14-imgid-57131_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zfobcomv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון להתעוררות הגוף, עם דלית דרורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133558/",
+       "id": "133558"
+      },
+      {
+       "name": "כאן בכושר | פרק 49",
+       "logo": "https://www.kan.org.il/media/tgsdy5y1/https-kanstaticazureedgenet-download-pictures-2021-7-14-imgid-57138_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dan7szk0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם דלית דרורי על השתרשות ותנועתיות עם כיסא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133556/",
+       "id": "133556"
+      },
+      {
+       "name": "כאן בכושר | פרק 48",
+       "logo": "https://www.kan.org.il/media/uqoftfn0/https-kanstaticazureedgenet-download-pictures-2021-7-14-imgid-57137_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_by5wu6mt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון קצר ודינמי עם אביגיל קינן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133554/",
+       "id": "133554"
+      },
+      {
+       "name": "כאן בכושר | פרק 47",
+       "logo": "https://www.kan.org.il/media/yn3fxfu5/https-kanstaticazureedgenet-download-pictures-2021-7-14-imgid-57136_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_659gkh5l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל על צעדי ריקוד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133552/",
+       "id": "133552"
+      },
+      {
+       "name": "כאן בכושר | פרק 46",
+       "logo": "https://www.kan.org.il/media/hmwlznoe/https-kanstaticazureedgenet-download-pictures-2021-7-14-imgid-57135_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3zyqp8xu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם דלית דרורי על רצף תנועתי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133550/",
+       "id": "133550"
+      },
+      {
+       "name": "כאן בכושר | פרק 45",
+       "logo": "https://www.kan.org.il/media/5vibppes/https-kanstaticazureedgenet-download-pictures-2021-7-14-imgid-57132_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_21sk9yyb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון בסגנון יוגה עם כיסא, עם סאני עזיקרי כרמל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133548/",
+       "id": "133548"
+      },
+      {
+       "name": "כאן בכושר | פרק 44",
+       "logo": "https://www.kan.org.il/media/kv4ncptg/https-kanstaticazureedgenet-download-pictures-2021-7-11-imgid-56911_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m346zf76/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון קצר בסגנון אגרוף עם משקולות, עם אביגיל קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133451/",
+       "id": "133451"
+      },
+      {
+       "name": "כאן בכושר | פרק 43",
+       "logo": "https://www.kan.org.il/media/xu1hzw1g/https-kanstaticazureedgenet-download-pictures-2021-7-11-imgid-56910_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_86ukqu50/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון קצר עם כיסא וכדור, עם סאני עזיקרי כרמל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133448/",
+       "id": "133448"
+      },
+      {
+       "name": "כאן בכושר | פרק 42",
+       "logo": "https://www.kan.org.il/media/r2cpouxm/https-kanstaticazureedgenet-download-pictures-2021-7-11-imgid-56905_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j1vf40ho/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון המתמקד בנשימה עם דלית דרורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133445/",
+       "id": "133445"
+      },
+      {
+       "name": "כאן בכושר | פרק 40",
+       "logo": "https://www.kan.org.il/media/3lsb5qwu/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56790_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wnw47kaf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון קצר עם כיסא וסמרטוטים, עם סאני עזיקרי כרמל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133400/",
+       "id": "133400"
+      },
+      {
+       "name": "כאן בכושר | פרק 39",
+       "logo": "https://www.kan.org.il/media/laohbrgi/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56789_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4qx9sm6w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון יוגה בעזרת כיסא,  עם דלית דרורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133398/",
+       "id": "133398"
+      },
+      {
+       "name": "כאן בכושר | פרק 38",
+       "logo": "https://www.kan.org.il/media/il2ayr0g/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56788_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xgl1e5pz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם כיסא לחיזוק הגוף ושיווי המשקל, עם  אביגיל קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133396/",
+       "id": "133396"
+      },
+      {
+       "name": "כאן בכושר | פרק 37",
+       "logo": "https://www.kan.org.il/media/mmklxys4/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56787_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lx0ukvlv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון באמצעות שרפרף, למניעת נפילות, עם סאני עזיקרי כרמל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133394/",
+       "id": "133394"
+      },
+      {
+       "name": "כאן בכושר | פרק 36",
+       "logo": "https://www.kan.org.il/media/z2odsfqb/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56786_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_31xrlmse/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם אביגיל קינן על שיווי משקל עם ספר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133392/",
+       "id": "133392"
+      },
+      {
+       "name": "כאן בכושר | פרק 35",
+       "logo": "https://www.kan.org.il/media/r0uopxpd/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56785_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vihvawsg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון לחיזוק פלג גוף תחתון עם כיסא וגומייה, עם דלית דרור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133390/",
+       "id": "133390"
+      },
+      {
+       "name": "כאן בכושר | פרק 34",
+       "logo": "https://www.kan.org.il/media/5vwkic30/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56784_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tzj0mlu3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל עם כיסא ומקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133388/",
+       "id": "133388"
+      },
+      {
+       "name": "כאן בכושר | פרק 33",
+       "logo": "https://www.kan.org.il/media/qdcnksgv/https-kanstaticazureedgenet-download-pictures-2021-7-9-imgid-56783_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hjciwi0d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם משקולות לחיזור הגוף, עם אביגיל קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133386/",
+       "id": "133386"
+      },
+      {
+       "name": "כאן בכושר | פרק 32",
+       "logo": "https://www.kan.org.il/media/nyrddefn/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56781_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_japd7jcn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון קצר עם כדור על שרירי הליבה, עם דלית דרורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133384/",
+       "id": "133384"
+      },
+      {
+       "name": "כאן בכושר | פרק 31",
+       "logo": "https://www.kan.org.il/media/umzbe225/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56779_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2d2bgnjy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם גומייה, עם סאני עזיקרי כרמל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133382/",
+       "id": "133382"
+      },
+      {
+       "name": "כאן בכושר | פרק 30",
+       "logo": "https://www.kan.org.il/media/sihn4gzf/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56778_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kj7w50xu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון לחיזוק הרגליים עם כיסא, עם אביגיל קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133380/",
+       "id": "133380"
+      },
+      {
+       "name": "כאן בכושר | פרק 29",
+       "logo": "https://www.kan.org.il/media/uwsljwml/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56777_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xrj8d0zs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם דלית דרורי על השתרשות ותנועתיות עם מקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133378/",
+       "id": "133378"
+      },
+      {
+       "name": "כאן בכושר | פרק 28",
+       "logo": "https://www.kan.org.il/media/1qnfi1ee/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56776_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lhwemjw1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל, תרגול באמצעות כיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133376/",
+       "id": "133376"
+      },
+      {
+       "name": "כאן בכושר | פרק 27",
+       "logo": "https://www.kan.org.il/media/nttci5am/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56774_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rieo4co0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון שיווי משקל עם מקל, עם אבגיל קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133374/",
+       "id": "133374"
+      },
+      {
+       "name": "כאן בכושר | פרק 26",
+       "logo": "https://www.kan.org.il/media/3zgh3ap3/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56772_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6pjr8fny/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון גמישות ותנועתיות עם דלית דרורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133372/",
+       "id": "133372"
+      },
+      {
+       "name": "כאן בכושר | פרק 25",
+       "logo": "https://www.kan.org.il/media/gqjlymfq/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56770_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w9nm0vhh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: חיזוק הבטן עם כיסא, עם סאני עזיקרי כרמל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133370/",
+       "id": "133370"
+      },
+      {
+       "name": "כאן בכושר | פרק 24",
+       "logo": "https://www.kan.org.il/media/vruiteyb/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56769_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kn10rpm3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון לחיזוק חגורת הכתפיים עם מגבת, עם אביגיל קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133368/",
+       "id": "133368"
+      },
+      {
+       "name": "כאן בכושר | פרק 23",
+       "logo": "https://www.kan.org.il/media/ozvfiso4/https-kanstaticazureedgenet-download-pictures-2021-7-8-imgid-56768_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k2hkfy7s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם דלית דרורי המתמקד בגב ובבית החזה, עם כיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133366/",
+       "id": "133366"
+      },
+      {
+       "name": "כאן בכושר | פרק 22",
+       "logo": "https://www.kan.org.il/media/fp1dauyx/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56541_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5w3m1r3d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל עם כיסא וסמרטוטים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133267/",
+       "id": "133267"
+      },
+      {
+       "name": "כאן בכושר | פרק 21",
+       "logo": "https://www.kan.org.il/media/gyuou12c/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56540_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_311c7wkn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם אביגיל קינן, עם בקבוק מים גדול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133265/",
+       "id": "133265"
+      },
+      {
+       "name": "כאן בכושר | פרק 20",
+       "logo": "https://www.kan.org.il/media/qohdoeae/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56539_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o6vub069/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל המתמקד בעבודה על שיווי המשקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133263/",
+       "id": "133263"
+      },
+      {
+       "name": "כאן בכושר | פרק 19",
+       "logo": "https://www.kan.org.il/media/pvgggyiu/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56538_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p7m6awjz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון בסגנון יוגה עם דלית דרורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133261/",
+       "id": "133261"
+      },
+      {
+       "name": "כאן בכושר | פרק 18",
+       "logo": "https://www.kan.org.il/media/52qjjz13/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56536_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_73g45xlo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל, עם כיסא וגומייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133259/",
+       "id": "133259"
+      },
+      {
+       "name": "כאן בכושר | פרק 17",
+       "logo": "https://www.kan.org.il/media/gtjdikfy/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56535_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wo3a5zal/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם אביגיל קינן בסגנון פילטיס המתמקד בעבודה על שיווי משקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133257/",
+       "id": "133257"
+      },
+      {
+       "name": "כאן בכושר | פרק 16",
+       "logo": "https://www.kan.org.il/media/x1empdhq/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56534_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rwnf3qw2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם דלית דרורי על רצף תנועתי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133255/",
+       "id": "133255"
+      },
+      {
+       "name": "כאן בכושר | פרק 15",
+       "logo": "https://www.kan.org.il/media/hpopx4ba/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56533_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v5ll3df6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמול על שיווי משקל, עם שרפרף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133253/",
+       "id": "133253"
+      },
+      {
+       "name": "כאן בכושר | פרק 14",
+       "logo": "https://www.kan.org.il/media/y05ofbnq/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56532_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ngslqj9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם אביגיל בסגנון פילאטיס עם גומייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133251/",
+       "id": "133251"
+      },
+      {
+       "name": "כאן בכושר | פרק 13",
+       "logo": "https://www.kan.org.il/media/cxql1ojn/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56531_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r9foenxq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם דלית דרור לחימום ותנועתיות של המפרקים בגוף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133248/",
+       "id": "133248"
+      },
+      {
+       "name": "כאן בכושר | פרק 12",
+       "logo": "https://www.kan.org.il/media/jvqn5epb/https-kanstaticazureedgenet-download-pictures-2021-8-1-imgid-58349_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q8wylecd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל המתמקד בחגורת הכתפיים, עם כדור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133245/",
+       "id": "133245"
+      },
+      {
+       "name": "כאן בכושר | פרק 11",
+       "logo": "https://www.kan.org.il/media/dtvbkqfx/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56524_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_enr0v15n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם אביגיל קינן עם גומייה וכיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133243/",
+       "id": "133243"
+      },
+      {
+       "name": "כאן בכושר | פרק 10",
+       "logo": "https://www.kan.org.il/media/2a2enuz0/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56523_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xdvr30u5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם דלית דרורי לחיזוק פלג גוף עליון, עם גומייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133241/",
+       "id": "133241"
+      },
+      {
+       "name": "כאן בכושר | פרק 9",
+       "logo": "https://www.kan.org.il/media/f34fdjoz/https-kanstaticazureedgenet-download-pictures-2021-7-5-imgid-56522_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hkkmur3a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אימון עם סאני עזיקרי כרמל בעזרת כיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133239/",
+       "id": "133239"
+      },
+      {
+       "name": "כאן בכושר | פרק 8",
+       "logo": "https://www.kan.org.il/media/l11dtmbh/https-kanstaticazureedgenet-download-pictures-2021-7-1-imgid-56296_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9il33zrd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אביגיל קינן באימון על פלג גוף עליון, עם משקולות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/133116/",
+       "id": "133116"
+      },
+      {
+       "name": "כאן בכושר | פרק 7",
+       "logo": "https://www.kan.org.il/media/hekf2o3t/https-kanstaticazureedgenet-download-pictures-2021-6-23-imgid-55804_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_beb4kvmm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: דלית דרורי באימון עם כדור על מרכוז, שיווי משקל ותנועתיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/132805/",
+       "id": "132805"
+      },
+      {
+       "name": "כאן בכושר | פרק 6",
+       "logo": "https://www.kan.org.il/media/efzdrwwb/https-kanstaticazureedgenet-download-pictures-2021-6-23-imgid-55803_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_20f6jktt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: סאני עזיקרי כרמל באימון שמתרכז בקואורדינציה ושיווי משקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/132803/",
+       "id": "132803"
+      },
+      {
+       "name": "כאן בכושר | פרק 5",
+       "logo": "https://www.kan.org.il/media/repilzuv/https-kanstaticazureedgenet-download-pictures-2021-6-23-imgid-55802_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_grrb1pe7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אביגיל קינן באימון על תנועתיות הגוף, עם כיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/132801/",
+       "id": "132801"
+      },
+      {
+       "name": "כאן בכושר | פרק 4",
+       "logo": "https://www.kan.org.il/media/vtphbq1d/https-kanstaticazureedgenet-download-pictures-2021-6-23-imgid-55800_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ie4kzam6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: דלית דרורי באימון עם משקולות, לחיזוק ושיפור שיווי המשקל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/132799/",
+       "id": "132799"
+      },
+      {
+       "name": "כאן בכושר | פרק 3",
+       "logo": "https://www.kan.org.il/media/i4qj1att/https-kanstaticazureedgenet-download-pictures-2021-6-23-imgid-55801_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kvhiqudh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: סאני עזיקרי כרמל באימון עם כיסא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/132797/",
+       "id": "132797"
+      },
+      {
+       "name": "כאן בכושר | פרק 2",
+       "logo": "https://www.kan.org.il/media/5q5hpv2h/https-kanstaticazureedgenet-download-pictures-2021-6-23-imgid-55798_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mrhd4iv7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: אביגיל קינן באימון שמתרכז בקשתות הגוף עם כיסא וכדור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/132794/",
+       "id": "132794"
+      },
+      {
+       "name": "כאן בכושר | פרק 1",
+       "logo": "https://www.kan.org.il/media/v00do2cf/https-kanstaticazureedgenet-download-pictures-2021-6-23-imgid-55797_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n5a2wxvz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אימון גופני יומי קצר. הפעם: דלית דרורי באימון עם משקולות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13599/132792/",
+       "id": "132792"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

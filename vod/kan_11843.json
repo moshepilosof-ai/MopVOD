@@ -1,0 +1,2694 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בואו לאכול איתי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11843/",
+   "series_id": "11843",
+   "updated": "2026-10-27 21:18",
+   "sub_categories": [
+    {
+     "name": "עונה 12",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 25 - שבוע מרכז, יום ה'",
+       "logo": "https://www.kan.org.il/media/ralb11tw/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226097/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "פרק אחרון לעונה! בערב האחרון לתחרות יארח דימה, או אלעד ואולי בכלל מישהו אחר? וגם נגלה מי המנצח של השבוע.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077390/",
+       "id": "1077390",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 24 - שבוע מרכז, יום ד'",
+       "logo": "https://www.kan.org.il/media/oohit3c5/אתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226096/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום הרביעי לתחרות הבישול והאירוח באזור המרכז, יגיעו האורחים למסע תאילנדי אצל ליאת. הערב נגלה למה כל כך קשה לליאת להחליט?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077389/",
+       "id": "1077389",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 23 - שבוע מרכז, יום ג'",
+       "logo": "https://www.kan.org.il/media/j53ijr2m/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226095/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום השלישי לתחרות הבישול והאירוח באזור המרכז, תרקח ארוחה המכשפה הטובה אושרית. הערב נגלה איזה כישוף היא מכינה לחבורה ומה אסור להגיד בבית שלה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077387/",
+       "id": "1077387",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 22 - שבוע מרכז, יום ב'",
+       "logo": "https://www.kan.org.il/media/atqelgbv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226094/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום השני לתחרות הבישול והאירוח באזור המרכז, תארח איבאא בדירת הסטודנטים שלה. הערב נגלה איך יגיבו האורחים כשיבינו שהם צריכים להעביר את הארוחה על הריצפה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077385/",
+       "id": "1077385",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 21 - שבוע מרכז, יום א'",
+       "logo": "https://www.kan.org.il/media/g0rp34h5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226093/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "עונה חדשה! זה היום הראשון לתחרות הבישול והאירוח באזור המרכז, והמארח הפעם הוא תום, רופא שיניים מיפו. אצלו יפגשו לראשונה איבאא, אושרית, ליאת ואלעד או האם בכלל זה דימה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077384/",
+       "id": "1077384",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 20 - שבוע אילת, יום ה'",
+       "logo": "https://www.kan.org.il/media/frph5p5v/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226092/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "את הערב האחרון באילת יבלו האורחים אצל בני, לארוחה תימנית אסלית, אצלו גם יגלו מי המנצח של השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077382/",
+       "id": "1077382",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 19 - שבוע אילת, יום ד'",
+       "logo": "https://www.kan.org.il/media/lz3osi4w/50367500_22_07_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226091/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "זה היום הרביעי לתחרות הבישול והאירוח, והחבורה הגיעה לארוחה מדברית אצל דרור. הערב נגלה עד כמה הצליחו האורחים להתמסר לחוויית המדבר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077381/",
+       "id": "1077381",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 18 - שבוע אילת, יום ג'",
+       "logo": "https://www.kan.org.il/media/taonic4u/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226090/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום השלישי לתחרות הבישול והאירוח הגיעו האורחים אל שלומי. הערב נגלה מה גרם ליערית לקום בסערה מהשולחן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077380/",
+       "id": "1077380",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 17 - שבוע אילת, יום ב'",
+       "logo": "https://www.kan.org.il/media/1rviicwi/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226089/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום השני לתחרות האילתית, תארח בילי שהצליחה להדהים את האורחים בסיפור חייה המיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077379/",
+       "id": "1077379",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 16 - שבוע אילת, יום א'",
+       "logo": "https://www.kan.org.il/media/braazlmr/אתר_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226088/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "זה היום הראשון והפעם הראשונה שתחרות הבישול והאירוח מגיעה לעיר הדרומית אילת. המארחת הראשונה היא יערית, אצלה יפגשו לראשונה בילי, שלומי, דרור ובני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077378/",
+       "id": "1077378",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 15 - שבוע צפון, יום ה'",
+       "logo": "https://www.kan.org.il/media/k4cblbsi/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226087/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "היום אחרון לתחרות הבישול והאירוח באזור הצפון, והפעם חגיגה מרוקאית אצל אלירן. מה כל כך מיוחד במערכת היחסים של רוני עם הבת שלה, ולמה אבינעם חושב שרוני המציאה את יום ההולדת שלה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077375/",
+       "id": "1077375",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 14 - שבוע צפון, יום ד'",
+       "logo": "https://www.kan.org.il/media/ql0byskr/image-18.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226086/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום הרביעי לתחרות הבישול והאירוח באזור הצפון, הגיעו האורחים אל מירן. הערב נגלה האם הכל ורוד אצל המצחיקנית מירן, ולמה עליזה לא אכלה את המנה העיקרית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077374/",
+       "id": "1077374",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 13 - שבוע צפון, יום ג'",
+       "logo": "https://www.kan.org.il/media/rcvabe3f/50366900_23_07_17still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226085/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום השלישי לתחרות הגיעו האורחים לביתו של אבינעם בכליל לארוחה טבעונית. למה נעלבה עליזה וגם למה אבינעם כל כך ריגש את אלירן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077373/",
+       "id": "1077373",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 12 - שבוע צפון, יום ב'",
+       "logo": "https://www.kan.org.il/media/1vihprm3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226084/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "ביום השני לתחרות מוזמנים האורחים למסיבת יום ההולדת של רוני, האם תהיה חגיגה נחמדת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077372/",
+       "id": "1077372",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 11 - שבוע צפון, יום א'",
+       "logo": "https://www.kan.org.il/media/r2ycyc11/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226083/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "זה היום הראשון לתחרות באזור הצפון, המארחת הראשונה היא עליזה, ליצנית רפואית. אליה יגיעו רוני מכרמיאל, אבינעם מכליל, מירן מחיפה ואלירן מקרית אתא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1077371/",
+       "id": "1077371",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 10 - שבוע שפלה, יום ה'",
+       "logo": "https://www.kan.org.il/media/s0teagep/image-15.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223043/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "היום האחרון לתחרות הבישול והאירוח באזור השפלה. את הערב יבלו האורחים בביתו של דניאל. מה חשבו האורחים על הבית, והאם תגלה זהר מתי ד\"ר דריי לא לובש חליפה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1073279/",
+       "id": "1073279",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 9 - שבוע שפלה, יום ד'",
+       "logo": "https://www.kan.org.il/media/aabb4zv1/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223042/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "ביום הרביעי לתחרות הבישול והאירוח באזור השפלה יגיעו האורחים אל זהר. הערב נגלה מה גרם לליהי להבין סופית שהיא לא רוצה ילדים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1073273/",
+       "id": "1073273",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 8 - שבוע שפלה, יום ג'",
+       "logo": "https://www.kan.org.il/media/yvehe330/4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215943/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-23",
+       "plot": "ביום השלישי לתחרות הגיעו האורחים לארוחה יפנית בבית של ליהי. האם כולם התחברו לטעמים היפנים? ואיזו שאלה חודרנית שאלה איריס את ליהי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1061355/",
+       "id": "1061355",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 7 - שבוע שפלה, יום ב'",
+       "logo": "https://www.kan.org.il/media/yc1aesvh/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215942/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-23",
+       "plot": "ביום השני לתחרות יגיעו האורחים למוזיאון של יריב, מה חשבו האורחים על הבית ומה קרה בין יריב לזהר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1061354/",
+       "id": "1061354",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 6 - שבוע שפלה, יום א'",
+       "logo": "https://www.kan.org.il/media/0lyh2fhm/לאתר_חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215941/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-23",
+       "plot": "זה היום הראשון לתחרות באזור השפלה, המארחת הראשונה היא איריס, מעבירה ערבי הפרשות חלה. אליה יגיעו יריב, ליהי, זהר ודינאל לערב בלתי נשכח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1061353/",
+       "id": "1061353",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 3 - שבוע ירושלים, יום ג'",
+       "logo": "https://www.kan.org.il/media/y3vhpwx0/אתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215013/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "ביום השלישי לתחרות הגיעו האורחים לביתו של יגאל במושב שורש. מה גרם ליגאל להפסיק לספר בדיחות והאם האהבה פורחת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1059652/",
+       "id": "1059652",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 5 - שבוע ירושלים, יום ה'",
+       "logo": "https://www.kan.org.il/media/gy1hf4h1/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215008/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "יום אחרון לתחרות באזור ירושלים והערב תארח ניקול, למה כל כך קשה לרועי כשפונים אליו בלשון נקבה? וגם נגלה מי המנצח של התחרות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1059645/",
+       "id": "1059645",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 4 - שבוע ירושלים, יום ד'",
+       "logo": "https://www.kan.org.il/media/52nbpics/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214993/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "ביום הרביעי לתחרות הגיעו האורחים אל חיה לארוחה אפריקאית. איך התרשמו האורחים מקבלת הפנים ומה ריגש כל כך את אדם?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1059629/",
+       "id": "1059629",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 2 - שבוע ירושלים, יום ב'",
+       "logo": "https://www.kan.org.il/media/11yli0ci/בואו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214987/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "זה היום השני לתחרות הבישול והאירוח באזור ירושלים, הערב המארח הוא אדם מנווה דניאל, מה כל כך מפתיע בעמוד האינסטגרם של ניקול? ואיזה ניתוח עשה רועי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1059627/",
+       "id": "1059627",
+       "season": 12
+      },
+      {
+       "name": "בואו לאכול איתי עונה 10 | פרק 1 - שבוע ירושלים, יום א'",
+       "logo": "https://www.kan.org.il/media/qppfjuyv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214986/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "היום הראשון של תחרות הבישול והאירוח יוצא לדרך בירושלים. הערב נכיר לראשונה את רועי, אדם, יגאל, חיה וניקול, ונגלה כמה בדיחות יגאל יודע לספר, והאם הוא יודע מה זה אינסטגרם?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s12/1059625/",
+       "id": "1059625",
+       "season": 12
+      }
+     ]
+    },
+    {
+     "name": "עונה 11",
+     "channels": [
+      {
+       "name": "שבוע מרכז - דימה",
+       "logo": "https://www.kan.org.il/media/bxzoxsh2/דימה-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234391/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "הכירו את דימה, המארח החמישי והאחרון של שבוע מרכז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1087554/",
+       "id": "1087554",
+       "season": 11
+      },
+      {
+       "name": "שבוע מרכז - ליאת",
+       "logo": "https://www.kan.org.il/media/z5olayjl/ליאת-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234390/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "הכירו את ליאת, המארחת הרביעית של שבוע מרכז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1087553/",
+       "id": "1087553",
+       "season": 11
+      },
+      {
+       "name": "שבוע מרכז - אושרית",
+       "logo": "https://www.kan.org.il/media/jsoducxo/אושרית-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234389/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "הכירו את אושרית, המארחת השלישית של שבוע מרכז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1087552/",
+       "id": "1087552",
+       "season": 11
+      },
+      {
+       "name": "שבוע מרכז - איבאא",
+       "logo": "https://www.kan.org.il/media/kv4gx4qw/איבאא-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234388/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "הכירו את איבאא, המארחת השנייה של שבוע מרכז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1087551/",
+       "id": "1087551",
+       "season": 11
+      },
+      {
+       "name": "שבוע מרכז - תום",
+       "logo": "https://www.kan.org.il/media/bgrha12c/תום-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234387/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "הכירו את תום, המארח הראשון של שבוע מרכז",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1087549/",
+       "id": "1087549",
+       "season": 11
+      },
+      {
+       "name": "שבוע אילת - בני",
+       "logo": "https://www.kan.org.il/media/53wk3wr4/5-בני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227581/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את בני, המארח החמישי והאחרון של שבוע אילת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079205/",
+       "id": "1079205",
+       "season": 11
+      },
+      {
+       "name": "שבוע אילת - שלומי",
+       "logo": "https://www.kan.org.il/media/yimaz524/4-שלומי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227580/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את בני, המארח הרביעי של שבוע אילת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079202/",
+       "id": "1079202",
+       "season": 11
+      },
+      {
+       "name": "שבוע אילת - בילי",
+       "logo": "https://www.kan.org.il/media/ky4j5fjt/3-בילי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227579/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את בילי, המארחת השלישית של שבוע אילת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079201/",
+       "id": "1079201",
+       "season": 11
+      },
+      {
+       "name": "שבוע השפלה - דניאל",
+       "logo": "https://www.kan.org.il/media/nzidl5xv/דניאל-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את דניאל, המארח החמישי והאחרון של שבוע השפלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079193/",
+       "id": "1079193",
+       "season": 11
+      },
+      {
+       "name": "שבוע ירושלים - חיה",
+       "logo": "https://www.kan.org.il/media/hrnndqb0/חיה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227565/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את חיה, המארחת הרביעי בשבוע ירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079192/",
+       "id": "1079192",
+       "season": 11
+      },
+      {
+       "name": "שבוע ירושלים - רועי",
+       "logo": "https://www.kan.org.il/media/xkkl43uc/2227562_1784557496067.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227562/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את רועי, המארח הראשון בשבוע ירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079191/",
+       "id": "1079191",
+       "season": 11
+      },
+      {
+       "name": "שבוע אילת - דרור",
+       "logo": "https://www.kan.org.il/media/envjq4db/2-דרור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227578/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את דרור, המארחת השנייה של שבוע אילת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079190/",
+       "id": "1079190",
+       "season": 11
+      },
+      {
+       "name": "שבוע אילת - יערית",
+       "logo": "https://www.kan.org.il/media/gdbnamsa/1-יערית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227577/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את יערית, המארחת הראשונה של שבוע אילת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079189/",
+       "id": "1079189",
+       "season": 11
+      },
+      {
+       "name": "שבוע צפון - אלירן",
+       "logo": "https://www.kan.org.il/media/cjqnsfcc/5-אלירן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227576/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את אלירן, המארח החמישי והאחרון של שבוע הצפון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079188/",
+       "id": "1079188",
+       "season": 11
+      },
+      {
+       "name": "שבוע צפון - אבינעם",
+       "logo": "https://www.kan.org.il/media/qwrfh2ou/4-אבינעם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227575/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את אבינעם, המארח הרביעי של שבוע הצפון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079186/",
+       "id": "1079186",
+       "season": 11
+      },
+      {
+       "name": "שבוע צפון - רוני",
+       "logo": "https://www.kan.org.il/media/shfbxgiu/3-רוני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227574/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את רוני, המארחת השלישית של שבוע הצפון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079185/",
+       "id": "1079185",
+       "season": 11
+      },
+      {
+       "name": "שבוע הצפון - מירן",
+       "logo": "https://www.kan.org.il/media/bdyc5bxj/מירן-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227573/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את מירן, המארחת השניה של שבוע הצפון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079183/",
+       "id": "1079183",
+       "season": 11
+      },
+      {
+       "name": "שבוע צפון - עליזה",
+       "logo": "https://www.kan.org.il/media/krrfr450/1-עליזה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227572/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את עליזה, המארחת הראשונה של שבוע הצפון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079182/",
+       "id": "1079182",
+       "season": 11
+      },
+      {
+       "name": "שבוע השפלה - ליהי",
+       "logo": "https://www.kan.org.il/media/p4bh3ipu/ליהי-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227569/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את ליהי, המארחת השלישית בשבוע השפלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079180/",
+       "id": "1079180",
+       "season": 11
+      },
+      {
+       "name": "שבוע השפלה - יריב",
+       "logo": "https://www.kan.org.il/media/xwhfolmw/יריב-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227568/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את יריב, המארח השני בשבוע השפלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079179/",
+       "id": "1079179",
+       "season": 11
+      },
+      {
+       "name": "שבוע השפלה - איריס",
+       "logo": "https://www.kan.org.il/media/apopyvnw/איריס-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227567/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את איריס, המארחת הראשונה בשבוע השפלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079178/",
+       "id": "1079178",
+       "season": 11
+      },
+      {
+       "name": "שבוע ירושלים - ניקול",
+       "logo": "https://www.kan.org.il/media/p35bkpbn/ניקול.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227566/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את ניקול, המארחת החמישית והאחרונה של שבוע ירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079177/",
+       "id": "1079177",
+       "season": 11
+      },
+      {
+       "name": "שבוע השפלה - זוהר",
+       "logo": "https://www.kan.org.il/media/ijsipqwg/זוהר-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227570/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את זוהר, המארחת הרביעית בשבוע השפלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079176/",
+       "id": "1079176",
+       "season": 11
+      },
+      {
+       "name": "שבוע ירושלים - יגאל",
+       "logo": "https://www.kan.org.il/media/xthlu1qx/יגאל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227564/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את יגאל, המארח השלישי בשבוע ירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079175/",
+       "id": "1079175",
+       "season": 11
+      },
+      {
+       "name": "שבוע ירושלים - אדם",
+       "logo": "https://www.kan.org.il/media/radgk13y/אדם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227563/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "הכירו את אדם, המארח השני בשבוע ירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079174/",
+       "id": "1079174",
+       "season": 11
+      }
+     ]
+    },
+    {
+     "name": "עונה 10",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ה' - חן קורן",
+       "logo": "https://www.kan.org.il/media/yhohd1es/week-pesah-ep05_hen-digital_s053690400_14_14_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184249/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-31",
+       "plot": "פרק אחרון ושמח במיוחד בספיישל פסח. היום יגיעו האורחים לירושלים הבנויה בביתה של חן קורן, אצלה גם נגלה מי המנצח או המנצחת של התחרות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s10/1021648/",
+       "id": "1021648",
+       "season": 10
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ד' - יוסי שטרית",
+       "logo": "https://www.kan.org.il/media/ktgnm0gu/חבו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184216/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-31",
+       "plot": "ארוחת חג רביעית והפעם שוברים את הפורמט בביתו של יוסי שטרית בעתלית. כמה הפתעות יוסי מכין לאורחים, ואיזה הפתעה לילי מכינה ליוסי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s10/1021533/",
+       "id": "1021533",
+       "season": 10
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ג' - בנצי ארבל",
+       "logo": "https://www.kan.org.il/media/q2tjjywf/לעריכה-ליוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184209/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-31",
+       "plot": "יום שלישי לתחרות הבישול והפעם סעודת חג איטלקית אצל בנצי ארבל. מה מסתתר מאחורי החזות הצבעונית שלו? וגם, התפתחות במערכת היחסים בין לילי לטל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s10/1021499/",
+       "id": "1021499",
+       "season": 10
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ב' - לילי בן שלום",
+       "logo": "https://www.kan.org.il/media/wh0drfkd/week-pesah-ep02_lili-digital_s053690100_14_47_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184205/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-31",
+       "plot": "חמישה שפים מובילים נפגשים לחמש ארוחות חג מיוחדות לפסח. ליל סדר שני, והפעם חוויה גאורגית מסורתית אצל לילי בן שלום. המנהגים, הריקודים וכמובן האוכל המסורתי. אירוח שהסועדים לא ישכחו עוד הרבה זמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s10/1021488/",
+       "id": "1021488",
+       "season": 10
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק א' - טל רשבסקי",
+       "logo": "https://www.kan.org.il/media/24bm3qrp/אתר-מתוקן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184202/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "חמישה שפים מובילים נפגשים לחמש ארוחות חג מיוחדות לפסח. בליל הסדר הראשון, מארח טל רשבסקי, הידוע בכינויו \"הפסטה נאצי\". מה עומד מאחורי הכינוי? ואולי טל בכלל רגיש וטוב לב?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s10/1020198/",
+       "id": "1020198",
+       "season": 10
+      }
+     ]
+    },
+    {
+     "name": "עונה 9",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 25 - שבוע חיפה, יום ה'",
+       "logo": "https://www.kan.org.il/media/gosomdbs/artboard-1.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/1_8klffr73/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-10",
+       "plot": "פרק אחרון באזור חיפה: הפעם תארח עדי, בעלת סטודיו לריקוד מקרית אתא. איזה הפתעות היא מכינה לאורחים ומי יהיה המנצח של השבוע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/939930/",
+       "id": "939930",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 24 - שבוע חיפה, יום ד'",
+       "logo": "https://www.kan.org.il/media/evop4nys/thumbnail_photo-2025-11-19-19-42-16.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/1_j9qtgjlo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-10",
+       "plot": "יום רביעי בתחרות הבישול והאירוח באזור חיפה, המארח היום הוא טל, איש חיי הלילה מנשר, מה עדי חושבת על אנשי חיי הלילה ואיך יגיבו שאר האורחים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/939929/",
+       "id": "939929",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 23 - שבוע חיפה, יום ג'",
+       "logo": "https://www.kan.org.il/media/kafllf3d/אכלו-אותה.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/1_3cn5fjhb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-03",
+       "plot": "היום השלישי לתחרות הבישול והאירוח באזור חיפה. הערב דניאלה תעביר את האורחים מסע רוחני יחד עם שני השותפים שלה לדירה פאדי ופוץ.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/937793/",
+       "id": "937793",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 22 - שבוע חיפה, יום ב'",
+       "logo": "https://www.kan.org.il/media/5ndpwke0/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xdalfbok/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-03",
+       "plot": "היום השני לתחרות הבישול והאירוח באזור חיפה. המארח היום הוא אליאס מואדי ניסנאס לארוחת כריסמס חגיגית במיוחד. האם יצליח להכניס את האורחים לאווירת חג?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/937791/",
+       "id": "937791",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 21 - שבוע חיפה, יום א'",
+       "logo": "https://www.kan.org.il/media/oimpvj4h/לאתר-מעודכן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1892277/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-03",
+       "plot": "זהו היום הראשון לתחרות הבישול והפעם בחיפה, את השבוע פותחת אבנית, בלוגרית טיולים שרואה את העולם בורוד. אליה יגיעו אליאס, דניאלה, טל ועדי לארוחה חגיגית במיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/937788/",
+       "id": "937788",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 17 - שבוע השרון והכרמל, יום ב'",
+       "logo": "https://www.kan.org.il/media/s1tlywwz/בואו-לאכול-איתי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kdircrx1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-23",
+       "plot": "זה היום השני לתחרות הבישול והאירוח באזור השרון והכרמל, היום תארח קארין לארוחה חד פעמית וגם האם קארין באמת מושלמת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/934395/",
+       "id": "934395",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 20 - שבוע השרון והכרמל, יום ה'",
+       "logo": "https://www.kan.org.il/media/ifllz0hh/לאתר-סופיייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xhniczdw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-21",
+       "plot": "החבורה מבלה אצל אביתר מחדרה בערב האחרון לתחרות באזור השרון והכרמל. הערב נגלה כמה אביתר מחובר לשורשים, ומה קרה בשעשועון של אביתר? וכמובן מי הזוכה הגדול של השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/933747/",
+       "id": "933747",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 19 - שבוע השרון והכרמל, יום ד'",
+       "logo": "https://www.kan.org.il/media/dlriogeh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o0pvvvwj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-21",
+       "plot": "יום רביעי בתחרות הבישול והאירוח באזור השרון והכרמל, היום מארחת מאיה בקציר, למה קארין לא אוכלת ואיזה סיפור אהבה מתפתח בין אביתר ואורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/933745/",
+       "id": "933745",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 18 - שבוע השרון והכרמל, יום ג'",
+       "logo": "https://www.kan.org.il/media/5hneikvz/אתר-מעודכן-באמת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8myfweto/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-20",
+       "plot": "היום השלישי לתחרות באזור השרון והכרמל, והערב יגיעו האורחים לאשרם של אורי בדלית אל כרמל. למה קארין נעלבה והאם מאיה וקארין מסוגלות לקבל אחת את השניה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/933389/",
+       "id": "933389",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 16 - שבוע השרון והכרמל, יום א'",
+       "logo": "https://www.kan.org.il/media/fwkhyq2n/s0502334_100_24_07_16still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zvlfdljb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-20",
+       "plot": "זהו היום הראשון של התחרות באזור השרון והכרמל. הערב יפגשו לראשונה, קארין, אורי, מאיה ואביתר בבית של זוכת מדליית הזהב בתחרות הפאראטריאתלון אילנית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/933385/",
+       "id": "933385",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 12 - שבוע תל אביב, יום ב'",
+       "logo": "https://www.kan.org.il/media/azhdbn5l/בואו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3kha4cqj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-14",
+       "plot": "זהו היום השני של תחרות הבישול והאירוח באזור תל-אביב. הערב מארחת יעל, משפיענית מבני ברק. האם אפשר להיות גם דוסית וגם פמיניסטית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/931424/",
+       "id": "931424",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 10 - שבוע ירושלים, יום ה'",
+       "logo": "https://www.kan.org.il/media/mg3b5msf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891042/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "היום האחרון לתחרות הבישול והאירוח באזור ירושלים. ואת הערב האחרון תבלה החבורה במוזיאון של דלילה. האם כרמית וחננאל יצליחו לסגור מעגל? וגם נגלה מי המנצחת או המנצח של השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/929733/",
+       "id": "929733",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 9 - שבוע ירושלים, יום ד'",
+       "logo": "https://www.kan.org.il/media/emdpjlmf/eat.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_65l3ursv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "היום הרביעי לתחרות הבישול והאירוח באזור ירושלים, והפעם יגיעו האורחים לצור הדסה לערב מהאגדות בביתו של תום. למה דלילה לא אוהבת את המילה \"פמיניזם\"? ואיזה מחזה כתב להם תום?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/929730/",
+       "id": "929730",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 8 - שבוע ירושלים, יום ג'",
+       "logo": "https://www.kan.org.il/media/1w1hgwcq/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nu5taj4v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "היום השלישי לתחרות האירוח והבישול באזור ירושלים. הערב יגיעו האורחים לחוויה רוחנית אצל רוני המתקשרת בירושלים. למה דלילה הייתה חייבת אוויר?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/929726/",
+       "id": "929726",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 6 - שבוע ירושלים, יום א'",
+       "logo": "https://www.kan.org.il/media/nzhng1jb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_niw2pf3r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-01",
+       "plot": "את היום הראשון של התחרות באזור ירושלים, יבלו המשתתפים בישוב מטע אצל הדוקטור לצחוק - חננאל. אליו יגיעו כרמית ממועצת העיר מודיעין, רוני המתקשרת, תום הסופר ודלילה הירושלמית האסלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/927070/",
+       "id": "927070",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 15 - שבוע תל אביב, יום ה'",
+       "logo": "https://www.kan.org.il/media/uj0hb3jq/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3nehm7dk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "הערב האחרון לתחרות באזור תל אביב. החבורה תתארח אצל לינור לערב בסגנון מצרי, יעל תפתיע בשינוי לוק וכמובן נגלה מי המנצחת או המנצח של השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922447/",
+       "id": "922447",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 14 - שבוע תל אביב, יום ד'",
+       "logo": "https://www.kan.org.il/media/qrfokren/אתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8vgn5zww/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "היום הרביעי לתחרות הבישול והאירוח באזור תל אביב, וכולם מוזמנים לצהרון של אתי. הערב לינור תגלה מה חושבת עליה החבורה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922446/",
+       "id": "922446",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 13 - שבוע תל אביב, יום ג'",
+       "logo": "https://www.kan.org.il/media/efnpwc3y/בואו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fhtt9cis/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "זהו היום שלישי לתחרות האירוח והבישול בתל אביב. הערב מגיעים כולם לבית של חנצ'ה. נגלה מה קרה בין לינור ואתי, ואיך חנצ'ה גרמה לכולם להשתטות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922444/",
+       "id": "922444",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 7 - שבוע ירושלים, יום ב'",
+       "logo": "https://www.kan.org.il/media/oeahjlvy/לאתר-תיקון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891039/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "היום השני לתחרות הבישול והאירוח באזור ירושלים. הערב מארחות כרמית והבינה המלאכותית במודיעין. האם דלילה תתחבר לעולם ה-AI?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922442/",
+       "id": "922442",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 11 - שבוע תל אביב, יום א'",
+       "logo": "https://www.kan.org.il/media/crhjrlqz/בואו-לאכול-איתי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891416/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "זהו היום הראשון של תחרות הבישול והאירוח באזור תל אביב. את התחרות יפתח זהר, אמן לא מיוסר מתל אביב. ערב שבו ילמדו האורחים והאורחות לא להסתכל בקנקן אלא במה שיש בו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922439/",
+       "id": "922439",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 5 - שבוע דרום, יום ה'",
+       "logo": "https://www.kan.org.il/media/tsegjdrc/בואו-לאכול-איתי-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q6zzhc1h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "בערב האחרון לשבוע באזור הדרום, החבורה תבלה בירוחם אצל עודד הפירותני. איזו ארוחה מחכה להם? וגם - נגלה מי המנצחת או המנצח של השבוע.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922433/",
+       "id": "922433",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 4 - שבוע דרום, יום ד'",
+       "logo": "https://www.kan.org.il/media/bnibesix/לעריכה-ליוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1aunwvwb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "היום הרביעי בתחרות באזור הדרום, והיום תארח שירה מאשקלון. איזה צדדים מפתיעים יגלו האורחים בשירה, ומה זה קשור להרגלי השינה שלה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922432/",
+       "id": "922432",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 3 - שבוע דרום, יום ג'",
+       "logo": "https://www.kan.org.il/media/3nlot0tu/לאתר-תיקון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dsnjx3va/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "היום השלישי לתחרות האירוח והבישול באזור הדרום, והערב מארחת ירדן מבאר שבע. קמילה מספרת את סיפור העליה לארץ, ומה כל כך דוחה בגבר עם מגב?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922431/",
+       "id": "922431",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 2 - שבוע דרום, יום ב'",
+       "logo": "https://www.kan.org.il/media/3cmhji3w/לאתר-מעודכן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zufe4e5l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "היום השני לתחרות באזור הדרום, והערב תתארח החבורה בטברנה היוונית של יובל. שירה שמה הכל על השולחן, ולא מפחדת מתגובת האורחים. יאסו!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922430/",
+       "id": "922430",
+       "season": 9
+      },
+      {
+       "name": "בואו לאכול איתי עונה 9 | פרק 1 - שבוע דרום, יום א'",
+       "logo": "https://www.kan.org.il/media/mbjfza4e/בואו-לאכול-איתי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890845/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-18",
+       "plot": "עונה חדשה! את התחרות בשבוע הראשון באזור הדרום פותחת קמילה, מעצבת פנים מבאר שבע. אצלה תקבל החבורה שיעור בנימוסים והליכות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/922427/",
+       "id": "922427",
+       "season": 9
+      }
+     ]
+    },
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ה - גל זהבי",
+       "logo": "https://www.kan.org.il/media/sg5dmbnh/יום-ה-גל-זהבי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9s4i0dii/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-07",
+       "plot": "בערב החמישי והאחרון יארח יוצר התוכן גל זהבי. האם יצליחו האורחים לעזור לו למצוא את אהבת חייו? וגם - נגלה מי המנצח של השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/880103/",
+       "id": "880103",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ד - שחף שבתאי",
+       "logo": "https://www.kan.org.il/media/u0kjl4hl/יום-ד-שחף-שבתאי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5pdxfbyo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-07",
+       "plot": "ביום הרביעי יארח שחף, שף בעל שם בין לאומי שייתן לאורחים טעימה מחייו העמוסים בכל טוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/880100/",
+       "id": "880100",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ג - נועה לוי",
+       "logo": "https://www.kan.org.il/media/3orjmp12/יום-ג-נועה-דואה-לוי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d3ncauwc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-07",
+       "plot": "ביום השלישי תגיע החבורה אל נועה, שפית מתל אביב, שתצליח לרגש את האורחים עם קסם אישי וארוחה חגיגית ותוססת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/880097/",
+       "id": "880097",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק ב - ניסן שור",
+       "logo": "https://www.kan.org.il/media/rkmjfdhk/יום-ב-ניסן-שור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0w1qjtz6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-07",
+       "plot": "ביום השני לתחרות יארח מבקר המסעדות \"ביצה עלומה\" הלא הוא ניסן שור. הפעם המבקר הוא המבוקר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/880086/",
+       "id": "880086",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | חלק א - סמדי (בומבה) וקנין",
+       "logo": "https://www.kan.org.il/media/crbfnctt/יום-א-סמדי-בומבה-וקנין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fvifnrf1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-06",
+       "plot": "כנגד 5 בשלנים לא-חובבים שעבורם כל יום בשנה הוא \"דכפין וייכול\" דיבר הספיישל. ביום הראשון לתחרות תארח סמדי וקנין/בומבה, אליה יגיעו מבקר המסעדות ניסן שור, השפית נועה לוי, השף שחף שבתאי והמשפיען גל זהבי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/879728/",
+       "id": "879728",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 15 - שבוע דרום, יום ה'",
+       "logo": "https://www.kan.org.il/media/ybblsq3q/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zekfjmbh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-15",
+       "plot": "זה היום האחרון לתחרות בשבוע הדרום, המארחת היא ריטה, שוודית שהתאהבה בארץ וכבר 40 שנה היא גרה בקיבוץ ניר עוז. ריטה תארח בדירה של בנה בתל אביב, אבל התפריט יהיה שבדי למהדרין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/773508/",
+       "id": "773508",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 11 - שבוע דרום, יום א'",
+       "logo": "https://www.kan.org.il/media/0jklmtdw/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wuu8yb90/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-15",
+       "plot": "יום ראשון של שבוע חדש בתחרות האוכל והבישול, והפעם שבוע דרומי. המארחת הערב היא עמית מאשקלון, שתבשל לחן מחצור, עמרי מרחובות, ריטה מניר עוז, ומשה מאשקלון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/773506/",
+       "id": "773506",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 12 - שבוע דרום, יום ב'",
+       "logo": "https://www.kan.org.il/media/haohu41y/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u6hpdkm6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-15",
+       "plot": "זהו היום השני לתחרות באזור הדרום. והערב המארחת היא חן, עירונית בנשמתה וקיבוצניקית בהוויתה, מקיבוץ חצור. עם אוכל אסייתי ושיחה סוערת על סטיגמות. ומשה שעושה לחן מסדר ניקיון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/773504/",
+       "id": "773504",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 14 - שבוע דרום, יום ד'",
+       "logo": "https://www.kan.org.il/media/2kvnkgxv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_be60t2fd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-15",
+       "plot": "זהו היום הרביעי לתחרות הבישול באזור הדרום והערב מארח עמרי מרחובות, מורה, רקדן ואמן רב תחומי. בתפריט אוכל צמחוני, ומשה מגיע סקרן במיוחד לארוחה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/773355/",
+       "id": "773355",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 13 - שבוע דרום, יום ג'",
+       "logo": "https://www.kan.org.il/media/0dndga2c/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d3f6veyf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-15",
+       "plot": "היום השלישי לתחרות הבישול באזור הדרום, כשהערב מארח משה, אשקלוני גאה. משה יכין אוכל ביתי מזרחי והפתעה לא צפויה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/773350/",
+       "id": "773350",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 20 - שבוע מרכז, יום ה'",
+       "logo": "https://www.kan.org.il/media/czjd4cqw/בואו-לאכול-איתי-עונה-8-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_52e8opip/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-25",
+       "plot": "את היום האחרון תבלה החבורה בארוחת פויקה סביב המדורה בריזורט של גל בסביון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/765579/",
+       "id": "765579",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 19 - שבוע מרכז, יום ד'",
+       "logo": "https://www.kan.org.il/media/mkvjmozu/בואו-לאכול-איתי-עונה-8-פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_73to2erv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-25",
+       "plot": "ביום הרביעי לתחרות תארח לארוחה איטלקית נירית מצפון תל אביב - אשת אופנה ומתווכת בתים ביוון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/765570/",
+       "id": "765570",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 18 - שבוע מרכז, יום ג'",
+       "logo": "https://www.kan.org.il/media/1avk3vk3/טאמנייל-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e3vlqkg3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-25",
+       "plot": "ביום השלישי לתחרות מגיעים כולם לביתו של עמנואל בדרום תל אביב לאירוח משיחי תל אביבי. אילנה תגלה על דרכים נוספות ומפתיעות לעבוד את אלוהים ותישמע אזעקה אחת שתחבר בין כולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/765562/",
+       "id": "765562",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 17 - שבוע מרכז, יום ב'",
+       "logo": "https://www.kan.org.il/media/wh3jlp4q/בואו-לאכול-איתי-עונה-8-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q010f67e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-25",
+       "plot": "ביום השני יארח ירון, מנכ\"ל מלון יוקרה מגבעתיים. כפי שהוא מוקפד בסדר, נקיון ולבוש- כך יארח לארוחה בסטנדרט גבוה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/765535/",
+       "id": "765535",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 16 - שבוע מרכז, יום א'",
+       "logo": "https://www.kan.org.il/media/m0cahsuv/תמונה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ziop4g8c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-25",
+       "plot": "שבוע מרכז מתחיל, וביום הראשון לתחרות תבלה החבורה אצל אילנה המאמא הקלאסית, באירוח מרוקאי מסורתי מתבקש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/765518/",
+       "id": "765518",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 25 - שבוע מישור החוף, יום ה'",
+       "logo": "https://www.kan.org.il/media/oaepnber/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6cmm9uu0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-13",
+       "plot": "המארחת החמישית והאחרונה של שבוע מישור החוף היא לינוי דסה, גננת צעירה שמוכנה כבר למשפחה וילדים. היא תארח את החבורה בביתה שבפתח תקווה לארוחה מזרחית באווירה אתיופית מסורתית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/760556/",
+       "id": "760556",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 24 - שבוע מישור החוף, יום ד'",
+       "logo": "https://www.kan.org.il/media/c35ltkzy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dn867d51/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-13",
+       "plot": "ביום הרביעי לתחרות בשבוע מישור החוף מארח אדי בן סימון, מתווך האלפיון העליון שיארח את המשתתפים באחוזתו שבקיסריה. הוא יארח בסגנון קלאס עם מאמץ ולמרות הכול ישתדל לשמור על אירוח ביתי ופשוט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/760553/",
+       "id": "760553",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 23 - שבוע מישור החוף, יום ג'",
+       "logo": "https://www.kan.org.il/media/hq2jw4at/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c9iuhtj3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-13",
+       "plot": "ביום השלישי לתחרות של שבוע מישור החוף החבורה מגיעה לאייל מאולגה שבחדרה, קבלן וילות ובליין אמיתי שלא רוצה להתבגר. אייל מקסים את החבורה בכישרון השירה שלו, אבל הקסם פחות עובד בארוחה שהגדיר כסגנון גברי ומתיימר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/760551/",
+       "id": "760551",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 22 - שבוע מישור החוף, יום ב'",
+       "logo": "https://www.kan.org.il/media/31dd34h4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4x4zrwv7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-13",
+       "plot": "ביום השני לתחרות בשבוע מישור החוף, החבורה תגיע לאירוח תת ימי וחוויה מהאגדות אצל לואר בת הים במושב אחיטוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/760550/",
+       "id": "760550",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 21 - שבוע מישור החוף, יום א'",
+       "logo": "https://www.kan.org.il/media/epmn3vz0/בואו-לאכול-איתי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tqom13ar/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-09",
+       "plot": "את שבוע מישור החוף פותחת עדן כהן מנתניה שתארח בקומה שלה בבית ההורים את אדי מקיסריה, אייל מחדרה, לואר מאחיטוב ולינוי מפתח תקווה לארוחה בסגנון פרסי ואווירה משפחתית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/759162/",
+       "id": "759162",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 5 - שבוע צפון, יום ה'",
+       "logo": "https://www.kan.org.il/media/xcefm3lf/s0463526_new.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fcr5wabn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-02",
+       "plot": "בפרק האחרון לשבוע צפון, תארח דנה כהן הלוי המתקשרת מהמושבה מגדל, שבכוחות על טבעיים תצליח לאחד בין הסועדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/756445/",
+       "id": "756445",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 4 - שבוע צפון, יום ד'",
+       "logo": "https://www.kan.org.il/media/lbwpyia4/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b1jzsc4y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-02",
+       "plot": "ביום הרביעי לתחרות החבורה תתארח בחיפה אצל איתמר, אלגוריתמאי ושחקן DND מקצועי. אחיה מנסה לגלות פרטים על עולמו של איתמר ללא הצלחה. מזל שיש עוד ערב אחד לנסות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/756441/",
+       "id": "756441",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 3 - שבוע צפון, יום ג'",
+       "logo": "https://www.kan.org.il/media/1gklmuay/s0463524_new.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4z05eubp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-02",
+       "plot": "את היום השלישי לתחרות מארח אחיה, \"הבאבא המרחף\", לוחם חופש מהיישוב האקולוגי רותם. אחיה יתן טעימה מהחיים הלא שגרתיים שלו ויארח בסגנון שורשי עם ארוחת Farm To Table",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/756436/",
+       "id": "756436",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 2 - שבוע צפון, יום ב'",
+       "logo": "https://www.kan.org.il/media/4sjdmixy/s0463523_new.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pkd55cik/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-02",
+       "plot": "ביום השני לתחרות מארחת מעיין, מסדרת ארונות מקצועית וסטייליסטית מיקנעם, לארוחה של פאן ומאכלים ביתיים. האירוח של מעיין מוציא מדנה המתקשרת את הרב שבה, שלא חוסך במילים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/756433/",
+       "id": "756433",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 1 - שבוע צפון, יום א'",
+       "logo": "https://www.kan.org.il/media/z1ppz1kv/s0463522_new.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bhh22ujv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-02",
+       "plot": "את התחרות פותחת המורה ענבל מחיפה. היא תארח את דנה המתקשרת מהמושבה מגדל, אחיה \"הבאבא המרחף\" מהיישוב האקולוגי רותם, איתמר ההייטקיסט השכן מחיפה ומעיין מסדרת הארונות מיקנעם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/756427/",
+       "id": "756427",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 10 - שבוע ירושלים, יום ה'",
+       "logo": "https://www.kan.org.il/media/cz1n4cqo/בואו-לאכול-איתי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hcnd83q6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-31",
+       "plot": "המארח האחרון לשבוע ירושלים הוא יהונתן מקרוב, שמתגורר בנטף הרחק מציוויליזציה ויארח את החבורה בסגנון ואווירה 100% כפרית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/755847/",
+       "id": "755847",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 9 - שבוע ירושלים, יום ד'",
+       "logo": "https://www.kan.org.il/media/2j5mx5ek/פרק-9-תיקון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vsop39ew/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-31",
+       "plot": "המארחת הרביעית לשבוע ירושלים היא קארי בר כהן, ציונית-חרדית שעלתה מאמריקה לפני 17 שנים. היא תארח את המשתתפים עם בישול ביתי ואווירת סעודת חג ההודיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/755846/",
+       "id": "755846",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 8 - שבוע ירושלים, יום ג'",
+       "logo": "https://www.kan.org.il/media/e5bfh0uf/פרק-8-תיקון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_96fmr8nq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-31",
+       "plot": "המארח השלישי בשבוע ירושלים הוא יוסל'ה, ספר נשים ביום ודראגיסט בלילה. הוא יבשל למשתתפים בסגנון צרפתי ויארח אותם בצבעוניות המזוהה איתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/755830/",
+       "id": "755830",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 7 - שבוע ירושלים, יום ב'",
+       "logo": "https://www.kan.org.il/media/z3hjxatg/לאתר-רק-יותר-טוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qwys5j3u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-31",
+       "plot": "המארחת השנייה בשבוע ירושלים היא יפה חסידים - עקרת בית גאה ואשת חיל מצור הדסה, שתארח באווירה ביתית עם אוכל עיראקי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/755829/",
+       "id": "755829",
+       "season": 8
+      },
+      {
+       "name": "בואו לאכול איתי עונה 8 | פרק 6 - שבוע ירושלים, יום א'",
+       "logo": "https://www.kan.org.il/media/uzdlptqk/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3mbogv69/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-31",
+       "plot": "המארחת הראשונה לשבוע ירושלים היא לבנה שיפמן ממודיעין - טבעונית, קואצ'רית, פמיניסטית אקטיביסטית ועוד, שתארח בביתה את המשתתפים לארוחה טבעונית עתידנית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s8/755812/",
+       "id": "755812",
+       "season": 8
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי | שבוע 1 - הכירו את עמית",
+       "logo": "https://www.kan.org.il/media/sikmd4x1/5-עמית_2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ictpcpjm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. לא קונה אוכל, לא מסתפר, לא אוכל חיות ולא מתחתן: הכירו את עמית, מוליטי מיליונר בהרגשה פנימית, שזה מה שחשוב בעצם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s7/447189/",
+       "id": "447189",
+       "season": 7
+      },
+      {
+       "name": "בואו לאכול איתי 7 | שבוע 1 - הכירו את רחלי",
+       "logo": "https://www.kan.org.il/media/c01hn3t3/4-רחלי_3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4fzqa0fo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. בתור קוסמטיקאית היא שומעת את כל הסודות והווידוים של כפר סבא, אבל שלא כמו פסיכולוג מקצועי, היא גם מרשה לעצמה להגיד לאחרים מה לעשות. הכירו את רחלי, שמגדירה את עצמה כצ'חלה שאומרת את כל האמת בפרצוף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s7/447184/",
+       "id": "447184",
+       "season": 7
+      },
+      {
+       "name": "בואו לאכול איתי 7 | שבוע 1 - הכירו את שלי סנשיין וולמן",
+       "logo": "https://www.kan.org.il/media/djqbey02/3-שלי-סנשיין_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n99o5lgs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. היא נולדה בתור שלי, אבל כולם קראו לה סאנשיין, אז היא הלכה למשרד הפנים ושינתה את שמה. קרן השמש הזאת היא רווקה מרעננה, אופטומטריסטית אופטימית, וטבעונית שלא מוכנה לקבל סלט כמנה עיקרית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s7/447182/",
+       "id": "447182",
+       "season": 7
+      },
+      {
+       "name": "בואו לאכול איתי 7 | שבוע 1 - הכירו את חנה",
+       "logo": "https://www.kan.org.il/media/vfmbhqs3/2-חנה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_icc0qawu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. חנה לא נחה: הכירו את חנה, משוררת, אלופה בזומבה על גשרים וגרושה עם חשקים (אבל אין לה זמן לגברים שיבזבזו לה את הזמן)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s7/447179/",
+       "id": "447179",
+       "season": 7
+      },
+      {
+       "name": "בואו לאכול איתי 7 | שבוע 1 - הכירו את לירון",
+       "logo": "https://www.kan.org.il/media/i1lldadt/1-לירון_2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6iogcd4v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-17",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. לירון הוא נשוי טרי באושר ואושר לאריאל. כרגע הוא בין עבודות, אבל הוא מתכנן לפתוח פוד טראק בקרוב. יש לו שלוש אחיות ולדעתו הוא בכלל סטרייט בפוקס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s7/447021/",
+       "id": "447021",
+       "season": 7
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי - עונה 6 | כרמל - יום ד' (פרק 29)",
+       "logo": "https://www.kan.org.il/media/kzxdyjsz/https-kanstaticazureedgenet-download-pictures-2022-9-12-imgid-81549_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9gciezsn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום הרביעי לתחרות באזור הכרמל והעמקים תגיע החבורה לערב קופצני ואנרגטי במיוחד אצל דנה בעיר חיפה. סביב השולחן של דנה יעלו \nשאלות שלא נעים לשאול, בידור טלפתי ואורח/ת שתפתיע את כולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/150035/",
+       "id": "150035",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | כרמל - יום ה' (פרק 30)",
+       "logo": "https://www.kan.org.il/media/5aypbdna/https-kanstaticazureedgenet-download-pictures-2022-9-12-imgid-81545_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bx5untes/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יום חמישי ואחרון בתחרות האירוח והבישול בשבוע כרמל והעמקים. שבוע מפתיע במיוחד. הערב תצפין החבורה לאירוח חגיגי במיוחד, זוהי ארוחת הערב האחרונה של השבוע והעונה כולה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/150032/",
+       "id": "150032",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | כרמל - יום ג' (פרק 28)",
+       "logo": "https://www.kan.org.il/media/n24l33w1/https-kanstaticazureedgenet-download-pictures-2022-9-12-imgid-81543_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dpuvd0y3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בערב השלישי באזור הכרמל והעמקים, תתארח החבורה בביתה של מעיין חטואל בקריות. מעיין חילונית-מסורתית כפי שמגדירה את עצמה, מכינה ארוחה ביתית מרוקאית. שינוי פתאומי הופך את הארוחה לשונה ואינטימית במיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/150029/",
+       "id": "150029",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | כרמל - יום ב' (פרק 27)",
+       "logo": "https://www.kan.org.il/media/cz4hsity/https-kanstaticazureedgenet-download-pictures-2022-9-12-imgid-81542_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2054973/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום השני לתחרות הבישול והאירוח, יארח בביתו בחיפה פאדי איש התקשורת. פאדי מכין ארוחה בסגנון רמאדן כולל תבלינים שהביא משכם ומבית הוריו בנצרת. פאדי חושף פרטים נוספים על חייו – ולא כולם שמחים לשמוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/150026/",
+       "id": "150026",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | כרמל - יום א' (פרק 26)",
+       "logo": "https://www.kan.org.il/media/n3klvj21/https-kanstaticazureedgenet-download-pictures-2022-9-12-imgid-81537_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_24mreiuw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תחרות האוכל מגיעה לאזור הכרמל והעמקים. ראשונה תארח האישה שלא הפסידה אפילו פרק אחד של היפים והאמיצים, מורן זיסר, בביתה הלא שגרתי בכלל, לארוחה מרוקאית–רומנית, ולראשונה תפגוש את השותפים שלה לשבוע הקרוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/150023/",
+       "id": "150023",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | מרכז - יום ה' פרק 25)",
+       "logo": "https://www.kan.org.il/media/ldsjamnl/https-kanstaticazureedgenet-download-pictures-2022-9-13-imgid-81625_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gb9gy0j3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום האחרון של שבוע מרכז יארח גל מרמת השרון, לארוחת פארם טו טייבל מושקעת. הם יגלו דברים מפתיעים ועסיסיים אחד על השנייה \nויצויין חיבוק מפתיע בין גיבורות השבוע. בנוסף, היום נגלה מי המנצח בתחרות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149804/",
+       "id": "149804",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | מרכז - יום ד' (פרק 24)",
+       "logo": "https://www.kan.org.il/media/noocmdnf/https-kanstaticazureedgenet-download-pictures-2022-9-13-imgid-81624_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w5nmf87l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום הרביעי לתחרות מגיעה החבורה לרמת גן, שם יארח אותם לא אחר מכוכב הרשת אביעד והחתולים שלו, שיככבו בצלחת של גל. אביעד\n מבקש להביא נושאי שיחה חדשים לשולחן, אבל סיוון ויהודית עסוקות בלסגור חשבון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149801/",
+       "id": "149801",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | מרכז - יום ג' (פרק 23)",
+       "logo": "https://www.kan.org.il/media/ipffqv0y/https-kanstaticazureedgenet-download-pictures-2022-9-13-imgid-81623_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yv7iztxt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום השלישי לתחרות תגיע החבורה אל מגדלי סיוון לארוחה עשירה במיוחד. הם ייהנו מאוכל מרוקאי, אלכוהול איכותי, אויר תל אביבי \nוהופעת אורחת מפתיעה, אבל לא כולם יתרשמו מהארוחה או מהבית. וגם, למי סיוון דומה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149798/",
+       "id": "149798",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | מרכז - יום ב' (פרק 22)",
+       "logo": "https://www.kan.org.il/media/xojhkiyf/https-kanstaticazureedgenet-download-pictures-2022-9-13-imgid-81626_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qcr6phdk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יום השני לתחרות תארח הצעירה שבחבורה, אלה, בדירת השותפים התל אביבית שלה. היו שלא התחברו לאוכל, היו כמה שלא התחברו \nלחדר של אלה והיו כמה שלא התחברו אחד לשני. וגם, האם גל יצליח לשכנע את אלה ואביעד להתמסד?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149795/",
+       "id": "149795",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | מרכז - יום א' (פרק 21)",
+       "logo": "https://www.kan.org.il/media/vnblyocd/https-kanstaticazureedgenet-download-pictures-2022-9-6-imgid-81138_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_glrzojai/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ערב ראשון לתחרות בשבוע המרכז, בו תארח המתקשרת והיוצרת יהודית בדירתה המסקרנת ברמת גן. האורחים: גל, אלה, אביעד וסיוון יקבלו תקשור מעולמות אחרים, אוכל לא שיגרתי, וגם הופעה בלתי נשכחת של המארחת עצמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149792/",
+       "id": "149792",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דן ושומרון - יום ה' (פרק 20)",
+       "logo": "https://www.kan.org.il/media/duxnnddf/https-kanstaticazureedgenet-download-pictures-2022-8-24-imgid-80345_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cp2amlni/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "את השבוע סוגר אורן מאלקנה. האיש התחרותי ביותר השבוע שהצהיר שבא לנצח? האם יעמוד באתגר שהציב לעצמו? החבורה מסכמת שבוע. מי יהיה המנצחת או המנצח של התחרות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149381/",
+       "id": "149381",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דן ושומרון - יום ד' (פרק 19)",
+       "logo": "https://www.kan.org.il/media/xljba144/https-kanstaticazureedgenet-download-pictures-2022-8-24-imgid-80344_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8egf2z48/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הערב מארחת גאלה מהוד השרון לתפריט אישי וקליל במיוחד. הבית הצבעוני והמיוחד של גאלה בהחלט משפיע על האורחים, שמגלים פרטים חדשים אחד על השנייה.  מי גילה את הטינדר הדתי, החילוני, ומי בכלל לא ידע מה זה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149378/",
+       "id": "149378",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דן ושומרון - יום ג' (פרק 18)",
+       "logo": "https://www.kan.org.il/media/gd1dyoyx/https-kanstaticazureedgenet-download-pictures-2022-8-24-imgid-80343_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2lx3p9mc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום השלישי של התחרות מגיעים אל המורה שרון לערב מקסיקני. כולם מגיעים בהחלטה ברורה, לא לריב על פוליטיקה. יצליחו? הארוחה \nהמקסיקנית של שרון מסתמנת כהצלחה, עד ששאלה אחת תמימה הבעירה את השולחן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149375/",
+       "id": "149375",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דן ושומרון - יום ב' (פרק 17)",
+       "logo": "https://www.kan.org.il/media/p00p2vgs/https-kanstaticazureedgenet-download-pictures-2022-8-24-imgid-80342_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o88cxld1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום השני לתחרות תגיע החבורה ברכב ממוגן אל עמיחי. שם תארח נערת הגבעות והקרבות רבקה. המתח שבין רבקה למודי לאורן לגאלה עולה ומתפרץ. התפריט כולל אוכל מקומי, אבל של מי? שרון מנסה להרגיע לקראת הארוחה שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149372/",
+       "id": "149372",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דן ושומרון - יום א' (פרק 16)",
+       "logo": "https://www.kan.org.il/media/bu1aq3bj/https-kanstaticazureedgenet-download-pictures-2022-8-24-imgid-80341_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2dit0dto/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בואו לאכול איתי באזור המרכז, שעה מכל פקק. מודי מבת ים יארח את אורן מאלקנה, גאלה הורודה מהוד השרון, שרון המורה חובבת ההיפ \nהופ מפ\"ת ונערת הגבעות רבקה. פעולה שתעשה רבקה אצל מודי תשפיע על היחסים של האורחים כל השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149369/",
+       "id": "149369",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | ירושלים - יום ה' (פרק 15)",
+       "logo": "https://www.kan.org.il/media/cpaa2hxk/https-kanstaticazureedgenet-download-pictures-2022-9-4-imgid-80927_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bzfvlnsi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יעל, אשת תקשורת חרדית מקריית יערים, סוגרת את התחרות, ואצלה גם יתגלה המנצח של התחרות. יעל בוחרת להכין מנה שגוררת לא מעט תגובות מהאורחים המופתעים. מה יגלו שלם ופיני ומי יגיע למקום הראשון בשבוע ירושלים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149015/",
+       "id": "149015",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | ירושלים - יום ד' (פרק 14)",
+       "logo": "https://www.kan.org.il/media/wskmlhpy/https-kanstaticazureedgenet-download-pictures-2022-8-17-imgid-79937_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u0xqj9zu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום הרביעי לתחרות תגיעה החבורה אל ארמונו של שלם, בדירתו המפתיעה יספר את סיפור חייו וכיצד קיבל את שמו החדש. האורחים שנשבו בקסמו של שלם יצטרכו להתמודד עם ארוחה טבעונית עם טעמים ומרקמים שלא מוכרים להם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149012/",
+       "id": "149012",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | ירושלים - יום ג' (פרק 13)",
+       "logo": "https://www.kan.org.il/media/ygebt2cr/https-kanstaticazureedgenet-download-pictures-2022-8-16-imgid-79910_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tprg4jg4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אריק, חובב מושבע של בואו לאכול איתי, יארח בביתו לארוחה שכוללת ביף בורגניון וקינוח טבעוני. האם יצליח לעמוד בסטנדרטים של עצמו? שלם פיני ואריק מגלים מכנה ירושלמי משותף ואריק מכין הפתעה לאורחים ולקריין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/149000/",
+       "id": "149000",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | ירושלים - יום ב' (פרק 12)",
+       "logo": "https://www.kan.org.il/media/gsun3ams/https-kanstaticazureedgenet-download-pictures-2022-8-16-imgid-79909_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_muvy2t20/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הערב תארח את החבורה ברוריה, אמנית ירושלמית ותיקה שמשלבת באמנות שלה סיפורי קודש וחול. יעל החרדית ושלם החוזר בשאלה יגיבו אל הבית וסיפור חייה של ברוריה. האם ברוריה היא יוצאת הדופן או יעל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148997/",
+       "id": "148997",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | ירושלים - יום א' (פרק 11)",
+       "logo": "https://www.kan.org.il/media/cb5bzeud/https-kanstaticazureedgenet-download-pictures-2022-8-16-imgid-79908_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y7vcyz4a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התחרות האירוח מגיעה לירושלים. המארח הראשון הוא צלם החתונות, קרניבור ירושלמי, פיני. אל מטבח החוץ של פיני יעלו ויבואו, שלם ממרכז העיר, אריק הסאונד מן עם הבלורית, יעל צין אשת התקשורת וברוריה אמנית מקומית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148994/",
+       "id": "148994",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דרום - יום ה' (פרק 10)",
+       "logo": "https://www.kan.org.il/media/sxkfzmej/https-kanstaticazureedgenet-download-pictures-2022-8-14-imgid-79778_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9unc5sho/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יום אחרון של תחרות האירוח והבישול, את השבוע מסיים רוני ברון מערד. רוני, לוקח את האורחים שלו לפרו ארץ מולדתו לטעמים לא מוכרים \nלהם. איך יהיו התגובות? וגם – מי יהיה המנצח או המנצחת של השבוע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148568/",
+       "id": "148568",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דרום - יום ד' (פרק 9)",
+       "logo": "https://www.kan.org.il/media/3jmhelnr/https-kanstaticazureedgenet-download-pictures-2022-8-14-imgid-79777_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ieov6hbv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ערב נוסף בבאר שבע, הפעם בדירת הסטודנטים של עודד. רוני, סופיה ואילנה שמעולם לא גרו עם שותפים מגיעים בלי הרבה ציפיות לביתו \nשל עודד הנרגש. איך יגיב עודד התחרותי שיגלה שהדברים לא הולכים חלק כפי שתכנן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148565/",
+       "id": "148565",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דרום - יום ג' (פרק 8)",
+       "logo": "https://www.kan.org.il/media/54mbhwjv/https-kanstaticazureedgenet-download-pictures-2022-8-3-imgid-79066_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a2ecqd2q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום השלישי מגיעים האורחים לביתה שומר הכשרות של אילנה. אילנה שמבשלת בקלילות לחמישה תאפשר לאורחים שלה לנהל שיחות שלא הולמות את רוח הבית. ערב שני ברציפות שהמנות מגיעות מהמטבח הגאורגי-מי הכינה יותר טוב?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148562/",
+       "id": "148562",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דרום - יום ב' (פרק 7)",
+       "logo": "https://www.kan.org.il/media/w1mjykp0/https-kanstaticazureedgenet-download-pictures-2022-8-3-imgid-79065_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4cnyd0z6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זה היום השני לתחרות. והערב תארח סופיה לארוחה שכוללת מנות מהמטבח הגיאורגי, גילויים מפתיעים על המארחת ו... עמוד ריקוד שאיש לא נשאר אדיש אליו. בגזרת האורחים רוני מספר לאילנה מה הוא חושב על דת ודתיים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148559/",
+       "id": "148559",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | דרום - יום א' (פרק 6)",
+       "logo": "https://www.kan.org.il/media/ydzflpz2/https-kanstaticazureedgenet-download-pictures-2022-8-3-imgid-79064_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_migv1q50/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ערב ראשון של התחרות באזור הדרום. קרין, המארחת של הערב תשמח להוכיח לכולם שהיא גם נסיכה וגם בשלנית מעולה. סביב שולחן האוכל, היא נקלעת לוויכוחים עם אורחים דעתנים שלא תמיד מסכימים איתה או מבינים את עמדתה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148556/",
+       "id": "148556",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | צפון - יום ה' (פרק 5)",
+       "logo": "https://www.kan.org.il/media/35rm00rp/https-kanstaticazureedgenet-download-pictures-2022-8-1-imgid-78941_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uzq1fhpn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "היום האחרון בשבוע הצפון. האורחים מגיעים לביתה הייחודי של חני. גם הוא כמו המארחת, צבעוני עם הרבה הפתעות. חני מספרת דברים חדשים על עצמה שמאירים אותה באור אחר. וגם תיקו מפתיע המוביל להצבעה נוספת בתחרות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148460/",
+       "id": "148460",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | צפון - יום ד' (פרק 4)",
+       "logo": "https://www.kan.org.il/media/ernjatxr/https-kanstaticazureedgenet-download-pictures-2022-8-1-imgid-78939_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uob2xny5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שמרי מתרגש ומכין ארוחה כולל כמה מנות שמעולם לא ניסה. בחלק הבידורי של הערב הוא מכיר לאורחים את קערת הקריסטל שמביאה את כולם לצחוק אבל גם קצת לבכי. אורפז ממשיכה לתחקר את האורחים שלה - למה לא אכלו אצלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148457/",
+       "id": "148457",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי 6 - צפון 3",
+       "logo": "https://www.kan.org.il/media/vl4actgu/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vpcc9x7b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יום שלישי בשבוע הצפון. כולם מגיעים לדירתו של שחר הבלוגר בנהריה. במטבח קטן במיוחד שחר מכין ארוחה גדולה. אבל לאורחים יש שאלות דחופות על הפרק: למה אין לך חברה, למה אתה לא עוזב את נהריה, ומי אפשר לשדך לך?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148391/",
+       "id": "148391",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | צפון - יום ב' (פרק 2)",
+       "logo": "https://www.kan.org.il/media/h0gmic1e/https-kanstaticazureedgenet-download-pictures-2022-8-12-imgid-79693_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mgt5o2i7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יום שני לתחרות והאורחים מגלים צדדים חדשים שלא הכירו בעודד, בעיקר על תחביביו... חני מתבררת כאורחת שבקלות גונבת את ההצגה ולא מתביישת לדבר על סקס בגיל השלישי. הצעירים בשולחן, לא לגמרי משתפים פעולה עם זה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148388/",
+       "id": "148388",
+       "season": 6
+      },
+      {
+       "name": "בואו לאכול איתי - עונה 6 | צפון - יום א' (פרק 1)",
+       "logo": "https://www.kan.org.il/media/3o5looam/https-kanstaticazureedgenet-download-pictures-2022-8-12-imgid-79692_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zrnayk92/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ערב ראשון בתחרות האירוח והבישול בואו לאכול איתי, והפעם שבוע חיפה והצפון. המארחת הראשונה, אורפז מעפולה עובדת מאד קשה\n בשביל האורחים שלה. מנות מרובות שלבים, רכיבים, ותבלינים. האם האורחים יעריכו את ההשקעה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s6/148385/",
+       "id": "148385",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 25 - חיפה והקריות חלק ה'",
+       "logo": "https://www.kan.org.il/media/3f3m0lh5/2021-8-16-imgid-59389_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_meiy1rqt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום החמישי והאחרון לתחרות מגיעים האורחים לבית של ספאא בדלית אל כרמל. לשמחתו של אלכס הוא מגלה שגם היא גרה בבית הוריה. אבי סוף סוף חושף צדדים נוספים ומפתיעים באישיותו, ובסיום הערב מוכרז המנצח של השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134187/",
+       "id": "134187",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 24 - חיפה והקריות חלק ד'",
+       "logo": "https://www.kan.org.il/media/g0wlgoes/2021-8-16-imgid-59382_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zl8r4i2k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום הרביעי לתחרות מגיעים האורחים לאורן ומופתעים לגלות שהם מתארחים בדירת חדר שבה הם צריכים לא רק לאכול, אלא גם להילחם בקרב מגע. למרות הדירה הקטנה אורן חושף חלומות גדולים, שמתנגשים עם החלומות של אלכס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134185/",
+       "id": "134185",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 23 - חיפה והקריות חלק ג'",
+       "logo": "https://www.kan.org.il/media/sq4l2tse/2021-8-16-imgid-59378_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yzeyixpr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום השלישי לתחרות האורחים מגיעים לאלכס ונדהמים לגלות שהוא עדיין מתגורר עם ההורים. אלכס חושף בגאווה גדולה את סגנון חייו הילדותי, אבל יש לו גם סוד גדול שהוא מקווה לשמור לעצמו, לפחות עד סוף הערב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134183/",
+       "id": "134183",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 22 - חיפה והקריות חלק ב'",
+       "logo": "https://www.kan.org.il/media/l3ddld55/2021-8-16-imgid-59377_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r5vyhknf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו היום השני לתחרות האירוח. הערב מגיעה החבורה לכרמל, לביתה של ענבל. ארוחה שהתערבבו בה הרבה אלכוהול וסטיגמות על נשים, גברים וזוגיות. האם ענבל תצליח להתעלות על הארוחה של אבי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134181/",
+       "id": "134181",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 21 - חיפה והקריות חלק א'",
+       "logo": "https://www.kan.org.il/media/shyb5f5v/2021-8-29-imgid-60094_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hej6g43c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו היום הראשון לתחרות האירוח בחיפה ובקריות. המארח הוא אבי, עורך דין מצליח, שיפגוש לראשונה את ענבל מפיקת אירועים, אורן היזם הצעיר, ספא אשת התקשורת הדרוזית ואת אלכס הצעיר. וכל האורחים מחפשים זוגיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134179/",
+       "id": "134179",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 20 - דרום חלק ה'",
+       "logo": "https://www.kan.org.il/media/oh2ocqql/2021-8-8-imgid-58876_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8w7yi8fx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החבורה נפגשת לערב אחרון אצל איגור, ערב מלא באלכוהול, ריקודים וסגירת חשבונות. תאיר מנסה ללבן את העניינים עם קציעה שיוצאת מגדרה להישאר רגועה ולא להרוס את הארוחה. ומי ינצח או תנצח את שבוע הדרום? הערב נגלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134177/",
+       "id": "134177",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 19 - דרום חלק ד'",
+       "logo": "https://www.kan.org.il/media/epvcoizc/2021-8-25-imgid-59919_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_973bsr1i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארבעת האורחים הגיעו מלאי ציפייה לממלכת השיק הפריזאי של תאיר בבאר שבע, וזכו לארוחה שהשאירה אותם ללא מילים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134175/",
+       "id": "134175",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 18 - דרום חלק ג'",
+       "logo": "https://www.kan.org.il/media/jjbbln3z/2021-8-23-imgid-59763_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qduyvd7b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "היום השלישי לתחרות באזור הדרום - החבורה הגיעה לביתה של אביגיל שתכננה ערב בניחוח בייתי ורגוע, אבל תקרית מביכה בארוחה מוציאה מקציעה מטענים שנצברו לה על תאיר, והארוחה הרגועה הפכה לשדה קרב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134173/",
+       "id": "134173",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 17 - דרום חלק ב'",
+       "logo": "https://www.kan.org.il/media/vqhl0qdg/2021-8-8-imgid-58870_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ihyqiowf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו היום השני לתחרות באזור הדרום. ארבעת האורחים הגיעו לדירת הרווקים של איב התחרותי. בעוד איב התרכז באירוח המושלם, האורחים התרכזו ברווקותו המאוחרת ותאיר התרכזה בלהעביר ביקורת כמעט על כל אחד מהאורחים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134171/",
+       "id": "134171",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 16 - דרום חלק א'",
+       "logo": "https://www.kan.org.il/media/lslbprfw/2021-8-22-imgid-59710_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xzgmk0wf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו היום הראשון לתחרות הקולינרית באזור הדרום. ערב של היכרויות עם המארחת הכוכבת קציעה, והעיסוק המסקרן שלה כיועצת מינית. חלק מהאורחים נהנו מהטיפים, בעוד שאחרים הובכו וחשו שזה עבר את גבול הטעם הטוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134169/",
+       "id": "134169",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 15 - צפון חלק ה'",
+       "logo": "https://www.kan.org.il/media/c21hq1ov/2021-8-19-imgid-59587_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oiskfjrf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו היום האחרון לתחרות באזור הצפון והערב תארח ינה בקומה השביעית של מגדלי פנורמה בחיפה. הדו קרב בין חנה לינה מגיע לשיאו. מי מהן תנצח את התחרות ותהיה הגברת הראשונה של שבוע הצפון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134167/",
+       "id": "134167",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 14 - צפון חלק ד'",
+       "logo": "https://www.kan.org.il/media/0kwnslow/2021-8-10-imgid-59032_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_feza89mb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בערב הרביעי לתחרות באזור הצפון, אריאל איש האדמה מעין יעקב יארח את החבורה בביתו הכפרי, בסגנון האישי שלו, נטול יומרה, גינונים או מפה. עימראן וחנה מתקשים להתמודד עם סגנון הארוחה, ויאנה מגלה תשוקה חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134165/",
+       "id": "134165",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 13 - צפון חלק ג'",
+       "logo": "https://www.kan.org.il/media/kedpl4eh/2021-8-10-imgid-59024_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iv9a9uct/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום השלישי לתחרות הקולינרית באזור הצפון, החבורה תגיע לדירת הרווקות של שרין הצעירה מעפולה. ארוחת הערב כוללת תפריט מרוקאי, סטריאוטיפים, ותחרות אכילת חריף. האם שרין תצליח לנצח את חנה במטבח המרוקאי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134162/",
+       "id": "134162",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 12 - צפון חלק ב'",
+       "logo": "https://www.kan.org.il/media/ooihbkiz/2021-8-16-imgid-59386_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cv27ad0n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זה היום השני לתחרות הקולינרית באזור הצפון. החבורה מגיעה לכפר בועאנה נוג'ידאת. המארח עימראן מפתיע את האורחים לארוחה שכולה זיכרונות מאיטליה. על הדרך הוא מצליח לעצבן את אריאל ולהעליב את חנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134070/",
+       "id": "134070",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 11 - צפון חלק א'",
+       "logo": "https://www.kan.org.il/media/d5ipsogs/2021-8-8-imgid-58864_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yulzx92m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו היום הראשון לתחרות הקולינרית בצפון הרחוק. הערב הראשון אצל חנה בחצור הגלילית, שמארחת לחפלה מרוקאית. ערב הכרות. מי מהאורחים יגנוב לחנה את הפוקוס, ומי יאכל לחנה את הראש?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/134067/",
+       "id": "134067",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 10 - תל אביב-יפו חלק ה'",
+       "logo": "https://www.kan.org.il/media/desaiuke/2021-8-8-imgid-58847_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rhrkhygk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו היום החמישי לתחרות הקולינרית בתל אביב. ארבעת האורחים מגיעים לדירתה של קייסי ומופתעים מהמיקום שלה. קייסי תכננה ערב סיום קסום וכשהרוחות בארוחה לא תאמו את התוכניות, אורחיה זכו לראות בה צדדים חדשים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133700/",
+       "id": "133700",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 9 - תל אביב-יפו חלק ד'",
+       "logo": "https://www.kan.org.il/media/3belomiy/2021-8-8-imgid-58846_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s4ud2fhu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ביום הרביעי לתחרות, החבורה מגיעה לגיא ההייטקיסט שהשקיע את הלב והנשמה בארוחה שלו וציפה לערב כייפי במיוחד. לרוע מזלו שיחת חולין הציפה נושאים שהסעירו את השולחן וחיצים נשלחו לכל עבר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133682/",
+       "id": "133682",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 8 - תל אביב-יפו חלק ג'",
+       "logo": "https://www.kan.org.il/media/4a5dcioz/2021-8-8-imgid-58845_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ped8k6t8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בערב השלישי לתחרות הקולינרית בתל אביב, המארחת הדס מרגישה שהדרך היחידה שלה להישאר בתחרות אחרי הארוחה היוקרתית של ירון - היא להפעיל את הקסם האישי שלה על כל אחד מהאורחים. האם הם יבלעו את הפיתיון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133679/",
+       "id": "133679",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 7 - תל אביב-יפו חלק ב'",
+       "logo": "https://www.kan.org.il/media/ccudxyn2/2021-8-8-imgid-58844_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5huhrraq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בערב השני של שבוע ת\"א בתחרות הקולינרית, יארח ירון איש הנדל\"ן, במשכנו שבקומה 37 במגדל יוקרתי. רוב האורחים הסתנוורו מהפאר ומחומרי הגלם, בעוד שאושרית נמנעה מלנסות טעמים חדשים, על אף הלחץ שהפעיל המארח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133292/",
+       "id": "133292",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 6 - תל אביב-יפו חלק א'",
+       "logo": "https://www.kan.org.il/media/lrdlwxvz/2021-8-8-imgid-58840_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pebg971m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פותחים שבוע בתל-אביב אצל אושרית, ליכודניקית ופעילה נגד מסתננים בדרום העיר. כשהנושא עולה מול קייסי, בת למהגרים מהפיליפינים, העניינים התחילו להתחמם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133289/",
+       "id": "133289",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 5 - השרון חלק ה'",
+       "logo": "https://www.kan.org.il/media/sf4l35vv/2021-7-25-imgid-57869_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n49jttzy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארוחה אחרונה בתחרות הקולינרית באזור השרון. ארבעת האורחים מגיעים לאירוח בלתי נשכח אצל ירון שפורש את משנתה של מפלצת הפסטה בניגוד לרצונם של אורחיו. הערב גם יוכרז המנצח/ת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133009/",
+       "id": "133009",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 4 - השרון חלק ד'",
+       "logo": "https://www.kan.org.il/media/hz5j50y5/2021-8-4-imgid-58561_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pq1hxou5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החבורה מגיעה לאירוח פסטורלי בקיבוץ אצל גילי המארחת שיצאה מגדרה לפנק את אורחיה במטרה לזכות במקום הראשון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133006/",
+       "id": "133006",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 3 - השרון חלק ג'",
+       "logo": "https://www.kan.org.il/media/b2fdkw0v/2021-8-1-imgid-58316_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_teet87ik/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בני ציפר מבשל ארוחה תורכית ולא מוותר על גינוני אירוח שלא נופלים מהגינונים להם זכו חבריו הטובים הזוג נתניהו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133004/",
+       "id": "133004",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 2 - השרון חלק ב'",
+       "logo": "https://www.kan.org.il/media/5sihozsi/2021-7-25-imgid-57866_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ialxn8dz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ליאת מארחת ומנפצת כל סטיגמה אפשרית, היחסים בין גילי השמאלנית לבני ציפר מתהדקים ובני ואייל ממשיכים ללחוץ אחד לשני על כל הנקודות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/133002/",
+       "id": "133002",
+       "season": 5
+      },
+      {
+       "name": "בואו לאכול איתי עונה 5 | פרק 1 - השרון חלק א'",
+       "logo": "https://www.kan.org.il/media/vgqjl1mc/https-kanstaticazureedgenet-download-pictures-2021-7-25-imgid-57865_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ujm3avm0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ערב ראשון של היכרויות, אירוח מנקר עיניים בדירתו המעוצבת של אייל, כולם פרט לליאת מזהים את בני ציפר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s5/132999/",
+       "id": "132999",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 4 - תל אביב יפו ב'",
+       "logo": "https://www.kan.org.il/media/0behqa2z/whatsapp-image-2020-02-19-at-093422.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1889048/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שתי ארוחות צבעוניות נותרו בשבוע העיר הלבנה. ארוחה של טחונים על גג הפנטהאוז של עמוס וטלי וארוחה יפואית אצל לירז ויוסי. מה זה אומר להיות נורמלי? ולמה זה חשוב? לירז ודן ימצאו את עצמם במסלול התנגשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660736/",
+       "id": "660736",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 15 - תל אביב יפו, חלק א'",
+       "logo": "https://www.kan.org.il/media/l3zmflvg/whatsapp-image-2020-02-19-at-093403.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216785/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "השבוע העיר ללא הפסקה! דן ומור, שמאמינים שאהבה זה כואב וסולדים מהמיינסטרים, יפגשו את עמוס וטלי שחיים בפנטהאוז צפוני בין עבודות ובין בירה לשנ\"ץ, ואת לירז ויוסי מיפו ד שמכירים מילדות ואוהבים כל מה שפופ.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660733/",
+       "id": "660733",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 - השפלה והמרכז ב'",
+       "logo": "https://www.kan.org.il/media/qjopgv3s/whatsapp-image-2020-02-13-at-094516.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1892414/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שתי ארוחות נותרו בשבוע השפלה והמרכז, ארוחה נוצצת אצל חגי הספורטאי וגלי הרקדנית וארוחה תל אביבית מאתגרת קולינארית אצל קובי ותימור. יהיו הפעלות ילדים מוגזמות, שיווק עצמי אגרסיבי וטיפול זוגי כפוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660730/",
+       "id": "660730",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 13 - השפלה והמרכז, חלק א'",
+       "logo": "https://www.kan.org.il/media/r0oiahap/whatsapp-image-2020-02-13-at-094302.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2121209/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שבוע השפלה והמרכז יוצא לדרך! הרימו ידיים למפעיל הילדים חגי הספורטאי ולגלי הרקדנית, למושבניקיות איריס ורחלי שמפעילות ילדים עם חיות ולמי שלא רוצים ילדים או הפעלות קובי ותימור, במאי ושחקנית מתל אביב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660727/",
+       "id": "660727",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי 4 - ספיישל כשר ב'",
+       "logo": "https://www.kan.org.il/media/owudi31x/d6a832b1-62fc-4b4f-828a-25c33a50fe03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xh8yxmli/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "בו-בוא-בואו לאכול איתי! ספשל כשר גלאט, שתי ארוחות אחרונות נותרו, ארוחת \"כמעט שבת שלום\" בבית אל וארוחה עם מלאכים בעכו, וגם הרבה נושאי שיחה קלילים: משכב זכר, סחר בנשים, פונדקאות, תקשור ובניין בית המקדש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660725/",
+       "id": "660725",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 11 - ספיישל כשר, חלק א'",
+       "logo": "https://www.kan.org.il/media/0tkbxnis/0c6deb0e-0efe-4322-a931-522fb22de617.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hcsq8qr4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "השבוע חזק חזק ונתחזק - ספיישל כשר למהדרין מפגיש את עוז ואהרון מתל אביב, אבא ואבא שנפלאה אהבתם, עם פעיל הר הבית אברהם וזוגתו ספיר בבית אל, ועם ליאת שמתקשרת עם מלאכים ובן זוגה אושרי מעכו. ואימרו אמן!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660723/",
+       "id": "660723",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 - מרכז ב'",
+       "logo": "https://www.kan.org.il/media/lung0yba/whatsapp-image-2020-01-30-at-084325.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_43kz2sc6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שתי ארוחות נותרו, ארוחה צמחונית בביתם ללא חשש שכירות או משכנתא של ארנונילי, וארוחה טבעונית בבית של לנה בו יש חדר לחתול אבל לא לקובי. תהיה קנאה, תחקיר בדגש על מקורות מימון ושאלות נוקבות על זוגיות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660713/",
+       "id": "660713",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 9 - מרכז, חלק א'",
+       "logo": "https://www.kan.org.il/media/ynkfsemk/whatsapp-image-2020-01-30-at-084313.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216786/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שבוע המרכז יוצא לדרך, אלה והדר, נציגי האליטה הקיבוצית, פוגשים את נציגי הבועה התל אביבית \"ארנונילי\". ארנון שהתחתן טוב, ונילי, ואת קובי ולנה - זוג בעצימות גבוה, מדריך ספיניניג ומורה לזומבה מרמת גן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660709/",
+       "id": "660709",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי - אחים ואחיות ב'",
+       "logo": "https://www.kan.org.il/media/oc1n5stw/8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s2vp4q76/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שתי ארוחות נותרו, ארוחה כורדית אצל צחי וורד וקווקזית אצל רייצ'ל ומריאז'. אבל במרכז הבמה יש מקום רק לאח אחד, יואב. מי מהאחים היה זוג בגלגול הקודם? מי מהאחים דומה לצב ומי לנמיה? כגודל הצפיה גודל ההזיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660707/",
+       "id": "660707",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 7 - אחים ואחיות, חלק א'",
+       "logo": "https://www.kan.org.il/media/2urfg43k/7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wxtqs9o2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "דודי ואחיו יואב, בת לא רשמית עם נטיה לתפוס את הבמה פוגשים את צחי וורד, תיקי ויורם מקרובים קרובים רק בלי ההיפוכונדריה ואת רייצ'ל ומריאז' כפילת אנג'לינה ג'ולי לשעבר וזמרת חתונות עם קש רוחני מיוחד וכוחות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660705/",
+       "id": "660705",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי 4 - שומרון ב'",
+       "logo": "https://www.kan.org.il/media/ckgpgavy/whatsapp-image-2020-01-13-at-104724.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8pymh1kv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שתי ארוחות אחרונות נותרו ואף נושא אינו טאבו אורן חזן, שטחים, פמיניזם, הומוסקסואלים נדמה שכיסינו הכול ואז אביבה ויחיאל חזן מפתיעים בגילויי מרעיש על הזוגיות שלהם, מה שקורה בקניה... לא תמיד נשאר בקניה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660703/",
+       "id": "660703",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 5 - שומרון, חלק א'",
+       "logo": "https://www.kan.org.il/media/vfnlybki/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3cy3yguu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "שבוע של תחרות קולינרית אמיתית, וגילויים מרעישים נפתח כשאביבה ויחיאל חזן הידועים יותר בתור ההורים של אורן חזן נפגשים עם ארנון וכריסי האוסטרלית מקהילת המיד-ברן ועם לילך ופלג שתחביבם המשותף הוא להתלונן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660699/",
+       "id": "660699",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי 4 - מישור החוף הצפוני ב",
+       "logo": "https://www.kan.org.il/media/hvlmlhgw/whatsapp-image-2020-01-08-at-093149.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ercrfdnj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "בחלק השני של תחרות האירוח במישור החוף הצפוני: טיפול בהלם או חוויה טראנס-אטלנטית, מה יקרה כשעמית תצא מהארון ותספר לאורחים שהייתה פעם גבר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660691/",
+       "id": "660691",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 3 - מישור החוף הצפוני, חלק א'",
+       "logo": "https://www.kan.org.il/media/ipvl2anz/whatsapp-image-2020-01-08-at-093138.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fzm19ha7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "תחרות האירוח שלנו עולה לצפון עם פוטנציאל לאבד את הצפון, כשעמית שהייתה פעם גבר ושירלי זוגתה פוגשים את ויויאן וז'אק, זוג פנסיונרים מרוקאי, ואת ניצן ושירן, הידועה גם כדוברת של האינטרנט.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660680/",
+       "id": "660680",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי 4 - דרום ב'",
+       "logo": "https://www.kan.org.il/media/inwhtapg/s0278622_100_32_48_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fk5ep4od/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "אחרי שהבנו מי יותר לבן מטחינה, הגיע הזמן לכסות את שאר הסטראוטיפים: הומואים, חנונים, מזרחיים ואשכנזים. האם החנונים ילמדו לענות לאודליה? האם אבי ימצא בית חם אצל הגייז מנחל עוז? ומי ייסע בסוף לאיטליה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660674/",
+       "id": "660674",
+       "season": 4
+      },
+      {
+       "name": "בואו לאכול איתי עונה 4 | פרק 1 - דרום, חלק א'",
+       "logo": "https://www.kan.org.il/media/e3ud2paq/s0278621_100_29_03_24still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nqo3dry4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-23",
+       "plot": "תחרות האירוח האלגנטית נפתחת בערב של גאווה ודעות קדומות, כשאלי ונדב, זוג גאה מעוטף עזה מארחים את אבי ואודליה, ברבי וקן של ירוחם, ואת חן וענר סטודנטים חנונים מב\"ש. ערב של כיף ב\"עוטף\".",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s4/660671/",
+       "id": "660671",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 20 - השרון ומישור החוף, חלק ב'",
+       "logo": "https://www.kan.org.il/media/a0ulpssz/2019-8-20-imgid-18999_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1hagrsnk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "רון וירדנה ומשאירים את גיא ואביב פעורי פה מהסיבות הלא נכונות. מי ייזכה בטיסה קולינרית לאיטליה? פרק אחרון לעונה!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/105628/",
+       "id": "105628",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 19 - השרון ומישור החוף, חלק א'",
+       "logo": "https://www.kan.org.il/media/nyhgcucb/פרק-19-בואו-לאכול-איתי-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l5kow3mw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מי השווה בין נסיכת הנילוס לטונה בקופסה, ומי הואשם ב\"הומופוביה לייט\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88595/",
+       "id": "88595",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 18 - העמקים והקריות, חלק ב'",
+       "logo": "https://www.kan.org.il/media/lmzhnr4j/פרק-18-בואו-לאכול-איתי-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4528sucw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סיגלית מפנקת את סקאי ב\"ניתוח פלסטי\", ושלמה וסיגלית מארחים בסגנון טברנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88592/",
+       "id": "88592",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 17 - העמקים והקריות, חלק א'",
+       "logo": "https://www.kan.org.il/media/klimrkyr/פרק-17-בואו-לאכול-איתי-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_evc0zrrs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מה קורה כשזוג חוזר בתשובה פוגש צמד אתאיסטים ומתקשרת עם יישויות חוצניות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88589/",
+       "id": "88589",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 16 - ספיישל חברים, חלק ב'",
+       "logo": "https://www.kan.org.il/media/hthes2wz/פרק-16-בואו-לאכול-איתי-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c8hxno23/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "איזה טעם יש לעוגת \"גילה גילה בוצ'ה בודי\"?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88586/",
+       "id": "88586",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 15 - ספיישל חברים, חלק א'",
+       "logo": "https://www.kan.org.il/media/uwyfidvu/פרק-15-בואו-לאכול-איתי-עונה-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n29bg1cm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בספיישל חברים. חברות ילדות ואימהות טריות, נשות חברה שהן ספק חברות ספק לא ומטפלים רוחניקים נפגשים לשלוש ארוחות חגיגיות. מה בצלחת? קינוח שנוגד את ההיגיון, דג שמולא בכל טוב הארץ ו\"גילה גילה בוצ'ה בודי\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88583/",
+       "id": "88583",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 14 - אזור השרון, חלק ב'",
+       "logo": "https://www.kan.org.il/media/4zhbdjr5/פרק-14-בואו-לאכול-איתי-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1tkhp39g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הזוגות מגיעים לכפר מל\"ל כדי לטעום ממטבחם של אורלי וישגב, השף העירום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88580/",
+       "id": "88580",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 13 - אזור השרון, חלק א'",
+       "logo": "https://www.kan.org.il/media/pzyprf4j/בואו-לאכול-איתי-3-פרק-13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1nuh1i64/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "התחרות מגיעה לאיזור השרון. שחר ואורית מרמת השרון, ברבי וקן בשבילכם, יפגשו את רוני וגלית, הייטיקיסטים מנתניה, ואת אורלי וישגב, נשנשני רוקט מכפר מל\"ל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88577/",
+       "id": "88577",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 12 - ירושלים, חלק ב'",
+       "logo": "https://www.kan.org.il/media/0h0p2gui/פרק-12-בואו-לאכול-איתי-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6txad8ew/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מירי רוצה לקנות מאלעזר ושושנה את הבית והעניינים מתחילים להתלהט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88574/",
+       "id": "88574",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 11 - ירושלים, חלק א'",
+       "logo": "https://www.kan.org.il/media/v0scazeh/בואו-לאכול-איתי-3-פרק-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2024223/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מגיעים לירושלים, לערב של קנאה בין בני זוג, צרות עין ושירה בפנטומימה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88571/",
+       "id": "88571",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 10 - גוש דן, חלק ב'",
+       "logo": "https://www.kan.org.il/media/owhj3tls/פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_omnfugkf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ארוחה טבעונית אפלולית אצל ארתור וג'ול, וארוחה מ-ו-ג-ז-מ-ת אצל ליאל וליאור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88568/",
+       "id": "88568",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 9 - גוש דן, חלק א'",
+       "logo": "https://www.kan.org.il/media/clvbohux/פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_11r1jyq2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ישראל וימית מארחים בסגנון הבלינג-בלינג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88565/",
+       "id": "88565",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 8 - מחוז המרכז, חלק ב'",
+       "logo": "https://www.kan.org.il/media/fuojpevp/פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nig386i8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הזוגות מנסים לשים את האוכל במרכז ואת הפוליטיקה בצד...ללא הצלחה יתרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88562/",
+       "id": "88562",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 7 - מחוז המרכז, חלק א'",
+       "logo": "https://www.kan.org.il/media/kngjo5e2/פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b0nzmxqi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מה קורה כשזוג פעילי להב\"ה פוגשים זוג יהודי-ערבי לארוחת ערב?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88559/",
+       "id": "88559",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 6 - מטבח כשר, חלק ב'",
+       "logo": "https://www.kan.org.il/media/agbplrcx/בואו-לאכול-איתי-3-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wrpao7hi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "האורחים מתאמנים בתקיעת שופר ומשחקים בזיקוקים (וגם באש)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88556/",
+       "id": "88556",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 5 - מטבח כשר, חלק א'",
+       "logo": "https://www.kan.org.il/media/ji5jf1bx/2019-8-20-imgid-18997_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0wu3bh5l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הזוגות יושבים לערב הראשון ופוגשים את דויד, שרוצה \"להידמות לבורא עולם\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88553/",
+       "id": "88553",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 4 - חיפה, חלק ב'",
+       "logo": "https://www.kan.org.il/media/koopvepb/2019-8-20-imgid-18996_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w2z2bggb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ליאת ודרור מגישים מנת חגבים מוקפצים ושמעון המנטליסט מפתיע את האורחים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88550/",
+       "id": "88550",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 3 - חיפה, חלק א'",
+       "logo": "https://www.kan.org.il/media/5wof0mk3/2019-8-20-imgid-18995_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m22magtc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חיים ואצילה, זוג \"אושיות חיפאיות\", מארחים את הזוגות בדירתם המפוארת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88547/",
+       "id": "88547",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 2 - תל אביב, חלק ב'",
+       "logo": "https://www.kan.org.il/media/f2uk1srx/2019-8-20-imgid-18994_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lx1zbpzw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אייל ורונית מכינים ארוחה \"בצבעי תשוקה\", ואיך רועי מסתבך מול עבד?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88544/",
+       "id": "88544",
+       "season": 3
+      },
+      {
+       "name": "בואו לאכול איתי עונה 3 | פרק 1 - תל אביב, חלק א'",
+       "logo": "https://www.kan.org.il/media/xvxluinq/2019-8-20-imgid-18993_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cmt5nln5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שלושה זוגות מקצוות שונים של תל אביב נפגשים לארוחת ערב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s3/88541/",
+       "id": "88541",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 42 - המרכז ג', יום ב'",
+       "logo": "https://www.kan.org.il/media/jkbb0b5z/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z1bhmzf6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שרון יוגב, קואצ'רית ההרזיה האסופה מתכננת ארוחה דלת קלוריות ובריאה אך עדין טעימה. הילה חושבת אחרת ואף טורחת לפתוח את זה על השולחן. חוץ מהאוכל הילה מפתחת  סלידה גם כלפי איריס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537601/",
+       "id": "537601",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 43 - המרכז ג', יום ג'",
+       "logo": "https://www.kan.org.il/media/d1fdyach/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cf2vmadk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי תבשל איריס אברמוביץ הנסיכה על העדשה ארוחה אסייתית צמחונית ושיקית, התקלות לא מאחרות לבוא. הילה שמרוצה מהמצב מוסיפה אש למדורה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537600/",
+       "id": "537600",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 44 - המרכז ג', יום ד'",
+       "logo": "https://www.kan.org.il/media/h0ibqm5x/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_apmmk32v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום רביעי יארח אלון מדר יפה התואר ושוחר הצדק ויבשל ארוחה הילה מגיעה עם מידע חסוי ופיקנטי על איריס יריבתה האשכנזייה ומביכה את כל השולחן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537599/",
+       "id": "537599",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 45 - המרכז ג', יום ה'",
+       "logo": "https://www.kan.org.il/media/u2hk4u50/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_552etxtf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "את היום האחרון לתחרות חותם אבנר המושבניק חובב האלכוהול והנשים. שמבשל בבית העץ שלו ארוחת גורמה בסגנון צרפתי ומקווה לערב לא שיגרתי. ואכן, המתמודדים מוצאים את עצמם באופן לא שיגרתי מעיזים סוף סוף לומר להילה את מה שהם חושבים עליה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537598/",
+       "id": "537598",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 46 - אלוף האלופים, יום א'",
+       "logo": "https://www.kan.org.il/media/baeilmsh/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8iafmvyi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארחת הראשונה של השבוע היא גלי משיח הבלונדינית הגרושה והצחקנית שחיה במגדלי W ונהנית ממה שהחיים הטובים יכולים להציע. היא תבשל תפריט על טהרת הדגים ותכוון לערב לטיני מבעבע. האורחים הנרגשים יזכו לגלות מול מי הם מתמודדים ומכיוון שמדובר בחבורה של ווינרים התחרות על תשומת הלב מתחילה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537597/",
+       "id": "537597",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 47 - אלוף האלופים, יום ב'",
+       "logo": "https://www.kan.org.il/media/hybkmykx/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x8znyoj5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "יוסי חגי, בעל חנותCHANGE  ,פלרטטן וחובב המין היפה בעיקר אם הוא בלונדיני, הוא המארח השני השבוע. יוסי מתכנן ערב באווירת ספא, טעים, נעים ומרגיע. אך כאשר שני השמרנית מגלה מה התוכניות של יוסי אווירת הרוגע מתקלקלת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537596/",
+       "id": "537596",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 49 - אלוף האלופים, יום ד'",
+       "logo": "https://www.kan.org.il/media/c35pjsoj/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ncgwq11m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום רביעי תארח גאיה קורן העיתונאית הברנז'אית וההוכחה החיה שבלונדיניות גרושות נהנות יותר. פרט לתפריט קל להכנה שיספק מנות מרשימות בלוק ובטעם, היא גם תשקה את אורחיה בכמויות מרשימות של אלכוהול מה שיגרום לאווירת הפלרטטנות להתחמם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537595/",
+       "id": "537595",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 50 - אלוף האלופים, יום ה'",
+       "logo": "https://www.kan.org.il/media/iuzpiixt/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ibhrisi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שני פלצ'י הקצינה התחרותית מהקריות היא אחרונת המארחים. למרות ששני צמחונית היא תפנק את אורחיה בארוחה בשרית למהדרין שתוביל להרמת גבות בהמשך הערב יערכו המתמודדים חשבון נפש גלוי לגבי התנהלותם השבוע ייחשפו קלפים ויורידו מסכות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537593/",
+       "id": "537593",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 48 - אלוף האלופים, יום ב'",
+       "logo": "https://www.kan.org.il/media/iwcjs5o3/s0450293.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ojdseyxh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי יארח רמי לאור בן השישים ושלוש לארוחת גורמה מלאה בסיפורים על עצמו יוסי עסוק בלפלרטט עם הבלונדיניות ולהעליב את שני במהלך הערב יתר המתמודדים מתחילים לחשוד באמיתות סיפוריו של רמי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537592/",
+       "id": "537592",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 41 - המרכז ג', יום א'",
+       "logo": "https://www.kan.org.il/media/rbylwfts/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_um3kbdws/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארחת הראשונה של השבוע היא הילה הבלבוסטה המרוקאית. הילה תבשל חינגה בסגנון מזרחי בייתי ותנסה להתנהג יפה גם כאשר תגלה גילוי מטריד על אלון התימני עם ה- ח' והצ'ארם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537591/",
+       "id": "537591",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 22 - הצפון, יום ב'",
+       "logo": "https://www.kan.org.il/media/krcn1ghl/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ntnmd8fy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "אבישלום ,הענק הקרח והמוחצן יארח בשני בערב ומתכנן אירוח מושבניקי עם אוכל בייתי פשוט וחם. האורחים שמגיעים טעונים כלפי המארח הקולני והאקסצנטרי, לא מהססים לשלוף סכינים..",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537580/",
+       "id": "537580",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 23 - הצפון, יום ג'",
+       "logo": "https://www.kan.org.il/media/spidquqf/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a8dg9g5o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי יארח ערן גלילי הפרסומאי מתל אביב שהחליט להפוך לעובד אדמה אך שכח להיפרד מהציניות והיהירות על הדרך. ערן מתכנן ערב כפרי עם ארוחת גורמה ליד קמין עם אש בוערת. אך גם ללא הקמין, הטמפרטורות סביב השולחן עולות לרמת SOS לאחר  שהמתחרים מגלים שאבישלום בא לנקום...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537579/",
+       "id": "537579",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 24 - הצפון, יום ד'",
+       "logo": "https://www.kan.org.il/media/4fkaalz5/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bb39gclh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום רביעי, סיגל רז הרווקה נמוכת הקומה בת החמישים ושלוש תארח בביתה הקט. היא בונה על סעודה איכותית וטעימה אך חלק מן האורחים מרגישים אחרת ומסתייגים בגאון. אבישלום שמגיע במצב רוח מפויס מנסה \"להשתעשע\" עם האורחים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537578/",
+       "id": "537578",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 25 - הצפון, יום ה'",
+       "logo": "https://www.kan.org.il/media/zvilqzoh/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ydv27vvf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "את התחרות יסגור תומר הקיבוצניק ומדריך ידיעת הארץ  נעים ההליכות. המתמודדים מגיעים בלי הרבה ציפיות אך לאורך הערב משנים את דעתם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537577/",
+       "id": "537577",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 27 - המרכז ב', יום ב'",
+       "logo": "https://www.kan.org.il/media/fv4mlmxc/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h345rpfi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום שני תארח חן חנה שאבו בת עשרים ואחת מבני ברק ,חוזרת בתושבה ללא עצם בלשון, שתבשל אוכל פשוט מבית אימא. לעומת פנינה שעדיין לא מגלה את זהותה האמיתית האורחים זוכים להכיר את חן. יוסי נשבה בקסמה אך איילה ופנינה האליטיסטיות מסויגות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537576/",
+       "id": "537576",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 26 - המרכז ב', יום א'",
+       "logo": "https://www.kan.org.il/media/rwvfcz1t/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c3jpugzh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארח הראשון השבוע הוא חגי יודן מוסיקאי בין לאומי חובב אופרה שמתכנן ארוחת גורמה מפונפנת במיוחד. המתמודדים מכירים לראשונה זה את ובמיוחד את פנינה. שלמרות שאינה חושפת את זהותה האמיתית מצליחה מהר מאוד לעורר אנטגוניזם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537575/",
+       "id": "537575",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 28 - המרכז ב', יום ג'",
+       "logo": "https://www.kan.org.il/media/vxgcp21q/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2cjxhieu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלשי יארח יוסי חובב הפוקר התחרותי ארוחה ביתית עממית באווירה כיפית וזורמת. שגורמת לפנינה לגלות את זהותה האמיתית. חן שרואה את החיבור בין יוסי לאיילה פותחת חזית נגד איילה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537574/",
+       "id": "537574",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 29 - המרכז ב', יום ד'",
+       "logo": "https://www.kan.org.il/media/zdyffowt/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ubv25fcj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "איילה הנסיכה האליטיסטית היא המארחת של יום רביעי. אילה תבשל ארוחת גורמה חלבית ותקווה לטוב. אך לחן שמגיעה טעונה על המארחת המתנשאת יש תכניות אחרות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537573/",
+       "id": "537573",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 30 - המרכז ב', יום ה'",
+       "logo": "https://www.kan.org.il/media/ls3pmdlk/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vxz33o8h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "את השבוע תסגור פנינה רמון אשת השר לשעבר ומלכת אנגליה בהווה, שכראוי למעמדה תפנק את האורחים בארוחה מלכותית. האווירה מתורבתת משפיעה על חן שמנסה להתפייס עם איילה אך ללא הצלחה מרובה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537572/",
+       "id": "537572",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 35 - ירושלים, יום ה'",
+       "logo": "https://www.kan.org.il/media/fm5mdhje/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j7zfvdap/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "את התחרות תסגור רינת, סוכנת נדל\"ן ידוענית וזחוחה בעלת נימוסים אירופאים. רינת  מתכננת אירוח ממלכתי ומלכותי אך אינה מודעת לעוצמת השנאה שבנימין פיתח כלפיה יתר המתמודדים שלא יכולים להישאר אדישים למה שמתחולל נכנסים גם הם לקלחת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537571/",
+       "id": "537571",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 36 - השרון, יום א'",
+       "logo": "https://www.kan.org.il/media/fulpfslx/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m8l2daov/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארחת הראשונה של השבוע היא אורית הקרה והמוקפדת שתבשל אוכל גורמה בולגרי נוסטלגי. המתמודדים מכירים זה את זה לראשונה וכשיוסקה וחגי מבינים שהם שני הגברים היחידים סביב השולחן התחרות מתחילה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537570/",
+       "id": "537570",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 37 - השרון, יום ב'",
+       "logo": "https://www.kan.org.il/media/m4td0kgt/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rh7vzsa3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום שני תארח נסיה אשת ההייטק שלא עובדת בשביל אף אחד. בזמן שנסיה תגיש ארוחה בשרית עם טאץ' עכשווי הדו קרב בין שני הגברים סביב השולחן עולה מדרגה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537569/",
+       "id": "537569",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 38 - השרון, יום ג'",
+       "logo": "https://www.kan.org.il/media/25mdcbxy/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_arxwainn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי יארח יוסקה הליצן הבלתי נלאה לארוחה טורקית ביתית באווירה ליצנית.  שלושת המתמודדות מחילות לחוש חוסר נוחות בעקבות חגי שממשיך לנסות ולקחת את הפוקוס.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537568/",
+       "id": "537568",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 39 - השרון, יום ד'",
+       "logo": "https://www.kan.org.il/media/ocdbm3rd/image1.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2wfwws4c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שיפרה המאמא הסורית עם הלב החם היא המארחת של היום הרביעי. שפרה מתכננת לבשל אוכל סורי דמשקאי שיגרום למתחרים להרגיש בבית. אבל האווירה המחבקת נקטעת  בעקבות משפט שדה שנערך לחגי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537567/",
+       "id": "537567",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 40 - השרון, יום ה'",
+       "logo": "https://www.kan.org.il/media/m5fhax1j/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2g7dc5uw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "את התחרות יסגור חגי, איש עסקים שמבין כמעט בהכל ואף טורח להדגיש את זה. חגי יכין אוכל גורמה איטלקי שינסה לעמוד ברף הציפיות הענק שהציב לאורך השבוע המתמודדים  יופתעו לגלות חגי שלא הכירו מה שמעלה ספקות לגבי כנותו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537566/",
+       "id": "537566",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 34 - ירושלים, יום ד'",
+       "logo": "https://www.kan.org.il/media/iewpezpy/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z9qo88tx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "בנימין הבמאי עם הנשמה המיוסרת הוא המארח של יום רביעי. בנימין מתכנן ארוחה על בסיס פרסי באווירה אומנותית. הוא משקיע מאמץ גדול, לעיתים גדול מדי, מה שגורם לתחושת חוסר נוחות אצל אורחיו ובעיקר אצל דניאל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537565/",
+       "id": "537565",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 33 - ירושלים, יום ג'",
+       "logo": "https://www.kan.org.il/media/zq3olhov/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5lm8rn1k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי יארח רענן סוכן הביטוח העממי והלבבי לארוחה בסגנון \"ישראלי משופצר\". בנימין שמגיע טעון פותח חזית תקיפה במיוחד מול רינת. חוץ מיין, נשפכים סביב השולחן עלבונות צעקות ודמעות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537564/",
+       "id": "537564",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 32 - ירושלים, יום ב'",
+       "logo": "https://www.kan.org.il/media/bydjye12/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5dabhxj1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום שני תארח חגית התחרותית המתוסבכת לארוחת גורמה. רינת, סוכנת הנדל\"ן הידוענית שאינה מפסיקה דבר על עצמה ועל חייה המושלמים גורמת לחלק מהמתמודדים להתחיל ולפתח אלרגיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537563/",
+       "id": "537563",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 31 - ירושלים, יום א'",
+       "logo": "https://www.kan.org.il/media/ueof2w53/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sgls6ecv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארח הראשון השבוע הוא דניאל קוץ הקוצני שלא טורח ל\"התנחמד\" עם הזולת. דניאל יכין ארוחה בסגנון איטלקי ירושלמי בזמן שהמתמודדים יכירו זה את זה ויגלו על בשרם שלא כדאי להסתבך עם המארח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537562/",
+       "id": "537562",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 21 - הצפון, יום א'",
+       "logo": "https://www.kan.org.il/media/kbqcosad/image1.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vmwx3zfk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארחת הראשונה להשבוע היא נטלי מרסיאנו, הפרפקציוניסטית הביקורתית מעכו. נטלי מתכננת ערב מוקפד עם חשיבה על כל הפרטים הקטנים. היא אומנם יכולה לשלוט על הפרטים הקטנים אבל לא על המתמודדים שלאחר הכרות קצרה זה עם זה מבינים שהשבוע הולך להיות לא קל בלשון המעטה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537561/",
+       "id": "537561",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 20 - המרכז א', יום ה'",
+       "logo": "https://www.kan.org.il/media/rksaloql/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_spv8vhl9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "את התחרות תסגור חן ההיטקיסטית הצעירה והשאפתנית שעבדה קשה לקראת הערב  והכינה ארוחה מושקעת במיוחד. למרות האוכל המשובח והאירוח החם רותם מבצע מהלך שעלול לפגוע בסיכויי הניצחון של המארחת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537557/",
+       "id": "537557",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 19 - המרכז א', יום ד'",
+       "logo": "https://www.kan.org.il/media/hjcdj1ur/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qhyfm4k3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארח הרביעי הוא יובל אידלמן או בשמו השני ציונה פטריוט מחולון שמתכנן מסיבת דראג סוערת שהופכת לסערה של ממש כאשר דניס מגלה עד כמה עמוקה ההומופוביה של בן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537556/",
+       "id": "537556",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 18 - המרכז א', יום ג'",
+       "logo": "https://www.kan.org.il/media/l0opxhxf/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fdnrcnie/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי יארח רותם דרוב איש הקולינריה בעל חוש הצדק מחולון לארוחת גורמה עם חומרי גלם איכותיים. דניס לא מצליחה להשתחרר מאירועי ליל אמש וממשיכה להתגרות בחן ולסחוף אחריה את יובל שמחליט להעלות עניין לא סגור...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537555/",
+       "id": "537555",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 17 - המרכז א', יום ב'",
+       "logo": "https://www.kan.org.il/media/cphnbu4b/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8fgqvpdf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום שני יארח בן אבנון מתווך הדירות ההומופוב מראשון. בן יבשל אוכל עממי וינסה לגרום למתחרים להרגיש בבית אך מהר מאוד יגלה כי גם האוכל וגם המארח אינם יאים בעיניי  דניס ויובל, מה שגורם ליתר המתמודדים בעיקר לחן חוסר נוחות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537554/",
+       "id": "537554",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 16 - המרכז א', יום א'",
+       "logo": "https://www.kan.org.il/media/zlgltdra/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t0url48p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "המארחת הראשונה היא דניס לוי האמזונה המעושרת ממגדלי מנהטן. דניס מתכננת אירוח  באווירה יוקרתית. המעמד המרגש גורם לבן אבנון לצאת מאיפוס וכשהוא מגלה מי הם חבריו לשולחן המצב רק הולך ומתדרדר...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537553/",
+       "id": "537553",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 15 - השפלה, יום ה'",
+       "logo": "https://www.kan.org.il/media/2lfhiqf1/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u1d9ikh8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שבוע השפלה היום החמישי לתחרות, חמישה חובבי בישול זרים זה לזה, מתחרים מי מהם הוא הבשלן האולטימטיבי. כל אחד יארח את הקבוצה לארוחת ערב חגיגית בביתו, ויקבל בסופה ציונים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537552/",
+       "id": "537552",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 14 - השפלה, יום ד'",
+       "logo": "https://www.kan.org.il/media/4ifcpsd1/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lku3p1ff/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שבוע השפלה היום הרביעי לתחרות, חמישה חובבי בישול זרים זה לזה, מתחרים מי מהם הוא הבשלן האולטימטיבי. כל אחד יארח את הקבוצה לארוחת ערב חגיגית בביתו, ויקבל בסופה ציונים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537551/",
+       "id": "537551",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 13 - השפלה, יום ג'",
+       "logo": "https://www.kan.org.il/media/cxxg2uoi/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_png09iqh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שבוע השפלה היום השלישי לתחרות, חמישה חובבי בישול זרים זה לזה, מתחרים מי מהם הוא הבשלן האולטימטיבי. כל אחד יארח את הקבוצה לארוחת ערב חגיגית בביתו, ויקבל בסופה ציונים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537550/",
+       "id": "537550",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 12 - השפלה, יום ב'",
+       "logo": "https://www.kan.org.il/media/hwzlovle/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zd9b3efz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שבוע השפלה היום השני לתחרות, חמישה חובבי בישול זרים זה לזה, מתחרים מי מהם הוא הבשלן האולטימטיבי. כל אחד יארח את הקבוצה לארוחת ערב חגיגית בביתו, ויקבל בסופה ציונים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537549/",
+       "id": "537549",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 11 - השפלה, יום א'",
+       "logo": "https://www.kan.org.il/media/trlah321/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ubbcu5y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "שבוע השפלה היום הראשון לתחרות, חמישה חובבי בישול זרים זה לזה, מתחרים מי מהם הוא הבשלן האולטימטיבי. כל אחד יארח את הקבוצה לארוחת ערב חגיגית בביתו, ויקבל בסופה ציונים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537548/",
+       "id": "537548",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 7 - מטבחים כשרים, יום ב'",
+       "logo": "https://www.kan.org.il/media/u1foggbb/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b9vttv9m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "הערב  תארח מיכל  הדתיה המשכילה מתל אביב לארוחה  מתוחכמת ומודרנית.  אך כשהאורחים האסטניסטים מגיעים לביתה הם נתקלים בבעית סדר ונקיון שמעיבה  על הארוחה ומפצלת את המתמודדים לשני מחנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537547/",
+       "id": "537547",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 8 - מטבחים כשרים, יום ג'",
+       "logo": "https://www.kan.org.il/media/i0fju3pt/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u06tdcto/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי תארח קארין הצרפתיה הסוערת לארוחה טבעונית באווירה הודית שאנטית. מיכל שעדין פגועה מאירועי אתמול פותחת חזית מול משה מה שמעיב על האווירה ומצית מתיחות על רקע עדתי בין מחנה האשכנזיות למחנה המזרחים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537546/",
+       "id": "537546",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 9 - מטבחים כשרים, יום ד'",
+       "logo": "https://www.kan.org.il/media/4dif5xdi/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cdsvn9di/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום הרביעי לתחרות יארח שי הצעיר האצילי והמכובד לארוחה גרוזינית מסורתית כהילכתה. משה מגיע עם כוונות לפיוס אך קארין האירופאית לא יכולה לשאת את התנהלותו ולמרות נסיונות המארח ליצור אווירה מכובדת ומכבדת, סביב השולחן מלחמת התרבויות ממריאה לשיאים חדשים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537545/",
+       "id": "537545",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 10 - מטבחים כשרים, יום ה'",
+       "logo": "https://www.kan.org.il/media/12slceu4/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ew1cli1l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום האחרון לתחרות תארח גיטה גואטה החרדית בעבר ואמא חד הורית לשלושה ילדים בהווה. משה שבמהלך השבוע פיתח רגשות כלפי המארחת המרוקאית המסורתית מתוודה בפני גיטה בתקווה שהרגשות הדדים.. למרות ההתחלה המבטיחה, בהמשך הערב יגלו המתחרים סוד מעיב מעברה של קארין אליו לא יוכלו להשאר אדישים...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537544/",
+       "id": "537544",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 6 - מטבחים כשרים, יום א'",
+       "logo": "https://www.kan.org.il/media/lqkfxvck/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d1l79dn7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ראשון המארחים הוא משה אלמקייס. בעל חנות בגדים ממודיעין צבעוני  ופטפטן  ללא גבול וללא טאקט. משה מכין ארוחה מהמטבח המרוקאי במהלכה יכיר את יתר המתמודדים ובעיקר את קארין הטבעונית הישירה והקולנית שלא חוסכת בביקורת ומערערת את ביטחונו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537543/",
+       "id": "537543",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 5 - שבוע חיפה והקריות, יום ה",
+       "logo": "https://www.kan.org.il/media/kxhly5uv/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8lcguw3i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום האחרון לתחרות \"בואו לאכול איתי\" של חיפה והצפון יארח שמעון חזוט הרווק הנצחי לארוחת גורמה באווירה ים תיכונית. דרמה בלתי צפויה תעיב התנהלותו התקינה של הערב ותעמיד בסימן שאלה את המשך התחרות .",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537520/",
+       "id": "537520",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 4 - שבוע חיפה והקריות, יום ד'",
+       "logo": "https://www.kan.org.il/media/twvdxuo4/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sbc46bi2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום הרביעי לתחרות יארח גדי חפר כוכב הילדים של הצפון בערב גלילי ישראלי. במהלך ערב רצוף דרמות תהפוכות ובכי יגלו המתמודדים מיהו גדי האמיתי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537492/",
+       "id": "537492",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 3 - שבוע חיפה והקריות, יום ג'",
+       "logo": "https://www.kan.org.il/media/bf5btxgc/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_si6yg6f9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ביום השלישי תארח שני פלצ'י הקצינה הצמחונית מהקריות בערב מהסרטים. הערב מתנהל באווירה שמחה וחמה עד לרגע בו איציק כרסנטי מתחיל לתהות על קנקנו של גדי חפר כוכב הילדים מהצפון.....",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537491/",
+       "id": "537491",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 2 - שבוע חיפה והקריות, יום ב'",
+       "logo": "https://www.kan.org.il/media/snvbzuom/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5wgai0jd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "הערב תארח אילדיקו ההונגריה מכרמיאל שתבשל ארוחה הונגרית למהדרין. אילדיקו מצפה לערב נעים וזורם אך לאיציק כרסנטי מעצב השיער החיפאי יש תכניות אחרות...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537483/",
+       "id": "537483",
+       "season": 2
+      },
+      {
+       "name": "בואו לאכול איתי עונה 2 | פרק 1 - שבוע חיפה והקריות, יום א'",
+       "logo": "https://www.kan.org.il/media/1eljoetz/image1.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nl9ktzkq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-19",
+       "plot": "ראשון המארחים הוא איציק כרסנטי, מעצב שיער חיפאי ידוע ,חד אבחנה ולשון. המתמודדים יתקבלו לארוחת ערב מלכותית במהלכה יתוודעו איש לרעהו עד לרגע בו יפתיע את שולחן אורח בלתי צפוי שיגביר את המתח סביב השולחן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s2/537480/",
+       "id": "537480",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 1 | פרק 1",
+       "logo": "https://www.kan.org.il/media/xqph03fe/2019-8-20-imgid-18925_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mmctgjv9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חיים, מיסטיקן ביסקסואל, מקבל מסר רוחני שאחת המשתתפות מכשפה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/s1/88374/",
+       "id": "88374",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בואו לאכול איתי עונה 10 | טריילר",
+       "logo": "https://www.kan.org.il/media/rtdgec2p/פרומו-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227022/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-19",
+       "plot": "התוכנית האהובה עליכם חוזרת לעונה של פעם בעשור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/1078602/",
+       "id": "1078602"
+      },
+      {
+       "name": "בואו לאכול איתי - ספיישל פסח | טריילר",
+       "logo": "https://www.kan.org.il/media/qs0pg53f/1080x1920_בואו_לאכול_איתי_פסח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185729/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-05",
+       "plot": "התגעגעתם? בשלנים מיוחדים במינם הגיעו להרים לכם את המנות הכשרות לפסח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/1023506/",
+       "id": "1023506"
+      },
+      {
+       "name": "בואו לאכול איתי | טריילר",
+       "logo": "https://www.kan.org.il/media/lmzhnr4j/פרק-18-בואו-לאכול-איתי-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ldp1hqh0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-15",
+       "plot": "חבורה של חובבי בישול יארחו אחד את השני ויתחרו על תואר הארוחה הכי טובה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/902925/",
+       "id": "902925"
+      },
+      {
+       "name": "בואו לאכול איתי - הצצה | שבעים? לא בטוח",
+       "logo": "https://www.kan.org.il/media/mcciuexh/בואו-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xjwxpzqm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "לאורחים יש המון על מה לדבר, אולי בגלל זה הם לא ממש אכלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/856200/",
+       "id": "856200"
+      },
+      {
+       "name": "בואו לאכול איתי - הצצה | איפה אתה ואיפה אינטליגנט?",
+       "logo": "https://www.kan.org.il/media/ej2ntowf/בואו-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yxg5v6lk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "אבי חושב שהם הזוג האידיאלי לתחרות, וגם שהוא אינטליגנט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11843/856190/",
+       "id": "856190"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

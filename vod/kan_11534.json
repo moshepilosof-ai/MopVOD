@@ -1,0 +1,1539 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - המרדף",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11534/",
+   "series_id": "11534",
+   "updated": "2026-10-28 09:59",
+   "sub_categories": [
+    {
+     "name": "עונה 9",
+     "channels": [
+      {
+       "name": "המרדף עונה 9 | פרק 32",
+       "logo": "https://www.kan.org.il/media/mz5c4jwm/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1shori3k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-27",
+       "plot": "משחק הטלוויזיה החכם בישראל! האם ארבעה מתמודדים מבריקים יצליחו ביחד לגבור על הצ'ייסרית מיכל שרון, ולברוח עם הכסף שצברו? מנחה: הילה קורח. התכנית מלווה בכתוביות סמויות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/945862/",
+       "id": "945862",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 24",
+       "logo": "https://www.kan.org.il/media/zildvsfp/המרדף.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_of55e07g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-21",
+       "plot": "מנהל קמפיינים, זמרת, מנהל טיפול בספארי ועובדת במשרד ממשלתי יעלו כאיש אחד מול הצ'ייסר, איתי הרמן. האם יש להם סיכוי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/943988/",
+       "id": "943988",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 34",
+       "logo": "https://www.kan.org.il/media/1mqnf1zk/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890591/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-30",
+       "plot": "בפעם האחרונה לעונה זו ינסו צוות המונה את דובר עיריית דימונה, הייטקיסטית, אחמ”שית ואנימטור להביס את הצ’ייסר איתי הרמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/936627/",
+       "id": "936627",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 31",
+       "logo": "https://www.kan.org.il/media/rmwjsepu/המרדף-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jvibpvjw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-30",
+       "plot": "האם ארבעה מתמודדים מבריקים יצליחו ביחד לגבור על הצ'ייסרית ולברוח עם הכסף שצברו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/936625/",
+       "id": "936625",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 28",
+       "logo": "https://www.kan.org.il/media/amljykib/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_24wb70l6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-30",
+       "plot": "הייטקיסט, אדריכלית, שדרן בגלגלצ וסטודנטית מנסים לגבור על הצ'ייסר שי סנדקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/936616/",
+       "id": "936616",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 27",
+       "logo": "https://www.kan.org.il/media/fezhah35/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ts2pfdv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-30",
+       "plot": "מנכ\"לית חברת טכנולוגיה, חייל, פרמדיקית במד\"א ומהנדס, עושים יד אחת נגד הצ'ייסר איתי הרמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/936613/",
+       "id": "936613",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 21",
+       "logo": "https://www.kan.org.il/media/llshyinf/המרדף-21-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_az5zv15z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-30",
+       "plot": "סטודנטית, מנהל ספרייה, עובדת עם ילדים בגיל הרך וגם השחקן והמדבב תמיר גינזבורג ינסו לברוח מהצ'ייסרית מיכל שרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/936503/",
+       "id": "936503",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 30",
+       "logo": "https://www.kan.org.il/media/u14cspzy/המרדף30.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mho7jn2r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-16",
+       "plot": "עובד בלגו, עובדת במשתלה, פרמדיק ומורה ינסו לברוח לצ'ייסר, איתי הרמן. האם המזל והידע לטובתם? מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/932165/",
+       "id": "932165",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 29",
+       "logo": "https://www.kan.org.il/media/mziluodz/המרדף29.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_80apn1xh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-16",
+       "plot": "איש ההוצאה לפועל, סטודנטית לרפואת שיניים, רופא נשים וסטודנטית ישלבו כוחות מול הצ'ייסר איתי הרמן. האם הם ינצחו במשחק?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/932161/",
+       "id": "932161",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 25",
+       "logo": "https://www.kan.org.il/media/5hdiuzfc/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7xicsbq4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-16",
+       "plot": "תסריטאית ומחזאית, מתכנתת, סטודנט לרפואה וחקלאי ינסו להביס את הצ'ייסר, איתי הרמן. האם הם יברחו עם הכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/932152/",
+       "id": "932152",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 33 - ספיישל מוזיקה",
+       "logo": "https://www.kan.org.il/media/lbyhtxgu/פרק-34-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1889165/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "הכלים מכוונים, מיתרי הקול בהיכון, הקהל מצפה – ספיישל מוזיקה של המרדף יוצא לדרך! האם גיא מזיג, מוקי, אפרת גוש וגיא ויהל הם הלהקה המנצחת שתשבור את הצ'ייסר, איתי הרמן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/931047/",
+       "id": "931047",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 26",
+       "logo": "https://www.kan.org.il/media/f2opudmn/פרק-26-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fe77ddbz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "תסריטאי, הייטקיסט, סטודנטית ואשת תקשורת ינסו להביס את הצ'ייסרית, מיכל שרון. האם הם יעמדו במשימה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/931039/",
+       "id": "931039",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 18",
+       "logo": "https://www.kan.org.il/media/ap3jipto/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qk8tw7sc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "די ג׳יי מתל אביב, רופא משפחה מטייבה, ארומתרפיסטית מתל מונד, ומדען ממכון ויצמן ינסו לאתגר את שי סנדקה, הצ׳ייסר החדש. מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/931036/",
+       "id": "931036",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 22 - ספיישל חזרה ללימודים",
+       "logo": "https://www.kan.org.il/media/5zgkknwp/המרדף-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ur113bro/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "שנה חדשה מתחילה, והפעם, שני מורים ושני תלמידי תיכון ישלבו כוחות נגד הפרופסור של הידע הכללי - איתי הרמן. מי יהיה המצטיין בשיעור?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/929706/",
+       "id": "929706",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 23",
+       "logo": "https://www.kan.org.il/media/jrvd43mu/s0493708_100_00_46_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bun2jave/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "מורה פרוע לתנ\"ך, סטודנטית, מנהל פרויקטים וסבתא גאה ינסו לתת בראש לצ'ייסר שי סנדקה. האם יש להם את הכוח והמוח?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/929696/",
+       "id": "929696",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 20",
+       "logo": "https://www.kan.org.il/media/g1soez5t/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b59tmfah/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "תסריטאי, שחקנית, עיתונאי ואשת תקשורת ינסו לברוח מהאיש שיודע הכל, הצ'ייסר איתי הרמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/929690/",
+       "id": "929690",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 19",
+       "logo": "https://www.kan.org.il/media/skapwoep/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1s8rcluy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "פותר בעיות מקצועי, מתאגרפת, חוקר צמחים וסמנכ\"לית בארגון טרנסי ינסו להביס את הצ'ייסר, איתי הרמן. מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/929682/",
+       "id": "929682",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 17",
+       "logo": "https://www.kan.org.il/media/wr5i00zt/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s3m7ceao/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "צורפת, גיאולוג, עורכת דין ומורה לנהיגה יעמדו כאיש אחד מול הצ'ייסרית, מיכל שרון. האם הם יברחו עם הכסף? מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/929675/",
+       "id": "929675",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 15",
+       "logo": "https://www.kan.org.il/media/a0hdlvni/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q90gv5ng/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-09",
+       "plot": "עורך חדשות, סטודנטית למשחק, מורה ודוורית בדואר ישראל ינסו להביס את הצ'ייסרית, מיכל שרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/929665/",
+       "id": "929665",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 10 - ספיישל מלון הוטל",
+       "logo": "https://www.kan.org.il/media/iozemdtq/המרדף-עונה-9-פרק-10-ספיישל-חופשות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qxtakwfg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-26",
+       "plot": "הקיץ הגיע וזה בדיוק הזמן לחגוג את היציאה לחופש עם כוכבי ''מלון הוטל'' של ''כאן חינוכית'': רוני הדר, יניב פולישוק, דניס טל ואביעד בנטוב. האם השמש תזרח עליהם? מנחה: הילה קורח. התכנית מלווה בכתוביות סמויות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/925574/",
+       "id": "925574",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 14",
+       "logo": "https://www.kan.org.il/media/tpilrcxt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hx271o50/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-23",
+       "plot": "מנהלת מוצר, סייעת לרופא שיניים, סוכן נסיעות והסטנדאפיסט שלמה בייבי בייבי ינסו לגבור יחד על הצ'ייסר. האם הם יעמדו במשימה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/924034/",
+       "id": "924034",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 11 - צ'ייסר חדש",
+       "logo": "https://www.kan.org.il/media/v0ln3din/המרדף.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nh4ctsy0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-23",
+       "plot": "לראשונה מזה 7 שנים, צ'ייסר חדש ואימתני מצטרף לנבחרת. קבלו את שי סנדקה! האם הוא יצליח לגבור על ארבעת המתחרים הלהוטים שהגיעו לאולפן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/924024/",
+       "id": "924024",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 12",
+       "logo": "https://www.kan.org.il/media/qwcn3z4l/טאמנייל-המרדף-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q4ze8ra5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "הייטקיסטית, יועצת אסטרטגית, מורה דרך וגם הסופר והיזם תמיר מנדובסקי ינסו לשבור את הצייסר איתי הרמן. מנחה: הילה קורח. התכנית מלווה בכתוביות סמויות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894940/",
+       "id": "894940",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 13",
+       "logo": "https://www.kan.org.il/media/b25g4jr0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n4fl1you/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "שחקנית ומנחה, סופרת ומאיירת, סטודנט, ואינסטלטור ינסו להביס את הצ'ייסר, איתי הרמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894939/",
+       "id": "894939",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 16",
+       "logo": "https://www.kan.org.il/media/lvyeufnx/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cokg4o16/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "מרצה לחינוך מיני, יוצר דוקומנטרי, קלינאית תקשורת ושופטת הכדורגל ספיר ברמן יאחדו כוחות מול הצ'ייסר איתי הרמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894938/",
+       "id": "894938",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 9",
+       "logo": "https://www.kan.org.il/media/jnafr5fo/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vsdz63yh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "מנהל מחלקת גבייה, סטודנטית, נהג אמבולנס וקולנוענית ינסו לברוח מהצ'ייסרית, מיכל שרון. מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894937/",
+       "id": "894937",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 8 - ספיישל קולינרי",
+       "logo": "https://www.kan.org.il/media/b0pjlihu/המרדף.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zojrj8tw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "האם ארבעת הבשלנים - הילה אלפרט, ברק יחזקאלי, אסף דוקטור ואסטלה - יגישו לצ'ייסר מנה שתפיל אותו מהרגליים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894936/",
+       "id": "894936",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 7",
+       "logo": "https://www.kan.org.il/media/ayzhwx35/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wwkt9reb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "צוות של אשת משאבי אנוש, רואה חשבון, ג'ודאית בנבחרת ישראל וסטודנט למשפטים ותקשורת מול הצ'ייסרית מיכל שרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894935/",
+       "id": "894935",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 6",
+       "logo": "https://www.kan.org.il/media/i4zk5mjp/המרדף-תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gxh1tlxt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "צוות שמורכב ממנהלת ארכיון שואה, נהג מונית, פיזיותרפיסט ומנהלת בעמותה של הקשת הטראנסית ינסו לזכות בכסף מבלי להיתפס על ידי הצ'ייסר. מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894934/",
+       "id": "894934",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 5",
+       "logo": "https://www.kan.org.il/media/r5poz0uu/screenshot-2025-05-25-084937.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5gkoowai/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "מנהל קהילת בינה מלאכותית, מנהלת עמותה, סטודנט ופסיכולוגית חינוכית יתמודדו כאיש אחד מול הצ'ייסר. מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894933/",
+       "id": "894933",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 4",
+       "logo": "https://www.kan.org.il/media/m2wczgkt/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sgvatvt4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "איש סושיאל, סטודנטית לתקשורת, מטפלת הוליסטית וחוקר מקרא יעמדו כאיש אחד מול הצ'ייסר, איתי הרמן. מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894932/",
+       "id": "894932",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 3",
+       "logo": "https://www.kan.org.il/media/xe0nhxhf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3mwah857/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "כתבת ב\"גלובס\", איש סייבר, סטארטאפיסט וגם השחקן תובל שפיר ינסו להביס את הצ'ייסרית, מיכל שרון. מנחה: הילה קורח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894931/",
+       "id": "894931",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 2",
+       "logo": "https://www.kan.org.il/media/upujbq04/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c6dkdey5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "משחק הטלוויזיה החכם ביותר בישראל בעונה חדשה עם מנחה חדשה: הילה קורח. האם שחקן תיאטרון, סטודנטית למשפטים, יוצא ריאליטי והיסטוריונית יצליחו לשלב כוחות ולברוח מהצ'ייסר עם הכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894930/",
+       "id": "894930",
+       "season": 9
+      },
+      {
+       "name": "המרדף עונה 9 | פרק 1",
+       "logo": "https://www.kan.org.il/media/fhseqg5i/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ofzlzo6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "משחק הטלוויזיה החכם ביותר בישראל פותח עונה חדשה עם מנחה חדשה - הילה קורח! האם עורכת ספרי ילדים, מנהל פרויקטים במכון מחקר חרדי, מורה לפסיכומטרי וצעיר בשירות לאומי יצליחו לשלב כוחות ולברוח מהצ'ייסר עם הכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s9/894929/",
+       "id": "894929",
+       "season": 9
+      }
+     ]
+    },
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "המרדף עונה 8 | פרק 1",
+       "logo": "https://www.kan.org.il/media/f2npzj12/vlcsnap-2024-06-09-10h10m27s108.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y0ln7kag/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-09",
+       "plot": "ארבעה מתמודדים חדשים - מתכננת ערים, סקיפר גמלאית וזמר - ינסו לצבור כמה שיותר כסף ולברוח איתו מהצ'ייסר איתי הרמן. האם הם ינצחו במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s8/759153/",
+       "id": "759153",
+       "season": 8
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "המרדף 7 - פרק 30",
+       "logo": "https://www.kan.org.il/media/kvti0ggl/אתר-30.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oj5tdwnb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-13",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמשחק הטלוויזיה המהיר בישראל! כאשר מאחדים את הידע הכללי של אשת תאטרון, מתכנת, גמלאית וחשמלאי – האם יש סיכוי לנצח במרדף ולברוח עם הכסף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/393370/",
+       "id": "393370",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 29",
+       "logo": "https://www.kan.org.il/media/hxvk25uf/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6wat86z1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-13",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמשחק הטלוויזיה החכם ביותר בישראל! והפעם: צוות מיוחד ינסה להשתלט על האולפן ולחטוף את הפרס! האם כוכבי \"פאודה\" – איציק כהן, מירב שירום, דורון בן דוד ויעקב דניאל זדה – יצליחו במשימה מול האויב האכזר, הצ'ייסר? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/393369/",
+       "id": "393369",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 28",
+       "logo": "https://www.kan.org.il/media/qgcbadhs/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jbglbr43/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-13",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמנכ\"לית, עובדת בטכניון, עו\"ד וסוכן ביטוח ינסו להתמודד מול הצ'ייסר. האם הם ינצחו במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/393368/",
+       "id": "393368",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 36",
+       "logo": "https://www.kan.org.il/media/vaecrky2/image.jpeg",
+       "url": "https://www.youtube.com/embed/bS8F9xoNxxg",
+       "date": "2023-06-07",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nיועצת זוגית, סטודנט למדעי המחשב, עורך דין ומנהלת חשבונות ינסו לגבור על הצ'ייסר, איתי הרמן. האם יש להם סיכוי לנצח במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/390025/",
+       "id": "390025",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 35",
+       "logo": "https://www.kan.org.il/media/o44hwztw/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hgt5cg68/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-07",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nעובד נמל, קלינאית תקשורת, מחזאית ועובד סוציאלי ינסו להתמודד מול הצ'ייסר. האם הם ינצחו במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/390024/",
+       "id": "390024",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 34",
+       "logo": "https://www.kan.org.il/media/4xtbdsn0/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b451283l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-07",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nשני מנהלי קריאייטיב, סופר ומנהלת תוכן ינסו לגבור על הצ'ייסר, איתי הרמן. האם יש להם סיכוי לנצח במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/390023/",
+       "id": "390023",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 33",
+       "logo": "https://www.kan.org.il/media/sznfj3tz/קאבר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hzypzj2o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמנהל סניף \"ידידים\", פוטותרפיסטית, מוזיקאית ופנסיונרית ינסו לגבור על הצ'ייסר, איתי הרמן. האם יש להם סיכוי לנצח במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/385585/",
+       "id": "385585",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 32",
+       "logo": "https://www.kan.org.il/media/jdhgqrba/קאבר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ligjyzuc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-03",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמרצה על גיימינג, עובד בנגרייה, ושני עורכי דין ינסו לגבור על הצ'ייסרית, מיכל שרון. האם יש להם סיכוי לנצח במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/385554/",
+       "id": "385554",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 31",
+       "logo": "https://www.kan.org.il/media/cvaeofdb/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vsivbeih/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-29",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nחוקר משטרה, מנהלת בהיי-טק, ליצן רפואי ומורה למתמטיקה ינסו לגבור על מפלצת הטריוויה חסרת המעצורים. האם יש להם סיכוי לנצח במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/378901/",
+       "id": "378901",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 27",
+       "logo": "https://www.kan.org.il/media/uvjlpapi/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4fe101my/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-29",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nליצן חינוכי, צלמת סטילס, מהנדסת בהייטק ואברך ינסו יחד לגרום לצ'ייסר, איתי הרמן, לאכול את הכובע. האם הם יצליחו במשימה? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/378898/",
+       "id": "378898",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 26",
+       "logo": "https://www.kan.org.il/media/i44j2yyr/imgid-100147_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mghunmjt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nעובדת מדינה, חוקר אסטרונומיה, מנהלת תחום ורכז ספורט מנסים לעשות את הבלתי אפשרי ולנצח בקרב שכולו ידע כללי ומהירות מחשבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371875/",
+       "id": "371875",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 25",
+       "logo": "https://www.kan.org.il/media/t5ikjg2p/imgid-100146_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w2ae6m2h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nסגן ראש עריית ת\"א, מנהלת משאבי אנוש, מנהל היכל התרבות יבנה ויועצת דאטה מנסים לעשות את הבלתי אפשרי ולנצח בקרב שכולו ידע כללי ומהירות מחשבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371873/",
+       "id": "371873",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 24",
+       "logo": "https://www.kan.org.il/media/bs3fvo1k/imgid-100145_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hwhc85i3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nכותב תוכן, בעלת משרד יחסי ציבור, איש תקשורת ועובדת סוציאלית מנסות לעשות את הבלתי אפשרי ולנצח בקרב שכולו ידע כללי ומהירות מחשבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371871/",
+       "id": "371871",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 23",
+       "logo": "https://www.kan.org.il/media/tihajzel/imgid-100143_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_44ouu1dp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהאם הכותרת של שעשועון הטריוויה תהיה שהכתב הפוליטי, יניר קוזין, הביס את איתי הרמן? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371869/",
+       "id": "371869",
+       "season": 7
+      },
+      {
+       "name": "המרדף 7 - פרק 22",
+       "logo": "https://www.kan.org.il/media/srlkpyv5/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rwcwqfx7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהאם השחקן והקומיקאי תומש (תומר שרון) יצליח לגייס את חבריו ולנצח את הצ'ייסרית מיכל שרון, או שבסוף המשחק הבדיחה תהיה כולה על חשבונו? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371867/",
+       "id": "371867",
+       "season": 7
+      },
+      {
+       "name": "המרדף 7 - פרק 21",
+       "logo": "https://www.kan.org.il/media/e15nlqvi/s0421181-digital00_00_22_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_smu2wodx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהאם השורד ואיש הטבע דן-דן בלוטין יצליח להוביל את קבוצתו לניצחון, או שהצ'ייסר ידיח אותם אחד אחד? מגיש: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371860/",
+       "id": "371860",
+       "season": 7
+      },
+      {
+       "name": "המרדף | עונה 7 - פרק 20",
+       "logo": "https://www.kan.org.il/media/slxpuza4/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iw184rgb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nליצן, מהנדסת תוכנה, מרצה באוניברסיטה, ושחקן ודוגמן שכולם מכירים. האם זה יספיק כדי לנצח במשחק ולהביס את הצ'ייסר? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371857/",
+       "id": "371857",
+       "season": 7
+      },
+      {
+       "name": "המרדף 7 - פרק 19",
+       "logo": "https://www.kan.org.il/media/jjpf5pu3/imgid-100074_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lm1ngy4v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמצד אחד - דוקטורנטית, רואה חשבון, קריינית בספרייה לעיוורים ומורה למתמטיקה שהפך לכוכב טיקטוק. מהצד השני – הצ'ייסרית, מיכל שרון. מי ינצח במרדף? מנחה: עידו רוזנבלום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371855/",
+       "id": "371855",
+       "season": 7
+      },
+      {
+       "name": "המרדף 7 - ספיישל ספרותי",
+       "logo": "https://www.kan.org.il/media/czdbsp4b/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oe3fta3a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nלכבוד שבוע הספר העברי, איחוד חד פעמי של ארבע סופרות – נועה ידלין, שפרה קורנפלד, יוכי ברנדס ודורית רביניאן – שמגיעות לנסות לתת פייט לצ'ייסר. מנחה: עידו רוזנבלום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371852/",
+       "id": "371852",
+       "season": 7
+      },
+      {
+       "name": "המרדף 7 - פרק 17",
+       "logo": "https://www.kan.org.il/media/3ftbnjcf/imgid-100071_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_splxmnhl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמורה לעברית, פעיל פוליטי, מנהלת חנות ועורך תוכן נפגשים כדי לתת פייט לאיש שהידע הכללי שלו כללי מאוד – הצ'ייסר, איתי הרמן. מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371847/",
+       "id": "371847",
+       "season": 7
+      },
+      {
+       "name": "המרדף 7 - פרק 16",
+       "logo": "https://www.kan.org.il/media/3bch2fv1/imgid-100068_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wmzef710/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמשחק הטריוויה האהוב בישראל מפגיש הפעם עיתונאי, סטודנטית לבלשנות, סטראטאפיסט ומנהלת פרויקטים. יחד הם ינסו לגבור על הצ'ייסר, איתי הרמן, שלא מתכוון לעשות להם חיים קלים... מנחה: עידו רוזנבלום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/371845/",
+       "id": "371845",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 11",
+       "logo": "https://www.kan.org.il/media/y2vcphzh/2023-4-20-imgid-98575_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lx118yy2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nשחק הטריוויה האהוב בישראל. והפעם: מעצבת פנים, אגרונום, מנהל חדשנות ויועצת תקשורת משלבים כוחות ומוחות כדי לנסות ולהביס את הצ'ייסר. האם יש להם סיכוי לנצח במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/164597/",
+       "id": "164597",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7  | פרק 14",
+       "logo": "https://www.kan.org.il/media/pwdbox2j/2023-4-20-imgid-98569_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9le253n7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהאיש שבמשך שנים אייש את עמדת המנחה מנסה את מזלו כמתמודד! אז האם יורם ארבל האגדי יוביל את חבריו לזכייה ולזעקת ''הללויה''? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/164591/",
+       "id": "164591",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 15",
+       "logo": "https://www.kan.org.il/media/3x2jyrrx/2023-4-19-imgid-98496_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_igetb97m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהאם הידע המשותף שיביאו מורה לכימיה, יוצרת תוכן, תסריטאי ואחות מיילדת יספיק כדי לנצח במשחק ולמחוק את החיוך הזחוח מפניו של הצ'ייסר? זה לגמרי לא בטוח... מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/164516/",
+       "id": "164516",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 10 - ספיישל עצמאות",
+       "logo": "https://www.kan.org.il/media/sr1hl3gy/2023-4-19-imgid-98479_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c6dbjspf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nאיזו גאווה ישראלית זו כשארבעה ספורטאים אולימפיים מתאחדים כדי לנסות ולהביס את הצ'ייסר! האם נועם גרשוני, ורד בוסקילה, טוהר אבוטבול ועודד מכנס יניפו את דגל הניצחון גם כאן? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/164480/",
+       "id": "164480",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 13",
+       "logo": "https://www.kan.org.il/media/id1lgkuu/2023-4-16-imgid-98209_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_llbewtbj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמשחק הטלוויזיה האהוב בישראל מפגיש הפעם שייטת לשעבר, רופא, עובד במפעל יודאיקה ומהנדסת. האם זה השילוב שישבור את בקופה? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/164282/",
+       "id": "164282",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 12",
+       "logo": "https://www.kan.org.il/media/sozhc50s/2023-4-16-imgid-98206_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xvbocnr1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהאם הרביעייה שהתכנסה הפעם היא התמהיל המדויק להביס את הצ'ייסרית? שחקן צעיר, רמת-גנית בין עבודות, כתבת תרבות ובידור והסטנדאפיסט שגיב פרידמן ינסו לחזור הבייתה בשלום, ועם הכסף. מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/164279/",
+       "id": "164279",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 9",
+       "logo": "https://www.kan.org.il/media/ra2jhnuk/https-kanstaticazureedgenet-download-pictures-2023-4-13-imgid-98045_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vcbm14k4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמי ינצח הפעם במשחק הטריוויה המהיר בישראל? האם תהיה זו הרביעייה המגובשת - מוזיקאי, מפתחת אלגוריתמים, אינסטלטור ומדריכת טיולים עם שיק צרפתי – או שהצ'ייסר ייצא עם ידו על העליונה? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/164150/",
+       "id": "164150",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 8",
+       "logo": "https://www.kan.org.il/media/0lnhnuu0/https-kanstaticazureedgenet-download-pictures-2023-4-4-imgid-97521_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_suukobvb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהאם אתם מוכנים למשחק הטריוויה המהיר בישראל? והפעם: קומיקאי, אדריכלית, לוביסט ומדריכה לרובוטיקה נחושים לא לתת לצ'ייסרית, מיכל שרון, לתפוס אותם. בסוף עוד משחק מותח - מי ינצח במרדף? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/163826/",
+       "id": "163826",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 7",
+       "logo": "https://www.kan.org.il/media/r1plwopd/https-kanstaticazureedgenet-download-pictures-2023-3-23-imgid-96676_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_abqku5wa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהצטרפו לעידו רוזנבלום ולצ'ייסר איתי הרמן בעוד ערב גדוש בשאלות טריוויה. והפעם: מנהלת רשתות חברתיות, מעצבת גרפית, בעלים של בר ושחקן ומרצה מסנים לעשות את הבלתי אפשרי ולנצח בקרב שכולו ידע כללי ומהירות מחשבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/163211/",
+       "id": "163211",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 6",
+       "logo": "https://www.kan.org.il/media/tiuo1nl0/https-kanstaticazureedgenet-download-pictures-2023-3-22-imgid-96588_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ipi1oqca/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nאפילו השחקן מולי שולמן ירד מבימת התאטרון כדי לנסות את מזלו (ומוחו!) כנגד הצ'ייסר, איתי הרמן. האם המתמודדים יצליחו לענות על יותר שאלות ויזכו בסכום שצברו במשותף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/163109/",
+       "id": "163109",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 5",
+       "logo": "https://www.kan.org.il/media/2xtfkskx/https-kanstaticazureedgenet-download-pictures-2023-3-21-imgid-96530_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l9up2grr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהפעם: סטודנטית, מנהל סיורי אוכל, אנליסטית עם חיבה לחתונות ומורה בסבב ב' ילמדו על בשרם מה קורה כשמעירים את הצ'ייסרית משנת היופי שלה... האם יש להם בכלל סיכוי לנצח במשחק? מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/163037/",
+       "id": "163037",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 4",
+       "logo": "https://www.kan.org.il/media/dnspcgyk/https-kanstaticazureedgenet-download-pictures-2023-3-21-imgid-96527_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hz570dbj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהם התקבצו יחד ארבעה: הפעילה דפני ליף, השחקן אורי יניב, רואה חשבון בגמלאות ויועצת לשרה לשעבר. המטרה: להישאר יחד, לנצח במשחק ולהרוויח כסף. אבל לצ'ייסר יש כמה תכניות משלו.... מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/163019/",
+       "id": "163019",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 3",
+       "logo": "https://www.kan.org.il/media/pzbbf15c/https-kanstaticazureedgenet-download-pictures-2023-3-14-imgid-95926_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u1vzkrs5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nמשחק הטריוויה האהוב בישראל חוזר בעונה חדשה. והפעם: מדריכת מיניות, דיפלומט, מורה למתמטיקה ואפילו השחקן נתי רביץ עושים יד אחת כדי לנסות ולהביס את הצ'ייסר. מנחה: עידו רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/162562/",
+       "id": "162562",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 2",
+       "logo": "https://www.kan.org.il/media/15adii2p/https-kanstaticazureedgenet-download-pictures-2023-3-6-imgid-95364_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yel9os7x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nעידו רוזנבלום שב לעמדת המנחה בעונה החדשה של השעשועון האהוב.\nהפעם: איש חינוך, מנחת פודקאסטים, גמלאית מאושרת ודאטה אנליסט מנסים להביס את הצ'ייסרית, מיכל שרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/161937/",
+       "id": "161937",
+       "season": 7
+      },
+      {
+       "name": "המרדף עונה 7 | פרק 1 - ספיישל פורים עם להקת טיפקס",
+       "logo": "https://www.kan.org.il/media/kpsnnghs/https-kanstaticazureedgenet-download-pictures-2023-3-6-imgid-95384_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_02bgv2z2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nהמרדף פותחת עונה חדשה עם ספיישל פורים היתולי ומוזיקלי! ועידו רוזנבלום חוזר לעמדת המגיש.\nמול הצ'ייסר איתי הרמן תתמודד להקת \"טיפקס\" בהרכב מלא. האם הם יחזרו הבייתה עם כסף, או אולי מגולגלים בתוך נייר עיתון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s7/161868/",
+       "id": "161868",
+       "season": 7
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "המרדף עונה 6 | ספיישל יום העצמאות",
+       "logo": "https://www.kan.org.il/media/mieffxbr/https-kanstaticazureedgenet-download-pictures-2022-2-10-imgid-69074_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kjeqxpzu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייהץ \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו במרדף ויברחו עם\n הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/141232/",
+       "id": "141232",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | ספיישל פורים",
+       "logo": "https://www.kan.org.il/media/01thnr3x/https-kanstaticazureedgenet-download-pictures-2022-2-18-imgid-69496_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kfep18rd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה \nלקראת פורים הקרב ובא, תוכנית מיוחדת עם נדב אבקסיס, עידן אלתרמן והצמד דובדבני וקובץ' שינסו להפוך לאנשים שהצ'ייסר חפץ ביקרם,\n ולצאת מהאולפן עם משלוח מנות שווה במיוחד... מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138432/",
+       "id": "138432",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 33",
+       "logo": "https://www.kan.org.il/media/mpbds53l/https-kanstaticazureedgenet-download-pictures-2022-9-29-imgid-82551_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_98j33f8y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138429/",
+       "id": "138429",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 32",
+       "logo": "https://www.kan.org.il/media/sfafubrs/https-kanstaticazureedgenet-download-pictures-2022-9-28-imgid-82496_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9g1kqzlk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייהץ \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138426/",
+       "id": "138426",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 31",
+       "logo": "https://www.kan.org.il/media/xymnshth/https-kanstaticazureedgenet-download-pictures-2022-9-18-imgid-81920_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yfhb8elc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייהץ \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים. והפעם: הצ'ייסרית מיכל שרון תנסה להביס צוות מגוון\n הכולל קומיקאית, מוסכניק, עורכת דין ואבא לשלושה. מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138423/",
+       "id": "138423",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 22",
+       "logo": "https://www.kan.org.il/media/k0gfjvgk/https-kanstaticazureedgenet-download-pictures-2022-2-8-imgid-68934_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_44z1lqpk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138420/",
+       "id": "138420",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 29",
+       "logo": "https://www.kan.org.il/media/liil1eov/2022-9-5-imgid-81062_b.jpeg",
+       "url": "https://www.youtube.com/embed/-kUwmi3iHig",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים מנסים לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים. והפעם: האם סיגל שחמון, שמכירה כמה שעשועוני טלוויזיה (אבל\n מהצד של ההנחייה), מחוזקת בביולוגית, יבואן ומנכ\"ל - תצליח לגרום לצ'ייסרית להזיע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138417/",
+       "id": "138417",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 28",
+       "logo": "https://www.kan.org.il/media/4a3cp3w3/https-kanstaticazureedgenet-download-pictures-2022-9-4-imgid-80981_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zyovq34d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים. והפעם: האם שנים של תחקירי עומק, ראיונות נוקבים\n וכתבות מסביב לעולם העניקו ליעקב אחימאיר את היתרון מול הצ'ייסר? מנחה: לוסי איוב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138414/",
+       "id": "138414",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 27",
+       "logo": "https://www.kan.org.il/media/nuyfasob/https-kanstaticazureedgenet-download-pictures-2022-2-2-imgid-68613_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mnsr2clt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138411/",
+       "id": "138411",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 26",
+       "logo": "https://www.kan.org.il/media/tgmc0yrj/https-kanstaticazureedgenet-download-pictures-2022-2-2-imgid-68597_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dcee6gvk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138408/",
+       "id": "138408",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 25",
+       "logo": "https://www.kan.org.il/media/wfzgbhac/https-kanstaticazureedgenet-download-pictures-2022-2-18-imgid-69497_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5n2txilp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138405/",
+       "id": "138405",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 24",
+       "logo": "https://www.kan.org.il/media/exunmt0f/https-kanstaticazureedgenet-download-pictures-2022-1-17-imgid-67731_aa.jpeg",
+       "url": "https://www.youtube.com/embed/t9p81Sfo6Vk",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם ינצחו במרדף ויברחו עם\n הכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138402/",
+       "id": "138402",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 23",
+       "logo": "https://www.kan.org.il/media/0o2d1bxp/https-kanstaticazureedgenet-download-pictures-2022-1-30-imgid-68400_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5k921ok6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפיי. \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו במרדף ויברחו עם \nהכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138399/",
+       "id": "138399",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 30",
+       "logo": "https://www.kan.org.il/media/drxnfowq/https-kanstaticazureedgenet-download-pictures-2022-9-13-imgid-81627_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_515i77hx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים ישלבו כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים. הפעם: ביום-יום שלהם, הסטודנטית, הרופאה ואמן הקרקס\n זקוקים לעצבים מברזל. האם הם ישמרו על קור רוח גם מול הצ'ייסר? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138396/",
+       "id": "138396",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 21",
+       "logo": "https://www.kan.org.il/media/jcffylur/https-kanstaticazureedgenet-download-pictures-2022-2-15-imgid-69320_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rznvosqh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138393/",
+       "id": "138393",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 20",
+       "logo": "https://www.kan.org.il/media/eoyd4iu3/https-kanstaticazureedgenet-download-pictures-2022-1-4-imgid-66997_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oyjva42c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nטייסת, יוטיובר וכתב כדורסל ינסו לאחד מוחות וכשרונות כדי לברוח עם הכסף הגדול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138390/",
+       "id": "138390",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 19",
+       "logo": "https://www.kan.org.il/media/hw2hwnmi/https-kanstaticazureedgenet-download-pictures-2022-1-30-imgid-68398_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yy2qrbfa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו במרדף ויברחו עם\n הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138387/",
+       "id": "138387",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 18",
+       "logo": "https://www.kan.org.il/media/1zidhsqn/https-kanstaticazureedgenet-download-pictures-2022-1-18-imgid-67797_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_foc9ubrv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו במרדף ויברחו עם\n הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138384/",
+       "id": "138384",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 17",
+       "logo": "https://www.kan.org.il/media/kv2lttps/https-kanstaticazureedgenet-download-pictures-2022-1-13-imgid-67515_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0nuh5zv7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו במרדף ויברחו עם\n הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138381/",
+       "id": "138381",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 16",
+       "logo": "https://www.kan.org.il/media/upwkovry/https-kanstaticazureedgenet-download-pictures-2022-1-14-imgid-67585_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1rgw5gw9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138378/",
+       "id": "138378",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 15",
+       "logo": "https://www.kan.org.il/media/w5alq3jv/https-kanstaticazureedgenet-download-pictures-2022-2-7-imgid-68857_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lmecf98k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138375/",
+       "id": "138375",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 14",
+       "logo": "https://www.kan.org.il/media/3xclbj3n/https-kanstaticazureedgenet-download-pictures-2022-1-26-imgid-68195_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k0eo95mm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים מנסים לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים. הפעם: במשך שנים הוא סינן מועמדים לגלי צה\"ל\n באמצעות מבחני ידע כללי קשים במיוחד – האם איש התקשורת משה שלונסקי יצליח היכן שרבים כל כך כשלו? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138372/",
+       "id": "138372",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 13",
+       "logo": "https://www.kan.org.il/media/b5lfbtbz/https-kanstaticazureedgenet-download-pictures-2022-1-3-imgid-66924_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5ggft53w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138369/",
+       "id": "138369",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 12",
+       "logo": "https://www.kan.org.il/media/g3ifw42k/https-kanstaticazureedgenet-download-pictures-2022-1-9-imgid-67267_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v6ofeot6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138366/",
+       "id": "138366",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 11",
+       "logo": "https://www.kan.org.il/media/ykkprd53/https-kanstaticazureedgenet-download-pictures-2022-1-5-imgid-67035_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r4lvsj5l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים. הפעם: העיתונאי חיים לוינסון, הפעיל החברתי אבי ילאו,\n מטפסת הרים חסרת פחד וחיילת לפני גיוס ינסו יחד להטריל את הצ'ייסר ולנצח במשחק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138363/",
+       "id": "138363",
+       "season": 6
+      },
+      {
+       "name": "המרדף | עונה 6 - פרק 10",
+       "logo": "https://www.kan.org.il/media/d11dst2s/https-kanstaticazureedgenet-download-pictures-2022-1-3-imgid-66923_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ofok6ut/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב\nוהפעם: עם זמרת אופרה וחובב הבי מטאל, האם הרביעייה תגיע לאקורד סיום מוצלח מול הצ'ייסרית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138360/",
+       "id": "138360",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 9",
+       "logo": "https://www.kan.org.il/media/g2ghq11i/https-kanstaticazureedgenet-download-pictures-2022-1-9-imgid-67263_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iyr569q5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138357/",
+       "id": "138357",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 8",
+       "logo": "https://www.kan.org.il/media/p2omoafa/https-kanstaticazureedgenet-download-pictures-2022-1-3-imgid-66922_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pwnf1mth/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה ידענים משלבים כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים. והפעם: עורכת חדשות, טיקטוקר, מורה לאנגלית ומגלה\n ארצות (כן כן!) מאחדים כוחות נגד האישה בשחור, מיכל שרון. מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138354/",
+       "id": "138354",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 7",
+       "logo": "https://www.kan.org.il/media/fdojjoeu/https-kanstaticazureedgenet-download-pictures-2022-1-6-imgid-67134_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mq9eteif/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138351/",
+       "id": "138351",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 6",
+       "logo": "https://www.kan.org.il/media/ppshsx2p/https-kanstaticazureedgenet-download-pictures-2022-1-3-imgid-66919_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n6x1v47m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nלוסי איוב מצטרפת לצ'ייסרים איתי הרמן ומיכל שרון ומנחה את השעשועון האהוב בישראל. והפעם: סטנד-אפיסטית דו לשונית, גמלאי, מורה\n לערבית ויזמית סטארט אפ מגיעים לנסות ולתת בראש. האם הם ינצחו במרדף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138348/",
+       "id": "138348",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 5",
+       "logo": "https://www.kan.org.il/media/nbfhnwg5/https-kanstaticazureedgenet-download-pictures-2022-1-3-imgid-66914_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lmzdsyhd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138345/",
+       "id": "138345",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 4",
+       "logo": "https://www.kan.org.il/media/kp5nliyr/https-kanstaticazureedgenet-download-pictures-2022-1-6-imgid-67133_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l0n1b6al/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138342/",
+       "id": "138342",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 3",
+       "logo": "https://www.kan.org.il/media/uqrp1nh3/https-kanstaticazureedgenet-download-pictures-2021-12-20-imgid-66160_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4z9j79sa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nעונה שישית. ארבעה ידענים ינסו לשלב כוחות ומוחות במטרה להביס את הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. האם הם ינצחו\n במרדף ויברחו עם הכסף? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138339/",
+       "id": "138339",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 2",
+       "logo": "https://www.kan.org.il/media/3mbpz5kc/https-kanstaticazureedgenet-download-pictures-2021-12-20-imgid-66158_aa.jpeg",
+       "url": "https://www.youtube.com/embed/nTHwfD1bVy4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nארבעה מתמודדים ינסו לברוח מהצ'ייסר ולקחת את כל הקופה. והפעם: היי, ידידיי, זה איש הרדיו דורי בן זאב! האם הוא ישדר דווקא אותות\n מצוקה? מנחה: לוסי איוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138336/",
+       "id": "138336",
+       "season": 6
+      },
+      {
+       "name": "המרדף עונה 6 | פרק 1",
+       "logo": "https://www.kan.org.il/media/bs0jx4kr/https-kanstaticazureedgenet-download-pictures-2021-12-26-imgid-66510_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gc60zwwg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. \nלוסי איוב מצטרפת לצ'ייסרים איתי הרמן ומיכל שרון ותנחה את משחק הטריוויה האהוב בישראל. והפעם: האם פרשן הכדורגל\n אבי מלר יובל את קבוצתו לניצחון סוחף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s6/138333/",
+       "id": "138333",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "המרדף | עונה 5 - פרק 39",
+       "logo": "https://www.kan.org.il/media/p5rpuag3/2021-3-18-imgid-49310_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_swhkyde1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים. והפעם: ספיישל אלוף האלופים. ארבעה מתמודדים בולטים מקבלים הזדמנות נוספת לנצח את שני הצ'ייסרים במקביל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126658/",
+       "id": "126658",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 38",
+       "logo": "https://www.kan.org.il/media/5nheegx0/2021-3-4-imgid-48488_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_050mjse2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לגבור על הצ'ייסרים האימתניים. והפעם: מלכת דראג, מנהל מרכז לעיוור ושדרנית רדיו לשעבר מאחדים כוחות כדי לנצח במשחק. האם הם יצליחו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126654/",
+       "id": "126654",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 37",
+       "logo": "https://www.kan.org.il/media/vwanrp0i/2021-3-4-imgid-48487_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_awmrqixm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לגבור על הצ'ייסרים האימתניים. והפעם: ארבעה מתמודדים רעבים ינסו לענות על כמה שיותר שאלות. האם יצליחו לברוח מהצ'ייסר ולזכות בכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126651/",
+       "id": "126651",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 36",
+       "logo": "https://www.kan.org.il/media/yofb20dp/2021-1-25-imgid-46156_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x6cipni7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: האם המדליסט האולימפי אריק זאבי יצליח לעשות איפון ולהוביל את קבוצתו לנצחון היסטורי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126413/",
+       "id": "126413",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 35",
+       "logo": "https://www.kan.org.il/media/2gdf5i4l/2021-5-5-imgid-52327_b.jpeg",
+       "url": "https://www.youtube.com/embed/VoN2SlnraRw",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: קצין משטרה וכתב לענייני משטרה מוצאים את עצמם משתפים פעולה מול מפלצת הטריוויה הרעבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126410/",
+       "id": "126410",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 34",
+       "logo": "https://www.kan.org.il/media/kg4fhi1s/2021-3-4-imgid-48486_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tupq4ivy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לגבור על הצ'ייסרים האימתניים. והפעם: בדרך כלל הוא מככב במבזקי החדשות, אבל האם ח\"כ עופר כסיף יככב גם במשחק הטריוויה הקשוח בישראל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126407/",
+       "id": "126407",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 33",
+       "logo": "https://www.kan.org.il/media/otihsmue/2021-2-23-imgid-47914_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d3yovys9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים. והפעם: היישר מהאטליז של \"שפע יששכר\", דניאל \"אנטולי\" סטיופין מגיע לשחק ולנסות להרוויח קופה ראשית משלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126404/",
+       "id": "126404",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 32",
+       "logo": "https://www.kan.org.il/media/fb5epdfy/2021-2-21-imgid-47813_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wclmxqvd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. שעשועון הידע זוכה הפרסים בהנחייתו של עידו רוזנבלום. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים - איתי הרמן ומיכל שרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126401/",
+       "id": "126401",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 30",
+       "logo": "https://www.kan.org.il/media/upbgwzxy/2021-2-21-imgid-47812_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_31slxk9w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים. והפעם, כתב גל\"צ רמי שני לוקח הפסקה מעיסוקיו בדרום הארץ כדי לנסות את כאן את כוחו - ובעיקר את מוחו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126398/",
+       "id": "126398",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 29",
+       "logo": "https://www.kan.org.il/media/vsln3ye2/2021-2-21-imgid-47808_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_69g7agzl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים. והפעם, אגדת הכדורסל עידו קוז'יקרו ואושיית הרשת \"הפשוטע\" עושים יד אחת כדי לנסות ולנצח במשחק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126395/",
+       "id": "126395",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 31 - ספיישל עצמאות",
+       "logo": "https://www.kan.org.il/media/0kjm0yt1/2021-2-15-imgid-47444_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c0oax3nm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה\nמחווה לסרט המיתולוגי \"גבעת חלפון אינה עונה\" עם גברי בנאי (ג'ינג'י), מיקי קם (שפרה), חנה לסלאו (חרמונה) וטוביה צפיר (שמגר). יחד הם\n יתמודדו מול הצ'ייסר בשאלות טריוויה על תולדות העם, המדינה וההומור העברי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126393/",
+       "id": "126393",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 28",
+       "logo": "https://www.kan.org.il/media/afpgvjfk/2021-1-25-imgid-46153_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7d83oq5l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים - איתי הרמן ומיכל שרון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126391/",
+       "id": "126391",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 25",
+       "logo": "https://www.kan.org.il/media/dg3huh1a/2021-3-14-imgid-49097_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d7poqofa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שעשועון הידע זוכה הפרסים בהנחייתו של עידו רוזנבלום. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: האם דייל האוויר החייכן ראה מספיק עולם וצבר מספיק ידע כדי לנצח במשחק?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126389/",
+       "id": "126389",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 24",
+       "logo": "https://www.kan.org.il/media/f1aipvri/2021-3-3-imgid-48484_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dlgh201a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: כל אחד ברביעייה שלנו נחוש לנצח במשחק, אבל האם הם יידעו לעבוד ביחד כצוות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126386/",
+       "id": "126386",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 26",
+       "logo": "https://www.kan.org.il/media/a1epxovj/2021-3-15-imgid-49140_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xwwec92g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. הפעם, איזה שם תעשי לעצמך במשחק כשאת האישה עם אחד השמות הכי מיוחדים בישראל?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126042/",
+       "id": "126042",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 23",
+       "logo": "https://www.kan.org.il/media/hwnlxwne/2021-2-11-imgid-47199_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0dqdyg17/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: הלוביסטית המשופשפת כבר פגשה חברי כנסת קשוחים... אבל הצ'ייסר זה כבר סיפור אחר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126039/",
+       "id": "126039",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 22",
+       "logo": "https://www.kan.org.il/media/r4tnl5m2/2021-1-25-imgid-46148_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fokp6uap/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים. והפעם: אחרי שהבת שלה ניסתה את מזלה מול הצ'ייסר, הגיע תורה של אמא דעתנית לנסות ולצאת עם קופה יפה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126036/",
+       "id": "126036",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 21 - ספיישל פורים חגיגי בהשתתפות כוכבי היהודים באים!",
+       "logo": "https://www.kan.org.il/media/omgfcvyv/2021-2-23-imgid-46601_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6vaow1i2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. והפעם: ספיישל פורים בהשתתפות כוכבי \"היהודים באים\"! האם יעל שרוני, יוסי מרשק, עידו מוסרי ויניב ביטון יצליחו לבלבל את איתי הרמן עדלאידע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126033/",
+       "id": "126033",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 20",
+       "logo": "https://www.kan.org.il/media/l3cgi1o3/2021-1-17-imgid-45624_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1f0f74pn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לגבור על הצ'ייסרים האימתניים. והפעם: אם ננסי ברנדס שולף תשובות לשאלות טריוויה כמו שהוא שולף בדיחות, הצ'ייסר שלנו בבעיה גדולה...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/126025/",
+       "id": "126025",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 19",
+       "logo": "https://www.kan.org.il/media/ih3ob4xy/2021-2-14-imgid-47330_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_coaubsvz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים - איתי הרמן ומיכל שרון. והפעם: האם מגיש ההסכתים ההיסטוריים יצליח לעשות היסטוריה במשחק?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/125979/",
+       "id": "125979",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 18",
+       "logo": "https://www.kan.org.il/media/qujhaqwl/2021-2-7-imgid-46983_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ufwvfl55/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים - איתי הרמן ומיכל שרון. והפעם: האם העיתונאית אמילי עמרוסי תוביל את הקבוצה לניצחון ולתהילה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/125976/",
+       "id": "125976",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 15",
+       "logo": "https://www.kan.org.il/media/lnzby0fc/2021-1-17-imgid-45630_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hgmcw7ar/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. האם הנשק הסודי שיצליח להכניע את הצ'ייסר הוא הגירל פאוור המשותף של ארבע נשים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/125900/",
+       "id": "125900",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 17",
+       "logo": "https://www.kan.org.il/media/o2mcxj12/2021-2-21-imgid-47798_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mua6ujwe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: האם העיתונאית נרי ליבנה תצליח איפה שכשלו חברים רבים כל כך למקצוע?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/125516/",
+       "id": "125516",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 16",
+       "logo": "https://www.kan.org.il/media/3qqpnkjw/2021-1-21-imgid-45989_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ujvuhuu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים. והפעם: מהים, היבשה והאוויר התאספו יחד מציל, דיפלומטית, אשת יח\"צ ודייל. האם יש לצ'ייסר סיכוי מולם?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/119551/",
+       "id": "119551",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 27",
+       "logo": "https://www.kan.org.il/media/wl1dgd4h/2020-12-28-imgid-44365_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j6nebgi8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מאחדים כוחות נגד הצ'ייסרים. והפעם: כוכב הילדים, השחקן דניאל מורשת, מגיע לנסות את מזלו ושכלו. האם הוא יביא לקבוצה שלו רוח נעורים מנצחת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/119549/",
+       "id": "119549",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 14",
+       "logo": "https://www.kan.org.il/media/0ttmt5bf/2020-12-30-imgid-44522_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wirzskvm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: מקעקעת, ספר גברים, עובד בגובה ואשת קולנוע - האם זה שילוב המוחות שיביס את הצ'ייסרית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116091/",
+       "id": "116091",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 13",
+       "logo": "https://www.kan.org.il/media/4fydey1t/2020-12-30-imgid-44517_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bbtpu6p9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם - האם השחקן והקומיקאי מאיר סוויסה יגלה בסוף המרדף שהבדיחה הייתה על חשבונו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116088/",
+       "id": "116088",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 12",
+       "logo": "https://www.kan.org.il/media/x5wkcfa0/2020-12-9-imgid-43417_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8hmdi8mf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. האם אושיית הרשת גיא הוכמן יצליח לעשות מהמרדף שלו בדיחה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116085/",
+       "id": "116085",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 11",
+       "logo": "https://www.kan.org.il/media/vnxowura/2020-12-20-imgid-43987_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dr63l79y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים - איתי הרמן ומיכל שרון. והפעם: האם הסקסולוג ד''ר דניאל דריי יצליח איפה שכשלו רבים כל כך?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116082/",
+       "id": "116082",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 10",
+       "logo": "https://www.kan.org.il/media/jyyp5gww/2020-12-14-imgid-43648_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4n3pzic5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: טיקטוקרית, צועד בשביל ישראל, כלכלנית ובודק מבחנים בחל\"ת - מנסים את כוחם מול הצ'ייסר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116079/",
+       "id": "116079",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 9",
+       "logo": "https://www.kan.org.il/media/ccpn3lqk/2020-12-2-imgid-43078_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7tcpm4e9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים: איתי הרמן ומיכל שרון. הפעם: האם רקדנית, בנקאי, סטארטאפיסטית ומוזיקאי הם הצוות שייקח את הכסף?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116076/",
+       "id": "116076",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 8",
+       "logo": "https://www.kan.org.il/media/qsjn4rdk/2020-11-26-imgid-42715_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_idp042aw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: האם השחקנית ומגישת הרדיו אביה מלכה תוביל את קבוצתה לנצחון מול הצ'ייסרית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116073/",
+       "id": "116073",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 7",
+       "logo": "https://www.kan.org.il/media/tpkdnlcm/2020-11-18-imgid-42277_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u8xohm9d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והפעם: האם סטודנטית למשפטים, מורה, עיתונאי ומנהלת מוצר יצליחו יחד להביס את איתי הרמן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116070/",
+       "id": "116070",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 6",
+       "logo": "https://www.kan.org.il/media/mmydtxzb/2020-11-12-imgid-41940_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jeole5bh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והערב: הצ'ייסר נגד הפנתר! האם הישאם סלימאן, כוכב \"פאודה\", יצליח להערים על איתי הרמן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116068/",
+       "id": "116068",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 5",
+       "logo": "https://www.kan.org.il/media/5yynqzf1/2020-11-5-imgid-41616_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2dbblx4c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והערב: האם רקדנית סטפס חובבת תצליח לדלג בקלילות מעל הצ'ייסרית בדרך לכסף הגדול?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116066/",
+       "id": "116066",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 4",
+       "logo": "https://www.kan.org.il/media/zrtpnvop/2020-10-28-imgid-41211_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dpuw8igy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים - איתי הרמן ומיכל שרון. הפעם: האם נועם פתחי יצליח להדיח צ'ייסר מכהן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116063/",
+       "id": "116063",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 3",
+       "logo": "https://www.kan.org.il/media/x51ppe5t/2020-10-22-imgid-40923_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c6hj8p4o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים. והערב: המתמודדת עם השם הכי לא שגרתי מגיעה לנסות את מזלה מול הצ'ייסר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116060/",
+       "id": "116060",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 2",
+       "logo": "https://www.kan.org.il/media/szmhjcjf/2020-10-18-imgid-40672_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_shp67kj5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. מיטב ידעני ישראל מנסים לאחד כוחות ולגבור על הצ'ייסרים האימתניים - איתי הרמן ומיכל שרון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116058/",
+       "id": "116058",
+       "season": 5
+      },
+      {
+       "name": "המרדף | עונה 5 - פרק 1",
+       "logo": "https://www.kan.org.il/media/mppduvpo/2020-10-11-imgid-40240_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ghdaimv8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה. פרק פתיחת העונה החמישית. האם סמיון גרפמן ינצח בקרב הישרדות מנטלי נגד הצ'ייסר איתי הרמן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/s5/116055/",
+       "id": "116055",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "המרדף - הצצה | מי יתמודד מול הצ'ייסר?",
+       "logo": "https://www.kan.org.il/media/rtclbc23/המרדף-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3a2a4lur/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-08",
+       "plot": "עורכת ספרי ילדים, סטודנט ומורה לפסיכומטרי יתמודדו מול הצ'ייסר וינסו לקחת את כל הכסף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/917462/",
+       "id": "917462"
+      },
+      {
+       "name": "המרדף | טריילר",
+       "logo": "https://www.kan.org.il/media/bhmps53e/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-cb5cb891-c3a0-448e-9381-d72b3916c7cb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_shj2l8ee/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "ארבעה משתתפים משחקים נגד \"הצ'ייסר\" או ה\"צ'ייסרית\", שיודעים כמעט הכל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/866246/",
+       "id": "866246"
+      },
+      {
+       "name": "המרדף - הצצה | רודי סעדה נלחץ",
+       "logo": "https://www.kan.org.il/media/zaxp0ydc/המרדף-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_705g7wgg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "כוכבי קופה ראשית מתקשים לעמוד בלחץ במרדף מול הצ'ייסר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/858920/",
+       "id": "858920"
+      },
+      {
+       "name": "המרדף - הצצה | ניסים מ\"קופה ראשית\" נגד הצ'ייסר",
+       "logo": "https://www.kan.org.il/media/40cfhfdf/המרדף-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7m0otk1y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "השחקן יניב סוויסה עם הסיטואציות הקטנות בחיים שלבסוף יצילו אותו מול הצ'ייסר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/858918/",
+       "id": "858918"
+      },
+      {
+       "name": "המרדף | עונה 7 - טריילר",
+       "logo": "https://www.kan.org.il/media/wi1ju0vc/https-kanstaticazureedgenet-download-pictures-2023-2-21-imgid-94481_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zw7nrfre/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עידו רוזנבלום חוזר לעמדת המנחה בעונה החדשה של השעשועון האהוב, יחד עם הצ'ייסרים איתי הרמן ומיכל שרון. האם המתמודדים יצליחו לנצח אותם ולקחת את הכסף הביתה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11534/161850/",
+       "id": "161850"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

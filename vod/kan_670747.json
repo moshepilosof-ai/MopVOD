@@ -1,0 +1,423 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - יש לך מושג?",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670747/",
+   "series_id": "670747",
+   "updated": "2026-10-28 11:19",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרק 36 - ספירת העומר",
+       "logo": "https://www.kan.org.il/media/ntcmhked/sfirathaomer01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f276sajo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-23",
+       "plot": "מה זה עומר, מה המשמעות של שבעת השבועות שאנו סופרים ומדוע הם הפכו לימי אבל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/690560/",
+       "id": "690560",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 1 - נרות השבת",
+       "logo": "https://www.kan.org.il/media/op0ph2nj/candles01web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gr57af9h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מדוע דווקא האימא היא שמכניסה את אווירת הקדושה? כמה נרות היא מדליקה, ולמה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673205/",
+       "id": "673205",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג | פרק 2 - כיבוד אב ואם",
+       "logo": "https://www.kan.org.il/media/smxetpuf/dadandmom.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_21ficeht/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "במה מתבטא הכבוד שצריך לתת להורים ומדוע מציינים את האבא לפני האימא? על המצווה השייכת לכל בני האנוש, גם ללא יהודים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673202/",
+       "id": "673202",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג | פרק 3 - ואהבת לרעך כמוך",
+       "logo": "https://www.kan.org.il/media/egpmuosa/vehaavta03web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7iu4n8ok/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על הכלל הגדול בתורה, ממה הוא נובע ואיך הגיעו אליו, ואיך התלמוד הירושלמי מסביר את מצוות האהבה כלפי הזולת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673199/",
+       "id": "673199",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 4 - מצוות צדקה",
+       "logo": "https://www.kan.org.il/media/htnf21d2/tzdaka04web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fxxrr9mg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהן המעלות של המצווה ומהן ההשלכות כשלא נוהגים לפיה? כמה עלינו לתת, למי, ובאילו נסיבות?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673196/",
+       "id": "673196",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 5 - חודש אלול",
+       "logo": "https://www.kan.org.il/media/hfcnezsc/elul05web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_770rmhyo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על הייחודיות של החודש לעומת שאר חודשי השנה, מה עושים במהלכו ומה מקור שמו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673193/",
+       "id": "673193",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 6 - תשליך",
+       "logo": "https://www.kan.org.il/media/05lecpof/tashlih06web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ahq1anck/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה מקורו של המנהג, איזה מדרש מספרים עליו, ואיך הביטוי \"הגיעו מים עד נפש\" קשור לעניין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673190/",
+       "id": "673190",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 7 - שופר",
+       "logo": "https://www.kan.org.il/media/hntivwej/shofar07web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s2k1mlas/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהן המטרות של הכלי ושל התרועה בו, מה מקור שמו, מתי תוקעים בו ואילו רגשות הוא מעורר?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673187/",
+       "id": "673187",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 8 - עשרת ימי תשובה",
+       "logo": "https://www.kan.org.il/media/hfvf2puk/tshuva08web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_egm3weii/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על הימים שבין ראש השנה ליום הכיפורים, השלבים שהאדם עובר בהם וההכנות לקראתם כבר מחודש אלול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673184/",
+       "id": "673184",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 9 - סוכות",
+       "logo": "https://www.kan.org.il/media/r1epvxsc/sukot09web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_12zge6ps/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "למה נועד החג ומה הוא מסמל, אילו שמות נוספים נתנו לו במהלך השנים, ומה מייצגים ארבעת המינים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673181/",
+       "id": "673181",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 10 - שמחת תורה",
+       "logo": "https://www.kan.org.il/media/4nhifr4d/simhatorah10web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5v4qi635/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על החג המיוחד שנקבע רק לפני כמה מאות שנים ובו מסיימים אחת לשנה את קריאת התורה ומתחילים מההתחלה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673178/",
+       "id": "673178",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 11 - הנחת תפילין",
+       "logo": "https://www.kan.org.il/media/hdkdfgh3/tefilin11web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w9ggp24f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך והיכן מניחים את הטוטפות, והאם מותר להפריד ביניהן? על המצווה הנעלה ביהדות ששקולה כנגד כל המצוות יחד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673175/",
+       "id": "673175",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 12 - ברית מילה",
+       "logo": "https://www.kan.org.il/media/pqhajxfe/britmila12web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s1yqyxev/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה הקשר בין אליהו הנביא לבריתו של אברהם אבינו ומדוע נהוג להכין דווקא את הכיסא שלו לקראת הטקס?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673172/",
+       "id": "673172",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 13 - קידוש היום השישי",
+       "logo": "https://www.kan.org.il/media/pndnjwjo/yomshishi13web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a5qdqnyj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על הברכה המיוחדת הנהוגה בליל שבת, מה היא מסמלת ומה חשיבותה הגדולה. ולמה מברכים בעמידה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673169/",
+       "id": "673169",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 14 - מזוזה",
+       "logo": "https://www.kan.org.il/media/jwcggeg3/mezuza14web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tpg3enof/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ידוע שהיא שומרת על דלתות ישראל, אבל מה מכיל הנרתיק שבתוכה ומדוע נוהגים לנשק אותה בכניסה וביציאה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673166/",
+       "id": "673166",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 15 - מצוות הטלית",
+       "logo": "https://www.kan.org.il/media/dv2jjotf/talit15web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nendh2tc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על המצווה הנוספת שמלווה אותנו לצד המזוזה והתפילין. מתי ומדוע מתעטפים בה ומה מקור המילה ציצית?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673163/",
+       "id": "673163",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 16 - מניין",
+       "logo": "https://www.kan.org.il/media/hfsb4ceg/minyan16web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z7gyl5db/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קדיש, תפילת 18, קריאת מגילה והפטרה הן חלק מהמצוות שאי אפשר לקיים ביחידות. למה אנו מחויבים בנוכחות של עשרה יהודים לפחות?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673160/",
+       "id": "673160",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 17 - בית כנסת",
+       "logo": "https://www.kan.org.il/media/v2sb4xd0/beitkneset17web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hvq81lq8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על המקום שבו אנו מתכנסים ומביעים מחשבה ורגש בתפילה. מהם השמות הנרדפים שלו ומה הם מבטאים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673151/",
+       "id": "673151",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 18 - כיפה",
+       "logo": "https://www.kan.org.il/media/hagn5a01/kipa18web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dlgcfx8y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה המקור שלה, מה היא מסמלת והאם מחויבים להניח אותה על הראש?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673148/",
+       "id": "673148",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 19 - נטילת ידיים",
+       "logo": "https://www.kan.org.il/media/wiqkza53/netilatyadayim19web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6xghn1pp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מתי נוטלים ידיים ולמה עושים זאת? מהו סדר הפעולות הנכון וכמה פעמים רוחצים כל יד?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673136/",
+       "id": "673136",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 20 - תפילת הדרך",
+       "logo": "https://www.kan.org.il/media/rdqeo21e/tfiladereh20web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fzyb4uzz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על התפילה ששומרת עלינו ומחזירה אותנו בשלום הביתה, מה מקורה ומתי בדיוק יש לומר אותה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673133/",
+       "id": "673133",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 21 - גיור",
+       "logo": "https://www.kan.org.il/media/1uva0uex/giur21web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gbdfokzm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הידעתם שכולנו למעשה עם שהתגייר? על הדרך הישרה בעניין ועל השלבים המחייבים גבר ואישה שרוצים להתגייר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673127/",
+       "id": "673127",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 22 - חנוכה",
+       "logo": "https://www.kan.org.il/media/plmkowgo/hanukkah22web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1j66q3o1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מקור החג, המנהגים והמאכלים, וניצחון הגבורה של החשמונאים המסמל את ניצחונה של רוח ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673124/",
+       "id": "673124",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 23 - בר מצווה",
+       "logo": "https://www.kan.org.il/media/xdkixb5a/barmitzva21web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ueq60kc1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "למה דווקא גיל 13 נקבע כגיל שבו הנער מחויב לכל המצוות? ומה המצווה הראשונה שהוא מחויב בה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673121/",
+       "id": "673121",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 25 - ברכת המזון",
+       "logo": "https://www.kan.org.il/media/34npnni4/mazon22web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b80i8ppr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על מה בדיוק מברכים? כמה ברכות קיימות, מתי אומרים את הקצרה ומתי את הרחבה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673118/",
+       "id": "673118",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 26 - תפילת שמונה עשרה",
+       "logo": "https://www.kan.org.il/media/sg2b1pyh/shmonesre23web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_irmad4lh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על ההרכב של תפילת העמידה, הכוללת 18 תפילות ומשאלות על חיי הפרט ושבח לאלוהים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673115/",
+       "id": "673115",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 27 - ט\"ו בשבט",
+       "logo": "https://www.kan.org.il/media/xi0ltkbv/tubishvat24web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0f1oxm6u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה המשמעות של ראש השנה לאילנות? על החג שמסמל את הקשר ההיסטורי בין עם ישראל לארץ ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673112/",
+       "id": "673112",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 28 - ראש חודש",
+       "logo": "https://www.kan.org.il/media/oixd24cm/roshodesh4web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6bic5uy2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך קבעו את תחילת החודש, איך מציינים אותו בימינו ואיך ציינו אותו בתקופת המקרא, ומה הקשר לשנה מעוברת?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673109/",
+       "id": "673109",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 31 - הכותל המערבי",
+       "logo": "https://www.kan.org.il/media/q2kfda4h/hakotelweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eyz5tjs8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "השריד שנשאר מחורבן בית המקדש ולכיוונו מתפלל כל יהודי, לא משנה היכן הוא נמצא בעולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673106/",
+       "id": "673106",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 29 - פורים",
+       "logo": "https://www.kan.org.il/media/vx5bnbjw/purimweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3we3j7me/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהן מצוות החג ועל שם מה הוא קרוי? ומדוע בשושן הבירה חגגו אותו בתאריך אחר מאשר בשאר הערים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673103/",
+       "id": "673103",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג | פרק 30 - מגילת אסתר",
+       "logo": "https://www.kan.org.il/media/lfjfn3ro/megilatesterweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vz0fyuvn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הברכות שמברכים לפני קריאת המגילה, היכן נוהגים לקרוא אותה, וסיפורים מעניינים על מגילות שנשתמרו במהלך השנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673100/",
+       "id": "673100",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 32 - שמע ישראל",
+       "logo": "https://www.kan.org.il/media/lqig52zp/shmaisraelweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sti19t1u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהם עשרת הציוויים שמכילה התפילה ומהם הפירושים השונים של ראשי התיבות שמ\"ע?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673097/",
+       "id": "673097",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 33 - ברכת כוהנים",
+       "logo": "https://www.kan.org.il/media/omcn1mbs/choanimweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x7kys3ok/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הברכה שאלוהים מברך את עמו דרך השליחים שלו, מהם הציוויים שיש בה ומתי מברכים אותה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673094/",
+       "id": "673094",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 34 - קדיש",
+       "logo": "https://www.kan.org.il/media/jqulqctc/kadishweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8y1ub2hn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהי המשמעות של אמירת התפילה ולמה יתום צריך לומר אותה? הרב לאו חולק מתי הכיר אותה לראשונה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673091/",
+       "id": "673091",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 35 - פסח",
+       "logo": "https://www.kan.org.il/media/ugeks5d5/passoverweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jhqf0zb4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה פשר ארבעת השמות של החג ומדוע אנחנו לא קוראים לו חג המצות, כפי שנקרא בתורה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673088/",
+       "id": "673088",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 37 - ל\"ג בעומר",
+       "logo": "https://www.kan.org.il/media/akib2tnu/lagbaomerweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vnok6c5f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מדוע מדליקים מדורות, נוסעים למירון ועושים חלאקה לילדים ביום ה-33 לספירת העומר? הרב לאו מסביר את המשמעויות האמיתיות של מנהגי החג",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673085/",
+       "id": "673085",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 38 - חג השבועות",
+       "logo": "https://www.kan.org.il/media/kqufa2wa/shavootweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dwzb03c9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הרב לאו מסביר על המנהגים העיקריים של החג, וביניהם תיקון ליל שבועות, קריאת התורה, קריאת מגילת רות ואכילת מאכלי חלב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/673082/",
+       "id": "673082",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 39 - ימי בין המצרים",
+       "logo": "https://www.kan.org.il/media/olaeppmr/meitsarimweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nqagjl8e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על שלושת השבועות שבין שבעה עשר בתמוז לתשעה באב, ודיני האבלות השונים הנהוגים בהם כדי לזכור ולהזכיר את חורבן בית המקדש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/672662/",
+       "id": "672662",
+       "season": 1
+      },
+      {
+       "name": "יש לך מושג? | פרק 40 - תשעה באב",
+       "logo": "https://www.kan.org.il/media/0j3n2qsj/teshabeaavweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jch8z65m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "היום העצוב ביותר של השנה שבו מבכים על העבר ועל חורבן הבית הראשון והשני. מהם דיני האבלות הנהוגים ואיך נפוליאון קשור ליום זה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/s1/672659/",
+       "id": "672659",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "יש לך מושג? | פתיח",
+       "logo": "https://www.kan.org.il/media/l22jyfd3/יש-לך-מושג-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kw9skorv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"יש לך מושג?\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670747/942829/",
+       "id": "942829"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

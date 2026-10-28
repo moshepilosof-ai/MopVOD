@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בערוגות החשק",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-781749/",
+   "series_id": "781749",
+   "updated": "2026-10-28 09:36",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בערוגות החשק | חשוק ונשוק",
+       "logo": "https://www.kan.org.il/media/wydfmfhl/web-recovered.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rreqthy1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "מחזמר על משורר יהודי שעומד למבחן בפני תשוקתו המינית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781749/s1/781760/",
+       "id": "781760",
+       "season": 1
+      },
+      {
+       "name": "בערוגות החשק | אוכלים ונוכלים",
+       "logo": "https://www.kan.org.il/media/wq2pvv41/web-recovered.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vsty5miw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "ספי ריבלין, טוביה צפיר ועוד במחזה טלוויזיוני מאוסף שירי משוררים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781749/s1/781755/",
+       "id": "781755",
+       "season": 1
+      },
+      {
+       "name": "בערוגות החשק | מצא אישה מצא טוב",
+       "logo": "https://www.kan.org.il/media/gtonr4hq/web-recovered.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9du5viga/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "מחזה על תקופת הרנסאנס ובו חבורת גברים מנסה למנוע מאחד מחבריה להתחתן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781749/s1/781753/",
+       "id": "781753",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ערוגת החשק- הצצה | על האומנים שכתבו שירי חשק",
+       "logo": "https://www.kan.org.il/media/3exnmulu/ערוגת-החשק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h8dr6pqe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-26",
+       "plot": "על האומנים שלא חששו לכתוב שירי חשק שמעלים סומק על הלחיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781749/865009/",
+       "id": "865009"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

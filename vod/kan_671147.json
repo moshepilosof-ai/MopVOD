@@ -1,0 +1,53 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - משפחה טובה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671147/",
+   "series_id": "671147",
+   "updated": "2026-10-28 12:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "משפחה טובה | פרק 2 - 20.11.2014",
+       "logo": "https://www.kan.org.il/media/yb3btga2/ep2.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nmy5xmkc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ערן מגלה שלאביו יחסים עם אשה אחרת ויהלי מתוסכל כאשר עיתונאית שמגיעה לראיינו אינה מתעניינת במוסיקה שלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671147/s1/678509/",
+       "id": "678509",
+       "season": 1
+      },
+      {
+       "name": "משפחה טובה | פרק 7 - 26.12.2014",
+       "logo": "https://www.kan.org.il/media/cdmb1n4s/ep7.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4g5wuzog/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "היחסים בין שירלי לאוהד מתפתחים. ערן מתקשה למלא אחר ההכנות לחתונה ואיתמר מתבשר שלא יוכל לרקוד חודש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671147/s1/678494/",
+       "id": "678494",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "משפחה טובה | פתיח",
+       "logo": "https://www.kan.org.il/media/3snpwtc4/משפחה-טובה-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2gl7bodt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"משפחה טובה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671147/942790/",
+       "id": "942790"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

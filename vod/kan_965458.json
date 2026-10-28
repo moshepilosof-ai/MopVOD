@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - יוצרים מן הכלל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-965458/",
+   "series_id": "965458",
+   "updated": "2026-10-28 11:18",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יוצרים מן הכלל | רוני מספרת סיפורים דרך מחול",
+       "logo": "https://www.kan.org.il/media/j3fdl13p/dp_3044-roni.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165722/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "אחרי מסע של הרעבה עצמית, מלחמה והרבה \"לא\" שהיא קיבלה בדרך, רוני חדש יוצרת כוריאוגרפיות מיוחדות ומוצאת את הרקדנים הנכונים עבורן. למרות שיכלה לבחור בעבודה בהייטק, היא מעדיפה את את הסבל הכלכלי ולנסות לרקוד את כל הדרך עד ההצלחה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-965458/s1/999739/",
+       "id": "999739",
+       "season": 1
+      },
+      {
+       "name": "יוצרים מן הכלל | אביגיל רוקמת והופכת בגדים ליצירות אומנות",
+       "logo": "https://www.kan.org.il/media/hvdblryr/screenshot-2025-10-29-122140jpg2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891354/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-29",
+       "plot": "אביגיל קולקר רוקמת בעבודת יד והופכת כל בגד - ליצירת אומנות ייחודית. במלאי שלה תוכלו למצוא \"חולצת העלאת המחירים של 'אל-על'\", סוודר בהשראת קורט קוביין, ואפילו קימונו עם לוגו רקום של רשת הסופרים \"ויקטורי\". לכל בגד כזה יש רשימת המתנה של עשרות אנשים, מתוכם אביגיל בוחרת למי הבגד הכי הכי מתאים, והמחירים יקרים. מאוד. אפילו לאביגיל בעצמה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-965458/s1/965516/",
+       "id": "965516",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

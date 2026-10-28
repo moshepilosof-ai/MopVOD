@@ -1,0 +1,93 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - גיא אוני",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-785473/",
+   "series_id": "785473",
+   "updated": "2026-10-28 09:37",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "גיא אוני | פרק 6 - לגעת ולחיות",
+       "logo": "https://www.kan.org.il/media/wo4fmddg/פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qhgcnym3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "פאניה מקבלת מכתב מאחותה שגרה באמריקה, עם הצעה מפתה במיוחד לאור הנסיבות בהן מצאה את עצמה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-785473/s1/785503/",
+       "id": "785503",
+       "season": 1
+      },
+      {
+       "name": "גיא אוני | פרק 5 - מקום שהוא שלך",
+       "logo": "https://www.kan.org.il/media/ut1n0smx/פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nztmcubd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "הערבים שחולקים את שטח הכפר עומדים בפני דילמה והעניינים בינם לתושבים היהודיים מתחילים להסלים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-785473/s1/785501/",
+       "id": "785501",
+       "season": 1
+      },
+      {
+       "name": "גיא אוני | פרק 4 - כוחות חבויים",
+       "logo": "https://www.kan.org.il/media/ddyp0r3e/פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3vmw0w4y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "פאניה פוגשת את הצד הפחות יפה של התושבים מהעיר הסמוכה ומבינה שאין לה על מי לסמוך מלבד היא עצמה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-785473/s1/785498/",
+       "id": "785498",
+       "season": 1
+      },
+      {
+       "name": "גיא אוני | פרק 3 - צעדים ראשונים",
+       "logo": "https://www.kan.org.il/media/3mfjyzs2/פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9p5kn24x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "פאניה מתקשה להשתלב בסביבת משפחתו של יחיאל ופוגשת מכרים חדשים ומעניינים בשיטוטיה בכפר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-785473/s1/785497/",
+       "id": "785497",
+       "season": 1
+      },
+      {
+       "name": "גיא אוני | פרק 2 - מסע לגליל",
+       "logo": "https://www.kan.org.il/media/wiffewqr/פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_albt7bay/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "לאחר הנישואים המהירים ליחיאל, פאניה מנסה להתאקלם בביתה החדש בצפון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-785473/s1/785478/",
+       "id": "785478",
+       "season": 1
+      },
+      {
+       "name": "גיא אוני | פרק 1 - השמש של ארץ ישראל",
+       "logo": "https://www.kan.org.il/media/ovrfdbwq/פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x0gevfue/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-18",
+       "plot": "בסוף המאה ה-19 הגיע גל מהגרים יהודים לארץ ישראל, לאחר שברחו מהפרעות ברוסיה בתקווה להתחיל את החיים מחדש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-785473/s1/785475/",
+       "id": "785475",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "פתיח | גיא אוני",
+       "logo": "https://www.kan.org.il/media/nsmn1sh1/גיא-אוני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bjwrylre/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח המוכר של \"גיא אוני\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-785473/861639/",
+       "id": "861639"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

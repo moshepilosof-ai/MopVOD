@@ -1,0 +1,113 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ירושלים שהייתה בספרד",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-754949/",
+   "series_id": "754949",
+   "updated": "2026-10-28 11:19",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 8 - היהודי הנצחי ממיורקה",
+       "logo": "https://www.kan.org.il/media/zvphaiyl/ירולים-שהייתה-בספרד-פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ag1xmbf9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "מיורקה - אי קטן אי שם לצד חופי ספרד, ההיסטוריה העשירה של העיר מספרת על הגטו של אנוסי מיורקה, שפרשו מהיהדות לפני 300 שנה והפכו לקתולים אך לא הצליחו להיפטר ממעמדם כיהודים נצחיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755057/",
+       "id": "755057",
+       "season": 1
+      },
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 7 - יהודי פורטוגל הנסתרים חלק ב'",
+       "logo": "https://www.kan.org.il/media/2c3prwmg/ירושלים-שהייתה-בספרד-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ikc3kkdu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "השלטונות בספרד ובפורטוגל המשיכו במאמציהם להשמיד את היהדות שהיוותה איום דתי עבורם, 250 שנה לאחר גירוש יהודי ספרד האינקוויזיציה ממשיכה במרדף אחרי צאצאי האנוסים שברחו לפורטוגל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755055/",
+       "id": "755055",
+       "season": 1
+      },
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 6 - יהודי פורטוגל הנסתרים חלק א'",
+       "logo": "https://www.kan.org.il/media/jqwppkjx/ירושלים-שהייתה-בספרד-פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ndjk7ooj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "סיפורם של אנוסי ספרד שגילו התנגדות חזקה לדת שנכפתה עליהם, והפכו לחלוצי ההתיישבות היהודית במדינות מערב אירופה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755053/",
+       "id": "755053",
+       "season": 1
+      },
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 5 - כריסטופר קולומבוס היה יהודי?",
+       "logo": "https://www.kan.org.il/media/gbvbdp5n/ירושלים-שהייתה-בספרד-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lzbqwz4y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "1492. סוף השלטון הערבי המפואר בספרד, קולומבוס מקבל אישור להפליג אל מעבר לים ומגלה את אמריקה וצו הגירוש נגד יהודי ספרד נחתם ע\"י משפחת המלוכה. יצחק נבון במסע לבירור פרטים נוספים על זהותו הדתית של מגלה הארצות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755051/",
+       "id": "755051",
+       "season": 1
+      },
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 4 - האינקוויזיציה והאנוסים",
+       "logo": "https://www.kan.org.il/media/mzodoinq/ירושלים-שהייתה-בספרד-פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cu2xm4so/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "בשנת 1391 פרצו פרעות דמים ברובע היהודי בסביליה, שהלכו והתפשטו בכל רחבי הארץ. כשליש מיהודי ספרד נרצחו באותה השנה, בעוד ששליש המירו את דתם לנצרות ובכך החלה תופעת האנוסים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755050/",
+       "id": "755050",
+       "season": 1
+      },
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 3 - מאזן האימה",
+       "logo": "https://www.kan.org.il/media/pbjaoeck/ירושלים-שהייתה-בספרד-פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_39inlp8i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "במאה ה-11 ספרד נכבשה ע\"י הנוצרים לאחר שלטון מוסלמי במשך שלוש מאות שנים . על הקהילה היהודית היה לחשוב בצורה יצירתית כדי לשרוד - כך השתלבו בתפקידי המפתח ותרמו להתפתחות המדע בספרד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755049/",
+       "id": "755049",
+       "season": 1
+      },
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 2 - תור הזהב",
+       "logo": "https://www.kan.org.il/media/bp2ha1j4/ירושלים-שהייתה-בספרד-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dx8lz30p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "במאה העשירית, יצאו יהודי ספרד מאלמוניות ויצרו בקורדובה מרכז רוחני שהיווה פתח לתקופת השפע עבור הקהילה היהודית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755047/",
+       "id": "755047",
+       "season": 1
+      },
+      {
+       "name": "ירושלים שהייתה בספרד | פרק 1 - מסע אל האנוסים",
+       "logo": "https://www.kan.org.il/media/ygoh4jr3/ירושלים-שהייתה-בספרד-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yfwwmwh1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-29",
+       "plot": "500 שנה לאחר גירוש יהודי ספרד, עדיין ניתן לראות את השפעות הקהילה היהודית ברחבי הארץ. בית הכנסת הגדול בטולדו מספר את סיפורם של היהודים העשירים בתור הזהב של ספרד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/s1/755041/",
+       "id": "755041",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ירושלים שהיתה בספרד | פתיח",
+       "logo": "https://www.kan.org.il/media/fr5mhj4h/צילום-מסך-2025-08-18-135916.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zc1wvgnd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"ירושלים שהיתה בספרד\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-754949/942673/",
+       "id": "942673"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

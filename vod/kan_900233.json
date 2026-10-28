@@ -1,0 +1,1900 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בנימיני וגואטה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-900233/",
+   "series_id": "900233",
+   "updated": "2026-10-28 09:36",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אליאור לוי ותמר אלמוג | 23.07.26",
+       "logo": "https://www.kan.org.il/media/44ppvdsv/6297ee21-0a5c-4de8-83a3-0af36d28ca54.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228473/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-23",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת אליאור לוי ותמר אלמוג.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1080747/",
+       "id": "1080747"
+      },
+      {
+       "name": "בנימיני וחן ליברמן | 22.07.26",
+       "logo": "https://www.kan.org.il/media/mimlquhz/2c21f236-ee90-4a6f-b14c-2bf19031461d.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228255/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-22",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וחן ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1080170/",
+       "id": "1080170"
+      },
+      {
+       "name": "בנימיני וגואטה | 21.07.26",
+       "logo": "https://www.kan.org.il/media/dn1p3ahi/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227792/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-21",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1079756/",
+       "id": "1079756"
+      },
+      {
+       "name": "בנימיני וגואטה | 20.07.26",
+       "logo": "https://www.kan.org.il/media/iiup5y3v/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227598/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1079280/",
+       "id": "1079280"
+      },
+      {
+       "name": "ישי שנרב ויגאל גואטה | 19.07.26",
+       "logo": "https://www.kan.org.il/media/nihjrfkb/שנרב-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227046/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-19",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1078693/",
+       "id": "1078693"
+      },
+      {
+       "name": "ישי שנרב וחן ביאר | 16.07.26",
+       "logo": "https://www.kan.org.il/media/5xdndmii/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226189/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת ישי שנרב ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1077592/",
+       "id": "1077592"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 15.07.26",
+       "logo": "https://www.kan.org.il/media/qoxnjgoy/בנימיני-ומועלם-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225578/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-15",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1076950/",
+       "id": "1076950"
+      },
+      {
+       "name": "בנימיני וישי שנרב | 14.07.26",
+       "logo": "https://www.kan.org.il/media/gvajxo4z/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225337/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-14",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1076412/",
+       "id": "1076412"
+      },
+      {
+       "name": "בנימיני וחן ליברמן | 13.07.26",
+       "logo": "https://www.kan.org.il/media/nrpao0tr/רן-חן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224808/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וחן ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1075833/",
+       "id": "1075833"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 12.07.26",
+       "logo": "https://www.kan.org.il/media/2fuftk22/בנימיני-ומועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224599/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1075321/",
+       "id": "1075321"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 09.07.26",
+       "logo": "https://www.kan.org.il/media/ohff3jvk/חן-ושנרב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223346/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-09",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1073933/",
+       "id": "1073933"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 08.07.26",
+       "logo": "https://www.kan.org.il/media/giwb1zln/בן-ומזל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223072/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1073401/",
+       "id": "1073401"
+      },
+      {
+       "name": "בנימיני וגואטה | 07.07.26",
+       "logo": "https://www.kan.org.il/media/h44jql0j/c694202a-9ea2-41f0-8cd8-76e099c9bb7c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222485/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-07",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1072730/",
+       "id": "1072730"
+      },
+      {
+       "name": "חן ליברמן ויגאל גואטה | 06.07.26",
+       "logo": "https://www.kan.org.il/media/4pids2gj/בנימיניjpeg.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222199/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-06",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1072076/",
+       "id": "1072076"
+      },
+      {
+       "name": "בנימיני וגואטה | 05.07.26",
+       "logo": "https://www.kan.org.il/media/ifynpwa3/בנימיני_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2221608/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1071339/",
+       "id": "1071339"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 02.7.26",
+       "logo": "https://www.kan.org.il/media/3y3mqtxp/הה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220123/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-02",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1069500/",
+       "id": "1069500"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 01.07.26",
+       "logo": "https://www.kan.org.il/media/b4vg5l1j/בן-ומזל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219855/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-01",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1068658/",
+       "id": "1068658"
+      },
+      {
+       "name": "בנימיני וגואטה | 30.06.26",
+       "logo": "https://www.kan.org.il/media/dwyfud5c/בנימיני30.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219539/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-30",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1067784/",
+       "id": "1067784"
+      },
+      {
+       "name": "בנימיני וגואטה | 29.06.26",
+       "logo": "https://www.kan.org.il/media/dpsnbtn2/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218889/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-29",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1066895/",
+       "id": "1066895"
+      },
+      {
+       "name": "בנימיני וגואטה | 28.06.26",
+       "logo": "https://www.kan.org.il/media/y2zo5shg/בנימיניייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218656/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-28",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1066265/",
+       "id": "1066265"
+      },
+      {
+       "name": "ישי שנרב ורועי שרון | 25.06.26",
+       "logo": "https://www.kan.org.il/media/0n1mvwjf/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217052/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-25",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת ישי שנרב ורועי שרון.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1063496/",
+       "id": "1063496"
+      },
+      {
+       "name": "חן ליברמן ומזל מועלם | 24.06.26",
+       "logo": "https://www.kan.org.il/media/i0ok5tdt/חן-ומזל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216651/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-24",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1062446/",
+       "id": "1062446"
+      },
+      {
+       "name": "רן בנימיני וקרן אוזן | 23.06.26",
+       "logo": "https://www.kan.org.il/media/y2scjyti/בנימיני-וקרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215997/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-23",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וקרן אוזן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1061574/",
+       "id": "1061574"
+      },
+      {
+       "name": "רן בנימיני וקרן אוזן | 22.06.26",
+       "logo": "https://www.kan.org.il/media/21qisula/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215675/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-22",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וקרן אוזן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1060704/",
+       "id": "1060704"
+      },
+      {
+       "name": "רן בנימיני וקרן אוזן | 21.06.26",
+       "logo": "https://www.kan.org.il/media/ldspprdg/בנימיני-ואוזן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215071/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-21",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וקרן אוזן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1059852/",
+       "id": "1059852"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 18.06.26",
+       "logo": "https://www.kan.org.il/media/3a5bryq5/מועלם-ושנרב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213886/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-18",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת מזל מועלם וישי שנרב .",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1057888/",
+       "id": "1057888"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 17.06.26",
+       "logo": "https://www.kan.org.il/media/v2fokein/בנימינייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213280/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-17",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1056747/",
+       "id": "1056747"
+      },
+      {
+       "name": "בנימיני וגואטה | 16.06.26",
+       "logo": "https://www.kan.org.il/media/jv0ln1fm/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212841/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-16",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1055734/",
+       "id": "1055734"
+      },
+      {
+       "name": "בנימיני וגואטה | 15.06.26",
+       "logo": "https://www.kan.org.il/media/lkik2hhk/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212315/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-15",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1054960/",
+       "id": "1054960"
+      },
+      {
+       "name": "בנימיני וגואטה | 14.06.26",
+       "logo": "https://www.kan.org.il/media/ow3j3cdj/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212008/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-14",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1053895/",
+       "id": "1053895"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 11.06.26",
+       "logo": "https://www.kan.org.il/media/zzghcqta/מזלמועלם_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210492/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-11",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת מזל מועלם וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1051841/",
+       "id": "1051841"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 10.06.26",
+       "logo": "https://www.kan.org.il/media/yq2bmhte/ישי-מזל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210184/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-10",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת מזל מועלם וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1051385/",
+       "id": "1051385"
+      },
+      {
+       "name": "בנימיני וגואטה | 09.06.26",
+       "logo": "https://www.kan.org.il/media/02ahfbre/בנימני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209676/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-09",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1050914/",
+       "id": "1050914"
+      },
+      {
+       "name": "בנימיני וגואטה | 07.06.26",
+       "logo": "https://www.kan.org.il/media/awvnipyi/בנימיני-76.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208758/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-07",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1049875/",
+       "id": "1049875"
+      },
+      {
+       "name": "רועי ינובסקי וישי שנרב | 04.06.26",
+       "logo": "https://www.kan.org.il/media/ynkckwsw/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207944/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רועי ינובסקי וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1048956/",
+       "id": "1048956"
+      },
+      {
+       "name": "בנימיני וישי שנרב | 03.06.26",
+       "logo": "https://www.kan.org.il/media/j2bmrznc/5f84320f-8596-461e-924f-249aa421ab31.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207607/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-03",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1048601/",
+       "id": "1048601"
+      },
+      {
+       "name": "בנימיני וגואטה | 02.06.26",
+       "logo": "https://www.kan.org.il/media/3xfee5k1/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207406/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-02",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1048241/",
+       "id": "1048241"
+      },
+      {
+       "name": "בנימיני וגואטה | 01.06.26",
+       "logo": "https://www.kan.org.il/media/05ppspys/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206675/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1047631/",
+       "id": "1047631"
+      },
+      {
+       "name": "בנימיני וגואטה | 31.05.26",
+       "logo": "https://www.kan.org.il/media/tuxkbmox/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206560/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1047165/",
+       "id": "1047165"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 28.05.26",
+       "logo": "https://www.kan.org.il/media/a3wkq542/artboard-1-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205757/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-28",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1046328/",
+       "id": "1046328"
+      },
+      {
+       "name": "בנימיני ומועלם | 27.05.26",
+       "logo": "https://www.kan.org.il/media/pwodld2l/בנימיני-ומזל-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205263/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-27",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1045978/",
+       "id": "1045978"
+      },
+      {
+       "name": "בנימיני וגואטה | 26.05.26",
+       "logo": "https://www.kan.org.il/media/45fllwkd/במנימי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205005/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-26",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1045609/",
+       "id": "1045609"
+      },
+      {
+       "name": "בנימיני וגואטה | 25.05.26",
+       "logo": "https://www.kan.org.il/media/eurbecih/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204516/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1045208/",
+       "id": "1045208"
+      },
+      {
+       "name": "בנימיני וגואטה | 24.05.26",
+       "logo": "https://www.kan.org.il/media/5dcfihuf/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203757/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-24",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1044786/",
+       "id": "1044786"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 20.05.26",
+       "logo": "https://www.kan.org.il/media/tmfdxgxk/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202583/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-20",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1043485/",
+       "id": "1043485"
+      },
+      {
+       "name": "בנימיני וגואטה | 19.05.26",
+       "logo": "https://www.kan.org.il/media/fnalhgvk/בנימיני-וגוואטה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202061/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-19",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1042963/",
+       "id": "1042963"
+      },
+      {
+       "name": "בנימיני וגואטה | 18.05.26",
+       "logo": "https://www.kan.org.il/media/ftcf2xfk/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201839/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1042590/",
+       "id": "1042590"
+      },
+      {
+       "name": "בנימיני וגואטה | 17.05.26",
+       "logo": "https://www.kan.org.il/media/lhhleo3u/בנימיני-וגואטה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201349/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-17",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1042205/",
+       "id": "1042205"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 14.05.26",
+       "logo": "https://www.kan.org.il/media/kevnt0ja/מזלמועלםלאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200480/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-14",
+       "plot": "שידור חי תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1041207/",
+       "id": "1041207"
+      },
+      {
+       "name": "בנימיני ומועלם | 13.05.26",
+       "logo": "https://www.kan.org.il/media/unroemyq/בנימינייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199979/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-13",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1040852/",
+       "id": "1040852"
+      },
+      {
+       "name": "בנימיני וגואטה | 12.05.26",
+       "logo": "https://www.kan.org.il/media/pz5bqn0t/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199728/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-12",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1040476/",
+       "id": "1040476"
+      },
+      {
+       "name": "בנימיני וגואטה | 11.05.26",
+       "logo": "https://www.kan.org.il/media/yxeo13qz/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-11",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1040080/",
+       "id": "1040080"
+      },
+      {
+       "name": "בנימיני וגואטה | 10.05.26",
+       "logo": "https://www.kan.org.il/media/3aaapppa/בנימינייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199033/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-10",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1039656/",
+       "id": "1039656"
+      },
+      {
+       "name": "מזל מועלם וישי שנרב | 07.05.26",
+       "logo": "https://www.kan.org.il/media/f5wh4xmu/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198021/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-07",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1038575/",
+       "id": "1038575"
+      },
+      {
+       "name": "בנימיני ומועלם | 06.05.26",
+       "logo": "https://www.kan.org.il/media/tsefchn5/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197755/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-06",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1038106/",
+       "id": "1038106"
+      },
+      {
+       "name": "בנימיני וגואטה | 05.05.26",
+       "logo": "https://www.kan.org.il/media/hkzk5qt3/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197018/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-05",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1037660/",
+       "id": "1037660"
+      },
+      {
+       "name": "בנימיני וגואטה | 04.05.26",
+       "logo": "https://www.kan.org.il/media/5yjb2uet/בן-גו-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196701/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-04",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1037254/",
+       "id": "1037254"
+      },
+      {
+       "name": "בנימיני וגואטה | 03.05.26",
+       "logo": "https://www.kan.org.il/media/ggnoipuk/בנימיני-וגואטה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196564/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1036827/",
+       "id": "1036827"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 30.04.26 ",
+       "logo": "https://www.kan.org.il/media/oqflzgrb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195674/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-30",
+       "plot": ".שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1035843/",
+       "id": "1035843"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 29.04.26",
+       "logo": "https://www.kan.org.il/media/45khfvzb/מזל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195284/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-29",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1035411/",
+       "id": "1035411"
+      },
+      {
+       "name": "חן ליברמן ויואב קרקובסקי | 28.04.26",
+       "logo": "https://www.kan.org.il/media/q1mcmtaz/בנימיני-תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194861/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן ויואב קרקובסקי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1034671/",
+       "id": "1034671"
+      },
+      {
+       "name": "בנימיני וקרקובסקי | 27.04.26",
+       "logo": "https://www.kan.org.il/media/oa4pschv/בנימיני-וקרקובסקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194337/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-27",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויואב קרקובסקי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1034193/",
+       "id": "1034193"
+      },
+      {
+       "name": "בנימיני וקרקובסקי | 26.04.26",
+       "logo": "https://www.kan.org.il/media/zioj1voy/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194102/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויואב קרקובסקי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1033612/",
+       "id": "1033612"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 23.04.26",
+       "logo": "https://www.kan.org.il/media/1mgkatsf/לאתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192975/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": ".שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1032589/",
+       "id": "1032589"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 21.04.26",
+       "logo": "https://www.kan.org.il/media/aomgb2yu/בנימיני-ומועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192266/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-21",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1031867/",
+       "id": "1031867"
+      },
+      {
+       "name": "בנימיני וגואטה | 19.04.26",
+       "logo": "https://www.kan.org.il/media/g0bnq4fs/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191553/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-19",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1031005/",
+       "id": "1031005"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 16.04.26",
+       "logo": "https://www.kan.org.il/media/wugivch0/חן-וישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190601/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-16",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1029706/",
+       "id": "1029706"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 15.04.26",
+       "logo": "https://www.kan.org.il/media/spqflb0j/בנימיני-ומועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190007/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-15",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1029285/",
+       "id": "1029285"
+      },
+      {
+       "name": "בנימיני וגואטה | 14.04.26",
+       "logo": "https://www.kan.org.il/media/r3bna2ul/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189768/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-14",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1028873/",
+       "id": "1028873"
+      },
+      {
+       "name": "בנימיני וגואטה | 13.04.26 ",
+       "logo": "https://www.kan.org.il/media/1nqkaxjz/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189300/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1027461/",
+       "id": "1027461"
+      },
+      {
+       "name": "בנימיני וגואטה | 12.04.26",
+       "logo": "https://www.kan.org.il/media/211jz32t/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188489/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-12",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1026409/",
+       "id": "1026409"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 09.04.26",
+       "logo": "https://www.kan.org.il/media/olcnp0qo/חן-וישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187157/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-09",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1025240/",
+       "id": "1025240"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 26.02.26",
+       "logo": "https://www.kan.org.il/media/tnpgq4rl/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171317/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-26",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1003439/",
+       "id": "1003439"
+      },
+      {
+       "name": "בנימיני וישי שנרב | 25.02.26",
+       "logo": "https://www.kan.org.il/media/i33p2u34/1920x1080_4800_hp-1-00_00_59_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170818/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1003047/",
+       "id": "1003047"
+      },
+      {
+       "name": "תמר אלמוג וסולימאן מסוודה | 24.02.26",
+       "logo": "https://www.kan.org.il/media/jmubirt5/גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170580/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-24",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" תמר אלמוג וסולימאן מסוודה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1002693/",
+       "id": "1002693"
+      },
+      {
+       "name": "בנימיני וגואטה | 23.02.26",
+       "logo": "https://www.kan.org.il/media/jg5jgabe/בנימיניייי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169872/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1002355/",
+       "id": "1002355"
+      },
+      {
+       "name": "בנימיני וגואטה | 22.02.26",
+       "logo": "https://www.kan.org.il/media/h1wpyv3f/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169733/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-22",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1001990/",
+       "id": "1001990"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 19.02.26",
+       "logo": "https://www.kan.org.il/media/tyyadtpl/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168905/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-19",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1001121/",
+       "id": "1001121"
+      },
+      {
+       "name": "בנימיני ומועלם | 18.02.26",
+       "logo": "https://www.kan.org.il/media/zscldonx/1920x1080_4800_hp00_00_40_43still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168376/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-18",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1000732/",
+       "id": "1000732"
+      },
+      {
+       "name": "בנימיני וגואטה | 17.02.26",
+       "logo": "https://www.kan.org.il/media/stmb3pvv/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168097/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-17",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1000236/",
+       "id": "1000236"
+      },
+      {
+       "name": "בנימיני וגואטה | 16.02.26",
+       "logo": "https://www.kan.org.il/media/uf3l1cpy/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167676/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/999967/",
+       "id": "999967"
+      },
+      {
+       "name": "בנימיני וגואטה | 15.02.26",
+       "logo": "https://www.kan.org.il/media/5asfkvtg/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167139/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/999396/",
+       "id": "999396"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 12.02.26",
+       "logo": "https://www.kan.org.il/media/iuwf0q40/חן-וישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166276/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-12",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/998598/",
+       "id": "998598"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 11.02.26",
+       "logo": "https://www.kan.org.il/media/xfjhdaft/בנימיני-מועלם-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165729/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-11",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/998098/",
+       "id": "998098"
+      },
+      {
+       "name": "בנימיני וגואטה | 10.02.26",
+       "logo": "https://www.kan.org.il/media/2ilfgpvh/capture.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165585/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/997789/",
+       "id": "997789"
+      },
+      {
+       "name": "בנימיני וגואטה | 09.02.26",
+       "logo": "https://www.kan.org.il/media/xlgdhk1b/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165188/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-09",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/997390/",
+       "id": "997390"
+      },
+      {
+       "name": "בנימיני וגואטה | 08.02.26",
+       "logo": "https://www.kan.org.il/media/lnaci5q0/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2164668/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-08",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/996998/",
+       "id": "996998"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 05.02.26",
+       "logo": "https://www.kan.org.il/media/ckamn3q2/חן-ליברמן-וישי-שנרב-050226.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2163924/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/996261/",
+       "id": "996261"
+      },
+      {
+       "name": "יאיר ויינרב ומזל מועלם | 04.02.26",
+       "logo": "https://www.kan.org.il/media/upgn2h3s/מועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2162971/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-04",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת יאיר ויינרב ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/995905/",
+       "id": "995905"
+      },
+      {
+       "name": "ישי שנרב ויגאל גואטה | 03.02.26",
+       "logo": "https://www.kan.org.il/media/k5mn34n3/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2158718/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-03",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/995562/",
+       "id": "995562"
+      },
+      {
+       "name": "סולימאן מסוודה ויגאל גואטה",
+       "logo": "https://www.kan.org.il/media/wzbhhq5s/נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2153668/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת סולימאן מסוודה ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/995206/",
+       "id": "995206"
+      },
+      {
+       "name": "בנימיני וגואטה | 01.02.26",
+       "logo": "https://www.kan.org.il/media/tikpcgxy/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2148239/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-01",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/994876/",
+       "id": "994876"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 29.01.26",
+       "logo": "https://www.kan.org.il/media/k4the2jl/s0505606_100_00_48_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2134934/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-29",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/994165/",
+       "id": "994165"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 28.01.26",
+       "logo": "https://www.kan.org.il/media/dq1htbdm/בנימיני-מועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2130975/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-28",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/993861/",
+       "id": "993861"
+      },
+      {
+       "name": "בנימיני וגואטה | 27.01.26",
+       "logo": "https://www.kan.org.il/media/dilfum02/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2126189/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-27",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/993525/",
+       "id": "993525"
+      },
+      {
+       "name": "תמר אלמוג וגואטה | 26.01.26",
+       "logo": "https://www.kan.org.il/media/oi0ot0pm/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2121619/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-26",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת תמר אלמוג ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/993169/",
+       "id": "993169"
+      },
+      {
+       "name": "בנימיני וגואטה | 25.01.26",
+       "logo": "https://www.kan.org.il/media/4o5phgqk/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2116636/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-25",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/992853/",
+       "id": "992853"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 22.01.26",
+       "logo": "https://www.kan.org.il/media/q33drnra/תבנית-בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2104433/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-22",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/991964/",
+       "id": "991964"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 21.01.26",
+       "logo": "https://www.kan.org.il/media/3g1cxf2h/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2099695/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/991653/",
+       "id": "991653"
+      },
+      {
+       "name": "בנימיני וגואטה | 20.01.26",
+       "logo": "https://www.kan.org.il/media/54xhjqhp/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2094455/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-20",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/991410/",
+       "id": "991410"
+      },
+      {
+       "name": "בנימיני וגואטה | 19.01.26",
+       "logo": "https://www.kan.org.il/media/dcqoinor/תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2089832/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-19",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/991118/",
+       "id": "991118"
+      },
+      {
+       "name": "בנימיני וגואטה | 18.01.26",
+       "logo": "https://www.kan.org.il/media/ewlf3p0q/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2084723/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-18",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/990725/",
+       "id": "990725"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 15.01.26",
+       "logo": "https://www.kan.org.il/media/klcpkmnh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2074239/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/989956/",
+       "id": "989956"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 14.01.26",
+       "logo": "https://www.kan.org.il/media/gzypxpdk/בנימיני-ומזל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2071065/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-14",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/989660/",
+       "id": "989660"
+      },
+      {
+       "name": "בנימיני וגואטה | 13.01.26",
+       "logo": "https://www.kan.org.il/media/grknphr4/בנימי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067970/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/989296/",
+       "id": "989296"
+      },
+      {
+       "name": "בנימיני וגואטה | 12.01.26",
+       "logo": "https://www.kan.org.il/media/iqtbrff0/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2064923/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-12",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/988946/",
+       "id": "988946"
+      },
+      {
+       "name": "בנימיני וגואטה | 11.01.26",
+       "logo": "https://www.kan.org.il/media/bsflojaq/s0505373_100_00_15_23still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2062232/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-11",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/988613/",
+       "id": "988613"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 08.01.26",
+       "logo": "https://www.kan.org.il/media/vrnny2qj/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2055240/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-08",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/988019/",
+       "id": "988019"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 07.01.26",
+       "logo": "https://www.kan.org.il/media/u1ljlgl4/s0506506_100_03_27_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2050504/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-07",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/987691/",
+       "id": "987691"
+      },
+      {
+       "name": "בנימיני וגואטה | 06.01.26",
+       "logo": "https://www.kan.org.il/media/pfflh5k1/בניימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2045808/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-06",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/987292/",
+       "id": "987292"
+      },
+      {
+       "name": "בנימיני וגואטה | 05.01.26",
+       "logo": "https://www.kan.org.il/media/u3lnbnvd/חיר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2040939/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-05",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/986773/",
+       "id": "986773"
+      },
+      {
+       "name": "בנימיני וגואטה | 04.01.26",
+       "logo": "https://www.kan.org.il/media/dijjri3b/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2036233/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/986418/",
+       "id": "986418"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 01.01.26",
+       "logo": "https://www.kan.org.il/media/1n1hhrva/aaaaaaaaaaa.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026730/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-01",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/985792/",
+       "id": "985792"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 31.12.25",
+       "logo": "https://www.kan.org.il/media/u5dpnlsx/בנימיני-מועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025889/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-31",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/985435/",
+       "id": "985435"
+      },
+      {
+       "name": "יואב קרקובסקי ויגאל גואטה | 30.12.25",
+       "logo": "https://www.kan.org.il/media/ernlui0q/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025102/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-30",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת יואב קרקובסקי ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/985090/",
+       "id": "985090"
+      },
+      {
+       "name": "בנימיני וגואטה | 29.12.25",
+       "logo": "https://www.kan.org.il/media/pz1hrn3r/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2024301/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/984727/",
+       "id": "984727"
+      },
+      {
+       "name": "בנימיני וגואטה | 28.12.25",
+       "logo": "https://www.kan.org.il/media/i4vdo2xr/בנימיני-וגואטה-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2023512/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/984324/",
+       "id": "984324"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 25.12.25",
+       "logo": "https://www.kan.org.il/media/vgdjf2py/נה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011960/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/983656/",
+       "id": "983656"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 24.12.25",
+       "logo": "https://www.kan.org.il/media/4unlqrgo/נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007912/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-24",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/983326/",
+       "id": "983326"
+      },
+      {
+       "name": "בנימיני וגואטה | 23.12.25",
+       "logo": "https://www.kan.org.il/media/n2hozvst/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2004369/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/982974/",
+       "id": "982974"
+      },
+      {
+       "name": "בנימיני וגואטה | 22.12.25",
+       "logo": "https://www.kan.org.il/media/guhjaoww/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2000422/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-22",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/982697/",
+       "id": "982697"
+      },
+      {
+       "name": "בנימיני וגואטה | 21.12.25",
+       "logo": "https://www.kan.org.il/media/unepl4fc/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1996638/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-21",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/982329/",
+       "id": "982329"
+      },
+      {
+       "name": "חן ליברמן וליאל קייזר | 18.12.25",
+       "logo": "https://www.kan.org.il/media/mhoftae3/חן-וליאל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1985987/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-18",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וליאל קייזר.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/981638/",
+       "id": "981638"
+      },
+      {
+       "name": "קרקובסקי ומזל מועלם | 17.12.25",
+       "logo": "https://www.kan.org.il/media/uzvppjhy/קרקובסקי-ומזל-מועלם-171225.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1981791/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-17",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת יואב קרקובסקי ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/981391/",
+       "id": "981391"
+      },
+      {
+       "name": "יגאל גואטה וחן ליברמן | 16.12.25",
+       "logo": "https://www.kan.org.il/media/u50fpch4/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1979181/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-16",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת יגאל גואטה וחן ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/980988/",
+       "id": "980988"
+      },
+      {
+       "name": "יגאל גואטה וחן ליברמן | 15.12.25",
+       "logo": "https://www.kan.org.il/media/plifd3ty/גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975691/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת יגאל גואטה וחן ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/980670/",
+       "id": "980670"
+      },
+      {
+       "name": "יואב קרקובסקי ויגאל גואטה | 14.12.25",
+       "logo": "https://www.kan.org.il/media/taxdgtgu/גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1972491/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-14",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת יואב קרקובסקי ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/980276/",
+       "id": "980276"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 11.12.25",
+       "logo": "https://www.kan.org.il/media/5mip2qrh/עופרררר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1963048/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-11",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/979628/",
+       "id": "979628"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 10.12.25",
+       "logo": "https://www.kan.org.il/media/5bxag1pi/בנימיני-ומועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961891/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-10",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/979366/",
+       "id": "979366"
+      },
+      {
+       "name": "רן בנימיני וישי שנרב | 09.12.25",
+       "logo": "https://www.kan.org.il/media/dhrbngde/רדיו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961451/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-09",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/978766/",
+       "id": "978766"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 08.12.25",
+       "logo": "https://www.kan.org.il/media/iwukaim4/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961066/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/978068/",
+       "id": "978068"
+      },
+      {
+       "name": "רן בנימיני וישי שנרב | 07.12.25",
+       "logo": "https://www.kan.org.il/media/a11livmt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1960454/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-07",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/977638/",
+       "id": "977638"
+      },
+      {
+       "name": "חן ליברמן ומזל מועלם | 04.12.25",
+       "logo": "https://www.kan.org.il/media/3a2i4ast/מועלם-וליברמן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1955084/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-04",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/976862/",
+       "id": "976862"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 03.12.25",
+       "logo": "https://www.kan.org.il/media/tptk52vj/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953725/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-03",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/976609/",
+       "id": "976609"
+      },
+      {
+       "name": "רן בנימיני וישי שנרב | 02.12.25",
+       "logo": "https://www.kan.org.il/media/elobcjlh/ישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953034/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-02",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/976197/",
+       "id": "976197"
+      },
+      {
+       "name": "רן בנימיני וישי שנרב | 01.12.25",
+       "logo": "https://www.kan.org.il/media/3aalf2fi/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1952320/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/975763/",
+       "id": "975763"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 30.11.25",
+       "logo": "https://www.kan.org.il/media/ht0lmvsa/בנימיני-מועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1951108/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-30",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/975460/",
+       "id": "975460"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 27.11.25",
+       "logo": "https://www.kan.org.il/media/uprpfjsa/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1950010/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-27",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/974780/",
+       "id": "974780"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 26.11.25",
+       "logo": "https://www.kan.org.il/media/dczoggov/s0506500_1_t00_00_28_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949767/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-26",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/974360/",
+       "id": "974360"
+      },
+      {
+       "name": "רן בנימיני וחן ליברמן | 25.11.25",
+       "logo": "https://www.kan.org.il/media/1aqhivmb/חן-ליברמן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949553/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וחן ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/974009/",
+       "id": "974009"
+      },
+      {
+       "name": "רן בנימיני וישי שנרב | 24.11.25",
+       "logo": "https://www.kan.org.il/media/indokjt3/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1948979/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-24",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/973534/",
+       "id": "973534"
+      },
+      {
+       "name": "רן בנימיני וישי שנרב | 23.11.25",
+       "logo": "https://www.kan.org.il/media/gq4i1u3n/אלה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1945978/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-23",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/973144/",
+       "id": "973144"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 20.11.25",
+       "logo": "https://www.kan.org.il/media/mrabl0pm/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937249/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/972340/",
+       "id": "972340"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 19.11.25",
+       "logo": "https://www.kan.org.il/media/vl3hvdo3/גגגג.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1934144/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-19",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/972161/",
+       "id": "972161"
+      },
+      {
+       "name": "סולימאן מסוודה ויגאל גואטה | 18.11.25",
+       "logo": "https://www.kan.org.il/media/qhjpwwvt/מסוואדה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1930757/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-18",
+       "plot": "שידור חי של תוכנית הרדיו של \"כאן חדשות ברשת ב\" בהגשת סולימאן מסוודה ויגאל גואטה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/971628/",
+       "id": "971628"
+      },
+      {
+       "name": "בנימיני וגואטה | 17.11.25",
+       "logo": "https://www.kan.org.il/media/d0hlwzal/גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1927497/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-17",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/971300/",
+       "id": "971300"
+      },
+      {
+       "name": "בנימיני וגואטה | 16.11.25",
+       "logo": "https://www.kan.org.il/media/exmhis4z/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1924107/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-16",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/970999/",
+       "id": "970999"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 13.11.25",
+       "logo": "https://www.kan.org.il/media/cq0pd3z5/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1914712/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-13",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/970324/",
+       "id": "970324"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 12.11.25",
+       "logo": "https://www.kan.org.il/media/wjagglxf/s0506498_1_t00_00_20_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1911315/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-12",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/970142/",
+       "id": "970142"
+      },
+      {
+       "name": "רן בנימיני ואליאור לוי | 11.11.25",
+       "logo": "https://www.kan.org.il/media/qlwjdryb/בנימיני-ולוי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907529/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ואליאור לוי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/969636/",
+       "id": "969636"
+      },
+      {
+       "name": "רן בנימיני ואליאור לוי | 10.11.25",
+       "logo": "https://www.kan.org.il/media/ltdkx3re/אליאור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1904025/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-10",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ואליאור לוי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/969253/",
+       "id": "969253"
+      },
+      {
+       "name": "בנימיני וגואטה | 09.11.25",
+       "logo": "https://www.kan.org.il/media/vg0fqsfx/בנימיני-גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1900345/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/968875/",
+       "id": "968875"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 06.11.25",
+       "logo": "https://www.kan.org.il/media/sqanc1b4/חן-וישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894915/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-06",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/968127/",
+       "id": "968127"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 05.11.25",
+       "logo": "https://www.kan.org.il/media/juhk4zps/cbbbbbb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1892312/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/967875/",
+       "id": "967875"
+      },
+      {
+       "name": "בנימיני וגואטה | 04.11.25",
+       "logo": "https://www.kan.org.il/media/1m2d5rfe/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891780/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-04",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/967413/",
+       "id": "967413"
+      },
+      {
+       "name": "בנימיני וגואטה | 03.11.25",
+       "logo": "https://www.kan.org.il/media/cpgh1mov/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891644/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/967082/",
+       "id": "967082"
+      },
+      {
+       "name": "בנימיני וגואטה | 02.11.25",
+       "logo": "https://www.kan.org.il/media/hsmp32cf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891575/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-02",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/966584/",
+       "id": "966584"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 30.10.25",
+       "logo": "https://www.kan.org.il/media/lzgigzsh/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891431/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-30",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/965782/",
+       "id": "965782"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 29.10.25",
+       "logo": "https://www.kan.org.il/media/qnzbbi1f/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891372/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-29",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/965427/",
+       "id": "965427"
+      },
+      {
+       "name": "רן בנימיני וישי שנרב | 28.10.25",
+       "logo": "https://www.kan.org.il/media/ruqel25n/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891310/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-28",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/964988/",
+       "id": "964988"
+      },
+      {
+       "name": "רן בנימיני ותמר אלמוג | 27.10.25",
+       "logo": "https://www.kan.org.il/media/lvylk0qe/s0505341_1_t00_00_19_09still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891252/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-27",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ותמר אלמוג.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/964561/",
+       "id": "964561"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 26.10.25",
+       "logo": "https://www.kan.org.il/media/kgjpjenl/בנימיני-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891198/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-26",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/963859/",
+       "id": "963859"
+      },
+      {
+       "name": "ישי שנרב וחן ליברמן | 23.10.25",
+       "logo": "https://www.kan.org.il/media/qdzds4qt/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891057/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-23",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת ישי שנרב וחן ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/962866/",
+       "id": "962866"
+      },
+      {
+       "name": "ישי שנרב ומזל מועלם | 22.10.25",
+       "logo": "https://www.kan.org.il/media/wnodfbpi/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891004/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-22",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת ישי שנרב ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/962577/",
+       "id": "962577"
+      },
+      {
+       "name": "בנימיני וגואטה | 21.10.25",
+       "logo": "https://www.kan.org.il/media/xduacxo0/s0505339_100_02_43_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890951/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-21",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/962171/",
+       "id": "962171"
+      },
+      {
+       "name": "בנימיני וגואטה | 19.10.25",
+       "logo": "https://www.kan.org.il/media/tjnnswuh/בנמיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890853/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-19",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/961536/",
+       "id": "961536"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 16.10.25",
+       "logo": "https://www.kan.org.il/media/e35ddqjn/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890767/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-16",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/960764/",
+       "id": "960764"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 15.10.25",
+       "logo": "https://www.kan.org.il/media/wygp2r22/בנימיני-ומועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890695/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-15",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/960273/",
+       "id": "960273"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 08.10.25",
+       "logo": "https://www.kan.org.il/media/yfbcwcbd/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1889188/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-08",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/957839/",
+       "id": "957839"
+      },
+      {
+       "name": "בנימיני וגואטה | 5.10.25",
+       "logo": "https://www.kan.org.il/media/yxkb2vbk/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1889144/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-05",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/956974/",
+       "id": "956974"
+      },
+      {
+       "name": "בנימיני וגואטה | 30.09.25",
+       "logo": "https://www.kan.org.il/media/qdrfbc3i/s0505330_1_t00_00_28_14still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5yd846g6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-30",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/955947/",
+       "id": "955947"
+      },
+      {
+       "name": "בנימיני וגואטה | 29.09.25",
+       "logo": "https://www.kan.org.il/media/4bbnsvyi/s0505329_100_00_33_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0nk9tl6t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-29",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/955547/",
+       "id": "955547"
+      },
+      {
+       "name": "בנימיני וגואטה | 28.09.25",
+       "logo": "https://www.kan.org.il/media/ckia05kn/בן-וגא.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3qaf4q0i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-28",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/955145/",
+       "id": "955145"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 25.09.25",
+       "logo": "https://www.kan.org.il/media/uggpfjg5/s0505588_100_00_36_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1xd60im2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-25",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/954320/",
+       "id": "954320"
+      },
+      {
+       "name": "בנימיני וגואטה | 21.09.25",
+       "logo": "https://www.kan.org.il/media/4foppcrd/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ss9e0k42/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-21",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/953274/",
+       "id": "953274"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 18.09.25",
+       "logo": "https://www.kan.org.il/media/kz4a2exc/s0505587_100_01_40_16still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tr2lw2th/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-18",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/952475/",
+       "id": "952475"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 17.09.25",
+       "logo": "https://www.kan.org.il/media/nolbzude/לאתר-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4njdwqu9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-17",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/952106/",
+       "id": "952106"
+      },
+      {
+       "name": "בנימיני וגואטה | 16.09.25",
+       "logo": "https://www.kan.org.il/media/3xvpwhnm/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w7sjhym6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-16",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/951787/",
+       "id": "951787"
+      },
+      {
+       "name": "בנימיני וגואטה | 15.09.25",
+       "logo": "https://www.kan.org.il/media/vskm2mx3/s0505323_100_00_42_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x4ezlqy6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-15",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/951408/",
+       "id": "951408"
+      },
+      {
+       "name": "בנימיני וגואטה | 14.09.25",
+       "logo": "https://www.kan.org.il/media/wgqhdlf1/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cn741zas/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-14",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/951007/",
+       "id": "951007"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 11.09.25",
+       "logo": "https://www.kan.org.il/media/js1ir04i/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_khzuktfk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-11",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/950276/",
+       "id": "950276"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 10.09.25",
+       "logo": "https://www.kan.org.il/media/v2akxekk/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_78umjv1e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-10",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/949573/",
+       "id": "949573"
+      },
+      {
+       "name": "בנימיני וגואטה | 08.09.25",
+       "logo": "https://www.kan.org.il/media/ui1hyxfg/binyamini.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ks6u41fo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-08",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/949182/",
+       "id": "949182"
+      },
+      {
+       "name": "בנימיני וגואטה | 07.09.25",
+       "logo": "https://www.kan.org.il/media/5ean1jpr/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9fyruofq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-07",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/948944/",
+       "id": "948944"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 04.09.25",
+       "logo": "https://www.kan.org.il/media/2hqn0ihd/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kbmrpy6v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-04",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/948155/",
+       "id": "948155"
+      },
+      {
+       "name": "בנימיני ומזל מועלם | 03.09.25",
+       "logo": "https://www.kan.org.il/media/xw1jow5r/s0506488_100_01_02_02still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k8q4rsnp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-03",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/947791/",
+       "id": "947791"
+      },
+      {
+       "name": "בנימיני וגואטה | 02.09.25",
+       "logo": "https://www.kan.org.il/media/lygazl1c/רן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8yq7o8d7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-02",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/947416/",
+       "id": "947416"
+      },
+      {
+       "name": "סולימאן מסוודה ויגאל גואטה | 01.09.25",
+       "logo": "https://www.kan.org.il/media/wk5ddhfc/nvjd.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s8g2fhgy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-09-01",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת סולימאן מסוודה ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/947082/",
+       "id": "947082"
+      },
+      {
+       "name": "בנימיני וגואטה | 31.08.25",
+       "logo": "https://www.kan.org.il/media/vnibizhq/דנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3j1geb2d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-31",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/946775/",
+       "id": "946775"
+      },
+      {
+       "name": "רועי שרון וישי שנרב | 28.08.25",
+       "logo": "https://www.kan.org.il/media/ewqhdghu/s0505584_100_00_27_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ay1ruc0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-28",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רועי שרון וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/946060/",
+       "id": "946060"
+      },
+      {
+       "name": "ישי שנרב ומזל מועלם | 27.08.25",
+       "logo": "https://www.kan.org.il/media/3mhpionh/ישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_adx8xb1k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-27",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת ישי שנרב ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/945709/",
+       "id": "945709"
+      },
+      {
+       "name": "יגאל גואטה ויואב קרקובסקי | 26.08.25",
+       "logo": "https://www.kan.org.il/media/ue5bzx5y/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v0p9k51n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-26",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת יואב קרקובסקי ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/945325/",
+       "id": "945325"
+      },
+      {
+       "name": "יגאל גואטה ומזל מועלם | 25.08.25",
+       "logo": "https://www.kan.org.il/media/phsh1whz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f1m9i7p0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-25",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/944935/",
+       "id": "944935"
+      },
+      {
+       "name": "בנימיני וגואטה | 24.08.25",
+       "logo": "https://www.kan.org.il/media/0hipclpo/בנימיני-וגואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9n3k0r4z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-24",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/944575/",
+       "id": "944575"
+      },
+      {
+       "name": "ישי שנרב ורועי שרון | 21.08.25",
+       "logo": "https://www.kan.org.il/media/dwsjq2ji/נימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qfqkfwnt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-21",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת ישי שנרב ורועי שרון.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/943922/",
+       "id": "943922"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 20.08.25",
+       "logo": "https://www.kan.org.il/media/ddonvpud/dasdasdasdasdas.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3kqv5jdx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/943606/",
+       "id": "943606"
+      },
+      {
+       "name": "בנימיני וגואטה | 19.08.25",
+       "logo": "https://www.kan.org.il/media/j4tj1pcn/s0505312_100_00_09_15still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e4oaufgd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/943112/",
+       "id": "943112"
+      },
+      {
+       "name": "בנימיני וגואטה | 18.08.25",
+       "logo": "https://www.kan.org.il/media/pfgn0ikc/גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iu096l1f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/942544/",
+       "id": "942544"
+      },
+      {
+       "name": "בנימיני וגואטה | 17.08.25",
+       "logo": "https://www.kan.org.il/media/qm4d4ddw/s0488687_100_02_33_17still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4od49e92/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-17",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/942115/",
+       "id": "942115"
+      },
+      {
+       "name": "חן ליברמן וישי שנרב | 14.08.25",
+       "logo": "https://www.kan.org.il/media/spektpld/s0505582_100_11_10_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6rg14tnb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-14",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן וישי שנרב.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/941255/",
+       "id": "941255"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 13.08.25",
+       "logo": "https://www.kan.org.il/media/z3khyyzx/בנימיני-וגואטה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k0ip8rt5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-13",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/940972/",
+       "id": "940972"
+      },
+      {
+       "name": "בינימיני וגואטה | 12.08.25",
+       "logo": "https://www.kan.org.il/media/swmdskq4/בנימיני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z83n5erw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-12",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/940516/",
+       "id": "940516"
+      },
+      {
+       "name": "בינימיני וגואטה | 11.08.25",
+       "logo": "https://www.kan.org.il/media/qibgf2yl/גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kilslfv5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-11",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/940161/",
+       "id": "940161"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 10.08.25",
+       "logo": "https://www.kan.org.il/media/5o4pgifl/בנימיני-ומועלם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fd2yijbr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-10",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/939837/",
+       "id": "939837"
+      },
+      {
+       "name": "חן ליברמן ומזל מועלם | 07.08.25",
+       "logo": "https://www.kan.org.il/media/4qdfflpv/מזל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i5r94mba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-07",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת חן ליברמן ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/939280/",
+       "id": "939280"
+      },
+      {
+       "name": "רן בנימיני ומזל מועלם | 06.08.25 ",
+       "logo": "https://www.kan.org.il/media/4kbhqfcd/בנימיני-וגואטהpng.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6qr2dphe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ומזל מועלם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/938828/",
+       "id": "938828"
+      },
+      {
+       "name": "בינימיני וגואטה | 05.08.25",
+       "logo": "https://www.kan.org.il/media/zqrimrsi/58-גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xzsoedng/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/938817/",
+       "id": "938817"
+      },
+      {
+       "name": "בינימיני וגואטה | 04.08.25",
+       "logo": "https://www.kan.org.il/media/5tplcdxd/48-גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lf4mdeum/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני ויגאל גואטה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/938816/",
+       "id": "938816"
+      },
+      {
+       "name": "רן בנימיני וגילי כהן | 03.08.25",
+       "logo": "https://www.kan.org.il/media/fcpit4ni/38-גואטה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tc1ptoam/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-03",
+       "plot": "שידור חי של תוכנית הרדיו של כאן ב' בהגשת רן בנימיני וגילי כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-900233/938815/",
+       "id": "938815"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

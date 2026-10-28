@@ -1,0 +1,881 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - היהודים באים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12614/",
+   "series_id": "12614",
+   "updated": "2026-10-28 09:51",
+   "sub_categories": [
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "היהודים באים | לקט חנוכה",
+       "logo": "https://www.kan.org.il/media/kjmjf5rf/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hdjm43ts/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-19",
+       "plot": "ספיישל חנוכה של \"היהודים באים\". מיטב המערכונים מעונות קודמות לחג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/837936/",
+       "id": "837936",
+       "season": 8
+      },
+      {
+       "name": "היהודים באים | לקט מעבדות לחירות",
+       "logo": "https://www.kan.org.il/media/oabd0yvi/היהודים-באים-לקט-מעבדות-לחירות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0dk8geyz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-13",
+       "plot": "ספיישל מעבדות לחירות של \"היהודים באים\" לכבוד פסח. מיטב המערכונים מעונות קודמות לחג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/783883/",
+       "id": "783883",
+       "season": 8
+      },
+      {
+       "name": "היהודים באים | לקט נשים בציונות",
+       "logo": "https://www.kan.org.il/media/qbxh5nr3/לקט-נשים-בציונות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f69kcijb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-13",
+       "plot": "ספיישל נשים בציונות של \"היהודים באים\". מיטב המערכונים מעונות קודמות עם הנשים המעמעותיות בהיסטוריית ישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/783881/",
+       "id": "783881",
+       "season": 8
+      },
+      {
+       "name": "היהודים באים | לקט ראש השנה - בראשית",
+       "logo": "https://www.kan.org.il/media/isvl40c0/היהודים-באים-לקט-ראש-השנה-בראשית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2g3g8n3j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-13",
+       "plot": "מיטב המערכונים של סיפורי בראשית מתוך \"היהודים באים\". בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/783879/",
+       "id": "783879",
+       "season": 8
+      },
+      {
+       "name": "היהודים באים | לקט קיבוץ גלויות",
+       "logo": "https://www.kan.org.il/media/2denwmkf/תמונה-מעודכנת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_swuewtay/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-13",
+       "plot": "ספיישל יום העצמאות של \"היהודים באים\". מיטב המערכונים מעונות קודמות בנושא קיבוץ גלויות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/783877/",
+       "id": "783877",
+       "season": 8
+      },
+      {
+       "name": "היהודים באים | לקט ראשי ממשלות",
+       "logo": "https://www.kan.org.il/media/skenmj5a/היהודים-באים-לקט-ראשי-ממשלות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_74gr2qjl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-13",
+       "plot": "ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום. הפעם: מיטב המערכונים בנושא ראשי ממשלה בישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/783869/",
+       "id": "783869",
+       "season": 8
+      },
+      {
+       "name": "היהודים באים | לקט שבועות",
+       "logo": "https://www.kan.org.il/media/ppkhnzbk/תמונה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_75y87nco/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-09",
+       "plot": "ספיישל שבועות של \"היהודים באים\". מיטב המערכונים מעונות קודמות לחג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/759232/",
+       "id": "759232",
+       "season": 8
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "היהודים באים עונה  6 | פרק 13",
+       "logo": "https://www.kan.org.il/media/h13pehij/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1qr41r8q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "יוסף ולאה בשיחה כנה, חלוקת הארץ, חיים טופול סוכן מוסד ושיר הפרידה של הדמויות האהובות. \"היהודים באים\" סוגרת עונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/769766/",
+       "id": "769766",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה  6 | פרק 12",
+       "logo": "https://www.kan.org.il/media/3bsho5kx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j3571fl5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "כללי התנהגות לנשים, הפעם ההיא שהשחקן חיים טופול גויס למוסד, והנשק הסודי של מדינת ישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/769765/",
+       "id": "769765",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 11",
+       "logo": "https://www.kan.org.il/media/f35lofzi/אתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v2cusxmn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "שרון ושמיר עונים על שאלונים, רפול מעוניין בבוץ, והאמן המפתיע שסחף מדינה שלמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/769764/",
+       "id": "769764",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 10",
+       "logo": "https://www.kan.org.il/media/e0co2rag/טמבנייל-פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_632hzt0d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "העימות בין פרס ושמיר, ויצמן והחיילים הבודדים, הגאון מוילנה ומבזק חדשות מיוחד על אירוע בלתי נסלח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/769755/",
+       "id": "769755",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 6",
+       "logo": "https://www.kan.org.il/media/kzkaknya/תמונה-ליוטיוב-םרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q55r111g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-25",
+       "plot": "יעקב מאשים מלאך שרב איתו מכות, המכבים מתרשמים מנס, בן גוריון מנסה לגייס חרדים ואיך היו מדווחים היום על רצח רבין?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/765598/",
+       "id": "765598",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 9",
+       "logo": "https://www.kan.org.il/media/rvyizbik/היהודים-באים-6-פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nvgi2cco/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-25",
+       "plot": "תחקיר אסון מירון (הראשון), הגזרות של פרעה, משפט ההומואים בצה\"ל ובתיה עוזיאל כוכבת רשת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/765592/",
+       "id": "765592",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 8",
+       "logo": "https://www.kan.org.il/media/tqcnfjwo/פרק-8-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hbkw9ani/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-20",
+       "plot": "בן גוריון מבקש זלוטי מההורים בשביל מדינה יהודית, עם ישראל מעדיף מלך סופר מגניב, איך נלחמים כשלא מבדילים בין ש' לס', וכשהמקובלים בכיתה הם מקובלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/763623/",
+       "id": "763623",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 7",
+       "logo": "https://www.kan.org.il/media/l2ulvevk/s0421921.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u8iyng4c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-18",
+       "plot": "הכוהנות, רצח ארלוזורוב, מונדיאל 82 וארבעה בנים יושבים בבר: היהודים באים, פרק חדש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/762454/",
+       "id": "762454",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 5",
+       "logo": "https://www.kan.org.il/media/51fowklm/s0421919_item01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oljq8q9b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-05",
+       "plot": "שלומית אלוני מפוטרת, אמא של שפינוזה מגנה עליו מחרם והעם שוב יוצא להפגין נגד הרפורמה של הכוהנים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/757726/",
+       "id": "757726",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 4",
+       "logo": "https://www.kan.org.il/media/hjtpobo1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1eubipqy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-19",
+       "plot": "מימונה אצל דוד לוי, הבת שהצליחה להרוג את סיסרא והקינה המלאכותית החדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/751088/",
+       "id": "751088",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 3",
+       "logo": "https://www.kan.org.il/media/c1ebgxvu/היהודים-באים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_470kg86z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-13",
+       "plot": "אנשי המוסד מורידים את מבחוח, נתן אשל מצלם תחתונים, לוי ושמעון נוקמים והקנאים שורפים את כל האסמים בירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/748698/",
+       "id": "748698",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 2",
+       "logo": "https://www.kan.org.il/media/0gpecnhe/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1x4kxgp7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-13",
+       "plot": "שמשון מופקר בדרום, הורדוס גוסס, משה פונה לעם ישראל ורפול מבקר בכלא צבאי. עונה חדשה לסדרת הסאטירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/748630/",
+       "id": "748630",
+       "season": 6
+      },
+      {
+       "name": "היהודים באים עונה 6 | פרק 1 - ספיישל עצמאות",
+       "logo": "https://www.kan.org.il/media/t33jgfjf/היהודים-באים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_88c72fv6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-13",
+       "plot": "פרק מיוחד המתמקד באירועים סביב הכרזת העצמאות. התקווה הגדולה והחרדה הגדולה אפילו יותר, וההחלטה של איש אחד, בן גוריון, שלמרות האיומים מסביב, חוסר הגיבוי של העולם והקונפליקטים במועצת העם, הלך על כל הקופה והכריז על מדינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s6/748629/",
+       "id": "748629",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "היהודים באים עונה 5 | פרק 13",
+       "logo": "https://www.kan.org.il/media/qyakisuy/2022-6-7-imgid-75743_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t3sc4l57/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138330/",
+       "id": "138330",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 12",
+       "logo": "https://www.kan.org.il/media/iutb55hu/2022-5-3-imgid-73724_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5la3ylk4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138327/",
+       "id": "138327",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 11",
+       "logo": "https://www.kan.org.il/media/xfifc3dx/2022-5-3-imgid-73720_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f87o59xd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138324/",
+       "id": "138324",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 10",
+       "logo": "https://www.kan.org.il/media/n0nl2eoq/2022-4-27-imgid-73424_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fk5aq35r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138321/",
+       "id": "138321",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 9",
+       "logo": "https://www.kan.org.il/media/rvxmnjk3/2022-4-7-imgid-72291_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6y0jgrkz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138318/",
+       "id": "138318",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 8",
+       "logo": "https://www.kan.org.il/media/refostol/2022-4-7-imgid-72289_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kkhll854/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138315/",
+       "id": "138315",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 7",
+       "logo": "https://www.kan.org.il/media/xc5iwrmo/2022-4-6-imgid-72278_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fk4bxm50/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138312/",
+       "id": "138312",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 6",
+       "logo": "https://www.kan.org.il/media/1u3p4sx4/2022-3-27-imgid-71654_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rsvz4xlt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138309/",
+       "id": "138309",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 5",
+       "logo": "https://www.kan.org.il/media/j1lfe1td/2022-10-18-imgid-71243_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x73y6glz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138306/",
+       "id": "138306",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 4",
+       "logo": "https://www.kan.org.il/media/jc3jf5o2/2022-2-16-imgid-69410_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o5r96g8e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138303/",
+       "id": "138303",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 3",
+       "logo": "https://www.kan.org.il/media/dnzjke5k/2022-2-16-imgid-69409_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5bzv29t8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138300/",
+       "id": "138300",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 2",
+       "logo": "https://www.kan.org.il/media/uksbfl5k/2022-2-16-imgid-69407_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lu424a96/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138297/",
+       "id": "138297",
+       "season": 5
+      },
+      {
+       "name": "היהודים באים עונה 5 | פרק 1",
+       "logo": "https://www.kan.org.il/media/r35aupmu/2022-2-16-imgid-69406_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kj3cfpkb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חמישית לסדרת הסאטירה זוכת פרס האקדמיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור, יניב ביטון ומעיין בלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s5/138294/",
+       "id": "138294",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "היהודים באים עונה 4 | פרק 15",
+       "logo": "https://www.kan.org.il/media/duoh4ep1/2020-9-3-imgid-38435_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tkh0r5au/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113914/",
+       "id": "113914",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 14",
+       "logo": "https://www.kan.org.il/media/t1aaru04/2020-8-31-imgid-38181_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v5bdlfqa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113912/",
+       "id": "113912",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 13",
+       "logo": "https://www.kan.org.il/media/1njdj531/2020-8-20-imgid-37622_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g52ozb6t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113909/",
+       "id": "113909",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 12",
+       "logo": "https://www.kan.org.il/media/awijr4gy/2020-8-13-imgid-37477_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ggozlxhi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113907/",
+       "id": "113907",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 11",
+       "logo": "https://www.kan.org.il/media/uxpdftdg/2020-8-10-imgid-37212_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wuxmjnbj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113905/",
+       "id": "113905",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 10",
+       "logo": "https://www.kan.org.il/media/qzblooak/2020-7-23-imgid-36935_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mxwhbayk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113903/",
+       "id": "113903",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 9",
+       "logo": "https://www.kan.org.il/media/j12dfpty/2020-7-23-imgid-36938_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_axznvp5q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113901/",
+       "id": "113901",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 8",
+       "logo": "https://www.kan.org.il/media/i1njaday/2020-7-20-imgid-36736_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pou5x9y1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113899/",
+       "id": "113899",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 7",
+       "logo": "https://www.kan.org.il/media/jganh515/2020-7-13-imgid-36579_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ofrumhc3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113897/",
+       "id": "113897",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 6",
+       "logo": "https://www.kan.org.il/media/cpjbrr2e/2020-7-6-imgid-36262_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9nc7bhxs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113895/",
+       "id": "113895",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 5",
+       "logo": "https://www.kan.org.il/media/1s5jydel/2020-6-21-imgid-35471_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_70zt6s2m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113892/",
+       "id": "113892",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 4",
+       "logo": "https://www.kan.org.il/media/ahrofo2b/2020-6-21-imgid-35470_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bgan9ut2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113889/",
+       "id": "113889",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 3",
+       "logo": "https://www.kan.org.il/media/nslkw50v/2020-6-18-imgid-35347_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bxk9ib3l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113887/",
+       "id": "113887",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 2",
+       "logo": "https://www.kan.org.il/media/syllhijk/2020-6-11-imgid-34957_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3658z3rw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה. סדרה הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון. הסיפורים שכולנו מכירים מזווית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113884/",
+       "id": "113884",
+       "season": 4
+      },
+      {
+       "name": "היהודים באים עונה 4 | פרק 1",
+       "logo": "https://www.kan.org.il/media/zoulxltb/2020-6-4-imgid-34516_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ermsegyf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה רביעית לסדרת הסאטירה, זוכת פרס האקדמיה לטלוויזיה. ההיסטוריה והסיפורים של העם היהודי מתקופת התנ\"ך ועד ימינו, מזווית קצת אחרת. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי, שירה נאור ויניב ביטון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s4/113627/",
+       "id": "113627",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "היהודים באים עונה 3 | המיטב",
+       "logo": "https://www.kan.org.il/media/yhppbjkv/cat27037_img_cover787770151.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_afgneflz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונה 3 | המיטב - ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו. בכיכובם של מוני מושונוב, יוסי מרשק, יעל שרוני, עידו מוסרי ויניב ביטון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/84085/",
+       "id": "84085",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 14",
+       "logo": "https://www.kan.org.il/media/rd4e05be/imgid-64081_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0yscs2wl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81615/",
+       "id": "81615",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 13",
+       "logo": "https://www.kan.org.il/media/zksjy2ig/cat23559_img536971186.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d02ivkef/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81612/",
+       "id": "81612",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 12",
+       "logo": "https://www.kan.org.il/media/e0ypqswh/cat23558_img498168000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_erfers1p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81609/",
+       "id": "81609",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 11",
+       "logo": "https://www.kan.org.il/media/0jmfhvyg/cat23557_img926013151.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_45oqaas6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81606/",
+       "id": "81606",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 10",
+       "logo": "https://www.kan.org.il/media/0aihphmn/imgid-73424_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f763zh4o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81603/",
+       "id": "81603",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 9",
+       "logo": "https://www.kan.org.il/media/mcqnusno/imgid-72291_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2mrnlhtf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81600/",
+       "id": "81600",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 8",
+       "logo": "https://www.kan.org.il/media/ac2jrma5/cat23554_img971845580.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_87jh9nz8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81597/",
+       "id": "81597",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 7",
+       "logo": "https://www.kan.org.il/media/hd2gssig/cat23553_img365646966.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cr3dulrz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81594/",
+       "id": "81594",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 6",
+       "logo": "https://www.kan.org.il/media/jegizij0/cat23552_img_cover522352248.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zd18sct9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81591/",
+       "id": "81591",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 5",
+       "logo": "https://www.kan.org.il/media/mwchrp2f/cat23551_img905928273.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zgmr3kml/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81588/",
+       "id": "81588",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 4",
+       "logo": "https://www.kan.org.il/media/qj5bft1c/cat23550_img582958549.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mlg5dqvj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81585/",
+       "id": "81585",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 3",
+       "logo": "https://www.kan.org.il/media/kw0jajoq/cat23549_img_cover219626913.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_brdqnmbg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81582/",
+       "id": "81582",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 |  פרק 2",
+       "logo": "https://www.kan.org.il/media/20db1jtx/cat23542_img699692420.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_069gsgby/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81574/",
+       "id": "81574",
+       "season": 3
+      },
+      {
+       "name": "היהודים באים עונה 3 | פרק 1",
+       "logo": "https://www.kan.org.il/media/mmyprbbx/cat23532_img_cover260642859.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y63nudqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היהודים באים היא סדרת טלוויזיה ישראלית סאטירית, זוכת פרס האקדמיה, הכוללת מערכונים אודות ההיסטוריה של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s3/81564/",
+       "id": "81564",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "היהודים באים עונה 2 | פרק 15",
+       "logo": "https://www.kan.org.il/media/nbffhg0y/2022-10-18-imgid-83529_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fdtg8un8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/81571/",
+       "id": "81571",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 14",
+       "logo": "https://www.kan.org.il/media/fejjc1za/2022-10-18-imgid-83527_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tctmvlyl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77610/",
+       "id": "77610",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 13",
+       "logo": "https://www.kan.org.il/media/yhwnghkk/2022-10-18-imgid-83526_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c614f33n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77607/",
+       "id": "77607",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 12",
+       "logo": "https://www.kan.org.il/media/xrdje15e/2022-10-18-imgid-83524_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vchg4mt9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77604/",
+       "id": "77604",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 11",
+       "logo": "https://www.kan.org.il/media/zumf50sy/2022-10-18-imgid-83523_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eflcrf6p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77601/",
+       "id": "77601",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 10",
+       "logo": "https://www.kan.org.il/media/s2ylp5qc/2022-10-18-imgid-83521_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yf7drpf4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77598/",
+       "id": "77598",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 9",
+       "logo": "https://www.kan.org.il/media/tq1nqfzd/2022-10-18-imgid-83520_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ya67ok21/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77595/",
+       "id": "77595",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 8",
+       "logo": "https://www.kan.org.il/media/d5qpskgn/2022-10-18-imgid-83519_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f41yomus/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77592/",
+       "id": "77592",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 7",
+       "logo": "https://www.kan.org.il/media/qarc2uut/2022-10-18-imgid-83518_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9vf91vwd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77589/",
+       "id": "77589",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 6",
+       "logo": "https://www.kan.org.il/media/rtml4zrz/2022-10-18-imgid-83517_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dyvcw1u7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77586/",
+       "id": "77586",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 5",
+       "logo": "https://www.kan.org.il/media/4sijvvrl/2022-10-18-imgid-83516_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4plp6fy1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77583/",
+       "id": "77583",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 4",
+       "logo": "https://www.kan.org.il/media/v4vpyvo4/2022-10-18-imgid-83544_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kadx6msz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77580/",
+       "id": "77580",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 3",
+       "logo": "https://www.kan.org.il/media/hohjnwpm/2022-10-18-imgid-83543_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_prbfyns1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77577/",
+       "id": "77577",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 2",
+       "logo": "https://www.kan.org.il/media/soifmnaw/2022-10-18-imgid-83542_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jql71ei8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77574/",
+       "id": "77574",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים עונה 2 | פרק 1",
+       "logo": "https://www.kan.org.il/media/er0f5tyz/2022-10-18-imgid-83541_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aba88chk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עונתה השניה של סדרת המערכונים שחוזרת לרגעים הגדולים (והקטנים) של העם היהודי, ומעירה לחיים את הדמויות ההיסטוריות החשובות (והפחות חשובות)",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77571/",
+       "id": "77571",
+       "season": 2
+      },
+      {
+       "name": "היהודים באים | ספיישל עצמאות",
+       "logo": "https://www.kan.org.il/media/oxlcyisz/cat17951_img_cover.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r3z1gpzg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "כאן שמחים להציג את חגיגות יום העצמאות ה-70 של המדינה החשמונאית בפרק מיוחד של \"היהודים באים\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s2/77507/",
+       "id": "77507",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "היהודים באים עונה 1 |  פרק 1",
+       "logo": "https://www.kan.org.il/media/pfsj1ue2/2022-10-18-imgid-83522_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lxdm9l6x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סדרת מערכונים סאטירית הבוחנת את ההיסטוריה של העם היהודי מתקופת התנ\"ך ועד ימינו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/s1/77532/",
+       "id": "77532",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "היהודים באים | טריילר",
+       "logo": "https://www.kan.org.il/media/zrehfx52/1920x1080-with-logo_היהודים-באים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_inawr3sl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "סדרת מערכונים על הרגעים הגדולים (והקטנים) של העם היהודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/866227/",
+       "id": "866227"
+      },
+      {
+       "name": "היהודים באים - הצצה | דניאל פינטו",
+       "logo": "https://www.kan.org.il/media/2zub5m2f/היהודים-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w66wqz63/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "הרמטכ\"ל רפאל איתן מנסה להמתיק את גזר הדין של דניאל פינטו, שהרג אזרח לבנוני במבצע ליטני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/856207/",
+       "id": "856207"
+      },
+      {
+       "name": "היהודים באים - הצצה | הפלישתים מורתעים",
+       "logo": "https://www.kan.org.il/media/4b2dehli/היהודים-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9df05xcg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "אין ספק שהפלישתים מורתעים, לכן כדאי לאסוף את כל הנשקים מכולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12614/856206/",
+       "id": "856206"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

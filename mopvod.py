@@ -16,7 +16,7 @@ MopVOD - בונה קובצי JSON של ארכיון ה-VOD של כאן (kan.org.
     python mopvod.py --publish            # גם מעלה ל-GitHub (דורש טוקן, ראה README)
 
 הסקריפט קורא דפים ציבוריים בלבד, בקצב מנומס (השהיה בין בקשות), ושומר מטמון
-של פרקים שכבר נקראו ב-cache/ כך שריצה חוזרת מביאה רק פרקים חדשים.
+של פרקים שכבר נקראו (cache/ וקובצי vod/ קיימים) כך שריצה חוזרת מביאה רק פרקים חדשים.
 """
 import argparse
 import concurrent.futures
@@ -34,14 +34,14 @@ import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(sys.argv[0] if getattr(sys, "frozen", False) else __file__))
 PROGRAMS_FILE = os.path.join(HERE, "programs.json")
-OUT_DIR = os.path.join(HERE, "out")
+OUT_DIR = HERE            # הפלט בשורש: MopVOD.json ליד הסקריפט, קובצי התוכניות ב-vod/
 VOD_SUBDIR = "vod"
 MAIN_FILE = "MopVOD.json"
 CACHE_DIR = os.path.join(HERE, "cache", "episodes")
 
-# יעד הפרסום ב-GitHub (אותו ריפו של channel.json: MopVOD.json בשורש, קובצי התוכניות ב-vod/)
+# יעד הפרסום ב-GitHub דרך ה-API (לריצה מקומית בלי git; ב-GitHub Actions הקבצים נשמרים ישירות בריפו)
 GITHUB_OWNER = "moshepilosof-ai"
-GITHUB_REPO = "mop_channel"
+GITHUB_REPO = "MopVOD"
 GITHUB_BRANCH = "main"
 GITHUB_DIR = "vod"
 TOKEN_FILE = os.path.join(HERE, "github_token.txt")
@@ -245,12 +245,42 @@ def cache_path(ep_id):
     return os.path.join(CACHE_DIR, f"{ep_id}.json")
 
 
+_SEED = None
+
+
+def seed_from_outputs():
+    """פרקים שכבר נמצאים בקובצי vod/*.json מהריצות הקודמות. כך גם checkout נקי (GitHub Actions)
+    קורא מהאתר רק פרקים חדשים, בלי תיקיית cache."""
+    global _SEED
+    if _SEED is not None:
+        return _SEED
+    _SEED = {}
+    vod_dir = os.path.join(OUT_DIR, VOD_SUBDIR)
+    if os.path.isdir(vod_dir):
+        for fname in os.listdir(vod_dir):
+            if not fname.endswith(".json"):
+                continue
+            try:
+                with open(os.path.join(vod_dir, fname), encoding="utf-8") as f:
+                    data = json.load(f)
+                for cat in data.get("categories", []):
+                    for sc in cat.get("sub_categories", []):
+                        for ch in sc.get("channels", []):
+                            if ch.get("id") and ch.get("url"):
+                                _SEED[str(ch["id"])] = {k: ch.get(k) for k in ("name", "logo", "url", "date", "plot", "page", "duration") if ch.get(k) is not None}
+            except Exception as e:  # noqa: BLE001
+                print(f"   (אזהרה: לא ניתן לקרוא {fname}: {e})")
+    if _SEED:
+        print(f"   {len(_SEED)} פרקים ידועים מקובצי vod/ קיימים")
+    return _SEED
+
+
 def load_cached(ep_id):
     p = cache_path(ep_id)
     if os.path.exists(p):
         with open(p, encoding="utf-8") as f:
             return json.load(f)
-    return None
+    return seed_from_outputs().get(str(ep_id))
 
 
 def save_cached(ep_id, info):
@@ -325,11 +355,27 @@ def write_outputs(results, single=False):
     vod_dir = os.path.join(OUT_DIR, VOD_SUBDIR)
     os.makedirs(vod_dir, exist_ok=True)
     now = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
-    # קודם כותבים את קובצי התוכניות של הריצה הזו
+    # קודם כותבים את קובצי התוכניות של הריצה הזו - רק אם משהו השתנה (חוץ מחותמת הזמן)
+    changed = unchanged = 0
     for prog, data in results:
         fname = f"{prog['id']}.json"
-        with open(os.path.join(vod_dir, fname), "w", encoding="utf-8") as f:
+        path = os.path.join(vod_dir, fname)
+        if os.path.exists(path):
+            try:
+                with open(path, encoding="utf-8") as f:
+                    old = json.load(f)
+                strip = lambda d: [dict(c, updated=None) for c in d.get("categories", [])]  # noqa: E731
+                if strip(old) == strip(data):
+                    unchanged += 1
+                    continue
+            except Exception:  # noqa: BLE001
+                pass
+        with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=1)
+        changed += 1
+        count = sum(len(sc["channels"]) for sc in data["categories"][0]["sub_categories"])
+        print(f"   -> {path}  ({count} פרקים, {os.path.getsize(path) // 1024} KB)")
+    print(f"   {changed} קובצי תוכניות עודכנו, {unchanged} ללא שינוי")
     # ואז בונים את MopVOD.json מכל קובצי התוכניות הקיימים (גם מריצות קודמות)
     main = {"name": "MopVOD", "updated": now, "sources": []}
     if single:
@@ -347,11 +393,10 @@ def write_outputs(results, single=False):
         main["sources"].append(entry)
         if single:
             main["categories"].append(cat)
-        print(f"   -> {os.path.join(vod_dir, fname)}  ({count} פרקים, {os.path.getsize(os.path.join(vod_dir, fname)) // 1024} KB)")
     main_path = os.path.join(OUT_DIR, MAIN_FILE)
     with open(main_path, "w", encoding="utf-8") as f:
         json.dump(main, f, ensure_ascii=False, indent=1)
-    print(f"   -> {main_path}  ({os.path.getsize(main_path) // 1024} KB{', כולל כל הפרקים' if single else ', רשימת תוכניות'})")
+    print(f"   -> {main_path}  ({len(main['sources'])} תוכניות, {os.path.getsize(main_path) // 1024} KB{', כולל כל הפרקים' if single else ''})")
 
 
 # ---------------------------------------------------------------- publish
@@ -402,8 +447,8 @@ def main():
     ap.add_argument("--program", help="מזהה תוכנית מתוך programs.json (ברירת מחדל: כולן)")
     ap.add_argument("--limit", type=int, help="לקרוא רק N פרקים אחרונים לכל תוכנית")
     ap.add_argument("--single", action="store_true", help="לכתוב את כל הפרקים לתוך MopVOD.json אחד (ברירת מחדל: רשימת תוכניות + קובץ לכל תוכנית)")
-    ap.add_argument("--publish", action="store_true", help="להעלות את out ל-GitHub אחרי הבנייה")
-    ap.add_argument("--publish-only", action="store_true", help="רק להעלות את מה שכבר ב-out")
+    ap.add_argument("--publish", action="store_true", help="להעלות את MopVOD.json ו-vod/ ל-GitHub דרך ה-API אחרי הבנייה")
+    ap.add_argument("--publish-only", action="store_true", help="רק להעלות את מה שכבר קיים ב-MopVOD.json ו-vod/")
     ap.add_argument("--delay", type=float, default=DELAY, help="השהיה בין בקשות (שניות)")
     ap.add_argument("--workers", type=int, default=WORKERS, help="כמה פרקים לקרוא במקביל")
     ap.add_argument("--discover", action="store_true", help="לגלות את כל תוכניות הטלוויזיה של כאן ולכתוב אותן ל-programs.json (בלי לבנות)")

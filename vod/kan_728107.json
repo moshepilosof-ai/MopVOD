@@ -1,0 +1,153 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הופה היי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-728107/",
+   "series_id": "728107",
+   "updated": "2026-10-28 09:48",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הופה היי | במרכז הקליטה",
+       "logo": "https://www.kan.org.il/media/h44nhusl/arc_mb70242872_1_v100_01_00_23still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196973/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-05",
+       "plot": "שלישיית \"הופה היי\" בתכנית מיוחדת ממרכז הקליטה דיפלומט בירושלים, עם ילדי העולים מאתיופיה ב\"מבצע שלמה\". מצטרפים לחגיגה גם אורנה ומשה דץ, שלמה גרוניך ולהקת חסידה, עמירם אטיאס, יובל רוט וטל גינת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/1037530/",
+       "id": "1037530",
+       "season": 1
+      },
+      {
+       "name": "הופה היי | עונה 5 פרק 8 - בעקבות הקמע האבוד חלק ג'",
+       "logo": "https://www.kan.org.il/media/4fbfwnd3/קמע-ג-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fq480t46/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "החבורה מצליחה להציל את מעיין, אבל עכשיו מתחיל מרדף אחר הגנבים שגילו על מקום הימצאו של הקמע האבוד. האם הם יצליחו להשיב את הקמע ולהביא את גשמי הברכה על הכינרת?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730308/",
+       "id": "730308",
+       "season": 1
+      },
+      {
+       "name": "הופה היי | עונה 5 פרק 7 - בעקבות הקמע האבוד חלק ב'",
+       "logo": "https://www.kan.org.il/media/bs0kfsfy/קמע-ב-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v6m7k21w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "מעיין, החברה החדשה שהצוות יצא למסע בעקבות הקמע האבוד עבורה, נחטפת על ידי באבא ג'ים והצוות נחלץ לעזרתה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730301/",
+       "id": "730301",
+       "season": 1
+      },
+      {
+       "name": "'הופה היי עונה 5 | פרק 6 - בעקבות הקמע האבוד חלק א",
+       "logo": "https://www.kan.org.il/media/i3yhp3xn/קמע-א-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xpth3kz8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "החברים משתכשכים בכינרת ופוגשים באישה צעירה ומעניינת שלוקחת אותם למסע בן שלושה חלקים אחר קמע שיכול להשפיע על מצב העננים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730297/",
+       "id": "730297",
+       "season": 1
+      },
+      {
+       "name": "הופה היי | פרק 7 - דלית אל כרמל",
+       "logo": "https://www.kan.org.il/media/0yaipkpy/דלית-אל-כרמל-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3k05to4b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "\"הצוות יוצא לטיול רגלי בעליות של דלית אל כרמל ומקבלים אירוח דרוזי מן המניין בהתלוותה של כתבת הטלוויזיה הצרפתית \"ססיל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730293/",
+       "id": "730293",
+       "season": 1
+      },
+      {
+       "name": "הופה היי עונה 2 | פרק 1 - פלמחים",
+       "logo": "https://www.kan.org.il/media/z2zpereq/פלמחים-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n5a3ky1g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "החבורה המוסיקלית חוזרת לימי הצבא ומבקרת בבסיס פלמחים במסגרת המילואים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730286/",
+       "id": "730286",
+       "season": 1
+      },
+      {
+       "name": "הופה היי עונה 2 | פרק 2 - בית שמש",
+       "logo": "https://www.kan.org.il/media/k2pbd1qu/בית-שמש-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_usewp07q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "הצוות עוצר לפק\"ל קפה בבית שמש, העיר שבה תחנת כיבוי האש לא פעילה ועתידה להיסגר לצמיתות, אבל החבורה שלנו דאגה שתחנת האש לא תיסגר בדרך יצירתית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730284/",
+       "id": "730284",
+       "season": 1
+      },
+      {
+       "name": "הופה היי עונה 2 | פרק 3 - חמת גדר",
+       "logo": "https://www.kan.org.il/media/kxhmhhdc/חמת-גדר-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eet2jj9a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "החבורה המוזיקלית מגיעה לביקור תנינים בחמת גדר ומכירה בדרך רופא עיניים עם מבטא מוזר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730280/",
+       "id": "730280",
+       "season": 1
+      },
+      {
+       "name": "הופה היי | פרק 6 - קריית שמונה",
+       "logo": "https://www.kan.org.il/media/5pzh1ne1/קריית-שמונה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v1ui8ee0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "הצוות המוסיקלי מבקרים בקריית שמונה ומדברים עם ילדים על ההבדלים בין החיים בקריית שמונה לבין החיים בתל אביב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/730249/",
+       "id": "730249",
+       "season": 1
+      },
+      {
+       "name": "הופה היי | פרק 3 - אור עקיבא",
+       "logo": "https://www.kan.org.il/media/xikgsywm/אור-עקיבא-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tkcrdlkv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-24",
+       "plot": "החבורה המוזיקלית חוגגת ללילי העז יום הולדת שנחטפת בידי אסירים נמלטים. האם החברים יצליחו להחזיר אותה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/728171/",
+       "id": "728171",
+       "season": 1
+      },
+      {
+       "name": "הופה היי | פרק 2 - חדרה",
+       "logo": "https://www.kan.org.il/media/jmcagqn0/חדרה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7xjfo464/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-24",
+       "plot": "החבורה פוגשת שוב את ציפי שביט, המתחזה למעריצה של עוזי חיטמן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/728166/",
+       "id": "728166",
+       "season": 1
+      },
+      {
+       "name": "הופה היי | פרק 11 - החרמון",
+       "logo": "https://www.kan.org.il/media/j45ldbcu/חרמון-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8ijwed35/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-24",
+       "plot": "החבורה המשעשעת מתחילה את המסע בדרך להופעה בחרמון, עם עז קשורה לרצועה ומנסים לשתף פעולה עם הזרים המיוחדים שפוגשים בדרך",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/s1/728165/",
+       "id": "728165",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הופה היי | פתיח",
+       "logo": "https://www.kan.org.il/media/ucnjmodt/הופה-היי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894871/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "פתיח לסדרת הקאלט \"הופה היי\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-728107/938961/",
+       "id": "938961"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

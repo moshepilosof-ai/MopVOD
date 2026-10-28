@@ -1,0 +1,131 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אבירם כץ",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11568/",
+   "series_id": "11568",
+   "updated": "2026-10-27 21:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אבירם כץ | פרק 8",
+       "logo": "https://www.kan.org.il/media/tj4bxuum/https-kanstaticazureedgenet-download-pictures-2023-2-9-imgid-93585_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_76sornrg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בפרק הסיום המשטרה מגיעה לחקר האמת, ואבירם עומד בפני החלטה גורלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/159936/",
+       "id": "159936",
+       "season": 1
+      },
+      {
+       "name": "אבירם כץ | פרק 7",
+       "logo": "https://www.kan.org.il/media/ci0blmiw/https-kanstaticazureedgenet-download-pictures-2023-2-8-imgid-93414_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_20p2rwbv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אלישבע ואבירם יוצאים לחקור את מותו של גואטה. אבירם מוצא את עצמו מואשם ברצח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/159762/",
+       "id": "159762",
+       "season": 1
+      },
+      {
+       "name": "אבירם כץ | פרק 6",
+       "logo": "https://www.kan.org.il/media/vqnppfhr/https-kanstaticazureedgenet-download-pictures-2023-2-2-imgid-92900_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5dve46d8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לינדה מאבדת סבלנות, אביטל כועסת, ואבירם משיג פריצת דרך משמעותית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/159222/",
+       "id": "159222",
+       "season": 1
+      },
+      {
+       "name": "אבירם כץ | פרק 5",
+       "logo": "https://www.kan.org.il/media/drrhfxjf/https-kanstaticazureedgenet-download-pictures-2023-1-29-imgid-92573_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qlt2g02i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אבירם מנסה למנוע את השתלת האברים של גואטה, ומתקדם בחקירתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/158958/",
+       "id": "158958",
+       "season": 1
+      },
+      {
+       "name": "אבירם כץ | פרק 4",
+       "logo": "https://www.kan.org.il/media/bmpmmfs2/https-kanstaticazureedgenet-download-pictures-2023-1-24-imgid-92143_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ua29nyhu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אבירם מבקר את ויקטור גואטה בבית החולים, מתחמק מהמשטרה, ומוצא מפלט בחוג ספרותי בעין כרם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/158433/",
+       "id": "158433",
+       "season": 1
+      },
+      {
+       "name": "אבירם כץ | פרק 3",
+       "logo": "https://www.kan.org.il/media/izvndz0w/https-kanstaticazureedgenet-download-pictures-2023-1-24-imgid-92141_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q6v06kpy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סיפורה של אלישבע מתחיל להחשף, אך התעלומה רק מתחילה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/158430/",
+       "id": "158430",
+       "season": 1
+      },
+      {
+       "name": "אבירם כץ | פרק 2",
+       "logo": "https://www.kan.org.il/media/shvcqtae/https-kanstaticazureedgenet-download-pictures-2023-1-19-imgid-91628_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qtit680g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לאחר שהסתבך, אבירם מציע ללינדה עזרה בפתרון התעלומה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/157802/",
+       "id": "157802",
+       "season": 1
+      },
+      {
+       "name": "אבירם כץ | פרק 1",
+       "logo": "https://www.kan.org.il/media/m1gpppvd/2023-1-19-imgid-91625_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c2frjc2y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דרמה בלשית קומית חדשה מאת דנה מודן, בבימויו של איתן צור, המגוללת את סיפורו של אבירם כץ, סופר מצליח שנמצא במשבר כתיבה, והופך לחשוד בחטיפה ורצח לאחר שגנב סיפור מבלי לדעת במה הוא עומד להסתבך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/s1/157799/",
+       "id": "157799",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אבירם כץ - הצצה | אבירם נחקר",
+       "logo": "https://www.kan.org.il/media/5f3cfmoa/1_w4afjim0.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x95x43wi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "חוקרי משטרה מעמתים את אבירם עם סיפורו של ויקטור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/855899/",
+       "id": "855899"
+      },
+      {
+       "name": "אבירם כץ - הצצה | כל אחד יכול להיות סופר",
+       "logo": "https://www.kan.org.il/media/zlylrmb0/1_j8mh8ohc.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3464cyuf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "אבירם מגלה שאולי להיות סופר זה בעצם לא כל כך קשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/855895/",
+       "id": "855895"
+      },
+      {
+       "name": "אבירם כץ - פרומו",
+       "logo": "https://www.kan.org.il/media/j3fnnles/2023-1-15-imgid-91180_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hzqtu2e4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דרמה בלשית קומית חדשה מאת דנה מודן המגוללת את סיפורו של אבירם כץ, סופר מצליח שנמצא במשבר כתיבה והופך לחשוד בחטיפה ורצח לאחר שגנב את הסיפור הלא נכון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11568/157988/",
+       "id": "157988"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

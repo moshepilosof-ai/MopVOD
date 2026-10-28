@@ -1,0 +1,154 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מוקד 11",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-666904/",
+   "series_id": "666904",
+   "updated": "2026-10-28 12:22",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מוקד 11 - טריילר",
+       "logo": "https://www.kan.org.il/media/f15liwtc/1920x1080-with-logo_מוקד-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lfalx15c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-12",
+       "plot": "המוקדנים שכולכם מכירים מייעצים בשאלות על החיים, קריירה, זוגיות, ילדים, אומנות, רוחניות, גזענות, להט\"ביות וחברות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/869928/",
+       "id": "869928"
+      },
+      {
+       "name": "מוקד 11- הצצה | \"החיים שלך הולכים להשתנות מקצה לקצה\"",
+       "logo": "https://www.kan.org.il/media/ztqcu0n0/מוקד-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6x80yqyu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "הראל סקעת בשיחה פתוחה על האושר ועל הקשיים שמגיעים עם האבהות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/856517/",
+       "id": "856517"
+      },
+      {
+       "name": "מוקד 11- הצצה | \"איך אני יכולה להתחמק משכנה שלי?\"",
+       "logo": "https://www.kan.org.il/media/veze13so/מוקד-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6hrbvn8m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "אורלי זילברשץ מנסה לייעץ בנוגע לשכנה שלא משחררת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/856503/",
+       "id": "856503"
+      },
+      {
+       "name": "מוקד 11 | פרק 11 - חוקי המשיכה",
+       "logo": "https://www.kan.org.il/media/uyslmsvi/moked_final.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nls3s23a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "מתי יודעים שזה הרגע הנכון לשכב בפעם הראשונה? אני רוצה להיות באינטימיות עם אשתי פעם אחרונה לפני שאנחנו מתגרשים ואיך אומרים לשכנים להפסיק להרעיש בחדר המיטות?! המתקשרים מעיזים לשאול הכל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/667098/",
+       "id": "667098"
+      },
+      {
+       "name": "מוקד 11 | פרק 7 - סודות ושקרים",
+       "logo": "https://www.kan.org.il/media/kdzj1dsy/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_66slqwgv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "והיום במוקד - אני חרדי שחי חיים כפולים, אני בדיכאון אחרי לידה ומפחדת לשתף, לספר לאבא שלי שאני גיי, ואיך לומר לבן הזוג שלי שהוא נוהג גרוע? המתקשרים לקו החם מגלים את הסודות הכמוסים ביותר שלהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/667097/",
+       "id": "667097"
+      },
+      {
+       "name": "מוקד 11 | פרק 8 - הדור הבא",
+       "logo": "https://www.kan.org.il/media/ufnd4fvl/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uf8uputa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "יצאתי בשאלה ומאז אין לי קשר עם ההורים, איך נכנסים לזוגיות בגיל השלישי מבלי לפחד מהאובדן הצפוי ואיך להתגבר על המוות של אבא שלי? המתקשרים מתמודדים עם פרידות, והיועצים מנסים לעזור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/667001/",
+       "id": "667001"
+      },
+      {
+       "name": "מוקד 11 | פרק 6 - יחסים מסוכנים",
+       "logo": "https://www.kan.org.il/media/exhfs2w2/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2wu7jusp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "והיום במוקד - האם להיכנס למערכת יחסים עם בחור בעל היסטוריה של אלימות? האם צפייה בפורנו זו בגידה? איך מתחמקים מנישואים בגיל השלישי? היועצים שלנו נתקלים בשאלות בלתי רגילות בנושא יחסים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666995/",
+       "id": "666995"
+      },
+      {
+       "name": "מוקד 11 | פרק 5 - גברים במלכודת",
+       "logo": "https://www.kan.org.il/media/bjbono54/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ty4fkewg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "הבן שלי בן ארבע ואישתי רוצה לעשות לו ברית מילה; אני לא סובל את הארוסה של חבר שלי; הבת שלי אוטיסטית ואני חושש לעתידה אחרי מותי; איך להתחיל עם בנות בעידן המי-טו? פרק שכולו צרות של גברים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666992/",
+       "id": "666992"
+      },
+      {
+       "name": "מוקד 11 | פרק 4 - פגוש את ההורים",
+       "logo": "https://www.kan.org.il/media/ehxdk131/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i9my8hcl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "אני רוצה להביא ילדים לעולם אבל חוששת בגלל הילדות שעברתי; איך לומר לאמא שלי להיות יותר אמא ופחות חברה, ואיך להתמודד עם רגשות אשם כלפי הילדים? היועצים תורמים מניסיון החיים שלהם בתחום ההורות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666986/",
+       "id": "666986"
+      },
+      {
+       "name": "מוקד 11 | פרק 3 - גאווה ודעה קדומה",
+       "logo": "https://www.kan.org.il/media/iw0p01fu/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dnbnkwxh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "והיום במוקד - איך גורמים לאנשים להרגיש בנוח עם זה שאין לי יד? איך לספר לגבר שאני יוצאת איתו שאני בתולה? תמיד עושים עליי חרם, איך אני יוצאת מהלופ הזה? היועצים נתקלים בשאלות לא פשוטות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666984/",
+       "id": "666984"
+      },
+      {
+       "name": "מוקד 11 | פרק 2 - מלחמת העולמות",
+       "logo": "https://www.kan.org.il/media/3e3fxaur/יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pppkmoaz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "והיום במוקד - אני הימנית היחידה במשרד וקשה לי; אני טרנסג'נדר דתי ומונעים ממני להתפלל בבית הכנסת; אני רופא ערבי ולפעמים מסרבים לקבל ממני טיפול. שאלות מכל קצוות הקשת הישראלית מעוררות דיון בין היועצים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666982/",
+       "id": "666982"
+      },
+      {
+       "name": "מוקד 11 | פרק 1 - על אהבה ושדים אחרים",
+       "logo": "https://www.kan.org.il/media/wepesrxi/s0435553_-digital00_22_53_16still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l7f6xq30/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "ברוכים הבאים למוקד 11 - הקו החם של התאגיד. היועצים שכולנו מכירים על שאלות בנושאי אהבה, פרידה, זוגיות ומערכות יחסים. בכל שבוע יתקשרו למוקד אנשים מכל רחבי הארץ, כדי לקבל עצה לגבי התלבטויות אמיתיות מהחיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666978/",
+       "id": "666978"
+      },
+      {
+       "name": "מוקד 11 | פרק 12 - דלתות מסתובבות",
+       "logo": "https://www.kan.org.il/media/yvzl2ywb/s0454042_-100_31_05_22still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xpjpwzxy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "האם לעזוב את ההתנחלות בה גדלתי? איך לפתוח שוב את הלב אחרי אובדן? האם לספר לבעלי שאני מקנאה בו? היועצים של המוקד עונים לשאלות אחרונות ומתקשים להיפרד בעצם. פרק סוף עונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666912/",
+       "id": "666912"
+      },
+      {
+       "name": "מוקד 11 | פרק 9 - תשע עד חמש",
+       "logo": "https://www.kan.org.il/media/yhklsz1u/moked11.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_unxv9tya/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "והיום במוקד - באיזה שלב בקשר צריך לספר שאני נהגת משאית זבל? איך להיות אבא טוב למרות שאני כל הזמן בעבודה? אני מפחדת שיגלו בעבודה החדשה שלי שאני סובלת מאו.סי.די. היועצים בפתרונות יצירתיים לאדם העובד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666907/",
+       "id": "666907"
+      },
+      {
+       "name": "מוקד 11 | פרק 10 - משפחתי וחיות אחרות",
+       "logo": "https://www.kan.org.il/media/y42ncm12/s0435562_-100_29_41_12still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t5yd4d2f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-01",
+       "plot": "נער שסובל מהפרעת אכילה וההורים לא מרפים ממנו, האם להמשיך לנסות להביא ילד אחרי 4 הפלות, ואיך להתמודד עם אימהות בגן ששופטות כי עשיתי לילד יום הולדת ב-35 אלף שקלים? היועצים שלנו מנסים לעשות עם דילמות משפחתיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-666904/666906/",
+       "id": "666906"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

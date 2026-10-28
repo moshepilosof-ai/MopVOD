@@ -1,0 +1,69 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הדיגיטל חוגג עשור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-1087990/",
+   "series_id": "1087990",
+   "updated": "2026-10-28 09:46",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הדיגיטל חוגג עשור | לחיי עוד עשור של צחוקים",
+       "logo": "https://www.kan.org.il/media/2rqo0ryb/digital10_komi.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237649/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-20",
+       "plot": "שרק נצחק: קבלו לקט מצחיק במיוחד של העשור האחרון בכאן דיגיטל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1087990/s1/1091301/",
+       "id": "1091301",
+       "season": 1
+      },
+      {
+       "name": "הידעתם? הדיגיטל חוגג עשור. מה הדבר הכי מעניין שלמדתם כאן?",
+       "logo": "https://www.kan.org.il/media/kracmtam/6a4097b0-fdb0-4a5d-9fcd-b77ae93946ef.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237130/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-19",
+       "plot": "הידעתם? בעשור האחרון הסברנו לכם שלל דברים, הגיוניים והזויים, ביותר מ-400 סרטונים. קבלו לקט",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1087990/s1/1090765/",
+       "id": "1090765",
+       "season": 1
+      },
+      {
+       "name": "הדיגיטל חוגג עשור | אומרים שהיה פה שמח: זוכרים? לקט נוסטלגי לפניכם",
+       "logo": "https://www.kan.org.il/media/44ajh0nc/asor_4008.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236455/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-18",
+       "plot": "מה היה פה בהתחלה: חוזרים לסרטונים הנוסטלגיים מתחילת הדרך. איזה סרטון הכי זכור לכם?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1087990/s1/1090247/",
+       "id": "1090247",
+       "season": 1
+      },
+      {
+       "name": "הדיגיטל חוגג עשור | יש סרטון שעדיין לא עשו כאן?",
+       "logo": "https://www.kan.org.il/media/0obbycup/3940-for-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236453/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-16",
+       "plot": "על מלחמות, יונים, אסטרונאוטים ואפילו יום הסרגל - סורי, עשו פה כבר סרטון על הכול",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1087990/s1/1089379/",
+       "id": "1089379",
+       "season": 1
+      },
+      {
+       "name": "הדיגיטל חוגג עשור | לא להאמין שזה קרה: כל סרטוני הדוקו שעשינו כאן",
+       "logo": "https://www.kan.org.il/media/30wpbzwl/doco_10digital.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236241/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-16",
+       "plot": "הסיפורים הכי אמיתיים, הזויים ובלתי נשכחים: קבלו את הלקט התיעודי שלנו מכל סרטוני הדוקו שעשינו כאן בעשור האחרון",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1087990/s1/1089375/",
+       "id": "1089375",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

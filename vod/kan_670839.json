@@ -1,0 +1,103 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שמיניות באוויר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670839/",
+   "series_id": "670839",
+   "updated": "2026-10-28 13:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שמיניות באוויר | פרק 8 - יום הזיכרון לחללי מערכות ישראל",
+       "logo": "https://www.kan.org.il/media/fuuixn2d/שמניות-באוויר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_24l8vu12/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-28",
+       "plot": "דליק ווליניץ משוחח עם ילדים וילדות ממשפחות שכולות. גלי עטרי, אריק סיני ודפנה ארמוני מצטרפים לשירה באולפן לזכר הנופלים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/s1/894671/",
+       "id": "894671",
+       "season": 1
+      },
+      {
+       "name": "שמיניות באוויר | פרק 7 - החופש הגדול",
+       "logo": "https://www.kan.org.il/media/ysidczx2/summer01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6z53yje0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אז מה עושים כשאין בית ספר? כיופים במים, פינת קסמים, חדשות הפופ וגם הופעה של צעירי תל אביב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/s1/675387/",
+       "id": "675387",
+       "season": 1
+      },
+      {
+       "name": "שמיניות באוויר | פרק 1 -  יום העצמאות",
+       "logo": "https://www.kan.org.il/media/o3pfic5y/שמיניות-באויר-05-07-1984.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g9yjr0nl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "דליק וטוליפ מארחים בתכנית חגיגית לכבוד החג את צופי תל אביב, גלי עטרי, דפנה ארמוני ואורחים נוספים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/s1/674079/",
+       "id": "674079",
+       "season": 1
+      },
+      {
+       "name": "שמיניות באוויר | פרק 3 - כשרונות צעירים",
+       "logo": "https://www.kan.org.il/media/pqzo2z5q/שמיניות-באויר-12-12-1984.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zboo52tx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה משותף לג'ינג'י, לנגני גיטרה צעירים, רקדנים, שחקנית ושימפנזה צעירה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/s1/674073/",
+       "id": "674073",
+       "season": 1
+      },
+      {
+       "name": "שמיניות באוויר | פרק 2 - מעבר דירה",
+       "logo": "https://www.kan.org.il/media/ctlp3sgg/שמיניות-באויר-21-11-1984.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1isprtix/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "דליק וטוליפ בתכנית שכולה מעברים והסתגלות מחדש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/s1/674070/",
+       "id": "674070",
+       "season": 1
+      },
+      {
+       "name": "שמיניות באויר | פרק 4 - חנוכה",
+       "logo": "https://www.kan.org.il/media/5xxjgqpn/שמיניות-באויר-19-12-1984.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_efl4dd47/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "דליק וטוליפ בתכנית מיוחדת שעוסקת באסירי ציון ועליית יהודי ברית המועצות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/s1/674061/",
+       "id": "674061",
+       "season": 1
+      },
+      {
+       "name": "שמיניות באויר | פרק 5 - על חירשות",
+       "logo": "https://www.kan.org.il/media/3donhixo/שמיניות-באויר-02-01-1985.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k3k5c38k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "טוליפ ודליק מכירים ומתקרבים לעולמם של החירשים וגם מארחים את גידי גוב להופעת אורח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/s1/674013/",
+       "id": "674013",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שמיניות באוויר | פתיח",
+       "logo": "https://www.kan.org.il/media/wl4hxlpw/שמיניות-באוויר-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891467/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"שמיניות באוויר\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670839/942787/",
+       "id": "942787"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

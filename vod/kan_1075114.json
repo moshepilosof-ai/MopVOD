@@ -1,0 +1,46 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הדרבי האחרון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075114/",
+   "series_id": "1075114",
+   "updated": "2026-10-28 09:47",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "\"לעולם תצעדי איתי\"",
+       "logo": "https://www.kan.org.il/media/bttcsbuo/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224497/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "\"לעולם תצעדי איתי\": שיר הנושא של הסרט \"הדרבי האחרון\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075114/1075217/",
+       "id": "1075217"
+      },
+      {
+       "name": "הדרבי האחרון | טריילר",
+       "logo": "https://www.kan.org.il/media/qurn03pr/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224576/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "דניאל גד יוצא למסע בעקבות יריבות הכדורגל העתיקה בין שעריים ומרמורק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075114/1075215/",
+       "id": "1075215"
+      },
+      {
+       "name": "הדרבי האחרון",
+       "logo": "https://www.kan.org.il/media/gy1j2zlw/1920x1080_no-logo_-הדרבי-האחרון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224564/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-12",
+       "plot": "שעריים ומרמורק, שתי שכונות ברחובות, חולקות יריבות כדורגל עתיקה. בעקבות בניית איצטדיון עבור קבוצה מאוחדת, עולה החשש לקץ ה\"דרבי של השכונות\". דניאל גד, בנו של שחקן העבר שמחה גד, יוצא למסע אהבה בנופי ילדותו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075114/1075118/",
+       "id": "1075118"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

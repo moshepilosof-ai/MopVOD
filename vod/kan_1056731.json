@@ -1,0 +1,103 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - זהב שחור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1056731/",
+   "series_id": "1056731",
+   "updated": "2026-10-28 10:28",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זהב שחור | פרק 7 - שפת אם 2024-2016",
+       "logo": "https://www.kan.org.il/media/3mrbmqlf/לאתר_רלוונטי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224804/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "ההיפ הופ כבר לא בשוליים – הוא הפסקול של ישראל. דרך שישה סיפורים על דור ההיפ הופ, מהקהילה האתיופית ועד עוטף עזה, מתגלה כיצד הראפ הפך לשפת האם של דור שלם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/s1/1075800/",
+       "id": "1075800",
+       "season": 1
+      },
+      {
+       "name": "זהב שחור | פרק 6 - הארץ המובטחת 2010 - 2015",
+       "logo": "https://www.kan.org.il/media/o3dlbbgm/שקל_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224803/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "סיפורו של ההיפ הופ הישראלי. הארץ המובטחת 2015 - 2010: ההיפ הופ נותר בשוליים, עד שהגיעו טונה ורביד פלוטניק. הם פורצים בענק עם גירסה חדשה של היפ הופ ישראלי, שמכניס פנימה את אהוד בנאי ומוזיקה מזרחית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/s1/1075798/",
+       "id": "1075798",
+       "season": 1
+      },
+      {
+       "name": "זהב שחור | פרק 5 - מתוך הזוהמה 2004-2010",
+       "logo": "https://www.kan.org.il/media/5rppjgz0/לאתר.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224802/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-13",
+       "plot": "כשהמיינסטרים מפנה עורף, ההיפ הופ מתעורר לחיים חדשים בשוליים. עולים חדשים, חנונים וצעירים מהפריפריה יוצרים ראפ אישי, מקומי ונועז יותר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/s1/1075797/",
+       "id": "1075797",
+       "season": 1
+      },
+      {
+       "name": "זהב שחור | פרק 4  - מי רצח את ההיפ הופ הישראלי? 2007-2002",
+       "logo": "https://www.kan.org.il/media/yrajzcrd/s0435679_100_07_39_16still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213275/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-17",
+       "plot": "בשיא ההצלחה, הכול מתפרק. מה חיסל את ההיפ הופ הישראלי? סכסוכים פוליטיים? חקיינים שרוכבים על הז׳אנר? או שזו בכלל הייתה פרסומות לשוקו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/s1/1056740/",
+       "id": "1056740",
+       "season": 1
+      },
+      {
+       "name": "זהב שחור | פרק 3 - ישראלים עצבניים 2001-1996",
+       "logo": "https://www.kan.org.il/media/wpugvkmp/s0435678_100_06_38_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213274/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-17",
+       "plot": "ההיפ הופ מפגיש בין סאבלימינל, הדג נחש ודור שלם של יוצרים שלמרות המחלוקות בונים אוטופיה בין ימין לשמאל, מרכז ופריפריה, אשכנזים, מזרחים וערבים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/s1/1056737/",
+       "id": "1056737",
+       "season": 1
+      },
+      {
+       "name": "זהב שחור | פרק 2 - יהיה פיצוץ 2000-1995",
+       "logo": "https://www.kan.org.il/media/iv3h1anq/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213273/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-17",
+       "plot": "בימים שאחרי רצח רבין, קבוצה קטנה של משוגעים לדבר יוצרת לעצמה מציאות אחרת: \"עסק שחור\" מעניקה להיפ הופ בית ראשון ברדיו, ושב\"ק ס' כובשת את המדינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/s1/1056734/",
+       "id": "1056734",
+       "season": 1
+      },
+      {
+       "name": "זהב שחור | פרק 1 - זה לא מוסיקה 1995-1985",
+       "logo": "https://www.kan.org.il/media/53dp040e/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2213266/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-17",
+       "plot": "ההיפ הופ הישראלי נולד כדאחקה - ולא מצליח להכות שורשים. סיפורם החלוצי של ״האשם תמיד״ (יאיר ניצני), יוסי פיין, נייג׳ל האדמו״ר ושב״ק ס׳",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/s1/1056733/",
+       "id": "1056733",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "זהב שחור | טריילר",
+       "logo": "https://www.kan.org.il/media/xq2ca4wo/1920x1080_no-logo_זהב-שחור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227772/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-21",
+       "plot": "סדרת דוקו העוסקת בהתפתחות ההיפ הופ בישראל בארבעת העשורים האחרונים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1056731/1079645/",
+       "id": "1079645"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מתחת לבלטות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-864341/",
+   "series_id": "864341",
+   "updated": "2026-10-28 12:32",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "מתחת לבלטות עונה 2 | פרק 6 - ביטוחי בריאות",
+       "logo": "https://www.kan.org.il/media/kg4okgwb/אתר_חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214177/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "מה באמת מסתתר מאחורי הביטוחים שאנחנו קונים בלי להבין, ומי מרוויח מהם? שאול אמסטרדמסקי מראה איך חברות הביטוח משתמשות בחרדות שלנו כמנוע רווח, ומסביר באופן ברור אילו ביטוחים אנחנו באמת צריכים. פרק אחרון לעונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/s2/1071176/",
+       "id": "1071176",
+       "season": 2
+      },
+      {
+       "name": "מתחת לבלטות עונה 2 | פרק 5 - איך לצאת לפנסיה",
+       "logo": "https://www.kan.org.il/media/n0dnhosx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214176/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "יודעים כמה פנסיה תהיה לכם, אם תהיה? כמה אתם מפרישים, ובאיזה מסלול? בפרק הזה שאול אמסטרדמסקי מגבש ארבעה כללי זהב שיעזרו לכם להיות מוכנים בצורה מיטבית לגיל הפרישה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/s2/1071153/",
+       "id": "1071153",
+       "season": 2
+      },
+      {
+       "name": "מתחת לבלטות עונה 2 | פרק 3 - לנצח את הבנק",
+       "logo": "https://www.kan.org.il/media/eg5d0wuc/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214175/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "הבנקים מרוויחים כמעט מכל פעולה שלנו, אבל האם אפשר להפוך את המשוואה? שאול אמסטרדמסקי עוזר לקבוצת לקוחות לקחת את חשבון הבנק שלהם בידיים, ומראה עד כמה זה פשוט להוריד את הבנק על הברכיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/s2/1071109/",
+       "id": "1071109",
+       "season": 2
+      },
+      {
+       "name": "מתחת לבלטות עונה 2 | פרק 4 - תעלומת הקריפטו",
+       "logo": "https://www.kan.org.il/media/pr4cb24j/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214172/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "חלפו כמעט 20 שנה מאז כניסת הקריפטו לחיינו, וחוץ מקומץ שהתעשר מאוד, המציאות נותרה זהה. שאול אמסטרדמסקי פותח ארנק דיגיטלי כדי לברר האם זו מהפכה כלכלה אמיתית, או הבועה הגדולה בהיסטוריה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/s2/1071103/",
+       "id": "1071103",
+       "season": 2
+      },
+      {
+       "name": "מתחת לבלטות עונה 2 | פרק 1 - החיים במינוס",
+       "logo": "https://www.kan.org.il/media/olgfz4s1/אתר_חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214170/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "כמו הרבה ישראלים, משפחת חדד חיה באשראי, שקועה בהלוואות ונמצאת בחובות. אז איך מצליחים לצאת מהמינוס בכמה צעדים פשוטים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/s2/1071090/",
+       "id": "1071090",
+       "season": 2
+      },
+      {
+       "name": "מתחת לבלטות עונה 2 | פרק 2 - מהפכת שוק ההון",
+       "logo": "https://www.kan.org.il/media/4o0js4d1/פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214171/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-05",
+       "plot": "אחרי שהדור הקודם התרחק מהבורסה בגלל טראומת משבר מניות הבנקים, הצעירים נכנסים פנימה ומטלטלים את הענף. איך נראית בדיוק המהפכה, ואיך נכנסים לתחום ההשקעות באופן שקול ונבון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/s2/1071089/",
+       "id": "1071089",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מתחת לבלטות | פרק 1 - לקנות או לשכור?",
+       "logo": "https://www.kan.org.il/media/vnbaxtkp/לאתרוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zrlzobn0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-25",
+       "plot": "שאול אמסטרדמסקי יוצא למסע מסקרן ומשעשע ובוחן את הישראליות בראי שוק הנדל\"ן. למה ישראלים כל כך משתוקקים להיות בעלי בית? ומבחינה כלכלית, מה התשובה לשאלת השאלות: לקנות או לשכור?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/s1/864343/",
+       "id": "864343",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מתחת לבלטות - הצצה | החיים במינוס",
+       "logo": "https://www.kan.org.il/media/r1cja4fw/אתר_הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229511/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-26",
+       "plot": "כמו הרבה ישראלים, משפחת חדד שקועה בחובות. איך מצליחים לצאת מהמינוס?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/1081554/",
+       "id": "1081554"
+      },
+      {
+       "name": "מתחת לבלטות | טריילר",
+       "logo": "https://www.kan.org.il/media/xxgl23zm/1920x1080-with-logo_מתחת-לבלטות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5kszfead/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-07",
+       "plot": "שאול אמסטרדמסקי יוצא למסע מסקרן ומשעשע ובוחן את הישראליות בראי שוק הנדל\"ן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/880148/",
+       "id": "880148"
+      },
+      {
+       "name": "מתחת  לבלטות - הצצה | אובססיה לנדל\"ן",
+       "logo": "https://www.kan.org.il/media/j01b3uwn/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r07jw0a3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-01",
+       "plot": "שאול אמסטרדמסקי יצא לחקור למה רוב הישראלים חולמים לקנות דירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-864341/878141/",
+       "id": "878141"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

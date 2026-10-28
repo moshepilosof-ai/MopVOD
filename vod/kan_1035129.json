@@ -1,0 +1,59 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - משתפצות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-1035129/",
+   "series_id": "1035129",
+   "updated": "2026-10-28 12:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "משתפצות | פרק 4 - מי אני עכשיו? ",
+       "logo": "https://www.kan.org.il/media/4twjxip2/12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202041/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-19",
+       "plot": "\"אני מסתכלת במראה ושואלת - מי זאת?\": אחרי הניתוח, ההחלמה והשינוי הדרמטי - איך מתרגלים לאישה החדשה שבמראה? אורית נבון מסכמת את המסע הרגעי של ניתוח ה\"מאמי מייקאובר\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1035129/s1/1042874/",
+       "id": "1042874",
+       "season": 1
+      },
+      {
+       "name": "משתפצות | פרק 3 - פתאום סיעודית",
+       "logo": "https://www.kan.org.il/media/0djnzf0e/1_00346.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201316/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-18",
+       "plot": "\"בשבוע הראשון את סיעודית\": ההחלמה אחרי הניתוח עלולה להיות מטלטלת נפשית ופיזית. אורית פוגשת את הנשים שהופתעו לגלות - איזה גוף מחכה לך ישר אחרי הניתוח?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1035129/s1/1042375/",
+       "id": "1042375",
+       "season": 1
+      },
+      {
+       "name": "משתפצות | פרק 2 - היום הגדול",
+       "logo": "https://www.kan.org.il/media/3msozyyb/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199694/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-13",
+       "plot": "\"סליחה, בטן, שאני חותכת אותך - את פשוט לא שלי\": אורית נבון מלווה את רתם ביום הניתוח ומשחזרת את המסע שהיא עצמה עברה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1035129/s1/1040705/",
+       "id": "1040705",
+       "season": 1
+      },
+      {
+       "name": "משתפצות | פרק 1 - למה ניתוח?",
+       "logo": "https://www.kan.org.il/media/hkqp5uhj/13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196951/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-05",
+       "plot": "למה שאישה בריאה תרצה להיכנס מיוזמתה לניתוח של חמש שעות? והאם בטן שטוחה שווה את הסיכון? שמונה חודשים אחרי ה\"מאמי מייקאובר\" שלה, אורית נבון פוגשת נשים נוספות שהחליטו ללכת על זה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-1035129/s1/1037481/",
+       "id": "1037481",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

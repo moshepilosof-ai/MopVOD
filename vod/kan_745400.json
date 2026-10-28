@@ -1,0 +1,133 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - יום של חול | תוכנית מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-745400/",
+   "series_id": "745400",
+   "updated": "2026-10-28 11:18",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": " יום של חול | 24 שעות עם כתב טלוויזיה זרה בישראל",
+       "logo": "https://www.kan.org.il/media/4q4pyvml/קיבוץ-חניתה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1e8fo0aw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "הצצה לעבודת העיתונות הזרה של כתב סי-בי-אס טום פנטון בישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745475/",
+       "id": "745475",
+       "season": 1
+      },
+      {
+       "name": "תעודה | יום של חול - מחוץ לחמולה",
+       "logo": "https://www.kan.org.il/media/g0knwrfm/מחוץ-לחמולה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vgq99moy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "הבעיות הסוציאליות החמורות של תושבי הכפרים הערבים שבגליל. לילה שלוויט, מנהלת לשכת הסעד באיזור, מקדישה את פעילותה היומיומית למציאת הפיתרונות הסוציאליים לתושבי הכפרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745463/",
+       "id": "745463",
+       "season": 1
+      },
+      {
+       "name": "יום של חול | סיפורי בדים - אופנה ישראלית",
+       "logo": "https://www.kan.org.il/media/zslplyfi/דוגמניות-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_um6um32d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "סרט תיעודי זה מלווה מעצבי אופנה ודוגמניות המתלוות אליהם לתצוגות מסלול, זוהי הצצה מרתקת למאחורי הקלעים של עולם האופנה - כיצד נקבעים הטרנדים החמים לעונה הבאה? צפו בראיונות עם גדולי המעצבים משנות ה-70",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745451/",
+       "id": "745451",
+       "season": 1
+      },
+      {
+       "name": "יום של חול | 24 שעות עם יצחק ביאלסקי עובד אגד",
+       "logo": "https://www.kan.org.il/media/gzbd2fa1/יצחק-ביאלסקי-עובד-אגד-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9s3uzndo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "עובד חברת \"אגד\", מתלווה לצוות הצילום להצצה בלעדית על סיפור פרישתו מהחברה ועיסוקיו הרבים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745447/",
+       "id": "745447",
+       "season": 1
+      },
+      {
+       "name": "יום של חול | 24 שעות עם זמרת הכרם",
+       "logo": "https://www.kan.org.il/media/znvdezne/זמרת-הכרם-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d1p166xv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "אהובה עוזרי, הזמרת שהגיעה משכונת כרם התימנים, סוחפת אחריה קהל מעריצים הממלאים את האולמות בהם היא מופיעה וזוכה באהדת הקהל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745443/",
+       "id": "745443",
+       "season": 1
+      },
+      {
+       "name": "יום של חול | 24 שעות עם ליאו בלומנזון",
+       "logo": "https://www.kan.org.il/media/10cjj0o5/ליאו-בלומנזון-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xs3aa5ay/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "כתבנו התלווה אל ליאו בלומנזון, עובד בביטוח לאומי בתל אביב ובזמנו הפנוי מנהל את תחנת הייעוץ לקשיש ולפנסיונר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745439/",
+       "id": "745439",
+       "season": 1
+      },
+      {
+       "name": "יום של חול | 24 שעות עם הרקדנית והזמרת מדלן רגן",
+       "logo": "https://www.kan.org.il/media/arffnvzr/מדלן-רגן-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7dam723n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "הזמרת והרקדנית מצטרפת לצוות הצילום ומשתפת בחששות בצל סרטן השד והניתוח שעברה - על ההתמודדות היומיומית והניסיון להמשיך בשגרת חייה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745435/",
+       "id": "745435",
+       "season": 1
+      },
+      {
+       "name": "יום של חול | 24 שעות עם תמי מהנדסה קרבית",
+       "logo": "https://www.kan.org.il/media/xlyepg4g/תמי-הנדסה-קרבית-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aaw2igmu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "תמי היא סמלת תנאי שירות בחיל ההנדסה, יחד עם הרופא וקציני היחידה היא נותנת מענה לבעיות האישיות שחייליה פונים בעקבותיהן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745426/",
+       "id": "745426",
+       "season": 1
+      },
+      {
+       "name": "יום של חול | 24 שעות עם הילדים של שושנה ",
+       "logo": "https://www.kan.org.il/media/rmahpsgw/הילדים-של-שושנה-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5d8q8v13/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "משפחת האומנה ל-17 הילדים שהצילה ממשפחות בסיכון, מנסה להיכנס לנעליים הגדולות שהותירו הוריהם, בתקווה לנסות ולקיים חיי משפחה תקינים ומאושרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745418/",
+       "id": "745418",
+       "season": 1
+      },
+      {
+       "name": " יום של חול | 24 שעות עם רפ\"ק לושי",
+       "logo": "https://www.kan.org.il/media/sdnpcflz/רפק-לושי-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jj2rjpdp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-05",
+       "plot": "יום בחייו של שוטר, בו נקבל הצצה בלעדית לסדר היום של מפקד משטרת העיר חולון ובת ים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/s1/745410/",
+       "id": "745410",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "יום של חול | הצצה  - דוגמנות",
+       "logo": "https://www.kan.org.il/media/qeohxgp1/צילום-מסך-2025-08-18-154052.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yfciqcev/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "הצצה לסדרה \"יום של חול\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-745400/942805/",
+       "id": "942805"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

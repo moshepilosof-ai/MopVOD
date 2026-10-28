@@ -1,0 +1,153 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אנשים במיל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670887/",
+   "series_id": "670887",
+   "updated": "2026-10-28 09:25",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אנשים במיל | פרק 1 - כן המפקד",
+       "logo": "https://www.kan.org.il/media/nwgdxiro/miluim01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6v09e2hk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "המילואימניקים מגיעים למוצב ונתקלים במפקד מורעל מדי שמתזז אותם ללא הפסקה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675069/",
+       "id": "675069",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 4 - שתילים בראש",
+       "logo": "https://www.kan.org.il/media/uhvby5n2/miluim07.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g8hx7oxj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בני מצליח לקבל תעדוף ויוצא לחופשה והחבר'ה בטוחים שהוא עקץ אותם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675066/",
+       "id": "675066",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 5 - תנאי לחץ",
+       "logo": "https://www.kan.org.il/media/mikka0nf/miluim08.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wtforf4c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חייל מילואים חדש מגיע למוצב ומחליט לערוך ניסוי פסיכולוגי על שאר החיילים שאיתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675063/",
+       "id": "675063",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 6 = האנדרטה",
+       "logo": "https://www.kan.org.il/media/3fidqu4o/miluim09.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8n52oqay/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הרצל מתנדב למשימה שכולם מתחמקים ממנה אך ברגע האמת מתחרטים על הבחירה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675060/",
+       "id": "675060",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 3 - תרגיל יבש",
+       "logo": "https://www.kan.org.il/media/yeapvc4r/miluim05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_30j49b9t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "החבר'ה מנסים לצאת הביתה, כל אחד מסיבותיו ורק דייב מערים על כולם ומצליח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675057/",
+       "id": "675057",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 2 - טיפול 40",
+       "logo": "https://www.kan.org.il/media/xx5akosr/miluim03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_su0y6esl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "משבר אמצע החיים ותיירת שבדית נפגשים במוצב. איך זה נגמר?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675054/",
+       "id": "675054",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 7 - השפן הקטן ",
+       "logo": "https://www.kan.org.il/media/lmlfkd1w/miluyim07.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ob3isan/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מי מאמין באמונות טפלות?  בזמן שאורי מקבל שיחת טלפון דחופה, שאר החברים מארחים חוליית בידור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675039/",
+       "id": "675039",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 8 - עשינו עסק",
+       "logo": "https://www.kan.org.il/media/ddzhrljh/miluyim081.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1l6bpf0i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עורך דין זוהר מגיע לתגבר במוצב, החבר'ה מבינים כי הוא בדרך לסגור את עסקת חייו וכל אחד בדרכו מנסים להרוויח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/675036/",
+       "id": "675036",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 9 - היי בייבי",
+       "logo": "https://www.kan.org.il/media/4h4bnq2x/miluyim09.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f19u1n3w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נוהל עצירת חשוד מסתיים ביריות על אישה הכורעת ללדת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/674964/",
+       "id": "674964",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 10 - חבילה הגיעה ",
+       "logo": "https://www.kan.org.il/media/ecxfm5g0/miluyim10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8iv9brff/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "זוגתו של דייב מפתיעה במוצב עם דרישה אינטימית וכל החבר'ה נרתמים לעזור",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/674961/",
+       "id": "674961",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 11 - ערפל קרב ",
+       "logo": "https://www.kan.org.il/media/cpefqry3/miluyim11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_snn6jsqw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עם עבר בעייתי, מחליט יהודה לצאת לפעולת מבצעית ללא מכשירי קשר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/674952/",
+       "id": "674952",
+       "season": 1
+      },
+      {
+       "name": "אנשים במיל | פרק 12 - רות סוף",
+       "logo": "https://www.kan.org.il/media/mrciufma/miluyim12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0frzbbvh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מסיבת סוף המחזור של המילואים מסתיימת במשפחה ברוכת ילדים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/s1/674937/",
+       "id": "674937",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אנשים במיל | פתיח",
+       "logo": "https://www.kan.org.il/media/ahhpif2e/פתיח-אנשים-במיל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r4swp36p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "פתיח לסדרה \"אנשים במיל\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670887/943614/",
+       "id": "943614"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

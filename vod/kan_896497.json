@@ -1,0 +1,79 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - העתיד עם האנה פריי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-896497/",
+   "series_id": "896497",
+   "updated": "2026-10-28 10:25",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "העתיד עם האנה פריי | פרק 6 - השבת הפרא",
+       "logo": "https://www.kan.org.il/media/d4sj4lf3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i6sj9qt6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "האנה פריי חוקרת רעיון חדשני בשימור הטבע שמציע תקווה לעתיד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-896497/s1/896528/",
+       "id": "896528",
+       "season": 1
+      },
+      {
+       "name": "העתיד עם האנה פריי | פרק 5 - הכלה",
+       "logo": "https://www.kan.org.il/media/cv0jo2bo/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_um6plsum/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "האנה פריי חוקרת את הטכנולוגיה שמבטיחה לשנות את חייהם של מיליוני אנשים בעלי מוגבלויות, מרובוטים שמכינים קפה ביפן ועד גפיים ביוניות מהפכניות בניו יורק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-896497/s1/896524/",
+       "id": "896524",
+       "season": 1
+      },
+      {
+       "name": "העתיד עם האנה פריי | פרק 4 - האם היתוך הגרעיני הוא האנרגייה של העתיד?",
+       "logo": "https://www.kan.org.il/media/kcqhjoq2/tf_hannahfry_fusion_synd_00-00-00-15_1920x1080_2205054019696.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fgzqk4cn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "האנה פריי נכנסת אל תוך פרויקט ההיתוך הבין-לאומי הגדול ביותר שנבנה אי פעם, וטסה ללוס אנג'לס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-896497/s1/896519/",
+       "id": "896519",
+       "season": 1
+      },
+      {
+       "name": "העתיד עם האנה פריי | פרק 3 - חימוש המידע",
+       "logo": "https://www.kan.org.il/media/ie4dr13w/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hmyetfpr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "האנה פריי חוקרת את טכנולוגיות הבינה המלאכותית המתקדמות ביותר כדי לברר אם מותה של הפרטיות עלול לחשוף אותנו לאיומים חמורים יותר או דווקא להפוך את החברה שלנו לבטוחה יותר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-896497/s1/896515/",
+       "id": "896515",
+       "season": 1
+      },
+      {
+       "name": "העתיד עם האנה פריי | פרק 2 - זיהוי רגשות",
+       "logo": "https://www.kan.org.il/media/vdcakf35/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vi9mv8dd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "מכוניות שמסוגלות לזהות כעס. מחשבים ניידים שיודעים מתי אתה משועמם. האנה פריי חוקרת האם הגל החדש של בינה מלאכותית באמת מסוגל לקרוא רגשות טוב יותר מבני אדם?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-896497/s1/896511/",
+       "id": "896511",
+       "season": 1
+      },
+      {
+       "name": "העתיד עם האנה פריי | פרק 1 - החיים בגיל 150",
+       "logo": "https://www.kan.org.il/media/b2sjpizm/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4l4h86n6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-04",
+       "plot": "סדרת תעודה חדשה. האנה פריי מצטרפת לביו־האקרים בקליפורניה ולחוקר מוח בטוקיו כדי להתנסות בטכניקות החדשניות ביותר נגד תהליכי ההזדקנות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-896497/s1/896505/",
+       "id": "896505",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

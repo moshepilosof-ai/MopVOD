@@ -1,0 +1,318 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - פסטיבל הפסנתר - הביצועים הנבחרים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-652215/",
+   "series_id": "652215",
+   "updated": "2026-10-28 13:09",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "עוזי נבון - מה שהיה היה",
+       "logo": "https://www.kan.org.il/media/hx1lhsgj/s0453738_item03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_83mfgq1x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "מילים ולחן: שלום חנוך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/655316/",
+       "id": "655316",
+       "season": 2
+      },
+      {
+       "name": "עוזי נבון - אבשלום",
+       "logo": "https://www.kan.org.il/media/xh2fc1cs/s0453738_item02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bfagtvz3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "מילים: חבורת לול\nלחן: שלום חנוך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/655310/",
+       "id": "655310",
+       "season": 2
+      },
+      {
+       "name": "עוזי נבון - ברחוב הנשמות הטהורות",
+       "logo": "https://www.kan.org.il/media/y4sdfwnx/s0453738_item01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d8e5d4pv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "מילים: שמעון ספיר\nלחן: נתן כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/655309/",
+       "id": "655309",
+       "season": 2
+      },
+      {
+       "name": "שאנן סטריט וקרולינה - להיות (so far)",
+       "logo": "https://www.kan.org.il/media/j3pjjnoc/s0453737_item0200_01_12_10still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bjwsmrnf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: קרן קרולינה אברץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/654047/",
+       "id": "654047",
+       "season": 2
+      },
+      {
+       "name": "שאנן סטריט וקרולינה - חליפות",
+       "logo": "https://www.kan.org.il/media/31egchte/s0453737_item0300_03_30_06still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qzir1skt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: אמיר בן עמי, גיא מר, דודוש קלמס, יאיא כהן אהרונוב, משה אסרף, שאנן סטריט ושלומי אלון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/654046/",
+       "id": "654046",
+       "season": 2
+      },
+      {
+       "name": "שאנן סטריט - שירת הסטיקר",
+       "logo": "https://www.kan.org.il/media/flpbrhtg/s0453737_item0100_00_19_23still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zihu0fqz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: דויד גרוסמן\nלחן: אמיר בן עמי, גיא מר, דודוש קלמס, יאיא כהן אהרונוב, משה אסרף, שאנן סטריט ושלומי אלון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/654045/",
+       "id": "654045",
+       "season": 2
+      },
+      {
+       "name": "שאנן סטריט - ואמרתי לעצב",
+       "logo": "https://www.kan.org.il/media/spbb12xe/s0453737_item0400_01_02_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m349r7ox/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: מרים ילן שטקליס\nלחן: שאנן סטריט ודודוש קלמס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/654042/",
+       "id": "654042",
+       "season": 2
+      },
+      {
+       "name": "יוני רועה - פרי גנך",
+       "logo": "https://www.kan.org.il/media/dfhlyzdb/yoni_episode_stills_00_15_10_01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8865cufv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: יוני רועה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653882/",
+       "id": "653882",
+       "season": 2
+      },
+      {
+       "name": "יוני רועה - יהי רצון",
+       "logo": "https://www.kan.org.il/media/lz5h3pnt/yoni_episode_stills_00_13_42_19.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4ictfguh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: דודו ברק\nלחן: יוני רועה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653880/",
+       "id": "653880",
+       "season": 2
+      },
+      {
+       "name": "יוני רועה - חברים",
+       "logo": "https://www.kan.org.il/media/vqofa4bu/yoni_episode_stills_00_33_36_15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1x2xv70r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: דודו ברק\nלחן: יוני רועה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653878/",
+       "id": "653878",
+       "season": 2
+      },
+      {
+       "name": "אלון עדר ולהקה - קרית שמונה",
+       "logo": "https://www.kan.org.il/media/1mlibij2/alon-eder_stills_00_42_33_09.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gs5zgu1e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: שני גבאי ואלון עדר\nלחן: אלון עדר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653873/",
+       "id": "653873",
+       "season": 2
+      },
+      {
+       "name": "אלון עדר ולהקה עם עלמה גוב - פתאום",
+       "logo": "https://www.kan.org.il/media/imldvw0h/alon-eder_stills_00_33_59_15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cjgclce7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: נדב הולנדר ואלון עדר\nלחן: נדב הולנדר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653869/",
+       "id": "653869",
+       "season": 2
+      },
+      {
+       "name": "אלון עדר ולהקה - קצת אהבה לא תזיק",
+       "logo": "https://www.kan.org.il/media/2znlqpky/alon-eder_stills_00_42_16_03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aod8kxzx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: אלון עדר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653865/",
+       "id": "653865",
+       "season": 2
+      },
+      {
+       "name": "אלון עדר ולהקה - שיר לאמא",
+       "logo": "https://www.kan.org.il/media/bj2ky5cw/alon-eder_stills_00_27_34_24.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j5i0qzyw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: רן דרום\nלחן: אלון עדר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653860/",
+       "id": "653860",
+       "season": 2
+      },
+      {
+       "name": "ג'יין בורדו - איך אפשר",
+       "logo": "https://www.kan.org.il/media/bxynpv0j/s0451696_1_t00_00_11_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b7c2a54i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: דורון טלמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653855/",
+       "id": "653855",
+       "season": 2
+      },
+      {
+       "name": "ג'יין בורדו - וויסקי",
+       "logo": "https://www.kan.org.il/media/znsj0rfn/jane-bordeaux_stills_00_17_58_20.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6rr53qxt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: דורון טלמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653851/",
+       "id": "653851",
+       "season": 2
+      },
+      {
+       "name": "ג'יין בורדו - לא לבד",
+       "logo": "https://www.kan.org.il/media/wqfoegsb/jane-bordeaux_stills_00_17_21_07.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6rr53qxt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: דורון טלמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653846/",
+       "id": "653846",
+       "season": 2
+      },
+      {
+       "name": "רונית שחר ונינט טייב - סיטואציות של לב שבור",
+       "logo": "https://www.kan.org.il/media/iq0fitm1/s0453733_item04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xbj12qor/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: רונית שחר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653844/",
+       "id": "653844",
+       "season": 2
+      },
+      {
+       "name": "רונית שחר, נינט טייב ויהודה עדר - לא לפחד כלל",
+       "logo": "https://www.kan.org.il/media/syfjk0q3/s0453733_item03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1sibqru3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: נינט טייב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653842/",
+       "id": "653842",
+       "season": 2
+      },
+      {
+       "name": "רונית שחר - שלום לתמימות",
+       "logo": "https://www.kan.org.il/media/xqcpclup/s0453733_item02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_axtvtteb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653841/",
+       "id": "653841",
+       "season": 2
+      },
+      {
+       "name": "רונית שחר - תמיד זה בינתיים",
+       "logo": "https://www.kan.org.il/media/xyrpcett/s0453733_item01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sxij5bdg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: רונית שחר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653840/",
+       "id": "653840",
+       "season": 2
+      },
+      {
+       "name": "חנן יובל - הלילה הוא שירים (עם רז שמואלי)",
+       "logo": "https://www.kan.org.il/media/xhzfg3ys/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d21dbpoa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: תרצה אתר\nלחן: לנן יובל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653828/",
+       "id": "653828",
+       "season": 2
+      },
+      {
+       "name": "חנן יובל - פגישה חצי פגישה (עם רז שמואלי)",
+       "logo": "https://www.kan.org.il/media/hzxblive/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mgw9t7hz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: רחל \nלחן: חנן יובל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653806/",
+       "id": "653806",
+       "season": 2
+      },
+      {
+       "name": "חנן יובל - לילה חניה",
+       "logo": "https://www.kan.org.il/media/avchfddl/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ovd9xbua/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: נתן אלתרמן\nלחן: יאיר רוזנבלום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653770/",
+       "id": "653770",
+       "season": 2
+      },
+      {
+       "name": "אסף אמדורסקי - לילה בחוף אכזיב",
+       "logo": "https://www.kan.org.il/media/b5ajabhv/asaf_stills_00_16_00_01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t80uejr1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים ולחן: נעמי שמר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653768/",
+       "id": "653768",
+       "season": 2
+      },
+      {
+       "name": "אסף אמדורסקי - זמר נוגה (עם יעל קראוס)",
+       "logo": "https://www.kan.org.il/media/4ixdvdkc/asaf_stills_00_17_16_22.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mcq38y6f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: רחל\nלחן: שמוליק קראוס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653765/",
+       "id": "653765",
+       "season": 2
+      },
+      {
+       "name": "אסף אמדורסקי - אותך",
+       "logo": "https://www.kan.org.il/media/am2oafgc/asaf_stills_00_14_27_22.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ua45gu9l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: אורי אסף\nלחן: יגאל גורדון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s2/653763/",
+       "id": "653763",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זהבה בן - קטורנה מסאלה",
+       "logo": "https://www.kan.org.il/media/s5bdlxyv/zehavaben_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gu5olw0q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-13",
+       "plot": "מילים: זאב נחמה שיר\nלחן: זאב נחמה ותמיר קליסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/s1/653605/",
+       "id": "653605",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "פסטיבל הפסנתר - הצצה | קטורנה מסאלה ",
+       "logo": "https://www.kan.org.il/media/xkpd1aoy/פסטיבל-הפסנתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d1lpfl4c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-15",
+       "plot": "זהבה בן מבצעת את השיר \"קטורנה מסאלה\" בפסטיבל הפסנתר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-652215/920694/",
+       "id": "920694"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

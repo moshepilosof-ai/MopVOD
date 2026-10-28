@@ -1,0 +1,142 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מקום שמח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-962212/",
+   "series_id": "962212",
+   "updated": "2026-10-28 12:25",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מקום שמח | קליפ סיום העונה - כחול וירוק",
+       "logo": "https://www.kan.org.il/media/r0ujokgx/נונו-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1950634/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-27",
+       "plot": "הזמרת נונו הקליטה יחד עם עמיר לב קליפ סיום ל\"מקום שמח\"\n|\nמילים ולחן: עמיר לב\nביצוע: נעמי אהרוני גל (נונו), עמיר לב\nהפקה מוזיקלית: יונתן דרוקר, נעמי אהרוני גל\nבימוי: אדם גבאי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/974938/",
+       "id": "974938",
+       "season": 1
+      },
+      {
+       "name": "טריילר | מקום שמח",
+       "logo": "https://www.kan.org.il/media/rx4nk1cf/1920x1080_no-logo-מקום-שמח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891610/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "בעיצומו של משבר גיל ה-40, נעמי, אמא של ורד מבקשת ממנה להרוג אותה. יחד הן יוצאות למסע של פעם בחיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/967128/",
+       "id": "967128",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 7 - תיירות יהודית",
+       "logo": "https://www.kan.org.il/media/li5hkwoq/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1946467/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-02",
+       "plot": "ורד, נדב ונעמי בטיול שורשים משפחתי בווילנה בירת ליטא. סודות כמוסים של שלושתם מתגלים בטיול שהופך לסיוט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/966641/",
+       "id": "966641",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 8 - רחוק ולבד",
+       "logo": "https://www.kan.org.il/media/pdbhzgep/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1913647/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-02",
+       "plot": "בעקבות הרחקתה של ורד ממקום עבודתה היא מתחננת לבן שייקח אותה רחוק ולבד, בתקווה למצוא את הדרך חזרה לליבו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/966640/",
+       "id": "966640",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 6 - סודות חבויים",
+       "logo": "https://www.kan.org.il/media/42idsanh/שמח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1913611/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-02",
+       "plot": "נעמי נפגשת עם דבורה שלוש וסוגרת איתה חשבונות. הרומן בין ורד ויותם עולה שלב. איך בן יגיב?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/966639/",
+       "id": "966639",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 5 - כשהייתי יפה, לא ידעתי",
+       "logo": "https://www.kan.org.il/media/jbcfsup1/לאתר-מעודכן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1913610/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-02",
+       "plot": "נעמי מתבשרת שעליה לכרות חצי מכף הרגל. ורד מזעיקה את יותם לעזור, וממשיכה איתו אל תוך לילה מבלבל ורומנטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/966637/",
+       "id": "966637",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 4 - הנקניקייה שלי",
+       "logo": "https://www.kan.org.il/media/0gqbd3as/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890938/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-21",
+       "plot": "ורד ובן מתחילים טיפול זוגי והפערים ביניהם מתחילים להיחשף. ורד מצטרפת לסשן רוחני של יותם ונעמי על חוף הים, בין יותם לורד מתחיל להתגלות מתח מיני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/962239/",
+       "id": "962239",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 3 - בובות על חוטים",
+       "logo": "https://www.kan.org.il/media/o5rjv02e/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890937/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-21",
+       "plot": "ורד לוקחת את נעמי לסדנה רוחנית בהדרכת יותם ונעמי נדלקת על יותם אחרי שהוא מבטיח לה שלא תאלץ לכרות את האצבעות. ורד מנסה להעיר ניצוץ בנישואים הרדומים של עם בן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/962236/",
+       "id": "962236",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 2 - שמחה בחלקך",
+       "logo": "https://www.kan.org.il/media/h3uae1nq/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890935/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-21",
+       "plot": "אחרי בדיקה רפואית, ורד מגלה שלאמא שלה עומדים לכרות שתי אצבעות ברגל. נעמי לא מוכנה לשאת את רוע הגזירה ומבקשת מורד שתהרוג אותה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/962235/",
+       "id": "962235",
+       "season": 1
+      },
+      {
+       "name": "מקום שמח | פרק 1 - נא לגעת",
+       "logo": "https://www.kan.org.il/media/3ouahgan/חדש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1890934/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-21",
+       "plot": "אחרי בדיקה רפואית, ורד מגלה שלאמא שלה עומדים לכרות שתי אצבעות ברגל. בנוסף, דבורה שלוש הפרטזנית משתפת את ורד שאמא שלה ביקשה ממנה שתהרוג אותה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/s1/962230/",
+       "id": "962230",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מקום שמח | טריילר",
+       "logo": "https://www.kan.org.il/media/4tgl24t1/makom_sameach_presskit_hor.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891610/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "בעיצומו של משבר גיל ה-40, נעמי, אמא של ורד מבקשת ממנה להרוג אותה. יחד הן יוצאות למסע של פעם בחיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/990025/",
+       "id": "990025"
+      },
+      {
+       "name": "מקום שמח | הצצה",
+       "logo": "https://www.kan.org.il/media/p1lefwoo/happy_place_ep01_hatzatza_1_clean-frame-at-1m7s.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1903309/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-10",
+       "plot": "הצצה לסדרת הדרמה \"מקום שמח\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962212/969315/",
+       "id": "969315"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

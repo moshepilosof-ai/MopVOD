@@ -1,0 +1,233 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מה הדיבור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670743/",
+   "series_id": "670743",
+   "updated": "2026-10-28 11:34",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מה הדיבור | פרק 4 - מגדר",
+       "logo": "https://www.kan.org.il/media/hdpgkfqz/genderweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r9n2tzxh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך השפה מפלה את הבנות? האם בנים ובנות באמת מדברים אחרת? ומה קורה בספרי הלימוד ובשירי הראפ? נשמע גם את חברת הכנסת מירב מיכאלי, הלוחמת על זכות הדיבור הנשית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673130/",
+       "id": "673130",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 1 - גסטרונומיה",
+       "logo": "https://www.kan.org.il/media/qc3pchck/gastronomiaweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f9ch17oj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך אנחנו מדברים על אוכל ומה זה אומר עלינו? על שפת האוכל וההשתנות שלה כשיקוף של שינוי תרבותי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673070/",
+       "id": "673070",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 2 - שפה",
+       "logo": "https://www.kan.org.il/media/alvpkfbd/languageweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j8l6mgp2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך נוצרו השפות ולמה יש כל כך הרבה מהן? אילו סוגי שפות קיימים? נשמע על עבודתו המאתגרת של המתרגם ועל הקסם והקושי שבמעבר בין שפות שונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673067/",
+       "id": "673067",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 3 - טכנולוגיה",
+       "logo": "https://www.kan.org.il/media/vkae1h5i/technology-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_23fsqtkc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מהי שפת כתיבור ומה זה פיקטוגרף? עושים סלפי לשפה ובודקים איך החיבור התמידי למסכים משפיע עליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673064/",
+       "id": "673064",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 5 - שמות",
+       "logo": "https://www.kan.org.il/media/cnajw13x/namesweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bh5eno90/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה מספרים לנו השמות שלנו על עצמנו ועל החברה שבה אנחנו חיים? דב אלבוים מתארח ומספר על כוח הכישוף של שמות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673061/",
+       "id": "673061",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 6 - אופנה",
+       "logo": "https://www.kan.org.il/media/jtfhxa4i/fashionweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_20px40ey/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה בין טקסט לטקסטיל ובין שיק לשוק? על הקשר שבין עולם האופנה לשפה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673058/",
+       "id": "673058",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 7 - משפחה",
+       "logo": "https://www.kan.org.il/media/cnioxww1/family-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tp8hd01j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה קרה לקלאסיקה של אימא, אבא, שני ילדים וכלב ואיך המשפחה המודרנית משתקפת בשפה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673055/",
+       "id": "673055",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 8 - רגשות",
+       "logo": "https://www.kan.org.il/media/goyojafr/feelingsweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q1557c3y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אנחנו מרגישים כל הזמן, אבל איך מדברים את זה? איך מבטאים בדיבור תחושות מופשטות?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673052/",
+       "id": "673052",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 9 - אני והאחר",
+       "logo": "https://www.kan.org.il/media/pfhdertp/meandhim-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cs43fzy0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קופצים ראש לתעלות הביוב של השפה ונוגעים במה שזורם בהן. מיהו האחר ואיך אנחנו מדברים עליו, ואיך הקומדיה מתייחסת לתקינות פוליטית?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673049/",
+       "id": "673049",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 10 - דת",
+       "logo": "https://www.kan.org.il/media/acynmagg/religion-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pwi1zbsb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך אנחנו מדברים על אלוהים ואיך האמונה והרוחניות משפיעות לנו על השפה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673040/",
+       "id": "673040",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 11 - פוליטיקה",
+       "logo": "",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o7iyxnrd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה זו מכבסת מילים ומה ההבדל בין שטחים \"מוחזקים\" לשטחים \"כבושים\"? חברת הכנסת והעיתונאית לשעבר שלי יחימוביץ' מדברת על שלטון באמצעות הלשון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673030/",
+       "id": "673030",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 12 - כלכלה",
+       "logo": "https://www.kan.org.il/media/ykmhxuc5/economyweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_90jmn5m3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אומרים שלא יפה לדבר על כסף, אבל מדברים עליו בלי סוף. נגלה עד כמה השפה שלנו עשירה בביטויים ובדימויים מעולם הכספים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673027/",
+       "id": "673027",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 13 - בעלי חיים",
+       "logo": "https://www.kan.org.il/media/452lgbkg/animalsweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8vxsyi8b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אילו תכונות חייתיות אימצנו לעצמנו, ומהם היחסים המורכבים שהתפתחו בינינו ובין החיות?\nדוברת הספארי משוחחת על הנוכחות העצומה של החיות בשפה שלנו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673021/",
+       "id": "673021",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 14 - עברית",
+       "logo": "https://www.kan.org.il/media/ki3hpdqy/hebrewweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pmg245ta/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ניגע בקצה הלשון בשפה שלנו, אותה זקנה שמסתובבת לנו בראש, בפה ובלב, ובכל יום נולדת מחדש.\nנארח את גיל חובב, שאוהב לערבב אוכל ומילים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673018/",
+       "id": "673018",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 15 - פרסומות",
+       "logo": "https://www.kan.org.il/media/f3gfgayo/addvertismentweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c9vccrkz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נציץ אל מאחורי הקלעים של עולם הפרסום ונברר איך נולדות סיסמאות שנועדו לשכנע אותנו לקנות בלי סוף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673015/",
+       "id": "673015",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 16 - גוף האדם",
+       "logo": "https://www.kan.org.il/media/il2oebos/humanbodyweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fcn34n2k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך אנחנו חושפים שיניים, מגדילים ראש ומשתמשים באיברי גופנו בתוך השפה בלי לשים לב. והסופרת אלונה פרנקל מדברת על מה שמתחת לתחתונים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673008/",
+       "id": "673008",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 17 - סביבה",
+       "logo": "https://www.kan.org.il/media/k0llivhu/environmentweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t52u76wq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה זה דשונת ומה מקור המילה התכלות? על הקשר בין קיום לקיימות ואיך הוא בא לידי ביטוי בשפה שלנו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673005/",
+       "id": "673005",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 18 - ערבית",
+       "logo": "https://www.kan.org.il/media/v0wndiy1/arabicweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xx7itmdx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה אנחנו יודעים על השפה הרשמית השנייה בארץ? מה אנחנו מרגישים כלפיה ועד כמה היא חלק מחיינו ומהעברית שלנו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/673002/",
+       "id": "673002",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק  19 - זמן",
+       "logo": "https://www.kan.org.il/media/ubqpmrje/time-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vj0gfmqp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מבזבזים אותו, חוסכים אותו, משתמשים בו. איך השפה יכולה לעזור לנו לחקור את מושג הזמן ואיך הפיזיקאים מתמודדים עם הפרדוקס הגדול שקשור אליו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/672999/",
+       "id": "672999",
+       "season": 1
+      },
+      {
+       "name": "מה הדיבור | פרק 20 - סלנג",
+       "logo": "https://www.kan.org.il/media/d0fp5ycb/slang-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9krvt0fk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איזה כיף לשחרר את הלשון ולדבר בשפה יומיומית ולא רשמית. אורח התוכנית שהוא גם יועץ הסדרה, הבלשן ד\"ר רוביק רוזנטל, מספר מאין הגיעה המילה \"לתחמן\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/s1/672990/",
+       "id": "672990",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מה הדיבור | פתיח",
+       "logo": "https://www.kan.org.il/media/ohckpslk/פתיח-מה-הדיבור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oc7hvtm5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית \"מה הדיבור\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670743/943166/",
+       "id": "943166"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

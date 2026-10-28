@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ועוזריהם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1029184/",
+   "series_id": "1029184",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ועוזריהם | פרק 3 - בית הדין של ההיסטוריה",
+       "logo": "https://www.kan.org.il/media/eodf5lyg/לאתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194322/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-27",
+       "plot": "משפטו של איש היודנרט הירש ברנבלט. לאחר שהורשע במחוזי, זיכה אותו בית המשפט העליון וקבע כי נושא זה שייך לדיון ציבורי, ובכך נחתם הגולל על העמדת יהודים לדין בפרשיות אלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1029184/s1/1034095/",
+       "id": "1034095",
+       "season": 1
+      },
+      {
+       "name": "ועוזריהם | פרק 1 - והיה מחננו טהור",
+       "logo": "https://www.kan.org.il/media/zc5i2rvv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190002/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-15",
+       "plot": "הפרק הכואב של משפטי יהודים שנחשדו בשיתוף פעולה עם הנאצים, והמעבר ממשפטי שדה ספונטניים להכרעות עקרוניות בבתי המשפט בישראל בשנות ה-50",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1029184/s1/1029275/",
+       "id": "1029275",
+       "season": 1
+      },
+      {
+       "name": "ועוזריהם | פרק 2 - צדק צדק תרדוף",
+       "logo": "https://www.kan.org.il/media/pdojfhq4/s0486167_100_11_38_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190001/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-15",
+       "plot": "הפרק חושף את \"המשפטים הקהילתיים\" הספונטניים שנערכו במחנות העקורים באירופה. במרכזו סיפורו של יוסף זיגל, שנאבק לטהר את שמו בפני בתי הדין של הניצולים, שקבעו מי בגד בעמו ומי נותר טהור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1029184/s1/1029260/",
+       "id": "1029260",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ועוזריהם | הצצה ",
+       "logo": "https://www.kan.org.il/media/jxsptaqm/ועוזריהם-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194077/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "מאחורי יחזקאל אינגסטר, הקאפו האכזרי שמירר את חיי היהודים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1029184/1033429/",
+       "id": "1033429"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

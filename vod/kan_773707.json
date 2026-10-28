@@ -1,0 +1,103 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קיץ עם מני פאר | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-773707/",
+   "series_id": "773707",
+   "updated": "2026-10-28 13:11",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קיץ עם מני פאר | תוכנית 7 - חני נחמיאס, אלון אולארצ'יק ויאיר לפיד",
+       "logo": "https://www.kan.org.il/media/0lpjmak1/untitled-1-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_an0rnhmb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-22",
+       "plot": "תוכנית צבעונית במיוחד בה מני מקבל עוגת יום הולדת לפרצוף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/s1/775770/",
+       "id": "775770",
+       "season": 1
+      },
+      {
+       "name": "קיץ עם מני פאר | תוכנית 6 - \"היהודים\"",
+       "logo": "https://www.kan.org.il/media/nmebt4ws/untitled-1-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3i8fm9xk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-22",
+       "plot": "משוחחים על הסרט על מותם של צעירים בערבה, עם טייסת הקרב בבריה\"מ, על המשפחה מ\"שלום עכשיו\" ועוד זמרים ידועים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/s1/775769/",
+       "id": "775769",
+       "season": 1
+      },
+      {
+       "name": "קיץ עם מני פאר | תוכנית 5 - טיפקס, מרת ישראל, והשכרת כלבים יומית",
+       "logo": "https://www.kan.org.il/media/0isdiwei/untitled-1-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z66271po/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-22",
+       "plot": "תוכנית בהשתתפות אורחים צבעוניים, ביניהם קובי אוז, בתיה עוזיאל ורובי ריבלין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/s1/775752/",
+       "id": "775752",
+       "season": 1
+      },
+      {
+       "name": "קיץ עם מני פאר | תוכנית 4 - מושתלי ריאות, שופטת כדורגל וירמי קפלן",
+       "logo": "https://www.kan.org.il/media/5jdfm41l/untitled-1-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5lr7lcyy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-22",
+       "plot": "מני מארח אנשים עם סיפור חיים מעניין וחשוב, ביניהם אהוד מנור ואשתו עפרה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/s1/775726/",
+       "id": "775726",
+       "season": 1
+      },
+      {
+       "name": "קיץ עם מני פאר | תוכנית 3 - רונית שחר, דני רובס וילדי איל\"ן",
+       "logo": "https://www.kan.org.il/media/zrtmw3qu/untitled-1-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tllfmd0k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-22",
+       "plot": "תוכנית בסימן ילדים מיוחדים, הורות וילדות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/s1/775721/",
+       "id": "775721",
+       "season": 1
+      },
+      {
+       "name": "קיץ עם מני פאר | תוכנית 2 - רות וסטהיימר, זאב רווח ושלומי שבת",
+       "logo": "https://www.kan.org.il/media/ptmoyrsw/untitled-1-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x058f6w2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-22",
+       "plot": "הסקסולוגית, השחקן, הזמר ועוד דמויות משעשעות מתארחים באולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/s1/775705/",
+       "id": "775705",
+       "season": 1
+      },
+      {
+       "name": "קיץ עם מני פאר | תוכנית 1 - גילה אלמגור, אמנון דנקנר ודורון נשר",
+       "logo": "https://www.kan.org.il/media/05mn5gog/untitled-1-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9b6inmmu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-16",
+       "plot": "אנשי התרבות מתארחים באולפן לספיישל קיצי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/s1/773884/",
+       "id": "773884",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קיץ עם מני פאר | פתיח ",
+       "logo": "https://www.kan.org.il/media/ux3ln03z/קיץ-עם-מני-פאר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a6pnracp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-26",
+       "plot": "הפתיח הקיצי של ''קיץ עלם מני פאר''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-773707/864888/",
+       "id": "864888"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

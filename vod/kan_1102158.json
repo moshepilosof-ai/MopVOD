@@ -1,0 +1,93 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - איך עיצבה ההיסטוריה המשפחתית את מי שאני כיום?",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1102158/",
+   "series_id": "1102158",
+   "updated": "2026-10-27 21:29",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מי אתה חושב שאתה? | פרק 1",
+       "logo": "https://www.kan.org.il/media/2ehfwxj4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248509/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "גבי גזית, העיתונאי ושדרן הרדיו מתחקה אחרי העבר וההיסטוריה של משפחתו, לאחר  שבבית הוריו לא דיברו על השואה כלל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1102158/s1/1103935/",
+       "id": "1103935",
+       "season": 1
+      },
+      {
+       "name": "מי אתה חושב שאתה? | פרק 6",
+       "logo": "https://www.kan.org.il/media/kjjo3vm5/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248526/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "יורם יובל - פסיכיאטר וחוקר, יוצא למסע אחרי האדם שכתב את צוואת אמו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1102158/s1/1102165/",
+       "id": "1102165",
+       "season": 1
+      },
+      {
+       "name": "מי אתה חושב שאתה? | פרק 5",
+       "logo": "https://www.kan.org.il/media/limebzre/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248524/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "מיכל ינאי מנסה לברר את ההיסטוריה המשפחתית של אמא שלה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1102158/s1/1102164/",
+       "id": "1102164",
+       "season": 1
+      },
+      {
+       "name": "מי אתה חושב שאתה? | פרק 4",
+       "logo": "https://www.kan.org.il/media/mppek3fm/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248512/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "הסופרת שפרה הורן מתחילה בביתה מסע בוא היא מתחקה אחר הסיפור של הוריה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1102158/s1/1102163/",
+       "id": "1102163",
+       "season": 1
+      },
+      {
+       "name": "מי אתה חושב שאתה? | פרק 3",
+       "logo": "https://www.kan.org.il/media/rsgey3xw/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248519/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "השחקן אוהד קנולר יוצא למסע שורשים ללמוד על מה עברה משפחתו בזמן השואה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1102158/s1/1102162/",
+       "id": "1102162",
+       "season": 1
+      },
+      {
+       "name": "מי אתה חושב שאתה? | פרק 2",
+       "logo": "https://www.kan.org.il/media/pn5hs1gx/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248513/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "השחקן והקומיקאי טל פרידמן יוצא למסע ברחבי אירופה בשביל לגלות את הסיפור של משפחתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1102158/s1/1102161/",
+       "id": "1102161",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מי אתה חושב שאתה? | פתיח",
+       "logo": "https://www.kan.org.il/media/anmghtou/מאחש-לוגו-ערוך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248529/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "מי אתה חושב שאתה? | פתיח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1102158/1102160/",
+       "id": "1102160"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

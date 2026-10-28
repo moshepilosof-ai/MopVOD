@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הקרם דה לה סלאם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671110/",
+   "series_id": "671110",
+   "updated": "2026-10-28 10:26",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הקרם דה לה סלאם | פתיח",
+       "logo": "https://www.kan.org.il/media/bvwju5pf/הקרם-דה-לה-סלאם-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_auggggkx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "פתיח לסדרה \"הקרם דה לה סלאם\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671110/943677/",
+       "id": "943677"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

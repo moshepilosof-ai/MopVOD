@@ -1,0 +1,286 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - טהרן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12317/",
+   "series_id": "12317",
+   "updated": "2026-10-28 11:16",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "טהרן עונה 3 | זה עכשיו או לעולם: הצצה לפרק הסיום",
+       "logo": "https://www.kan.org.il/media/4sdd4yhp/whatsapp-image-2025-01-27-at-134003-1.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7xept3dn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-27",
+       "plot": "המשימה האחרונה של תמר רביניאן? הצצה לפרק הסיום הכפול של עונה 3. איזה מתח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/852670/",
+       "id": "852670",
+       "season": 3
+      },
+      {
+       "name": "טהרן עונה 3 | פרק 8 - על סף תהום ",
+       "logo": "https://www.kan.org.il/media/30nfhywl/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vszyia2l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-27",
+       "plot": "פרק אחרון לעונה. פיטרסון משלים את משימתו, ומגלה את כוונתו המדהימה והקטלנית. נאהיד ותמר סוגרות חשבון. תמר ופראז מתעמתים, וניצבים מול בחירות קשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/852556/",
+       "id": "852556",
+       "season": 3
+      },
+      {
+       "name": "טהרן עונה 3 | פרק 7 - רגע האמת של ניסן",
+       "logo": "https://www.kan.org.il/media/grpjmzgo/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215001/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-27",
+       "plot": "תמר מגייסת משתף פעולה לא צפוי. פיטרסון מתקרב להגשים את משימת חייו. נאהיד מקבלת את ההחלטה הקשה ביותר. ניסן נאלץ להתמודד עם עברו המדמם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/852555/",
+       "id": "852555",
+       "season": 3
+      },
+      {
+       "name": "טהרן עונה 3 | פרק 6 - אין מוצא",
+       "logo": "https://www.kan.org.il/media/yeokrinb/טהרן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l4f97mga/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-13",
+       "plot": "תמר וניסן חייבים להיחלץ ממצב בלתי אפשרי. פראז מוכיח את עצמו, אבל נאהיד מרגישה את לפיתתו סוגרת עליה. פיטרסון מחליט לפעול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/846647/",
+       "id": "846647",
+       "season": 3
+      },
+      {
+       "name": "טהרן עונה 3 | פרק 5 - עסק לא גמור",
+       "logo": "https://www.kan.org.il/media/cmwo2tnz/לאתר-עם-פליפ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oh4gnroy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-06",
+       "plot": "פראז מציע הצעה מפתיעה שקשה להאמין לה, תמר וניסן מהמרים על גורלם ופיטרסון חושף את פניו האמיתיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/844227/",
+       "id": "844227",
+       "season": 3
+      },
+      {
+       "name": "טהרן עונה 3 | פרק 4 - אל תוך האש",
+       "logo": "https://www.kan.org.il/media/t2dfnqn2/hero_kan-box-copy-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7g2761vp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "מצבו של פיטרסון הולך ומסתבך, נאהיד הופכת לנואשת ותמר חייבת לקחת סיכון ולהתקרב אל ראמין - המבריח הכול יכול בטהרן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/841808/",
+       "id": "841808",
+       "season": 3
+      },
+      {
+       "name": "טהרן עונה 3 | פרק 3 - בגוב האריות",
+       "logo": "https://www.kan.org.il/media/oahjeguu/טהרן-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_am337lsk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-23",
+       "plot": "פראז הנואש מאלץ את תמר להגיע למקום המסוכן לה ביותר בטהרן. נאהיד מנסה לשנות את חייה וכורתת ברית. פיטרסון מתגלה במקום בו לא היה אמור להיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/839205/",
+       "id": "839205",
+       "season": 3
+      },
+      {
+       "name": "טהרן - עונה חדשה - פרק 2",
+       "logo": "https://www.kan.org.il/media/a3wayh3m/טהרן-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xov7asuv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-16",
+       "plot": "פרק 2: אגרוף בפרצוף - תמר נלכדת באופן מפתיע, מעונה ומוכה כשהיא חסרת אונים. פראז חש את אצבעות אויביו סוגרות על צוארו. אריק פיטרסון, המפקח מטעם המערב על כך שלאיראן לא תהיה פצצת אטום, מסתבך במהלך ביקורת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/836534/",
+       "id": "836534",
+       "season": 3
+      },
+      {
+       "name": "טהרן עונה 3 | פרק 1 - עולם רדיואקטיבי",
+       "logo": "https://www.kan.org.il/media/pn3ifewd/טהרן-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5kuznpwi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "לאחר שמילאד נרצח בידי המוסד הישראלי וחייה ניצלו בנס, תמר חומקת במקביל מאנשי המוסד וממשמרות המהפכה. תגלית שהיא חושפת משנה את התמונה. במקביל, פראז ונאהיד נלחמים על הישרדותם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/833707/",
+       "id": "833707",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "טהרן עונה 2 | פרק 8 - פרק אחרון: הלוויית הדמים",
+       "logo": "https://www.kan.org.il/media/dxijvgom/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nxsiduq9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרק אחרון לעונה. תמר מאשימה את מילאד בגרימת מותו של פיימאן מתוך קנאה. פראז מתעקש שחייבים לחסל את מוחמדי לפני שיגלה שהמוסד הרג את בנו. מרג'אן מצליחה להכניס את תמר לביתו במהלך ההלווייה כדי שתהרוג אותו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/146577/",
+       "id": "146577",
+       "season": 2
+      },
+      {
+       "name": "טהרן עונה 2 | פרק 7 - בטי",
+       "logo": "https://www.kan.org.il/media/mj2fnt5s/https-kanstaticazureedgenet-download-pictures-2022-6-9-imgid-75950_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g0l5fodi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תמר לומדת מפיימאן על מרוץ מכוניות שאביו עומד לערוך מולו. למילאד יש רעיון כיצד לגרום בעזרת תמר למותו של מוחמדי במהלך המרוץ, אלא שרגעים לפני שהמרוץ יוצא לדרך, יש שינוי בתוכניות שמאיים על הצלחת המבצע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/146337/",
+       "id": "146337",
+       "season": 2
+      },
+      {
+       "name": "טהרן עונה 2 | פרק 6 - הבחירה של פראז",
+       "logo": "https://www.kan.org.il/media/a5vbqipy/https-kanstaticazureedgenet-download-pictures-2022-6-2-imgid-75562_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_urlv5qt6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פראז נחשף לרעל שיועד למוחמדי ומצבו מדרדר. בעזרת תרופת הנגד, מרג'אן סוחטת ממנו שיתוף פעולה. כשתמר ופיימאן מתקרבים, מילאד מפקפק באהבתה אליו. עלי חושד שפראז מסתיר ממנו מידע. פראז נאלץ לקבל החלטה קיצונית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/146070/",
+       "id": "146070",
+       "season": 2
+      },
+      {
+       "name": "טהרן עונה 2 | פרק 5 - טעות כפולה",
+       "logo": "https://www.kan.org.il/media/mn2p4zv3/https-kanstaticazureedgenet-download-pictures-2022-5-26-imgid-75147_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8jc56xle/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שידור נוסף לקראת עליית העונה החדשה. פרק 5:טעות כפולה- מילאד נעצר ע\"י משטרת טהרן בחשד למכירת סמים לריצ' קידס מטהרן. פראז ממהר לחקור אותו ותמר שחוששת המוסד ינסה להורגו לפני שישבר בחקירה, מנסה לחלצו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/145647/",
+       "id": "145647",
+       "season": 2
+      },
+      {
+       "name": "טהרן עונה 2 | פרק 4 - בני עשירים",
+       "logo": "https://www.kan.org.il/media/c0kamqfm/https-kanstaticazureedgenet-download-pictures-2022-5-19-imgid-74779_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219499/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שידור נוסף לקראת עליית העונה החדשה. פרק 4: בני עשירים- מרג'אן מפרה פקודה ולא מנטרלת את פראז, כדי שיהיה מקור מודיעיני על מוחמדי. תמר מוזמנת  למסיבה של בני העשירים, ומתכננת לשתול סלולרי ממולכד אצל פיימאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/145326/",
+       "id": "145326",
+       "season": 2
+      },
+      {
+       "name": "טהרן עונה 2 | פרק 3- PTSD",
+       "logo": "https://www.kan.org.il/media/qtflkrbn/https-kanstaticazureedgenet-download-pictures-2022-5-12-imgid-74315_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8ff00dg3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פראז ויד ימינו עלי עורכים מצוד אחר תמר ומילאד. מרג'אן חודרת לביתו של פראז בכדי לנטרלו, במסווה של פסיכולוגית המטפלת באשתו הסובלת מאגורפוביה. תמר יוצרת קשר עם פיימאן, בנו של מוחמדי. מילאד לא עומד בלחץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/144879/",
+       "id": "144879",
+       "season": 2
+      },
+      {
+       "name": "טהרן עונה 2 | פרק 2 - שינוי בתוכנית",
+       "logo": "https://www.kan.org.il/media/e53hdhdh/https-kanstaticazureedgenet-download-pictures-2022-5-5-imgid-73892_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_88ds59jp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תמר נשארת בטהרן כדי לבצע משימה חדשה. ראשת המוסד יוליה מגן מורה לסוכנת המוסד המקומית מרג'אן מונתזמי (גלן קלוז) לסייע לתמר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/144507/",
+       "id": "144507",
+       "season": 2
+      },
+      {
+       "name": "טהרן עונה 2 | פרק 1 - 13,000",
+       "logo": "https://www.kan.org.il/media/2gijd3u1/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fanlu3fh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תמר רביניאן ניתקה קשר עם המוסד וחיה במחתרת בטהרן יחד עם בן זוגה מילאד כהאני. בעוד הם מתכננים לברוח אל הגבול מאיראן, המוסד שוב יוצר אתה קשר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s2/144504/",
+       "id": "144504",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טהרן | עונה 1 פרק 1 - נחיתת אונס בטהרן",
+       "logo": "https://www.kan.org.il/media/sdoorwag/https-kanstaticazureedgenet-download-pictures-2020-5-21-imgid-33831_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m6svtndt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תמר רביניאן, האקרית מחוננת וסוכנת מוסד, מסתננת ללב טהרן על-מנת לנטרל את מערכת המכ\"ם של צבא איראן, מה שיאפשר למטוסי חיל האוויר להפציץ את הכור הגרעיני האיראני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/s1/113735/",
+       "id": "113735",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "טהרן - הצצה | יו לורי במפעל הגרעין",
+       "logo": "https://www.kan.org.il/media/bcscctyy/tehran_301_f00035f.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wiswpxtl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "יו לורי מגיע לטהרן ומסתבך במפעל הגרעין האיראני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/855877/",
+       "id": "855877"
+      },
+      {
+       "name": "טהרן - הצצה | תמר נלכדת",
+       "logo": "https://www.kan.org.il/media/x5lhegpz/tehran_302_f00340f.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oteb5gzi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-03",
+       "plot": "תמר נלכדת ופוגשת את האוח בפעם הראשונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/855647/",
+       "id": "855647"
+      },
+      {
+       "name": "טהרן עונה 3 | מאחורי הקלעים: איך קופצים על משאית נוסעת?",
+       "logo": "https://www.kan.org.il/media/copltllq/whatsapp-image-2025-01-13-at-170212.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936369/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-13",
+       "plot": "משימה בלתי אפשרית גרסת תמר רביניאן: כולנו נשארנו פעורי פה כשניב סולטן זינקה על משאית דוהרת בפרק 4. אימונים מפרכים? גמישות יתר? יצאנו למאחורי הקלעים להבין איך היא עשתה את זה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/846775/",
+       "id": "846775"
+      },
+      {
+       "name": "טהרן עונה 3 | מאחורי הקלעים של בית המחסה לנשים בטהרן",
+       "logo": "https://www.kan.org.il/media/cdrodyjz/טהרן-1-3735.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_evu294vg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-30",
+       "plot": "תסריט העונה השלישית של טהרן נכתב קצת לאחר מחאות הנשים בטהרן. הסיפור של מהסה אמיני, שנרצחה על ידי המשטר האיראני בשל \"עטיית חיג'אב מרושלת\", ליווה את הצוות והשפיע על הסט של מקלט הנשים, שניסה להיות כמה שיותר מנחם, עוטף וחם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/841924/",
+       "id": "841924"
+      },
+      {
+       "name": "טהרן עונה 3 | מאחורי הקלעים: איך בנינו את הצנטריפוגות",
+       "logo": "https://www.kan.org.il/media/t33lutzx/צנטריפוגות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3y8229pm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-22",
+       "plot": "דניאל פליק, אחראי האפקטים הויזאוליים ב\"טהרן\", ויואל הרצברג, המנהל האמנותי, מספרים על האתגר הכי גדול שלהם העונה: בניית מפעל הצנטריפוגות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/838829/",
+       "id": "838829"
+      },
+      {
+       "name": "טהרן | ריקאפ: עושים לכם תזכורת",
+       "logo": "https://www.kan.org.il/media/dxijvgom/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y0r2i36k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-10",
+       "plot": "מי נגד מי? לרגל העונה השלישית, הנה כל מה שאתם צריכים לזכור משתי העונות הקודמות של \"טהרן\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/834448/",
+       "id": "834448"
+      },
+      {
+       "name": "\"האקשן גדל\": ניב סולטן וששון גבאי על העונה השלישית של טהרן",
+       "logo": "https://www.kan.org.il/media/b2qb3ni0/5e287ae9-106e-4877-a7e7-4cea8a3e0c46.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3lufompx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "איך היה החיבור ביניהם, מה היה הכי מסובך לצלם ואיך זה לשחק לצד יו לורי? ניב סולטן וששון גבאי, כוכבי \"טהרן\", מספקים לנו הצצה לעונה החדשה של \"טהרן\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/833791/",
+       "id": "833791"
+      },
+      {
+       "name": "טהרן | טריילר",
+       "logo": "https://www.kan.org.il/media/otwbhlxl/1920x1080-with-logo_טהרן-עונה3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lranejjy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-11-18",
+       "plot": "האם עדיין אפשר לעצור את הפצצה? טריילר לעונה השלישית של \"טהרן\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12317/825776/",
+       "id": "825776"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

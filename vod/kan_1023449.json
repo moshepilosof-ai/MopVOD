@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - השאלות של נעמי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1023449/",
+   "series_id": "1023449",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "השאלות של נעמי",
+       "logo": "https://www.kan.org.il/media/si4hz3il/1920x1080_no-logo_השאלות-של-נעמי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185693/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-05",
+       "plot": "מסע תיעודי משפחתי הנפרש על פני שלושה עשורים במרכזו עומדת נעמי שמתמודדת עם תסמונת ויליאמס, ונאבקת על זכותה לחיים עצמאיים, לאהבה ולבית משלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1023449/1023453/",
+       "id": "1023453"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שמונה דקות ביום",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-769693/",
+   "series_id": "769693",
+   "updated": "2026-10-28 13:32",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שמונה דקות ביום | פרק 25 - \"אתה בחיפה לא היית שורד דקה\"",
+       "logo": "https://www.kan.org.il/media/qvqluj0j/פרק-25.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hw5aip57/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הרב המוטורי הראשון לציון מגיע לביקורת במשרד נציב המים וציפי מוכרת הפרחים מספרת על הריב האחרון שהיה לה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772124/",
+       "id": "772124",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 24 - \"אתה השפיץ, אין כמוך\"",
+       "logo": "https://www.kan.org.il/media/lf1nciz5/פרק-24.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h580so17/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "שמעון המניקוריסט ואחיו חזי חושדים בלקוח שהגיע לטיפול בציפורן חודרנית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772121/",
+       "id": "772121",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 23 - \"לטווח ארוך זה טווח המחשבה שלי\"",
+       "logo": "https://www.kan.org.il/media/uzyj53fy/פרק-23.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6d7s7u5s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הרב המוטורי הראשי לישראל בשיעור על שמן ברקסים ושמעון המניקוריסט דואג לאחיו שנמצא בתקופה לחוצה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772117/",
+       "id": "772117",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 22 - \"קחי אותנו לרשות הפלשתינית\"",
+       "logo": "https://www.kan.org.il/media/ac0fmwsq/פרק-22.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0srfqfbi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "יצחק נציב המים מודה לרבקה המזכירה על התמיכה בו ומוכרת הפרחים על הפגישה המוזרה באמצע נתיבי איילון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772111/",
+       "id": "772111",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 21 - \"אם תלך אחורה תיפול לתוך הג'ורה\"",
+       "logo": "https://www.kan.org.il/media/rjfjn4wt/פרק-21.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sry2audb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "נציב המים נראה מוטרד והמכור לעישון חושב על ההווה ביחס לעתיד הלא ידוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772106/",
+       "id": "772106",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 20 - \"אין לי בלב ייאוש\"",
+       "logo": "https://www.kan.org.il/media/l4zbsljv/פרק-20.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5m3drur5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הזוג המוזר שמארח חברים מהצבא - מארח הפעם דוב פנדה ויצחק נציב המים מספר על הקו האדום של הכינרת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772100/",
+       "id": "772100",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 19 - \"כל מיני איציקים כאלה\"",
+       "logo": "https://www.kan.org.il/media/zwzj12xp/פרק-19.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z64r9uel/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "שמעון המניקוריסט שוקע במחשבות עמוקות על מהות החיים והרווקה התל אביבית פוגשת מכר מהעבר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772098/",
+       "id": "772098",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 18 - \"מכיר אותו מהמארינס\"",
+       "logo": "https://www.kan.org.il/media/jqeh3l1n/פרק-18.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b97nd8rw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הראש המוטורי הראשי לישראל בפנייה לערביי ישראל והרכילות המשרדית עולה שלב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772095/",
+       "id": "772095",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 17 - \"מיליארד סינים לא יכולים לטעות\"",
+       "logo": "https://www.kan.org.il/media/zxxnkzmb/פרק-17.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1cb3mxoz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "שמעון המניקוריסט מנסה לקדם את העסק בעזרת מבצעים והרב המוטורי הראשי לישראל במשנה על אופנועים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772091/",
+       "id": "772091",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 16 - \"מרוב שנלחצתי נפלה לי הביצה\"",
+       "logo": "https://www.kan.org.il/media/vf5n4fry/פרק-16.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ys81ofsp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "שמעון המניקוריסט ואחיו מדברים על מערכות יחסים ומוכרת הפרחים על המפגש עם המשטרה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772083/",
+       "id": "772083",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 15 - \"כבודי חשב ומצא ש... לא\"",
+       "logo": "https://www.kan.org.il/media/sk5n3odg/פרק-15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p9j6o0hk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "אחמד מתפתה להפעיל את הפצצה והרב המוטורי הראשי לישראל מדבר על פופלריות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772081/",
+       "id": "772081",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 14 - \"לאנשים אין כסף להוציא על פינוקים\"",
+       "logo": "https://www.kan.org.il/media/uh1jzzim/פרק-14.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tcmxodcw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "שמעון המניקוריסט מסביר לאחיו חזי על כלי העבודה שלו והזוג העשיר חוזר מבילוי נוסף בלימוזינה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772078/",
+       "id": "772078",
+       "season": 1
+      },
+      {
+       "name": " שמונה דקות ביום | פרק 13 - \"מהצבא אני מכיר אותו\"",
+       "logo": "https://www.kan.org.il/media/aaihur4i/פרק-13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hph05n7v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הרב המוטורי הראשון לציון על ייאוש ותקווה והפקידה במשרד נציב המים מתשאלת את יצחק על כוס המים שהוא נושא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772076/",
+       "id": "772076",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 12 - \"לא היסטרי\"",
+       "logo": "https://www.kan.org.il/media/zcqatmmh/פרק-12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6xsgrxu5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הרב המוטורי הראשון לציון מבקש מחילה מנפגעי תאונות דרכים והרווקה התל אביבית מנסה טייפקאסט שונה מהנוף שהיא רגילה אליו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772073/",
+       "id": "772073",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 11 - \"חינוך טוב דורש משמעת\"",
+       "logo": "https://www.kan.org.il/media/2fgnrhzl/פרק-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d1fcedko/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הרב המוטורי הראשון לציון על הבעייתיות של הרכבת משקפי שמש בנהיגה ושמעון המניקוריסט מנסה לשכנע את אחיו לפתוח סטארטאפ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772072/",
+       "id": "772072",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 10 - \"הכול עובר עלייך והחתול השתין עלייך\"",
+       "logo": "https://www.kan.org.il/media/31xfp0qi/פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qy6x7eea/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "המכור לעישון על עסקאות בגבול הצפון והשחקנית המובטלת מדברת על המנה האהובה עליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772066/",
+       "id": "772066",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 9 - \"ואם הייתי אומר לך לקפוץ מהגג?\"",
+       "logo": "https://www.kan.org.il/media/nquf4m3j/פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rwne0egu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הרב המוטורי הראשון לציון מספר לנו על עבודתו היומיומית והמובטל שמכור לעישון צריך להרים טלפון לתל השומר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772062/",
+       "id": "772062",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 8 - \"תעשו הפגנה, תהפכו שולחנות\"",
+       "logo": "https://www.kan.org.il/media/akzp2jc2/פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ygamwf1e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "נציב המים ממשיך להסתיר את מעשיו מהפקידה והרווקה התל אביבית פוגשת את הקיבוצניק הלוחם הרגיש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772055/",
+       "id": "772055",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 7 - \"מה יש לפחד מדולפין?\"",
+       "logo": "https://www.kan.org.il/media/1bjdriv5/פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ztgppszo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "הרווקה התל אביבית שנופלת על כל ההזויים בעיר והרב המוטורי הראשון לציון על התבוללות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772051/",
+       "id": "772051",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 6 - \"גם כן שמאלנית!\"",
+       "logo": "https://www.kan.org.il/media/j5ckug11/פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7i08xkzo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "על המקור האמיתי של השם חזי וחגיגות יום הולדת למוזר שיושב על ספסל עם בובה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772045/",
+       "id": "772045",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 5 - \"פיליפ!\"",
+       "logo": "https://www.kan.org.il/media/bc4nvh2n/פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_17pcapap/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "נציב המים שלוקח הבייתה מסמכים סודיים ופקידת הקבלה שמזכירה לו את החוקים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772037/",
+       "id": "772037",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 4 - \"זרקו אותי מבית צבי\"",
+       "logo": "https://www.kan.org.il/media/mphhdw1c/פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_keo7cb76/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "השחקנית שלא המשיכה בלימודי המשחק, איש העסקים שמצטט הכול הפוך ומוכרת הפרחים בעלת הדעות החלוקות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772034/",
+       "id": "772034",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 3 - \"לחתול יש שבע נשמות\"",
+       "logo": "https://www.kan.org.il/media/wvrjnfbx/פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g6jjl68i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-11",
+       "plot": "על גזענות, סטראוטיפים ומה שביניהם - החברה הישראלית על כל גווניה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/772028/",
+       "id": "772028",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 2 - \"במקום להגיד אגרול, הם אמרו אגלול\"",
+       "logo": "https://www.kan.org.il/media/vt3fjh1c/פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n87tp35c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-08",
+       "plot": "כל אחד והעיסוק שלו, כל אחד והחלומות שלו - ואיכשהו, לכולם עדיין חסר משהו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/770999/",
+       "id": "770999",
+       "season": 1
+      },
+      {
+       "name": "שמונה דקות ביום | פרק 1 - \"בגילכם הייתי צעיר יותר\"",
+       "logo": "https://www.kan.org.il/media/xyapiu0s/פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4696jmvc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-04",
+       "plot": "הרווקה התל אביבית שמסיימת כל יום עם פרטנר אחר, הרב שמעביר דברי תורה והמניקוריסט שחולם על קריירה בהייטק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-769693/s1/769696/",
+       "id": "769696",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

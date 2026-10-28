@@ -1,0 +1,82 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - היהודי החדש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13225/",
+   "series_id": "13225",
+   "updated": "2026-10-28 09:50",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "היהודי החדש עם גורי אלפי | פרק 4 - הבית",
+       "logo": "https://www.kan.org.il/media/mf3agxwq/https-kanstaticazureedgenet-download-pictures-2021-4-26-imgid-51693_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_grazz4oq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בנסיון להבין איפה מרגישים היהודים \"בבית\", גורי אלפי מבקר בחווה של חקלאים יהודים, מצטרף למיליציה יהודית בניו יורק ומלווה זוג צעיר ממילווקי שבחר לעלות לארץ ישראל. פרק אחרון לסדרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13225/s1/130023/",
+       "id": "130023",
+       "season": 1
+      },
+      {
+       "name": "היהודי החדש עם גורי אלפי | פרק 3 - העתיד",
+       "logo": "https://www.kan.org.il/media/qg1f2wzt/https-kanstaticazureedgenet-download-pictures-2021-4-20-imgid-51333_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_33lbqnk4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "גורי אלפי מנסה להבין איך משמרים את היהדות, מרעננים אותה ומתווכים אותה הלאה לדורות הבאים. הוא מבקר בבית ספר יסודי ובאחווה יהודית אפופת עשן, ואפילו עורך טקס בר מצווה מחודש לעצמו, מוקף בחברים חדשים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13225/s1/130020/",
+       "id": "130020",
+       "season": 1
+      },
+      {
+       "name": "היהודי החדש עם גורי אלפי | פרק 2 - הגוונים",
+       "logo": "https://www.kan.org.il/media/ksvibjo3/https-kanstaticazureedgenet-download-pictures-2021-4-28-imgid-51817_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vsqj9oo9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "גורי אלפי יוצא למסע מצחיק ופוקח עיניים על התפר והקרע שבין היהודים בישראל ליהדות ארה\"ב. גורי מבין ש-200 שנה אחרי גלי ההגירה הגדולים מאירופה, היהודי האמריקני האשכנזי והנעבך כבר מזמן אאוט. הוא מתארח אצל יהודים פרסים בבברלי הילס, פוגש יהודים שחורים ופורטו-ריקנים בניו יורק, ונוכח לדעת שכשזה מגיע לשאלה מיהו יהודי – הכל ממש לא שחור או לבן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13225/s1/130017/",
+       "id": "130017",
+       "season": 1
+      },
+      {
+       "name": "היהודי החדש עם גורי אלפי | פרק 1 - הבחירה",
+       "logo": "https://www.kan.org.il/media/kpzfdaof/https-kanstaticazureedgenet-download-pictures-2021-4-19-imgid-51265_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_drqfbkm0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "גורי אלפי יוצא למסע מצחיק ופוקח עיניים על התפר והקרע שבין היהודים בישראל ליהדות ארה\"ב. בעוד שבארץ היהדות מובנת מאליה, גורי מגלה שיהודים בארה\"ב צריכים לבחור מדי יום איך לשלב את היהדות בחייהם כאמריקנים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13225/s1/130014/",
+       "id": "130014",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "היהודי החדש - הצצה | אנטישמיות",
+       "logo": "https://www.kan.org.il/media/s0agbacu/היהודי-החדש-הצצה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_phutztb6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "גורי אלפי לא ציפה לכזה אקשן כשהצטרף לסיירת של שכונה יהודית בארה\"ב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13225/856650/",
+       "id": "856650"
+      },
+      {
+       "name": "היהודי החדש - הצצה | יהודי ישראלי VS יהודי אמריקאי",
+       "logo": "https://www.kan.org.il/media/szsbqod5/היהודי-החדש-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ligolehv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "גורי אלפי יצא לבדוק מה חושבים היהודים באמריקה על הישראלי המצוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13225/856644/",
+       "id": "856644"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ארון השירים היהודי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13114/",
+   "series_id": "13114",
+   "updated": "2026-10-28 09:28",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ארון השירים היהודי - הצצה | \"איך הוא שר\" ",
+       "logo": "https://www.kan.org.il/media/1hnig1qc/ארון-השירים-היהודי-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8s6wjutb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-11",
+       "plot": "דני רובס מבצע את השיר \"איך הוא שר\" בתוכנית \"ארון השירים היהודי\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/858942/",
+       "id": "858942"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 28 - יהלי סובול",
+       "logo": "https://www.kan.org.il/media/0vdlawoc/https-kanstaticazureedgenet-download-pictures-2021-9-9-imgid-60661_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tingf597/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארון השירים היהודי בתוכניות חדשות. עומר בן רובי מנתח עם העיתונאית חן ארצי סרור את פרשת השבוע \"בראשית\", ויוצא למסע בעקבות טקסטים יהודיים וישראליים עם מוזיקאים ויוצרים מובילים. והשבוע: יהלי סובול",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/135255/",
+       "id": "135255"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 27 - עדי קיסר",
+       "logo": "https://www.kan.org.il/media/2t4ju2wx/https-kanstaticazureedgenet-download-pictures-2021-9-9-imgid-60658_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t1wszpc2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארון השירים היהודי חוזרת עם תוכניות חדשות. עומר בן רובי מנתח עם העיתונאית חן ארצי סרור את פרשת השבוע \"כי תישא\", ויוצא למסע בעקבות טקסטים יהודיים וישראליים עם מוזיקאים ויוצרים מובילים. אורחת: עדי קיסר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/135253/",
+       "id": "135253"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 25 - איה כורם",
+       "logo": "https://www.kan.org.il/media/jwsbcqgj/https-kanstaticazureedgenet-download-pictures-2021-9-9-imgid-60657_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uu6vtzi3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארון השירים היהודי חוזרת עם תוכניות חדשות. עומר בן רובי מנתח עם העיתונאית חן ארצי סרור את פרשת השבוע \"וילך\", ויוצא למסע בעקבות טקסטים יהודיים וישראליים עם מוזיקאים ויוצרים מובילים. והשבוע: איה כורם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/135251/",
+       "id": "135251"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 26 - נטע אלקיים",
+       "logo": "https://www.kan.org.il/media/13tjqyq3/https-kanstaticazureedgenet-download-pictures-2021-8-31-imgid-60213_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aw4y6zhb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארון השירים היהודי חוזרת עם תוכניות חדשות. עומר בן רובי מנתח עם העיתונאית חן ארצי סרור את פרשת השבוע \"האזינו\", ויוצא למסע בעקבות טקסטים יהודיים וישראליים עם מוזיקאים ויוצרים מובילים. והשבוע: נטע אלקיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/135084/",
+       "id": "135084"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 24 - ליאור אלמליח",
+       "logo": "https://www.kan.org.il/media/xaagoocx/https-kanstaticazureedgenet-download-pictures-2021-8-31-imgid-60212_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3rs58sf8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארון השירים היהודי חוזרת בתוכניות חדשות. עומר בן רובי מנתח עם העיתונאית חן ארצי סרור את פרשת השבוע \"ניצבים\", ויוצא למסע בעקבות טקסטים יהודיים וישראליים עם מוזיקאים ויוצרים מובילים. אורח: ליאור אלמליח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/135076/",
+       "id": "135076"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 23 - שולי רנד",
+       "logo": "https://www.kan.org.il/media/3xtanbpw/https-kanstaticazureedgenet-download-pictures-2021-8-17-imgid-59460_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_937a9sxx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"ארון השירים היהודי\" חוזרת עם תוכניות חדשות. עומר בן רובי מנתח עם העיתונאית חן ארצי סרור את פרשת השבוע \"כי תבוא\", ויוצא למסע בעקבות טקסטים יהודיים וישראליים עם מוזיקאים ויוצרים מובילים. אורח: שולי רנד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/134721/",
+       "id": "134721"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 21 - עקיבא",
+       "logo": "https://www.kan.org.il/media/sfykr23f/https-kanstaticazureedgenet-download-pictures-2021-5-31-imgid-54188_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6es09le2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: עקיבא. פרשת השבוע \"קורח\" - עם חן ארצי סרור.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125949/",
+       "id": "125949"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 20 - מיקה קרני",
+       "logo": "https://www.kan.org.il/media/r4ve2wx1/https-kanstaticazureedgenet-download-pictures-2021-5-31-imgid-54170_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fuyu5x6k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורחת: מיקה קרני. פרשת השבוע \"שלח לך\" עם חן ארצי סרור.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125947/",
+       "id": "125947"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 19 - קובי אוז",
+       "logo": "https://www.kan.org.il/media/htdk4baj/https-kanstaticazureedgenet-download-pictures-2021-5-19-imgid-53369_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iv5rr1kx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד היום. אורח: קובי אוז.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125945/",
+       "id": "125945"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 18 - שי צברי",
+       "logo": "https://www.kan.org.il/media/dible2aa/https-kanstaticazureedgenet-download-pictures-2021-5-19-imgid-53363_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6x0fsx2z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: שי צברי. פרשת השבוע: נשא - עם חן ארצי סרור.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125943/",
+       "id": "125943"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 17 - ישי ריבו",
+       "logo": "https://www.kan.org.il/media/k1xn2wbc/https-kanstaticazureedgenet-download-pictures-2021-5-6-imgid-52419_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_93sbzrqv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: ישי ריבו. פרשת השבוע במדבר - עם חן ארצי סרור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125941/",
+       "id": "125941"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 16 - אסתר רדא",
+       "logo": "https://www.kan.org.il/media/kb0blwkm/https-kanstaticazureedgenet-download-pictures-2021-5-5-imgid-52363_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xgpdc8k2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. פרשת בהר בחוקותי: עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך והיום. אורחת: אסתר רדא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125938/",
+       "id": "125938"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 15 - אריאל הורביץ",
+       "logo": "https://www.kan.org.il/media/3vgn3mzp/https-kanstaticazureedgenet-download-pictures-2021-4-21-imgid-51394_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_22l4hlzl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: אריאל הורביץ. פרשת השבוע אמור - עם חן ארצי סרור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125936/",
+       "id": "125936"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 14 - אתי אנקרי",
+       "logo": "https://www.kan.org.il/media/bavgytzy/https-kanstaticazureedgenet-download-pictures-2021-4-21-imgid-51393_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uvohjvol/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ימינו. אורחת: אתי אנקרי. פרשת השבוע אחרי מות קדושים - עם חן ארצי סרור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125934/",
+       "id": "125934"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 13 - מיכה שטרית",
+       "logo": "https://www.kan.org.il/media/wyekfvgj/https-kanstaticazureedgenet-download-pictures-2021-4-7-imgid-50474_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_idoicr8j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: מיכה שטרית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125931/",
+       "id": "125931"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 12 - ריף כהן",
+       "logo": "https://www.kan.org.il/media/wfypoa25/https-kanstaticazureedgenet-download-pictures-2021-4-7-imgid-50473_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r4dfp7t5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורחת: ריף כהן.  פרשת השבוע שמיני - עם חן ארצי סרור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125928/",
+       "id": "125928"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 11 - אברהם טל",
+       "logo": "https://www.kan.org.il/media/or4btjze/https-kanstaticazureedgenet-download-pictures-2021-3-25-imgid-49812_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7bhhu7t6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. פרשת ויקרא: עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ימינו. אורח: אברהם טל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125926/",
+       "id": "125926"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 10 - ירדנה ארזי",
+       "logo": "https://www.kan.org.il/media/e2cgznno/https-kanstaticazureedgenet-download-pictures-2021-3-25-imgid-49771_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dnitq720/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה מכאן ג מגיעה לכאן 11. פרשת צו - שבת הגדול: עומר בן רובי מארח מוזיקאים לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ימינו. אורחת: ירדנה ארזי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125924/",
+       "id": "125924"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 9 - הראל סקעת",
+       "logo": "https://www.kan.org.il/media/2xcmqow5/https-kanstaticazureedgenet-download-pictures-2021-3-16-imgid-49201_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_03a2gt1a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. פרשת ויקרא: עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ימינו. אורח: הראל סקעת.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125922/",
+       "id": "125922"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 8 - ערן צור",
+       "logo": "https://www.kan.org.il/media/rf1lzvcd/https-kanstaticazureedgenet-download-pictures-2021-3-10-imgid-48853_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jmovtyo7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: ערן צור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125920/",
+       "id": "125920"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 7 - יונתן רזאל",
+       "logo": "https://www.kan.org.il/media/gzfpqpni/https-kanstaticazureedgenet-download-pictures-2021-3-4-imgid-48499_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jwg9epe1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: יונתן רזאל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125917/",
+       "id": "125917"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 6 - דני רובס",
+       "logo": "https://www.kan.org.il/media/elhhrbor/https-kanstaticazureedgenet-download-pictures-2021-2-25-imgid-48082_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5kchgeru/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: דני רובס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125914/",
+       "id": "125914"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 5 - שאנן סטריט",
+       "logo": "https://www.kan.org.il/media/14zlpsq4/https-kanstaticazureedgenet-download-pictures-2021-2-12-imgid-47272_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u178d125/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: שאנן סטריט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125912/",
+       "id": "125912"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 4 - קובי אפללו",
+       "logo": "https://www.kan.org.il/media/i42b55w0/https-kanstaticazureedgenet-download-pictures-2021-2-3-imgid-46713_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hw9btjku/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורח: קובי אפללו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125909/",
+       "id": "125909"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 3 - מירי מסיקה",
+       "logo": "https://www.kan.org.il/media/pxrldfe0/https-kanstaticazureedgenet-download-pictures-2021-1-29-imgid-46392_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y3weesle/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורחת: מירי מסיקה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125907/",
+       "id": "125907"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 2 - מוקי",
+       "logo": "https://www.kan.org.il/media/5g0ffuhi/https-kanstaticazureedgenet-download-pictures-2021-1-21-imgid-45964_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0trae94s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125905/",
+       "id": "125905"
+      },
+      {
+       "name": "ארון השירים היהודי | פרק 1 - נרקיס",
+       "logo": "https://www.kan.org.il/media/ex0bqv10/https-kanstaticazureedgenet-download-pictures-2022-10-13-imgid-45541_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cjoba487/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "התוכנית האהובה של כאן ג מגיעה לכאן 11. עומר בן רובי מארח מוזיקאים ומוזיקאיות לשיחה על יהדות, ישראליות ומה שביניהן והטקסטים שהשפיעו על חייהם ויצירתם, מימי התנ\"ך ועד ישראל 2021. אורחת: נרקיס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13114/125903/",
+       "id": "125903"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

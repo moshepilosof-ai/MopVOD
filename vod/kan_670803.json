@@ -1,0 +1,433 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שלוש, ארבע, חמש וחצי | פרקים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670803/",
+   "series_id": "670803",
+   "updated": "2026-10-28 13:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 23 - ל\"ג בעומר",
+       "logo": "https://www.kan.org.il/media/pohjpnnb/shalosharba01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ur4u0jc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הדלקת מדורות, צליית תפוחי אדמה, קישוט ביצים וחץ וקשת, בפרק מיוחד על האגדה על שמעון בר יוחאי והציפור הכחולה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/673867/",
+       "id": "673867",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 22 - אביב",
+       "logo": "https://www.kan.org.il/media/cq2pmqo4/שלוש-ארבע-חמש-וחצי-אביב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fni4ae5c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מי מנע מהחורף להשתלט ולהישאר לנצח נצחים? יונה אליאן וששי קשת ממחיזים את סיפור חילוף העונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/673864/",
+       "id": "673864",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 1 - הנחליאלי",
+       "logo": "https://www.kan.org.il/media/yx4kpyeb/הנחליאלי-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5zdxlccj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "- כולם מקבלים הזמנה מדמות מסתורית המכונה צ'ומפי לבוא להיפגש עימם בשעה חמש וחצי  לאחר ציפייה ארוכה, מתברר מיהו, מה רצה מהם ומהן תוכניותיו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672174/",
+       "id": "672174",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 3 - מראות",
+       "logo": "https://www.kan.org.il/media/ejols3dm/מראות-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m1fnein2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מעשה בראי שהתגלגל בדרך מצחיקה ליער על־ידי עגלון שעבר במקום, את הראי מצאו חיות היער ולהפתעתן גילו בו מיני חיות משונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672171/",
+       "id": "672171",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 4 - האתרוג",
+       "logo": "https://www.kan.org.il/media/3qvb2vl1/האתרוג-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dnos3yof/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אבא משה־יענקל, אמא בתיה־ביילה ובנם הקטן אליק הזוכים זו הפעם הראשונה לאתרוג משלהם בסוכות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672168/",
+       "id": "672168",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 5 - בלונים",
+       "logo": "https://www.kan.org.il/media/bqsgm3qu/בלונים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9xp2q19o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נירה מספרת על ליצן שמנסה למכור בלונים בקרקס ואינו מצליח. כשהוא מתעייף ושוכב לנוח, משתחררים הבלונים מידיו ויוצאים לבדם למסע הרפתקני בעולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672165/",
+       "id": "672165",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 6 - הדגיגה שחיפשה את קצה הים",
+       "logo": "https://www.kan.org.il/media/k3kpoql4/הדג-שחיפש-את-קצה-הים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qq2j21n1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פנינה הצדפה, שרוליק הסרטן, מר סרדין, זוהר - דג החשמל ופישמן - דג הפטיש - כל אלה ידעו לספר לזהבית הדגיגה על סוף הים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672162/",
+       "id": "672162",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארב ע ,חמש וחצי | פרק 8 - גלינה",
+       "logo": "https://www.kan.org.il/media/0u1nw5ue/גלינה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_htpysq9t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "\"גלינה\" היא אונייה חדשה וקטנה שעובדת בנמל, היא מתכוננת ומחכה בקוצר־רוח ליום בו תצא להפלגה אל העולם הגדול. מר ברזילי המנוף שטיפל בה ואוהב אותה, אינו רוצה שתעזוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672159/",
+       "id": "672159",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 9 - כפיות",
+       "logo": "https://www.kan.org.il/media/cqkf03nn/כפיות-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zlqbji32/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יונה אליאן, ששי קשת, צ'ומפי ויוחנן לקיצ'ביץ' מביאים את סיפורה של הכפית שרצתה לגדול ולגדול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672156/",
+       "id": "672156",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 11 - עננים",
+       "logo": "https://www.kan.org.il/media/4njg1ski/עננים-web.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yhxk8jyr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קול ברקים ורעמים מספרים ששי ויונה לצ'ומפי על מסעותיו של ענן קטן שטייל בשמיים. יוחנן מביא לצ'ומפי הרטוב מתנה ששלח אינשם החולה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672153/",
+       "id": "672153",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 12 - קומקומו של הקיסר",
+       "logo": "https://www.kan.org.il/media/ztob3sdi/קומקומו-של-הקיסר-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7actvwok/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תפקידם של הילדים הוא להגיש לקיסר תה בקומקום החרסינה היקר שלו.  אך מה קורה, כאשר נופל הקומקום היקר מידיהם ונשבר לרסיסים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672150/",
+       "id": "672150",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 14 - שעונים",
+       "logo": "https://www.kan.org.il/media/uihhnwyc/שעונים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2hniz6tu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שעון־מעורר קטן ושמו גילי, אינו מרוצה מקול־הצלצול שלו, ומבקש שיהיה לו קול הדומה לקולותיהם היפים של בני המשפחה האחרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672147/",
+       "id": "672147",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 16 - דג הזהב של קיסר סין",
+       "logo": "https://www.kan.org.il/media/3dlh41ho/דג-הזהב-של-קיסר-סין-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uevnfzjm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שני ילדים הגרים בארמונו של קיסר סין החליטו לצייר את דג הזהב שקיבל הקיסר במתנה. הוציאו אותו מבריכת השיש היפה, הכניסו אותו לצנצנת זכוכית ולקחו לחדרם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672144/",
+       "id": "672144",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 18 - הסוס ברק",
+       "logo": "https://www.kan.org.il/media/sykltiub/הסוס-ברק-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_477w8pi4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי, אינשם, נירה וישראל נפגשים הפעם במשק. חיות המשק מקנאות בסוס ברק שהוא לבדו נוסע העירה כל שבוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672141/",
+       "id": "672141",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 20 - פורים",
+       "logo": "https://www.kan.org.il/media/452hsp3h/פורים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3psead4d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נירה וישראל מספרים על ליצן בקרקס שדווקא בפורים נמאס לו להיות ליצן ורצה להיות משהו אחר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672138/",
+       "id": "672138",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 21 - המלך והגיטרה",
+       "logo": "https://www.kan.org.il/media/qrvmo0nf/המלך-והגיטרה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_byk1dded/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפור על מלך שהיה לו הכול ובכל זאת היה עצוב. חיליק, בנו של עושה מסיכות, נחלץ לעזרתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672135/",
+       "id": "672135",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 24 - הכדור כתריאל",
+       "logo": "https://www.kan.org.il/media/2jrdbmgu/הכדור-כתריאל-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p5lg121u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הכדור כתריאל הוא כדור מיוחס, מיוחד ומפואר שנבנה על־ידי מר אלפסי בבית־חרושת לכדורים. הכול טוב ויפה עד שמגיע הרגע בו הוא נמכר ומועבר לחנות הצעצועים הגדולה בעיר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672132/",
+       "id": "672132",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 25 - ברכות לראש השנה",
+       "logo": "https://www.kan.org.il/media/dkdbfhf5/ברכות-לראש-השנה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kxxwkvmc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורו של לווין קיפניס על עידו, ילד שהצליח להפתיע את אביו, ולברכו לשנה החדשה בדרך מקורית מאוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672129/",
+       "id": "672129",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 26 - הדחליל",
+       "logo": "https://www.kan.org.il/media/bm1f3hyj/הדחליל-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a35c3a02/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נירה מחליטה לשמש כדחליל כדי למנוע מהציפורים להשמיד את הגינה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672126/",
+       "id": "672126",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 27 - הדגל",
+       "logo": "https://www.kan.org.il/media/b2ditwkh/הדגל-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e3uiy25c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי, ששי ויונה מכינים דגלים לשמחת תורה ומספרים את סיפורו של שלום עליכם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672123/",
+       "id": "672123",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 28 - הקרקס",
+       "logo": "https://www.kan.org.il/media/pe4bnnl1/הקרקס-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y0nkx11e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי ואינשם מתקשים בעשיית קסמים. נירה וישראל מספרים להם על ליצן שהצליח בקסמים בעזרת חברתו הלוליינית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672120/",
+       "id": "672120",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי |פרק 30 - דודי הדולפין",
+       "logo": "https://www.kan.org.il/media/50ylcz2n/דודי-הדולפין-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_akgu62zl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הצוות מתלווה אל צ'ומפי, אינשם, ששי ויונה לבלות בדולפינריום. שם הם מכירים את סיפורו של דודי הדולפין, שהגיע ממרחקים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672117/",
+       "id": "672117",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 31 - יוסי וכינור הקסמים",
+       "logo": "https://www.kan.org.il/media/a1ijjzek/יוסי-וכינור-הקסמים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uys17w7j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נירה, ישראל, צ'ומפי ואינשם מספרים את סיפורו של יאנוש קורצ'אק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672114/",
+       "id": "672114",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 33 - צ'ומפי ואינשם במטוס",
+       "logo": "https://www.kan.org.il/media/kb5b1o1g/צ-ומפי-ואינשם-במטוס-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9ac35cg6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי ואינשם טסים במטוס קטן בשמי הארץ. הטיסה מרגשת במיוחד, אך אינה פשוטה עבור שני טייסים מתחילים, המתבלבלים שוב ושוב מכל המכשירים המסובכים לפניהם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672111/",
+       "id": "672111",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 34 - אינשם חולה",
+       "logo": "https://www.kan.org.il/media/djil2sp2/אינשם-חולה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z6sfybac/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אינשם המצונן שוכב במיטה וצ'ומפי חברו הטוב מטפל בו במסירות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672108/",
+       "id": "672108",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 36 - הדייג ודג הזהב",
+       "logo": "https://www.kan.org.il/media/z5gpzpmz/הדייג-ודג-הזהב-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mp4rfy77/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נירה וישראל מספרים לצ'ומפי ואינשם שהחלו לעסוק בדיִג את סיפורם של האחים גרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672105/",
+       "id": "672105",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע ,חמש וחצי | פרק 37 - הצייר והציפור",
+       "logo": "https://www.kan.org.il/media/qkhc5g5a/הצייר-והציפור-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1th953ii/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי מנסה לצייר את אינשם. יונה וששי מספרים על ציפור דמיונית אשר פרחה מתוך התמונה אשר לא מצאה את מקומה בעולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672102/",
+       "id": "672102",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 38 - עושה הנפלאות",
+       "logo": "https://www.kan.org.il/media/xyejzuhg/עושה-הנפלאות-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a98ucu1b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בעיירה קטנה התגוררו סוחר יערות ואשתו שאיבדו יום אחד את כל רכושם ונותרו חסרי כול. בערב חג הפסח הופיע בביתם אליהו הנביא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672099/",
+       "id": "672099",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 46 - עוץ לי גוץ לי",
+       "logo": "https://www.kan.org.il/media/5bzdcjbo/עוץ-לי-גוץ-לי-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n1mwxf9u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי, אינשם, שרי וישראל ממחיזים ההצגה שכתב אברהם שלונסקי על־פי \"בת הטוחן\" של האחים גרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672096/",
+       "id": "672096",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 47 - נעלי הפלא",
+       "logo": "https://www.kan.org.il/media/ekndykpb/נעלי-הפלא-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_35sr9iyw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי ואינשם שומעים את סיפור מסעותיו של אלימלך בעל הנעליים המופלאות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672093/",
+       "id": "672093",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 49 - הענק וגנו",
+       "logo": "https://www.kan.org.il/media/d0ij5zby/הענק-וגנו-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9r11q7ex/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הענק ומשרתו גרים במבצר מוקף גן יפהפה. הענק אינו מרשה לילדי המקום לשחק בגנו. לאחר חורף קר וארוך, האביב מגיע לכל מקום, אבל לא אל גנו של הענק, גן שנשאר מושלג וקר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672090/",
+       "id": "672090",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 51 - הנסיך הצפרדע",
+       "logo": "https://www.kan.org.il/media/1ofhvbs4/הנסיך-הצפרדע-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jla0obwv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הנסיכה זרקה בטעות את כדור הזהב שלה לתוך בריכה, והצפרדע בא לעזרתה, והבטיח לנסיכה להוציא את הכדור מן הבריכה, בתנאי שתסכים להכניס אותו לארמון ותארח אותו שם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672087/",
+       "id": "672087",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 53 - אם לא למעלה מזה",
+       "logo": "https://www.kan.org.il/media/hdogncjd/אם-לא-למעלה-מזה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pcyu9ukz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מעשה בצדיק שחי בעיירה יהודית ברוסיה. בימי הסליחות, לפני ראש־השנה, היה לו מנהג מוזר להיעלם מבית הכנסת מן הבוקר עד הערב. מתנגדיו סברו, שהוא עוסק בעסקים שאינם נאים לרב, ועקבו אחר מעשיו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672084/",
+       "id": "672084",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 54 - הסוכה המעופפת",
+       "logo": "https://www.kan.org.il/media/ndmfaii2/הסוכה-המעופפת-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zr1fe24u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יוחאי, נגר אומן, הגשים חלום ולעת זיקנה בנה לעצמו סוכה יפייפיה. הסולטאן שמע על יופיה וביקש שיבנה לו סוכה זהה, אך ראייתו כמעט ואבדה. מה יעשה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672081/",
+       "id": "672081",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 55 - היפהפייה הנרדמת",
+       "logo": "https://www.kan.org.il/media/0xshhk00/היפהפייה-הנרדמת-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_23jwzeo7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "סיפורה של הנערה שנרדמה ל100 שנים והתעוררה בנשיקה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672078/",
+       "id": "672078",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 57 - חנוכה בבי\"ח קפלן ברחובות",
+       "logo": "https://www.kan.org.il/media/kszbbjn4/חנוכה-בבית-חולים-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dl1jqhfq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "התוכנית מתארחת הפעם במחלקת ילדים בבית־חולים קפלן, צ'ומפי חולה ואינשם חברו הטוב בא לבקרו. הם מביאים מתנות, דמי־חנוכה לילדים החולים ואיתם הם חוגגים את החג בשירים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672075/",
+       "id": "672075",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 58 - גדא וביש גדא",
+       "logo": "https://www.kan.org.il/media/uczjiewx/גדא-וביש-גדא-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_00coo4pd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עיבוד לסיפורו של יצחק בשביס זינגר. מעשה בשתי רוחות, רוח המזל הטוב ורוח המזל הרע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672072/",
+       "id": "672072",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 59 - סינדרלה",
+       "logo": "https://www.kan.org.il/media/npopeopt/סינדרלה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zvmf06lu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ישראל גוריון וששי קשת מופיעים בתפקיד האחיות הרעות. יונה אליאן מופיעה בתפקיד סינדרלה, ושרי צוריאל היא הפייה הטובה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672069/",
+       "id": "672069",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 60 - עלילות המלך פדהצור",
+       "logo": "https://www.kan.org.il/media/kl4jotki/פדהצור-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3oo2de27/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי רוצה להיות מלך כדי שיוכל לתת פקודות לנתיניו ואילו אינשם חושב שמלך צריך להיות טוב לתושבים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672066/",
+       "id": "672066",
+       "season": 1
+      },
+      {
+       "name": "שלוש, ארבע, חמש וחצי | פרק 61 - הכוכב אסטרונינו קורא לעזרה",
+       "logo": "https://www.kan.org.il/media/c2kea2wn/אסטרונינו-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6drdsr4h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צ'ומפי ואינשם טסים בחללית משוכללת ושומעים קריאה לעזרה. מתברר כי הכוכב \"אסטרונינו\" עומד לטבוע בערימות ענקיות של נייר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/s1/672063/",
+       "id": "672063",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שלוש ארבע חמש וחצי | פתיח",
+       "logo": "https://www.kan.org.il/media/2kpnzwyg/שלוש-ארבע-חמש-וחצי-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dk9eb8r1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "פתיח לסדרה \"שלוש, ארבע, חמש וחצי\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670803/938949/",
+       "id": "938949"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - לצאת מהקופסה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-11228/",
+   "series_id": "11228",
+   "updated": "2026-10-28 11:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "לצאת מהקופסה | פרק 10 - מי מתחזה לזוג?",
+       "logo": "https://www.kan.org.il/media/thkebstz/screenshot_57.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_328ez8xz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-06",
+       "plot": "כינסנו שבעה זוגות מאוהבים וזוג אחד אפלטוני. האם הקבוצה תגלה את הזוג שמתחזה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/389516/",
+       "id": "389516"
+      },
+      {
+       "name": "לצאת מהקופסה | פרק 9 - למי אין תיק פלילי?",
+       "logo": "https://www.kan.org.il/media/4iyp4q3i/screenshot_59.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i4nsfs9y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-29",
+       "plot": "כינסנו יחד שישה אנשים עם רישום פלילי במשטרה ומתחזה אחד. האם הקבוצה תצליח לגלות מי המתחזה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/379034/",
+       "id": "379034"
+      },
+      {
+       "name": "לצאת מהקופסה | פרק 8 - מי מתחזה לאוהד כדורגל?",
+       "logo": "https://www.kan.org.il/media/2cii350e/screenshot_58.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ctgsdk0v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "כינסנו שישה אוהדי כדורגל שרופים ואחד שרק מעמיד פנים שהוא בעניין. האם הקבוצה תצליח לחשוף את המתחזה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/371715/",
+       "id": "371715"
+      },
+      {
+       "name": "לצאת מהקופסה | פרק 6 - מי מתחזה למורה ליוגה?",
+       "logo": "https://www.kan.org.il/media/1acfu31p/screenshot_84.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fi90sn9p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-15",
+       "plot": "כינסו שישה מורים ליוגה ומתחזה אחד. האם הקבוצה תצליח לזהות את המתחזה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/364543/",
+       "id": "364543"
+      },
+      {
+       "name": "לצאת מהקופסה | פרק 7 - מי מתחזה לקיבוצניק?",
+       "logo": "https://www.kan.org.il/media/yenckhta/screenshot_56.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jm3lgb0r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-15",
+       "plot": "כינסנו יחד שישה קיבוצניקים ועירוני אחד. האם הקבוצה תצליח לגלות מי הוא?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/364492/",
+       "id": "364492"
+      },
+      {
+       "name": "מי השניים שהם לא באמת יוצאי ברית המועצות?",
+       "logo": "https://www.kan.org.il/media/ghkhxptj/2023-5-1-imgid-99395_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q3oouoif/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "Сможете ли вы узнать, кто притворяется выходцем из бывшего Советского Союза? נראה אם תצליחו לגלות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/328093/",
+       "id": "328093"
+      },
+      {
+       "name": "מי מתחזה לדתי?",
+       "logo": "https://www.kan.org.il/media/irdgpql5/2023-4-10-imgid-97836_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a0fc9nph/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כינסנו שישה דתיים מול יוצא בשאלה אחד. האם הם יצליחו לגלות את המתחזה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/164024/",
+       "id": "164024"
+      },
+      {
+       "name": "לצאת מהקופסה | פרק 3 - האם המתמודדים יזהו את המיליונר?",
+       "logo": "https://www.kan.org.il/media/fx5n1q1o/2023-4-3-imgid-97407_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2szp52yl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האם שישה אנשים ממעמד הביניים יזהו את המיליונר שמסתתר ביניהם? שעשועון על סטריאוטיפים וסטיגמות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/163745/",
+       "id": "163745"
+      },
+      {
+       "name": "לצאת מהקופסה | פרק 2 - האם הערבים יזהו את היהודי?",
+       "logo": "https://www.kan.org.il/media/ff0pez2f/2023-3-28-imgid-97012_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mey0u13e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כינסו יחד קבוצת ערבים שניסו לגלות מי מהם הוא יהודי. האם הם הצליחו?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/163418/",
+       "id": "163418"
+      },
+      {
+       "name": "האם הסטרייטים יזהו את הגיי?",
+       "logo": "https://www.kan.org.il/media/vzmfhz4f/2023-3-20-imgid-96392_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0mr1fyrc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האם שבעה סטרייטים יצליחו לזהות את הגיי שמסתתר ביניהם ומתחזה לסטרייט?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/162938/",
+       "id": "162938"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

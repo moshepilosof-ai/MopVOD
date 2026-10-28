@@ -1,0 +1,64 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ניקוי ראש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671003/",
+   "series_id": "671003",
+   "updated": "2026-10-28 12:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ניקוי ראש | פתיח",
+       "logo": "https://www.kan.org.il/media/mcgbhf01/ניקוי-ראש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_381eyyoz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית הסאטירה הראשונה בישראל, תוכנית הקאלט הקומית והעל זמנית, \"ניקוי ראש\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671003/943368/",
+       "id": "943368"
+      },
+      {
+       "name": "מאחורי הקלעים | מוטי קירשנבאום מדבר על ניקוי ראש",
+       "logo": "https://www.kan.org.il/media/er0niqqg/יום-אחד-מוטי-קירשנבאום.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9y7rk3sv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-16",
+       "plot": "האם \"ניקוי ראש\" הייתה חלק מתקופה או ממכתיביה של תקופה? מוטי קירשנבאום, יוצר תוכנית הסאטירה, בשיחה עם עודד קוטלר על תהליך היצירה וההשפעה על השיח הציבורי. מתוך התוכנית \"יום אחד\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671003/738870/",
+       "id": "738870"
+      },
+      {
+       "name": "מאחורי הקלעים |  אפרים קציר מגיב למערכון מניקוי ראש",
+       "logo": "https://www.kan.org.il/media/a4mh5y5z/katzir.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pixznepc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-16",
+       "plot": "\"אינני נהנה הנאה מיוחדת כשמבקרים אותי או את חבריי, אבל יש לשמור על חופש ביטוי וחופש ביקורת\". בעת ביקור בחולון, התייחס הנשיא קציר למערכון שנכתב עליו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671003/738857/",
+       "id": "738857"
+      },
+      {
+       "name": "מאחורי הקלעים | איחוד צוות ניקוי ראש",
+       "logo": "https://www.kan.org.il/media/nkhffsde/siba-lemesiba.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vjizdx1l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "במלאות עשור לשידור התוכנית, צוות השחקנים מתארח עם מערכונים, שיר הליכוד הלאומי ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671003/675834/",
+       "id": "675834"
+      },
+      {
+       "name": "מאחורי הקלעים | רבקה מיכאלי נזכרת בניקוי ראש",
+       "logo": "https://www.kan.org.il/media/nvpbmnrg/rivka.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rfyv01fc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בשנות ה-70' עוד היה כאן המון זיפט, אבל מעט מאוד פוליקיטלי קורקט - וזה מה שקרה בטלוויזיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671003/675810/",
+       "id": "675810"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

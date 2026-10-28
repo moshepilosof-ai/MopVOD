@@ -1,0 +1,100 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ילדי פלא",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-12342/",
+   "series_id": "12342",
+   "updated": "2026-10-28 11:18",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ילדי פלא | שי מככבת בליגת כדורגל של בנים מגיל 8",
+       "logo": "https://www.kan.org.il/media/branpvte/2022-11-6-imgid-84834_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vhucu48e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בהתחלה שי התביישה ואפילו חששה לשחק רק עם בנים, אבל מהר מאוד היא התמכרה. עכשיו, בגיל 11, היא כבר הכוכבת של הפועל תל אביב וחולמת על קריירה בחו\"ל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/151691/",
+       "id": "151691"
+      },
+      {
+       "name": "ילדי פלא | נועם הוא אלוף שחמט בן 8",
+       "logo": "https://www.kan.org.il/media/hvwhjyxn/2022-3-3-imgid-70272_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5wvn1c7y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "נועם רק בן 8 וכבר מדורג שלישי בעולם בשחמט. אין יום שבו הוא לא מתאמן, והוא רגיל לשחק מול שחקנים מבוגרים ואף מנוסים ממנו בהרבה. אה, ומסתבר ששחמט זה גם ספורט מרזה, תנסו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/142075/",
+       "id": "142075"
+      },
+      {
+       "name": "ילדי פלא | לאגם יש עסק לעוגות בגיל 10",
+       "logo": "https://www.kan.org.il/media/sowb2kgs/2022-1-6-imgid-67111_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mgs8lkxy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לאחר שפרשה מקריירה בהתעמלות קרקע בגיל 7.5 המופלג, החליטה אגם ליאני לשלב בין שתי האהבות הגדולות בחייה - אומנות ואפייה. היום יש לה עסק משגשג בשם \"עוגמי\", ואם תרצו להזמין ממנה, כדאי לכם לעשות את זה ממש מהר, כי לא תמיד היא עומדת בביקוש. האם אהוד יוכיח את עצמו ויצטרף לצוות האופים?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/139791/",
+       "id": "139791"
+      },
+      {
+       "name": "ילדי פלא | יואל ירום הוא סיף מגיל 7",
+       "logo": "https://www.kan.org.il/media/hdclmzpa/2021-10-11-imgid-62297_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rpnok4d6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "יואל ירום לא היה יכול שלא להתעניין בסיף לאחר ששמע מאבא שלו ש\"יש בזה חרבות\", וכך הוא הפך ללוחם הצעיר ביותר בתחום בארץ. כיום הוא בן 10 וחולם לייצג את ישראל באולימפיאדה. אהוד עלה על חליפה ויצא ללמוד ממנו איך מתאמנים ומנצחים בקרבות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/135937/",
+       "id": "135937"
+      },
+      {
+       "name": "ילדי פלא | ניקי בת 10 ומתחרה באליפות אירופה לריקודים איריים",
+       "logo": "https://www.kan.org.il/media/fofdrak4/2021-8-8-imgid-58862_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y36bs28i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כשניקי הייתה בת שש היא הלכה עם סבתא שלה למופע של ריקודים איריים והתאהבה. ארבע שנים אחרי היא כבר אחרי שתי אליפויות אירופה ומסתמנת כאחת הכוכבות בתחום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/134431/",
+       "id": "134431"
+      },
+      {
+       "name": "ילדי פלא | שיין קדוש בת ה-8 היא אופנוענית שטח",
+       "logo": "https://www.kan.org.il/media/ffqfswf0/2021-6-3-imgid-54397_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_271u5jkx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אין לה רישיון אבל זה לא מפריע לה לרכב גם על אופנועי שטח וגם על אופנועי כביש. אז היא קמה כל יום בחמש או שש בבוקר בשביל זה ונופלת מלא, אבל יודעת שהיא צריכה לקום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/131918/",
+       "id": "131918"
+      },
+      {
+       "name": "ילדי פלא | נעמי רוקח בת שמונה והיא אלופת העולם בקראטה",
+       "logo": "https://www.kan.org.il/media/ar4kftla/2021-5-6-imgid-52418_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mu072ma2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "היא התחילה להתאמן בגיל ארבע במועדון הקראטה של ההורים שלה, ארבע שנים אחרי יש לה חגורה חומה, 33 מדליות ושתי אליפויות עולם. ומה הטיפ שלה? -  \"כל יום אתה מתקן משהו אחר וככה אתה מגיע להיות אלוף עולם\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/130850/",
+       "id": "130850"
+      },
+      {
+       "name": "ילדי פלא | \"אתה רוצה שהגל לא ייגמר\": אריאל שוורץ הוא גולש גלים בן 10",
+       "logo": "https://www.kan.org.il/media/205mifz5/2021-4-21-imgid-51408_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4mk1jno2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בגיל חמש וחצי התחיל סיפור האהבה של אריאל והים. \"ניסיתי לגלוש, ופשוט התאהבתי בזה\". מאז הוא כמעט כל יום בים,  תלוי בגלים. איך זה מסתדר עם הלימודים ובית הספר? \"אם יש גלים, אני לומד פחות\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/130112/",
+       "id": "130112"
+      },
+      {
+       "name": "ילדי פלא | טומי פרחי בן ה-8 הוא הדי ג'יי הכי צעיר בארץ",
+       "logo": "https://www.kan.org.il/media/eb4dxtar/2021-4-11-imgid-50702_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rsevfetg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "במסיבה הראשונה שלו טומי פרחי היה בן 7, מאז הוא הספיק להופיע בקיסריה, לחמם את גדולי הדי-ג'יים של התקופה, לעשות מסיבות במועדונים (לא בלילה) וגם להופיע בבית הספר שלו. ואם מישהו רוצה להצליח לטומי יש עצה בשבילו: \"אם אתה רואה מישהו בטלוויזיה ואתה גם רוצה להיות בטלוויזיה, אל תראה טלוויזיה\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12342/129649/",
+       "id": "129649"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

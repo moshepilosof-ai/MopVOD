@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מסיבת גן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671106/",
+   "series_id": "671106",
+   "updated": "2026-10-28 12:24",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מסיבת גן | פתיח",
+       "logo": "https://www.kan.org.il/media/puvnb2tn/מסיבת-גן-פתיח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_octu6mk3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "הפתיח של תוכנית הילדים האהובה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671106/943664/",
+       "id": "943664"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

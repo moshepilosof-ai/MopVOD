@@ -1,0 +1,199 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עמוד האש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13664/",
+   "series_id": "13664",
+   "updated": "2026-10-28 13:03",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "עמוד האש - הצצה | תיאודור הרצל",
+       "logo": "https://www.kan.org.il/media/ruvfuuhx/עמוד-האש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cjln4xz2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-08",
+       "plot": "מהתבוללות היהודים באירופה והאנטשמיות שספגו, ועד לחלום היהודי הליברלי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/880595/",
+       "id": "880595"
+      },
+      {
+       "name": "עמוד האש - פרק 19",
+       "logo": "https://www.kan.org.il/media/u2birzn2/2020-10-12-imgid-40334_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3xja08fz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ארה\"ב מממשיכה במאמציה לסכל את תוכנית החלוקה אך דוד בן גוריון אינו נכנע ללחצים ובה' באייר תש\"ח, 14 במאי 1948, מכריז על \"הקמת מדינה יהודית בארץ ישראל - היא מדינת ישראל!\". בעולם, קולות נגד הקמת המדינה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117048/",
+       "id": "117048"
+      },
+      {
+       "name": "עמוד האש - פרק 18",
+       "logo": "https://www.kan.org.il/media/edxkk0lj/2020-10-12-imgid-40332_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q03ma9xo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מגש הכסף (1947 - 1948). ערביי ארץ-ישראל פותחים במעשי איבה כדי לסכל בכוח את הקמת המדינה היהודית, ומצליחים להטיל מצור על ירושלים.  בן גוריון מחליט לעבור ממגננה להתקפה כדי להסיר את המצור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117042/",
+       "id": "117042"
+      },
+      {
+       "name": "עמוד האש - פרק 17",
+       "logo": "https://www.kan.org.il/media/m4zjv2qe/2020-10-12-imgid-40331_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uhql3y04/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "משפט האומות (1947). ועדה מטעם האו\"ם מגיעה לארץ ובזמן חקירותיה מופיעה בנמל חיפה האוניה \"אקסודוס\" שמסעירה את דעת הקהל העולמית. בכ\"ט בנובמבר 1947 מחליט האו\"ם על הקמת שתי מדינות- אחת ליהודים, אחת לערבים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117039/",
+       "id": "117039"
+      },
+      {
+       "name": "עמוד האש - פרק 16",
+       "logo": "https://www.kan.org.il/media/vdalnw1p/2020-10-12-imgid-40330_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_giof4oy2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "המאבק (1946 - 1947). שיתוף הפעולה בין פעילי \"תנועת המרי\" בא אל קצו. האצ\"ל והלח\"י שבים לפעולות טרור, ההגנה מתמקדת בפעולות התיישבות והעפלה, והבריטים מעבירים את שאלת ארץ ישראל להכרעת האו\"ם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117036/",
+       "id": "117036"
+      },
+      {
+       "name": "עמוד האש - פרק 15",
+       "logo": "https://www.kan.org.il/media/2jrlqinc/2020-10-12-imgid-40329_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3r2osh8x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "המאה אלף (1945 - 1946). ניצולי מחנות הריכוז השבים לבתיהם בפולין נתקלים באיבה ומעשי אלימות. בריטניה מסרבת לפתוח את הארץ לעלייה ולהתיישבות, וגורמת לשיתוף פעולה בין ההגנה, האצ\"ל ולח\"י במסגרת \"תנועת המרי\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117033/",
+       "id": "117033"
+      },
+      {
+       "name": "עמוד האש - פרק 14",
+       "logo": "https://www.kan.org.il/media/gx5nl1lv/2020-10-12-imgid-40327_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z9ackxde/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בעל הברית הנשכח (1943 - 1945). השמדת היהודים נמשכת. תוכניות להצלת יהודים אינן מתממשות. צנחנים יוצאים מן הארץ לאירופה הכבושה - מעטים ובאיחור, ובארץ מכריז האצ\"ל על \"מרד\" נגד השלטון הבריטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117030/",
+       "id": "117030"
+      },
+      {
+       "name": "עמוד האש - פרק 13",
+       "logo": "https://www.kan.org.il/media/yspdnljl/2020-10-12-imgid-40326_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8k85f85c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שואה וגבורה (1942 - 1943). בסטאלינגרד ובאל-עלמיין מתהפך גלגל המלחמה לרעת הגרמנים, אך זה לא מונע מהם מלהגביר את קצב השמדת היהודים. ב-19 באפריל 1943, ערב חג הפסח, פורץ מרד גטו ורשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117027/",
+       "id": "117027"
+      },
+      {
+       "name": "עמוד האש - פרק 12",
+       "logo": "https://www.kan.org.il/media/tbcd34ja/2020-10-12-imgid-40325_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hxgqc3j2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפתרון הסופי (1941 - 1942). תוכנית \"הפתרון הסופי\" להשמדת יהודי אירופה מתחילה עם פלישת הגרמנים לבריה\"מ. רק אחרי בלימת הגרמנים, עם חלוף הסכנה ליישוב היהודי בארץ, נוכח העולם לדעת כי באירופה מתרחשת שואה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117024/",
+       "id": "117024"
+      },
+      {
+       "name": "עמוד האש - פרק 11",
+       "logo": "https://www.kan.org.il/media/evykfpos/2020-10-12-imgid-40324_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ae5zplda/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חיילים ללא דגל (1939 - 1941). ממשלת המנדט חוששת מפני מרד ערבי פרו-נאצי ולא מאפשרת ליהודים ארץ-ישראליים להתנדב לצבא הבריטי. עם התקדמות הגרמנים בצפון אפריקה, נשקפת סכנה חמורה ליישוב היהודי בארץ ישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117021/",
+       "id": "117021"
+      },
+      {
+       "name": "עמוד האש - פרק 10",
+       "logo": "https://www.kan.org.il/media/nglh3ou1/2020-10-12-imgid-40323_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_37vz3r7j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מלכודת (1938 - 1939). רדיפת יהודי גרמניה מגיעה לשיא ב-\"ליל הבדולח\". בריטניה מפרסמת את \"הספר הלבן\" שבו היא מתכחשת למעשה ל-\"הצהרת בלפור\", וברייכסטאג מאיים היטלר לראשונה בהשמדת היהודים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117018/",
+       "id": "117018"
+      },
+      {
+       "name": "עמוד האש - פרק 9",
+       "logo": "https://www.kan.org.il/media/hrhbw1ye/2020-10-12-imgid-40321_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_67c5ul53/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מי מפחד ממדינה יהודית (1937 - 1938). ממשלת בריטניה חוזרת בה מן התוכנית לחלוקת הארץ והקמת מדינה יהודית. באותו זמן מתעצם כוחו הצבאי של היישוב היהודי בארץ, והוא עד לתנופת התיישבות חסרת תקדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117015/",
+       "id": "117015"
+      },
+      {
+       "name": "עמוד האש - פרק 8",
+       "logo": "https://www.kan.org.il/media/fpcc4rkg/2020-10-12-imgid-40320_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5nn86jim/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מאורעות ומרד. בשנת 1936 מכריזים הערבים על שביתה כללית, ופותחים בהתקפות רצחניות על יהודים. אלה \"מאורעות תרצ\"ו\" (או \"המרד הערבי\" 1936). בריטניה ממליצה על חלוקת הארץ לשתי מדינות, ערבית ויהודית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117012/",
+       "id": "117012"
+      },
+      {
+       "name": "עמוד האש - פרק 7",
+       "logo": "https://www.kan.org.il/media/klupiwmk/2020-10-12-imgid-40316_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u7ialkf7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חשרת הסופה (1933 - 1935). נבואות הציונות בדבר עתיד יהודי אירופה מתחילות להתגשם עם עליית הנאצים לשלטון בגרמניה. האוכלוסייה היהודית בארץ ישראל גדלה, הארץ משגשגת, ותל אביב הופכת מעיירה קטנה לעיר ולכרך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117009/",
+       "id": "117009"
+      },
+      {
+       "name": "עמוד האש - פרק 6",
+       "logo": "https://www.kan.org.il/media/ooyiptkn/2020-10-12-imgid-40315_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g1ucjfz6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "פרשת הדרכים (1929 - 1933). עם התחזקות התנועה הלאומית הערבית, מבקשת ממשלת בריטניה לסגת מהתחיבויותיה ליהודים. הציבור בארץ נחלק ביחסו לשאלה הערבית. המשבר הכלכלי העולמי ועליית הנאצים בגרמניה מבשרים רעות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117006/",
+       "id": "117006"
+      },
+      {
+       "name": "עמוד האש - פרק 5",
+       "logo": "https://www.kan.org.il/media/4zbfgs2z/2020-10-12-imgid-40314_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_47hqzub3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "המקום השקט ביותר במזרח התיכון. החל משנת 1924 הופכת ישראל יעד לפליטים נרדפי אנטישמיות. שמונה שנים של שקט יחסי מסתיימות בגל התנפלויות ערביות על יישובים עבריים בארץ ישראל. אלה היו פרעות תרפ\"ט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117003/",
+       "id": "117003"
+      },
+      {
+       "name": "עמוד האש - פרק 4",
+       "logo": "https://www.kan.org.il/media/abhfqnrb/2020-10-12-imgid-40313_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j3i7u3fx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "העמק הוא חלום (שנות ה-20). בראשית שנות העשרים היתה הארץ מחוז חפצם של חלוצים בעלי חלומות. הם סללו כבישים, ייבשו ביצות והקימו קיבוצים. מטרתם היתה ליצור חברה שאין בה עשירים ועניים וכולם מתפרנסים מפרי עמלם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/117000/",
+       "id": "117000"
+      },
+      {
+       "name": "עמוד האש - פרק 3",
+       "logo": "https://www.kan.org.il/media/wy1njx12/2020-10-12-imgid-40312_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cgerqz6i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עם ישראל אייכה? (שנות ה-20). מדוע לא ניצלו היהודים את ההזדמנות עם ראשית המנדט ולא עלו בהמוניהם לארץ ישראל? מדוע לא הספיקו להקים את מדינה בטרם השואה? מה פשר קריאתו המפורסמת של ד\"ר וויצמן \"עם ישראל אייכה?\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/116997/",
+       "id": "116997"
+      },
+      {
+       "name": "עמוד האש - פרק 2",
+       "logo": "https://www.kan.org.il/media/bzyf5vmn/2020-10-12-imgid-40311_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2lyuqgan/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הערבים מתעוררים (1918 - 1920). בריטניה מקימה ממשל עצמאי למחצה בסוריה ובעבר הירדן. כאשר מתברר לערביי ארץ ישראל כי לסוריה מובטחת עצמאות ואילו ארץ ישראל איננה מובטחת להם, הם מתעוררים לפעולה פוליטית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/116994/",
+       "id": "116994"
+      },
+      {
+       "name": "עמוד האש - פרק 1",
+       "logo": "https://www.kan.org.il/media/k2hje2hr/2020-10-12-imgid-40310_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_khulg9o8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרה תיעודית מרתקת הסוקרת את ציוני הדרך החשובים ביותר הקשורים לעם היהודי ולהקמת המדינה. בפרק הראשון: ב-1897 מייסד הרצל את ההסתדרות הציונית וכעבור 20 שנה מעניקה בריטניה את הצהרת בלפור, הקוראת להקמת א\"י",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13664/116991/",
+       "id": "116991"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קרובים קרובים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670827/",
+   "series_id": "670827",
+   "updated": "2026-10-28 13:12",
+   "sub_categories": [
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "קרובים קרובים | פרק האיחוד - המצב צב",
+       "logo": "https://www.kan.org.il/media/v3okqjkf/קרובים-קרובים-איחוד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xi1r9rk4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מעלית חדשה הוקמה בבניין, והדבר מכניס מתיחויות בין השכנים. ליאורה ויורם מגלים ששניהם איבדו את מקום עבודתם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s4/674144/",
+       "id": "674144",
+       "season": 4
+      },
+      {
+       "name": "קרובים קרובים  | מי בדלת? - מאחורי הקלעים של פרק האיחוד",
+       "logo": "https://www.kan.org.il/media/munlqgbd/קרובים-קרובים-מאחורי-הקלעים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kk8pt883/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כמעט 20 שנה אחרי שידור הפרק האחרון, צוות הסדרת המיתולוגית חוזרת לאולפן לפרק איחוד. רגע לפני, התקבצו היוצרים והשחקנים לספר על מאחורי הקלעים של הפרק המיוחד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s4/674141/",
+       "id": "674141",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "קרובים קרובים 3 | פרק 1 - חבילה מאמריקה",
+       "logo": "https://www.kan.org.il/media/owah1hrg/קרובים-קרובים-3-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sxci4qpe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "המשפחה זוכה בחבילה ובביקור של הדוד יחזקאל (יוסף שילוח בהופעת אורח)",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674177/",
+       "id": "674177",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 2 - הטובים לטיס",
+       "logo": "https://www.kan.org.il/media/pyolkk4p/קרובים-קרובים-3-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ixrisgq7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הגיע העת - אביתר מתגייס לצה\"ל והמאורע מרגש את כל המשפחה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674174/",
+       "id": "674174",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 3 - אין אהבות שמחות",
+       "logo": "https://www.kan.org.il/media/do1j2kog/קרובים-קרובים-3-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7bw0tdle/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ליאורה מקבלת שיחת טלפון מגבר שחיזר אחריה בעבר ומנסה לחדש את הקשר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674171/",
+       "id": "674171",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 4 - יום יום הולדת",
+       "logo": "https://www.kan.org.il/media/okbf5zzs/קרובים-קרובים-3-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bqn33va4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יום הולדתה של תיקי מתקרב והיא יודעת שאיש לא יזכור ואיש לא יחגוג. אילן מחליט לארגן לה מסיבת הפתעה בעזרת גליה ומולי והוא דורש לשמור זאת בסוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674168/",
+       "id": "674168",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 5 - כבוד המשפחה",
+       "logo": "https://www.kan.org.il/media/a5idsoqy/קרובים-קרובים-3-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tpwhiutx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תיקי מחוץ לבית עם קבוצת תיירים, יורם בלונדון בתפקיד מטעם המפעל וגליה מבלה עם חבר מבית הספר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674165/",
+       "id": "674165",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 6 - נפש בריאה",
+       "logo": "https://www.kan.org.il/media/myqa5ups/קרובים-קרובים-3-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x2r78xff/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יורם וליאורה מתנסים בטיפול פסיכולוגי, כדי להגיע לשורשי הבעיה, המטפל מציע היפנוזה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674162/",
+       "id": "674162",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 7 - ילדות קשה",
+       "logo": "https://www.kan.org.il/media/pkjiyjbj/קרובים-קרובים-3-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0x9nz9g3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בעקבות טעות של ליאורה שקע יורם במצב של היפנוזה: הוא חושב שהוא בן 6 ומתנהג בהתאם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674159/",
+       "id": "674159",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 8 - החטא ועונשו",
+       "logo": "https://www.kan.org.il/media/3q5fkdpf/קרובים-קרובים-3-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mkoouode/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יורם ואילן נבחרים לוועד ההורים בבית ספרם של מולי וגליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674156/",
+       "id": "674156",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 9 - תמונה קבוצתית עם ורד",
+       "logo": "https://www.kan.org.il/media/p1wmk4sq/קרובים-קרובים-3-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j2g6s27f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הדוד מאמריקה שלח מצלמת וידאו ביתית וחנה אמורה לצלם את חיי היום-יום שלה כדי לשלוח אליו מזכרת ביתית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674153/",
+       "id": "674153",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 11 - אחזקה שוטפת",
+       "logo": "https://www.kan.org.il/media/cnembacc/קרובים-קרובים-3-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_imrw2l6i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מצד אחד נערכת כל המשפחה להצגת מסכת בנושא: \"עמל כפיים\" בכיתתם של  גליה ומולי, ומצד שני מתמודדים עם קיצוצים בהוצאות ועד הבית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674150/",
+       "id": "674150",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 12 - על נהרות ויטק",
+       "logo": "https://www.kan.org.il/media/hjrfp1dl/קרובים-קרובים-3-12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_coq15eqw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "המשפחה מתמודדת עם גזירה לא פשוטה - החלפת שם הרחוב 'ויטק 9'",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674147/",
+       "id": "674147",
+       "season": 3
+      },
+      {
+       "name": "קרובים קרובים 3 | פרק 10 - מה שבטוח",
+       "logo": "https://www.kan.org.il/media/rzqn00zs/קרובים-קרובים-3-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_plsztmvg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אילן סוגר את משרד הביטוח ותיקי חושדת שהוא מגלה נטיות אובדניות ביום שאחרי. האם יחזיק מעמד או שמא מדובר באי הבנה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s3/674037/",
+       "id": "674037",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "קרובים קרובים 2 | פרק 1 - לעזרת העם",
+       "logo": "https://www.kan.org.il/media/rjzlbtvq/קרובים-קרובים-2-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_coeabwiv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תיקי מודיעה לבעלה אילן ולבתה גליה שהיא תיעדר מהבית כי עליה להתלוות אל סנטור אמריקני רב-השפעה המבקר בארץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674238/",
+       "id": "674238",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 2 - ניכוי במקור",
+       "logo": "https://www.kan.org.il/media/jj4lkiot/קרובים-קרובים-2-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uc8le7kz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יורם נדהם לגלות כי מס הכנסה מחייב אותו בתשלום מקדמות גבוהות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674229/",
+       "id": "674229",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 3 - גנב! גנב!",
+       "logo": "https://www.kan.org.il/media/bulcjrvl/קרובים-קרובים-2-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3149febs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "לדירת אילן ותיקי פרץ גנב. הפתרון הבלתי נמנע הוא התקנה מידית של מנעול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674226/",
+       "id": "674226",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים | עונה 2 - פרק 4: נדבר גלויות",
+       "logo": "https://www.kan.org.il/media/m3fjwzkx/קרובים-קרובים-2-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4ncxdaor/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "גליה ומולי מתבקשים לחקור את הוריהם בקשר למנהגי העדות אליהן הם משתייכים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674223/",
+       "id": "674223",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 5 - פה אחד",
+       "logo": "https://www.kan.org.il/media/bxpngn5x/קרובים-קרובים-2-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e7z4ehu8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ראש ועד הבית מאיים תמיד בהתפטרות וכל דיירי ויטק 9 ניגשים לבחירות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674220/",
+       "id": "674220",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 6 - לאב סטורי",
+       "logo": "https://www.kan.org.il/media/4lyeng3v/קרובים-קרובים-2-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l26eouqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "האם ליאורה שולחת מכתבי אהבה לדייר הצעיר שחנה משכירה לו חדר בדירתה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674217/",
+       "id": "674217",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 7 - ארכימדס",
+       "logo": "https://www.kan.org.il/media/zywbvo4x/קרובים-קרובים-2-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5fmevsbb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יהורם מוצא דרך לקצר בתהליך תעשייתי במפעל שהוא עובד בו והחלומות גדולים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674214/",
+       "id": "674214",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 8 - המשך בעמוד 3",
+       "logo": "https://www.kan.org.il/media/tijn4bou/קרובים-קרובים-2-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tmx7rv3q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חנה מכינה מאמר על משפחת יהורם וליאורה, התוצאה אינה מתיישבת עם הציפיות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674205/",
+       "id": "674205",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 9 - כוכב נולד",
+       "logo": "https://www.kan.org.il/media/tyiiyuen/קרובים-קרובים-2-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_twliaqe2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חנה מחליטה לנהוג לפי עצת ההורוסקופ השבועי כדי להיחלץ מבעיותיה הכספיות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674202/",
+       "id": "674202",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 10 - בעל חורג",
+       "logo": "https://www.kan.org.il/media/r04pjbzi/קרובים-קרובים-2-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0vs0qp9u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אל המטבח של תיקי ואילן מגיע מר גרשטיין ומציג לפני אילן שורה של שאלות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674199/",
+       "id": "674199",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 11 - מוכרים בלבד",
+       "logo": "https://www.kan.org.il/media/g2vb0s3w/קרובים-קרובים-2-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jlj0m704/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יורם איננו יכול להיפרד משורה של חפצים ישנים, למגינת ליבה של ליאורה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674196/",
+       "id": "674196",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים | פרק 12 - עוזר בית",
+       "logo": "https://www.kan.org.il/media/msqd4a42/קרובים-קרובים-2-12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5yyzu7yt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בבית יורם וליאורה מהומה גדולה עקב עומס עבודות-הבית הרובצות על ליאורה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674193/",
+       "id": "674193",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 13 - אין עשן",
+       "logo": "https://www.kan.org.il/media/exbmxm5w/קרובים-קרובים-2-13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qb1pif6s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בדירה של ליאורה ויורם מופיע שוטר ומשאיר הזמנה לחקירה בשביל אילן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674190/",
+       "id": "674190",
+       "season": 2
+      },
+      {
+       "name": "קרובים קרובים 2 | פרק 14 - פרפקט",
+       "logo": "https://www.kan.org.il/media/q0kh21nt/קרובים-קרובים-2-14.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_18avrhr9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חנה מציעה פתרון להעלאת מצב הרוח של ליאורה וכולם נרתמים למבצע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s2/674180/",
+       "id": "674180",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קרובים קרובים | פרק 1 - איחוד משפחות",
+       "logo": "https://www.kan.org.il/media/ahvjcdey/קרובים-קרובים-1-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jrfn9tqz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תיקי ואילן עברו לדירתם החדשה, אילן חושש שהשכנים הקרובים יתערבו בחייו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/s1/674275/",
+       "id": "674275",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קרובים קרובים | פתיח",
+       "logo": "https://www.kan.org.il/media/eoloa1nj/קרובים-קרובים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9u67p67x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-26",
+       "plot": "הפתיח הקלאסי של סדרת הקאלט ''קרובים קרובים''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670827/864966/",
+       "id": "864966"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

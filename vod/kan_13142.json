@@ -1,0 +1,91 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ערוץ אפס",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13142/",
+   "series_id": "13142",
+   "updated": "2026-10-28 13:06",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ערוץ אפס | טריילר",
+       "logo": "https://www.kan.org.il/media/ct2dy2ad/https-kanstaticazureedgenet-download-pictures-2021-5-24-imgid-53668_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fseqeozd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-22",
+       "plot": "תעשו 1 פחות 1: סאטירה על פוליטיקה, חברה, תרבות ואיך זה נראה בטלוויזיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/934038/",
+       "id": "934038"
+      },
+      {
+       "name": "ערוץ אפס - הצצה | נוכלת מסוכנת",
+       "logo": "https://www.kan.org.il/media/3llnrvbc/ערוץ-אפס-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1in1scwv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "אחווה חושבת שלרוץ אחרי נוכלים מצטלם טוב והיא גם קוראת לזה עיתונאות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/856131/",
+       "id": "856131"
+      },
+      {
+       "name": "ערוץ אפס - פרק 6",
+       "logo": "https://www.kan.org.il/media/eqgjc32i/https-kanstaticazureedgenet-download-pictures-2021-7-1-imgid-56319_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0utag24q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה פרועה על ענייני היום בפוליטיקה חברה ותרבות וגם על האופן שבו הטלוויזיה מסקרת אותם, מכתיבה את סדר היום ומקבעת את המחשבה. עם נעמי לבוב, איתי זבולון, מירב פלדמן, אוראל צברי, אורי יניב ודנה פרידר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/131751/",
+       "id": "131751"
+      },
+      {
+       "name": "ערוץ אפס - פרק 5",
+       "logo": "https://www.kan.org.il/media/sn0nu5hw/https-kanstaticazureedgenet-download-pictures-2021-6-24-imgid-55880_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2ppx7h57/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה פרועה על ענייני היום בפוליטיקה חברה ותרבות וגם על האופן שבו הטלוויזיה מסקרת אותם, מכתיבה את סדר היום ומקבעת את המחשבה. עם נעמי לבוב, איתי זבולון, מירב פלדמן, אוראל צברי, אורי יניב ודנה פרידר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/131749/",
+       "id": "131749"
+      },
+      {
+       "name": "ערוץ אפס - פרק 4",
+       "logo": "https://www.kan.org.il/media/fv3kyt3l/https-kanstaticazureedgenet-download-pictures-2021-6-17-imgid-55421_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3zqf8wrm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה פרועה על ענייני היום בפוליטיקה חברה ותרבות וגם על האופן שבו הטלוויזיה מסקרת אותם, מכתיבה את סדר היום ומקבעת את המחשבה. עם נעמי לבוב, איתי זבולון, מירב פלדמן, אוראל צברי, אורי יניב ודנה פרידר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/131747/",
+       "id": "131747"
+      },
+      {
+       "name": "ערוץ אפס - פרק 3",
+       "logo": "https://www.kan.org.il/media/bjoeyuwv/https-kanstaticazureedgenet-download-pictures-2021-6-10-imgid-54937_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jq6vx6cm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה פרועה על ענייני היום בפוליטיקה חברה ותרבות וגם על האופן שבו הטלוויזיה מסקרת אותם, מכתיבה את סדר היום ומקבעת את המחשבה. עם נעמי לבוב, איתי זבולון, מירב פלדמן, אוראל צברי, אורי יניב ודנה פרידר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/131745/",
+       "id": "131745"
+      },
+      {
+       "name": "ערוץ אפס - פרק 2",
+       "logo": "https://www.kan.org.il/media/bf4hkn1v/https-kanstaticazureedgenet-download-pictures-2021-6-3-imgid-54427_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ytl82u32/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה פרועה על ענייני היום בפוליטיקה חברה ותרבות וגם על האופן שבו הטלוויזיה מסקרת אותם, מכתיבה את סדר היום ומקבעת את המחשבה. עם נעמי לבוב, איתי זבולון, מירב פלדמן, אוראל צברי, אורי יניב ודנה פרידר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/131742/",
+       "id": "131742"
+      },
+      {
+       "name": "ערוץ אפס - פרק 1",
+       "logo": "https://www.kan.org.il/media/p0ib3h24/https-kanstaticazureedgenet-download-pictures-2021-5-27-imgid-53939_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hyprx46x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סאטירה פרועה על ענייני היום בפוליטיקה חברה ותרבות וגם על האופן שבו הטלוויזיה מסקרת אותם, מכתיבה את סדר היום ומקבעת את המחשבה. עם נעמי לבוב, איתי זבולון, מירב פלדמן, אוראל צברי, אורי יניב ודנה פרידר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13142/131596/",
+       "id": "131596"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

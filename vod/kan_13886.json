@@ -1,0 +1,55 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הנשר הגדול",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13886/",
+   "series_id": "13886",
+   "updated": "2026-10-28 10:00",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הנשר הגדול - הצצה | הרמב\"ם באוניבסיטה",
+       "logo": "https://www.kan.org.il/media/bynfod12/הנשר-הגדול.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j3fshebm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-08",
+       "plot": "האם אפשר ללמוד על הרמב\"ם בעזרת הגויים? פרופסור מנחם קלנר מוכיח שכן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13886/880575/",
+       "id": "880575"
+      },
+      {
+       "name": "הנשר הגדול | פרק 3",
+       "logo": "https://www.kan.org.il/media/b42khwh5/3.jfif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_47lwlfw0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חייו והגותו של הרמב\"ם, גדול ההוגים ואנשי ההלכה בתולדות העולם היהודי, והרלוונטיות לחיינו כיום. הפרק השלישי עוסק ב-\"מורה נבוכים\" ספר הפילוסופיה שנותר שנוי במחלוקת, ומציב שאלות קשות ליהדות בת ימינו אנו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13886/81561/",
+       "id": "81561"
+      },
+      {
+       "name": "הנשר הגדול | פרק 2",
+       "logo": "https://www.kan.org.il/media/201bma1s/2.jfif",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_phdw5inh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חייו והגותו של הרמב\"ם, רבי משה בן מימון, גדול ההוגים ואנשי ההלכה בתולדות העולם היהודי, והרלוונטיות לחיינו אנו מדינת ישראל 2017. פרק 2: חייו של הרמב\"ם במצרים, בה חיבר את ספרו המונומנטלי \"משנה תורה\".",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13886/81558/",
+       "id": "81558"
+      },
+      {
+       "name": "הנשר הגדול | פרק 1",
+       "logo": "https://www.kan.org.il/media/0i5nhmji/cat23526_img_cover677329438.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vaovygp8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חייו והגותו של הרמב\"ם, רבי משה בן מימון, גדול ההוגים ואנשי ההלכה בתולדות העולם היהודי, והרלוונטיות לחיינו אנו מדינת ישראל 2017. פרק 1: ילדותו בקורדובה, הבריחה למרוקו, התאסלמותו בכפייה והגעתו לא\"י.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13886/81555/",
+       "id": "81555"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

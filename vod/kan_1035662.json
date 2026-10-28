@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מכינת התקומה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1035662/",
+   "series_id": "1035662",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מהכלא - לצה\"ל: חניכי מכינת \"אחים\" לא מוותרים על החלום להתגייס ",
+       "logo": "https://www.kan.org.il/media/vtwngdqc/מכינה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192768/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-22",
+       "plot": "מכינת \"אחים\" שבעוטף עזה, הוקמה בידי אחים שכולים ושמה לה למטרה להכין לגיוס גם בני נוער עם עבר פלילי. סיפורם של שניים מחניכי המכינה שהצבא לא רצה לגייס – והפכו ללוחמים",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1035662/s1/1032232/",
+       "id": "1032232",
+       "season": 1
+      },
+      {
+       "name": "הצוואה של חן ואריאל: המכינה שהופכת נערים בסיכון ללוחמים מצטיינים",
+       "logo": "https://www.kan.org.il/media/t4ppuckf/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192287/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-21",
+       "plot": "הם נפלו יחד בשבעה באוקטובר, וכעת האחים השכולים מנציחים אותם בדרך הכי ישראלית שיש: היכרות עם \"מכינת אחים\" בעוטף עזה, שנותנת הזדמנות שנייה לנערים עם עבר פלילי וסוללת להם את הדרך לשירות משמעותי בצה\"ל",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1035662/s1/1031878/",
+       "id": "1031878",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

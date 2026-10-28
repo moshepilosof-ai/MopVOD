@@ -1,0 +1,46 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סליחות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-11739/",
+   "series_id": "11739",
+   "updated": "2026-10-28 13:01",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סליחות | תם אהרון מבקש סליחה מהסביבה: \"סליחה שאין לי זמן בשבילכם\"",
+       "logo": "https://www.kan.org.il/media/fmbfpzy0/2022-10-6-imgid-82927_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hvkti2ja/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תם אהרון מבקש סליחה מכל בני משפחתו, ובמיוחד מכלבתו נינה, על כך שאין לו זמן בשבילם מאז הפך לאבא",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11739/150695/",
+       "id": "150695"
+      },
+      {
+       "name": "סליחות | דורון מדלי מבקש סליחה מעצמו: \"רציתי למות בכל יום\"",
+       "logo": "https://www.kan.org.il/media/apxb0wna/2022-9-29-imgid-82564_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_23ce4qyt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כלפי חוץ הוא נראה כמו אדם מתפקד ומצליח, אבל דווקא בשיא ההצלחה קרה לו משהו שגם לו לשקוע בדיכאון קליני והרס עצמי. האדם שכתב את השיר שניצח באירוויזיון והמנונים שמחים כמו \"מהפכה של שמחה\" מספר בפתיחות על ההתמודדות הנפשית ומעודד גם אחרים ללכת לטיפול",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11739/150542/",
+       "id": "150542"
+      },
+      {
+       "name": "סליחות | אמילי עמרוסי מבקשת סליחה מהגרוש: \"התחתנתי איתך מהסיבות הלא נכונות\"",
+       "logo": "https://www.kan.org.il/media/2bkbvll4/2022-9-22-imgid-82248_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ff0iulqm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"רציתי להתחתן, לאו דווקא איתו\": אמילי החליטה להתחתן בגיל 20 מכל הסיבות הלא נכונות. עכשיו היא מבקשת סליחה מהגרוש שלה ואב ילדיה על 18 שנות נישואין",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11739/150389/",
+       "id": "150389"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

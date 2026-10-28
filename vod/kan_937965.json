@@ -1,0 +1,235 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עד החתונה זה יעבור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/projects/p-937965/",
+   "series_id": "937965",
+   "updated": "2026-10-28 13:02",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ניקוי ראש | מסיבת גירושין",
+       "logo": "https://www.kan.org.il/media/vhbh4gmp/ניקוי-ראש-טקס-הגירושין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x8loocmn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "\"נוריד את ירושלים מראש שמחתינו\" - צילומים לפני החתונה בגן צ'רלס קלור ומערכון מיתולוגי על גירושין. מתןך התכנית \"ניקוי ראש\"",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938905/",
+       "id": "938905"
+      },
+      {
+       "name": "ניקוי ראש | מכירה פומבית",
+       "logo": "https://www.kan.org.il/media/m5cba2yy/ניקוי-ראש-_bb05080107.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gui05z1a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "כשהחתן מתבלבל בין הכוס לכלה, והיא נמסרת למרבה במחיר. מערכון מתוך \"ניקוי ראש\"",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938851/",
+       "id": "938851"
+      },
+      {
+       "name": "כלות, חתנים וכל השאר | תעודה",
+       "logo": "https://www.kan.org.il/media/3wib1wch/2_clean-cover-image_1920x1080_no-logo_name.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_66f8rcx4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "סרטו של רם לוי הסוקר את תרבות החתונות בישראל, חתונה עירונית של חנהל'ה קריצמן ועמיצור גרליץ, חתונה כפרית תימנית של יונה יוסף ויגאל משה, וחתונתם של הקשישים בטי הירש ושמעון קרביץ.",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938839/",
+       "id": "938839"
+      },
+      {
+       "name": " שירים שנשארים | חתונות",
+       "logo": "https://www.kan.org.il/media/gnvpljg3/שירים-שנשארים-חתונות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mgj709vo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-06",
+       "plot": "דורי בן-זאב ומיטב האומנים שרים על חופה וקידושין באולפן. בבימויה של ריקי אריכא",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938836/",
+       "id": "938836"
+      },
+      {
+       "name": "חדשות | חתונה תחת אש",
+       "logo": "https://www.kan.org.il/media/sqyeszlj/חתונה-קצין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5vs7x9yb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "בזמן מלחמת יום כיפור, בין מתקפה למתקפה, מצאו הלוחמים זמן לחתן את אחד הקצינים במחלקה, בטקס מאולתר בשדה. כתבתו של ראלף ענבר",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938443/",
+       "id": "938443"
+      },
+      {
+       "name": "מבט | חתונה על סטי\"ל של חיל הים",
+       "logo": "https://www.kan.org.il/media/h4sbqgoi/חתונה-חיל-הים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h6ih036p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "סמל יהושוע נישא לבחירת ליבו במקום יוצא דופן. כתבתו של אדיר זיק",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938439/",
+       "id": "938439"
+      },
+      {
+       "name": "המבדיל בין קודש לחול | חתונה תימנית ",
+       "logo": "https://www.kan.org.il/media/0pklophd/חתונה-תימנית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bdbuvhhb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "איך נראית חתונה תימנית מסורתית?",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938398/",
+       "id": "938398"
+      },
+      {
+       "name": "מבט | טרנדים עכשוויים בחתונות",
+       "logo": "https://www.kan.org.il/media/qabfjlqu/sb10228891-טרנדים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7p3j0b91/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "מה הולך להיות מתחת לחופות בעונת החתונות של 2009? הלוקיישנים, התפאורה, האלכוהול והמחיר",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938360/",
+       "id": "938360"
+      },
+      {
+       "name": "חדשות ערבית | תערוכה לציוד אירועים",
+       "logo": "https://www.kan.org.il/media/dvcffxjj/fi19006338-חדשות-ערבית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xs9w96au/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "בגני התערוכה בתל אביב-מציגים את כל מה שצריך בשביל אירוע בלתי נשכח. מאולמות ועוגות ועד לחם בהתאמה אישית. כתבתו של מוריס זקס",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938359/",
+       "id": "938359"
+      },
+      {
+       "name": "מהיום למחר | חתונה רומנית",
+       "logo": "https://www.kan.org.il/media/lgthaxyg/be10431114-מהיום-למחר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nd1ik07o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "תערוכת \"חתונה רומנית\" בגלריה קסטרא בחיפה מציגה את כל מה שצריך בשביל טקס חתונה מסורתי ברומניה. כתבתה של שרי רז",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938358/",
+       "id": "938358"
+      },
+      {
+       "name": "זמירות | שירי חתונות",
+       "logo": "https://www.kan.org.il/media/th0l1fuk/bb04057124-זמירות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_axt0u6cu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "במופע מיוחד לט״ו באב - שלומי גולדברג מארח חזנים, זמרים ורבנים לשירי חתונה וניגונים מכל העדות: מחרוזות אהבה, ניגון כלייזמרים, מנהגים מסורתיים וקטעי במה שמחברים בין שמחת החתן והכלה למסורת ישראל.",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938357/",
+       "id": "938357"
+      },
+      {
+       "name": "אצל מני | החתונה של אסנת ודניאל סנד",
+       "logo": "https://www.kan.org.il/media/lrhlx40f/אצל-מני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6o7e2ch1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "אסנת ודניאל סנד, זוג נשוי עם תסמונת דאון, מספרים על סיפור האהבה והחתונה שלהם - מהרגע שבו התאהבו ועד ההתחייבות בקיבוץ",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938356/",
+       "id": "938356"
+      },
+      {
+       "name": "יומן השבוע | נישואים בקפריסין",
+       "logo": "https://www.kan.org.il/media/ib0noryi/be20370783-יומן-השבוע.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_baqzq31l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "מטקסים פשוטים בעיר אראדיפו ועד חבילות חתונה עם טיסה מלון וראש עיר כעורך החופה, מה עומד מאחורי טרנד החתונות החדש? כתבתו של בן שני",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938355/",
+       "id": "938355"
+      },
+      {
+       "name": "מבט | אהבה ללא גיל",
+       "logo": "https://www.kan.org.il/media/5i1okgdz/be10350454-חתונתם-של-זינה-ושעיה-קובנר-בני-85-ו-90.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v003ylmf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "חתונתם של זינה ושעיה קובנר,  בני ה-85 ו-90  בצפת. הזוג נישא כדת משה וישראל לאחר כ-65 שנות נישואים אזרחיים. כתבתו של איתי רפופורט",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938353/",
+       "id": "938353"
+      },
+      {
+       "name": "כל ערב | חתונה חוצת גבולות",
+       "logo": "https://www.kan.org.il/media/oyihvmy3/כלות-דרוזיות-sb01425397.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_preqirxk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "תיעוד בלעדי של רדואן מהגולן, שחיכה ארבע שנים לבחירת ליבו מסוריה. יחד עם עוד 6 זוגות נוספים, הם מתאחדים במעבר גבול קוניטרה בדרך לחתונה",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938352/",
+       "id": "938352"
+      },
+      {
+       "name": "בוקר טוב ישראל | המלצות למתנות",
+       "logo": "https://www.kan.org.il/media/0mqa5xfb/בוקר-טוב-ישראל-בובות-be10321448.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_04owtbpq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-05",
+       "plot": "מזוג בובות חתן וכלה ועד וילון, אורלי וילנאי עם המלצות למתנות",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/938351/",
+       "id": "938351"
+      },
+      {
+       "name": "בוקר טוב ישראל | איזו מתנה להביא לחתונה?",
+       "logo": "https://www.kan.org.il/media/byaah3c2/משאל-רחוב-בוקר-טוב-ישראל-be20221986.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_90nbi3tg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "יצאנו לרחוב לשאול עוברי אורח מה לתת לחתן והכלה? וכמה כסף לשים במעטפה?",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937986/",
+       "id": "937986"
+      },
+      {
+       "name": "יומן השנה |  ארבע חתונות מארבע תרבויות",
+       "logo": "https://www.kan.org.il/media/rl2bjlbf/ארבע-חתונות-be30199984.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9l80iqne/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "גלעד עדין יצא למסע ברחבי הארץ, ותיעד ארבע חתונות של תרבויות שונות בישראל. דרך עדשתו, הוא בחן את השוני והדמיון בין המנהגים, הטקסים, האווירה והשקפות העולם",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937985/",
+       "id": "937985"
+      },
+      {
+       "name": "צירופים | חתונה יהודית לעולים החדשים",
+       "logo": "https://www.kan.org.il/media/3syf533r/צירופים-ui19118013.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mof5lirw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "אחרי שנמנעה מיהודי ברית המועצות האפשרות להינשא כדת משה וישראל, עולים חדשים רבים בוחרים להינשא בחתונות המוניות המאורגנות על ידי חב\"ד. דוגמה לכך התרחשה במגדל העמק, שם נערכה חתונה ענקית, בה נישאו 14 זוגות במקביל. כתבתו של חיים הויזמן",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937984/",
+       "id": "937984"
+      },
+      {
+       "name": "פסטיבל הזמר החסידי | ''עוד ישמע\"- צמד רעים",
+       "logo": "https://www.kan.org.il/media/2uwjwzc4/צמד-רעים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_47byclwl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "קול ששון וקול שמחה קול חתן וקול כלה",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937982/",
+       "id": "937982"
+      },
+      {
+       "name": "מבט | צילומי החתונה",
+       "logo": "https://www.kan.org.il/media/kzrppuir/צילומי-חתונה-gi17509746.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pce89652/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "למה הפך גן צ'רלס קלור בתל אביב למוקד צילומי חתונה מרכזי? כתבתו של חנן עזרן",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937981/",
+       "id": "937981"
+      },
+      {
+       "name": "המבדיל בין קודש לחול |  מחול חתונה ממזרח אירופה",
+       "logo": "https://www.kan.org.il/media/mmdnox0h/המבדיל-יהדות-מזרח-אירופה-ui1901694.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c5mlxsa3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "להקת המחול של מועצת פועלי רמת גן בהדרכת יואב אשריאל בריקוד החתונה היהודית המזרח אירופאית. שודר בשנת 1970",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937978/",
+       "id": "937978"
+      },
+      {
+       "name": "המבדיל בין קודש לחול | חתונה בוכרית",
+       "logo": "https://www.kan.org.il/media/fymfsudw/חתונה-בוכרית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l64z53n8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "ריקודים בוכרים בחתונה מסורתית",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937975/",
+       "id": "937975"
+      },
+      {
+       "name": "מה זה ואיך | על מנהגי החתונות",
+       "logo": "https://www.kan.org.il/media/3ijb2bgn/מה-זה-ואיך-fi17509796.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ay0oua51/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-04",
+       "plot": "במה שונה החתונה האשכנזית מהספרדית? שודר ב1975",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-937965/937970/",
+       "id": "937970"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

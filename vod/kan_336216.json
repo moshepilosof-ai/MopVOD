@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - יער שחור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-336216/",
+   "series_id": "336216",
+   "updated": "2026-10-28 11:18",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "יער שחור - הצצה | לאן נעלמה נטע?",
+       "logo": "https://www.kan.org.il/media/jovpmzn5/יער-שחור-הצצה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7bccztkx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-09",
+       "plot": "פקד גרנות חשב שהוא מגיע לעוד יום עבודה שגרתי, אך זה הפך לתעלומת רצח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-336216/917959/",
+       "id": "917959"
+      },
+      {
+       "name": "יער שחור",
+       "logo": "https://www.kan.org.il/media/gtya03x1/cat29382_img518787851.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z4qh256n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שתי גופות נשים נמצאות ביער בית ג'אמל בתקופות שונות. הסרט משחזר את חקירת ימ\"ר ירושלים צעד אחר צעד עד למציאת קשר בין שתי פרשות הרצח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-336216/85569/",
+       "id": "85569"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

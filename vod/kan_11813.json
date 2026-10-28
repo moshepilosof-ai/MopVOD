@@ -1,0 +1,169 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - טיול לחמישה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11813/",
+   "series_id": "11813",
+   "updated": "2026-10-28 11:17",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טיול לחמישה | שבוע נגב - חלק ה'",
+       "logo": "https://www.kan.org.il/media/thybqfty/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93891_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nyy3p956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע דרום - אשר, נהג מונית, לוקח את החבורה למסע בעקבות הזהות בירוחם ובעין עבדת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160203/",
+       "id": "160203",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע נגב - חלק ד'",
+       "logo": "https://www.kan.org.il/media/trnn5you/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93892_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lrgbyqej/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע דרום – קלרה, זמרת, לוקחת את החבורה ליום דימוי גוף בפארק צבעי רמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160200/",
+       "id": "160200",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע נגב - חלק ג'",
+       "logo": "https://www.kan.org.il/media/k4md4u0k/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93893_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q09eetwm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע דרום - דניאל, שחקן ומדריך נוער בסיכון, מוביל יום גאווה אתיופי בחאן שיירות ומצפה רמון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160197/",
+       "id": "160197",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע נגב - חלק ב'",
+       "logo": "https://www.kan.org.il/media/omrfqast/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93894_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lqzy432z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע דרום - איזבלה, יועצת רוחנית קוסמית, מתקשרת עם החבורה בגב ילק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160194/",
+       "id": "160194",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע נגב - חלק א'",
+       "logo": "https://www.kan.org.il/media/juqlm2lw/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93895_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7dzi2rm9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע דרום  – מירה לוקחת את החבורה לטיול ברוח הבריאות והנפש בעין כמונים ושדה בוקר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160191/",
+       "id": "160191",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע ירושלים וסביבותיה - יום ה'",
+       "logo": "https://www.kan.org.il/media/z3uhzpvn/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93896_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9mq04uwn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע השפלה וירושלים – רונה, בעלת פטיש לנזירות, לוקחת את החבורה  לטיול בירושלים ובעין פרת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160188/",
+       "id": "160188",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע ירושלים וסביבותיה - יום ד'",
+       "logo": "https://www.kan.org.il/media/q43jll04/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93916_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wpmmq1gm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפעם בשבוע השפלה וירושלים חמודי, מסעדן ומומחה לחומוס, לוקח את החבורה לבית חנינה הישנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160185/",
+       "id": "160185",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע ירושלים וסביבותיה - יום ג'",
+       "logo": "https://www.kan.org.il/media/5s2bltqc/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93897_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9yw73pyb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפעם בשבוע השפלה וירושלים, קורלי הנמצאת בתהליך גיור לוקחת את החבורה לטיול בירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160182/",
+       "id": "160182",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע ירושלים וסביבותיה - יום ב'",
+       "logo": "https://www.kan.org.il/media/ppbpczwb/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93915_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_22mg9e0h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע השפלה וירושלים - מלכה ממשיכה את מסעה האישי ביום גאווה תימני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160179/",
+       "id": "160179",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע ירושלים וסביבותיה - יום א'",
+       "logo": "https://www.kan.org.il/media/cq0imaw3/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93898_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tfbj1see/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע השפלה וירושלים, מלכה, תמניה גאה ופקחית תברואה בדימוס מראה לחבורה את שורשיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160176/",
+       "id": "160176",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע הגליל והעמקים - יום ה'",
+       "logo": "https://www.kan.org.il/media/jpzfjanj/https-kanstaticazureedgenet-download-pictures-2023-2-15-imgid-93979_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kzdzd1c5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפעם בשבוע צפון – קתרינה, בת של אוליגרך, מלמדת את החבורה להשתחרר מכסף וממותגים במגידו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160173/",
+       "id": "160173",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע הגליל והעמקים - יום ד'",
+       "logo": "https://www.kan.org.il/media/sziatsh1/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93899_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i2smvzqa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע צפון זוג כוכבי הרשת ירדן ומיכאל נותנים לחבורה תחושה של טיול בחו\"ל אבל בעכו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160170/",
+       "id": "160170",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע הגליל והעמקים - יום ג'",
+       "logo": "https://www.kan.org.il/media/3s5fndbz/https-kanstaticazureedgenet-download-pictures-2023-2-13-imgid-93872_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w9rc258q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע צפון, משה, חרדי שלא מרגיש חרדי, מנווט את החבורה ליום ציונות אבל מהזווית שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160167/",
+       "id": "160167",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע הגליל והעמקים - יום ב'",
+       "logo": "https://www.kan.org.il/media/v55j4qsu/https-kanstaticazureedgenet-download-pictures-2023-2-14-imgid-93913_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1hz3np0d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "והפעם בשבוע צפון – אסתי, עו\"ד ואושיית רשת, לוקחת את החבורה לשבור את תקרת הזכוכית בטבריה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160164/",
+       "id": "160164",
+       "season": 1
+      },
+      {
+       "name": "טיול לחמישה | שבוע הגליל והעמקים - יום א'",
+       "logo": "https://www.kan.org.il/media/ojoc4fl3/https-kanstaticazureedgenet-download-pictures-2023-2-13-imgid-93871_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5ipcyrca/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הפעם בשבוע צפון – אודי, חרדי בדימוס, לוקח את החבורה לטיול לא שגרתי בצפת ובעמוקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11813/s1/160161/",
+       "id": "160161",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

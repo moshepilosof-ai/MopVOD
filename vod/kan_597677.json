@@ -1,0 +1,203 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הכל אנשים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-597677/",
+   "series_id": "597677",
+   "updated": "2026-10-28 09:53",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הכל אנשים | פרק 7 - דוד בן גוריון",
+       "logo": "https://www.kan.org.il/media/likkd3hc/דוד-בן-גוריון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_15463io6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-06",
+       "plot": "מה עבר על המנהיג בימים שלפני הכרזת המדינה? הציפייה, המתח והמנדט שתוקפו עומד לפוג.\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/597559/",
+       "id": "597559",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 17 - לוי אשכול",
+       "logo": "https://www.kan.org.il/media/swcjgag2/לוי-אשכול.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oiff7gxa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-05",
+       "plot": "כיצד תפקד ראש הממשלה בין מצעד יום העצמאות הקטן והמצומצם בשנת 67' למצעד הניצחון רב-העוצמה ב-68'? והאם מנהיג מסוגו של אשכול יכול היה להוביל את המדינה?\nשודר בשנת 2000",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/596840/",
+       "id": "596840",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 16 - דוד בן הרוש",
+       "logo": "https://www.kan.org.il/media/s2xdbadw/דוד-בן-הרוש-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qegrbb4z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-05",
+       "plot": "הפרק מתמקד בבעל בית קפה שמצא את עצמו מרכז סביבו אנשים ממורמרים שעלו לארץ כדי להיות חלק מהאתוס הציוני, אך מצאו את עצמם בחוץ.\nשודרה בשנת 2000",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/596834/",
+       "id": "596834",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 15 - עזריאל קרליבך",
+       "logo": "https://www.kan.org.il/media/z0yd0fqa/עזריאל-קרליבך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ofri5eih/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-05",
+       "plot": "הפרק עוקב אחר דרכו של גדול העורכים והכותבים בעיתונות העברית, ומגלה שהיא אינה משקפת רק תמונה היסטורית, אלא מתחברת אלינו לכאן ועכשיו.\nשודר בשנת 2000",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/596832/",
+       "id": "596832",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 14 - אמיל חביבי",
+       "logo": "https://www.kan.org.il/media/hqupqpq4/אמיל-חביבי-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fltmt9ft/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "דרך דמותו של הסופר, המשורר והפוליטיקאי ננסה לבדוק את הסיפור של ערביי ישראל שבחרו להישאר ולהתמודד עם ישראליותם הלא טבעית.\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592459/",
+       "id": "592459",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 13 - שייקה אופיר",
+       "logo": "https://www.kan.org.il/media/l0ah40za/שייקה-אופיר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6clo8526/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "ניסיון לחבר בין דמותו של השחקן בחיים לדמויות שאותן גילם - מהשוטרים של קישון, לאבו אל בנאת ולז'אנר הבורקס, דרך עבודתו עם הגשש החיוור, ניסים אלוני ואפרים קישון.\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592443/",
+       "id": "592443",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 12 - אריה שרון",
+       "logo": "https://www.kan.org.il/media/odolzhuq/אריה-שרון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3w9szu1d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "סיפורו של הארכיטקט שתכנן ועיצב קיבוצים רבים בארץ וב-1948 נקרא על ידי בן גוריון לתכנן את המפה הפיזית של מדינת ישראל\nואת 20 היישובים הראשונים מדרום הארץ לצפונה.\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592380/",
+       "id": "592380",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 11 - חזון אי\"ש",
+       "logo": "https://www.kan.org.il/media/i3elrcib/חזון-איש-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wtyvcakn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "דרך תיעוד המפגש ההיסטורי בין הרב אברהם ישעיהו קרליץ לבן גוריון בשנת 1952, הפרק בודק את הגישה החרדית למדינה, לגיוס לצבא, ואת ההתמודדות של שתי החברות זו עם זו.\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592379/",
+       "id": "592379",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 10 - חייקה גרוסמן",
+       "logo": "https://www.kan.org.il/media/01zpnfny/חייקה-גרוסמן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7pve47wh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "סיפורה של המנהיגה הציונית שעלתה לארץ ביום הכרזת המדינה, ונכנסה לפעילות ציבורית ופוליטית. על קליטתה בארץ, יחסיה עם ה\"שומר הצעיר\" והחיבור בין העבר, ההווה והעתיד.\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592306/",
+       "id": "592306",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 9 - יצחק שדה",
+       "logo": "https://www.kan.org.il/media/0gwnqfck/יצחק-שדה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mt55p0rj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "סיפור חייו של המשורר, איש הרוח, ומפקד הפלמ\"ח האסטרטג שהיה המודל הרוסי-ישראלי לצבר העתידי ושימש אב רוחני לטובי המפקדים.\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592262/",
+       "id": "592262",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 8 - חנה סנש",
+       "logo": "https://www.kan.org.il/media/hjbh10vb/חנה-סנש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fpsdmgi1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "הפרק יוצא בעקבות סנש לפני אותה נסיעה גורלית לאירופה ומתמקד בזהותה של הנערה שהיטלטלה בין שתי ארצות מולדת - הונגריה וארץ ישראל. במותה הייתה לסמל הונגרי וגם לסמל ציוני, אבל מה הייתה בחייה?\nשודר בשנת 1999",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592252/",
+       "id": "592252",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 6 - ברכה צפירה",
+       "logo": "https://www.kan.org.il/media/fs4ljtmh/ברכה-צפירה-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_67r4gpsn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "צפירה ובן זוגה לחיים וליצירה, נחום נרדי, פרצו דרך בצליל ובמקצב הישראלי, ושירתם הייתה לסמל השורשיות והזהות המקומית. מה קרה לצליל של צפירה שנמוג פתאום, ומדוע הוא שב אחרי שנות דור בעוצמה ובהתרסה כאלה?\nשודר בשנת 1998",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592218/",
+       "id": "592218",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 4 - הרב קוק חלק ב'",
+       "logo": "https://www.kan.org.il/media/4jihtz5c/הרב-קוק-ב-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y0iuz6jy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "המשך קורותיה של משלחת הרבנים שהוביל הרב קוק ב-1913 למסע היסטורי, נקודת מפנה ביחסי הדת והציונות ואבן פינה לגשר שהוא האמין שיש לבנות בין דתיים לחילונים.\nשודר בשנת 1998",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592193/",
+       "id": "592193",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 3 - הרב קוק חלק א'",
+       "logo": "https://www.kan.org.il/media/2f1jzkjw/הרב-קוק-א-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tnpgabff/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "הפרק עוסק ב\"מסע הרבנים\" שנערך בשנת 1913, ומתמקד בדמותם של הרבנים אברהם יצחק הכהן קוק, אחד האבות המייסדים של זרם הציונות הדתית, ושל הרב יוסף חיים זונפלד, המנהיג הגדול של העדה החרדית.\nשודר בשנת 1998",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592164/",
+       "id": "592164",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 2 - רחל המשוררת",
+       "logo": "https://www.kan.org.il/media/wdob1yoh/רחל-המשוררת-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eb9h5e8g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "הפרק מתמקד במפגש הראשון של רחל עם הארץ ובחיבור שלה עם אנשי העלייה השנייה. מבורגנית ברוסיה לפועלת חקלאית בישראל - אלמנטים שלימים ישמשו נושאי הכתיבה שלה.\nשודר בשנת 1998",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592160/",
+       "id": "592160",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 1 - נפתלי הרץ אימבר",
+       "logo": "https://www.kan.org.il/media/juiddmgs/הכל-אנשים-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_88qvrsvz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "סיפור חייו של משורר ההמנון הלאומי, על משיכתו לשפה העברית ולשיבת ציון ועל התהליך שעבר השיר \"התקווה\". שודר בשנת 1998",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592155/",
+       "id": "592155",
+       "season": 1
+      },
+      {
+       "name": "הכל אנשים | פרק 5 - אברהם (יאיר) שטרן",
+       "logo": "https://www.kan.org.il/media/3hvbi1nq/yairstern.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h69xabwe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "מסע בעקבות התחנות בחייו של מנהיג הלח\"י - האיש, החייל והמשורר.\nשודר בשנת 1998",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/s1/592145/",
+       "id": "592145",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הכל אנשים | פתיח",
+       "logo": "https://www.kan.org.il/media/k5adrs0x/פתיח-הכל-אנשים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qijgmp04/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-20",
+       "plot": "הפתיח של \"הכל אנשים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-597677/943709/",
+       "id": "943709"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1459 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - FOMO",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-996166/",
+   "series_id": "996166",
+   "updated": "2026-10-27 21:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מסיבה של סקווישים בקלפי",
+       "logo": "https://www.kan.org.il/media/sdena0jo/2259139_1793125935795.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259139/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-27",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1113437/",
+       "id": "1113437",
+       "season": 1
+      },
+      {
+       "name": "כמה עולה לעשות בחירות?",
+       "logo": "https://www.kan.org.il/media/tosfhbg2/2259106_1793125605468.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259106/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-27",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1113429/",
+       "id": "1113429",
+       "season": 1
+      },
+      {
+       "name": "תורם של בני הנוער להצביע - והם שווים שלושה מנדטים",
+       "logo": "https://www.kan.org.il/media/5holbqck/תורם-של-בני-הנוער-להצביע-והם-שווים-שלושה-מנדטים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257855/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-22",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1111912/",
+       "id": "1111912",
+       "season": 1
+      },
+      {
+       "name": "הגיע הזמן למהפכה בחדרי הכושר",
+       "logo": "https://www.kan.org.il/media/dfkpbmkn/2257359_1792567036753.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257359/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-21",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1111319/",
+       "id": "1111319",
+       "season": 1
+      },
+      {
+       "name": "אורן להב לוקח טרמפ עם הנהגת המלווה שלנו",
+       "logo": "https://www.kan.org.il/media/mqrpoeum/2256535_1792333623406.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2256535/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-18",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1110369/",
+       "id": "1110369",
+       "season": 1
+      },
+      {
+       "name": "העם דורש לקראת עונת החתונות - הכלות בנטל",
+       "logo": "https://www.kan.org.il/media/w2hhfh32/2254729_1791886219836.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254729/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-13",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1108908/",
+       "id": "1108908",
+       "season": 1
+      },
+      {
+       "name": "זה לא פודקאסט | \"אין קשה יותר מלהיות נער שמחפש מי הוא\"",
+       "logo": "https://www.kan.org.il/media/zeubh1e3/2254269_1791728415329-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2254269/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1108233/",
+       "id": "1108233",
+       "season": 1
+      },
+      {
+       "name": "שחנ\"ש | חבר שלי היה חטוף בעזה",
+       "logo": "https://www.kan.org.il/media/efvdje5o/2252979_1791380143219.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252979/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-07",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1107082/",
+       "id": "1107082",
+       "season": 1
+      },
+      {
+       "name": "אוראל מאופקים מתמודד עם פוסט-טראומה מאז 7.10",
+       "logo": "https://www.kan.org.il/media/mxues1sh/2252774_1791369367730.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252774/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-07",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1107011/",
+       "id": "1107011",
+       "season": 1
+      },
+      {
+       "name": "טליה דנציג כבר לא תמימה כמו שהייתה לפני 7.10",
+       "logo": "https://www.kan.org.il/media/h2clzq1w/2252319_1791196487032.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252319/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1106222/",
+       "id": "1106222",
+       "season": 1
+      },
+      {
+       "name": "אוי לא, מתי החג הבא?",
+       "logo": "https://www.kan.org.il/media/r4ndshx1/2252328_1791196042328.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2252328/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1106221/",
+       "id": "1106221",
+       "season": 1
+      },
+      {
+       "name": "ראיתם את הפוש הזה? והזה?",
+       "logo": "https://www.kan.org.il/media/olndl53m/2250863_1791115384715-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250863/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-04",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1105789/",
+       "id": "1105789",
+       "season": 1
+      },
+      {
+       "name": "זה לא פודקאסט | יש לי ADHD",
+       "logo": "https://www.kan.org.il/media/2ukh0rxk/2250417_1790760351204.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250417/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-30",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1104638/",
+       "id": "1104638",
+       "season": 1
+      },
+      {
+       "name": "הדבר הבא: שישי מטרוף",
+       "logo": "https://www.kan.org.il/media/rpimdy4s/2250244_1790593892109.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250244/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1104003/",
+       "id": "1104003",
+       "season": 1
+      },
+      {
+       "name": "על האופנוע מיכאלי, שמעתם?",
+       "logo": "https://www.kan.org.il/media/lilcdno5/2248290_1790085202792.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248290/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-22",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1101794/",
+       "id": "1101794",
+       "season": 1
+      },
+      {
+       "name": "איך אפשר להיות לוחמת טקוואנדו וגם לשמור שבת? דורון פה להסביר",
+       "logo": "https://www.kan.org.il/media/hhzfjpsw/4017__obsses_doron_fomo_igtv_v2.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246415/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-16",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1100302/",
+       "id": "1100302",
+       "season": 1
+      },
+      {
+       "name": "עדי מקנא במי שהצרות שלו מסתכמות בעבודה במתמטיקה",
+       "logo": "https://www.kan.org.il/media/gl3hjx3l/2245987_1789474238414.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245987/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1099852/",
+       "id": "1099852",
+       "season": 1
+      },
+      {
+       "name": "הדייט המפתיע של לירז שנגמר ב... טוב, לא נעשה לכם ספוילר",
+       "logo": "https://www.kan.org.il/media/21vltygy/3835_liraz.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245815/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1099367/",
+       "id": "1099367",
+       "season": 1
+      },
+      {
+       "name": "איך הגענו לשנת תשפ\"ז?",
+       "logo": "https://www.kan.org.il/media/k4zjqk14/2244768_1789044746306.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244768/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-10",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1098474/",
+       "id": "1098474",
+       "season": 1
+      },
+      {
+       "name": "איך מתאימים לכל שר תפקיד? נועה תסביר",
+       "logo": "https://www.kan.org.il/media/cxjok0ix/2244147_1788961995245.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244147/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1098036/",
+       "id": "1098036",
+       "season": 1
+      },
+      {
+       "name": "מאי עברה תהליך גיור ושרדה כדי לספר",
+       "logo": "https://www.kan.org.il/media/gkknmprq/2243294_1788699709554.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2243294/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-06",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1096656/",
+       "id": "1096656",
+       "season": 1
+      },
+      {
+       "name": "מה ראינו עכשיו? שיעור חשבון של פעם",
+       "logo": "https://www.kan.org.il/media/5x4laqtz/2241996_1788437069071.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241996/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-03",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1095778/",
+       "id": "1095778",
+       "season": 1
+      },
+      {
+       "name": "היי היי, מי אמר 1.9 ולא קיבל? ",
+       "logo": "https://www.kan.org.il/media/3tvnotxv/2241214_1788199429164.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241214/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-31",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1094711/",
+       "id": "1094711",
+       "season": 1
+      },
+      {
+       "name": "תשתמשו ב-AI, אבל שימו לב שהוא לא מחליף לכם את המוח",
+       "logo": "https://www.kan.org.il/media/evafvgsf/2240907_1788196595183.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2240907/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-31",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1094693/",
+       "id": "1094693",
+       "season": 1
+      },
+      {
+       "name": "אני מתה על דאנסהל, אבל אי פעם הקשבתם למילים?",
+       "logo": "https://www.kan.org.il/media/zmanetkl/2239860_1788196768554.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239860/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-31",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1094691/",
+       "id": "1094691",
+       "season": 1
+      },
+      {
+       "name": "אחי, לאסוף את חברה שלך מאשדוד זה לא מידתי",
+       "logo": "https://www.kan.org.il/media/r4zmcgpw/2239608_1787740247701.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239608/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-26",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1092975/",
+       "id": "1092975",
+       "season": 1
+      },
+      {
+       "name": "ראש ממשלה של ישראל גדל בכפר ערבי?",
+       "logo": "https://www.kan.org.il/media/4omh2wuf/dp_3753_kfar-aravi_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238475/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1092010/",
+       "id": "1092010",
+       "season": 1
+      },
+      {
+       "name": "למה אין חופש גדול למבוגרים? או שזה בכלל לא דבר טוב?",
+       "logo": "https://www.kan.org.il/media/uvphih4q/2237646_1787230369405.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237646/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1091298/",
+       "id": "1091298",
+       "season": 1
+      },
+      {
+       "name": "בגיל 10 מיכל כמעט מתה. היום היא מתנדבת במד\"א ומצילה חיים",
+       "logo": "https://www.kan.org.il/media/hveagvxv/2237155_1787147868159.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237155/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-19",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1090858/",
+       "id": "1090858",
+       "season": 1
+      },
+      {
+       "name": "איך אתם התמודדתם עם המבוכה של הנשיקה הראשונה בדייטים?",
+       "logo": "https://www.kan.org.il/media/5klnvpo0/2236884_1787133034847.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236884/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-19",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1090752/",
+       "id": "1090752",
+       "season": 1
+      },
+      {
+       "name": "איך זה לשיר עם אנדרומטריוזיס?",
+       "logo": "https://www.kan.org.il/media/5k5ndl0x/dp_3925_endo_1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236428/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-17",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1089875/",
+       "id": "1089875",
+       "season": 1
+      },
+      {
+       "name": "\"יש לי אחות עם תסמונת דאון\": וידויים של בני נוער",
+       "logo": "https://www.kan.org.il/media/qq1gtbxj/3997__sahnash_fomo_sisterjpg.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235241/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-13",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1088753/",
+       "id": "1088753",
+       "season": 1
+      },
+      {
+       "name": "נועה + שלישיית שוקולד מנטה מסטיק = ❤️",
+       "logo": "https://www.kan.org.il/media/uwcpmvd3/2235081_1786608707168.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235081/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-13",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1088616/",
+       "id": "1088616",
+       "season": 1
+      },
+      {
+       "name": "מ-1 עד 10, כמה אתם מדברים עם חברים שלכם על סקס?",
+       "logo": "https://www.kan.org.il/media/mivkxrzt/dp_fomo_3846_sihot_talk-with-friends-copy_02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234611/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1087937/",
+       "id": "1087937",
+       "season": 1
+      },
+      {
+       "name": "איך מתמודדים עם שינויים שהגוף עובר?",
+       "logo": "https://www.kan.org.il/media/mz2f4xtx/2234382_1786368806192.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234382/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-10",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1087659/",
+       "id": "1087659",
+       "season": 1
+      },
+      {
+       "name": "הצבא לא רצה לגייס את קורל בגלל המחלה שלה",
+       "logo": "https://www.kan.org.il/media/kxjormuu/dp_3808_crohn_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233919/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-09",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1087183/",
+       "id": "1087183",
+       "season": 1
+      },
+      {
+       "name": "איך זה להיות מפקדת עם גמגום?",
+       "logo": "https://www.kan.org.il/media/s4rdsojz/gim.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233139/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-06",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1086252/",
+       "id": "1086252",
+       "season": 1
+      },
+      {
+       "name": "שמעתם פעם על מדוז? ברור שלא",
+       "logo": "https://www.kan.org.il/media/lnvpqkko/2232353_1785851948004.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232353/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1085496/",
+       "id": "1085496",
+       "season": 1
+      },
+      {
+       "name": " מזריקים כדי למנוע קמטים בהמשך או כי זה האידיאל בטיקטוק?",
+       "logo": "https://www.kan.org.il/media/h1lfu113/2232352_1785851771898.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232352/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1085492/",
+       "id": "1085492",
+       "season": 1
+      },
+      {
+       "name": "הוא סבבה והכל אבל מבקש ממך להתחבא בדייט...?",
+       "logo": "https://www.kan.org.il/media/sptfpyf2/thunbnail_3835_-liel.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232351/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1085491/",
+       "id": "1085491",
+       "season": 1
+      },
+      {
+       "name": "סרטון שיגרום לכם לאמץ חתול. או אמונה טפלה",
+       "logo": "https://www.kan.org.il/media/mafpczuq/2230829_1785409548893.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230829/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1083601/",
+       "id": "1083601",
+       "season": 1
+      },
+      {
+       "name": "יום אהבה שמח! איך הייתה הנשיקה הראשונה שלכם?",
+       "logo": "https://www.kan.org.il/media/ifyfcunr/dp_3846_igtv_first_kiss.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230160/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-29",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1083247/",
+       "id": "1083247",
+       "season": 1
+      },
+      {
+       "name": "מה צריך לקרות בשביל שהג'ינס שלכם יגיע לכביסה?",
+       "logo": "https://www.kan.org.il/media/mq2dbbnb/2230169_1785243249158.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230169/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-28",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1082492/",
+       "id": "1082492",
+       "season": 1
+      },
+      {
+       "name": "הודיה נכשלה בטסט השמיני והיא לא מפחדת לצעוק את זה",
+       "logo": "https://www.kan.org.il/media/e3joy5ok/dp_3808_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229696/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-27",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1081906/",
+       "id": "1081906",
+       "season": 1
+      },
+      {
+       "name": "המשפיען התשוש",
+       "logo": "https://www.kan.org.il/media/5zph42wu/mashpi.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228234/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-22",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1080089/",
+       "id": "1080089",
+       "season": 1
+      },
+      {
+       "name": "מפורסמים פעם להיות כמו:",
+       "logo": "https://www.kan.org.il/media/nb1mk3vd/mefur.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227750/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-22",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1080084/",
+       "id": "1080084",
+       "season": 1
+      },
+      {
+       "name": "אז איזה ספרים אתם קוראים?",
+       "logo": "https://www.kan.org.il/media/vhjbfoug/2227588_1784571925265.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227588/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1079373/",
+       "id": "1079373",
+       "season": 1
+      },
+      {
+       "name": "תשלחו את זה להורים שלכם, הם כבר יבינו את הרמז...",
+       "logo": "https://www.kan.org.il/media/r4dfhn2s/3819_ילדים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226040/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1077448/",
+       "id": "1077448",
+       "season": 1
+      },
+      {
+       "name": "ועל איזה רעיונות אתם חשבתם לחתונה שלכם?",
+       "logo": "https://www.kan.org.il/media/yg2dn0fo/2223051_1784198032330.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223051/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1077446/",
+       "id": "1077446",
+       "season": 1
+      },
+      {
+       "name": "המילון המלא לפענוח הסרטון הזה עכשיו ברשתות הספרים המובחרות",
+       "logo": "https://www.kan.org.il/media/qxabf05s/3819_פרסומת-לילדיםjpg.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223052/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-16",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1077414/",
+       "id": "1077414",
+       "season": 1
+      },
+      {
+       "name": "לא נזכיר שמות | ירדן חדד הייתה בדייט... נוגע מדי",
+       "logo": "https://www.kan.org.il/media/lvnjuu03/lonaz.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224565/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-14",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1076183/",
+       "id": "1076183",
+       "season": 1
+      },
+      {
+       "name": "נועה קמה ובחרה לדבר עובדות",
+       "logo": "https://www.kan.org.il/media/mzqlvwz5/2223024_1783520385904.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1073379/",
+       "id": "1073379",
+       "season": 1
+      },
+      {
+       "name": "כמה סקסטינג עשיתם?",
+       "logo": "https://www.kan.org.il/media/vfzkgeht/2222167_1783520110768.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222167/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1073372/",
+       "id": "1073372",
+       "season": 1
+      },
+      {
+       "name": "למה לארצות הברית קוראים ככה?",
+       "logo": "https://www.kan.org.il/media/mftpvi5c/למה-קוראים-לארה-ב-ארה-ב.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220102/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1073365/",
+       "id": "1073365",
+       "season": 1
+      },
+      {
+       "name": "שואלים את כוכבי קופה ראשית את השאלות הכי (לא) רלוונטיות",
+       "logo": "https://www.kan.org.il/media/cksbletx/2220101_1783519258314.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220101/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1073360/",
+       "id": "1073360",
+       "season": 1
+      },
+      {
+       "name": "סרטון הכרחי על פעילויות מיותרות",
+       "logo": "https://www.kan.org.il/media/bbdh3xzi/2219789_1783517116286.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219789/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1073343/",
+       "id": "1073343",
+       "season": 1
+      },
+      {
+       "name": "ראיתם פעם בולבול במונדיאל? כאילו, ציפור..",
+       "logo": "https://www.kan.org.il/media/nhblqvdo/2216619_1783516071895.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216619/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1073339/",
+       "id": "1073339",
+       "season": 1
+      },
+      {
+       "name": "אז איפה אתם עובדים בקיץ הקרוב?",
+       "logo": "https://www.kan.org.il/media/ghznfm0n/3690_עבודות-חופש-גדול.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2216555/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-24",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1062106/",
+       "id": "1062106",
+       "season": 1
+      },
+      {
+       "name": "כבר התחלתם להתארגן על איפור, שיער ושמלה לפרום?",
+       "logo": "https://www.kan.org.il/media/kfum2rtw/3936_prom_fomo_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212818/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-19",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1058138/",
+       "id": "1058138",
+       "season": 1
+      },
+      {
+       "name": "מסר חשוב לאלו שדווקא לא צופים במונדיאל",
+       "logo": "https://www.kan.org.il/media/epfcv4w0/2210447_1781210440401.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210447/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1052079/",
+       "id": "1052079",
+       "season": 1
+      },
+      {
+       "name": "אתם בלופ? וילדאו וורמוט מגיעים לספיישל מונדיאל",
+       "logo": "https://www.kan.org.il/media/ttuj53vr/3818_vermut_vildeo_igtv.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210152/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1051640/",
+       "id": "1051640",
+       "season": 1
+      },
+      {
+       "name": "אז למה בעצם אסור להוריד חולצה על המגרש?",
+       "logo": "https://www.kan.org.il/media/4avluvzz/3929_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209378/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-10",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1051215/",
+       "id": "1051215",
+       "season": 1
+      },
+      {
+       "name": "עזבו נו, לא תהיה מלחמה. אומרת לכם. או ש...",
+       "logo": "https://www.kan.org.il/media/bbyjhaqx/2202031_1780915137800.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202031/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-08",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1050259/",
+       "id": "1050259",
+       "season": 1
+      },
+      {
+       "name": "רבקה באה לשבור לנו את כל הסטיגמות",
+       "logo": "https://www.kan.org.il/media/hvdnalxi/dp_fomo_naheget_rivka_3839.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208771/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-07",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1049906/",
+       "id": "1049906",
+       "season": 1
+      },
+      {
+       "name": "כמה נראה לכם שעולה לארח מונדיאל?",
+       "logo": "https://www.kan.org.il/media/32mc5i1h/dp_3888_leareach.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207920/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-04",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1048889/",
+       "id": "1048889",
+       "season": 1
+      },
+      {
+       "name": "הופמן ודוידוביץ' עולים על הלופ לספיישל מונדיאל",
+       "logo": "https://www.kan.org.il/media/ftaheuun/2207591_1780511740262.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207591/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-03",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1048676/",
+       "id": "1048676",
+       "season": 1
+      },
+      {
+       "name": "וכמה צעדים אתם עשיתם היום?",
+       "logo": "https://www.kan.org.il/media/hnkbiz5k/2206667_1780415475662.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206667/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-02",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1048255/",
+       "id": "1048255",
+       "season": 1
+      },
+      {
+       "name": "איך מתפקד בית ספר דמוקרטי? השומר המחליף שלכם יצא לבירה לבדוק",
+       "logo": "https://www.kan.org.il/media/kc2co30j/דמוקרטי-פרו-רייס-התחלה-חדשה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206536/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-06-01",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1047361/",
+       "id": "1047361",
+       "season": 1
+      },
+      {
+       "name": "איך זה לשחק כדורשער כלקוית ראייה?",
+       "logo": "https://www.kan.org.il/media/g5kam3yz/2205733_1780229307413.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205733/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-31",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1047109/",
+       "id": "1047109",
+       "season": 1
+      },
+      {
+       "name": "כמה עולה גביע המונדיאל?",
+       "logo": "https://www.kan.org.il/media/o0lhkhma/dp_3888_ep01_gavia_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205719/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-28",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1046287/",
+       "id": "1046287",
+       "season": 1
+      },
+      {
+       "name": "ספרו לי הכל על חייזרים",
+       "logo": "https://www.kan.org.il/media/cnjl0tou/3924_aliens.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204951/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-26",
+       "plot": "ספרו לי הכל על חייזרים: זה אשכרה אמיתי?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1045428/",
+       "id": "1045428",
+       "season": 1
+      },
+      {
+       "name": "שומר מחליף | באר שבע",
+       "logo": "https://www.kan.org.il/media/z5kfjct4/3838-שומר-מחליף-ב-ש.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203928/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "פרחי נקלע לחובות וחיפש עבודה משמעותית להשלמת הכנסה. אז הוא נהיה שומר מחליף",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1045066/",
+       "id": "1045066",
+       "season": 1
+      },
+      {
+       "name": "החבר הזה שבונה אפליקציות",
+       "logo": "https://www.kan.org.il/media/jmonahbn/2203722_1779613256093.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203722/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-24",
+       "plot": "לכולנו יש את החבר הזה שלמד איך לבנות אפליקציות ולא משחרר, נכון?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1044532/",
+       "id": "1044532",
+       "season": 1
+      },
+      {
+       "name": "שומר מחליף | חולון",
+       "logo": "https://www.kan.org.il/media/vd1hrioc/2202024_1779190701278.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-19",
+       "plot": "פרחי נקלע לחובות וחיפש עבודה משמעותית להשלמת הכנסה. אז הוא נהיה שומר מחליף",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1042864/",
+       "id": "1042864",
+       "season": 1
+      },
+      {
+       "name": "שיחות ספסל | אמצעי מניעה",
+       "logo": "https://www.kan.org.il/media/yfapa3j5/2201315_1779022215230.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201315/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-17",
+       "plot": "אמצעי מניעה - פלקס או מביך? ואחריות של מי זה בכלל?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1042129/",
+       "id": "1042129",
+       "season": 1
+      },
+      {
+       "name": "מילה בלופ - צה\"ל",
+       "logo": "https://www.kan.org.il/media/msulmyp2/milabe.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198998/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-14",
+       "plot": "הכירו את השעשועון החדש שלנו - ותחזיקו חזק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1041258/",
+       "id": "1041258",
+       "season": 1
+      },
+      {
+       "name": "תקראו את השפתיים שלנו: מחכים לכם בכאן 11 ובכאן BOX, זה האובייס",
+       "logo": "https://www.kan.org.il/media/5dhdnhnx/2198994_1778504460776.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198994/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1040030/",
+       "id": "1040030",
+       "season": 1
+      },
+      {
+       "name": "ראיון עם נועם בתן",
+       "logo": "https://www.kan.org.il/media/5nxpt0rg/2199006_1778416496409.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199006/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-10",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1039568/",
+       "id": "1039568",
+       "season": 1
+      },
+      {
+       "name": "הזמן הזה בשנה | אלרגיות",
+       "logo": "https://www.kan.org.il/media/g1fb1xpp/2197739_1778152009368.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197739/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-07",
+       "plot": "אביב הגיע נזלת, גודש באף, התעטשויות וגרד בעיניים בא!",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1038428/",
+       "id": "1038428",
+       "season": 1
+      },
+      {
+       "name": "מילה בלופ | מכבי נגד הפועל",
+       "logo": "https://www.kan.org.il/media/fplbnsnc/image-59.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196985/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-06",
+       "plot": "אתם בלופ? יש לנו שעשועון חדש! והפעם: מכבי נגד הפועל. מי ינצח?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1038061/",
+       "id": "1038061",
+       "season": 1
+      },
+      {
+       "name": "טור דעה | אלימות בקרב בני נוער",
+       "logo": "https://www.kan.org.il/media/1uqhryhp/image-57.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196974/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-05",
+       "plot": "כמה הספקתם מאז הרצח של דסטאו צ'קול וימנו זלקה? אל תמשיכו הלאה כל כך מהר מרצח של שני נערים שנרצחו לשווא, ואל תעמדו מנגד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1037599/",
+       "id": "1037599",
+       "season": 1
+      },
+      {
+       "name": "שימו לנו פליי! מונדיאל זה כאן BOX",
+       "logo": "https://www.kan.org.il/media/3quf3cc4/image-56.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196664/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-05",
+       "plot": "יכלנו לספר לכם ש-35 משחקי מונדיאל מחכים לכם באיזור המונדיאל המיוחד בכאן BOX, אבל העדכפנו לשיר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1037594/",
+       "id": "1037594",
+       "season": 1
+      },
+      {
+       "name": "שיחות ללא הגבלה | סתיו מאיירת אנימה",
+       "logo": "https://www.kan.org.il/media/ysrjfwk4/image-55.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195626/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-03",
+       "plot": "\"הייתי בטוחה שתמיד אהיה בודדה, אבל הציור והחברים לאנימה גרמו לי לאהוב את עצמי\": סתיו מלמדת אותנו איך לצייר עם אוטיזם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1036736/",
+       "id": "1036736",
+       "season": 1
+      },
+      {
+       "name": "מה ראינו עכשיו? | חשמל",
+       "logo": "https://www.kan.org.il/media/xygjr1oa/image-54.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194308/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-30",
+       "plot": "מי יצליח לנחש באיזה תשדיר פרסומות מדובר?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1035594/",
+       "id": "1035594",
+       "season": 1
+      },
+      {
+       "name": "שיחות ספסל | להתחיל עם מישהו ",
+       "logo": "https://www.kan.org.il/media/q55eqkcr/image-53.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194307/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-29",
+       "plot": "תגידו, מ-1 עד 10, אתם באים לכאן הרבה? | שיחת ספסל על כמה קל להתחיל עם מישהו/וי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1035340/",
+       "id": "1035340",
+       "season": 1
+      },
+      {
+       "name": "יש עוד מיצרים חוץ ממיצרי הורמוז",
+       "logo": "https://www.kan.org.il/media/5qfo344r/image-52.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194773/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "כולם מדברים על מיצרי הורמוז, אבל יש עוד מיצרים מאוד חשובים בעולם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1034483/",
+       "id": "1034483",
+       "season": 1
+      },
+      {
+       "name": "על ספת הפסיכולוג | אלימות בקרב בני נוער",
+       "logo": "https://www.kan.org.il/media/2blfntoq/image-51.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194763/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "האלימות ברחוב חייבת להיפסק. זה של כולנו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1034479/",
+       "id": "1034479",
+       "season": 1
+      },
+      {
+       "name": "אובססיביים | אייל לוי",
+       "logo": "https://www.kan.org.il/media/cqfpjiy3/image-50.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194305/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-27",
+       "plot": "הכל אצלו מדויק? אייל גדל במשפחה מוזיקלית, התפרסם דרך הטיקטוק והיום הוא מחמם את נועה קירל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1034116/",
+       "id": "1034116",
+       "season": 1
+      },
+      {
+       "name": "לא נזכיר שמות | גלגול",
+       "logo": "https://www.kan.org.il/media/drkffxue/image-49.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192919/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "הפעם ההיא שגלגול מירושלים יצא לדייט קמצני במיוחד עם בחור מאשדוד בשיפודי ציפורה שבראשון לציון לעיסקית צהריים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1033336/",
+       "id": "1033336",
+       "season": 1
+      },
+      {
+       "name": "מה באמת עומד מאחורי הפסקת האש?",
+       "logo": "https://www.kan.org.il/media/ni0osgo1/adibb.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192895/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": "עזבו אתכם מהפסקת האש, כן או לא, זאת הנדסת תודעה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1032521/",
+       "id": "1032521",
+       "season": 1
+      },
+      {
+       "name": "מה נקנה למדינה שיש לה הכל?",
+       "logo": "https://www.kan.org.il/media/g1ldhlqv/matana.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192012/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": "אולי לא ממש הכל, אז כדאי מתנה שימושית",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1032506/",
+       "id": "1032506",
+       "season": 1
+      },
+      {
+       "name": "למה לפוצץ מכ\"מ אם אפשר לגנוב אותו?",
+       "logo": "https://www.kan.org.il/media/wwgjddz1/makam.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191995/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": "כן כן, זה מה שהחלטנו לעשות עם המכ\"מ שעשה בעיות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1032448/",
+       "id": "1032448",
+       "season": 1
+      },
+      {
+       "name": "נהגת מלווה - אורי בן יצחק",
+       "logo": "https://www.kan.org.il/media/jizh0qxl/naheget.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191532/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-20",
+       "plot": "פרק מיוחד ליום הזיכרון",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1031497/",
+       "id": "1031497",
+       "season": 1
+      },
+      {
+       "name": "טראמפ היקר",
+       "logo": "https://www.kan.org.il/media/yzvhyzhx/noam.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190568/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-20",
+       "plot": "נועה ותמר פונות לטראמפ בחריזה קטלנית",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1031487/",
+       "id": "1031487",
+       "season": 1
+      },
+      {
+       "name": " שיחות ללא הגבלה - מיקו",
+       "logo": "https://www.kan.org.il/media/254b4042/mma.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189701/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-15",
+       "plot": "מיקו הוא לוחם MMA וחירש, שלמד לדבר רוסית בשפת הסימנים בשביל חברה שלו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1029222/",
+       "id": "1029222",
+       "season": 1
+      },
+      {
+       "name": "לא נזכיר שמות | אל תחפור לי על האקסית",
+       "logo": "https://www.kan.org.il/media/bejph3yr/lon.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188443/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "אחינועם יצאה לדייט שלא בדיוק הרגיש כמו דייט",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1026899/",
+       "id": "1026899",
+       "season": 1
+      },
+      {
+       "name": "שיחה עם הפסיכולוגית בסיום המלחמה",
+       "logo": "https://www.kan.org.il/media/ak0dhedz/psico.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188444/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "איך אתם מרגישים? אנחנו ככה ככה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1026867/",
+       "id": "1026867",
+       "season": 1
+      },
+      {
+       "name": "באיזה מקטע מקצרים את החופש הגדול?",
+       "logo": "https://www.kan.org.il/media/iy0pacpv/hofeshh.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186410/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-12",
+       "plot": "מי פה חושב שלהיות חודש במלחמה זה בעצם חופש?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1026215/",
+       "id": "1026215",
+       "season": 1
+      },
+      {
+       "name": "פעם ראשונה במימונה",
+       "logo": "https://www.kan.org.il/media/w5vovkxf/adiiiiii.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186414/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-08",
+       "plot": "איך להרשים במימונה? באנו לעזור",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1024765/",
+       "id": "1024765",
+       "season": 1
+      },
+      {
+       "name": "מה הסיפור של הנילוס?",
+       "logo": "https://www.kan.org.il/media/qr0arzz3/nilus.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186186/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-06",
+       "plot": "מה האורך של מקור המים הכי גדול בעולם ולמה הוא גרם להרבה צרות?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1023834/",
+       "id": "1023834",
+       "season": 1
+      },
+      {
+       "name": "איך שורדים מבחני בגרות בזמן מלחמה?",
+       "logo": "https://www.kan.org.il/media/pwqdtbhj/bagru.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183394/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-05",
+       "plot": "לביא איצקוביץ' מטבריה מנסה להסביר למבוגרים מה זה להיות נער בתקופה הזאת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1023397/",
+       "id": "1023397",
+       "season": 1
+      },
+      {
+       "name": "סתאם, אחד באפריל!",
+       "logo": "https://www.kan.org.il/media/32gioyrj/14.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184408/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-01",
+       "plot": "הכל יותר מדי מטורלל, אין מצב שלא עובדים עלינו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1021998/",
+       "id": "1021998",
+       "season": 1
+      },
+      {
+       "name": "ספרו לי הכל על לבנון",
+       "logo": "https://www.kan.org.il/media/xqtl4gni/hizbb.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183345/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-29",
+       "plot": "נועה מיכאלי באה להסביר על כל מה שקורה בזירה הצפונית",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1020495/",
+       "id": "1020495",
+       "season": 1
+      },
+      {
+       "name": "ויז׳ן בורד מלחמה",
+       "logo": "https://www.kan.org.il/media/c2ydxi4d/hazon.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180942/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-26",
+       "plot": "נועה מיכאלי מסכמת את ההישגים המרגשים עד כה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1018972/",
+       "id": "1018972",
+       "season": 1
+      },
+      {
+       "name": "ריצת בוקר למקלט",
+       "logo": "https://www.kan.org.il/media/jlfnnujm/himum.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180773/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-25",
+       "plot": "את האימון היומי שלה, רותם פותחת בחימום מפרקים לקראת הירידה למרחב מוגן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1018396/",
+       "id": "1018396",
+       "season": 1
+      },
+      {
+       "name": "איך בוחרים שמות של מטוסים?",
+       "logo": "https://www.kan.org.il/media/rv2ngcu3/fab.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180645/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-24",
+       "plot": "F, B או A? כך קובעים את שמות המטוסים - שישראל אוהבת לעברת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1017943/",
+       "id": "1017943",
+       "season": 1
+      },
+      {
+       "name": "נועה עונה על השאלות הקשות",
+       "logo": "https://www.kan.org.il/media/2nzjr2te/noaa4.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180475/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-23",
+       "plot": "התקופה הזאת מאוד מבלבלת, אז נועה כאן לעזור עם השאלות הכי מורכבות שיש במלחמה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1017263/",
+       "id": "1017263",
+       "season": 1
+      },
+      {
+       "name": "נוער מקלטים - חליל סבח",
+       "logo": "https://www.kan.org.il/media/gqlpvmyy/halill.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180469/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-22",
+       "plot": "בני הנוער בחברה הערבית מתמודדים גם עם טילים וגם עם אלימות משתוללת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1016576/",
+       "id": "1016576",
+       "season": 1
+      },
+      {
+       "name": "התאומים שמתנדבים יחד במלחמה",
+       "logo": "https://www.kan.org.il/media/p3th4kwp/ahim.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179247/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-18",
+       "plot": "מאור ולירון סיבהי הם אחים בני 18, שמתנדבים יחד ב\"לב אחד\" ועוזרים בזירות שנפגעו ממטחי הטילים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1014647/",
+       "id": "1014647",
+       "season": 1
+      },
+      {
+       "name": "למה הזומים כל כך גרועים?",
+       "logo": "https://www.kan.org.il/media/2cnnsbjp/ofekk.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179225/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-18",
+       "plot": "אפילו המורים לא רוצים להיות כלואים בשיעור הוירטואלי הזה. אז מה הפתרון? תחשבו אתם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1014617/",
+       "id": "1014617",
+       "season": 1
+      },
+      {
+       "name": "איזה צד של רותם השכנים יקבלו במקלט?",
+       "logo": "https://www.kan.org.il/media/2cfdqvj5/rotemmm.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179194/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-17",
+       "plot": "מצב הרוח שלנו משתנה הרבה לאורך היממה במקלט. שמעתם?!",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1014061/",
+       "id": "1014061",
+       "season": 1
+      },
+      {
+       "name": "שיחות ללא הגבלה - מהדורת מלחמה",
+       "logo": "https://www.kan.org.il/media/lemacvtd/sihot.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179171/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-17",
+       "plot": "איך זה להיות בממ\"ד עם CP? דור בן עמי, עובדת סוציאלית, מספרת על הימים האלה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1014022/",
+       "id": "1014022",
+       "season": 1
+      },
+      {
+       "name": "נהגת מלווה | הלל",
+       "logo": "https://www.kan.org.il/media/qt0jivno/nahe.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2178815/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-16",
+       "plot": "איך זה להיות נערה בזמן מלחמה בתל אביב?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1013253/",
+       "id": "1013253",
+       "season": 1
+      },
+      {
+       "name": "על מלחמות וכדורגל",
+       "logo": "https://www.kan.org.il/media/lp5d5xos/adiii.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177275/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-16",
+       "plot": "האם איראן תפרוש מהמונדיאל? ומתי התחילו לערבב לנו פוליטיקה, מלחמות וכדורגל?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1013248/",
+       "id": "1013248",
+       "season": 1
+      },
+      {
+       "name": "משפטים שאסור להגיד",
+       "logo": "https://www.kan.org.il/media/hcjlybsw/ror.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177228/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-15",
+       "plot": "רותם מזהירה אתכם מפני משפטים נאחסים לימים האלה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1012538/",
+       "id": "1012538",
+       "season": 1
+      },
+      {
+       "name": "שיחה עם הפסיכולוגית במלחמה",
+       "logo": "https://www.kan.org.il/media/t1spmitn/week.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177218/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-12",
+       "plot": "מה כל כך מקשה עלינו בימים האלה? ההתרעות של פיקוד העורף או הגלוטן?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1011064/",
+       "id": "1011064",
+       "season": 1
+      },
+      {
+       "name": "געגועים לבית הספר?",
+       "logo": "https://www.kan.org.il/media/ubxdrxt0/lav.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2173525/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-12",
+       "plot": "יעל חושבת שמגיעה לבני הנוער מציאות אחרת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1010971/",
+       "id": "1010971",
+       "season": 1
+      },
+      {
+       "name": "קונספירטור במלחמה",
+       "logo": "https://www.kan.org.il/media/2bifonhq/conss.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174107/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-12",
+       "plot": "יש באמת מלחמה עם איראן או שרק רוצים שנקנה שימורים?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1010965/",
+       "id": "1010965",
+       "season": 1
+      },
+      {
+       "name": "איך בחרו את הצליל של האזעקה?",
+       "logo": "https://www.kan.org.il/media/xulhcqcp/lor.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176091/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-11",
+       "plot": "הצליל שאתם מכירים עבר המון גלגולים. איך בחרו דווקא את הסאונד העולה ויורד?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1010584/",
+       "id": "1010584",
+       "season": 1
+      },
+      {
+       "name": "בני נוער במלחמה",
+       "logo": "https://www.kan.org.il/media/ffigl34y/fomoo.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176316/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-11",
+       "plot": "איך זה לפגוש את הקראש במקלט ומה עושים עם החרדה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1010333/",
+       "id": "1010333",
+       "season": 1
+      },
+      {
+       "name": "למה אלה הפרסומות שלנו במלחמה?",
+       "logo": "https://www.kan.org.il/media/lllcmw3t/hairrr.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174127/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-08",
+       "plot": "מזל שהם כאן בשבילנו גם אם הקצוות בשיער שלנו מתפצלים כמו מצרר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1008632/",
+       "id": "1008632",
+       "season": 1
+      },
+      {
+       "name": "אבא ישראלי בזמן אזעקות",
+       "logo": "https://www.kan.org.il/media/jy3bu0mq/abba.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2172311/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-01",
+       "plot": "איפה אבא בזמן האזעקה? בכל מקום בארץ חוץ מהממ\"ד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1004516/",
+       "id": "1004516",
+       "season": 1
+      },
+      {
+       "name": "והרי החדשות האמיתיות",
+       "logo": "https://www.kan.org.il/media/cvfnqgdy/vlcsnap-2026-02-28-09h45m57s822.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171304/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-28",
+       "plot": "כל כתבי החדשות ללא יוצא מן הכלל בבוקר התקיפה באיראן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1003909/",
+       "id": "1003909",
+       "season": 1
+      },
+      {
+       "name": "ספרו לי הכל על הכורדים",
+       "logo": "https://www.kan.org.il/media/14lkf1nh/image-45.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169731/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1002310/",
+       "id": "1002310",
+       "season": 1
+      },
+      {
+       "name": "הקונספירטור | ימין או שמאל?",
+       "logo": "https://www.kan.org.il/media/iyudeywu/screenshot-2026-02-22-083649.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168358/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-22",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1001638/",
+       "id": "1001638",
+       "season": 1
+      },
+      {
+       "name": "חוגג או שוגג? קיץ",
+       "logo": "https://www.kan.org.il/media/clqjfxtc/fomo-party_chogeg_summer-61111111.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168034/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-20",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1001334/",
+       "id": "1001334",
+       "season": 1
+      },
+      {
+       "name": "מה ראינו עכשיו? | אירוח להט\"בים",
+       "logo": "https://www.kan.org.il/media/orrfvcfq/3690_gayss_fomo_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168038/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-18",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1000521/",
+       "id": "1000521",
+       "season": 1
+      },
+      {
+       "name": "נהגת מלווה | זאהי מבית ג'ן",
+       "logo": "https://www.kan.org.il/media/3iihglfl/naheget_melava_fomo_igtv_3831.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167629/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-18",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1000361/",
+       "id": "1000361",
+       "season": 1
+      },
+      {
+       "name": "דייט מהעתיד ",
+       "logo": "https://www.kan.org.il/media/di2lryjh/image-41.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166283/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/999530/",
+       "id": "999530",
+       "season": 1
+      },
+      {
+       "name": "הקונספירטור | פקקי תנועה",
+       "logo": "https://www.kan.org.il/media/c5bnabrq/3833_fomo_the_conspirator_pkakim_02-frame-at-0m29s1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165546/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/997720/",
+       "id": "997720",
+       "season": 1
+      },
+      {
+       "name": "ספרו לי הכל על ההגירה בארה\"ב",
+       "logo": "https://www.kan.org.il/media/kf5lqet3/image-39.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165202/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/997548/",
+       "id": "997548",
+       "season": 1
+      },
+      {
+       "name": "לא נזכיר שמות | עדי אנג'ל",
+       "logo": "https://www.kan.org.il/media/xwyckyv0/3759_lo_nazkir_shemot_adi_angel_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2163908/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-07",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996582/",
+       "id": "996582",
+       "season": 1
+      },
+      {
+       "name": "אובססיביים - ליאו ",
+       "logo": "https://www.kan.org.il/media/u1mdjwq2/3777__obsses_leo_fomo_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2163891/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996200/",
+       "id": "996200",
+       "season": 1
+      },
+      {
+       "name": "שיחות ללא הגבלה - בן",
+       "logo": "https://www.kan.org.il/media/qzej4wnn/dp_3798_ben_fomo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152665/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996197/",
+       "id": "996197",
+       "season": 1
+      },
+      {
+       "name": "ספרו לי הכל על תורכיה",
+       "logo": "https://www.kan.org.il/media/3h2pcmea/3832_turkey-fomo_igtv-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2147830/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "נעה באה להסביר לנו את כל מה שצריך לדעת על המצב בתורכיה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996196/",
+       "id": "996196",
+       "season": 1
+      },
+      {
+       "name": "חוגג או שוגג - מועדי ישראל ",
+       "logo": "https://www.kan.org.il/media/rpkmjukm/hogeg_o_shogeg_igtv_-israel-holidays.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2115658/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996194/",
+       "id": "996194",
+       "season": 1
+      },
+      {
+       "name": "מי שבר את הכד? ",
+       "logo": "https://www.kan.org.il/media/d4ifua53/image-38.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2069967/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996193/",
+       "id": "996193",
+       "season": 1
+      },
+      {
+       "name": "הקונספירטור - שינה",
+       "logo": "https://www.kan.org.il/media/yl1hteh4/image-37.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2114985/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996186/",
+       "id": "996186",
+       "season": 1
+      },
+      {
+       "name": "מה ראינו עכשיו - אשכוליות",
+       "logo": "https://www.kan.org.il/media/xotlhhm2/3719_eshkolit_fomo_igtv.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2114892/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996182/",
+       "id": "996182",
+       "season": 1
+      },
+      {
+       "name": "ספרו לי הכל על גרינלנד",
+       "logo": "https://www.kan.org.il/media/ef4jxhqo/3827_greenland_igtv-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2104649/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996180/",
+       "id": "996180",
+       "season": 1
+      },
+      {
+       "name": "נהגת מלווה - קמילה",
+       "logo": "https://www.kan.org.il/media/du3oz4a4/3795_naheget_camila_fomo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2088697/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996178/",
+       "id": "996178",
+       "season": 1
+      },
+      {
+       "name": "שיחות ללא הגבלה - אדיב",
+       "logo": "https://www.kan.org.il/media/dw4nlxvq/dp_3803_adiv_fomo-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2073229/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996174/",
+       "id": "996174",
+       "season": 1
+      },
+      {
+       "name": "חוגג או שוגג | פרק 2",
+       "logo": "https://www.kan.org.il/media/j1pbegvp/hogeg_o_shogeg_igtv_arnona-fix-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2073204/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996173/",
+       "id": "996173",
+       "season": 1
+      },
+      {
+       "name": "ספרו לי הכל על איראן",
+       "logo": "https://www.kan.org.il/media/grpnhoh0/3820_iran.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2070883/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/996172/",
+       "id": "996172",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

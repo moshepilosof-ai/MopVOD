@@ -1,0 +1,184 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בינו לבינה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-372997/",
+   "series_id": "372997",
+   "updated": "2026-10-28 09:33",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "בינו לבינה | פרק 8 - מסיבת פורים",
+       "logo": "https://www.kan.org.il/media/oaqdkojv/שלום-איך-תרצו-את-ועדת-החקירה-שלום-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2035718/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "חג פורים שמח ומבדח מעידו קנר. כן כן, זה עידו. מנומס ואדיב. בטוח נו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/986570/",
+       "id": "986570",
+       "season": 2
+      },
+      {
+       "name": "בינו לבינה | פרק 7 - הפסיכולוגית",
+       "logo": "https://www.kan.org.il/media/dllbs5gm/1_00176.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1914197/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-13",
+       "plot": "עידו הולך לטיפול אצל פסיכולוגית AI. זה התחיל מבטיח, אבל הסלים מהר מאוד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/970431/",
+       "id": "970431",
+       "season": 2
+      },
+      {
+       "name": "בינו לבינה | פרק 6 - ישראל מאוהב",
+       "logo": "https://www.kan.org.il/media/ki0c1qs3/1_00745.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uc69b5sx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-07",
+       "plot": "ספיישל ט\"ו באב: ישראל הרובוט מתאהב במישהי מיוחדת אבל מתבייש להגיד לה. כשעידו מנסה לעזור לו, מתברר שהיא מאוהבת ב.. מישהו מיוחד. עם מי ישראל יסיים את הערב?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/939197/",
+       "id": "939197",
+       "season": 2
+      },
+      {
+       "name": "בינו לבינה | פרק 5 - יום הולדת לישראל",
+       "logo": "https://www.kan.org.il/media/2ywpuu15/7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a3xjyv9a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-29",
+       "plot": "הוא מכריז בזאת: הרובוט של עידו מחליט להפוך למדינה ריבונית בעצמו, עם אוכלוסייה, טריטוריה ואפילו המנון",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/895213/",
+       "id": "895213",
+       "season": 2
+      },
+      {
+       "name": "בינו לבינה | פרק 4 - אלבום הפתקים של עידו",
+       "logo": "https://www.kan.org.il/media/qgdl5dym/1_00462.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_744gk39n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-03",
+       "plot": "סירי ממשיכה להרוס לעידו את החיים. הפעם היא משתלטת לעידו על הפתקים בטלפון וחושפת את כל הסודות שלו לעולם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/866495/",
+       "id": "866495",
+       "season": 2
+      },
+      {
+       "name": "בינו לבינה עונה 2 | פרק 3 - אין לי מוח",
+       "logo": "https://www.kan.org.il/media/ko0p5cdt/03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s1m408y8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-08",
+       "plot": "בתקרית מצערת במשרד, עידו מגלה שהוא מתגעגע לחיים שלו עם מוח. האם יכול להיות שסוף מערכת יחסים עם בינה מלאכותית תוביל לאהבת אמת?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/845142/",
+       "id": "845142",
+       "season": 2
+      },
+      {
+       "name": "בינו לבינה עונה 2 | פרק 2 - אזהרת מסע",
+       "logo": "https://www.kan.org.il/media/fqofvk1s/02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3p30m7wd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-08",
+       "plot": "עידו רוצה לתכנן ירח דבש מהחלומות אבל לא בטוח לנסוע לשום מקום. כמעט",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/845141/",
+       "id": "845141",
+       "season": 2
+      },
+      {
+       "name": "בינו לבינה עונה 2 | פרק 1 - סירי יולדת",
+       "logo": "https://www.kan.org.il/media/tpvec4ls/01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9za19mlw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-08",
+       "plot": "סירי מראה סימפטומים מוזרים ועידו משתדל לשמור מרחק למקרה שהיא תתפוצץ. הסוף הטוב הפתיע גם את המדפסת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s2/845139/",
+       "id": "845139",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בינו לבינה | פרק 8 - כולם מפוטרים",
+       "logo": "https://www.kan.org.il/media/ty0ixl3x/1_03301.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3bd0k1sk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-10",
+       "plot": "סירי כל כך טובה ומוצלחת שעדיף שהיא תעשה פה את כל הסרטונים במקומנו. אז... להתראות, הייתם סבירים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/736077/",
+       "id": "736077",
+       "season": 1
+      },
+      {
+       "name": "בינו לבינה | פרק 7 - אמא יש רק אחת? ",
+       "logo": "https://www.kan.org.il/media/lnvbhdf4/3_06366.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s4isfqhf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-03",
+       "plot": "סירי משתלטת על אמא של עידו. האם הוא יצליח להציל אותה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/714906/",
+       "id": "714906",
+       "season": 1
+      },
+      {
+       "name": "בינו לבינה | פרק 6 - המלצרית אנטישמית?",
+       "logo": "https://www.kan.org.il/media/mccbs05z/aftercolor_91073.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6f20ntqs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-12",
+       "plot": "עידו יצא לחופשה ונתקל באנטישמיות על רקע רומנטי. כביכול, האמנם, ולדעתה של סירי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/702216/",
+       "id": "702216",
+       "season": 1
+      },
+      {
+       "name": "בינו לבינה | פרק 5 - הצבא של סירי",
+       "logo": "https://www.kan.org.il/media/fumg0t0b/benobena-v1-for-studio_04230.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g31voi3x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-19",
+       "plot": "עידו חוזר ממילואים של שבועיים ובמקום לקבל קבלת פנים חמה מסירי הוא מקבל צבא משל עצמו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/658173/",
+       "id": "658173",
+       "season": 1
+      },
+      {
+       "name": "פרק 4 - בינת ברזל: סירי מנסה לעזור לעידו להתמודד עם המלחמה",
+       "logo": "https://www.kan.org.il/media/kgujn31v/screenshot-2023-11-19-110615.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gf4s7cb5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-26",
+       "plot": "בימים קשים אלה, חשוב לחזק את הקשר בינך לבין הבינה שלך. סירי לוקחת את היחסים עם עידו צעד קדימה ודואגת שיתרגל הסברה - וריצה למרחב המוגן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/624302/",
+       "id": "624302",
+       "season": 1
+      },
+      {
+       "name": "בינו לבינה | פרק 3 - עידו מגלה שסירי מריצה אותו לראשות הממשלה",
+       "logo": "https://www.kan.org.il/media/fj4iucvl/bitah111.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zb4f24xu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-28",
+       "plot": "מה היה קורה אם הייתם קמים בבוקר ומגלים שהפרצוף שלכם מרוח על שלטים ברחבי הארץ? עידו קם בבוקר, וגילה שהוא באמצע קמפיין בחירות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/419640/",
+       "id": "419640",
+       "season": 1
+      },
+      {
+       "name": "בינו לבינה | פרק 2 - סירי מחפשת אהבה",
+       "logo": "https://www.kan.org.il/media/4j0nhqdd/siri1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bga1twd3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-01",
+       "plot": "אחרי שבפרק הקודם עידו נקלע לריב אוהבים עם סירי, מערכת היחסים שלהם ממשיכה להסתבך",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/383125/",
+       "id": "383125",
+       "season": 1
+      },
+      {
+       "name": "בינו לבינה | פרק 1 - סירי מפחדת מהמוות",
+       "logo": "https://www.kan.org.il/media/ljobnmi0/iddo.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q6jd3ajd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "עידו קנר נקלע לסכסוך עם סירי ויוצא לקרב מוחות נגד בינה מלאכותית פרנואידית במיוחד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-372997/s1/371730/",
+       "id": "371730",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קו 300",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-747392/",
+   "series_id": "747392",
+   "updated": "2026-10-28 13:10",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קו 300 | פרק ה' - בסמכות וברשות",
+       "logo": "https://www.kan.org.il/media/uwnfwyj1/בסמכות-וברשות-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jdkgerl1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "בעוד שצוות הייעוץ המשפטי לממשלה אובד עצות ושוקל התפטרות קולקטיבית, האפשרות להקמת חקירה לראשי השב\"כ מתגבשת כטבעת חנק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747392/s1/747423/",
+       "id": "747423",
+       "season": 1
+      },
+      {
+       "name": "קו 300 | פרק ד' - רצח אופי",
+       "logo": "https://www.kan.org.il/media/atyd0c3s/רצח-אופי-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_klxgjsum/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "הסבך של הפוליטיקה הפנימית בארגוני ההגנה הישראליים מודלף לתקשורת והדרך להתערבות הדרגים הבכירים ביותר במדינה קצרה ומטלטלת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747392/s1/747421/",
+       "id": "747421",
+       "season": 1
+      },
+      {
+       "name": "קו 300 | פרק ג'  - גרון עמוק",
+       "logo": "https://www.kan.org.il/media/a3jmyboj/גרון-עמוק-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uq6tywy4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "הבכירים במערכת המשפט, הממשלה ושירותי ההגנה במדינה ממשיכים במלחמות הפנימיות בדרך למציאת האמת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747392/s1/747418/",
+       "id": "747418",
+       "season": 1
+      },
+      {
+       "name": "קו 300 | פרק ב' - היתרים אסורים",
+       "logo": "https://www.kan.org.il/media/jenblnb5/היתרים-אסורים-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wbccz9fe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "זמן קצר לאחר סיום האירוע, מתכנסת ועדת חקירה המונה גורמים צבאיים ומדיניים לבדיקת הטענות שעלו על התנהגות אלימה מצד בכירים בצה\"ל, תא\"ל איציק מרדכי בפרט, שהיה מי שפיקד על האירוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747392/s1/747405/",
+       "id": "747405",
+       "season": 1
+      },
+      {
+       "name": "קו 300 | פרק א' - סכין בגב",
+       "logo": "https://www.kan.org.il/media/mh4gq04u/סכין-בגב-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_71h225xb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-09",
+       "plot": "ב-12 באפריל 1984, בשעה 17:00, יצא האוטובוס הנושא את מספר הקו 300 לדרכו הקבועה מתל אביב לאשקלון. על האוטובוס נכחו באותה העת כ-40 נוסעים, וביניהם 4 מחבלים פלסטיניים. האירוע החל כשהאוטובוס הגיע לאיזור אשדוד, שם המחבלים הורו לנהג לנסוע לכיוון עזה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747392/s1/747397/",
+       "id": "747397",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קו 300 | פתיח",
+       "logo": "https://www.kan.org.il/media/0onfo4yk/קו-300.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3hzirlfk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-04",
+       "plot": "הפתיח המותח של \"קו 300\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-747392/915313/",
+       "id": "915313"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

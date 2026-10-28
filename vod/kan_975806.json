@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עיר המתים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-975806/",
+   "series_id": "975806",
+   "updated": "2026-10-28 13:03",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "עיר המתים - הצצה",
+       "logo": "https://www.kan.org.il/media/l5ilrrdd/1920x1080_no-logo_עיר-המתים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2103666/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "מסע קולנועי אל \"מאחורי הקלעים\" של עולם הקבורה היהודי בבית הקברות \"הר המנוחות\" בירושלים. מסע המשרטט את יחסינו עם המוות: בין מלאכה קדושה לעבודה שחורה, בין טכנולוגיה להלכה ובין תחייה למלחמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-975806/990120/",
+       "id": "990120"
+      },
+      {
+       "name": "עיר המתים",
+       "logo": "https://www.kan.org.il/media/g10jnwwb/1920x1080_no-logo_עיר-המתים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1952002/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "מסע קולנועי אל \"מאחורי הקלעים\" של עולם הקבורה היהודי בבית הקברות \"הר המנוחות\" בירושלים. מסע המשרטט את יחסינו עם המוות: בין מלאכה קדושה לעבודה שחורה, בין טכנולוגיה להלכה ובין תחייה למלחמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-975806/975841/",
+       "id": "975841"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

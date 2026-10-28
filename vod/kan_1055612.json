@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - השלום ושברו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1055612/",
+   "series_id": "1055612",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מ\"שלום בטוח\" ל\"אין פרטנר\": המהפך המחשבתי ששינה את פני המדינה",
+       "logo": "https://www.kan.org.il/media/priiqjyp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204549/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-25",
+       "plot": "מדוע המילה שפעם הייתה שאיפה לגיטימית הפכה למילה גסה במערכת הפוליטית? הפרק השני של הפרויקט המיוחד \"השלום ושברו\" חוזר אל הרגעים שבהם פוליטיקאים מכל הקצוות שינו את הרטוריקה, ומציג את תג המחיר הציבורי הכבד שגבה הרעיון",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1055612/s1/1045269/",
+       "id": "1045269",
+       "season": 1
+      },
+      {
+       "name": "השירים, התרבות - והקמפיינים לבחירות: למה בישראל 2026 אף אחד לא מדבר יותר על שלום?",
+       "logo": "https://www.kan.org.il/media/kgpfmbrr/artboard-1-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203795/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-24",
+       "plot": "מי מדבר על שלום? פעם הוא היה ממותג הכי גבוה שאפשר, בתרבות וגם בפוליטיקה: משיר לשלום של מירי אלוני, ועד נתניהו שרץ עם הקמפיין של \"עושים שלום בטוח\" לפני שלושים שנה בדיוק. אבל בשיח של ימינו משהו נסדק והשתנה, והשלום הפך פחות אטרקטיבי. אורן אהרוני יצא לברר לאן ומתי נעלמה המילה שלום – מהשירים וגם מהקמפיינים לבחירות שבפתח",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1055612/s1/1044865/",
+       "id": "1044865",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

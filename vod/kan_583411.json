@@ -1,0 +1,136 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אולפן פתוח עם קובי מידן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-583411/",
+   "series_id": "583411",
+   "updated": "2026-10-27 21:29",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אולפן פתוח עם קובי מידן | 12.01.24",
+       "logo": "https://www.kan.org.il/media/k32l3ulx/open-ulpan-meidan-12012401_34_39_23still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aks1lroz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-12",
+       "plot": "השבוע: ד\"ר דניאל סובלמן על האיום שמציב חיזבאללה, תומר צבן עם ספר שני על הגיהנום של עזה, ישי גולן מגלם את אבא קובנר בסרט \"תכנית א'\", ו\"עד שיחזרו כולם\" - סרט דוקו חדש של כאן 11 על מטה משפחות החטופים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/683078/",
+       "id": "683078"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 05.01.24",
+       "logo": "https://www.kan.org.il/media/urjh0wy3/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_erczq0cr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-05",
+       "plot": "חזרתם של אנשי המילואים מעזה לחיים הרגילים, \"ענני מלחמה\"- סדרת דוקו חדשה על ערביי ישראל במלחמה, שמשודרת במכאן 33, תחקיר הפגיעות המיניות המטלטל של הניו יורק טיימס, ולאורה ריבלין בתפקיד גולדה בהצגה של הבימה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/669828/",
+       "id": "669828"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 29.12.23",
+       "logo": "https://www.kan.org.il/media/vdeohrn2/אולפן-פתוח-12-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ndmivl7y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-29",
+       "plot": "השבוע: התמודדות הקמפוסים עם פתיחת שנת הלימודים בתקופה זו, מעיין שוורץ, יוצר הסרט \"ילדי השלום\" על החלום ושברו, סיכום שנת 2023 בתרבות העולמית, והתוכנית 3 שירים בכאן 11 מציינת עשור בלי אריק איינשטיין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/664956/",
+       "id": "664956"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 22.12.23",
+       "logo": "https://www.kan.org.il/media/rpknbegp/s0448830_1_t00_00_00_12still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jzgqefo3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-22",
+       "plot": "השבוע:הנערה מבארי שהפכה לכוכבת הסברה בארה\"ב, פרוייקט צילומים מצמרר שמשחזר תמונות משפחתיות של החטופים, התמודדות המוסדות האקדמיים עם החזרה ללימודים בתקופה זו, ושון מנגוזה, כוכב הלהיט הקולנועי \"לרוץ על החול\".",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/660200/",
+       "id": "660200"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 15.12.23",
+       "logo": "https://www.kan.org.il/media/4ynlepyb/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m4330k6l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-15",
+       "plot": "השבוע: פרידה מעדנה מזי\"א שהלכה לעולמה השבוע, השפעת האסון והמחדל של ה 7.10 על התרבות הפופולרית, התמודדות המוסדות האקדמיים עם החזרה ללימודים בתקופה זו, ודב נבון על פרק המלחמה המיוחד של קופה ראשית.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/655678/",
+       "id": "655678"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 08.12.23",
+       "logo": "https://www.kan.org.il/media/d0cdmqa4/s0448828_1_t00_00_07_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qbzy4lyb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-08",
+       "plot": "השבוע: פרופ' טל אילן על חג החנוכה ומיתוס הגבורה, הטיפול הנפשי בניצולי מסיבת \"נובה\", ירון ניסקי ודני ליבר על העונה חדשה של הסדרה \"אויבים\", וחנן יובל לקראת פסטיבל הפסנתר שמשודר בכאן 11",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/645999/",
+       "id": "645999"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 01.12.23",
+       "logo": "https://www.kan.org.il/media/o4jnsi3m/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a023z0y7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-01",
+       "plot": "השבוע: המצב הנפשי הקולקטיבי עם שחרור החטופים, מצוקת אמני ישראל שנותרו ללא הכנסה, המילון החדש בתקופת המלחמה, שי להב עם התוכנית \"שלושה שירים- אריק איינשטיין\", וחן מזרחי על \"סיירת פאנץ'\", תוכנית חדשה בכאן 11.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/634175/",
+       "id": "634175"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 17.11.23",
+       "logo": "https://www.kan.org.il/media/tunnmmcp/מיכל-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5l45nj3q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-17",
+       "plot": "אולפן פתוח עם קובי מידן. השבוע: בני משפחות החטופים בין אימה לתקווה, מיכל חלבין מצלמת את המלחמה, האכזבה מקהילת היוצרים הבינ\"ל, רינו צרור עם ספר חדש ואישי, ועמרי אסנהיים ורוני קובן עם התוכנית \"יהיה טוב\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/612380/",
+       "id": "612380"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 10.11.23",
+       "logo": "https://www.kan.org.il/media/whjf1afi/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gl2vds8s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-10",
+       "plot": "אולפן פתוח עם קובי מידן. השבוע: בני משפחות החטופים בין אימה לתקווה, חמ\"ל עזרה נפשית ורפואית למפונים והניצולים של אחים לנשק,  פרוייקט הדוקו \"באין מדינה-יש אזרחים\", ודרור קרן מקריין נוסח חדש ומצמרר ל\"יזכור\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/602815/",
+       "id": "602815"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 03.11.23",
+       "logo": "https://www.kan.org.il/media/r5fpuikt/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ymb7plfo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-03",
+       "plot": "אולפן פתוח עם קובי מידן. השבוע: בני משפחות החטופים בין אימה לתקווה, הקרב על ההסברה, פוסט טראומה אצל לוחמות, המשמר היהודי ערבי בתל-אביב יפו, מענדי גרוזמן ואלי ביתאן בעונה חדשה ל\"מה שתגידו\".",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/593730/",
+       "id": "593730"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 27.10.23",
+       "logo": "https://www.kan.org.il/media/3opnyv5m/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_czmiv1pl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-27",
+       "plot": "חבריה של ענבר הימן, שנחטפה לעזה, מספרים על הקמפיין לשחרורה; שגיא דקל-חן נעדר מאז ה-7 באוקטובר, אביו, פרופ' יונתן דקל-חן, משוכנע שהוא נחטף לעזה; לצייר את האימה - מאיירים מגיבים למתקפת הטרור והמלחמה; מדוע בישראל נדהמים מכך שהשמאל בכל העולם נגדנו?; כך התאהבנו בטכנולוגיה וכך היא איכזבה אותנו ב-7 באוקטובר; דני בסן מבצע את \"דברים שרציתי לומר\"; פרופ' ישי רוזן צבי, ראש החוג לפילוסופיה יהודית ותלמוד באוניברסיטת תל אביב, מספר על פידיון שבויים בתנ\"ך; עולם הספרות הבינלאומי נטש את ישראל, חוץ מכוכבת אחת ענקית - ג'יי.קיי רולינג; יוזמות לשיתוף פעולה בין יהודים וערבים בזמן המלחמה; המלחמה מגבירה מתיחות ואזרחים ערבים ישראלים מותקפים; דור כהאן, אלמוג שור ואורן ברזילי מדברים על תפקידם של קומיקאים בזמן מלחמה; יונתן רזאל מבצע את \"לו יהי\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/584846/",
+       "id": "584846"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 20.10.23",
+       "logo": "https://www.kan.org.il/media/qp3hrvj4/s0448821_100_25_28_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4uhog9xu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-20",
+       "plot": "פרוייקט עדות \"710\" נלחם בהכחשה ובשכחה דרך תיעוד עדויות ניצולי העוטף, רונית שלו קיבלה צו 8 בגלל המומחיות שלה במסירת בשורת השכול, דובי לוי מ\"בואו לאכול איתי\" הקים חמ\"ל שמסייע לאלפי מפונים מהעוטף, ארקדי דוכין שר את \"יש בי אהבה\", חברות הייטק התגייסו מהיום להיום לפתח אפליקציות למען תושבי העוטף, מתנדבי \"אחים לנשק\" יורדים לדרום כדי להציל את החקלאות המקומית, המלצות לקטנים ולגדולים להעברת הזמן בממ\"ד, הצלם אורן זיו מספר על תיעוד הזוועות והמחיר הנפשי, אלון אולארצ'יק של את רוח סתיו, מה הסיפור מאחורי השיר של ביאליק שכולם מצטטים עכשיו?, התקשורת והקמפוסים מקוטבים באשר למלחמה בישראל, בורות ואנטישמיות בקמפוסים בארה\"ב, גורי אלפי על \"אנחנו כאן\" - משדר התרמה גדול לתושבי הדרום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/575336/",
+       "id": "575336"
+      },
+      {
+       "name": "אולפן פתוח עם קובי מידן | 13.10.23",
+       "logo": "https://www.kan.org.il/media/zq3fgeft/קובי-מיידן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eet5mdly/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-13",
+       "plot": "חגית ורוני נעדרות מאז שבת והמשפחות נעות בין אימה לתקווה, פרופסור מרב רוט על הסיוע לניצולי המתקפה והטראומה הקולקטיבית, עלמה גוב מבצעת את \"בין האצבעות\", אתגר קרת מדבר מהלב, הבמאית אילנית סוויסה ניצלה מההתקפה על כפר עזה, אורן אהרוני מבין את קולם של האזרחים שהופקרו, שי צברי מבצע את \"כוכבים בשמיים\", מתן חלק - הופכים עליהם, טובים אותם, זהו זה שרים את \"דרכנו\", ערן זינגר, כתב כאן חדשות לענייני ערבים על הדאגה, הפחד ושותפות הגורל של ערביי ישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-583411/566503/",
+       "id": "566503"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

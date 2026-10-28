@@ -1,0 +1,46 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הלילה הארוך ביותר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13157/",
+   "series_id": "13157",
+   "updated": "2026-10-28 09:55",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הלילה הארוך ביותר - הצצה | בית ילדים",
+       "logo": "https://www.kan.org.il/media/jcvj1fcf/הלילה-הארוך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_we9j9n7x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-27",
+       "plot": "סיפורו של יואב גת שהיה בן 4 כאשר הוחזק כבן ערובה בבית הילדים במשגב עם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13157/876130/",
+       "id": "876130"
+      },
+      {
+       "name": "הלילה הארוך ביותר | חלק ב'",
+       "logo": "https://www.kan.org.il/media/1neprd4g/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53853_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k73ws06t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לאחר הלילה הארוך, אלוף פיקוד הצפון, ינוש בן גל וצוות המשא ומתן המטכ\"לי מנסים לשכנע את החוטפים לא לפגוע בבני הערובה, בזמן שלוחמי סיירת מטכ\"ל מתכוננים למבצע חילוץ.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13157/129544/",
+       "id": "129544"
+      },
+      {
+       "name": "הלילה הארוך ביותר | חלק א'",
+       "logo": "https://www.kan.org.il/media/w5whube5/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53850_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w2ja5hy1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חוליית מחבלים מארגון חזית השחרור הערבית, חוצה את גדר המערכת ומשתלטת על בית הילדים בקיבוץ משגב עם. כוח של סיירת גולני נאלץ לקבל החלטה כשהילדים, בני הערובה, נמצאים בסכנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13157/129541/",
+       "id": "129541"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

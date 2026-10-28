@@ -1,0 +1,163 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חצי המנשה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670939/",
+   "series_id": "670939",
+   "updated": "2026-10-28 11:15",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חצי המנשה | פרק 1 - חימיה",
+       "logo": "https://www.kan.org.il/media/23wftncy/ep-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rvxxvy3p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מילכה מסדרת לנעמה פגישה עיוורת עם רעואל, ואליקום מצטרף כמלווה. במקביל, הפלישתים מחפשים את רעואל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676098/",
+       "id": "676098",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 2 - אהבת אמת",
+       "logo": "https://www.kan.org.il/media/4gbjhqvv/פרק2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j9eojq0w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מפיש הפלישתי מתאהב בנעמה, רעואל יוצא לדו-קרב כדי להגן עליה וכל זאת כשמילכה איננה בכפר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676029/",
+       "id": "676029",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 3 - שעת השין",
+       "logo": "https://www.kan.org.il/media/tvnlkym4/פרק3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u2y0mi65/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שלח מחזר אחרי מילכה שחושבת שהוא מחזר אחרי נעמה. טקס הנישואין נקטע כשרעואל הקנאי חוטף את הכלה הלא נכונה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676026/",
+       "id": "676026",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 4 - עבד בהנחה",
+       "logo": "https://www.kan.org.il/media/fstkgkdn/פרק4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0hiiyahd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נעמה משכנעת את מילכה לקנות עבד מאליקום, שמוכר להם את אכיש על תקן של עבד עברי. כשהשתיים מגלות זאת הן מחליטות ללמד את אליקום ואכיש לקח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676023/",
+       "id": "676023",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 5 - מפיש אוהב שלום",
+       "logo": "https://www.kan.org.il/media/q1bnqdb5/ep-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nhp2tfdw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קפיש נתקף ביוזמה של שלום ופיוס ומבקש להתחבב על תושבי הכפר. רעואל מלמד אותו כיצד לכתוב בעברית, אבל לא את מה שהתכוון מפיש להגיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676017/",
+       "id": "676017",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 6 - למען ההיסטוריה",
+       "logo": "https://www.kan.org.il/media/04jly1ww/פרק6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_drbp0v8r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כותב התנ\"ך, שהוא יהורם גאון, מגיע לכפר בחיפוש אחרי סיפורים מעניינים. שלח ואליקום מנסים להיכנס לספר ההיסטורי, בעוד יהורם מעוניין בכלל במילכה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676014/",
+       "id": "676014",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 7 - סוף ציתות",
+       "logo": "https://www.kan.org.il/media/hotlhu3f/ep-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7cle9czb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בהוראת הכיבוש הפלישתי נערכות בחירות בכפר. אליקום ושלח מתמודדים על ראשות הכפר, אך מילכה היא שגונבת את ההצגה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676011/",
+       "id": "676011",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 8 - הצ'אנס הגדול",
+       "logo": "https://www.kan.org.il/media/sbhcgmwy/ep-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u8pmrm5r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קומדיה תנ\"כית מאת אפרים סידון. מילכה יוצאת מהכפר. נעמה ורעואל מנסים לנצל המצב ולהתבודד, אך אליקום ושלח שנזרקים מביתם מפריעים לזוג המאוהב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676008/",
+       "id": "676008",
+       "season": 1
+      },
+      {
+       "name": "חצי מנשה | פרק 9 - מילכה ליום אחד",
+       "logo": "https://www.kan.org.il/media/1tgd5250/ep-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cdnt78pf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מילכה נבחרת לראשות הכפר ומטילה משימות על תושבי הכפר ועל הפלשתים. בצר להם הם מחפשים דרך להוריד אותה מגחמותיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676005/",
+       "id": "676005",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 10 - קולות",
+       "logo": "https://www.kan.org.il/media/4tqfvn5b/פרק10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nb3gk8iu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מפיש \"חוזר בתשובה\" ומחליט לחבל בבציר אביעזר. אכיש והישראלים משתפים פעולה כדי להניאו מכוונותיו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/676002/",
+       "id": "676002",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 11 - אל המטרות",
+       "logo": "https://www.kan.org.il/media/na4bslpl/פרק11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8ghipdyb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בצורת בבציר אביעזר, ותושבי הכפר מחליטים למצוא את האשם ולהעניש אותו בסקילה למוות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/675999/",
+       "id": "675999",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 12 - אמא אמא",
+       "logo": "https://www.kan.org.il/media/n4facciv/פרק12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pvjs5bdw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "במהלך דינמיקה קבוצתית מגלה מילכה כי לאכיש חסרה דמות אם שתדחוף אותו. לכן רעואל מאמן את מפיש להיות לאימו של אכיש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/675996/",
+       "id": "675996",
+       "season": 1
+      },
+      {
+       "name": "חצי המנשה | פרק 13 - אחדות העם",
+       "logo": "https://www.kan.org.il/media/fi5pi3gx/פרק13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ev5vmn6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קומדיה תנ\"כית מאת אפרים סידון. במאמץ לפעול למען אחדות העם המפורד, אנשי הכפר מחליטים לנסוע לחצי שבט המנשה היושב מעברו השני של הירדן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/s1/675993/",
+       "id": "675993",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חצי המנשה | פתיח",
+       "logo": "https://www.kan.org.il/media/pizh5hdc/חצי-המנשה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891550/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לתוכנית \"חצי המנשה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670939/943402/",
+       "id": "943402"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

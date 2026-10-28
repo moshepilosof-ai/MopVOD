@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ואנונו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-967108/",
+   "series_id": "967108",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טריילר | ואנונו",
+       "logo": "https://www.kan.org.il/media/tjulyqfs/1920x1080_no-logo-ואנונו-1x_3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891606/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "סיפורו המלא של מרגל האטום מרדכי ואנונו, עם מסמכים מסווגים ומידע חדש שאושר לפרסום על ידי הצנזורה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-967108/s1/967135/",
+       "id": "967135",
+       "season": 1
+      },
+      {
+       "name": "ואנונו | פרק 3",
+       "logo": "https://www.kan.org.il/media/yjgpsdgh/קרדיט-צילום_-אלי-הרשקוביץ-זום-77.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1936146/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "למרות היעלמותו, מתפרסמת הכתבה שחושפת את ישראל כמעצמה גרעינית. ואנונו מועמד למשפט חשאי, מורשע בבגידה ונשלח לכלא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-967108/s1/967130/",
+       "id": "967130",
+       "season": 1
+      },
+      {
+       "name": "ואנונו | פרק 2",
+       "logo": "https://www.kan.org.il/media/wmsazs0u/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1913542/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "המוסד פותח במבצע \"קניוק\" – מצוד חוצה יבשות ללכידת ואנונו והבאתו לישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-967108/s1/967129/",
+       "id": "967129",
+       "season": 1
+      },
+      {
+       "name": "ואנונו | פרק 1",
+       "logo": "https://www.kan.org.il/media/gkjoqs0r/לאתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894874/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "סיפורו המלא של מרגל האטום, מרדכי ואנונו: מסלול חייו של מרדכי ואנונו מהילדות במרקש עד הדלפת סודות האטום של ישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-967108/s1/967127/",
+       "id": "967127",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ואנונו | טריילר",
+       "logo": "https://www.kan.org.il/media/iv2p10uu/1920x1080_no-logo-ואנונו-1x_3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891606/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "סיפורו המלא של מרגל האטום מרדכי ואנונו, עם מסמכים מסווגים ומידע חדש שאושר לפרסום על ידי הצנזורה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-967108/990029/",
+       "id": "990029"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

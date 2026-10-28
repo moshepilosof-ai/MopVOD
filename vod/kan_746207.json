@@ -1,0 +1,93 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כנפיים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-746207/",
+   "series_id": "746207",
+   "updated": "2026-10-28 11:30",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "כנפיים | פרק 6 - טיסה יוצאת",
+       "logo": "https://www.kan.org.il/media/yenfikud/כנפיים-פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gjsiqln0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "מיקי וגיא מגלים פרטים נוספים על התאונה שגרמה למותו של דדי ומנסים להתמודד עם האמת, על כל גרסותיה. גיא נקלע לתאונת דרכים וממהר לחזור לסיים את הקורס - האם הוא יצליח להדביק את הפער?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-746207/s1/746214/",
+       "id": "746214",
+       "season": 1
+      },
+      {
+       "name": "כנפיים | פרק 5 - מהו אומץ",
+       "logo": "https://www.kan.org.il/media/zxgbzsnx/כנפיים-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gdtaw8sh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "המצב המתעתע בין גיא לחברו הטוב מיקי ממשיך להסתבך עם הגילוי המפתיע על הקשר בין האבות של הבנים. חלק מהחניכים מוצאים את עצמם בסיטאוציות בעייתיות ועומדים בפני החלטות קשות - האם הם בחרו נכון?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-746207/s1/746213/",
+       "id": "746213",
+       "season": 1
+      },
+      {
+       "name": "כנפיים | פרק 4 - על טעויות צריך לשלם",
+       "logo": "https://www.kan.org.il/media/pxsdaosx/כנפיים-פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4hbguvkw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "החניכים מגלים כל אחד בדרכו שלו שאין הזדמנות שנייה כשנמצאים בשמיים, ומתחילים לפתח קשרים בין אישיים רגע לפני וועדת האמצע - בה יוחלט על החניכים שלא ימשיכו לשלב הבא בקורס",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-746207/s1/746212/",
+       "id": "746212",
+       "season": 1
+      },
+      {
+       "name": "כנפיים | פרק 3 - טיסת היכרות",
+       "logo": "https://www.kan.org.il/media/m54h4xjd/כנפיים-פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jfip02d2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "חברי קורס 235 מניעים מנועים לראשונה ומבינים שעליהם להתגבר על המכשולים הפנימיים לפני שיהיו מוכנים להתמודד עם מטוסי הקרב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-746207/s1/746211/",
+       "id": "746211",
+       "season": 1
+      },
+      {
+       "name": "כנפיים | פרק 2 - חול, יזע ודמעות",
+       "logo": "https://www.kan.org.il/media/benkfllu/כנפיים-פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dsov5gsl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "לאחר קבלת השיבוצים לתפקידי השונים בקורס הטיס, הצעירים מבינים שעליהם לעבור דרך ארוכה וקשה כדי להוכיח את עצמם בפני המפקדים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-746207/s1/746210/",
+       "id": "746210",
+       "season": 1
+      },
+      {
+       "name": "כנפיים | פרק 1 - ברוכים הבאים לחיל האוויר",
+       "logo": "https://www.kan.org.il/media/laijnsz4/כנפיים-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_es4sgzdy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-07",
+       "plot": "שמונה צעירים מרקעים מגוונים מקבלים את המכתב הנכסף על התקבלותם לגיבוש קורס הטיס הנחשק, הם מגלים במהרה שהמציאות לא נוצצת כמו החלום שהתגשם ועליהם להסתגל למסגרת הנוקשה של קורס 235",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-746207/s1/746208/",
+       "id": "746208",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "כנפיים | פתיח",
+       "logo": "https://www.kan.org.il/media/d2khrla4/צילום-מסך-2025-08-18-134212.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_80e4de9y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"כנפיים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-746207/942663/",
+       "id": "942663"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

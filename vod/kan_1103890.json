@@ -1,0 +1,49 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - רובי מחפש תקווה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1103890/",
+   "series_id": "1103890",
+   "updated": "2026-10-28 13:13",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "\"מלאי תקווה\": יוני ממרגליות לא מוותר על החקלאות בגבול הצפון",
+       "logo": "https://www.kan.org.il/media/rxpmaxgt/s0544774_item1200_02_15_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248592/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-23",
+       "plot": "יוני ממושב מרגליות לא מפחד מחיזבאללה, ולא מפחד מהגבול עם לבנון שצמוד ליישוב. בתור מי שהחקלאות זורמת לו בדם, הוא רואה לנגד עיניו רק משימה אחת: לקום בכל בוקר למטע שנהרס במלחמה – ולנטוע מחדש",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1103890/s1/1102313/",
+       "id": "1102313",
+       "season": 1
+      },
+      {
+       "name": "\"אין לי ספק שיהיה כאן טוב\": המתנדב שמביא תקווה למשגב עם",
+       "logo": "https://www.kan.org.il/media/vtrfxhnn/חיבוק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244224/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "קיבוץ משגב עם ספג מכות קשות במלחמה, ויש אנשים טובים שמבקשים לסייע. ניסים לוי גר בעוטף, אבל מגיע מדי כמה ימים לקיבוץ שליד מטולה. הוא מעביר פעילויות לילדים, מתנדב בקהילה – ומעלה חיוך על הפנים של כל תושב שנתקל בו.",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1103890/s1/1098172/",
+       "id": "1098172",
+       "season": 1
+      },
+      {
+       "name": "אחרי הטבח והפינוי: הישראלים שמקימים מחדש את כרם שלום",
+       "logo": "https://www.kan.org.il/media/aicaytxk/רובי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2242071/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-02",
+       "plot": "גם כשרואים את עזה ומצרים מהחצר, וגם אחרי 7 באוקטובר, הם מרגישים שאין להם מקום אחר לחיות בו – ועוברים לגור בעוטף. הערב בפרק חדש של \"רובי מחפש תקווה\" – רובי המרשלג עם הישראלים שמקימים מחדש את כרם שלום",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1103890/s1/1095542/",
+       "id": "1095542",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

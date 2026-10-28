@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ממלכת הכוזרים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-781921/",
+   "series_id": "781921",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ממלכת הכוזרים | פרק 3 - הקרב האחרון",
+       "logo": "https://www.kan.org.il/media/gkqje4bq/ממלכת-הכוזרים-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hjdf00fu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "עם נפילתה של הממלכה הכוזרית, נותרה יתומה השאלה - מה קרה ליהודיה? \nעלילת הקיסרות היהודית הגדולה ביותר הפכה רומנטית בקרב אמנים והוגי דעות יהודים ממוצאים שונים, המזדהים כצאצאיהם ומאמינים בהמשך דרכם של הכוזרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781921/s1/781931/",
+       "id": "781931",
+       "season": 1
+      },
+      {
+       "name": "ממלכת הכוזרים | פרק 2 - יושב על פי הנהר",
+       "logo": "https://www.kan.org.il/media/14ap24pz/ממלכת-הכוזרים-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_puw7r4g6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "בחלקו השני של המסע, אהוד יערי יצא ללקט ממצאים על הערים החשובות של הממלכה הכוזרית - \"איתיל\", הבירה שמוקמה בין נהרות - בה היה מלך יהודי, שופטים ובתי כנסת משלה. עיר המבצר \"שרכיל\" הגנה עליה מפני שבטי פרא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781921/s1/781930/",
+       "id": "781930",
+       "season": 1
+      },
+      {
+       "name": "ממלכת הכוזרים | פרק 1 - ברחמי אל-בכח שדי",
+       "logo": "https://www.kan.org.il/media/5gekj0b4/ממלכת-הכוזרים-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p7um2srj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-08-07",
+       "plot": "אהוד יערי יצא למסע שארך שנתיים, בניסיון למצוא קצה חוט לתעלומת הקיסרות היהודית הגדולה בהיסטוריה, שנמחתה מעל פני האדמה כלא הייתה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781921/s1/781927/",
+       "id": "781927",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "פתיח | ממלכת הכוזרים",
+       "logo": "https://www.kan.org.il/media/2lqby4iw/ממלכת-הכוזרים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4hk2gyuj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-26",
+       "plot": "הפתיח המרתק של ''ממלכת הכוזרים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-781921/865004/",
+       "id": "865004"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

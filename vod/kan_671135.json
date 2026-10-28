@@ -1,0 +1,483 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תוסס",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671135/",
+   "series_id": "671135",
+   "updated": "2026-10-28 13:40",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "תוסס | פרק 20 - תוכנית לשבועות",
+       "logo": "https://www.kan.org.il/media/a00itdmt/toses.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dhqm3bo8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מגזין הנוער בפרק מיוחד לחג, עם הופעה של קורין אלאל, קליפים ופאנל נוער",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/678458/",
+       "id": "678458",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 1 - תוכנית ראשונה",
+       "logo": "https://www.kan.org.il/media/exhicuu1/hosts.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7bq42brx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "התוכנית הפותחת של המגזין הכי קול לצעירים משנת 1988. עם פאנל נוער, הופעות ועוד רגעים מאגניבים שעשו לנו את האייטיז",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/678428/",
+       "id": "678428",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 66 - זהות מינית",
+       "logo": "https://www.kan.org.il/media/wr2dgqf4/migdar.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_swoqsrh7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה המשמעות של להיות גבר או להיות אישה? עוד קיימים גבולות? הנוער של שנת 1993 מתמודד עם שאלות באולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/678371/",
+       "id": "678371",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 90 - אלימות",
+       "logo": "https://www.kan.org.il/media/atypjkrz/violence.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o46evmvm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בבית הספר, ברחוב וגם על המסך - הנושא הזה סביבנו בכל מקום וגם בני הנוער לא שותקים בעניין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/677129/",
+       "id": "677129",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 72 - חרדת בחינות",
+       "logo": "https://www.kan.org.il/media/5c3lk0im/tom_york.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_edsv7y0u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בחינות זה נושא כאוב ומעניין, אבל עם כל הכבוד לנושא הבהול - בתוכנית הזאת התארחה להקת רדיוהד, וזה מה שמעניין באמת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/677114/",
+       "id": "677114",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 89 - אלביס פרסלי",
+       "logo": "https://www.kan.org.il/media/qsghzf5r/elvis.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9jfjk1h0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית המוקדשת למלך הרוק שליווה את תרבות הפופ העולמית במשך שלושה עשורים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/677066/",
+       "id": "677066",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 87 - נפרדים משנת 1993",
+       "logo": "https://www.kan.org.il/media/ul2jmgfg/newyear.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ro2oynky/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שנה חדשה - מנחה חדשה. אלינור אהרון מצטרפת לצוות, חתן השמחה קופץ לאולפן וכולם מקדמים את פניה של 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/677060/",
+       "id": "677060",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 28 - פוליטיקה וים",
+       "logo": "https://www.kan.org.il/media/ugkhfeky/toses01189.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r57r2im6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על פוליטיקה, צופי ים ומשפחה של אלופים בגלישת גלים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674750/",
+       "id": "674750",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 17 - יום העצמאות ה-41",
+       "logo": "https://www.kan.org.il/media/5gndmjka/toses10051989.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5jkaby79/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חוגגים את עצמאות המדינה לשנת תשמ\"ט ומארחים עולים חדשים מרחבי העולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674747/",
+       "id": "674747",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 46 - נוער בין-לאומי",
+       "logo": "https://www.kan.org.il/media/cjxnbgcz/toses020590.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pqnvm8l4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בני נוער מרחבי הגלובוס הלומדים בבית הספר האמריקאי בכפר שמריהו, כאלה שיצאו יחד לסיבוב הופעות ברוסיה וגם ספורט חדש שעשה עליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674744/",
+       "id": "674744",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 47 - שוברים שגרה",
+       "logo": "https://www.kan.org.il/media/wklaghnj/toses090590.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_310e62dc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "גלישת גלים, מחלות כרוניות, שבילי אופניים וגם קומיקס על נייר טואלט",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674741/",
+       "id": "674741",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 53 - משאלות קיץ",
+       "logo": "https://www.kan.org.il/media/s5dgnra0/toses040790.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jl84rm84/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "במאיות תיכוניסטיות, פרידה מבני הנוער שליוו את התכנית ומתגייסים ופארק מים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674738/",
+       "id": "674738",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 42 - ילדים להורים מפורסמים",
+       "logo": "https://www.kan.org.il/media/vwei5eg1/toses280390.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6sagrlh8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך זה לגדול בבית של הורה מוכר בכל בית בישראל? ולקראת גיוס - בית הספר הטכני של חיל האוויר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674735/",
+       "id": "674735",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 38 - רדיו וים",
+       "logo": "https://www.kan.org.il/media/c2pfffbu/toses310190.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ekdo11hm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כל התשובות לכל השאלות לקראת גיוס לחיל הים ונוער חובב תדרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674732/",
+       "id": "674732",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 59 - תנועות נוער",
+       "logo": "https://www.kan.org.il/media/t2vdqv1s/toses030791.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lgs8sw9h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "החינוך הבלתי פורמלי על כל גווניו הגיע לאולפן להציג את הייחודיות של כל ארגון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674729/",
+       "id": "674729",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 61 - איידס",
+       "logo": "https://www.kan.org.il/media/2sgfb53w/toses181291.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p3tpl57m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פאנל בנושא אמצעי מניעה ומודעות בקרב בני הנוער למחלות מין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674726/",
+       "id": "674726",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 60 - הצד האחר של הקיץ",
+       "logo": "https://www.kan.org.il/media/cmzd5mrc/toses100791.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5j4cho0x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "איך זה לגדול כילד או ילדה גבוהים או נמוכים במיוחד? וגם על נוער מתנדב במד\"א\nוצוללת צהובה אחת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674720/",
+       "id": "674720",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 62 - יום הזיכרון",
+       "logo": "https://www.kan.org.il/media/ua2dffmn/toses060592.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hlirgou8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק מיוחד לציון הנופלים שמשלב שירה, ראיונות עם ילדים שכולים וקטעי קריאה שכתבו חיילים שאינם עוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674714/",
+       "id": "674714",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 63 - אלימות מינית",
+       "logo": "https://www.kan.org.il/media/vlyjgk4v/toses181192.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cfm6crey/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תכנית שכולה מוקדשת לפגיעות מיניות, התמודדות נפשית, מודעות וטיפול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674711/",
+       "id": "674711",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 64 - מיסטיקה",
+       "logo": "https://www.kan.org.il/media/y1vpn5nv/toses031292.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zaptk12p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בין מערכונים משעשעים מעולם הפקידות הממשלתית, המנחים נוגעים בנושאי מיסטיקה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674708/",
+       "id": "674708",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 76 - נישואין  צעירים",
+       "logo": "https://www.kan.org.il/media/dh4k0tlx/toses120593.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wji0665v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "שתי תופעות עולות לכותרות - הריונות וחתונות בגיל צעיר וצוותי בידור במלונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674705/",
+       "id": "674705",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 77 - דו קיום",
+       "logo": "https://www.kan.org.il/media/44yhtbj5/toses090693.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_txh8zne1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בני נוער יהודים וערבים מספרים על האינטרקציה המשותפת שלהם, במערכונים עולה נושא ריבוי הערוצים החדשים בטלויזיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674702/",
+       "id": "674702",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 82 - חגיגת קיץ ברוקסן 3",
+       "logo": "https://www.kan.org.il/media/u4zluedw/toses010893.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qax3nlpm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מגלים סגנונות מוזיקה חדשים יחד עם להקות צעירות של בני נוער ולהקות ותיקות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674699/",
+       "id": "674699",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 83 - מנחים חדשים",
+       "logo": "https://www.kan.org.il/media/0wkmkfje/toses0171093.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vvuypoha/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "צוות התכנית החדש בא לעשות שלום ומראיין נערות ערביות על החוויה שלהן בתקופת האינתיפאדה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674696/",
+       "id": "674696",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 84 - הטרדות מיניות",
+       "logo": "https://www.kan.org.il/media/sqakvstd/toses241093.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_egj8c8n5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על היקף התופעה בצבא, על הענישה, וההפחתה של צה\"ל מחשיבות הנושא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674693/",
+       "id": "674693",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 85 - סרטי פולחן",
+       "logo": "https://www.kan.org.il/media/3njbpwru/toses141193.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5l5kj6su/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק העוסק בבני נוער שמעריצים סרטי קאלט",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674690/",
+       "id": "674690",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 86 - איכות הסביבה",
+       "logo": "https://www.kan.org.il/media/kt5aoqjc/toses191293.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w36o7iwl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "החור באוזון, קרינה, מיחזור וזיהום אוויר ותחרות איסוף סוללות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674687/",
+       "id": "674687",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 69 - משימה בלתי אפשרית",
+       "logo": "https://www.kan.org.il/media/50zp2a2x/toses240293.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_11naigyi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חברי תוסס יוצאים למבצע יחד עם בני נוער לשיפוץ המתנ\"ס בחצרות-יסף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674684/",
+       "id": "674684",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 67 - לקות שמיעה",
+       "logo": "https://www.kan.org.il/media/bxvlta3e/toses270193.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8pud8r3h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בני הנוער דנים בגיל הנכון להתחיל לנהוג, משתפים בחיים עם שמיעה ירודה . את התכנית כולה מלווה מתרגמת לשפת הסימנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674681/",
+       "id": "674681",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 68 - דיסלקציה וצנזורה",
+       "logo": "https://www.kan.org.il/media/erebqtpa/toses030293.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pqeg7h14/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בני נוער, הורים ונציגה של משרד החינוך מדברים על ההתמודדות עם הנושא שנוגע לכולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674678/",
+       "id": "674678",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 69 - הישרדות ויום האהבה",
+       "logo": "https://www.kan.org.il/media/alnf2oyq/toses170293.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2h3fa424/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "האם צריך לאסור גיוס לצה\"ל על הומוסקסואלים? מי יוצא לסדנת הישרדות במדבר? ומה זאת אהבה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674675/",
+       "id": "674675",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 71 - יוגולסלביה",
+       "logo": "https://www.kan.org.il/media/pl1ctrjy/toses170393.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wfif2qlg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "קבוצת חובבי רדיו מנסים לאורך השידור ליצור קשר עם הוריהם של פליטים מהמלחמה. רזי הגרפולוגיה ופרידה מיעל אלמוג",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674672/",
+       "id": "674672",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 73 - לקט",
+       "logo": "https://www.kan.org.il/media/vanldwf3/toses140493.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0wnck72y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חייזרית מבקרת ב\"ארכיון הטלויזיה הישראלית\" וצוללת לתוכניות תוססס מהעבר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674654/",
+       "id": "674654",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 74 - 25 שנים לטלוויזיה",
+       "logo": "https://www.kan.org.il/media/4gwfh2kh/toses260493.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j3t6du6c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכניות הילדים הראשונות על המרקע הישראלי, משאל רחוב ופסיכולוגית נפגעי טלוויזיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674639/",
+       "id": "674639",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 75 - מלחמה בסמים",
+       "logo": "https://www.kan.org.il/media/gsvfdi2s/toses050593.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0zds1t0d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "לקראת יום ההתרמה לעמותת אל סם, התכנסו בני נוער, נציגי המשטרה ועמותות לדבר על התמכרות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674633/",
+       "id": "674633",
+       "season": 1
+      },
+      {
+       "name": " תוסס | פרק 78 - כתבים צעירים",
+       "logo": "https://www.kan.org.il/media/00hdhuft/toses160693.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p6578dot/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "כתבים ומלונאים מספרים על תחילת דרכם והחוויות בדרך למקצוע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674630/",
+       "id": "674630",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 79 - ניתוחים פלסטיים",
+       "logo": "https://www.kan.org.il/media/oylhwejx/toses230693.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v45o9op0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "על ההחלטה להיתנתח יחד עם נערות שעברו את התהליך, אחת שמתלבטת ומנתח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674627/",
+       "id": "674627",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 80 - חגיגת קיץ ברוקסן 1",
+       "logo": "https://www.kan.org.il/media/wbwbbtds/toses300693.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3j6kt880/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תכנית ראשונה משלוש שמשודרת בשידור ישיר ממועדון המוזיקה ומארחת את אביב גפן בהופעת הבכורה הטלוויזיונית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674600/",
+       "id": "674600",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 82 - חגיגת קיץ ברוקסן 2",
+       "logo": "https://www.kan.org.il/media/owahjxzg/toses210793.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bbfdo9be/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "תוכנית שנייה משלוש ששידרה הופעות חיות בשידור חי מהמועדון, ובינהן חזרה לאופנת שנות השבעים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674597/",
+       "id": "674597",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 88 - מציאות ודמיון",
+       "logo": "https://www.kan.org.il/media/aeade3gi/toses090194.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2z63ib03/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק שעוסק במציאות שמעבר לדמיון, במשחקי וירטואליים ואמיתיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674594/",
+       "id": "674594",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 93 - עצמאות 94'",
+       "logo": "https://www.kan.org.il/media/fpfdnexj/toses140494.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1bin4b90/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חוגגים יום הולדת למדינה תחת כיפת השמיים עם תזמורת ולהקת חיל האוויר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674591/",
+       "id": "674591",
+       "season": 1
+      },
+      {
+       "name": "תוסס | פרק 95 - אמונות טפלות",
+       "logo": "https://www.kan.org.il/media/zivd1112/toses310794.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mvs8q27s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק שעוסק כולו במיסטיקה, ומי אם לא \"להקת \"המכשפות\" תתאים להתארח בו?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/674588/",
+       "id": "674588",
+       "season": 1
+      },
+      {
+       "name": "תוססס | פינת הקולנוע של דובי לנץ",
+       "logo": "https://www.kan.org.il/media/rq4p5vvo/דובי-לנץ-תוסס-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qlmean4p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פינתו הקבועה של לנץ במגזין השבועי לנוער",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/672362/",
+       "id": "672362",
+       "season": 1
+      },
+      {
+       "name": "תוססס | פינת החידון של דובי לנץ - צ'יפס",
+       "logo": "https://www.kan.org.il/media/ut2hdvg0/lenitz1web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c07xuurn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה המכנה המשותף בחידון שאחד הרמזים שלו הוא צ'יפס?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/672359/",
+       "id": "672359",
+       "season": 1
+      },
+      {
+       "name": "תוססס | פינת החידון של דובי לנץ - גימטריה",
+       "logo": "https://www.kan.org.il/media/cg4do1ru/lenitz2web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jipsh8o5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרסים שווים מחכים למי שימצא את המילה הכי ארוכה בגימטריה בעמוד הראשון של אחד העיתונים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/s1/672356/",
+       "id": "672356",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "תוסס | פתיח",
+       "logo": "https://www.kan.org.il/media/zzakxp00/תוסס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vhwkxc0w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח ה''מדליק'' של תוססס, המגזין השבועי לנוער",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671135/861400/",
+       "id": "861400"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

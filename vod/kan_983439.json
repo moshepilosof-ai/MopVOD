@@ -1,0 +1,141 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בהסתורה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-983439/",
+   "series_id": "983439",
+   "updated": "2026-10-28 09:30",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בהסתורה | פרק 9 - יוסי זוכמיר",
+       "logo": "https://www.kan.org.il/media/ufjpywrt/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067577/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "רוחל'ה מצליחה לשכנע את דונלד להמשיך את הקשר איתה. במקביל, מגלה הרב יואל שאשתו גיטי בוגדת בו עם יוסי זוכמיר, ומסגיר את כל אנשי החבורה הסודית במהלך תיקון ליל שבועות החגיגי שארגנו בסתר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989327/",
+       "id": "989327",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 8 - דונלד",
+       "logo": "https://www.kan.org.il/media/mt5jq5b2/7180052f-1c60-4529-9efa-29978df0d097.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2073571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "יוסי זוכמיר מנסה לגלות מה עלה בגורלו של קדישמן, בעל החוב שלו בו פגע, אך להפתעתו אין לו זכר. במקביל דונלד טראמפ ורוחל'ה מחליטים לקשור את גורלם ולצאת יחד מהעולם החרדי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989325/",
+       "id": "989325",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 7 - גיטי",
+       "logo": "https://www.kan.org.il/media/zcjgdp43/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067576/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "יוסי זוכמיר שקוע בחובות, ובעימות עם קדישמן, בעל החוב, הוא גורם בטעות למותו. דווקא אז, כשהוא זקוק לה, גיטי, המאהבת שלו - שהיא גם אשתו של רבו בעולמו הגלוי - מפוצצת את הקשר איתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989324/",
+       "id": "989324",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 6 - הניה",
+       "logo": "https://www.kan.org.il/media/4mcmv4ue/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067575/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "הניה מחליטה לעזוב את העולם החרדי ואת בעלה, אך הפחדים מהמעבר לשוק הפנויים פנויות בעולם החילוני גורמים לה לשכב עם דונלד טראמפ. כשמתברר לה שליבו נתון לרוחל'ה היא נשברת ומשנה את תוכניותיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989323/",
+       "id": "989323",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 5 - הנרי",
+       "logo": "https://www.kan.org.il/media/hlglj4kp/2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011472/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "הנרי עוזב את העולם החרדי על מנת לעבור לגור בתל אביב עם רותם, חברתו החילונית, אך מגלה שהמעבר קשה והרומן אולי בלתי אפשרי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989322/",
+       "id": "989322",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 4 - משה אזולאי",
+       "logo": "https://www.kan.org.il/media/zeua5ir5/אתר-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011428/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "משה אזולאי משקר למשפחתו שהוא בבידוד קורונה, אבל בני משפחתו נדבקים בנגיף הוא נאלץ לחזור אליהם. הוא לא מסוגל לוותר על חייו הכפולים, ונחשף ע\"י בתו מרים שדורשת ממנו להצטרף אליו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989316/",
+       "id": "989316",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 3 - מיכל ופנחס-מנחם",
+       "logo": "https://www.kan.org.il/media/qvkbj1a5/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067158/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "מיכל, חרדית לאומית, חווה הטרדה מינית מפנחס מנחם. היא חוזרת לביתה - לבעל אלים שאת מערכת היחסים שלה איתו היא מדחיקה ומכחישה. פנחס מנחם חוזר לאשתו החרדית האדוקה, ומנסה לעשות שינוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989309/",
+       "id": "989309",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 2 - שרה",
+       "logo": "https://www.kan.org.il/media/d4rnhc3c/נועה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011277/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "שרה, המורה של רוחל'ה מאוהבת בה בסתר, ורוצה לצאת איתה ביחד מהעולם החרדי. רוחל'ה מצידה מתאהבת באחד מבאי דירת המקלט, בחור מסתורי עם הכינוי דונלד טרמפ שמתגלה כבן של אדמו\"ר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989308/",
+       "id": "989308",
+       "season": 1
+      },
+      {
+       "name": "בהסתורה | פרק 1 - רוחל'ה",
+       "logo": "https://www.kan.org.il/media/nkrlwbt4/fa9aea5d-dd4e-4ef7-a3d6-0fd32e16feb4.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067094/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "רוחל'ה מדביקה את עצמה בקורונה על מנת להרוויח 10 ימי בידוד וכך להימלט משידוך כפוי שקבע הרבי. את הבידוד היא מעבירה עם קבוצת חרדים וחרדיות כמוה - אנוסים, שאמונתם התערעה, בדירת המקלט בה הם חיים חיים כפולים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989302/",
+       "id": "989302",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בהסתורה | שיר הנושא: לכה דודי",
+       "logo": "https://www.kan.org.il/media/mdepjirz/בהסתורה-קליפ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177241/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-12",
+       "plot": "מילים: רבי שלמה אלקבץ, לחן: עממי אמריקאי, הפקה מוזיקלית: אסף תלמודי ומעיין ליניק, גיטרה וקלידים: מעיין ליניק, מיקס: אורי קוטנר, מאסטרינג: ארן לביא, ניהול הפקה: ענב רביץ ביקובסקי, בימוי וצילום: בועז יעקב יהונתן, עריכה: נגה חביון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/1011037/",
+       "id": "1011037"
+      },
+      {
+       "name": "בהסתורה | הצצה",
+       "logo": "https://www.kan.org.il/media/3broc5se/בהסתורה-הצצה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177238/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-12",
+       "plot": "\"את מבינה יותר מהרבי מה מתאים לך?\": רוחל'ה לא רואה התאמה בשידוך שקבע לה הרבי, ומנסה לברוח ממנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/1011020/",
+       "id": "1011020"
+      },
+      {
+       "name": "בהסתורה | טריילר",
+       "logo": "https://www.kan.org.il/media/mqwn3kp2/presskit_baastura_hor_clean.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171286/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-26",
+       "plot": "קבוצת אנוסים חרדים מנהלים חיים כפולים ונאלצים לשלם מחיר כבד כשהעולמות מתנגשים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983439/1003344/",
+       "id": "1003344"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

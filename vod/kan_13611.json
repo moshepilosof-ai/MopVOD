@@ -1,0 +1,158 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - צליל מכוון",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13611/",
+   "series_id": "13611",
+   "updated": "2026-10-28 13:09",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "צליל מכוון 2 | פרק 6 - קובי אשרת",
+       "logo": "https://www.kan.org.il/media/iphb2umn/2023-3-13-imgid-95842_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6e9h0gji/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "קובי אוז פוגש לשיחה אינטימית כמה מגדולי המוזיקה הישראלית.\r\nהפעם: קובי אשרת שר ומשוחח עם קובי אוז על תחילת דרכו, על חופש היצירה ועל הרבה מזל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/360932/",
+       "id": "360932",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 -דורי בן זאב",
+       "logo": "https://www.kan.org.il/media/bgpbes4o/2023-3-13-imgid-95885_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8pe7yhac/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קובי אוז פוגש לשיחה אינטימית כמה מגדולי המוזיקה הישראלית.\nהפעם עם דורי בן זאב. שיחה שכולה מתובלת בחגיגה ארכיונית, על תרבות, מוזיקה, הומור ושיבושי שפה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/162511/",
+       "id": "162511",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | קובי אושרת",
+       "logo": "https://www.kan.org.il/media/n13lknyn/2023-3-13-imgid-95842_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6e9h0gji/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קובי אושרת שר ומשוחח עם קובי אוז על תחילת דרכו, על חופש היצירה ועל כתיבת השיר \"הללויה\", השיר הזוכה באירוויזיון 1979.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/162444/",
+       "id": "162444",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | נעמי פולני",
+       "logo": "https://www.kan.org.il/media/m3wmmab5/2023-3-13-imgid-95841_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g8s8w717/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "נעמי פולני, הכוריאוגרפית של הצי'זבטרון והתרנגולים, במפגש עם קובי אוז. בשיחה, הוא צולל איתה ליסודות תרבות הבידור הישראלית ועל החשיבה שמאחורי כוריאוגרפיה והעמדה בימתית.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/162441/",
+       "id": "162441",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | רבקה מיכאלי",
+       "logo": "https://www.kan.org.il/media/jbnnxsye/2023-3-12-imgid-95750_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4bfgrwip/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קובי אוז פוגש לשיחה אינטימית כמה מגדולי המוזיקה הישראלית.\r\nהפעם: רבקה מיכאלי בשיחה עם קובי אוז על חשיבות ההגשה של שיר, על מה זה להיות זמרת שחקנית. שיחה עם הומור עצמי וסיפורים על המשוררים הרבים שכתבו לה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/162381/",
+       "id": "162381",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | חיים אוליאל",
+       "logo": "https://www.kan.org.il/media/ejlau3mu/https-kanstaticazureedgenet-download-pictures-2023-4-12-imgid-98023_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pcibpl4r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חיים אוליאל משוחח עם קובי אוז על העבר המשותף בשדרות ובלהקת כנפיים, על המקצבים המרוקאים ואיך הביא את המרוקאית היישר למיינסטרים בשיתוף הפעולה עם מתי כספי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/162264/",
+       "id": "162264",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | ישי לוי",
+       "logo": "https://www.kan.org.il/media/zmjieopr/https-kanstaticazureedgenet-download-pictures-2023-3-2-imgid-95110_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7te9m8tp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קובי אוז פוגש לשיחה אינטימית כמה מגדולי המוזיקה הישראלית.\r\nהערב: ישי לוי שר ומשוחח עם קובי אוז בגילוי לב על המזל שלו בחיים, מתנת האלוהים שקיבל - הקול השלו , ועל העליות והירידות בדרכו המוזיקלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/161649/",
+       "id": "161649",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | נורית הירש",
+       "logo": "https://www.kan.org.il/media/pqmdqg3i/https-kanstaticazureedgenet-download-pictures-2023-3-2-imgid-95107_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9nb0h69f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "נורית הירש וקובי אוז יושבים על הפסנתר לשיחה מוזיקלית על השראות, על המקורות ליצירה, על החיבור שלה לזמרים וליוצרים שלהם היא מלחינה או מעבדת ועל קארמה של לחנים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/161601/",
+       "id": "161601",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | יאיר ניצני",
+       "logo": "https://www.kan.org.il/media/s2bbtqp5/https-kanstaticazureedgenet-download-pictures-2023-3-2-imgid-95109_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_axtg1wjk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קובי אוז פוגש לשיחה אינטימית כמה מגדולי המוזיקה הישראלית.\r\nהפעם: יאיר ניצני וקובי אוז בשיחה על מאחורי הקלעים של עולם המוזיקה מנוקדת מבטו מלאת ההומור של יאיר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/161394/",
+       "id": "161394",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | ריטה",
+       "logo": "https://www.kan.org.il/media/w1qlgmvi/2023-3-2-imgid-95108_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_da65h4l8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קובי אוז פוגש לשיחה אינטימית כמה מגדולי המוזיקה הישראלית.\r\nוהפעם: ריטה שרה ומשוחחת עם קובי אוז על התחנות במסע למציאת הקול הכל כך אופייני והמייחד אותה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/160509/",
+       "id": "160509",
+       "season": 2
+      },
+      {
+       "name": "צליל מכוון 2 | אלון אולארצ'יק",
+       "logo": "https://www.kan.org.il/media/xpmppndw/https-kanstaticazureedgenet-download-pictures-2023-2-16-imgid-94100_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xw23wja7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קובי אוז פוגש לשיחה אינטימית כמה מגדולי המוזיקה הישראלית.\r\nהפעם: אלון אולארציק מנגן ומספר לקובי אוז על המקורות המזרחיים וההומור המתבלים את הלחנים הייחודים שלו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s2/160458/",
+       "id": "160458",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "צליל מכוון | פרק 1 - שיר בכיף, הצליל של ההומור",
+       "logo": "https://www.kan.org.il/media/bfubysrb/imgid-95103_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6pmqs5l9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "טרום בכורה לסדרה בה פוגש קובי אוז את גדולי המוזיקה הישראלית במסע אחר שורשי הצליל הישראלי. פרק 1 - הומור - כיצד משמש ההומור להחדרת ז'אנרים חדשים לצליל הישראלי. עם: הדג נחש, גידי גוב, דני סנדרסון ועוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/s1/85989/",
+       "id": "85989",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "צליל מכוון - הצצה | הומור ",
+       "logo": "https://www.kan.org.il/media/xvepvpng/צליל-מכוון-_-פרק-1-שיר-בכיף-הצליל-של-ההומור00_00_10_22still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2n4fcgs4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-15",
+       "plot": "קובי אוז נזכר מתי בפעם הראשונה השתמש בהומור בהקשר מוזיקלי ויוצא לחקור את מקומו של ההומור במוזיקה הישראלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13611/920604/",
+       "id": "920604"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

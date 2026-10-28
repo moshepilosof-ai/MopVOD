@@ -1,0 +1,122 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מישהו לגור איתו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-327417/",
+   "series_id": "327417",
+   "updated": "2026-10-28 12:23",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מישהו לגור איתו | פרק 8 - המתקשרת",
+       "logo": "https://www.kan.org.il/media/uyvleinm/לאתר-פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yqx7kkkf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-06",
+       "plot": "פרקים חדשים לסדרה בה צוות מומחים משדך כלבים חסרי בית לאנשים שמחפשים עוד מישהו חמוד לגור איתו, בתקווה לזכות בשינוי בחייהם. והפעם, איזה כלב משדכים למתקשרת שמבינה את שפת הכלבים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/436695/",
+       "id": "436695",
+       "season": 1
+      },
+      {
+       "name": "מישהו לגור איתו | פרק 7 - הכלבה סברינה",
+       "logo": "https://www.kan.org.il/media/z00ggura/7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6o2s4u80/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-18",
+       "plot": "אחרי שכבר אומצה בפרק הראשון, הכלבה סברינה חוזרת אל הכלביה. האם הפעם היא תמצא מישהו לגור איתו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/367825/",
+       "id": "367825",
+       "season": 1
+      },
+      {
+       "name": "מישהו לגור איתו - פרק 6",
+       "logo": "https://www.kan.org.il/media/zftdyphi/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0on872lo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-18",
+       "plot": "אלמוג ודן איבדו גור צעיר שאימצו למחלת הכלבלבת, והם מגיעים לכלביה נחושים לאמץ גור חדש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/367823/",
+       "id": "367823",
+       "season": 1
+      },
+      {
+       "name": "מישהו לגור איתו - פרק 5",
+       "logo": "https://www.kan.org.il/media/te0nhrz2/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jan5i6ja/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-18",
+       "plot": "רז וטיטי, זוג חיפאי צעיר יוצא דופן, מחפשים את הכלב הראשון שלהם כזוג בדרכם להתחיל משפחה צעירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/367817/",
+       "id": "367817",
+       "season": 1
+      },
+      {
+       "name": "מישהו לגור איתו - פרק 4",
+       "logo": "https://www.kan.org.il/media/lzpdm2yj/s0421903-youtube00_05_07_01still001jpg11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5cqekrd9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-17",
+       "plot": "צוות מומחים משדך כלבים חסרי בית לאנשים שמחפשים עוד מישהו לגור איתו. \nהאם חייהם ישתנו לנצח? ומה כלב יכול באמת להוסיף למשפחה?\nוהפעם משפחת קלארק מגיעה לאמץ כלב אבל כל בן משפחה רוצה כלב אחר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/365670/",
+       "id": "365670",
+       "season": 1
+      },
+      {
+       "name": "מישהו לגור איתו | פרק 3 - תום",
+       "logo": "https://www.kan.org.il/media/ph1a5p35/s0421902_100_08_13_00still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z8k3q0x9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-17",
+       "plot": "צוות מומחים משדך כלבים חסרי בית לאנשים שמחפשים עוד מישהו לגור איתו. האם חייהם ישתנו לנצח? ומה כלב יכול באמת להוסיף למשפחה?\nוהפעם: תום בת התשע חולמת על כל כלב, אבל המשפחה שלה רוצה רק ביגל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/365665/",
+       "id": "365665",
+       "season": 1
+      },
+      {
+       "name": "מישהו לגור איתו | פרק 2 - דניאל",
+       "logo": "https://www.kan.org.il/media/ejgfydbg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_62ccbk66/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-17",
+       "plot": "סדרה חדשה שבה צוות מומחים משדך כלבים חסרי בית לאנשים שמחפשים עוד מישהו לגור איתו. \nוהפעם: דניאל שמתייחס לעצמו לא כגבר ולא כאישה, פוגש את צוות הכלבייה שמתווכח בניסיון לחבר לדניאל את הכלב המתאים ביותר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/365663/",
+       "id": "365663",
+       "season": 1
+      },
+      {
+       "name": "מישהו לגור איתו | פרק 1 - פרק הבכורה",
+       "logo": "https://www.kan.org.il/media/3mubdxhv/2023-4-30-imgid-99289_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xm8a7d0k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-14",
+       "plot": "מה המשמעות של כלב אצל ילדים? והאם אפשר לאמץ גם בגיל 80?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/361160/",
+       "id": "361160",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מישהו לגור איתו | טריילר",
+       "logo": "https://www.kan.org.il/media/efgbeix3/2023-4-30-imgid-99269_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zvxsn0j0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-07",
+       "plot": "סדרה חדשה שבה צוות מומחים משדך כלבים חסרי בית לאנשים שמחפשים עוד \"מישהו לגור איתו\". האם חייהם ישתנו לנצח? ומה כלב יכול להוסיף למשפחה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/880132/",
+       "id": "880132"
+      },
+      {
+       "name": "מישהו לגור איתו - הטריילר",
+       "logo": "https://www.kan.org.il/media/4f2l15et/2023-4-30-imgid-99269_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_txp2gdgu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "סדרה חדשה בה צוות מומחים משדך כלבים חסרי בית לאנשים שמחפשים עוד 'מישהו לגור איתו'. האם חייהם ישתנו לנצח? ומה כלב יכול להוסיף למשפחה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/328159/",
+       "id": "328159"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

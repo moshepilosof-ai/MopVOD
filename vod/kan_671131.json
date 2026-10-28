@@ -1,0 +1,43 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ג'ינג'י",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671131/",
+   "series_id": "671131",
+   "updated": "2026-10-28 09:37",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ג'ינג'י | פרק 1 - אמת או חובה ",
+       "logo": "https://www.kan.org.il/media/mwmbjmdu/ep1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xps01jp3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "ג'ינג'י מנסה להכניס חברה חדשה לחבורה ומגלה כמה דברים חשובים על אהבה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671131/s1/678425/",
+       "id": "678425",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ג'ינג' | פתיח",
+       "logo": "https://www.kan.org.il/media/rkvfbsa4/גינגי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1893371/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה \"ג'ינג'י\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671131/942913/",
+       "id": "942913"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

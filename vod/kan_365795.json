@@ -1,0 +1,55 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עשרים שקל לראש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-365795/",
+   "series_id": "365795",
+   "updated": "2026-10-28 13:06",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "עשרים לראש | פסטה טונה טריפוליטאית",
+       "logo": "https://www.kan.org.il/media/2ibpdgzl/paasta.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wfctp27n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-15",
+       "plot": "נמאס לכם להזמין אוכל במלא כסף? דניאל ניסה את המתכון של סבתא פנינה - פסטה ברוטב פשוט וואו בכמה צעדים פשוטים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-365795/396668/",
+       "id": "396668"
+      },
+      {
+       "name": "פנקוטה עם הקונדיטור אלון שבו",
+       "logo": "https://www.kan.org.il/media/lrtdubbe/1_1wjiw178.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_et925pue/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-26",
+       "plot": "דניאל מורס נפגש עם הקונדיטור אלון שבו כדי ללמוד איך להכין פנקוטה טעימה ואיכותית ב-20 שקלים לראש",
+       "page": "https://www.kan.org.il/content/dig/digital/p-365795/376409/",
+       "id": "376409"
+      },
+      {
+       "name": "מפרום תפוחי אדמה עם אדיר מזרחי",
+       "logo": "https://www.kan.org.il/media/iqcicai2/20-לראש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k1eiok8k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-18",
+       "plot": "דניאל מורס נפגש עם כוכב הרשת אדיר מזרחי וביחד הם הכינו מפרום תפוחי אדמה ב-20 שקל לראש",
+       "page": "https://www.kan.org.il/content/dig/digital/p-365795/367905/",
+       "id": "367905"
+      },
+      {
+       "name": "טארט טאטן כנפיים",
+       "logo": "https://www.kan.org.il/media/qdqfxire/imgid-99185_z.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_13kttg2b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-17",
+       "plot": "חן קורן (השפית מהאינסטגרם) ודניאל מורס יוצאים לשוק מחנה יהודה כדי להכין טארט טאטן כנפיים בפחות מעשרים ש\"ח לאדם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-365795/365825/",
+       "id": "365825"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

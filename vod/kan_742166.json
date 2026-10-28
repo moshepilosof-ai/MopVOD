@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קהילת יהודי בבל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-742166/",
+   "series_id": "742166",
+   "updated": "2026-10-28 13:10",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קהילת יהודי בבל | פרק 3 - מבצע עזרא ונחמיה",
+       "logo": "https://www.kan.org.il/media/hnolaeg5/קהילת-יהודי-בבל-חלק-ג.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nwsphwpj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-21",
+       "plot": "החלק השלישי והאחרון במסע של סלים פתאל בעקבות יהודי עיראק - פרק זה עוסק בשאלת גורלם של היהודים לאחר הקמת מדינת ישראל, היחס המכפיר מההנהגה והרדיפות האנטישמיות שבעקבותן אושרה עלייתם של יהודי עיראק לארץ ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-742166/s1/740980/",
+       "id": "740980",
+       "season": 1
+      },
+      {
+       "name": "קהילת יהודי בבל | פרק 2 - שליחות בארץ אויב",
+       "logo": "https://www.kan.org.il/media/j3cd1n2u/קהילת-יהודי-בבל-חלק-ב-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_scurk8qp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-21",
+       "plot": "בחלק השני במסעו אחר יהדות עיראק, סלים פתאל עוקב אחר דמויות המפתח שהקדישו את חייהן להגשמת חלום הציונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-742166/s1/740974/",
+       "id": "740974",
+       "season": 1
+      },
+      {
+       "name": "קהילת יהודי בבל | פרק 1 - ארץ אוכלת יושביה",
+       "logo": "https://www.kan.org.il/media/v0naqom5/עיראק-חלק-א-טאמבנייל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2dxi5t0f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-21",
+       "plot": "סלים פתאל נסע לבדוק את הסמל היהודי של ההווה עטוי הערפל לאחר שנותרו מאות בודדות של יהודים בקהילה בעיראק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-742166/s1/740971/",
+       "id": "740971",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קהילת יהודי בבל | פתיח",
+       "logo": "https://www.kan.org.il/media/v0edyp2t/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ay0kyaof/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "פתיח לסדרה התיעודית \"קהילת יהודי בבל\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-742166/942892/",
+       "id": "942892"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

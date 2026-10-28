@@ -1,0 +1,203 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - זמן אמיתי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1083583/",
+   "series_id": "1083583",
+   "updated": "2026-10-28 10:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זמן אמיתי | פרק 17 - המוזיאון לאומנות המזרח ותאטרון יפני",
+       "logo": "https://www.kan.org.il/media/z1ql2asi/arc_xxxxxxxx_1_v100_22_07_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232826/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על המוזיאון לאומנות המזרח ברמת-גן, לומדים איך להכין סושי, מכירים את כלנית סוסובר, מבקרים בסדנת עיבוד נייר, צופים בתאטרון יפני, שרים בקראוקי, לומדים על אוריגמי-קיפול נייר וגם קראטה במגע מלא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1085857/",
+       "id": "1085857",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 16 - גולף בקיסריה ומשחקי הגיון",
+       "logo": "https://www.kan.org.il/media/nqjjkoz1/arc_xxxxxxxx_1_v100_01_24_03still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232825/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על גולף בקיסריה, מועדון רכבות חשמליות, מוזיאון המדע בירושלים, משחקי מחשב בטבע, משחקי הגיון ומשחקי לייזר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1085849/",
+       "id": "1085849",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 15 - \"אוסטרליה\" במושב עין ורד",
+       "logo": "https://www.kan.org.il/media/1atnbjfg/arc_xxxxxxxx_1_v100_00_56_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232823/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על \"אוסטרליה\" במושב עין ורד, מעיפים עפיפונים בחוף ניצנים, נהנים בטיולי אופניים וחמורים בקיבוץ אילון, שומעים מוסיקה במנזר בית ג'מאל וגם סדנאות טבע לילדים וגבינות ויין בזכרון יעקב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1085837/",
+       "id": "1085837",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 14 - הזמנה לאביב",
+       "logo": "https://www.kan.org.il/media/fesp3tsl/arc_xxxxxxxx_1_v100_13_03_21still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232822/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם \"הזמנה לאביב\": מתארחים בסוכה במדבר במצפה רמון, שטים ברפטינג בירדן, מבקרים בחוות אלפקות ליד מצפה רמון, שומעים מוסיקה בהר מירון, מבלים במרכז קנדה במטולה, משחקים הוקי קרח במרכז קנדה, מלטפים חיות בפינת החי בקיבוץ צובה, נהנים בימית 2000 בחולון, צוללים סנובה באילת וגם צניחה חופשית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1085835/",
+       "id": "1085835",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 13 - טיפוס וסנפלינג במצוקי דרגות",
+       "logo": "https://www.kan.org.il/media/rm2f2h1q/arc_xxxxxxxx_1_v100_20_32_12still004.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232821/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם מטפסים ועושים סנפלינג במצוקי דרגות, עוסקים בתחרות \"מלכה ליום אחד\" במולה סנטר, צונחים חופשית ממטוס, מבקרים בבית ספר לכפילים ופעלולנים, עושים ראפטינג בנהר הירדן וגם נחשים בפארק היורה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1085823/",
+       "id": "1085823",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 12 - חמת חדר",
+       "logo": "https://www.kan.org.il/media/wrejdk4e/arc_xxxxxxxx_1_v100_00_56_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232813/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם ביקור בחמת חדר, מבקרים בחוות הבאבא יונה, מבלים בפאב מסעדה \"החקורה\" במטולה, שומעים מוסיקה בחמדת ימים בהר מירון, עושים סקי בחרמון, בפינת \"מפורסמים בדרך שלא הכרתם\" - הקרקס של אילונה וז'ניה סטור במרכז קנדה שבמטולה וגם הוקי קרח במרכז קנדה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1085791/",
+       "id": "1085791",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 11 - נופש בסוכות ליד מצפה רמון",
+       "logo": "https://www.kan.org.il/media/eqnp01ek/arc_xxxxxxxx_1_v100_09_20_21still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232814/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם מבקרים בפארק אשכול, נהנים בפארק המוטורי בקיבוץ דביר, מתבוננים על החי בר בקיבוץ צובה, בוחנים את האלפקות ליד מצפה רמון, מבקרים במרכז למורשת ולתרבות הבדואית ברהט וגם, נופש בסוכות ליד מצפה רמון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1085789/",
+       "id": "1085789",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 10 - ביקור בים המלח",
+       "logo": "https://www.kan.org.il/media/h25bgkhm/arc_xxxxxxxx_1_v100_09_14_14still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230870/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם מבקרים בים המלח, משחקים כדורגל ביום שישי בגן סאקר, מבלים במועדון שותי התה, נהנים בימית אלפיים, מבקרים בוולקאניה העיר המיניאטורית וגם צוללים סנובה באילת ושוחים בבריכת גורדון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083664/",
+       "id": "1083664",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 9 - ריקודים",
+       "logo": "https://www.kan.org.il/media/0hukkqek/arc_xxxxxxxx_1_v100_13_50_13still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230866/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על ריקודים - החל מריקודי שנות ה-60, דרך ריקודי פלמנקו ועד לריקודים סלונים. וגם, ריאיון עם זוג מעורב של יפני וישראלית בכפר האומנים עין הוד, כולל הצצה על עבודת הנגרות של הבעל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083658/",
+       "id": "1083658",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 8 - \"איה- אוטוביוגרפיה דמיונית\"",
+       "logo": "https://www.kan.org.il/media/orlptt5j/arc_xxxxxxxx_1_v100_02_13_16still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230863/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על מבקרים באתר הצילומים של סרטה החדש של מיכל בת אדם \"איה- אוטוביוגרפיה דמיונית\", מבלים בחברתה של אשתו של השגריר הבריטי בישראל שרה ברנס, צ'רלי חוקר את התופעה של ברמניות, בפינת \"מפורסמים בדרך שלא הכרתם\" - ביקור בית אצל מעצבת שמלות הכלה שמרית אור וגם להקת \"ילדות מבית טוב\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083653/",
+       "id": "1083653",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 7 - מדיטציה בישוב הררית",
+       "logo": "https://www.kan.org.il/media/wv0ilwby/arc_xxxxxxxx_1_v100_02_46_21still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230861/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על מדיטציה בישוב הררית, רוכבים על חמורים, שומעים מוסיקה אלטרנטיבית ומבקרים בחוות בריאות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083641/",
+       "id": "1083641",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 6 - משחק מבוכים ודרקונים בחנוכה",
+       "logo": "https://www.kan.org.il/media/ieibbof4/arc_xxxxxxxx_1_v100_02_31_18still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230858/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בספיישל חנוכה של תכנית הפנאי והתרבות והפעם על מפעל למשחקי ילדים, מבקרים במועדון אנשי עסקים צעירים, מצרטפים להרצאתה של חנה קורן בנושא גרפולוגיה, נגינת מוסיקה קאמרית בצוותא, טייסי מטוסים קלים ומשחקים בפארק מבוכים ודרקונים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083626/",
+       "id": "1083626",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 5 - מעצבים צעירים",
+       "logo": "https://www.kan.org.il/media/bizh5kee/arc_xxxxxxxx_1_v100_04_52_12still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230853/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על מעצבים צעירים, מלחי אמבט וגם צ'ארלי ביום כיף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083617/",
+       "id": "1083617",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 4 - התחנה המרכזית הישנה בת\"א",
+       "logo": "https://www.kan.org.il/media/uuadk0ou/arc_xxxxxxxx_1_v100_24_45_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230850/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על התחנה המרכזית הישנה בת\"א, ערבי קריוקי וסטנד אפ וחתונות בימי שישי אחה\"צ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083609/",
+       "id": "1083609",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 2 - קורסי המודעות העצמית",
+       "logo": "https://www.kan.org.il/media/ygef0huv/arc_xxxxxxxx_1_v100_06_37_17still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230848/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על הגידול בקורסי המודעות העצמית, קבלת שבת בנגריה בשוק לוינסקי ת\"א, בפינת \"מפורסמים בדרך שלא הכרתם\" - ביקור בית אצל אילנה גור ולני לוונגרוב וגם מסיבת רווקות עם חשפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083606/",
+       "id": "1083606",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 3 - כנס רוכבי אופנועי הארלי דוידסון",
+       "logo": "https://www.kan.org.il/media/lm0drpk4/arc_xxxxxxxx_1_v100_25_31_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230845/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על כנס רוכבי אופנועי הארלי דוידסון, היאכטה סו-אלן באילת וצלילה במימי סיני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083594/",
+       "id": "1083594",
+       "season": 1
+      },
+      {
+       "name": "זמן אמיתי | פרק 1 - מדונה בפארק ",
+       "logo": "https://www.kan.org.il/media/y4wjbqju/arc_xxxxxxxx_1_v100_02_01_05still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230844/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "צ'רלי ומיכל בתכנית הפנאי והתרבות והפעם על מדונה האייקונית בהופעה ראשונה בפארק הירקון, יוצאים לרכיבה על סוסים בחווה, נטענים באנרגיה במסיבה יוונית עם אוכל וריקודים במסעדה ביפו, בפינת \"מפורסמים בדרך שלא הכרתם\" - ביקור בית אצל יוסי ודורית שריד, איבונה קרוגליאק מלכת היופי ויוסי עזר מלהקת \"פורטרט\" יוצאים לדוג ומשתפים בזוגיות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/s1/1083593/",
+       "id": "1083593",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "זמן אמיתי | פתיח",
+       "logo": "https://www.kan.org.il/media/3a0jhzrx/arc_be10027896_1_v1op00_00_23_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230859/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-30",
+       "plot": "פתיח לתוכנית התחקירים \"זמן אמיתי\" בהנחיית מיכל זוארץ וצ'רלי בוזגלו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1083583/1083627/",
+       "id": "1083627"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

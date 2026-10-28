@@ -1,0 +1,123 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אוצרים את המדינה | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-818181/",
+   "series_id": "818181",
+   "updated": "2026-10-27 21:29",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אוצרים את המדינה | התערוכה",
+       "logo": "https://www.kan.org.il/media/zdbhr10y/התערוכה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_trk3u4ci/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "פרק סיוע חגיגי לסיכום המסע חוצה המדינה, בתערוכה חגיגית במוזיאון ראשון לציון לכבוד יום העצמאות ה-60 למדינה, בה מוצגים הפריטים והסיפורים הייחודיים שנאספו בדרך",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818263/",
+       "id": "818263",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | יוצאים לחופשה",
+       "logo": "https://www.kan.org.il/media/czqhke50/נופש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1j1hngp3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן ועינת ארליך במסע ליקוט אוצרות מאתרי הטיול הפופולריים בארץ: מחוף מציצים ועד למקום הכי נמוך בעולם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818261/",
+       "id": "818261",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | מצדיעים לצה\"ל",
+       "logo": "https://www.kan.org.il/media/he5hfwds/צהל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mie1xxpc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן ונחמן שי אוספים פריטים מ-60 שנות חיילות בישראל ועוברים דרך הרס״ר המבוגר ביותר בארץ ומצעדי יום העצמאות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818256/",
+       "id": "818256",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | שואפים תרבות",
+       "logo": "https://www.kan.org.il/media/gqze4bpn/תרבות-ופנאי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_udz5makx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן וצדי צרפתי מתחילים את המסע בכיכר דיזינגוף, הלב הפועם של תרבות הבילוי הישראלית ומבקרים בקולנוע האגדי \"אסתר\" שלימים הפך למלון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818254/",
+       "id": "818254",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | היכון, הכן, צא",
+       "logo": "https://www.kan.org.il/media/vsiflk1t/ספורט.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_66gfpuuc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן ובוני גינצבורג אוספים פריטים מ-60 שנות ספורט ישראלי, בדרך עוצרים לשחייה קצרה בכנרת ופוגשים שניים מגיבורי אולימפיאדת מינכן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818251/",
+       "id": "818251",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | כשהיינו ילדים",
+       "logo": "https://www.kan.org.il/media/xl5nmv4v/ילדות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ylen3lao/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן וסמדר שיר יוצאים למסע בין תחנות הנוסטלגיה הישראלית, עוברים במערה החשמלית של חסמב\"ה ובאוסף משחקי הקופסה שעיצבו את ילדותנו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818248/",
+       "id": "818248",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | אוכל, קדימה אוכל",
+       "logo": "https://www.kan.org.il/media/dkjm0dmy/אוכל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wj1jdo9g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן והילה אלפרט במסע קולינרי ברחבי הארץ: דרך ביה\"ס לבישול \"תדמור\", הדיאטה החדשה שמחזירה לצלחת את ימי הצנע, ולקינוח - סיור אוכל ערבי אותנטי בכפר ראמה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818191/",
+       "id": "818191",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | איך מדליקים אש ברדיו?",
+       "logo": "https://www.kan.org.il/media/jdtjxkwh/תקשורת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9vuobgga/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן ושוש עטרי עוברים בתחנות התקשורת הישראלית ומסקרים את השינויים שהתחוללו בה. הם מבקרים באולפני הערוץ הראשון עם דן כנר וגם עוגנים בספינה של תחנת \"קול השלום\" הפיראטית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818189/",
+       "id": "818189",
+       "season": 1
+      },
+      {
+       "name": "אוצרים את המדינה | השינוי בארון הישראלי",
+       "logo": "https://www.kan.org.il/media/psyhav4s/אופנה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jtunuedc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-29",
+       "plot": "טל ברמן ומעצב האופנה יובל כספין במסע אחר פריטי האופנה שאפיינו כל עשור במדינת היהודים: מכובע הטמבל ועד הבגדים המנצנצים של שנות ה-80",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/s1/818187/",
+       "id": "818187",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אוצרים את המדינה - הצצה | טל ברמן במסע אחר הפריטים החשובים ",
+       "logo": "https://www.kan.org.il/media/jiadi5xi/אוצרים-את-המדינה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ujsyx24g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "טל ברמן יצא לתור את הארץ ולאסוף פריטים חשובים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-818181/861529/",
+       "id": "861529"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

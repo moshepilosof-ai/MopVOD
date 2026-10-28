@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אלי חביב - בסדר גמור",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1003359/",
+   "series_id": "1003359",
+   "updated": "2026-10-27 21:30",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אלי חביב - בסדר גמור",
+       "logo": "https://www.kan.org.il/media/plofbmgl/אלי-חביב-ספשל-בסדר-גמור-גודל-מלא.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171294/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-26",
+       "plot": "ספיישל הסטנדאפ הראשון של הקומיקאי עם ההומור הכי אינטליגנטי, מושחז ורגיש. אלי חביב משתף בתהליך היציאה בשאלה, בחיים כדתל״ש, אבל גם על אמא שלו, וטרינרים וקשים מנייר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1003359/1003373/",
+       "id": "1003373"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

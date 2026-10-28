@@ -1,0 +1,123 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שובו של השריף",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670715/",
+   "series_id": "670715",
+   "updated": "2026-10-28 13:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שובו של השריף | פרק 1 - תוכנית פתיחה",
+       "logo": "https://www.kan.org.il/media/1kldqib3/ep1web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sutt3xr2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מזל טוב, הטלוויזיה החינוכית בת 30, וחוגגת עם דמויות מהעבר. איתי מראיין את קישקשתא ובודק מה קורה איתו היום, ובנות פסיה מגישות מערכון על מורות הטלוויזיה החינוכית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672689/",
+       "id": "672689",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 2 - אנגלית",
+       "logo": "https://www.kan.org.il/media/roxpduf3/englishweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4qy7dzp7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "חוזרים לתוכניות ללימוד אנגלית שליוו אותנו בילדות, כמו גבי ודבי, דבי בבית חולים, השריף מגבעות הוליווד ודן ועדנה. הבמאי המקורי של הסדרות מתארח בתוכנית והקומדי סטור מבצעים לקט שירי תוכניות אנגלית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672686/",
+       "id": "672686",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 3 - לימודי",
+       "logo": "https://www.kan.org.il/media/t3uke1nc/learningweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nj0nf7ls/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הטלוויזיה החינוכית, כשמה כן היא, סיפקה לנו הרבה תוכניות לימודיות במגוון מקצועות. בפרק נשוב וניזכר בבולטות שביניהן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672683/",
+       "id": "672683",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 4 - זהירות בדרכים",
+       "logo": "https://www.kan.org.il/media/f30nqh44/zahavweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dojeq56z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בפרק זה ניזכר בתוכניות ובדמויות שלימדו אותנו להיזהר בדרכים, כמו דנידינה ואדון קוק, וגם בחיות שהשתתפו, כמו דובי הדוברמן. ונארח אורח מיוחד - בולבול הקבולבול המקורי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672680/",
+       "id": "672680",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 5 - ילדים",
+       "logo": "https://www.kan.org.il/media/2kgdhv0v/kidsweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l0gd1mc2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק מיוחד על התוכניות של הילדים של פעם, כמו בבית של פיסטוק וציפיטפוט. נפגוש את הילדה דנה מ\"רגע עם דודלי\" ואת ספי ריבלין, ונשמע לקט שירי ילדים בביצוע בנות פסיה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672677/",
+       "id": "672677",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 6 - רכש",
+       "logo": "https://www.kan.org.il/media/jqzdrdmp/recheshweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uswz2dss/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "נכנסים למנהרת הזמן עם דאג וטוני ויוצאים למסע בין כוכבים עם הסדרות הזרות, כמו האסיר, היה היה, איים אבודים ופינוקיו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672674/",
+       "id": "672674",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 7 - חברה",
+       "logo": "https://www.kan.org.il/media/kvybrrhp/hevraweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f9dw1l6e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פרק על תוכניות החברה והתרבות, כמו מצב משפחתי, קרובים קרובים והילדים משכונת חיים. כולל הילד ג'נגו, שהיה למעשה הסטנדאפיסט הראשון בארץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672671/",
+       "id": "672671",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 8 - זהו זה",
+       "logo": "https://www.kan.org.il/media/vz1hkzru/zehuzeweb.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_os4cic6h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מתרפקים על דמויות ופרקים נוסטלגיים של התוכנית המיתולוגית \"זהו זה\" - יאצק, בבה בובה, שידור חוקר, מלחמה וסרט ערבי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672668/",
+       "id": "672668",
+       "season": 1
+      },
+      {
+       "name": "שובו של השריף | פרק 9 - ספיישל סיום",
+       "logo": "https://www.kan.org.il/media/3zvnxpei/ep9web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_myuat6ad/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה עושים כיום השריף גודמן, וג'נגו ויוני משכונת חיים? נגלה בתוכנית חגיגית לסיום הסדרה שהחזירה אותנו לילדות ולרגעים מרגשים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/s1/672665/",
+       "id": "672665",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שובו של השריף | פתיח",
+       "logo": "https://www.kan.org.il/media/2tqfidkk/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_orpmgpv3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לסדרה \"שובו של השריף\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670715/943361/",
+       "id": "943361"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

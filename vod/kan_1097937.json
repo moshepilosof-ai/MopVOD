@@ -1,0 +1,73 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - דרך הודו",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1097937/",
+   "series_id": "1097937",
+   "updated": "2026-10-28 09:43",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "דרך הודו | פרק 4 - האלה בעלת עיני הדג",
+       "logo": "https://www.kan.org.il/media/kh1jgfgr/arc_xxxxxxxx_1_v100_01_16_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244949/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-11",
+       "plot": "על מדינות הדרום ומאפיניהן.  אוכלוסיה, שפה, דת, מנהגים, מבנה חברתי, משלח יד, היסטוריה ומסורת - דרך צילומים מרהיבים של מקדשים בני 2000 שנה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1097937/s1/1098772/",
+       "id": "1098772",
+       "season": 1
+      },
+      {
+       "name": "דרך הודו | פרק 3 - שתי עיניים",
+       "logo": "https://www.kan.org.il/media/cdfnvt1p/arc_xxxxxxxx_1_v100_40_28_14still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244948/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-11",
+       "plot": "ריבוי הדתות בתת-היבשת ובמרקם היחסים העדין בין בני הדתות השונות, האיסלם ,הסיקית, ההינדואית והג'ייניזם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1097937/s1/1098771/",
+       "id": "1098771",
+       "season": 1
+      },
+      {
+       "name": "דרך הודו | פרק 2 - מוקשה (גאולה)",
+       "logo": "https://www.kan.org.il/media/qtkb1yna/arc_xxxxxxxx_1_v100_06_47_11still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244171/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "השקפת החיים של ההודים כפי שזו משתקפת בהינדואיזם ובבודהיזם, ביקור ברישיקש, ורנסי, סרנת וכלכתה, היטהרות בנהר הגאנגס, בתי מלאכה לטוויית משי, מקדשים ומבנים דמויי פעמון, וגם על היוגה, על התרבות הבנגלית, מושג הגאולה וגלגול נשמות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1097937/s1/1098034/",
+       "id": "1098034",
+       "season": 1
+      },
+      {
+       "name": "דרך הודו | פרק 1 - הגאנגה",
+       "logo": "https://www.kan.org.il/media/td3gt5ig/arc_xxxxxxxx_1_v100_01_43_16still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244166/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "תפקידו של נהר הגאנגס בתרבות ההודית ובחיי היום-יום. העיירה דווה-פריינג השוכנת סמוך למקורות הנהר, בני המעמדות השונים בהודו לרבות חסרי המעמד, הווי החיים בניו דלהי לעומת חייהם של החקלאים, טקסים דתיים לאל ברהמה, שריפת גופת המת, וגם, בלסינג ונירמאל תומאר מאגרה מארחים את הצוות וחושפים את אמונתם ומנהגיהם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1097937/s1/1097995/",
+       "id": "1097995",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "דרך הודו | פתיח",
+       "logo": "https://www.kan.org.il/media/ky2fyagx/arc_xxxxxxxx_1_v100_01_04_15still004.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244161/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1097937/1097966/",
+       "id": "1097966"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

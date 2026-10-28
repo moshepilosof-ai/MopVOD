@@ -1,0 +1,55 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שום פלפל ברחבי ישראל",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-759533/",
+   "series_id": "759533",
+   "updated": "2026-10-28 13:26",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שום פלפל ברחבי ישראל - הצצה",
+       "logo": "https://www.kan.org.il/media/yfrluxrp/שום-פלפל-ברחבי-ישראל-הצצה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_16nd397h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-12",
+       "plot": "תמרה אהרוני וחיים כהן בשיחה על חומרי הגלם הישראליים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-759533/919227/",
+       "id": "919227"
+      },
+      {
+       "name": "האוכל של העתיד",
+       "logo": "https://www.kan.org.il/media/w0qngglt/שום-פלפל-ברחבי-ישראל-286.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8j0xvaoq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-28",
+       "plot": "תמרה אהרוני במסע בעקבות חומרי הגלם הישראלים של \"שום פלפל ושמן זית\". והפעם - על האוכל של העתיד. האנשים שדואגים שתמיד יהיה לנו מה לאכול, גם במציאות של אקלים משתנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-759533/767029/",
+       "id": "767029"
+      },
+      {
+       "name": "חקלאות בוטיק",
+       "logo": "https://www.kan.org.il/media/msqiajjf/1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0hykgkfv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-10",
+       "plot": "תמרה אהרוני במסע בעקבות חומרי הגלם הישראלים של \"שום פלפל ושמן זית\". והפעם - על חקלאות בוטיק. על האנשים שמביאים לנו את חומרי הגלם הכי יחודיים שיש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-759533/759539/",
+       "id": "759539"
+      },
+      {
+       "name": "שום פלפל ברחבי ישראל | פרק 1 - על מסורת ושימור מסורת",
+       "logo": "https://www.kan.org.il/media/yk0dq5oa/תמונה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5o7l07hz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-10",
+       "plot": "תמרה אהרוני במסע בעקבות חומרי הגלם הישראלים של \"שום פלפל ושמן זית\". והפעם - על מסורת ושימור מסורת. סיפורם של האנשים שמביאים לנו היום את ה\"אוכל של פעם\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-759533/759537/",
+       "id": "759537"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

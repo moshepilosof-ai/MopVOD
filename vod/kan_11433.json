@@ -1,0 +1,488 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - עניין של זמן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-11433/",
+   "series_id": "11433",
+   "updated": "2026-10-28 13:04",
+   "sub_categories": [
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "עניין של זמן עונה 4 | פרק 19 - מסיבת סיום: הכל עניין של זמן",
+       "logo": "https://www.kan.org.il/media/zryofjrv/הכל-עניין-של-זמן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q3q8kv5f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פרק אחרון לסדרה - בסוף המסיבה החבר'ה נפרדים מבית הספר, מהמורים ומהחברים לכיתה.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93884/",
+       "id": "93884",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 18 - שריקת סיום חלק ב'",
+       "logo": "https://www.kan.org.il/media/ggzhd4gp/שריקת-סיום-חלק-ב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_stuk3ywg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ההכנות למסיבת הסיום בעיצומן. מיכל מודיעה לוויצמן שייתכן שהיא בהיריון.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93881/",
+       "id": "93881",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 17 - שריקת סיום חלק א'",
+       "logo": "https://www.kan.org.il/media/x4dihnfg/שריקת-סיום-חלק-א-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2pf4d327/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "התלמידים עורכים חזרות למסיבת הסיום ובמקביל עסוקים בעתידם הצבאי והיכן ישרתו. דנה הולכת להיפרד מדין הנמצא בפרויקט שיקום מיוחד.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93878/",
+       "id": "93878",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 16 - יום הולדת שמח",
+       "logo": "https://www.kan.org.il/media/lj4nwulh/יום-הולדת-שמח-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4cmjwdmd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עומר רוצה לנסוע לחו\"ל וחוסכת כסף לשם כך. מיכל מנסה לארגן את הכיתה לקנות מתנה משותפת לוויצמן ליום ההולדת.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93875/",
+       "id": "93875",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 15 - שורשים",
+       "logo": "https://www.kan.org.il/media/0mmp5tn5/שורשים-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_69xbs51u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שרית מסרבת לקבל את ספר התנ\"ך בסיום הלימודים בטענה שהוא נוצל לרעה בהקשר של רצח ראש הממשלה, יצחק רבין ז\"ל. תומר מנסה להתקבל לגלי צה\"ל ונדלק על שדרנית.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93872/",
+       "id": "93872",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 14 - החברים של עומר",
+       "logo": "https://www.kan.org.il/media/b2sdcaln/חברים-של-עומר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ipgd4ibl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לאחר מבחן בגרות החבר'ה יוצאים לבלות בפאב ומשתכרים. תומר מבקש מעומר שתחליף אותו בנהיגה, למרות שאין לה רישיון.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93869/",
+       "id": "93869",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 13 - הסיכוי האחרון",
+       "logo": "https://www.kan.org.il/media/w3zgbj5l/סיכוי-אחרון-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ut16mnan/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "החבר'ה באווירת סוף שנה ומעליבים את גבאי, והוא מחליט שהוא זקן מדי ושוקל לפרוש מהוראה. במקביל, דין מועף מבית הספר ונשלח למוסד שיקומי.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93866/",
+       "id": "93866",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 12 - דו-קיום",
+       "logo": "https://www.kan.org.il/media/bk5bmd3l/דו-קיום-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2e1xz94x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בעקבות ויכוח פוליטי על נושא השלום, ויצמן שוקל לסיים את מערכת היחסים שלו עם מיכל. האם הם יצליחו להישאר חברים למרות חילוקי הדעות?\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93863/",
+       "id": "93863",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 11 - אהבה לפי משקל חלק ב'",
+       "logo": "https://www.kan.org.il/media/kzvpjppb/אהבה-לפי-משקל-ב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h4foogmi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "גלי חשה דחויה מצד החברים בכיתה, והיא מגלה שדנה יצאה עם אסף מאחורי גבה. הדיכאון מדרדר אותה לדיאטה קשוחה ולאנורקסיה. \nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93860/",
+       "id": "93860",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 10 - אהבה לפי משקל חלק א'",
+       "logo": "https://www.kan.org.il/media/3vmphmy1/אהבה-לפי-משקל-א-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f0tna56e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לקראת סיום שנת הלימודים, גלי נלחצת מהפקת ספר המחזור המסורתי, משימה לא פשוטה שמאלצת אותה להתמודד עם אינטריגות שונות בשכבה.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93857/",
+       "id": "93857",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 9 - חלום ליל קיץ",
+       "logo": "https://www.kan.org.il/media/34ojlrtp/חלום-ליל-קיץ-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p4e1y14s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הרצאה בנושא מין מעוררת את התלמידים לעסוק בנושא באינטנסיביות. הם מחליטים ללכת לים כדי להתפרק, ושם מתהדקות מערכות היחסים בין החבר'ה ונוצרים זוגות.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93854/",
+       "id": "93854",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 8 - לחץ",
+       "logo": "https://www.kan.org.il/media/4elnce0w/לחץ-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kze1mfub/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מיכל נלחצת מכמות החומר שעליה ללמוד לבחינות ומגיעה למצב של התמוטטות, ויצמן ודורון מדריך הדרמה נחלצים לעזרתה.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93851/",
+       "id": "93851",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 7 - קמטים",
+       "logo": "https://www.kan.org.il/media/po1fdgec/קמטים-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2e5x2lzu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עידו הולך לבקר את סבו בבית אבות אחרי שלא ראה אותו זמן רב. הוא מתעמת עם אביו ועם סבו אך לומד להכיר את שניהם ולהתחבר אליהם מחדש.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93848/",
+       "id": "93848",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 6 - בכל מחיר",
+       "logo": "https://www.kan.org.il/media/hrvj0whw/בכל-מחיר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_11j1mqv4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "סער מתלהב מתחרות להקות הנערכת בבית הספר, שבה המנצחת תישלח לפסטיבל ערד. התלהבותו מביאה להתנהגות גסה ואלימה וחבריו נוטשים אותו. הפרק צולם במאי 1995, לפני אסון פסטיבל ערד. \nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93845/",
+       "id": "93845",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 5 - ירח במזל גדי",
+       "logo": "https://www.kan.org.il/media/bzwmxke2/ירח-במזל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_05wtzuku/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ויצמן מסכים לדגמן למיכל בשביל קורס שהיא עוברת בעיצוב אופנה. הוא מגיע אליה הביתה ומגלה שיש לה אחות שלוקה בפיגור שכלי. במקביל עידו ועומר מתחילים לפתח מערכת יחסים.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93842/",
+       "id": "93842",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 1 - מחוץ למסגרת",
+       "logo": "https://www.kan.org.il/media/cmtefuiw/מחוץ-למסגרת-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_036eje11/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "דין משתחרר ממעצר במוסד לנוער ונפגש עם קצין מבחן המציע לו לחזור לבית הספר לכיתה י\"א, שם הוא יפגוש בדנה וייאלץ להתעמת עם בני כיתתו.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93839/",
+       "id": "93839",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 4 - שווים יותר ושווים פחות",
+       "logo": "https://www.kan.org.il/media/5innhonr/שווים-יותר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5iox3te3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "איתי וקרן מנסים לפתח מערכת יחסים, אך נתקלים בקשיים בגלל התנהגותה הנוקשה של קרן והתנהגותו העדינה של איתי.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93836/",
+       "id": "93836",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 3 - קרוב רחוק חלק ב'",
+       "logo": "https://www.kan.org.il/media/raro1yjx/קרוב-רחוק-חלק-ב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_btrz5111/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עומר חווה התעללות נפשית בבית ורוצה לשרת רחוק, אך אמא שלה לא מסכימה.\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93833/",
+       "id": "93833",
+       "season": 4
+      },
+      {
+       "name": "עניין של זמן עונה 4 | פרק 2 - קרוב רחוק חלק א'",
+       "logo": "https://www.kan.org.il/media/vofgmlnk/קרוב-רחוק-א-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zgrnibik/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עומר המופנמת מבקשת לשרת רחוק מהבית, כי אמא שלה מתעללת בה נפשית. שרית מייעצת לה לפנות לעזרה פסיכולוגית מ\"נערות במצוקה\".\nשודר בשנת 1996",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s4/93830/",
+       "id": "93830",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "עניין של זמן עונה 3 | פרק 8 - אין אהבה בלי גבול",
+       "logo": "https://www.kan.org.il/media/lxsf24mv/אין-אהבה-בלי-גבול-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sc5xaofb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "דנה משתמשת בסמים, והחברים לכיתה לא מתערבים. המשטרה מגיעה לבית של דין ועוצרת אותו, בנוכחותה של דנה.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93824/",
+       "id": "93824",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 7 - לא רוצה לישון",
+       "logo": "https://www.kan.org.il/media/rj1brdrp/לא-רוצה-לישון-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s29fp7so/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "דנה מידרדרת לשימוש בסמים בהשפעתו של החבר שלה דין, שהוא \"פושר\" של סמים.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93821/",
+       "id": "93821",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 6 - פרופיל קרבי חלק ב'",
+       "logo": "https://www.kan.org.il/media/wrxdavuh/פרופיל-קרבי-ב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0mretrin/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "איתי מתלבט לגבי זהותו המינית אחרי שמציל בים מתחיל איתו.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93818/",
+       "id": "93818",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 5 - פרופיל קרבי חלק א'",
+       "logo": "https://www.kan.org.il/media/vohoom3k/פרופיל-קרבי-א-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bbh3s5n8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "במסגרת אימוני גדנ\"ע כושר קרבי, מציל בחוף הים מנסה להתחיל עם איתי. איתי המתלבט בזהותו מבקש מקרן שתצא איתו ובדרך הוא מתנפל עליה.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93815/",
+       "id": "93815",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 4 - ריבית דריבית חלק ב'",
+       "logo": "https://www.kan.org.il/media/asefq4nb/ריבית-דריבית-ב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9x2vmh8r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עידו מנסה לצאת מסתבוכת החובות שנקלע אליהם בגלל הפסדים בשש-בש.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93812/",
+       "id": "93812",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 3 - ריבית דריבית חלק א'",
+       "logo": "https://www.kan.org.il/media/weupxrz0/ריבית-דריבית-א-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cph1rlla/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עידו מסתבך בחובות עד מעל לראש בעקבות הפסדים במשחקי שש-בש. הוא לווה כסף ומתקשה להחזיר, ולבסוף פונה לאביו בבקשת עזרה.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93809/",
+       "id": "93809",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 10 - השיבה הביתה חלק ב'",
+       "logo": "https://www.kan.org.il/media/ne5pchxz/השיבה-הביתה-חלק-ב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xltmic6c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ויצמן מתקשה להתמודד עם העובדה שהוריו מתגרשים, ובורח מבית הספר ומהבית.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93806/",
+       "id": "93806",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 9 - השיבה הביתה חלק א'",
+       "logo": "https://www.kan.org.il/media/ti4bgcne/השיבה-הביתה-חלק-א-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_894q4klp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אמו ואחותו של ויצמן חוזרות לארץ ומתברר לו שהוריו מתגרשים. הוא רב עם אמו על כך שלא סיפרה לו ולבסוף בורח מבית הספר ומהבית.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93803/",
+       "id": "93803",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 2 - זהות לא ברורה",
+       "logo": "https://www.kan.org.il/media/ylghwcq1/זהות-לא-ברורה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p75glhwq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "דין, תושב חוזר מאנגליה, מגיע לכיתה ומתברר שהוא אלים ובעל עבר לא ברור ומפוקפק. מנגד איתי מתלבט בזהותו שלו.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93800/",
+       "id": "93800",
+       "season": 3
+      },
+      {
+       "name": "עניין של זמן עונה 3 | פרק 1 - שלום כיתה י\"ב",
+       "logo": "https://www.kan.org.il/media/c4dp0xmh/שלום-כיתה-יב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_62v7rwu8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הצעירים לנצח עולים סוף סוף לכיתה י\"ב. איך עבר עליהם היום הראשון ללימודים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s3/93797/",
+       "id": "93797",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "עניין של זמן עונה 2 | פרק 14 - מסיבת סיום",
+       "logo": "https://www.kan.org.il/media/3aybgoia/מסיבת-סיום-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_onapvfdp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מתי מודיע לתלמידים שהמסיבה שלהם תהיה משותפת עם השמיניסטים, וההודעה מעוררת כעס ומהומה בכיתה.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93794/",
+       "id": "93794",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 12 - זה לא אישי",
+       "logo": "https://www.kan.org.il/media/1wdb0cjb/זה-לא-אישי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w1gtvi1q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מאבק מילולי מתפתח למאבק פיזי בין חלק מהתלמידים לקבוצת דתיים, על רקע בקשת העירייה להעביר את הבזאר של הכיתה מיום שישי למוצאי שבת.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93791/",
+       "id": "93791",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 11 - לא בבית ספרנו",
+       "logo": "https://www.kan.org.il/media/3mule1gl/לא-בבית-סיפרנו-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fbqtp0r8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ניר המופנם מתאהב בליאורה, ספרנית חדשה בבית הספר. מתי מגלה את היחסים הנרקמים ביניהם ודואג שליאורה תתפטר ותורחק מבית הספר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93788/",
+       "id": "93788",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 2 - אף הגה",
+       "logo": "https://www.kan.org.il/media/3xkbmj33/אף-הגה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kksvugvt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "תלמיד חדש ושמו סער נחשד במכת הגנבות, חקירת העניין מובילה לגילוי סוד אפל.\nשודר בשנת 1993",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93785/",
+       "id": "93785",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 13 - החבר של החברה שלי",
+       "logo": "https://www.kan.org.il/media/buem1mey/החבר-של-החברה-שלי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vd4pw5p6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לכיתה מגיעה תלמידה חדשה המתקשה להתאקלם, ונוגה מוצמדת אליה כחונכת. היחסים של שרון ועידו עולים על שרטון, ודנה תקועה באמצע.\nשודר בשנת 1994",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93782/",
+       "id": "93782",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 3 - איידס זה לא רק מילה",
+       "logo": "https://www.kan.org.il/media/y5ol2o0s/איידס-זו-לא-רק-מילה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rvcneofs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בעקבות חבר שנדבק באיידס, וייצמן נזכר בתיירת מזדמנת שהוא היה איתה, ומתעורר בו חשש. \nשודר בשנת 1993",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93779/",
+       "id": "93779",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 8 - הנסיך על הסוס חלק ב'",
+       "logo": "https://www.kan.org.il/media/kraaeg1f/הנסיך-על-הסוס-ב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rymsw7ua/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "רומן הולך ונרקם בין ליאור ונוגה, מנגד מתפתח \"חיזור גורלי\" בין מתי וטלי המדריכה. ההתנהגות הפרועה של הכיתה מגיעה לשיאה כשהחבר'ה סוחבים תרנגולת מהלול, והקיבוץ מחליט לסלקם.\nשודר בשנת 1993",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93776/",
+       "id": "93776",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 7 - הנסיך על הסוס חלק א'",
+       "logo": "https://www.kan.org.il/media/o5umd0a2/הנסיך-על-הסוס-א-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zfpcdzgh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הכיתה יוצאת למחנה בקיבוץ, ותומר מתנגד ליציאה לעבודה ללא תשלום. עידו ושרון מתכננים להיות יחד בלילה. הבנות פוגשות את ליאור, האחראי על האורווה, ונוגה נדלקת עליו.\nשודר בשנת 1993",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93773/",
+       "id": "93773",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 6 - עובר ושב",
+       "logo": "https://www.kan.org.il/media/sjygm4of/עובר-ושב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g3ijlhzl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "תומר מתאהב בבחורה עשירה ובניסיון להרשים אותה הוא נכנס למערבולת שקרים וחושב לעזוב את בית הספר כדי להרוויח יותר כסף",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93770/",
+       "id": "93770",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 5 - תמונת מצב",
+       "logo": "https://www.kan.org.il/media/1u1li0br/תמונת-מצב-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_joz2l37p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לאבא של שרון אין כסף לתת לה לטיול של בית הספר. היא מתפתה להצטלם למגזין אופנה תמורת כסף, אבל הצלם מטריד אותה מינית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93767/",
+       "id": "93767",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 1 - מבחן כושר",
+       "logo": "https://www.kan.org.il/media/cowpldjp/מבחן-כושר-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3f3nbop0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אלון יורד להקבצה נמוכה במתמטיקה ומחליט לפעול נגד שיטת הציונים שאינה מתחשבת בתלמידים. במקרה הוא נתקל בקלטת של טרטורים בגולני, וקושר בין שני הנושאים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93764/",
+       "id": "93764",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 9 - נחיתת עונש",
+       "logo": "https://www.kan.org.il/media/3kyd5cjr/נחיתת-עונש-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ik3x6099/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "איתי חוזר מחו\"ל עם אביו לאחר שהייה ממושכת. הקליטה המחודשת קשה לו והוא מתלבט אם לחזור לארה\"ב לאמו שנשארה שם.\nשודר בשנת 1993",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93758/",
+       "id": "93758",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 4 - אמת או חובה",
+       "logo": "https://www.kan.org.il/media/x03fcuf2/אמת-או-חובה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_20bqnbug/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "החבורה משחקת \"אמת או חובה\" ומעלה זיכרונות משנת הלימודים שהסתיימה. פרק מסכם לדמויות ולהתרחשויות שעברו עליהן ב-12 הפרקים הקודמים.\nשודר בשנת 1993",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93755/",
+       "id": "93755",
+       "season": 2
+      },
+      {
+       "name": "עניין של זמן עונה 2 | פרק 10 - עומדים במבחן",
+       "logo": "https://www.kan.org.il/media/2r3fviau/עומדים-במבחן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jxbsry52/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מה קורה כשוויצמן כועס על החבר'ה ומשתף את תומר בגנבת טופס בחינה? שרשרת האירועים יוצאת משליטה.\nשודר בשנת 1993",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s2/93746/",
+       "id": "93746",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עניין של זמן עונה 1 | פרק 1 - אחת מהחבר'ה",
+       "logo": "https://www.kan.org.il/media/otmjicfd/אחת-מהחברה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_77rgnvg1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שרון לא מצליחה להתמודד עם הלחץ החברתי בכיתה, אבא שלה מובטל והמצב הכלכלי בבית קשה. היא בורחת מהבית ומעוררת את הדאגה של כולם.\nשודר בשנת 1992",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/s1/93713/",
+       "id": "93713",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "עניין של זמן | פתיח",
+       "logo": "https://www.kan.org.il/media/4rthbxku/עניין-של-זמן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m7a6n2xe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח המיתולוגי של ''עניין של זמן'' בביצועו של גידי גוב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-11433/861447/",
+       "id": "861447"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

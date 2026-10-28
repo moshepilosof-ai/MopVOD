@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הצלחת של הארץ המובטחת",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-809611/",
+   "series_id": "809611",
+   "updated": "2026-10-28 10:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הצלחת של הארץ המובטחת | פרק 5 - סיר הבשר",
+       "logo": "https://www.kan.org.il/media/4nybit30/פרק-5-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zs0chmm7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-07",
+       "plot": "דרך ארוכה עבר העם היהודי עם הבשר: מצמחונות ועד לכוכב פולחן הקורבנות וסמל השחיתות של ההון והשלטון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-809611/s1/809622/",
+       "id": "809622",
+       "season": 1
+      },
+      {
+       "name": "הצלחת של הארץ המובטחת | פרק 4 - שער הדגים",
+       "logo": "https://www.kan.org.il/media/bh5dltyq/פרק-4-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2098556/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-07",
+       "plot": "תעשיית הדיג המקראית המשגשגת סביב הכנרת במאה ה-1 לספירה דגה את הרב הגלילי ישוע - היהודי המשפיע בעולם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-809611/s1/809621/",
+       "id": "809621",
+       "season": 1
+      },
+      {
+       "name": "הצלחת של הארץ המובטחת | פרק 3 - תגלגל עמי בעדשים",
+       "logo": "https://www.kan.org.il/media/forhmjyy/פרק-3-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kymgvzgz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-07",
+       "plot": "הפעם השף אסף דוקטור וד\"ר ג׳רמי פוגל יצעדו בשביל הקטניות - מלכות החלבון של העת העתיקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-809611/s1/809618/",
+       "id": "809618",
+       "season": 1
+      },
+      {
+       "name": "הצלחת של הארץ המובטחת | פרק 2 - עשב ירוק לאכלה",
+       "logo": "https://www.kan.org.il/media/0bodpxxs/פרק-2-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vyt37onh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-07",
+       "plot": "איזה ירקות אכלו פה לפני בואה של העגבנייה ואיך שינו הרומאים את מפת הסלט המקומי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-809611/s1/809617/",
+       "id": "809617",
+       "season": 1
+      },
+      {
+       "name": "הצלחת של הארץ המובטחת | פרק 1 - כד הקמח",
+       "logo": "https://www.kan.org.il/media/00nnu02y/פרק-1-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_torg083e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-07",
+       "plot": "כך נפרד אלוהים מאדם בגן העדן וקושר את החיים עצמם עם הלחם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-809611/s1/809616/",
+       "id": "809616",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הצלחת של הארץ המובטחת - הצצה",
+       "logo": "https://www.kan.org.il/media/tfshsrax/1920x1080_no-logo_הצלחת-של-הארץ-המובטחת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2084077/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-18",
+       "plot": "השף אסף דוקטור וד\"ר ג׳רמי פוגל יוצאים למסע מחקר קולינרי מחויך בעקבות התפריט היהודי הקדום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-809611/990785/",
+       "id": "990785"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - סיעור מוחות בבית הנשיא",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1099340/",
+   "series_id": "1099340",
+   "updated": "2026-10-28 12:38",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרק חמישי | חינוך",
+       "logo": "https://www.kan.org.il/media/k44nfuoa/bb08008391.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244191/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "שר החינוך גדעון סער, מוטי אלמליח, חילי טרופר, איבתיסאם עזאיזה, הדר שומן, אבי שולמן ופרופ' דן בן דוד, נפגשים עם הנשיא פרס לשיחה לקראת פתיחת שנת הלימודים, על מערכת החינוך בישראל - מצבה כיום והאתגרים העומדים בפני המערכת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1099340/s1/1098112/",
+       "id": "1098112",
+       "season": 1
+      },
+      {
+       "name": "פרק רביעי | תעשיות העתיד",
+       "logo": "https://www.kan.org.il/media/1epleu0m/bb07649444.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244188/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "ד\"ר יעל מרגולין, ד\"ר ברק הרשקוביץ, פרופ' אריה צבן, פרופ' גל קמינקא, בוקי אורן וד\"ר אורן צוקרמן נפגשים עם הנשיא פרס לשיחה על תעשיות המבוססות על חדשנות טכנולוגית, פיתוחים בתחומי האנרגיה המים תאי הגזע החינוך וההגנה מפני טרור, ויכולתם לשנות את פני המשק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1099340/s1/1098107/",
+       "id": "1098107",
+       "season": 1
+      },
+      {
+       "name": "פרק שלישי | דור העתיד",
+       "logo": "https://www.kan.org.il/media/slwfivbb/bb07898595.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244183/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "רוביק דנילוביץ', רואי פז, ד\"ר רעיה ליבוביץ, אורי דסאו, מהא זחאלקה מסאלחה, ברק בן אליעזר ומתן דהן, צעירים מובילים בתחומי העשייה הציבורית המדע התרבות והחברה, נפגשים עם הנשיא פרס לשיחה על הדור הצעיר ותפקידו בעיצוב פניה של החברה הישראלית בעתיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1099340/s1/1098082/",
+       "id": "1098082",
+       "season": 1
+      },
+      {
+       "name": "סיעור מוחות בבית הנשיא | דו קיום",
+       "logo": "https://www.kan.org.il/media/g43hlcbq/sb07661543.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244182/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "רס\"ן אליאס כראם, ד\"ר שכורי עוואדה, ראדה מסרואה, הרב רונן לוביץ', פרופ' אהוד גזית ורון שני, נפגשים עם הנשיא פרס לשיחה על היחסים בין יהודים לערבים בערים המעורבות, בעקבות המהומות בעכו ביום הכיפורים. האתגרים והדרכים לקידום דו-קיום בין האוכלוסיות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1099340/s1/1098080/",
+       "id": "1098080",
+       "season": 1
+      },
+      {
+       "name": "פרק ראשון | עתיד המדע",
+       "logo": "https://www.kan.org.il/media/lekdimnw/be10729210.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2244181/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-09",
+       "plot": "פרופ' אשל בן יעקב, ד\"ר איתי ברוכין, ד\"ר שולמית לבנברג ופרופ' חוסאם חייק נפגשים עם הנשיא פרס לשיחה על עתיד המדע בישראל -  בריחת המוחות, מערכת החינוך וההשכלה הגבוהה, סדרי העדיפויות של המדינה ומקומה של ישראל בעולם המדעי של המחר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1099340/s1/1098078/",
+       "id": "1098078",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "סיעור מוחות בבית הנשיא | טריילר",
+       "logo": "https://www.kan.org.il/media/sxwfkvkn/640x360-169-no-logo-סיעור-מוחות-בבית-הנשיא.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245986/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1099340/1099735/",
+       "id": "1099735"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

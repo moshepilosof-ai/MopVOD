@@ -1,0 +1,188 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - המסעדה הגדולה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-882497/",
+   "series_id": "882497",
+   "updated": "2026-10-28 09:58",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "המסעדה הגדולה עונה 2 | פרק 3 - זה היה רצח - חלק ב'",
+       "logo": "https://www.kan.org.il/media/u4xitvqz/207-rb10026057_big-restaurant_se2epsp_retzach-_b.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vg4a7l25/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-20",
+       "plot": "בזמן שהריקודים ממשיכים, צוות אבו ראמי חייב לפענח את תעלומת הרצח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s2/887699/",
+       "id": "887699",
+       "season": 2
+      },
+      {
+       "name": "המסעדה הגדולה עונה 2 | פרק 2 - זה היה רצח - חלק א'",
+       "logo": "https://www.kan.org.il/media/3mclss0q/206-bi19114109_big-restaurant_se2epsp_retzach-_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0ptn6iww/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-20",
+       "plot": "דווקא בעיצומה של תחרות ריקודים בין-לאומית נמצאת במטבח המסעדה גופה, מי הרוצח? ולאן הגופה שוב נעלמה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s2/887696/",
+       "id": "887696",
+       "season": 2
+      },
+      {
+       "name": "המסעדה הגדולה עונה 2 | פרק 5 - כל מאהביה",
+       "logo": "https://www.kan.org.il/media/u2nnsq0v/204-bi29114108_big-restaurant_se2epsp_meahavim-_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_76hh57aj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-20",
+       "plot": "אורחת מסתורית מזמינה למסעדה שלושה חתנים פוטנציאליים ויש לה דרך מפתיעה במיוחד לגלות מי מהם הראוי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s2/887692/",
+       "id": "887692",
+       "season": 2
+      },
+      {
+       "name": "המסעדה הגדולה עונה 2 | פרק 1 - מצלמים סרט",
+       "logo": "https://www.kan.org.il/media/gpqfji5x/be10328476.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xzs6cyet/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-20",
+       "plot": "המסעדה הופכת לסט צילומים של סרט אמריקאי ועובדי המסעדה זוממים להפוך לכוכבי הוליווד הבאים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s2/887690/",
+       "id": "887690",
+       "season": 2
+      },
+      {
+       "name": "המסעדה הגדולה עונה 2 | פרק 4 - המעריצות",
+       "logo": "https://www.kan.org.il/media/4pchbb1y/203-oe17012933_big-restaurant_se2epsp_abdu.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6xvjk9ou/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-17",
+       "plot": "בלגן גדול לאחר שעבדו מככב בתוכנית שירה בטלוויזיה והמעריצות צובאות על דלתות המסעדה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s2/887088/",
+       "id": "887088",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 1 - פתיחה חגיגית",
+       "logo": "https://www.kan.org.il/media/lksdddyu/המסעדה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9th6nyq6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-20",
+       "plot": "אילנית וחיים משה מגיעים למסעדה לתת הופעה והצוות מאחורי הקלעים מנסה לא לפשל באירוע הגדול",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/887688/",
+       "id": "887688",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 9 - במזל אחים - חלק ב'",
+       "logo": "https://www.kan.org.il/media/fhtndgwo/mb06305251_מזלאחיםב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2grax1p2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-20",
+       "plot": "למסעדה מגיע אנטואן - אחיו התאום והעשיר של השף חכים. דברים מתחילים להסתבך כששני אלה מחליטים להחליף תפקידים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/887596/",
+       "id": "887596",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 3 - לסעוד לבד",
+       "logo": "https://www.kan.org.il/media/uybnpc21/oi15301595_לסעוד-לבד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uko9dya1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-17",
+       "plot": "הצוות משתף פעולה עם סועדת פגועה, ומבשל תרגיל לבעל שמגיע עם אישה אחרת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/887009/",
+       "id": "887009",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 10 - ספונג'ה",
+       "logo": "https://www.kan.org.il/media/jqfbmtp1/המסעדה-הגדולה-30111985.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_avpwu6dv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "המסעדה צריכה ניקיון דחוף ומלשכת העבודה נשלחת אישה למילוי המשימה, איך תתקבל העובדת החדשה בקרב צוות המסעדה? שודר בשנת 1985",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/886892/",
+       "id": "886892",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 8 -  במזל אחים - חלק א'",
+       "logo": "https://www.kan.org.il/media/r5yg2ims/oi15301654_מזלאחיםא.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_phxdkgok/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "למסעדה מגיע אנטואן - אחיו התאום והעשיר של השף חכים. דברים מתחילים להסתבך כששני אלה מחליטים להחליף תפקידים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/886890/",
+       "id": "886890",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 7 - ידידת הקצין",
+       "logo": "https://www.kan.org.il/media/4uhjimph/be20291013_ידידתקצין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y7hycmoa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "התרגשות לקראת תצוגת אופנה במסעדה, הרוחות מתלהטות כשמאחורי הקלעים מתרחשת תחרות אכילת פלפל חריף על ליבה של מארגנת התצוגה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/886889/",
+       "id": "886889",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 6 - רוחות רפאים",
+       "logo": "https://www.kan.org.il/media/kysod01x/oi15301653_רוחות-רפאים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sjn46wgd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "סדרת אירועים לא שגרתית יוצרת מהומה ולחץ בקרב חברי הצוות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/886888/",
+       "id": "886888",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 5 - אהבה אילמת",
+       "logo": "https://www.kan.org.il/media/bsfn4r2n/oi15301381_אהבהאילמת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_90ez6twz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "מערוף, המלצר האילם, מתאהב באורחת של המסעדה ולא מצליח לעשות שום דבר כשורה. האם יצליח לכבוש את ליבה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/886887/",
+       "id": "886887",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 4 - נערות נערות",
+       "logo": "https://www.kan.org.il/media/ygdb1qfx/oi15301594_נערות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sqbqb665/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "עבדו מסתבך כשמתחזה לבעל המסעדה כדי להרשים בחורה, אך מה קורה כשלמסעדה מגיעות כמה בחורות שחיזר אחריהן?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/886886/",
+       "id": "886886",
+       "season": 1
+      },
+      {
+       "name": "המסעדה הגדולה עונה 1 | פרק 2 - תינוק בארוחת בוקר",
+       "logo": "https://www.kan.org.il/media/l02aieka/be10630483_תינוק-בארוחת-הבוקר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zyqiie86/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "כשתינוקת מסתורית מופיעה בעגלה במסעדה – הצוות מטפל בה במטבח, מחפש את ההורים ונלחץ משני מבקרים חטטנים שעלולים לסגור את המקום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/s1/886841/",
+       "id": "886841",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "המסעדה הגדולה | פתיח",
+       "logo": "https://www.kan.org.il/media/nq2csrdl/המסעדה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0f0hauto/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-22",
+       "plot": "הפתיח המיתולוגי של ''המסעדה הגדולה''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-882497/910989/",
+       "id": "910989"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

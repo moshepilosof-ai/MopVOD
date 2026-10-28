@@ -1,0 +1,151 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חזרות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13081/",
+   "series_id": "13081",
+   "updated": "2026-10-28 11:14",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חזרות | פרק אחרון לעונה",
+       "logo": "https://www.kan.org.il/media/3cljpetk/https-kanstaticazureedgenet-download-pictures-2022-10-16-imgid-83427_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7yuptbxr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הגיע יום הפרמיירה - ההצגה עולה. האם תומר יגיע? האם עפר יתמודד עם הלחץ? האם מיה סוף סוף תעשה תפקיד ראשי? כך או אחרת, תיכף המסך עולה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117942/",
+       "id": "117942",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 9",
+       "logo": "https://www.kan.org.il/media/j3hf2y2m/https-kanstaticazureedgenet-download-pictures-2021-1-4-imgid-44844_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_88m2sqqg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איריס ותומר הולכים לגישור לאחר שהוא מאיים בצו מניעה על עליית ההצגה. בינתיים החזרות עם הבמאי המחליף ממשיכות, כשעפר מגיע לתחתית ומיה רק רוצה להיות שחקנית טובה יותר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117939/",
+       "id": "117939",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 8",
+       "logo": "https://www.kan.org.il/media/e0qhaqxt/https-kanstaticazureedgenet-download-pictures-2020-12-28-imgid-44406_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jcbzlusy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שבוע טכני מתחיל: עליית ההצגה מתקרבת והמתח בין תומר לאיריס מגיע לשיא. עפר מגלה גילוי מפתיע, ומיה מחליטה להתגרות בגורל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117937/",
+       "id": "117937",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 7",
+       "logo": "https://www.kan.org.il/media/hjejqzlo/https-kanstaticazureedgenet-download-pictures-2020-12-21-imgid-44042_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8fuuygax/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ורה מגיעה לראות חזרה של \"אחד פלוס אחת\", ומביאה איתה אורחים חשובים מבלי לעדכן את תומר. איריס ועפר ברומן סוער. כולם בסוף נפגשים ברחבת הריקודים בחתונה של מיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117935/",
+       "id": "117935",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 6",
+       "logo": "https://www.kan.org.il/media/soycdb3h/https-kanstaticazureedgenet-download-pictures-2020-12-14-imgid-43677_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tdhrfqgf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שרת התרבות (גילה אלמגור) יושבת באולם, רק שאף אחד לא יודע איפה מיה גוטמן וההצגה כבר היתה אמורה להתחיל מזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117933/",
+       "id": "117933",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 5",
+       "logo": "https://www.kan.org.il/media/gujjgcup/https-kanstaticazureedgenet-download-pictures-2020-12-10-imgid-43487_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pawj9j8q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תומר רוצה לצאת לדייט עם עוזרת-הבמאי האוסטרי, אבל אין לו בית כדי לארח אותה. איריס מצידה מחליטה לבדוק מה קורה בטינדר ונעזרת במומחה - עפר מרציאנו. מיה מחליטה להכניס קצת דרמה לחיים שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117931/",
+       "id": "117931",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 4",
+       "logo": "https://www.kan.org.il/media/gv3lyiji/https-kanstaticazureedgenet-download-pictures-2020-11-25-imgid-42665_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cae13m03/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איריס לא באה לחזרות. עפר ומיה נכנסים לפסים אישיים מדי, ותומר נאלץ להתמודד עם הבמאי הנערץ עליו, שלקח לו את הספה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117929/",
+       "id": "117929",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 3",
+       "logo": "https://www.kan.org.il/media/sl4jratd/https-kanstaticazureedgenet-download-pictures-2020-11-23-imgid-42549_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a4d23hat/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מתחילים חזרות, אבל ברגל שמאל: הפערים בין מיה לאיריס לא ניתנים לגישור, עפר שולח לאיריס תמונה מפתיעה, והיום נגמר בפיצוץ.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117927/",
+       "id": "117927",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 2",
+       "logo": "https://www.kan.org.il/media/t3ph0wko/https-kanstaticazureedgenet-download-pictures-2020-11-19-imgid-42394_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9r4v43jo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תומר מנסה לשכנע את איריס לעשות את הפרוייקט, למרות הפרידה. מיה ועפר מלוהקים להצגה, אבל מסרבים להשתתף, כל אחד מהסיבות שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117925/",
+       "id": "117925",
+       "season": 1
+      },
+      {
+       "name": "חזרות | פרק 1",
+       "logo": "https://www.kan.org.il/media/2vof1n4p/https-kanstaticazureedgenet-download-pictures-2020-11-12-imgid-41976_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_817geznm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "קומדיה (לא) רומנטית על זוג יוצרי תיאטרון (נועה קולר וארז דריגס) שנאלצים לעבוד יחד לאחר משבר זוגי. אליהם מצטרפים צמד כוכבי טלוויזיה אגואיסטים (אגם רודברג ואיתי תורג'מן), שרק מסבכים את העניינים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/s1/117923/",
+       "id": "117923",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חזרות | טריילר",
+       "logo": "https://www.kan.org.il/media/hpfj0onb/https-kanstaticazureedgenet-download-pictures-2020-11-1-imgid-41404_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dv7b7kgn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "קומדיה (לא) רומנטית על זוג יוצרי תיאטרון שנאלצים לעבוד ביחד אחרי פרידה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/866174/",
+       "id": "866174"
+      },
+      {
+       "name": "חזרות - הצצה | טעות בליהוק",
+       "logo": "https://www.kan.org.il/media/hwclkr2r/חזרות-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j54ll6qm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "הליהוק למחזה בעיצומו, אבל איריס לא ממש מרוצה מהבחירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/855965/",
+       "id": "855965"
+      },
+      {
+       "name": "חזרות - הצצה | אני נינה",
+       "logo": "https://www.kan.org.il/media/5oodwdoh/חזרות-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kl7p0u3r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "ורה לא חושבת שמיה מתאימה לגלם את התפקיד של נינה במחזה \"השחף\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13081/855955/",
+       "id": "855955"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

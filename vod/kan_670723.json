@@ -1,0 +1,78 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בבית של פיסטוק",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670723/",
+   "series_id": "670723",
+   "updated": "2026-10-28 09:30",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "בבית של פיסטוק 3 | פרק 1 - יום ירושלים",
+       "logo": "https://www.kan.org.il/media/rsqjxwz2/webפיסטוק-יום-ירושלים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vr7u39v4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פיסטוק מתכונן לבקר את הדודה חנה שגרה בירושלים, אך הביקור מתבטל בגלל מחלת הדודה. כשרגע מספר לו על המנהג להתפלל ליד הכותל להחלמת קרובים, עולים שניהם לירושלים ופוגשים דמות מן העבר שמספרת להם את תולדות העיר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670723/s3/672810/",
+       "id": "672810",
+       "season": 3
+      },
+      {
+       "name": "בבית של פיסטוק 3 | פרק 2 - פיסטוק עובר דירה",
+       "logo": "https://www.kan.org.il/media/5kgnzanc/webפיסטוק-עובר-דירה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i6hnk8yx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "פיסטוק מתפתה לפרסומות שהוא שומע ברדיו על בניינים חדשים, רבי-קומות נוצצים, ומחליט לעבור דירה. לא עוד דירה מיושנת, כי אם רב-קומות עם ארבע מעליות ונוף עירוני הומה ורועש",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670723/s3/672807/",
+       "id": "672807",
+       "season": 3
+      },
+      {
+       "name": "בבית של פיסטוק 3 | פרק 3 - פיסטוק לומד לעוף",
+       "logo": "https://www.kan.org.il/media/kkikvwgd/webפיסטוק-לעוף.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gkcyb794/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "החורף מגיע ופיסטוק רואה להקת ציפורים עפות לארצות החמות ומתעורר בו חשק עז להצטרף אליהן. אך כיצד עפים? פיסטוק ורגע עורכים ניסיונות שונים ומשונים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670723/s3/672803/",
+       "id": "672803",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בבית של פיסטוק | פרק 1 - אצל פיסטוק",
+       "logo": "https://www.kan.org.il/media/orkbvkeh/אצל-פיסטוק-web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_axllfhql/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בגלל חילוקי דעות קלים עם דודלי, מחליט רגע לעבור לגור עם פיסטוק. אולם, תוך זמן קצר מתברר לרגע שאומנם נחמד לגור עם פיסטוק, אך אצל דודלי טוב הרבה יותר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670723/s1/672847/",
+       "id": "672847",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בבית של פיסטוק | פתיח",
+       "logo": "https://www.kan.org.il/media/qtvfiv32/הבית-של-פיסטוק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd1cyac4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "הפתיח הבלתי נשכח של סדרת הקאלט ''בבית של פיסטוק''",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670723/861614/",
+       "id": "861614"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

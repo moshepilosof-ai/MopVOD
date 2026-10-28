@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - אואזיס במדבר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-981680/",
+   "series_id": "981680",
+   "updated": "2026-10-27 21:28",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אואזיס במדבר | פרק 5 - ירון ודנית",
+       "logo": "https://www.kan.org.il/media/bldfjzbp/פרק-5-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2070826/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "ירון מתכנן להציע נישואין לרקפת אחרי 7 שנות זוגיות. הוא משתף את דנית, המנקה החטטנית, שעושה כל שביכולתה כדי להרוס את ההצעה ולנסות לזכות בירון לעצמה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-981680/s1/984743/",
+       "id": "984743",
+       "season": 1
+      },
+      {
+       "name": "אואזיס במדבר | פרק 4 - גדעון ודליה",
+       "logo": "https://www.kan.org.il/media/cpnflf3a/פרק-4-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2064233/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "גדעון ודליה, זוג פנסיונרים חביבים, חוגגים 40 שנות נישואין בצימר. גדעון מנסה להחיות את התשוקה, אך דליה עסוקה בתחזוקת הצימר. מפגש עם זוג היפים מהצימר השכן מפנה את תשומת הלב לכך שהחיים יכולים להיות אחרת, והם מוצאים מחדש את החיבור ביניהם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-981680/s1/984742/",
+       "id": "984742",
+       "season": 1
+      },
+      {
+       "name": "אואזיס במדבר | פרק 3 - מאור וקארין",
+       "logo": "https://www.kan.org.il/media/iw0kj1ym/פרק-3-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2053443/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "מאור וקארין מנהלים רומן סודי. הם מגיעים לצימר לממש את אהבתם הלא חוקית. העניינים מסתבכים כשרונן, ראש ארגון פשע ובעלה של קארין, מגיע לצימר בהפתעה והרומן הסודי נחשף",
+       "page": "https://www.kan.org.il/content/dig/digital/p-981680/s1/984741/",
+       "id": "984741",
+       "season": 1
+      },
+      {
+       "name": "אואזיס במדבר | פרק 2 - סולי וחופית",
+       "logo": "https://www.kan.org.il/media/dlubkzyy/פרק-2-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025747/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "ביום החתונה של חופית ומייקל בצימר המדברי \"אואזיס\", האקס המיתולוגי, סולי, מגיע במפתיע, וחופית מתחילה לפקפק בהחלטותיה. היא צריכה לבחור בין החיים הנוחים עם מייקל לבין חיי חופש והרפתקאות עם סולי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-981680/s1/984740/",
+       "id": "984740",
+       "season": 1
+      },
+      {
+       "name": "אואזיס במדבר | פרק 1 - איתי ושליו",
+       "logo": "https://www.kan.org.il/media/twffqpkz/פרק-1-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025739/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "איתי ושליו הם צמד מוזיקאים שמגיעים לאואזיס להקליט חומר חדש. אחרי ששליו מקבל הזמנה אישית להופיע בפסטיבל מוזיקה, הם נפרדים זמנית וכל אחד ממשיך בדרכו עם מוזיקאי אחר, ורק אז - שליו מבין את הכוח שלהם ביחד. בערך, ביחד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-981680/s1/984739/",
+       "id": "984739",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "אואזיס במדבר | הצצה",
+       "logo": "https://www.kan.org.il/media/bldfjzbp/פרק-5-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026651/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-01",
+       "plot": "ברוכים הבאים לצימר הכי מטורלל בדרום: גיה באר גורביץ' ויוגב יפת בסדרת רשת חדשה עם דמויות מופרעות ואורחים מפתיעים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-981680/985867/",
+       "id": "985867"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תכנית מוזיקה ואירוח עם שמעון פרנס",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1080443/",
+   "series_id": "1080443",
+   "updated": "2026-10-28 13:41",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שישי בטברנה | פרק 26 - ספיישל טריפונס",
+       "logo": "https://www.kan.org.il/media/lzonxt1t/טריפונס-1999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2248994/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-24",
+       "plot": "ערב הוקרה חגיגי לנגן הבוזוקי והזמר הקפריסאי. טריפונס עולה לבמה לביצועים מרגשים למיטב להיטיו יחד עם זמרים ואורחים נוספים, ובהם שלומי סרנגה, מגי כהן ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1102589/",
+       "id": "1102589",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 37 - סיום עונה בפסטיבל ערד",
+       "logo": "https://www.kan.org.il/media/ywhde4jd/יהורם-גאון-ושמעון-פרנס-פרק-37.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246033/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-17",
+       "plot": "לכבוד התכנית האחרונה לעונה, מיטב הזמרים נפגשים בפסטיבל ערד למחווה חגיגית לזמר העברי. יהורם גאון, מבצע את להיטיו \"רוזה\", \"עוד לא אהבתי די\" ו-\"שלום לך ארץ נהדרת\" וזוכה למחווה מיוחדת לשיריו. יהורם גם מבצע דואטים מיוחדים עם צביקה פיק ל-\"אלף נשיקות\", ועם אביהו מדינה ל-\"מה אומרות עינייך\". וגם, לסיום מרענן ומצחיק מגיעים מיקי קם וישראל קטורזה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1100652/",
+       "id": "1100652",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 36 - ערב של חיבורים",
+       "logo": "https://www.kan.org.il/media/t4pjufed/אהובה-עוזרי-פרק-36.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246032/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-17",
+       "plot": "לפני קו הסיום, שמעון והחברים נפגשים לערב של מוזיקה והומור. אלי יצפאן ומאיר סוויסה עם קטעים מצחיקים מתוך המופע \"הפעימה השנייה\". אהובה עוזרי מרגשת בנגינתה ושרה את \"אימי אימי\" ו\"עמק הפרחים\". וגם ביצועים שמחברים בין המזרח והמערב של ישי לוי ל-\"תפוחים ותמרים\" ונמרוד לב ל-\"את לי לילה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1100651/",
+       "id": "1100651",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 34 - קריאה בקפה",
+       "logo": "https://www.kan.org.il/media/1hlfjv1t/עמיר-בניון-ושלומי-שבת-פרק-34.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-17",
+       "plot": "מחווה מיוחדת ללהיטיו הגדולים של יוני רועה עם נאוה מדינה, עופרי סאלם, נתנאל וזרח. עמיר בניון חוזר לטברנה ומבצע את \"רק את\", וחובר לשלומי שבת בדואט מרגש ל\"מן החושך חזרתי\". וגם: הקוראת בקפה סנא תנסה להבין מה יקרה בעתיד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1100650/",
+       "id": "1100650",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 33 - עושים סולחה",
+       "logo": "https://www.kan.org.il/media/44pdrb5v/שימי-תבורי-מרגלית-צנעני-אלי-לוזון-פרק-33.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246021/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-17",
+       "plot": "פותחים במחווה חגיגית לננסי ברנדס וללהיטים הגדולים בהפקתו במחרוזת של שימי תבורי, אלי לוזון ומרגלית צנעני שגם עושה סולחה עם ננסי בשיר משותף. אלי לוזון, יבגני שפובלוב ושימי תבורי בגרסה ישראלית לשלושת הטנורים, והזמר הצעיר גלעד שמואלי במחרוזת משירי אייל גולן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1100647/",
+       "id": "1100647",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 32 - ערב רוק, פופ ומוזיקה אתנית",
+       "logo": "https://www.kan.org.il/media/znjewjjq/ירון-חדד-פרק-32.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246016/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-17",
+       "plot": "חוגגים כהלכתו בערב מגוון במיוחד עם הצ'רצ'ילים במחרוזת רוק של הביטלס ולד זפלין, ירון חדד מקפיץ עם הלהיט \"זודיאק\" ומשפחת אלייב עם \"בבוכרה היפה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1100646/",
+       "id": "1100646",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 35 - חגיגה קיצית",
+       "logo": "https://www.kan.org.il/media/c5qfxsvn/זאב-נחמה-פרק-35.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246025/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-17",
+       "plot": "חגיגה קיצית עם להקת אתניקס שמגיעה להרים את האולפן. חיים משה עם \"איזו מן אישה\" לצד רקדניות בטן ובהן אירית רחמים הצעירה, ושר דואט עם אחותו גאולה לשיר \"ציפור הנפש\". איחוד מיוחד לכבוד שבוע הזמר העברי: ירדנה ארזי, מיקה קרני, אלי לוזון ויוני רועה בביצוע משותף של \"שיר ישראלי\". וגם: מני פאר עובר מבחן טעימת יין",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1100645/",
+       "id": "1100645",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 31 - טברנה אחת לעם אחד",
+       "logo": "https://www.kan.org.il/media/2f2ph5bd/שלומית-אהרון-פרק-31.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245844/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-15",
+       "plot": "חגיגה ישראלית ויוונית בטברנה, גליקריה חוזרת עם קלאסיקות יווניות, ושמעון פרנס מפתיע אותה בשידור עם אלבום פלטינה. שלומית אהרון מרגשת עם \"כולם יודעים\" ו\"בדד\", וגם: מערכון של רן לוי, רון שלום וזבולון מושיאשוילי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1099886/",
+       "id": "1099886",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 30 - חגיגות ניצחון",
+       "logo": "https://www.kan.org.il/media/kztbsvy5/גובאני-רוסו-ושחקני-הפועל-חיפה-בחגיגות-ניצחון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245841/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "שחקני הפועל חיפה, אלופי המדינה בכדורגל לשנת 1999, מגיעים לחגוג באולפן ויחד עם אבי פרץ מבצעים את המנון הקבוצה \"אדום עולה עולה\". מאיר בנאי וארקדי דוכין במפגש פסגה עם \"דומינו\" ו-\"אהבה קצרה\", ורקדנית הפלמנקו כרמל נתן-שלי מציגה ריקוד מרהיב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1099458/",
+       "id": "1099458",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 29 - ספיישל בחירות 99'",
+       "logo": "https://www.kan.org.il/media/mmqjd4yu/פרק-29-עובדי-הערוץ-הראשון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239145/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "לרגל בחירות 99' ורגע לפני המדגם, נבחרת החדשות של ערוץ 1, בינהם חיים יבין, דוד ויצטום ורפיק חלבי מתכנסת לערב של מוזיקה, בידור וריקודים. ירדנה ארזי מרגשת עם \"היא רוקדת\" ו\"כשהשמש תעבור עלי\", להקת שבע מביאה את \"סאלאם\", ודקלון במחרוזת. לקינוח: דוד ויצטום מצטרף ללהקת הבית עם הצ'לו לביצוע מיוחד של \"נעימת השיכורים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1099456/",
+       "id": "1099456",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 28 - ברכה של עונג שבת",
+       "logo": "https://www.kan.org.il/media/vhmk5nhx/מיקי-גבריאלוב-פרק-28.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239140/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "חגיגת עונג שבת עשירה במוזיקה עם מיקי גבריאלוב שמרגש ומקפיץ עם \"הופ הופ\", \"עוף גוזל\", \"שיר מס' 8\" ו\"הקצב של חיי\". בני ברמן מגיע עם מחרוזת מלהיטיו, סמיר שוקרי וסמי לזמי בביצוע  ל-\"שיר לשלום\", ואנדרה בלולו  יחד עם להקת נגני העוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1099455/",
+       "id": "1099455",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 27 - לשיר לצחוק להתבדח",
+       "logo": "https://www.kan.org.il/media/4ehc5up5/אורנה-ומשה-דץ-פרק-27.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239137/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "ערב מלא בשירים וצחוק עם אורנה ומשה דץ שמגיעים עם מחרוזת מלהיטיהם וביצוע משותף עם אהרון ירימי ל-\"איילת חן\". להקת הפסגות  עם הלהיט \"זינגרלה\", וכמובן מערכונים מצחיקים עם דובי גל, זוהר זמיר, רן לוי ורון שלום",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1099454/",
+       "id": "1099454",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 25 - בגבול הצפון חלק ב'",
+       "logo": "https://www.kan.org.il/media/ukvh05tk/מרגול-ושלומי-שבת-פרק-25.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2245834/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-14",
+       "plot": "הטברנה חוזרת לצפון למשדר הצדעה נוסף לחיילים בגבול הצפון. מרגול מגיעה לטברנה ומרימה את הקהל עם \"עוד יהיה לי\" ו-\"נערי שובה אלי\", שלומי שבת עם \"מתוקים\", והשניים חוברים לביצוע משותף מרגש ל\"עוף גוזל\". וגם איך אפשר בלי צחוק? רמי ורד ונדב אבקסיס מגיעים להצחיק את החיילים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1099452/",
+       "id": "1099452",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 24 - בגבול הצפון חלק א'",
+       "logo": "https://www.kan.org.il/media/vp1pkydv/שרית-חדד-שרה-לחיילים-פרק-24.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239129/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-25",
+       "plot": "שישי בטברנה עולה לגבול הצפון למשדר הצדעה מיוחד לחיילים. אביהו מדינה מקפיץ את החיילים עם \"אל תירא ישראל\", שרית חדד  עם \"הכל סגור\", דוד ד'אור ואתי אנקרי בביצוע ל\"אני עף\", וביצוע מרגש של אורחי התוכנית ל\"שבחי ירושלים\". ואיך אפשר בלי צחוק? שלום אסייג מגיע להצחיק את החיילים בשטח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1092617/",
+       "id": "1092617",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 23 - נעימת השיכורים",
+       "logo": "https://www.kan.org.il/media/wjnpkepy/שמעון-פרנס-ויוני-רועה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239128/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-25",
+       "plot": "שיחה מיוחדת על \"נעימת השיכורים\", נעימת התוכנית, עם מי שיצר אותה -יוני רועה, שגם מנגן אותה יחד עם להקת הבית ושמעון פרנס. דידי הררי מעלה זיכרונות מהשנים ברשת ג', ואתי לוי מרגשת עם \"אור עיני\". כל זאת לצד ביצועים מהעולם של מישה גולדובסקי ועולים חדשים במחרוזת שירים צוענית, ואנטוניו ורונית ששרים בערבית וספרדית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1092609/",
+       "id": "1092609",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 22 - פעם הראשונה",
+       "logo": "https://www.kan.org.il/media/tpafilif/עמיר-בניון-פרק-22.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238490/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "עמיר בניון באחד מראיונותיו הראשונים מרגש עם \"כשאת עצובה\", מיכה שטרית בביצוע ל\"טבריה\" ובדואט מיוחד עם עמיר בניון ל-\"לפעמים\", ויצחק קלפטר עם \"שיר אהבה בדואי\". וגם דובי גל ורן לוי באים להצחיק לפני השבת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1092061/",
+       "id": "1092061",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 21 - יחד לב אל לב",
+       "logo": "https://www.kan.org.il/media/f2zjhusn/שרית-חדד-וגברי-בנאי-פרק-21.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238480/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "הזמרת הצעירה שרית חדד מגיעה להרים את האולפן עם \"חוק החיים\" ו\"כמו סינדרלה\", גברי בנאי עם \"בין זכרון יוסף לשכונת הפחים\", ולהקת \"גאיה\" מרגשת עם \"שיר לאהבה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1092032/",
+       "id": "1092032",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 20 - הכל בגלל האהבה",
+       "logo": "https://www.kan.org.il/media/ze0lrjgy/יפה-ירקוני-פרק-20.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238479/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "יפה ירקוני מגיעה לאולפן למחרוזת משיריה היפים ולביצוע משותף עם איש להקת \"שפתיים\", חיים אוליאל. יוסי אלפי מגיע עם הסיפורים מאחורי פסטיבל מספרי סיפורים, וזאב רווח מנסה לחלץ את נערת ישראל שננעלה בשירותים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1091933/",
+       "id": "1091933",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה |  פרק 19 - יום הולדת לשמעון",
+       "logo": "https://www.kan.org.il/media/tkap2po3/ננסי-ברנדס-מפתיע-את-שמעון-פרנס-1999.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238477/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "לשמעון יש יום הולדת, וננסי ברנדס מפתיע אותו במתנות וברכות מרגשות מהזמרים האהובים עליו- יורגו דלאראס וחאריס אלקסיו. ליאורה ולהקת \"כנען\" מגיעות לעשות שמח, מני בגר עם \"זה הזמן לסלוח\" ו-\"הלילה לבד\", ומוטי גלעדי ואסנת וישינסקי עם חיקויים לזמרים האהובים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1091931/",
+       "id": "1091931",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 16 - ילדת הפלא באולפן",
+       "logo": "https://www.kan.org.il/media/svhbxwly/מוגדה-פרק-16.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238474/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-23",
+       "plot": "חגיגה מוזיקלית עם ילדת הפלא- מוג'דה שמרימה את האולפן עם \"גברת מגונדרת\", אבי הפופ והרוק צביקה פיק עם הלהיטים \"דיווה\", \"שיר הפריחה\" ו\"נאסף תשרי\", ושלומי סרנגה שמביא את הקסם היווני עם \"מנדובאלה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1091922/",
+       "id": "1091922",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 18 - הכל עובר חביבי",
+       "logo": "https://www.kan.org.il/media/gpjnjabo/הכל-עובר-חביבי-פרק-18.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232901/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-06",
+       "plot": "ערב שבת עם להקת \"הכל עובר חביבי\" במחרוזת תימנית, אבי סינואני עם \"אישה בונה אישה הורסת\", וילד הפלא הדרוזי, פאדי כיוף, בביצוע לקלאסיקה של פריד אל-אטרש. וגם: ננסי ברנדס מדווח מבוקרשט, וירון לוי סבג וחיים זנאתי עם הגרסה המרוקאית לכיפה אדומה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1086166/",
+       "id": "1086166",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 17 - ערב של נחמה",
+       "logo": "https://www.kan.org.il/media/bwqkxdba/אסנת-וישינסקי-ומוטי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232900/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "ערב של נחמה עם אסנת וישינסקי ומוטי גלעדי במערכון על הזוג העתיק בעולם, אריאל זילבר עם \"רוצי שמוליק\", \"החברה להגנת הטבע\" ו\"מסך עשן\", ומשה הלל ושרון לביא עם \"יפה האהבה מתגשמת\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1086100/",
+       "id": "1086100",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 15 - החברים של בני",
+       "logo": "https://www.kan.org.il/media/p3rhnukl/ישראל-גוריון-חנן-יובל-פרק-15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232815/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "משדר ספיישל מרגש במלאת חמש שנים למותו של בני אמדורסקי. החברים הקרובים מגיעים לחלוק כבוד ולהזכיר בשיריו הגדולים: \"החברים של בני\" (ישראל גוריון, חנן יובל, יוסי חורי ואורי הרפז) בביצועים ל\"אני גיטרה\" ומחרוזת \"שלישיית גשר הירקון\". ג'וזי כץ וישראל גוריון עם \"ימים של קולנוע\", מאיר אריאל והחברים בביצוע מיוחד ל\"אבינועם בחור כארז\", דני ליטני עם \"ציף ציף מעל הרציף\", ועופרי סאלם והחברים במחרוזת שירי \"הדודאים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085797/",
+       "id": "1085797",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 11 - יהודה יהודה בטברנה",
+       "logo": "https://www.kan.org.il/media/guykoidi/אתי-לוי-פרק-11.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232341/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-05",
+       "plot": "חגיגה בטברנה עם להקת \"השמחות\" ו-\"יהודה יהודה\", אתי לוי ו-\"אנטינה חביבי\", וסמיר שוקרי וצלילי הכינור. לצד המוזיקה באולפן שוש עטרי ונתיב רובינזון, ומערכונים לסגירת השבוע!",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085766/",
+       "id": "1085766",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 14 - חגיגה של אהבה",
+       "logo": "https://www.kan.org.il/media/xfsppasc/בועז-שרעבי-וננסי-ברנדס-פרק-14.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232349/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "מכניסים את השבת עם הזמרים האהובים, בועז שרעבי עם הלהיטים \"כשאת נוגעת בי\" ו\"היה חזק\", יוני רועה עם \"פרי גנך\" ו\"מנואל\", ופיני חדד מרים את האווירה עם מחרוזת חגיגית. ואיך אפשר בלי צחוק טוב עם דני רכס בסטנד-אפ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085485/",
+       "id": "1085485",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 13 - חגיגת רוקנרול",
+       "logo": "https://www.kan.org.il/media/cdodauzv/רון-שובל-פרק-13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232347/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "להקת האריות בחגיגת רוקנרול, רון שובל ואבי טולדנו עם להיטיהם הגדולים! לצד מערכונים שיכניסו את השבת בחיוך ובצחוק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085484/",
+       "id": "1085484",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 12 - אביהו והחברים",
+       "logo": "https://www.kan.org.il/media/kmafcixy/ישי-לוי-ואביו-מדינה-פרק-12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232342/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "אביהו מדינה מגיע לאולפן לביצועים מרגשים, בין היתר בביצוע משותף ומרגש עם ישי לוי לקלאסיקה \"רעיה\", עם לאה לופטין ל\"את לי אור\", ועם משפחתו לשירי \"לקראת שבת\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085476/",
+       "id": "1085476",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 10 - בין מזרח למערב",
+       "logo": "https://www.kan.org.il/media/vr5fflwg/אלי-לוזון-פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232335/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "אלי לוזון עם מחרוזת משירי זוהר ארגוב והלהיט \"גשם\", שרי מצטרפת עם הלהיטים הגדולים, ואלון אולארצ'יק עם \"שני חלקים בתוך השלם\"  וגם, חיים זנאתי וירון לוי-סבג במערכון שיכניס את השבת בחיוך",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085435/",
+       "id": "1085435",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 9 - חוגגים עם מרגול",
+       "logo": "https://www.kan.org.il/media/hqmjlt5r/מרגלית-צנעני-פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232330/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "מרימים את האולפן עם זמרת הטורבו האהובה, מרגול, עם הלהיטים הגדולים, ואריק סיני עם מחרוזת משיריו. מוטי גלעדי ואסנת וישינסקי מגיעים כהרב עובדיה ומוניקה לוינסקי ומשגעים את האולפן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085393/",
+       "id": "1085393",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 6 - שרים קלאסיקות",
+       "logo": "https://www.kan.org.il/media/z31k1yi1/עוזי-חיטמן-פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232327/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "ערב קלאסיקות מרגשות ומקפיצות עם עוזי חיטמן בביצוע לשירים \"עכשיו התור לאהבה\" ו-\"לילה בלי כוכב\",  דורון מזר עם \"פמלה\" אביבה אבידן עם \"כמו סירה טרופה\" ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085380/",
+       "id": "1085380",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 8 - בין נוסטלגיה לאקטואליה",
+       "logo": "https://www.kan.org.il/media/q0ajsl05/פרק-8-פבלו-רוזנברג.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228925/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "עליזה עזיקרי, מהזמרות המבטיחות של שנות ה-60, מגיעה עם \"בחיים הכל עובר\", פבלו רוזנברג עם \"בין ערביים\", דפנה דקל עם \"פלאפל\" וליאור פרחי עם \"כתבתי לך מכתב\".  לצד המוזיקה, אסתי זקהיים, דובי גל ועוד במערכונים שיכניסו אותנו בהנאה לשבת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1085374/",
+       "id": "1085374",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 7 - יין ישמח לבב אנוש",
+       "logo": "https://www.kan.org.il/media/ug0hixsg/גברי-בנאי-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228921/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-24",
+       "plot": "ערב שכולו יין טוב, סיפורים ושירי שיכורים עם יהודית תמיר והלהיט \"תשתי את כל הבר\", חופני כהן עם \"אני מסטול\" אורן חן עם \"שיר השיכור\", גברי בנאי, שלומי סרנגה ועוד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1081092/",
+       "id": "1081092",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 5 - חוזרים לשנות ה-70",
+       "logo": "https://www.kan.org.il/media/cdyj40vc/פרק-5-שימי-תבורי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228918/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-24",
+       "plot": "לילה שכולו נוסטלגיה! ענקי שנות ה-70 עוזי פוקס, גבי שושן, שימי תבורי ונסים סרוסי עולים על הבמה להקפיץ את האולפן עם הלהיטים הענקיים \"תחתונים וגופיות\", \"להשתטות\", \"אשליות\" ו\"אין מדינה לאהבה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1081091/",
+       "id": "1081091",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 3 - ספיישל גליקריה",
+       "logo": "https://www.kan.org.il/media/tyylgrli/פרק-3-גליקריה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228463/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-24",
+       "plot": "מלכת הזמר היווני, גליקריה, מגיעה לעשות שמח עם הקלאסיקות הגדולות ודואטים עם יואב יצחק, ריקי גל ושלומי שבת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1081065/",
+       "id": "1081065",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 4 - חגיגה ספרדית",
+       "logo": "https://www.kan.org.il/media/11mpe2hc/פרק-4-שלומי-שבת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228468/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-23",
+       "plot": "על סדר הלילה, ערב שכולו ספרדית! שלמה ידוב ולהקת אטרף עם \"חולם בספרדית\", שלומי שבת עם \"יום סבבה\" ועוד להיטים בקצב ספרדי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1080729/",
+       "id": "1080729",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה |  פרק 2 - עונג שבת",
+       "logo": "https://www.kan.org.il/media/eecn4q3v/פרק-2-ירדנה-ארזי-ושמעון-פרנס.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228460/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-23",
+       "plot": "אהוד בנאי עם הלהיטים הגדולים, ירדנה ארזי בביצועים מיוחדים ודואטים מרגשים, משפחת אלאייב מקפיצה את האולפן ואייל דווידוב במעגל מתופפים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1080703/",
+       "id": "1080703",
+       "season": 1
+      },
+      {
+       "name": "שישי בטברנה | פרק 1 - פותחים עונה",
+       "logo": "https://www.kan.org.il/media/luwlcn4s/אתי-אנקרי-ודוד-דאור-פרק-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228459/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-23",
+       "plot": "אחרי שלוש שנים, הטברנה חוזרת! חיים משה מקדיש לחיילים את \"התמונות שבאלבום\" ומקפיץ עם להיטיו הגדולים. הצמד האהוב אתי אנקרי ודוד ד'אור מגיעים להופעה מיוחדת באולפן לכבוד האלבום המשותף ומספרים איך הכל התחיל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/s1/1080702/",
+       "id": "1080702",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שישי בטברנה | טריילר",
+       "logo": "https://www.kan.org.il/media/v1dfsokn/שישי-בטברנה-טריילר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2247049/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-04",
+       "plot": "תכנית האירוח המוזיקלית בהנחייתו של שמעון פרנס חוזרת והפעם בשישי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1080443/1085477/",
+       "id": "1085477"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

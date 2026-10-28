@@ -1,0 +1,266 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הבלתי חשובים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11372/",
+   "series_id": "11372",
+   "updated": "2026-10-28 09:45",
+   "sub_categories": [
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "הבלתי חשובים 4 | פרק 8 - הדלאי לאמה באילת",
+       "logo": "https://www.kan.org.il/media/pmfieeoi/img20231228_15371551.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bf645tw2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-03",
+       "plot": "פרק אחרון לעונה. והפעם: הגעתו של הדלאי לאמה לישראל, שהתחילה כהזמנה דיפלומטית, והפכה למבצע חשאי שאת תוצאותיו היה קשה לדמיין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/732902/",
+       "id": "732902",
+       "season": 4
+      },
+      {
+       "name": "הבלתי חשובים עונה 4 | פרק 7 - ריצ'רץ' באופירה",
+       "logo": "https://www.kan.org.il/media/s5pidyel/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_28qvzasx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-24",
+       "plot": "שידור מיוחד לרגל 45 שנה להסכם השלום עם מצרים. סיפור מפגשם המרגש של כוכבי תוכנית הילדים ריצ'רץ' ביישוב אופירה שבסיני, שהפך למזכרת מבית שאיננו עוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/728073/",
+       "id": "728073",
+       "season": 4
+      },
+      {
+       "name": "הבלתי חשובים עונה 4 | פרק 5 - קולנוע חרדי נשי",
+       "logo": "https://www.kan.org.il/media/wdpn1xmq/kanbox_orthodox.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tu0mmqt8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-05",
+       "plot": "סיפורה המדהים של תעשיית הקולנוע החרדי הנשי, עם שוברי הקופות הגדולים, ושיברונות הלב שבאו איתם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/716445/",
+       "id": "716445",
+       "season": 4
+      },
+      {
+       "name": "הבלתי חשובים עונה 4 | פרק 6 - המהפנט שהסתבך",
+       "logo": "https://www.kan.org.il/media/5udmpuqh/kanbox_hypnotist.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5fn1obm0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-13",
+       "plot": "עונה חדשה שחוזרת לאירועים שנראים בלתי חשובים, אך מספרים סיפור גדול על מי שהיינו ומי שאנחנו היום. הפעם: סיפורו של קסם שהסתבך, והפנוט אחד שהשתבש וחשף מאבק משפטי של 30 שנה בניסיון לתקף חוק חדש בישראל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/703907/",
+       "id": "703907",
+       "season": 4
+      },
+      {
+       "name": "הבלתי חשובים 4 | פרק 4 - מהפכה בקיבוץ",
+       "logo": "https://www.kan.org.il/media/wfxbul54/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4i99ks1z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-09",
+       "plot": "עונה חדשה שחוזרת לאירועים שנראים בלתי חשובים אך מספרים סיפור גדול על מי שהיינו ומי שאנחנו היום. והפעם: סיפור שמתחיל בחולם צעיר שרצה לשנות את פני הקיבוץ שלו, ונגמר במהפכה שאף אחד לא דמיין.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/681347/",
+       "id": "681347",
+       "season": 4
+      },
+      {
+       "name": "הבלתי חשובים עונה 4  | פרק 3 - מדיאה 71",
+       "logo": "https://www.kan.org.il/media/atsnpjtc/kanbox_hannameron.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5qzpfj2x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-09",
+       "plot": "עונה חדשה שחוזרת לאירועים שנראים בלתי חשובים אך מספרים סיפור גדול על מי שהיינו ומי שאנחנו היום. והפעם אייך הפקת תיאטרון שאמורה הייתה להפוך את חנה מרון לגברת הראשונה של התיאטרון, הופכת אותה לגיבורה של עם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/681345/",
+       "id": "681345",
+       "season": 4
+      },
+      {
+       "name": "הבלתי חשובים 4 | פרק 2 - אורפנלנד בתורכיה",
+       "logo": "https://www.kan.org.il/media/lkflgcze/kanbox_orphanedlan.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d7mox00m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-09",
+       "plot": "עונה חדשה שחוזרת לאירועים שנראים בלתי חשובים אך מספרים סיפור גדול על מי שהיינו ומי שאנחנו היום. והפעם איך משבר היחסים בין ישראלי לתורכיה משנה את מסלולה של להקת מטאל ישראלית שהפכה להצלחה בעולם הערבי.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/681344/",
+       "id": "681344",
+       "season": 4
+      },
+      {
+       "name": "הבלתי חשובים עונה 4 | פרק 1 - האיש שכמעט היה שם",
+       "logo": "https://www.kan.org.il/media/1myn5jns/kanbox_munich.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l7rdu4ew/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-09",
+       "plot": "עונה חדשה שחוזרת לאירועים שנראים בלתי חשובים, אך מספרים סיפור גדול יותר על מי שהיינו ומי שאנחנו היום. והפעם: סיפורו של מרים המשקולות טדי קפלן, שחלומו הביא אותו מאסון מינכן 1972 לתואר אלוף בגיל 84",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s4/681341/",
+       "id": "681341",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "הבלתי חשובים 3 | פרק 8 - אשת חיל",
+       "logo": "https://www.kan.org.il/media/mecfyezt/eshet_hail_kanbox.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3wobmouw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-28",
+       "plot": "ההיסטוריה מלאה באירועים קטנים שממרחק השנים מספרים סיפור גדול יותר על מי שהיינו ומי שאנחנו היום. \nוהפעם: איך יוזמה חדשה ופמיניסטית לתחרות אלטרנטיבית בשם \"אשת חיל\" הופכת למוקד ויכוח בין נשים שנמשך עד היום.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/378064/",
+       "id": "378064",
+       "season": 3
+      },
+      {
+       "name": "הבלתי חשובים 3 | פרק 7 - המורדים בישראל",
+       "logo": "https://www.kan.org.il/media/pzcdni2g/master_asset_design_rebeldewaykanbox.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w6s77bzt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-18",
+       "plot": "ההיסטוריה מלאה באירועים קטנים שממרחק השנים מספרים סיפור גדול על מי שהיינו ומי שאנחנו היום\nוהפעם: אסקפיזם ישראלי. איך הצלחנו בצל האינתיפאדה השנייה להביא לפה כוכבי טלנובלה ארגנטינאית לביקור בלתי נשכח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/367875/",
+       "id": "367875",
+       "season": 3
+      },
+      {
+       "name": "הבלתי חשובים 3 | פרק 5 - האחד במאי",
+       "logo": "https://www.kan.org.il/media/2hamnely/2023-4-30-imgid-99284_b.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qcxw72qc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "סיפורה של אחת ההפגנות הגדולות שידענו באחד במאי 1980, בימים שבהם ישראל עוד ציינה את יום הפועלים הבינלאומי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/327982/",
+       "id": "327982",
+       "season": 3
+      },
+      {
+       "name": "הבלתי חשובים 3 | פרק 4 - הניצב המיתולוגי",
+       "logo": "https://www.kan.org.il/media/thvnsqt2/2023-4-27-imgid-99176_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4mu2u4ge/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "סיפורו של ניצב קולנועי שהופיע בכל הסרטים עליהם גדלנו. החלום שלו להיות שחקן מספר את סיפורו של הקולנוע הישראלי כולו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/327736/",
+       "id": "327736",
+       "season": 3
+      },
+      {
+       "name": "הבלתי חשובים 3 | פרק 3 - אולימפיאדה בישראל",
+       "logo": "https://www.kan.org.il/media/mdvfu1l4/2023-4-13-imgid-98066_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wzzuj5gs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ההיסטוריה מלאה באירועים קטנים שממרחק השנים מספרים סיפור גדול על מי שהיינו ומי שאנחנו היום. והפעם: ידעתם שבישראל בשנת 1968 הייתה אולימפיאדה כחול לבן? איך זה קרה, ומה זה לימד אותנו על תקווה ונגישות?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/163580/",
+       "id": "163580",
+       "season": 3
+      },
+      {
+       "name": "הבלתי חשובים 3 | פרק 6 - הכיתה שהמריאה לחלל",
+       "logo": "https://www.kan.org.il/media/4qyj0xbi/2023-3-30-imgid-97162_b.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qczss1lq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סיפורה של כיתת מדעים אחת מקרית מוצקין שהעזה לחלום בגדול, והניסוי שלה זכה להגיע לחלל עם אילן רמון.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/163577/",
+       "id": "163577",
+       "season": 3
+      },
+      {
+       "name": "הבלתי חשובים 3 | פרק 2 - דני קיי",
+       "logo": "https://www.kan.org.il/media/le0cw44c/2023-3-21-imgid-96542_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lgiw24i9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חדשה לתוכנית שבמרכזה אירועים היסטוריים זניחים לכאורה אשר למעשה מספרים סיפור גדול הרבה יותר. והפעם: סיפור של כוכב קולנוע ענק שהתאהב בישראל ובילדיה. אז מי היה דני קיי? ואיך ציפי שביט קשורה לזה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/162892/",
+       "id": "162892",
+       "season": 3
+      },
+      {
+       "name": "הבלתי חשובים 3 | פרק 1 - קלפים פתוחים",
+       "logo": "https://www.kan.org.il/media/jglcppwq/2023-3-14-imgid-95968_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o56abkez/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חדשה לתוכנית שבמרכזה אירועים היסטוריים זניחים לכאורה אשר למעשה מספרים סיפור גדול הרבה יותר. הפעם, סיפור המאבק לשידור התוכנית \"קלפים פתוחים\" - למה שר החינוך רצה לצנזר אותה ומה קרה כשזה הגיע לבג\"ץ?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s3/162438/",
+       "id": "162438",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "הבלתי חשובים 2 | פרק 3 - מרלין מונרו והפועל",
+       "logo": "https://www.kan.org.il/media/yy5fpd15/2023-3-14-imgid-95947_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xl6u6zwf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הבלתי חשובים חוזרת בעונה חדשה של סיפורי כדורגל ישראלי.\r\nוהפעם סיפורו של משחק הראווה ההיסטורי של נבחרת הפועל נגד הכוח ניו יורק. בימים בהם הטיימס סקוור נסגר לרגל המאורע ומרלין מונרו בעטה את בעיטת הפתיחה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s2/154457/",
+       "id": "154457",
+       "season": 2
+      },
+      {
+       "name": "הבלתי חשובים 2 | פרק 2 - ליגה משלהן",
+       "logo": "https://www.kan.org.il/media/3gufgz1j/2023-3-14-imgid-95949_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8mw6wjlk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הבלתי חשובים חוזרת בעונה חדשה של סיפורי כדורגל ישראלי. \r\nוהפעם: ליגה משלהן - סיפורו של משחק כדורגל הנשים הראשון בישראל והקמת מיל\"ן, מועדון ישראלי לכדורגל נשים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s2/153800/",
+       "id": "153800",
+       "season": 2
+      },
+      {
+       "name": "הבלתי חשובים 2 | פרק 1 - מונדיאל 70",
+       "logo": "https://www.kan.org.il/media/oj2lvxah/2023-3-14-imgid-95952_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_58a2bstz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עונה חדשה עם כמה סיפורים פחות מוכרים מאחורי הכדורגל הישראלי. \r\nפרק 1–מונדיאל 70-כוכבי נבחרת מונדיאל 1970 המיתולוגית מתאחדים למשחק ראווה האחרון שלהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s2/152098/",
+       "id": "152098",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הבלתי חשובים | פרק 1 - מוזיאון השעווה",
+       "logo": "https://www.kan.org.il/media/vjvastnb/2023-3-14-imgid-95951_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o35q2ob8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרה חדשה על האירועים שבמבט ראשון נראים בלתי חשובים, אך ממרחק השנים, מספרים סיפור גדול יותר על כולנו. הפעם: מה פתיחת מוזיאון השעווה בכלבו שלום מספרת על שנותיו האחרונות של ראש הממשלה הראשון, דוד בן גוריון?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/s1/131576/",
+       "id": "131576",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הבלתי חשובים | טריילר",
+       "logo": "https://www.kan.org.il/media/z2pjgjve/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-f5677a66-2676-494d-94ee-289aed059f6d.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vnq72qs7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "מסע נוסטלגי בידורי שחושף אירועים נשכחים אבל חשובים מאוד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/866252/",
+       "id": "866252"
+      },
+      {
+       "name": "הבלתי חשובים - הצצה | קשיי עלייה",
+       "logo": "https://www.kan.org.il/media/idshx1ue/בלתי-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5rys83ur/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-06",
+       "plot": "טדי קפלן על ההחלטה לעלות לארץ וההצלחות שהגיעו בעקבות כך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/856950/",
+       "id": "856950"
+      },
+      {
+       "name": "הבלתי חשובים - הצצה | \"מוסלמי שקעקע את הלוגו של הלהקה שלי\"?",
+       "logo": "https://www.kan.org.il/media/vggfbt0z/בלתי-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wq9pcpy9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-06",
+       "plot": "קובי מאורפנלנד על הרגע בו הבין שהלהקה היא יותר מסתם זיכרון ילדות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11372/856947/",
+       "id": "856947"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

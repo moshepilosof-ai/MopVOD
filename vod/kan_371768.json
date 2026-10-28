@@ -1,0 +1,79 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ארוחה של החיים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-371768/",
+   "series_id": "371768",
+   "updated": "2026-10-28 09:28",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ארוחה של החיים | איילת שקד",
+       "logo": "https://www.kan.org.il/media/un5bskqm/יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kfjdf7rq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "השף ענר בן רפאל פורמן מארח אישיות ישראלית לארוחה שנתפרה למידותיה, בה יגיש מנות מפתיעות, מרהיבות ויצירתיות על פי תחנות חייה. והשבוע - איילת שקד, שתקבל פרח עם חור בלב וסערה בסיר לחץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371768/s1/372014/",
+       "id": "372014",
+       "season": 1
+      },
+      {
+       "name": "ארוחה של החיים | יבגניה דודינה",
+       "logo": "https://www.kan.org.il/media/uqblzri0/יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zu7ojwzt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "השף ענר בן רפאל פורמן מארח אישיות ישראלית לארוחה שנתפרה למידותיה, בה יגיש מנות מפתיעות, מרהיבות ויצירתיות על פי תחנות חייה. והשבוע - יבגניה דודינה שתקבל דלעת גדולה מהחיים ופתק אובד מבצק קרפלך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371768/s1/372012/",
+       "id": "372012",
+       "season": 1
+      },
+      {
+       "name": "ארוחה של החיים | מאיה ורטהיימר",
+       "logo": "https://www.kan.org.il/media/dknb1xyo/יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd0wt95o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "השף ענר בן רפאל פורמן מארח אישיות ישראלית לארוחה שנתפרה למידותיה, בה יגיש מנות מפתיעות, מרהיבות ויצירתיות על פי תחנות חייה. והשבוע - מאיה ורטהיימר שתקבל כפית זהב וכרוב שעבר תאונה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371768/s1/372009/",
+       "id": "372009",
+       "season": 1
+      },
+      {
+       "name": "ארוחה של החיים | סאבלימינל",
+       "logo": "https://www.kan.org.il/media/4hzb3edc/imgid-100512_a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9jo8ypz9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "השף ענר בן רפאל פורמן מארח אישיות ישראלית לארוחה שנתפרה למידותיה, שבה יגיש מנות מפתיעות, מרהיבות ויצירתיות על פי תחנות חייה. והשבוע - סאבלימינל שיקבל דג על יהלום ותירס שהוא בעצם הוא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371768/s1/372006/",
+       "id": "372006",
+       "season": 1
+      },
+      {
+       "name": "ארוחה של החיים | פאולה רוזנברג",
+       "logo": "https://www.kan.org.il/media/wrilluli/יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kmk1zyf7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "השף ענר בן רפאל פורמן מארח אישיות ישראלית לארוחה שנתפרה למידותיה, שבה יגיש מנות מפתיעות, מרהיבות ויצירתיות על פי תחנות חייה. והשבוע - פאולה רוזנברג מקבלת ביצת דרקון שחורה ופרח אהבה של ארטישוק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371768/s1/372003/",
+       "id": "372003",
+       "season": 1
+      },
+      {
+       "name": "ארוחה של החיים | אקי אבני",
+       "logo": "https://www.kan.org.il/media/5fvb55lt/s039927400_35_02_07still002.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1t73wcbi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-22",
+       "plot": "השף ענר בן רפאל פורמן מארח אישיות ישראלית לארוחה שנתפרה למידותיה, בה יגיש מנות מפתיעות, מרהיבות ויצירתיות על פי תחנות חייה. והשבוע: אקי אבני יקבל ארוחה מולקולארית לראמן ישראלי פרפקציוניסיטי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-371768/s1/372000/",
+       "id": "372000",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

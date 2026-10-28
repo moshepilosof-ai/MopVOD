@@ -1,0 +1,163 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חלומות מתוקים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-768194/",
+   "series_id": "768194",
+   "updated": "2026-10-28 11:15",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חלומות מתוקים | פרק 13 - בחלום בלילה",
+       "logo": "https://www.kan.org.il/media/akadszyh/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0llqpj60/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "דלית נרצחת ולא רק המשטרה חושדת שסימו הוא הרוצח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768209/",
+       "id": "768209",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 12 - רומיאו ויוליה מתים מצחוק",
+       "logo": "https://www.kan.org.il/media/ukpbatv0/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5ektkgpb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "יוני ויוליה מאוהבים אך להורים של שניהם יש תוכניות אחרות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768208/",
+       "id": "768208",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 11 - ברכה לא לבטלה",
+       "logo": "https://www.kan.org.il/media/avllzm4t/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7c5hrzld/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "לדניס יש מאהב. מוריס נלחץ שבנו לא יודע לשחק ששבש ומעדיף שחמט עם מישה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768207/",
+       "id": "768207",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 10 - חלום או מציאות",
+       "logo": "https://www.kan.org.il/media/4nnhsyh4/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1t4wu24t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "אביו של מישה מגלה פרט סודי על עברו. מוריס בטוח שביתו מקולל ומטהר אותו. מרינה מנקה את ביתו של בעל הדירה שלהם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768206/",
+       "id": "768206",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 9 - אנטליה",
+       "logo": "https://www.kan.org.il/media/ftrben4z/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9qtfl3c8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "מוריס שוקל למכור את הדירה. אביו של מישה לא מרוצה מהסידור של בנו. דניס מפנטזת על טיסה לחו\"ל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768205/",
+       "id": "768205",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 8 - אבא בא",
+       "logo": "https://www.kan.org.il/media/qcsbhpze/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ob0kdmlh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "אביו של מישה מגיע לארץ ומישה מנסה להסתיר את מצבו. סימו חוטף את ילדו מגרושתו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768204/",
+       "id": "768204",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 7 - בחירות",
+       "logo": "https://www.kan.org.il/media/iqefockr/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pxr3ec2n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "מישה ומוריס פותחים בקמפיין לראשות העירייה ומגלים שזה לא פשוט כמו שחשבו. דניס לא מרוצה מהמזכירה החדשה שהם שכרו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768203/",
+       "id": "768203",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 6 - חתונה או הפלה",
+       "logo": "https://www.kan.org.il/media/njukqbtb/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_81nnuhbb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "מוריס ומישה חושדים שיוליה בהריון מיוני ומנסים להשיג כסף להפלה. סימו נקלע לחובות אצל ראש העיר וממציא פתרון יצירתי ומופרע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768202/",
+       "id": "768202",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 5 - גוסטבו בורמודוס",
+       "logo": "https://www.kan.org.il/media/lmhbzwe1/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u8egiin4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "השחקן הארגנטינאי מגיע לארץ וכל אחד מתכנן לפגוש אותו בדרכו שלו. סימו מנסה להציל את הקפה שלו בשלט רחוק מבית החולים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768201/",
+       "id": "768201",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 4 - הצינתור",
+       "logo": "https://www.kan.org.il/media/1vqgc4qt/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p2v2oa8j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "דניס מתחברת עם מרינה בעוד מוריס מתקשה להתרגל למצב החדש. מישה מנתח את סימו אחרי שלקה בהתקף לב בעקבות פקחים שסגרו לו את הקפה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768200/",
+       "id": "768200",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 3 - הפסנתר",
+       "logo": "https://www.kan.org.il/media/xzvopg4u/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3tee056r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "פערי התרבויות בין המשפחות מתחילים להתגלות. מרינה ומישה מביאים פסנתר לסלון. סימו וגרשותו מתעמתים בבית קפה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768199/",
+       "id": "768199",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 2 - הבגידה",
+       "logo": "https://www.kan.org.il/media/lkbeswo2/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_elyh2vfo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "דניס חושדת שמוריס בוגד בה. מרינה ומישה נזרקים מביתם ונאלצים לעבור לגור בביתם של הזוג המרוקאי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768198/",
+       "id": "768198",
+       "season": 1
+      },
+      {
+       "name": "חלומות מתוקים | פרק 1 - הג'יפ",
+       "logo": "https://www.kan.org.il/media/mznplzb1/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ge16j41u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-01",
+       "plot": "משפחה מרוקאית נקלעת לחובות אצל משפחה שעלתה מרוסיה. איך העניין ייפתר?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/s1/768195/",
+       "id": "768195",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חלומות מתוקים | פתיח",
+       "logo": "https://www.kan.org.il/media/1njf11zj/צילום-מסך-2025-08-18-115855.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5o9fdo3j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "הפתיח האהוב לסדרה \"חלומות מתוקים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-768194/942611/",
+       "id": "942611"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

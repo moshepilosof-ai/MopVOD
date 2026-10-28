@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מפרץ השמש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-983131/",
+   "series_id": "983131",
+   "updated": "2026-10-28 12:24",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מפרץ השמש - הצצה",
+       "logo": "https://www.kan.org.il/media/wlalk0mq/1920x1080_no-logo_מפרץ-השמש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2074240/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "דיירי ״מפרץ השמש״, אתר קרוואנים ארעי באילת, מתמודדים עם הבדידות בחייהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983131/990156/",
+       "id": "990156"
+      },
+      {
+       "name": "מפרץ השמש",
+       "logo": "https://www.kan.org.il/media/2vwmdasf/מפרץ-השמש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1954611/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "כאן דוקו. בצל מלונות הפאר של אילת, שוכן אתר קרוואנים נסתר בשם \"מפרץ השמש\". על רקע סכנת הפינוי של המקום, מנסים שלושה מדייריו ליישב את המתח שבין חיי הבדידות בשוליים לבין החיים שהותירו מאחור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-983131/983132/",
+       "id": "983132"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

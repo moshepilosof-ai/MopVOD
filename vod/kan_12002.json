@@ -1,0 +1,1984 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - זהו זה!",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12002/",
+   "series_id": "12002",
+   "updated": "2026-10-28 10:30",
+   "sub_categories": [
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "זהו זה! עונה 8 | פרק 24 - 05.05.26",
+       "logo": "https://www.kan.org.il/media/yuamxeil/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-05-05",
+       "plot": "מה החמישייה המיתולוגית עושה כשהיא קמה בבוקר, לאן מגיעים כשמחייגים 100, והפרדוקס המתמטי של בנט ולפיד. אורחת: נטע ברזילי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1037654/",
+       "id": "1037654",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 23 - 28.04.26",
+       "logo": "https://www.kan.org.il/media/mypikxs5/לאתר-מעודכן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "דוב'לה חוזר מחופשה לימים מורכבים בישראל, ביבי יוצא מהניתוח להערכת מצב ומה עושים כלא מוצאים את הטלפון? מצלצלים לאיראנים כמובן. אורח מיוחד: שימי תבורי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1034603/",
+       "id": "1034603",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 22 - 23.04.26 ",
+       "logo": "https://www.kan.org.il/media/1pln02sa/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים. הפעם הם יארחו את הגבעטרון לשיר משותף.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1032571/",
+       "id": "1032571",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 21 - 14.04.26",
+       "logo": "https://www.kan.org.il/media/n4jhdcp2/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189754/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-14",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים. הפעם הם יארחו את שמעון בוסקילה לשיר משותף.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1028838/",
+       "id": "1028838",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 20 - 12.04.26",
+       "logo": "https://www.kan.org.il/media/z2djkhiz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188482/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-09",
+       "plot": "חבורת זהו זה! בפרק מיוחד שחוגג 90 שנה לשידור הציבורי, מחברים רגעים של נוסטלגיה והומור עם החיים שלנו כאן ועכשיו: משה רבינו, חביתוש, הזקנים, והטילים מאירן. בפרק יתארחו בין היתר רבקה מיכאלי ולהקת תיסלם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1024986/",
+       "id": "1024986",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 19 - 24.03.26",
+       "logo": "https://www.kan.org.il/media/01bbvn1o/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180816/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-24",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים. הפעם הם יארחו את נינט לשיר משותף.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1017979/",
+       "id": "1017979",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 18 - 17.03.26",
+       "logo": "https://www.kan.org.il/media/udqnm3mp/זהו-זה-לאתר-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179262/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-17",
+       "plot": "סבתא בישלה תקציב, הגבר שמפעיל את האזעקה כשהוא נכנס לשירותים, ואיך יודעים שאיראן מראה חולשה. אורחים מיוחדים: אמיר דדון ולהקת כנסיית השכל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1014158/",
+       "id": "1014158",
+       "season": 8
+      },
+      {
+       "name": "זהו זה עונה 8 | פרק 17 - 10.03.26",
+       "logo": "https://www.kan.org.il/media/0q2nszor/לאתר-תיקון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176319/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-10",
+       "plot": "בודק אשכים בלשכת הגיוס מחפש עבודה חדשה, כמה עולה להתחתן בחניון ואיך מתמודדים עם הטראומה מאפליקציית פיקוד העורף. אורחת מיוחדת: מארינה מקסימיליאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1009902/",
+       "id": "1009902",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 16 - 03.03.26",
+       "logo": "https://www.kan.org.il/media/koin23kz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2173358/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-03",
+       "plot": "גידי, מוני, קושניר ובראבא בתכנית מיוחדת לרגל המצב. זהו זה ולא אחרת מתחברים ל”שאגת הארי”.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1006166/",
+       "id": "1006166",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 15 - 17.02.26",
+       "logo": "https://www.kan.org.il/media/uzrpc4il/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168085/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-17",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים. הפעם הם יארחו את אלון עדר לשיר משותף.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1000214/",
+       "id": "1000214",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 14 - 10.02.26",
+       "logo": "https://www.kan.org.il/media/q5ucdha0/נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165567/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "סאלח שבתי החדש, נושאת המטוסים האמריקנית שוב איתנו וחיליק מגנוס מחלץ ישראלים שהסתבכו בתאילנד. אורח מיוחד: קובי אפללו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/997755/",
+       "id": "997755",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 13 - 03.02.26",
+       "logo": "https://www.kan.org.il/media/z0tdxign/קריאייטיב-בגהינום.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2158759/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-03",
+       "plot": "חנוכת הבית החדש של הספארי, מפלגות האופוזיציה מתאחדות והשטן מתכנן את האסון הגדול הבא. אורח מיוחד: אבי טולדנו.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/995573/",
+       "id": "995573",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 12 - 27.01.26",
+       "logo": "https://www.kan.org.il/media/uvzp1dtl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2126286/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-27",
+       "plot": "שלב ב' בעזה, טראמפ והתקיפה באיראן ודני אבדיה. אורחת מיוחדת: רוני דלומי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/993498/",
+       "id": "993498",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 11 - 20.01.26",
+       "logo": "https://www.kan.org.il/media/csifhagq/מפגינים-נגד-ישראל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2094320/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-19",
+       "plot": "התקיפה באיראן, הפגנות נגד ישראל בחו\"ל ושלב ב' מול החמאס. אורח מיוחד: שלמה יידוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/991195/",
+       "id": "991195",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 10 - 13.01.26",
+       "logo": "https://www.kan.org.il/media/2c4h0ts2/זהו-זה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067807/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "התרחישים האפשריים בעקבות המחאות באיראן, מסיבת עיתונאים בסופר ותיעוד בלעדי מהניסיון לשגר חללית ישראלית. אורח מיוחד: אסף אמדורסקי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/989326/",
+       "id": "989326",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 9 - 06.01.26",
+       "logo": "https://www.kan.org.il/media/umup2eu2/זהו-זה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2045806/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-06",
+       "plot": "טראמפ ונשיא ונצואלה, תחזית אסטרולוגית לשנה החדשה וזוכה מיוחד בטקס פרסי האקדמיה של השר זוהר. אורחת מיוחדת: שירי מימון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/987299/",
+       "id": "987299",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 8 - 30.12.25",
+       "logo": "https://www.kan.org.il/media/k4vaqs1a/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025112/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-30",
+       "plot": "חיליק מגנוס מחלץ את תושבי הצפון, טרנד השיפודיות חוזר וכוחות מיוחדים חוזרים אחורה בזמן לכיכר מלכי. אורחים מיוחדים: דורי בן זאב ולהקת רד בנד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/985076/",
+       "id": "985076",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 7 - 16.12.25",
+       "logo": "https://www.kan.org.il/media/5e5idysc/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1978993/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "לכבוד חג החנוכה, סיפור ממלכות ישראל מפי היסטוריון - על שחיתות, פילוג, מאבקי כוח, ופירוק, והצצה נדירה לפגישת הזום של יהודה המכבי לתכנון מרד המכבים. אורח: מוש בן ארי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/980769/",
+       "id": "980769",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 6 - 09.12.25",
+       "logo": "https://www.kan.org.il/media/nbonxrqg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961421/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "גלולת היום שאחרי - \"בוז'ינור\", תצוגת האופנה של \"המשביר לנטחן 2026\", והצצה להכנות של כ\"ץ מול המראה לפגישות עם הרמטכ\"ל וראש הממשלה. אורחים: איפה הילד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/978195/",
+       "id": "978195",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 5 - 02.12.25",
+       "logo": "https://www.kan.org.il/media/s1kpdcri/זהו-זה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953009/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-01",
+       "plot": "סיפורו המטלטל של סמי הסלמון ששאבו ממנו זרע, ביטול המינוי של אחראי הפיתות בצה\"ל, והמלכה הרעה משלגייה נעזרת במכונת הרעל. אורחת: נלי תגר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/975987/",
+       "id": "975987",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 4 - 25.11.25",
+       "logo": "https://www.kan.org.il/media/emyomhe0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949533/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-24",
+       "plot": "אודישנים לוועדת חקירה, מי אשם באומללות שלנו והאזרח שהבריח חיות מתאילנד. אורחת: יובל דיין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/973570/",
+       "id": "973570",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 3 - 18.11.25",
+       "logo": "https://www.kan.org.il/media/t12gn34m/ספסל.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1930718/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-18",
+       "plot": "הצצה לחקירת הפורעים בשטחים, הפלסטיקאי של מחבלי חיזבאללה נחשף ומה קרה כשאחד העצורים בפרשת ההסתדרות הגיע לאבו כביר? אורח: שם טוב לוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/971605/",
+       "id": "971605",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 2 - 11.11.2025",
+       "logo": "https://www.kan.org.il/media/hpialsxw/img-20251110-wa0045.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907454/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "עונה חדשה! החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים. הפעם הם יארחו את איה כורם לשיר משותף.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/969653/",
+       "id": "969653",
+       "season": 8
+      },
+      {
+       "name": "זהו זה! עונה 8 | פרק 1 - 04.11.2025",
+       "logo": "https://www.kan.org.il/media/kiplvgws/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891769/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "עונה חדשה! החמישייה המופלאה ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים. בפרק פתיחת העונה הם יארחו את מוניקה סקס לשיר משותף",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/967008/",
+       "id": "967008",
+       "season": 8
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "זהו זה! בממ\"ד | ספיישל עם כלביא חלק ב' - 01.07.25",
+       "logo": "https://www.kan.org.il/media/zhnjf2gt/לאתר-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dfi82raz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-01",
+       "plot": "חברי זהו זה! החליטו להתגייס להרמת המורל הלאומי בעקבות המצב. עם מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/926978/",
+       "id": "926978",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! בממ\"ד | ספיישל עם כלביא - 24.06.25",
+       "logo": "https://www.kan.org.il/media/4bam3trk/זהו-זה-ממד-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8n4rnevh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-24",
+       "plot": "חברי זהו זה! מתגייסים להרמת המורל ומספקים אתנחתא קומית ליושבים במקלטים ובממ\"דים. יחד עם: מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/924682/",
+       "id": "924682",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 22 - 10.04.25",
+       "logo": "https://www.kan.org.il/media/xrznat15/אליהו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wdcln8ru/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-10",
+       "plot": "איך להתנהל עם הבוסים החדשים בקטר, ישיבת קריאייטיב על מכות מצרים, והאם אליהו הנביא הוא בעד או נגד ביבי? פרק חגיגי לסיום העונה. אורחים: יהורם גאון, ג'ירפות ואליאנה תדהר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/881308/",
+       "id": "881308",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 21 - 03.04.25",
+       "logo": "https://www.kan.org.il/media/d2mp52xs/כככ.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xwpgmrq9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-03",
+       "plot": "מה גורלו של המילואימניק סיזיפוס, מה יהיה גורלם של בני הערובה ממשרד רה\"מ והאם ניסיתם לנתק לגמרי ולחבר מחדש את עזה? אורח: ארקדי דוכין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/878719/",
+       "id": "878719",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 20 - 27.03.25",
+       "logo": "https://www.kan.org.il/media/zndl2h1j/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nkmm03dw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-27",
+       "plot": "מה סותם את השירותים בבני ברק, מה עושה שוטר לילד שלא אוכל, ואיך מדברים על המצב במדינה כשאין מילים. זמר אורח: אבנר גדסי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/875975/",
+       "id": "875975",
+       "season": 7
+      },
+      {
+       "name": "זהו זה!  עונה 7 | פרק 19 - 20.03.25",
+       "logo": "https://www.kan.org.il/media/knxhu4wx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wwqo6q3n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-20",
+       "plot": "איך אפשר לנהל מדינה בלי אמון, מה עושים עם הירידות בבורסה, ואיך מעבירים תקציב בדרך מקורית? אורחים מוזיקליים: ג'יין בורדו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/872821/",
+       "id": "872821",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 18 - 13.03.25",
+       "logo": "https://www.kan.org.il/media/5acdrjtq/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f9p67p28/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-13",
+       "plot": "הרמטכ\"ל החדש והעזיבה של הגרי, השי הצנוע של מירי רגב לחטופים ששבו, וארמון האחשוורוש. אורחת מוזיקלית: נונו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/870217/",
+       "id": "870217",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 17 - 06.03.25",
+       "logo": "https://www.kan.org.il/media/v5hecwbl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j2as3yya/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-06",
+       "plot": "ניר ברקת מתעסק בדברים החשובים ומתאמן בלהיות ראש ממשלה, איך בא לעולם שליח של וולט, ולמה למרות הכל אפשר גם לצחוק על המצב? אורחת מוזיקלית: דנה ברגר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/867695/",
+       "id": "867695",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 16 - 27.02.25",
+       "logo": "https://www.kan.org.il/media/reidhwm2/לאתר-חדש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kqrf9kf3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-23",
+       "plot": "הגרסה החדשה של קרעי לשיר \"רקמה אנושית\", איך מתווכים להקה צבאית לחיילים חרדים, ולכבוד יום המשפחה - איך נראית המשפחה הישראלית הטיפוסית? אורח: רן דנקר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/863376/",
+       "id": "863376",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 15 - 19.02.25",
+       "logo": "https://www.kan.org.il/media/cpznuj1q/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tn6jx870/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "ועדת חקירה ב-AI, אנשי שב\"כ בוחרים חולצות לאסירים שמשוחררים ויועצי ראש הממשלה מנסים למצוא סלוגן חדש. אורח מוזיקלי: דיויד ברוזה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/861933/",
+       "id": "861933",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 14 - 06.02.25",
+       "logo": "https://www.kan.org.il/media/vheg0gtz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mnkl684x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "קונצרט 4 העונות של ויולדי מנגן רק קיץ, המועמד הראוי מידי לרמטכ\"לות והמצביא הרומי מסכים להוציא את הסנהדרין מירושלים החרבה ונותן להם בונוס - חדר כושר. אורח מיוחד: מאור כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/856415/",
+       "id": "856415",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 13 - 29.01.25",
+       "logo": "https://www.kan.org.il/media/ff5l2ylt/זהו-זה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zsbt8xom/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-28",
+       "plot": "איך בוחרים רמטכ\"ל, מי יעבור לקופת חולים חדשה בראשות בנט, ויריב לוין הכועס לא מוכן לצאת מהקופסה שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/853014/",
+       "id": "853014",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 12 - 23.01.25",
+       "logo": "https://www.kan.org.il/media/mvgnyxq1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1vkcj5g5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "השאלה שגרמה לצ'אט GPT לקרוס, המצב הכלכלי גורם אפילו לקבצנים לתרום למי שאין, וכמה רחוק יגיעו העוזרים הפרלמנטרים של גנץ כדי למנוע ממנו להיכנס שוב לממשלה עם נתניהו? אורחים מיוחדים: החצר האחורית ועידו מוסרי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/851019/",
+       "id": "851019",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 11 - 09.01.25",
+       "logo": "https://www.kan.org.il/media/mmolupch/זהו-זה-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jwqkjk0w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-16",
+       "plot": "זריקות הרזייה (או השכלה), משחקים ארץ עיר ומחפשים קונספירציות ומזמינים סושי בלי רול מסוים. אורח מוזיקלי: מיקי גבריאלוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/848098/",
+       "id": "848098",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 10 - 09.01.25",
+       "logo": "https://www.kan.org.il/media/g0zgsyl5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_09nbt7gr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-09",
+       "plot": "חילוץ מיוחד של שרה נתניהו מבית מלון במיאמי, העוזר של טלי גוטליב מכין ציוצים חדשים, ואיך בוחרים חולצות מתאימות כדי להיכנס לכנסת. אורח מיוחד: בועז שרעבי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/845347/",
+       "id": "845347",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 9 - 02.01.25",
+       "logo": "https://www.kan.org.il/media/u0ajqdn3/תמונה-נקי-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p3xlg8kz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-02",
+       "plot": "אסטרואיד שגורם לפיטורי היועמ\"שית, בניית מרחב מוגן מבלי לבנות אותו, וזוגות שסילסטר מצליח להפריד. אורח מיוחד: דני בסן לשיר משותף, ויתנו לנו עוד רגעים מרגשים ומצחיקים לקראת סוף השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/842990/",
+       "id": "842990",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 8 - 26.12.24",
+       "logo": "https://www.kan.org.il/media/mszmo4lo/זהו-זה-פרק-8-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_89d8k4sp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "משא ומתן עם דג זהב, סופגניות בטעמים של מלחמה לחיילים והצהרת דובר החות'ים בנוגע להצלחות התקיפה על ישראל. זהו זה בתוכנית מיוחדת לרגל יום ההוקרה למילואימניקים. אורחים: אילנית ומשה פרסטר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811971/",
+       "id": "811971",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 7 - 12.12.24",
+       "logo": "https://www.kan.org.il/media/untlylyp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u42u6mng/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "בן גוריון עומד על הראש בגן עדן, משרד החינוך לא מרוצה מציוני התלמידים שלא מספיק נמוכים, ואיך מפילים ממשלה בדרכי שלום ובשקט? אורחים מיוחדים: אתניקס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811967/",
+       "id": "811967",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 6 - 05.12.24",
+       "logo": "https://www.kan.org.il/media/ff3pbmyk/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0x5l45j3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "מה יעשה פיסטוק בלי הבית בצפון, חברי הקאסט מנסים לעשות מערכונים עם ביקורת מאוזנת, ומה יעשו הגברים בלי סימון מחירים? אורחים: קרן פלס ויעל לבנטל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811965/",
+       "id": "811965",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 5 - 28.11.24",
+       "logo": "https://www.kan.org.il/media/pcrcxvgb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4lovs55m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "איך להשיג הצהרה דחופה מראש ממשלה עסוק מדי ואיך מתרגמים צה\"לית לחרדית? אורחים: ישי ריבו ויעל לבנטל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811959/",
+       "id": "811959",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 4 - 21.11.24",
+       "logo": "https://www.kan.org.il/media/gyebdsfz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_igl4t4k5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "למה התור להשמצת היועמ\"שית כל כך ארוך, בובת התירוצים האהובה עליכם בהנחה מיוחדת לקראת הבלאק פריידי, ומטרות המלחמה האמיתיות שהפתיעו את הרמטכ\"ל. זמר אורח: יזהר אשדות, שחקנים אורחים: משה פרסטר ויעל לבנטל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811958/",
+       "id": "811958",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 3 - 14.11.24",
+       "logo": "https://www.kan.org.il/media/qwnooji3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3fpu4b8h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "באיזה גייט יורדים מהארץ, למה השכן החרדי חוגג 18 לבד, ומי זכה בתואר העובד הלא מצטיין של משרד ראש הממשלה? אורחת מיוחדת: רונה קינן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811953/",
+       "id": "811953",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 2 - 07.11.24",
+       "logo": "https://www.kan.org.il/media/o24ofqhk/זהו-זה-תמונה-0711.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ygsilfkg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-13",
+       "plot": "ישראל כ\"ץ מתאמן בלהיות סמכותי לקראת התפקיד החדש, סוכן איראני מנסה לגייס מרגל וגלו מי האישיות הבכירה בשעשועון חדש. אורחים מיוחדים: להקת טיפקס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811950/",
+       "id": "811950",
+       "season": 7
+      },
+      {
+       "name": "זהו זה! עונה 7 | פרק 1 - 31.10.24",
+       "logo": "https://www.kan.org.il/media/sy0d2tvo/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y7adlszp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-09",
+       "plot": "החמישייה המופלאה פותחת עונה חדשה. דורותי במסע אל הקוסם מאומן, האם הראנו לאיראנים מאיפה משתין הדג, ולהקת פיקוד אין צפון בשיר מיוחד. אורח מיוחד: יהודה פוליקר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/810635/",
+       "id": "810635",
+       "season": 7
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "זהו זה! עונה 6 | פרק 37 - 18.04.24",
+       "logo": "https://www.kan.org.il/media/wcifasjd/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6xdzdmj9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-18",
+       "plot": "חברי זהו זה מסיימים עונה מרגשת, עונה שבה הביאו למסך הרבה רגעי נחמה בימים הקשים שעוברים על כולנו. בפרק הסיום, הם נפרדים עם אורח מיוחד - שלמה ארצי, ועם מערכונים שישאירו אותנו עם געגועים לעונה הבאה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/739554/",
+       "id": "739554",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 36 - 11.04.24",
+       "logo": "https://www.kan.org.il/media/vxhlb5ql/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f3vtqsgf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-11",
+       "plot": "פיקוד העורף מסביר במה לא צריך להצטייד מפני האיום האיראני, ולמה כדאי לטוס לחופשה רומנטית כדי להכריע את חמאס. אורח מוזיקלי: דני רובס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/736471/",
+       "id": "736471",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 35 - 04.04.24",
+       "logo": "https://www.kan.org.il/media/fvonwhec/לאתר-זהו-זה-פרק-35.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7ho7d7bd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-04-04",
+       "plot": "מתנות לפסח או לומר לקוגלות מה אתם באמת חושבים עליהם? וגם, מונולוג של ביבי וחיליק מגנוס והחותים חוזרים. זהו זה! מתגייסים להעלות את המורל בעוד פרק חדש. אורחת מוזיקלית: גלי עטרי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/733484/",
+       "id": "733484",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 34 - 28.03.24",
+       "logo": "https://www.kan.org.il/media/crzjwxxi/985da98da5ssad985sda958.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5646enkb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-28",
+       "plot": "שרה מבקרת חטופים, החרדי שדורש שיוויון בנטל והקיש שמתקפל. חברי זהו זה! מעלים את המורל בפרק חדש. אורח מוזיקלי: מוקי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/730196/",
+       "id": "730196",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 33 - 21.03.24",
+       "logo": "https://www.kan.org.il/media/wacjg0ih/זהו-זה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c35y2wyo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-21",
+       "plot": "מסיבת עיתונאים שאי אפשר להודיע בה כלום, איך מתחפשים לדניאל הגרי ולמי עדיין אין פודקאסט בימינו? אורח מיוחד: שלמה גרוניך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/726511/",
+       "id": "726511",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 32 - 07.03.24",
+       "logo": "https://www.kan.org.il/media/5cymegrr/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b2zpg6j7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-03-07",
+       "plot": "שרים מסבירים שהם שרים חשובים מאוד, איך האברכים מגנים על המולדת, ומי האשם במחדל אי איסוף הקקי של הכלב? אורחת מיוחדת: ריקי גל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/717409/",
+       "id": "717409",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 31 - 29.02.24",
+       "logo": "https://www.kan.org.il/media/03uet1ms/s0460593.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vfgjw5qe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-29",
+       "plot": "מה פוליטי בריצת 100 מטר, להפסיק לומר שהמצב \"חרא\" כשהוא בסך הכל \"קקה\", ומה זה אומר שמלחמה היא משחק סכום אפס. אורח מיוחד: חיים משה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/713742/",
+       "id": "713742",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 30 - 22.02.24",
+       "logo": "https://www.kan.org.il/media/cl2lbbz3/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ov9ffvm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-22",
+       "plot": "חיליק מגנוס יוצא לחלץ את גנץ מהקואליציה, האנשים שביבי פגש ולא כל כך זוכר, ומי יודע מה באמת קרה לנבלני? ובנוסף לכיף הזה, מירי מסיקה מגיעה לשיר עם החבורה. אורחים מיוחדים: רמי ורד ושי שטרן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/709133/",
+       "id": "709133",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 29 - 15.02.24",
+       "logo": "https://www.kan.org.il/media/ywmgyvlo/skibidiedgingbruh.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hipl6ayg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-15",
+       "plot": "סמוטריץ' ואלוהים, דני רופ עובר לערוץ 14, וחוק הגיוס: חברי זהו זה מתגייסים להעלות חיוך לקראת סוף השבוע. אורח מוזיקלי: שלומי שבן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/704897/",
+       "id": "704897",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 28 - 08.02.24",
+       "logo": "https://www.kan.org.il/media/3snnrhgn/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k2j23uvr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-08",
+       "plot": "תושבי העוטף חוזרים הביתה, המחירים עולים, חוני המעגל מבקש הפוגה ומסיבת העיתונאים של טראמפ. אורחים מיוחדים: אילן גולד וקורין אלאל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/700174/",
+       "id": "700174",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 27 - 01.02.24",
+       "logo": "https://www.kan.org.il/media/5scksyfx/s0460589_item07mp401_25_17_27still001.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oy4y85ip/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-02-01",
+       "plot": "הזמן הכי טוב לקנות בית בעזה, מריבות עם אנשי מכס ושרים שהם בעצם בוטים. אז מה נשיר? \"מקום לדאגה\" עם מתי כספי כמובן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/696198/",
+       "id": "696198",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 26 - 29.01.24",
+       "logo": "https://www.kan.org.il/media/bwrpaqbt/לאתר-פרק-26.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x7ao9myy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-29",
+       "plot": "דפיברילטור בנאום ביבי, שיחה שמעולם לא התקיימה עם ביבי ואלוהים שנגע בביבי. אורח מיוחד: יוני רכטר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/694238/",
+       "id": "694238",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 25 - 25.01.24",
+       "logo": "https://www.kan.org.il/media/psadem0l/לאתר-פרק-25.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s8bj6vr7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-25",
+       "plot": "שרים שלא מצליחים לסגור את החודש, מומחי מלחמה ללא מומחיות, ומטבעות לשון שלא אומרים כלום. אורחת מיוחדת: מירי אלוני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/692099/",
+       "id": "692099",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 24 - 22.01.24",
+       "logo": "https://www.kan.org.il/media/2alhvyqc/לאתר-פרק-24-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dekvoeea/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-22",
+       "plot": "חברי זהו זה יארחו את להקת הדג נחש לשיר משותף, יבצעו מערכונים חדשים, ויתנו לנו עוד כמה אנחות של צחוק בתחילתו של השבוע.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/689690/",
+       "id": "689690",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 23 - 18.01.24",
+       "logo": "https://www.kan.org.il/media/jcvh0lmo/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aefzav8q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-18",
+       "plot": "מתי זה הרגע הנכון להתפטר מהממשלה ומתי לאכול פופקורן? ואולי זה בסדר לקצץ עוד מתקציב הבריאות, כי אנשים גם ככה מתים בסוף. אורח מיוחד: אלון אולארצ'יק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/687003/",
+       "id": "687003",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 22 - 15.01.24",
+       "logo": "https://www.kan.org.il/media/y1adq2ud/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5jioigo3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-15",
+       "plot": "איך יודעים מתי כבר ניצחנו ואיזה שלב במלחמה מגיע אחרי השני ולפני הרביעי? ועד אז, אפשר להתנחם בחמשיר על גוש קטיף ולדמיין מציאות במאדים. אורחת מיוחדת: שרית חדד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/684709/",
+       "id": "684709",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 21 - 11.01.24",
+       "logo": "https://www.kan.org.il/media/lsfplkyn/זהו-זה-תמונה-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pkgm2kza/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-11",
+       "plot": "חשוב להיות מאוחדים, אבל אסור לשכוח לגבות חובות ממילואימניקים שזנחו את העסק שלהם בגלל שהם נלחמים בחזית. אורחים מיוחדים: אברהם טל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/682280/",
+       "id": "682280",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 20 - 08.01.24",
+       "logo": "https://www.kan.org.il/media/p5gh3w1l/לאתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5es9bw8g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-08",
+       "plot": "חברי זהו זה יארחו את יהודית רביץ לשיר משותף, יבצעו מערכונים חדשים, ויתנו לנו עוד כמה אנחות של צחוק בתחילתו של השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/680384/",
+       "id": "680384",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 19 - 04.01.24",
+       "logo": "https://www.kan.org.il/media/xylmig1p/kan11_2023-11-28_12_00_47-recovered00.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5bkuy01p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-04",
+       "plot": "מי חיסל את בכיר חמאס? והחות'ים עולים שלב בסכסוכים והיום שאחרי המלחמה. זמר אורח: חנן יובל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/669014/",
+       "id": "669014",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 18 - 28.12.23",
+       "logo": "https://www.kan.org.il/media/1gzbd25q/s0445552_100_27_22_08still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_how9htyu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-28",
+       "plot": "חברי זהו זה מתגייסים ברוח התקופה להעלות חיוך לקראת סוף השבוע. הערב הם יארחו את קרולינה לשיר משותף, יבצעו מערכונים חדשים, וינסו לתת לנו עוד כמה אנחות של צחוק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/664255/",
+       "id": "664255",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 17 - 25.12.23",
+       "logo": "https://www.kan.org.il/media/0g1jjym1/פרק-17-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_esb91gtq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-25",
+       "plot": "חברי זהו זה מארחים את עמרי גליקמן (התקווה 6), אליאנה תדהר ולי בירן, ומעלים לנו חיוך בתקופה חשוכה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/661924/",
+       "id": "661924",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 16 - 21.12.23",
+       "logo": "https://www.kan.org.il/media/pcynnbto/לאתר-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v8r6stpk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-21",
+       "plot": "חברי זהו זה בתוכנית מיוחדת יארחו את רמי קליינשטיין לשיר משותף, יבצעו מערכונים חדשים, וינסו למרות הכל להעלות חיוך לקראת סוף השבוע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/659613/",
+       "id": "659613",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 15 - 18.12.23",
+       "logo": "https://www.kan.org.il/media/kvuptqx5/לאתר-פרק-15.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v8ram7c1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-18",
+       "plot": "איך עושים דמיון מודרך בזמן מלחמה, לחימה או תמרון, ואיך מזמינים סושי במזרח התיכון כשצריך דחוף לשנות טרמינולוגיה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/657300/",
+       "id": "657300",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 14 - 14.12.23",
+       "logo": "https://www.kan.org.il/media/y5ggik3w/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ajmw1bro/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-14",
+       "plot": "האם כבר מותר לחזור לקטר, הבעל שמכור לאפליקציה של פיקוד העורף והיהודי מפריז שקיבל תרומה של עורלה: זהו זה! בפרק חדש. אורחים מיוחדים: דודו טסה ואליאנה תדהר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/654948/",
+       "id": "654948",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 13 - 11.12.23",
+       "logo": "https://www.kan.org.il/media/v0hocx5v/לאתר-פרק-13.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c4luxcd6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-10",
+       "plot": "איך מרגיעים הורים שחרדים לילדם המגודל והאם ינון מגל יודע איפה אלוהים? אורחים מיוחדים: זהבה בן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/649548/",
+       "id": "649548",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 12 - 07.12.23",
+       "logo": "https://www.kan.org.il/media/g4np5ut3/לאתר-פרק-12.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8jyh5mph/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-07",
+       "plot": "איך החות'ים מפיגים שעמום ואיך מטילים אשמה על החיים עצמם?\nאורחים מיוחדים: לי בירן וחנן בן ארי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/644719/",
+       "id": "644719",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 11 - 04.12.23",
+       "logo": "https://www.kan.org.il/media/kusbo5ge/s0453719_item0300_00_16_01still003.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d9hez32j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-04",
+       "plot": "מערכון פוליטי על דרעי מסתבך, מתי בדיוק התחילו לשנוא את היהודים, טייק אוף על הפרסומת של ההסתדרות החדשה והזקנים שתוהים בקול רם - מתי בדיוק התחילו לשנוא את היהודים? אורחים מיוחדים: אליאנה תדהר ואביתר בנאי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/638503/",
+       "id": "638503",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 10 - 02.12.23",
+       "logo": "https://www.kan.org.il/media/pjqdhkxh/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y4dy3le6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-30",
+       "plot": "חברי זהו זה בתוכנית מיוחדת יארחו את ירדנה ארזי לשיר משותף, יבצעו מערכונים חדשים עם אליאנה תדהר, וינסו למרות הכל להעלות חיוך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/633566/",
+       "id": "633566",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 9 - 23.11.23",
+       "logo": "https://www.kan.org.il/media/aa3dxch4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ophprza/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-23",
+       "plot": "נתניהו קורא על צ'רצ'יל ומיישם מסקנות, הסיפור האמיתי של החות'ים והזוג שמנסה להזמין סושי במזרח התיכון. אורחים: עידן רייכל ואליאנה תדהר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/620734/",
+       "id": "620734",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 8 - 20.11.23",
+       "logo": "https://www.kan.org.il/media/qq3bndoh/אתר-זהו-זה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mgybn0t8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-20",
+       "plot": "להיט העינויים הבא של מני ממטרה, מכונת הרעל של נתניהו ובדיקת עירנות עם האזרחים ש\"התעוררו\". אורחים מיוחדים: לי בירן, אליאנה תדהר ועברי לידר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/616429/",
+       "id": "616429",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 7 - 16.11.23",
+       "logo": "https://www.kan.org.il/media/dyqmmgiw/פרק-7-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jkkzj8e0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-16",
+       "plot": "שאלות העיתונאים שרודפות את ביבי בחלומות, ריאיון עם השר דיכטר, הצעת נישואים בזמן אזעקה וגל-גל-גל-גלנץ, השילוב המנצח של גלנט וגנץ. אורחים מיוחדים: אליאנה תדהר ולי בירן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/611203/",
+       "id": "611203",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 6 - 13.11.23",
+       "logo": "https://www.kan.org.il/media/11ol4sjl/09-maftiaim-bashetach00_01_53_46still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wsozptvf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-13",
+       "plot": "תקופה מאתגרת, מורכבת או סתם תקופה חרא? וגם - הפאנליסטים בחדשות, נאום גלנט, נפילת טילת מתל אביב ואיך קונים בסופר בתקופת מלחמה? אורחת מיוחדת: לאה שבת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/607046/",
+       "id": "607046",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 5 - 09.11.23",
+       "logo": "https://www.kan.org.il/media/kszjmbf5/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ff3u6p52/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-09",
+       "plot": "התראות על המסך שמסתירות את קושניר, הפסיכולוג המרגיע, הכיסוי המשפטי של ביבי וביקור בבונקר של נסראללה: פרק חדש של זהו זה! שישפר לכם את מצב הרוח. אורחים מיוחדים: אלי יצפאן ודני סנדרסון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/601469/",
+       "id": "601469",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 4 - 02.11.23",
+       "logo": "https://www.kan.org.il/media/odppy5fa/זהו-זה-6-פרק-4-לאתר-ברהנו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6b402v31/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-11-02",
+       "plot": "פרסומות \"מיוחדות\" למצב, שיעור סריגה עם סבתות שסורגות לחיילים ודיווחים שוטפים עם ברהנו טגניה שנמצא בכל מקום. אורחים מיוחדים: עמיר בניון ויוסי ואסה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/592113/",
+       "id": "592113",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 3 - 26.10.23",
+       "logo": "https://www.kan.org.il/media/fr5ilz4d/אתר-זהו-זה-והגששים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xlvkmomb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-26",
+       "plot": "חברי זהו זה אוספים את עצמם השבוע כדי לתת לנו רגע לנשום. השבוע הם מארחים את הגששים שייקה לוי וגברי בנאי, שגייסו לרגע אחד למילואים את ויקטור חסון וסמל ראשון מוקד. בנוסף, רננה רז תתרגל נשימה ותנועה עם ילדים מהדרום",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/582999/",
+       "id": "582999",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 2 - 19.10.23",
+       "logo": "https://www.kan.org.il/media/zjwnbyel/זהו-זה-6-2-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nwagsbsz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-17",
+       "plot": "חברי זהו זה אוספים את עצמם גם השבוע כדי לתת לנו רגע לנשום. בתוכנית מיוחדת הם יארחו את אומן החושים, ליאור סושארד, שיעניק להם ולכמה מילדי הדרום רגע של אשליה, יארחו את שלומי שבת, וינסו להעלות חיוך מריר ומנחם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/571722/",
+       "id": "571722",
+       "season": 6
+      },
+      {
+       "name": "זהו זה! עונה 6 | פרק 1 - ספיישל מיוחד לרגל המצב",
+       "logo": "https://www.kan.org.il/media/50xoamdu/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_povq3ovi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-10-12",
+       "plot": "חברי ההרכב של זהו זה אוספים את עצמם כדי לתת לנו רגע לנשום. בתוכנית מיוחדת הם יארחו ילדים מהעוטף, יתנו לנו כמה עצות איך להירגע, יארחו את ריטה וינסו להעלות חיוך מריר ומנחם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s6/565782/",
+       "id": "565782",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "זהו זה! - ספיישל עצמאות - פרק 35",
+       "logo": "https://www.kan.org.il/media/rvaepu1m/2023-4-24-imgid-98824_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2g2cldgo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-02",
+       "plot": "תכנית חגיגית ליום העצמאות. חמשת המופלאים במערכונים לחג, עם אורחים ושירים ועם תזמורת המהפכה על הבמה הפתוחה של מתחם קו רקיע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/327733/",
+       "id": "327733",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 34",
+       "logo": "https://www.kan.org.il/media/gjdjuqz0/https-kanstaticazureedgenet-download-pictures-2023-3-23-imgid-96703_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lw3xuhnm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/163226/",
+       "id": "163226",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 33",
+       "logo": "https://www.kan.org.il/media/bqbdvqac/https-kanstaticazureedgenet-download-pictures-2023-3-16-imgid-96171_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o28ecl4q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/162784/",
+       "id": "162784",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 32",
+       "logo": "https://www.kan.org.il/media/rfigf3kh/https-kanstaticazureedgenet-download-pictures-2023-3-9-imgid-95615_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2jgxpu6c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/162246/",
+       "id": "162246",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 31",
+       "logo": "https://www.kan.org.il/media/pgcpuajl/https-kanstaticazureedgenet-download-pictures-2023-3-2-imgid-95122_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k279sejd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/161661/",
+       "id": "161661",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 30",
+       "logo": "https://www.kan.org.il/media/xxnd2stw/https-kanstaticazureedgenet-download-pictures-2023-2-23-imgid-94656_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4floks6s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/161190/",
+       "id": "161190",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 29",
+       "logo": "https://www.kan.org.il/media/knom3cmv/https-kanstaticazureedgenet-download-pictures-2023-2-16-imgid-94098_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_slz9ocjk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/160449/",
+       "id": "160449",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 28",
+       "logo": "https://www.kan.org.il/media/b0unxoav/https-kanstaticazureedgenet-download-pictures-2023-2-2-imgid-92921_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z1q9wibf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכה להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/159237/",
+       "id": "159237",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 27",
+       "logo": "https://www.kan.org.il/media/de4poy4x/https-kanstaticazureedgenet-download-pictures-2023-1-26-imgid-92335_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7aofiowq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/158745/",
+       "id": "158745",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 26",
+       "logo": "https://www.kan.org.il/media/vfujseb5/2023-1-19-imgid-91705_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zdax5coz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/157832/",
+       "id": "157832",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 25",
+       "logo": "https://www.kan.org.il/media/3ayjmfes/2023-1-12-imgid-91027_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ux3v0ak2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/157208/",
+       "id": "157208",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2023 | עונה 5 - פרק 24",
+       "logo": "https://www.kan.org.il/media/q1dhogkc/https-kanstaticazureedgenet-download-pictures-2023-1-5-imgid-90549_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o7js9wfn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/156722/",
+       "id": "156722",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 23",
+       "logo": "https://www.kan.org.il/media/bdrjdene/https-kanstaticazureedgenet-download-pictures-2022-12-29-imgid-90066_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9srufbji/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/156258/",
+       "id": "156258",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 22",
+       "logo": "https://www.kan.org.il/media/1cjhwl0v/https-kanstaticazureedgenet-download-pictures-2022-12-22-imgid-89541_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cmv4k6py/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/155762/",
+       "id": "155762",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 21",
+       "logo": "https://www.kan.org.il/media/mqedcqvz/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-e3a4e518-26d8-41d2-a4f0-f206867b5d86.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1889066/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/154958/",
+       "id": "154958",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 20",
+       "logo": "https://www.kan.org.il/media/nniji4ve/https-kanstaticazureedgenet-download-pictures-2022-12-8-imgid-88324_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5kdt1c11/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/154424/",
+       "id": "154424",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 19",
+       "logo": "https://www.kan.org.il/media/vsdfmmf0/https-kanstaticazureedgenet-download-pictures-2022-11-17-imgid-85965_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vvloj667/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/152419/",
+       "id": "152419",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 18",
+       "logo": "https://www.kan.org.il/media/1wdll2t1/https-kanstaticazureedgenet-download-pictures-2022-11-10-imgid-85208_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lhjodln0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/151956/",
+       "id": "151956",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 17 (ספיישל בחירות)",
+       "logo": "https://www.kan.org.il/media/x4vpkwji/https-kanstaticazureedgenet-download-pictures-2022-11-1-imgid-84565_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wtojeu5h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תכנית מיוחדת!\r\nרגע לפני המדגם, גידי, מוני, דבל'ה, קושניר ובראבא מסכמים לנו את כל הרגעים הקסומים ממערכת הבחירות האחרונה, עם דמויות חדשות, מערכונים חדשים ושיר ישן (בביצוע חדש).",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/151556/",
+       "id": "151556",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 16",
+       "logo": "https://www.kan.org.il/media/orofa051/https-kanstaticazureedgenet-download-pictures-2022-10-27-imgid-84237_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nnt53965/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישיה המופלאה מתכוננת לעוד סבב של בחירות. מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא ממשיכים להצחיק ולרגש במערכונים חדשים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/151379/",
+       "id": "151379",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 15",
+       "logo": "https://www.kan.org.il/media/klbdvbws/https-kanstaticazureedgenet-download-pictures-2022-9-22-imgid-82252_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1chr3c1q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/150395/",
+       "id": "150395",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 14",
+       "logo": "https://www.kan.org.il/media/wroio015/https-kanstaticazureedgenet-download-pictures-2022-9-15-imgid-81799_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iwxra2t5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/150170/",
+       "id": "150170",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 13",
+       "logo": "https://www.kan.org.il/media/ishcolet/https-kanstaticazureedgenet-download-pictures-2022-9-8-imgid-81298_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1896587/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/149924/",
+       "id": "149924",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 12",
+       "logo": "https://www.kan.org.il/media/ykyisasb/https-kanstaticazureedgenet-download-pictures-2022-9-1-imgid-80792_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oky6rvdf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/149660/",
+       "id": "149660",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 11",
+       "logo": "https://www.kan.org.il/media/f2qlv1hf/https-kanstaticazureedgenet-download-pictures-2022-8-11-imgid-79645_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4x83i6z0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/148850/",
+       "id": "148850",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 10",
+       "logo": "https://www.kan.org.il/media/zl4kc15z/https-kanstaticazureedgenet-download-pictures-2022-8-4-imgid-79140_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3u54uvd2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/148643/",
+       "id": "148643",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 9",
+       "logo": "https://www.kan.org.il/media/grvljry2/https-kanstaticazureedgenet-download-pictures-2022-7-28-imgid-78719_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v19u5vpu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/148319/",
+       "id": "148319",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 8",
+       "logo": "https://www.kan.org.il/media/cponpoa4/https-kanstaticazureedgenet-download-pictures-2022-7-21-imgid-78318_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qocca1yq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/147974/",
+       "id": "147974",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 7",
+       "logo": "https://www.kan.org.il/media/amqlnl05/https-kanstaticazureedgenet-download-pictures-2022-7-14-imgid-77878_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wbfpy4qt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/147618/",
+       "id": "147618",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 6",
+       "logo": "https://www.kan.org.il/media/qlldvhot/https-kanstaticazureedgenet-download-pictures-2022-6-23-imgid-76695_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fw5li0au/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/146859/",
+       "id": "146859",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 5",
+       "logo": "https://www.kan.org.il/media/f2cewoo4/https-kanstaticazureedgenet-download-pictures-2022-6-16-imgid-76315_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ntcfpniz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/146592/",
+       "id": "146592",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 4",
+       "logo": "https://www.kan.org.il/media/mqrhdvoa/https-kanstaticazureedgenet-download-pictures-2022-6-9-imgid-75920_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_78f2hgmu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/146319/",
+       "id": "146319",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 3",
+       "logo": "https://www.kan.org.il/media/egkf4h2a/https-kanstaticazureedgenet-download-pictures-2022-6-2-imgid-75534_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r842ncyy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/146052/",
+       "id": "146052",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 2",
+       "logo": "https://www.kan.org.il/media/pvpfpoqs/https-kanstaticazureedgenet-download-pictures-2022-5-26-imgid-75132_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vxgeg05r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/145629/",
+       "id": "145629",
+       "season": 5
+      },
+      {
+       "name": "זהו זה 2022 | עונה 5 - פרק 1",
+       "logo": "https://www.kan.org.il/media/rzqjsqrp/https-kanstaticazureedgenet-download-pictures-2022-5-19-imgid-74757_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qyut0960/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s5/145305/",
+       "id": "145305",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "זהו זה 2021 | עונה 4 - ספיישל עצמאות",
+       "logo": "https://www.kan.org.il/media/khwbqent/https-kanstaticazureedgenet-download-pictures-2022-5-3-imgid-73753_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_frx0q8m6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים בתכנית מיוחדת ליום העצמאות. בשירים עם תזמורת המהפכה, עם מערכונים ואורחים וראש ממשלה אחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/144453/",
+       "id": "144453",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4 - פרק 20",
+       "logo": "https://www.kan.org.il/media/rywl5myf/https-kanstaticazureedgenet-download-pictures-2022-3-31-imgid-71949_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ex78c3ga/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/143251/",
+       "id": "143251",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4 - פרק 21",
+       "logo": "https://www.kan.org.il/media/dwhnkj2n/https-kanstaticazureedgenet-download-pictures-2022-4-14-imgid-72723_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dciucj0w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137248/",
+       "id": "137248",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4 - פרק 19",
+       "logo": "https://www.kan.org.il/media/o4flajwo/https-kanstaticazureedgenet-download-pictures-2022-3-17-imgid-71097_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_as757lfg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא חוזרים עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137245/",
+       "id": "137245",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 18",
+       "logo": "https://www.kan.org.il/media/b5qnyvfu/https-kanstaticazureedgenet-download-pictures-2022-3-10-imgid-70682_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_khnlsz0m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא חוזרים עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137242/",
+       "id": "137242",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 17",
+       "logo": "https://www.kan.org.il/media/3xwfjcgc/https-kanstaticazureedgenet-download-pictures-2022-3-3-imgid-70283_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kcw462no/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא חוזרים עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137239/",
+       "id": "137239",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 16",
+       "logo": "https://www.kan.org.il/media/reog2and/https-kanstaticazureedgenet-download-pictures-2022-2-24-imgid-69884_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e6gj1yq4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא חוזרים עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137236/",
+       "id": "137236",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 15",
+       "logo": "https://www.kan.org.il/media/vf5c5hq3/https-kanstaticazureedgenet-download-pictures-2022-2-17-imgid-69446_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u5umd3n6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137233/",
+       "id": "137233",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 14",
+       "logo": "https://www.kan.org.il/media/azfeet35/https-kanstaticazureedgenet-download-pictures-2022-2-10-imgid-69089_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t5xs3rqp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137230/",
+       "id": "137230",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2022 | עונה 4, פרק 13",
+       "logo": "https://www.kan.org.il/media/yfuh3bcg/https-kanstaticazureedgenet-download-pictures-2022-2-3-imgid-68687_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1p1wgbe1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137227/",
+       "id": "137227",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 12",
+       "logo": "https://www.kan.org.il/media/kd1d2eiz/https-kanstaticazureedgenet-download-pictures-2022-1-27-imgid-68281_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_emlvast9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137224/",
+       "id": "137224",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 11",
+       "logo": "https://www.kan.org.il/media/ngabdacj/https-kanstaticazureedgenet-download-pictures-2022-1-20-imgid-67943_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5lbtaw0h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137221/",
+       "id": "137221",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 10",
+       "logo": "https://www.kan.org.il/media/qdrgbkjn/https-kanstaticazureedgenet-download-pictures-2022-1-6-imgid-67141_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vfsvanxs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137218/",
+       "id": "137218",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 9",
+       "logo": "https://www.kan.org.il/media/jowdyfml/https-kanstaticazureedgenet-download-pictures-2021-12-30-imgid-66702_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_valj5doa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137215/",
+       "id": "137215",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 8",
+       "logo": "https://www.kan.org.il/media/4esjg0pa/https-kanstaticazureedgenet-download-pictures-2021-12-23-imgid-66339_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6wkcbj7q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137212/",
+       "id": "137212",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 7",
+       "logo": "https://www.kan.org.il/media/1r2ee50y/https-kanstaticazureedgenet-download-pictures-2021-12-16-imgid-65987_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_odg5dubk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137209/",
+       "id": "137209",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 6",
+       "logo": "https://www.kan.org.il/media/g3pih55d/2021-12-9-imgid-65645_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p1xgrmln/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - ממשיכים להצחיק ולרגש במערכונים מרעננים ושירים אהובים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137206/",
+       "id": "137206",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 5",
+       "logo": "https://www.kan.org.il/media/h51bqwr5/https-kanstaticazureedgenet-download-pictures-2021-12-2-imgid-65290_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7l8i1qek/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - חוזרת לעוד עונה מצחיקה של מערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137203/",
+       "id": "137203",
+       "season": 4
+      },
+      {
+       "name": "זהו זה! 2021 - עונה 4, פרק 4",
+       "logo": "https://www.kan.org.il/media/nshcliuq/https-kanstaticazureedgenet-download-pictures-2021-11-25-imgid-64883_aa.jpeg",
+       "url": "https://www.youtube.com/embed/_1PqhvbUYVQ",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - חוזרת לעוד עונה מצחיקה של מערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137200/",
+       "id": "137200",
+       "season": 4
+      },
+      {
+       "name": "זהו זה! 2021 - עונה 4, פרק 3",
+       "logo": "https://www.kan.org.il/media/enwn4wwq/https-kanstaticazureedgenet-download-pictures-2021-11-18-imgid-64478_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cx7axacf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - חוזרת לעוד עונה מצחיקה של מערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137197/",
+       "id": "137197",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 2",
+       "logo": "https://www.kan.org.il/media/gthbxag2/https-kanstaticazureedgenet-download-pictures-2021-11-11-imgid-64092_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dz7aeku0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי פגרת קיץ, חוזרת החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - לעוד עונה מצחיקה של מערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137194/",
+       "id": "137194",
+       "season": 4
+      },
+      {
+       "name": "זהו זה 2021 | עונה 4, פרק 1",
+       "logo": "https://www.kan.org.il/media/l3gglajp/https-kanstaticazureedgenet-download-pictures-2021-11-4-imgid-63681_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_39pvxgyc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי פגרת קיץ, חוזרת החמישייה המופלאה - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא - לעוד עונה מצחיקה של מערכונים מרעננים ושירים אהובים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s4/137191/",
+       "id": "137191",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 12",
+       "logo": "https://www.kan.org.il/media/iugpltq2/https-kanstaticazureedgenet-download-pictures-2021-4-14-imgid-50970_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9sxhfbvu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חברי זהו זה! מארחים את התזמורת הפילהרמונית, לתוכנית חגיגית ומיוחדת – שירים מערכונים ואורחים בערב מיוחד לכבוד המדינה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/129879/",
+       "id": "129879",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 11",
+       "logo": "https://www.kan.org.il/media/fl1fhlxa/2021-3-24-imgid-49732_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hezw1b7w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/129169/",
+       "id": "129169",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 10",
+       "logo": "https://www.kan.org.il/media/jtma5gsc/https-kanstaticazureedgenet-download-pictures-2021-3-18-imgid-49333_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3kckqmnf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/129025/",
+       "id": "129025",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 9",
+       "logo": "https://www.kan.org.il/media/0yzj1yzk/2021-3-11-imgid-48946_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f1odx0fu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/128678/",
+       "id": "128678",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 8",
+       "logo": "https://www.kan.org.il/media/voqkfo01/https-kanstaticazureedgenet-download-pictures-2021-3-4-imgid-48528_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zfxiq81g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/128439/",
+       "id": "128439",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 7",
+       "logo": "https://www.kan.org.il/media/yh2ngyjo/2021-2-25-imgid-48059_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ev68p0dn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/128048/",
+       "id": "128048",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 6",
+       "logo": "https://www.kan.org.il/media/3gqh2zru/https-kanstaticazureedgenet-download-pictures-2021-2-18-imgid-47659_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iikkk5zw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/127790/",
+       "id": "127790",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 5",
+       "logo": "https://www.kan.org.il/media/qy0imfir/https-kanstaticazureedgenet-download-pictures-2021-2-11-imgid-47223_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pz3ff8ey/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/127463/",
+       "id": "127463",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 4",
+       "logo": "https://www.kan.org.il/media/m4ikos3o/https-kanstaticazureedgenet-download-pictures-2021-1-28-imgid-46352_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0pl7370h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/126528/",
+       "id": "126528",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 3",
+       "logo": "https://www.kan.org.il/media/ixzlkp5l/https-kanstaticazureedgenet-download-pictures-2021-1-21-imgid-45961_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9bjog812/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/126192/",
+       "id": "126192",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 2",
+       "logo": "https://www.kan.org.il/media/fwcl3zn0/https-kanstaticazureedgenet-download-pictures-2021-1-14-imgid-45494_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o4j1u53c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/125868/",
+       "id": "125868",
+       "season": 3
+      },
+      {
+       "name": "זהו זה 2021 | עונה 3, פרק 1",
+       "logo": "https://www.kan.org.il/media/sa2d5ocx/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-c6483e55-4664-47fa-bc4d-3706082bf88c.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rah3a38d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, ממשיכים ללוות אותנו עם כל ענייני היום, קורונה, בחירות, חיסונים וכל מה שצפוי לנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s3/125571/",
+       "id": "125571",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 21",
+       "logo": "https://www.kan.org.il/media/eyxhysky/https-kanstaticazureedgenet-download-pictures-2020-12-31-imgid-44579_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5yyhqx3g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/125278/",
+       "id": "125278",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 20",
+       "logo": "https://www.kan.org.il/media/uk2h0eca/https-kanstaticazureedgenet-download-pictures-2020-12-24-imgid-44232_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wuovdkjq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/119498/",
+       "id": "119498",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 19",
+       "logo": "https://www.kan.org.il/media/ri1gzufq/https-kanstaticazureedgenet-download-pictures-2020-12-17-imgid-43870_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9whrqzs3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/119060/",
+       "id": "119060",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 18",
+       "logo": "https://www.kan.org.il/media/eutietmn/https-kanstaticazureedgenet-download-pictures-2020-12-10-imgid-43490_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8eof0e4t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/118973/",
+       "id": "118973",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 17",
+       "logo": "https://www.kan.org.il/media/t23erru4/https-kanstaticazureedgenet-download-pictures-2020-11-26-imgid-42721_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_etyy5t6k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/118594/",
+       "id": "118594",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 16",
+       "logo": "https://www.kan.org.il/media/sodifoqu/https-kanstaticazureedgenet-download-pictures-2020-11-19-imgid-42344_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rib5d8gq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני,  עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/118472/",
+       "id": "118472",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 15",
+       "logo": "https://www.kan.org.il/media/dl2opadj/https-kanstaticazureedgenet-download-pictures-2020-11-12-imgid-41970_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c40pcktf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני,  עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/118163/",
+       "id": "118163",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 14",
+       "logo": "https://www.kan.org.il/media/f3wlt0n0/https-kanstaticazureedgenet-download-pictures-2020-11-5-imgid-41622_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0bnl4056/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/117846/",
+       "id": "117846",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 13",
+       "logo": "https://www.kan.org.il/media/uk2l333s/https-kanstaticazureedgenet-download-pictures-2020-10-29-imgid-41268_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yx4ab3uf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/117647/",
+       "id": "117647",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 12",
+       "logo": "https://www.kan.org.il/media/ytbheqv0/https-kanstaticazureedgenet-download-pictures-2020-10-22-imgid-40915_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_02ok9rea/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/117464/",
+       "id": "117464",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 11",
+       "logo": "https://www.kan.org.il/media/qyjkllvj/https-kanstaticazureedgenet-download-pictures-2020-10-15-imgid-40595_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z8etf3za/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/117248/",
+       "id": "117248",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 10",
+       "logo": "https://www.kan.org.il/media/25ci1tyt/https-kanstaticazureedgenet-download-pictures-2020-10-8-imgid-40149_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a94yglc7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/116926/",
+       "id": "116926",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2 - המיטב",
+       "logo": "https://www.kan.org.il/media/adwknmau/https-kanstaticazureedgenet-download-pictures-2020-10-2-imgid-39764_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_amxsnkw5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/116793/",
+       "id": "116793",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | השירים הגדולים 2",
+       "logo": "https://www.kan.org.il/media/nqxjgbdp/https-kanstaticazureedgenet-download-pictures-2020-9-28-imgid-39578_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_594rm0hd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, עם מבחר שירים מרגשים לחג.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/116730/",
+       "id": "116730",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | השירים הגדולים",
+       "logo": "https://www.kan.org.il/media/2hij31bh/https-kanstaticazureedgenet-download-pictures-2020-9-18-imgid-39173_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7w0k1yrj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, עם מבחר שירים משמחים לחג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/116576/",
+       "id": "116576",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 9",
+       "logo": "https://www.kan.org.il/media/xotb2r4m/https-kanstaticazureedgenet-download-pictures-2020-9-24-imgid-39462_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2p2rvlip/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115047/",
+       "id": "115047",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 8",
+       "logo": "https://www.kan.org.il/media/gpni4dk1/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-cddbad8c-ab26-49d4-8eb2-003009869709.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0o5lkn8i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115044/",
+       "id": "115044",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 7",
+       "logo": "https://www.kan.org.il/media/cqapzxq4/https-kanstaticazureedgenet-download-pictures-2020-9-3-imgid-38433_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6ei29vkf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115041/",
+       "id": "115041",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 6",
+       "logo": "https://www.kan.org.il/media/lhwjl4b5/https-kanstaticazureedgenet-download-pictures-2020-8-27-imgid-37991_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0iun76c9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115038/",
+       "id": "115038",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 5",
+       "logo": "https://www.kan.org.il/media/j0nlzugj/https-kanstaticazureedgenet-download-pictures-2020-8-20-imgid-37621_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uak2xtpf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חמשת המופלאים - מוני מושונוב, גידי גוב, דבל'ה גליקמן, אבי קושניר ושלמה בראבא, מלווים אותנו בגל השני, עם שירים ומערכונים, ועם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115035/",
+       "id": "115035",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 4",
+       "logo": "https://www.kan.org.il/media/dsupmpkl/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-1342e385-31d2-4885-80fe-97b208eb4b2c.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9yao200d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי ההצלחה של הסיבוב הראשון, חמשת המופלאים חוזרים למסך, ללוות אותנו גם בימי הגל השני. מוני, גידי, דבל'ה, קושניר ובראבא בשירים ומערכונים, עם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115032/",
+       "id": "115032",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 3",
+       "logo": "https://www.kan.org.il/media/kjhfhewj/https-kanstaticazureedgenet-download-pictures-2020-8-6-imgid-37025_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e84i60sx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי ההצלחה של הסיבוב הראשון, חמשת המופלאים חוזרים למסך, ללוות אותנו גם בימי הגל השני. מוני, גידי, דבל'ה, קושניר ובראבא בשירים ומערכונים, עם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115029/",
+       "id": "115029",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 2",
+       "logo": "https://www.kan.org.il/media/htmn1maw/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-851c8fb7-4f4e-44a2-b102-8009e05ffbde.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lh7u71wb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי ההצלחה של הסיבוב הראשון, חמשת המופלאים חוזרים למסך, ללוות אותנו גם בימי הגל השני. מוני, גידי, דבל'ה, קושניר ובראבא בשירים ומערכונים, עם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115026/",
+       "id": "115026",
+       "season": 2
+      },
+      {
+       "name": "זהו זה 2020 | עונה 2, פרק 1",
+       "logo": "https://www.kan.org.il/media/wbclmai4/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-15e248c0-e43e-4643-ae6e-8da72b013b72.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_33qh56bk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי ההצלחה של הסיבוב הראשון, חמשת המופלאים חוזרים למסך, ללוות אותנו גם בימי הגל השני. מוני, גידי, דבל'ה, קושניר ובראבא בשירים ומערכונים, עם דמויות מוכרות וחדשות.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s2/115023/",
+       "id": "115023",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 15",
+       "logo": "https://www.kan.org.il/media/k3sntmpo/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1280x720-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-7f8aa060-6465-4024-a408-f2de9cf83385.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_50rv0kqk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רגע לפני שהם שבים לעונה שניה, חמשת המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חושפים את מאחורי הקלעים של יום צילום אחד ארוך ומשעשע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/114862/",
+       "id": "114862",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 14",
+       "logo": "https://www.kan.org.il/media/p2lhs0bp/https-kanstaticazureedgenet-download-pictures-2020-7-2-imgid-36100_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qy0nd505/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/114387/",
+       "id": "114387",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 13",
+       "logo": "https://www.kan.org.il/media/3epnttlh/https-kanstaticazureedgenet-download-pictures-2020-6-25-imgid-35778_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2zs6szmi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/114215/",
+       "id": "114215",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 12",
+       "logo": "https://www.kan.org.il/media/cobhbexl/https-kanstaticazureedgenet-download-pictures-2020-6-18-imgid-35346_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fc5znw7a/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/114076/",
+       "id": "114076",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 11",
+       "logo": "https://www.kan.org.il/media/i0rgn02x/https-kanstaticazureedgenet-download-pictures-2020-6-11-imgid-34932_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a8yge4c3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/113877/",
+       "id": "113877",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 10",
+       "logo": "https://www.kan.org.il/media/vnglbox4/https-kanstaticazureedgenet-download-pictures-2020-6-4-imgid-34528_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yni023x0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111606/",
+       "id": "111606",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 9",
+       "logo": "https://www.kan.org.il/media/tgfnr0xk/https-kanstaticazureedgenet-download-pictures-2020-5-28-imgid-34203_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vxtirekl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111603/",
+       "id": "111603",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 8",
+       "logo": "https://www.kan.org.il/media/hqzh4psq/https-kanstaticazureedgenet-download-pictures-2020-5-14-imgid-33462_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tpmv40lo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111600/",
+       "id": "111600",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 7",
+       "logo": "https://www.kan.org.il/media/resjxrtq/https-kanstaticazureedgenet-download-pictures-2020-5-7-imgid-33138_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd6clcde/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות ושיר מחודש.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111597/",
+       "id": "111597",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 6",
+       "logo": "https://www.kan.org.il/media/vhzbggsm/https-kanstaticazureedgenet-download-pictures-2020-4-28-imgid-32645_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0u3g7oao/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111594/",
+       "id": "111594",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 5",
+       "logo": "https://www.kan.org.il/media/cyzggw1k/2020-4-23-imgid-32367_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rpha2eqb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111591/",
+       "id": "111591",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 4",
+       "logo": "https://www.kan.org.il/media/tqbjnbc0/2020-4-17-imgid-32042_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mbknd067/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111588/",
+       "id": "111588",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 3",
+       "logo": "https://www.kan.org.il/media/ysahwd10/2020-4-9-imgid-31736_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ocurltp9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111585/",
+       "id": "111585",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 2",
+       "logo": "https://www.kan.org.il/media/ys4pz32c/2020-4-3-imgid-31397_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_41b06qgr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111582/",
+       "id": "111582",
+       "season": 1
+      },
+      {
+       "name": "זהו זה 2020 | עונה 1, פרק 1",
+       "logo": "https://www.kan.org.il/media/t3ndzati/https-kanstaticazureedgenet-download-pictures-2020-3-27-imgid-30973_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_59v3ut24/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "זהו זה! 2020 - תוכנית הקאלט המיתולוגית נקראה לדגל, וחוזרת אלינו לרגל המצב. חמישיית המופלאים: דובל'ה, קושניר, בראבא, מוני וגידי, חוזרים למסך הקטן עם דמויות חדשות וישנות, ושרים עם גרוניך",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s1/111579/",
+       "id": "111579",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

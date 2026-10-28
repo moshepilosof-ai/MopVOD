@@ -1,0 +1,63 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - י. שוורץ ומלחמתו בחיים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670903/",
+   "series_id": "670903",
+   "updated": "2026-10-28 11:17",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "י. שוורץ ומלחמתו בחיים | פרק 1 - חרדה",
+       "logo": "https://www.kan.org.il/media/1wthjksr/anxious.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oqpf4f0d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "טעות בזיהוי וחוב לוועד מכניס את יוץ שוורץ ההיפוכנדר למסע סוריאליסטי בעולמות הבירוקרטיה וגם בנבכי עצמו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670903/s1/675270/",
+       "id": "675270",
+       "season": 1
+      },
+      {
+       "name": "י. שוורץ ומלחמתו בחיים | פרק 2 - משפחה",
+       "logo": "https://www.kan.org.il/media/nrzhonyk/family2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n5jt1cz9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "בעקבות משבר בחיי הנישואין, יוץ שוורץ מנסה למצוא מוצא מהפלונטר ולזכות מחדש במקומו בחיק המשפחה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670903/s1/675267/",
+       "id": "675267",
+       "season": 1
+      },
+      {
+       "name": "י. שוורץ ומלחמתו בחיים | פרק 3 - זמן",
+       "logo": "https://www.kan.org.il/media/e3flujr4/time.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k3y5ihtc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יוץ שוורץ מתחיל לחשוב על הזמן שנותר לו מהחיים ומוצא את עצמו מתחמק ממלאך המוות, תרתי משמע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670903/s1/675264/",
+       "id": "675264",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "י. שוורץ ומלחמתו בחיים | הצצה",
+       "logo": "https://www.kan.org.il/media/3r1lurm3/צילום-מסך-2025-08-18-114432.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tdri0b78/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-18",
+       "plot": "הצצה לסדרה המוקומנטרית \"י. שוורץ ומלחמתו בחיים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670903/942602/",
+       "id": "942602"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

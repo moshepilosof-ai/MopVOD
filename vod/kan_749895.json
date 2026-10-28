@@ -1,0 +1,37 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שריף שנטי: תיק רצח",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-749895/",
+   "series_id": "749895",
+   "updated": "2026-10-28 13:39",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שריף שנטי - הצצה | הפקעת השטח",
+       "logo": "https://www.kan.org.il/media/jgwfpeoj/תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tih1um33/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-13",
+       "plot": "איך קרה שבנו בית מלון על בית קברות מוסלמי?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-749895/902101/",
+       "id": "902101"
+      },
+      {
+       "name": "שריף שנטי: תיק רצח",
+       "logo": "https://www.kan.org.il/media/pdaleue0/1920x1080_no-logo_שריף-שנטי_תיק-רצח.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cpn6xhxz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-05-16",
+       "plot": "מי רצח בחדר המדרגות בשדרות רוטשילד את סוחר הקרקעות הערבי, שריף שנטי? הסרט חושף מחדש את סיפורם של החשודים העיקריים, ואת המאבק שאליו יצאו כדי לשמור את הקרקע בבעלותם, מאבק שנמשך עד היום. בימוי: אבידע ליבני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-749895/749909/",
+       "id": "749909"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

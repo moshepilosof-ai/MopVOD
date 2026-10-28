@@ -1,0 +1,386 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - טיול אחרי צבא",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13042/",
+   "series_id": "13042",
+   "updated": "2026-10-28 11:16",
+   "sub_categories": [
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "טיול אחרי צבא | מסע בין לוחמים - חלק ב'",
+       "logo": "https://www.kan.org.il/media/wiafhyug/s0451329_100_10_29_23still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hobzgxqt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-03",
+       "plot": "פבלו רוזנברג וגל תורן נוסעים צפונה להביא בגדים חמים לחיילים בבסיס חיל הים בחיפה. הם יעלו על גשר הפיקוד של ספינת טילים, יבקרו ביחידת למשימות תת מימיות, ויעבירו ערב בבישול ושירה עם צוות מגובש וקולני של ספינת דבור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s6/668199/",
+       "id": "668199",
+       "season": 6
+      },
+      {
+       "name": "טיול אחרי צבא | מסע בין לוחמים - חלק א' ",
+       "logo": "https://www.kan.org.il/media/3hndvq10/פרק-1-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f7j50zez/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-18",
+       "plot": "אחרי שנסעו ברחבי העולם לפגוש ישראלים צעירים בטיול אחרי צבא, הפעם, בצל המלחמה, פבלו רוזנברג וגל תורן יוצאים לבקר ולשמח חיילי צה\"ל בבסיסים השונים בשני פרקים מיוחדים. בחלק הראשון הם יגיעו לשטח כינוס על גבול הרצועה, יקשיבו לסיפורים של חיילים צעירים ויקדישו שיר למפקדם האהוב שנפל בקרב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s6/657341/",
+       "id": "657341",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "טיול אחרי צבא - סובב ישראל | פרק 6 - הביתה",
+       "logo": "https://www.kan.org.il/media/43hkl0yf/https-kanstaticazureedgenet-download-pictures-2021-8-30-imgid-60171_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w5wa98v4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בפרק השישי והאחרון לעונה - המסע כמעט ונגמר. רגע לפני שחוזרים הביתה, גל ופבלו מספיקים לדהור בערבה עם רוכבות הארלי, לדווש על אופניים זוגיים, לבשל ארוחת פרידה חגיגית בעוטף עזה ולסכם את המסע שעברו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s5/134090/",
+       "id": "134090",
+       "season": 5
+      },
+      {
+       "name": "טיול אחרי צבא - סובב ישראל | פרק 5 - מה שקורה באילת",
+       "logo": "https://www.kan.org.il/media/guafy2zd/https-kanstaticazureedgenet-download-pictures-2021-8-23-imgid-59775_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qrf7179j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אמריקאי שמוצא את עצמו מבשל בירה בקטורה; פליט דרפורי שמוצא את עצמו שוטף כלים באילת; מוזיקאים מתל אביב שמוצאים את עצמם חיים בשחרות שבערבה - ופבלו וגל שמוצאים את עצמם באמצע כל זה, בטיול שממשיך להפתיע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s5/134087/",
+       "id": "134087",
+       "season": 5
+      },
+      {
+       "name": "טיול אחרי צבא - סובב ישראל | פרק 4 - משל המערה",
+       "logo": "https://www.kan.org.il/media/d2ajyrwe/https-kanstaticazureedgenet-download-pictures-2021-8-17-imgid-59452_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u5ur2n3f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "השמש עולה על ים המלח ופבלו וגל נמלטים ממנה אל בטן האדמה במערת הקולונל. אחרי מפגש עם מתבודד במדבר, הם מגיעים למושב עידן וחוגגים עם הפועלים האסיאתיים וחבריהם הישראלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s5/134084/",
+       "id": "134084",
+       "season": 5
+      },
+      {
+       "name": "טיול אחרי צבא - סובב ישראל | פרק 3 - כאן היה ביתי",
+       "logo": "https://www.kan.org.il/media/ty4kt4nr/https-kanstaticazureedgenet-download-pictures-2021-8-9-imgid-58946_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9rfa0vc1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי התברברות בשדה מוקשים, פבלו נפגש עם חברי הלהקה הראשונה שלו בבית שאן. משם הוא וגל ממשיכים לשכשוך באתר הטבילה ולגדיד תמרים אלכוהולי בערבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s5/134081/",
+       "id": "134081",
+       "season": 5
+      },
+      {
+       "name": "טיול אחרי צבא - סובב ישראל | פרק 2 - חשיפה לצפון",
+       "logo": "https://www.kan.org.il/media/g5yjgfdx/https-kanstaticazureedgenet-download-pictures-2021-8-3-imgid-58497_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kwtghbhu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי שפבלו מתגבר על פחד הגבהים שלו ומטפס על צוק מנרה, ממשיכים השניים במסלול לעבר רמת הגולן ופוגשים בוקרים, שביליסטים ואפילו היפסטרים דרוזים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s5/134078/",
+       "id": "134078",
+       "season": 5
+      },
+      {
+       "name": "טיול אחרי צבא - סובב ישראל  | פרק 1 - חנית בחניתה",
+       "logo": "https://www.kan.org.il/media/jd4d3am0/https-kanstaticazureedgenet-download-pictures-2021-7-26-imgid-57990_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hrk99eow/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אחרי שנת קורונה שהרסה כל אפשרות לטייל בחו\"ל, פבלו רוזנברג וגל תורן עולים על קראוון ויוצאים למסע ישראלי סביב גבולות המדינה. מתל אביב הם מצפינים עד גבול הלבנון ומבקרים בחניתה, שתולה וריחאנייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s5/133976/",
+       "id": "133976",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "טיול אחרי צבא - יפן | ביג אין ג'פאן - פרק 7",
+       "logo": "https://www.kan.org.il/media/bzfnc5y2/https-kanstaticazureedgenet-download-pictures-2020-2-9-imgid-28262_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_045ikv6l/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פרק סיכום מיוחד: אחרי שחזרו הביתה, פבלו וגל נפגשים עם השף יובל בן נריה בתל אביב כדי לשחזר את הטעמים של יפן ולהיזכר יחד בחוויות המטורפות שעברו. אורחים נוספים: גילי חסקין, אביב פרנקל וסקאזי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s4/108312/",
+       "id": "108312",
+       "season": 4
+      },
+      {
+       "name": "טיול אחרי צבא - יפן | בלאגן אטומי - פרק 6",
+       "logo": "https://www.kan.org.il/media/hkyphgdy/https-kanstaticazureedgenet-download-pictures-2020-2-2-imgid-27837_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2rynj245/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בסוף הטיול פבלו וגל מגיעים להירושימה, שם הם פוגשים ניצולה מפצצת האטום ב-1945. משם ממשיכים לכרך הסואן של אוסאקה, לובשים קימונו והופכים לסמוראים. טוני לוי, ישראלי שהצליח בענק ביפן, מחזיר אותם הביתה בסטייל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s4/108309/",
+       "id": "108309",
+       "season": 4
+      },
+      {
+       "name": "טיול אחרי צבא - יפן | זן מתחת לאפס - פרק 5",
+       "logo": "https://www.kan.org.il/media/vz3dezhi/https-kanstaticazureedgenet-download-pictures-2020-1-26-imgid-27450_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6bgpnsd1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פבלו וגל תופסים טרמפ עד לכפר הנידח והמושלג קיאבוקי נו-סאטו, שם הם מתארחים בביתה של משפחה מקומית תמורת עבודה בחווה המשפחתית. אחרי יום של עבודה, הם חוגגים יחד את פסטיבל אורות השלג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s4/108306/",
+       "id": "108306",
+       "season": 4
+      },
+      {
+       "name": "טיול אחרי צבא - יפן | מה? כי-יוטו - פרק 4",
+       "logo": "https://www.kan.org.il/media/walpowa5/https-kanstaticazureedgenet-download-pictures-2020-1-4-imgid-26323_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_brmy3zx6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "איפה מתאים יותר לחוות מאות שנות תרבות מרתקת מאשר בקיוטו? פבלו וגל מעבירים יום במשחקי שתייה עם גיישות, מוכרים מוצ'י בשוק, יורים בחץ וקשת ומסיימים בטקס תה מסורתי שאותו מעבירה להם דווקא מטיילת ישראלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s4/108303/",
+       "id": "108303",
+       "season": 4
+      },
+      {
+       "name": "טיול אחרי צבא - יפן | סרט צילום פוג'י - פרק 3",
+       "logo": "https://www.kan.org.il/media/rkzl13qm/https-kanstaticazureedgenet-download-pictures-2020-1-4-imgid-26322_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zbr0q3lt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "רכבת קליע מטיסה את פבלו וגל מטוקיו לאיזור הר פוג'י. אחרי פינוק בפונדק מסורתי ובמרחצאות חמים, הם מבקרים ב\"ים העצים\": יער אפל ומסתורי שמושך אליו מדי שנה עשרות יפנים שמגיעים לשם במיוחד... כדי להתאבד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s4/108300/",
+       "id": "108300",
+       "season": 4
+      },
+      {
+       "name": "טיול אחרי צבא - יפן | סושי בשלג - פרק 2",
+       "logo": "https://www.kan.org.il/media/axzlub2b/https-kanstaticazureedgenet-download-pictures-2020-1-2-imgid-26249_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v6r6gx0e/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בין תות שדה במאה דולר לאיש שהתחתן עם בובה – הטירוף של טוקיו לא עוצר: פבלו וגל מוזמנים להשתתף בטקס לשנה החדשה הכולל טבילה במי קרח. אחרי התאוששות קצרה הם פוגשים את עמליה בתו של פבלו, שמטיילת אחרי הצבא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s4/108297/",
+       "id": "108297",
+       "season": 4
+      },
+      {
+       "name": "טיול אחרי צבא - יפן | שעת השינג'וקו - פרק 1",
+       "logo": "https://www.kan.org.il/media/qvrctwlx/https-kanstaticazureedgenet-download-pictures-2020-1-2-imgid-26246_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9ktq02t7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פרק פתיחת עונה! פבלו וגל נוחתים בטוקיו וחווים הלם תרבות לפרצוף. בין קרבות רובוטים ובתי קפה לחתולים תחושת הזרות לא מפסיקה לקנן, והתקציב הצנוע דוחק בהם להשלים הכנסה...בנגינה ברחוב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s4/108294/",
+       "id": "108294",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "טיול אחרי צבא - עונה 3 | חופים הם לפעמים געגועים לבית - פרק 4",
+       "logo": "https://www.kan.org.il/media/cq0feggt/https-kanstaticazureedgenet-download-pictures-2019-6-17-imgid-14859_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vpy5zujc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פרק סיום העונה - \"חופים הם געגועים לבית\": אחרי שעברו ניתוח וודו ונשנשו תולעי עץ, בת חן וענת מגיעות לחופים המדהימים של אל נידו בפאלאוואן, ומסכמות את החוויות המטלטלות שעברו בטיול אחרי צבא שלהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s3/104042/",
+       "id": "104042",
+       "season": 3
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 3 | החצר האחורית - פרק 3",
+       "logo": "https://www.kan.org.il/media/dp0luatt/https-kanstaticazureedgenet-download-pictures-2019-8-18-imgid-18772_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rrt462oc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בת חן וענת חוזרות למנילה ויוצאות ליום תיירות \"סלאמינג\" בשכונות הקשות והעניות ביותר. אחרי הרקדה המונית בכלא פיליפיני הן פוגשות את רוז פוסטנס, זוכת \"אקס פקטור\", שמספרת על החלום לחזור לישראל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s3/103726/",
+       "id": "103726",
+       "season": 3
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 3 | אי של (חוסר) שפיות - פרק 2",
+       "logo": "https://www.kan.org.il/media/ql5lrcat/https-kanstaticazureedgenet-download-pictures-2019-5-27-imgid-13508_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wklqs0hw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בת חן וענת טורפות אל כל מה שיש לאי סבו להציע: מסלולי מירוץ אתגריים ומסז'ים מפנקים, מאכלי רחוב ומכונות ממכר בשיטת \"שתה זאת בעצמך\". שוטר מרקד ולהקת ליידי בויז מזמרת מספקים להם הצצה לצד אחר של הפיליפינים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s3/103426/",
+       "id": "103426",
+       "season": 3
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 3 | מה יצא לך במנילה? - פרק 1",
+       "logo": "https://www.kan.org.il/media/a40j5l3t/https-kanstaticazureedgenet-download-pictures-2019-8-18-imgid-18773_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zherq63b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פרק פתיחת העונה! בת חן וענת נוחתות בבירת הפיליפינים הסואנת ומנסות להבין מי נגד מי. \"בני פלאפל\" התימני שולח אותן לגלות הר געש רדום, ומשם הן ממשיכות לצלילה בחופי האי סבו ולמפגש עם מטיילים צעירים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s3/103239/",
+       "id": "103239",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "טיול אחרי צבא - עונה 2 | אדיוס אמיגוס - פרק 11",
+       "logo": "https://www.kan.org.il/media/qkimffdr/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-982_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qr7wvc6c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בעיר הבירה הגבוהה בעולם, פבלו וגל מתזזים בין מכשפות, מתאבקות קשוחות ואפילו זברות. אחרי מופע משותף למטיילים הישראלים, הם מתפנים לסכם את המסע המטלטל שעברו ביחד. פרק סיום העונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/99826/",
+       "id": "99826",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 |  יש גבול לכל תעלול - פרק 10",
+       "logo": "https://www.kan.org.il/media/2f1lsnn4/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-981_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hbfyab9r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אחרי ביקור בשער האלים ובכפרים הצפים של פונו, הצמד נפרד מפרו וחוצה את הגבול אל היעד האחרון במסע – בוליביה. אבל הדרך לבירה, לה-פאז, הופכת לסיוט שנמשך עמוק אל תוך הלילה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/99595/",
+       "id": "99595",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | אל קונדור פאסה - פרק 9",
+       "logo": "https://www.kan.org.il/media/hkyndtgt/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-980_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vw0j062y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ברוכים הבאים ל\"עמק הקדוש\" בפרו. כאן צובעים בגדים עם שתן, שותים בירה מתירס ואוכלים...שרקנים על שיפוד. אחרי יום מטורף כזה, פבלו וגל לוקחים רגע כדי לנגן מול הנוף המרהיב ביותר בעולם.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/99528/",
+       "id": "99528",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | זה לא סדר, זה בלאגן - פרק 8",
+       "logo": "https://www.kan.org.il/media/5inbtxwh/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-979_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nypcbr9o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פבלו וגל מטפסים לפסגת המאצ'ו פיצ'ו, ויורדים בחזרה כי אין שירותים. בשבוע הקדוש שבין פסחא לחג הפסח, השניים נפגשים עם (כפיל של) ישו וגדודי ישראלים שמבקשים סלפי בסדר המוני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/99294/",
+       "id": "99294",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | ירידה לצורך עלייה - פרק 7",
+       "logo": "https://www.kan.org.il/media/qredv1xo/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-978_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qxhnvpt3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "קופים, צבים וחולדות, הכל אפשר לקנות (ולאכול) בשוק בלן. פבלו נשבר מול העוני המחריד בשכונות הצפות, גל מנסה לצלוף בפסל ענק של ישו, ושניהם מתמודדים עם מחלת גבהים בבירת האינקה, קוסקו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/99167/",
+       "id": "99167",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | המשימה: אמזונס - פרק 6",
+       "logo": "https://www.kan.org.il/media/tlpjhod5/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-977_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_clm19ize/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "להתראות ברזיל, שלום פרו! פבלו וגל רוכשים מצ'טות ויוצאים לכבוש את הג'ונגלים של האמזונס. במעבה היער, הם נתקלים בשבטים אבודים, חיות ארסיות וטקס מטלטל של סמי הזייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/99053/",
+       "id": "99053",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | קאובויז וקצף - פרק 5",
+       "logo": "https://www.kan.org.il/media/40tnnv0d/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-975_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iilo909x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פבלו וגל עולים על בגד ים ומגיעים ל\"מכה\" של המטייל הישראלי: אי המסיבות מורו דה סאו פאולו, שמתעורר לחיים אחרי חצות. משם הם עולים על הסוס ומוצאים את ייעודם האמיתי בחוות בוקרים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/98935/",
+       "id": "98935",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | סיגרים, סרטנים וסמבה - פרק 4",
+       "logo": "https://www.kan.org.il/media/oikn0cxy/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-974_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jmyq9m81/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פבלו וגל מחליטים לצאת מהעיר לטיול \"סובב סלבדור\" ומבלים יום בעישון סיגרים, ציד סרטנים ומסיבת סמבה. אבל מפגש עם מטייל ישראלי מרגש וצעירים ברזילאים מזכיר להם שמה לעשות, הם כבר לא בני 16...",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/98759/",
+       "id": "98759",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2  | פאנקי טאון - פרק 3",
+       "logo": "https://www.kan.org.il/media/luqaodio/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-973_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3w2t751t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פבלו וגל נסחפים בסמטאות של סלבדור, עיר שנבנתה על עבדות והפכה למרכז מוזיקלי סוחף. וגם: ביקור בכנסייה ההזויה בעולם, וטקס אצל כוהנת אחת שיודעת יותר מדי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/98193/",
+       "id": "98193",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | נסענו לפאבלה - פרק 2",
+       "logo": "https://www.kan.org.il/media/atuagwj1/https-kanstaticazureedgenet-download-pictures-2018-12-13-imgid-959_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ilgy68z6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פבלו וגל ממשיכים לחקור את הפאבלות האינסופיות של ריו, ונגררים למשחק כדורגל רווי אגו עם ילדי השכונה. אחרי מפגש עם מטיילת צעירה, הם ממשיכים ליעד הבא – סלבדור דה בהאייה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/98190/",
+       "id": "98190",
+       "season": 2
+      },
+      {
+       "name": "טיול אחרי צבא - עונה 2 | בוא לריו - פרק 1",
+       "logo": "https://www.kan.org.il/media/f2sh4m0k/https-kanstaticazureedgenet-download-pictures-2018-12-19-imgid-1356_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5zprjvtb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פרק פתיחת העונה! חשבתם שברזיל זה רק סמבה וחופים? פבלו וגל מגבירים את רף הסכנה ונחשפים גם לעוני מחריד, לפושעים אלימים ולשכונות שלמות של מכורים לקראק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s2/98188/",
+       "id": "98188",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טיול אחרי צבא - עונה 1 |  פרק 1",
+       "logo": "https://www.kan.org.il/media/t5zbxiee/cat22177_img831559565.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qmw3i5xm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "פבלו וגל נוחתים בניו דלהי ונחשפים לצד הסואן של הודו. בהמשך הם מגיעים לורנאסי שנחשבת למרכז רוחני חשוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/s1/80553/",
+       "id": "80553",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "טיול אחרי צבא | טריילר",
+       "logo": "https://www.kan.org.il/media/pt4brw1j/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_x14c47tu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-16",
+       "plot": "אחרי שנסעו ברחבי העולם לפגוש ישראלים צעירים בטיול אחרי צבא, הפעם, בצל המלחמה, פבלו רוזנברג וגל תורן יוצאים לבקר ולשמח חיילי צה\"ל בבסיסים שונים בשני פרקים מיוחדים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/886717/",
+       "id": "886717"
+      },
+      {
+       "name": "טיול אחרי צבא - הצצה | \"קפסולה זה בלשון המעטה, יותר בקטע של מגירה\"",
+       "logo": "https://www.kan.org.il/media/fvblzpp5/טיול-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dta0tqyc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "הלוחמים בספינת הדבור שלא צריכים יותר מלשכב על הגב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/856541/",
+       "id": "856541"
+      },
+      {
+       "name": "טיול אחרי צבא - הצצה | \"הצבא צועד על אקסלו\"",
+       "logo": "https://www.kan.org.il/media/uecmuxmz/טיול-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i2nc8rmr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "פבלו רוזנברג וגל תורן מגלים מה באמת החיילים אוכלים בשטח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13042/856540/",
+       "id": "856540"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

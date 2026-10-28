@@ -1,0 +1,81 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - קרלוס התן",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-762359/",
+   "series_id": "762359",
+   "updated": "2026-10-28 13:12",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קרלוס התן | פרק 3 - מרדף חובק עולם",
+       "logo": "https://www.kan.org.il/media/21uaokf2/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u6sa6b72/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-08",
+       "plot": "פרק אחרון. ארגון הטרור של קרלוס פועל למען כסף שהוא מקבל מהמנהיגים המפוקפקים ביותר. הוא עובר לדמשק ומקים משפחה, עם נפילת הגוש הקומוניסטי, נמלט קרלוס לסודן, עד הסגרתו הדרמטית לצרפת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-762359/s1/770952/",
+       "id": "770952",
+       "season": 1
+      },
+      {
+       "name": "קרלוס התן | פרק 2 - החטיפה ששינתה הכול",
+       "logo": "https://www.kan.org.il/media/mvcicf3e/טאמנייל-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2xii7b8f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-20",
+       "plot": "לאחר חטיפתם של שרי הנפט בוינה, קרלוס הופך לטרוריסט המבוקש ביותר בעולם ולאיש עשיר מאוד. הוא מחליט לפרוש מ\"החזית העממית\" ומקים ארגון משלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-762359/s1/763528/",
+       "id": "763528",
+       "season": 1
+      },
+      {
+       "name": "קרלוס התן | פרק 1 - ספטמבר השחור",
+       "logo": "https://www.kan.org.il/media/y5mnc4sc/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l0em33bd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-18",
+       "plot": "מי היה קרלוס התן, הטרוריסט המסוכן והמבוקש ביותר במאה ה-20? סדרת דוקו חדשה מביאה הצצה נדירה אל מוחו המעוות והאלים, דרך הקלטות בלעדיות בקולו, וראיונות עם מי שניהלו מרדף בינלאומי אחריו, עד לתפיסתו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-762359/s1/762604/",
+       "id": "762604",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "קרלוס התן | טריילר",
+       "logo": "https://www.kan.org.il/media/myga1wiu/1920x1080-with-logo_קרלוס-התן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h8dfoum0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "הצצה נדירה אל מוחו המעוות והאלים של הטרוריסט המבוקש ביותר במאה ה-20",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-762359/866225/",
+       "id": "866225"
+      },
+      {
+       "name": "קרלוס התן - הצצה | \"שקול, קר רוח, צלף טוב\"",
+       "logo": "https://www.kan.org.il/media/oyppxt5h/קרלוס-התן-הצצה-2-תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_utsg5mbi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "\"יריתי בו כמו כלב\": ההקלטות של הטרוריסט הכי מבוקש במאה ה-20",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-762359/856598/",
+       "id": "856598"
+      },
+      {
+       "name": "קרלוס התן - הצצה | לחטוף את בן-לאדן",
+       "logo": "https://www.kan.org.il/media/erffppcu/קרלוס-התן-הצצה-1-תמונה-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qbgqhfoj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "הרעיון לחטוף את בן-לאדן כדי לפתור משבר פיננסי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-762359/856593/",
+       "id": "856593"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

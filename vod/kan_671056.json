@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - משפט קסטנר | פרקים לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-671056/",
+   "series_id": "671056",
+   "updated": "2026-10-28 12:32",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "משפט קסטנר | הצצה",
+       "logo": "https://www.kan.org.il/media/sznfxaxy/משפט-קסנר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xlvt5bkj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-26",
+       "plot": "\"אין בי שום חרטה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-671056/912138/",
+       "id": "912138"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,874 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן סקרנים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/dig/digital/p-12184/",
+   "series_id": "12184",
+   "updated": "2026-10-28 11:29",
+   "sub_categories": [
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "כאן סקרנים | לאן נעלם המבטא הספרדי?",
+       "logo": "https://www.kan.org.il/media/l4mn3rpr/9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183424/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-30",
+       "plot": "למה אנחנו מדברים ככה היום ומה קרה לקריינים של פעם? לכבוד 90 שנה לשידור הציבורי, כאן סקרנים פה לתת לכם את כל התשובות (באיזה מבטא שתבחרו)",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s8/1020882/",
+       "id": "1020882",
+       "season": 8
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "כאן מציינים | השואה לא הסתיימה בשואה",
+       "logo": "https://www.kan.org.il/media/rp1pmgn1/06.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188450/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-13",
+       "plot": "יצחק מנדל מביא את סיפורם של היהודים שלמרות ששרדו את התופת - סבלו מטרור ונרצחו אחרי השואה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s7/1027154/",
+       "id": "1027154",
+       "season": 7
+      },
+      {
+       "name": "כאן סקרנים | איך ומתי נכנסה הבת מצווש לחיינו?",
+       "logo": "https://www.kan.org.il/media/pospnnjy/2680_sakranim_bat_mitzva_tv_no_sub_3.bmp",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pmf8ba3c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-07",
+       "plot": "טיול ליורודיסני, מסיבה באולם לכל הכית או כניסה בלימוזינה? היום כמעט כל אחת חוגגת בת מצווה אבל למעשה מדובר במנהג יחסית חדש. אז איך ומתי הבת מצווש נכנסה לחיינו? יצאנו לבדוק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s7/476652/",
+       "id": "476652",
+       "season": 7
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "כאן סקרנים | איך הפיוט המזרחי נכנס לפלייליסט הישראלי?",
+       "logo": "https://www.kan.org.il/media/1u0pusce/https-kanstaticazureedgenet-download-pictures-2022-10-3-imgid-82786_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rsu8kr9z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בית הכנסת המזרחי תרם לפסקול הישראלי ערימות של להיטים, אבל זה לא תמיד היה פשוט להכניס סלסולים לפלייליסט. מג'ו עמר ועד הפרויקט של רביבו - איך קרה המהפך?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s6/150650/",
+       "id": "150650",
+       "season": 6
+      },
+      {
+       "name": "כאן סקרנים | למה מודעות האבל לא משתנות כבר מאה שנה?",
+       "logo": "https://www.kan.org.il/media/5snnq24a/https-kanstaticazureedgenet-download-pictures-2022-7-11-imgid-77633_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xeirj5qv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הדפוס עבר תהפוכות מאז שנות ה-20 של המאה הקודמת, חוץ ממיתוג אחד חזק לא השתנה כלל. למה מודעות האבל נותרו בדיוק כפי שהיו?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s6/147495/",
+       "id": "147495",
+       "season": 6
+      },
+      {
+       "name": "כאן סקרנים | למה שירי המתנה זה דבר כל כך מעצבן?",
+       "logo": "https://www.kan.org.il/media/30se42sl/https-kanstaticazureedgenet-download-pictures-2022-5-19-imgid-74739_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_m1flzsmt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עקב עומס פניות זמן ההמתנה ארוך מהרגיל, אבל למה נגזר עלינו לחכות עם מוזיקה שנשמעת כל כך רע?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s6/145242/",
+       "id": "145242",
+       "season": 6
+      },
+      {
+       "name": "כאן סקרנים | איך הפך דם המכבים לסמל של יום הזיכרון?",
+       "logo": "https://www.kan.org.il/media/1mihv2jt/https-kanstaticazureedgenet-download-pictures-2022-5-3-imgid-73714_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mnoide7f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האגדה מספרת שהוא צומח על אדמה ספוגה בדם ונשאר נצחי גם אחרי שנקטף. מתי ואיך הפך צמח דם המכבים לסמל של יום הזיכרון ונכנס ללב של כולנו?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s6/144420/",
+       "id": "144420",
+       "season": 6
+      },
+      {
+       "name": "כאן סקרנים | אנחנו לא הוגים אותיות כמו שצריך?",
+       "logo": "https://www.kan.org.il/media/nvspira5/https-kanstaticazureedgenet-download-pictures-2022-3-21-imgid-71291_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z1djq7ve/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הרבה אותיות בעברית נשמעות לנו זהות אך הן בעצם שונות לחלוטין. אז מתי הפסקנו להגות אותן כפי שאמור להיות? ואיך זה קרה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s6/142744/",
+       "id": "142744",
+       "season": 6
+      },
+      {
+       "name": "כאן סקרנים | איך נעלי קיפי הפכו לסמל ישראלי?",
+       "logo": "https://www.kan.org.il/media/mqtd01ob/https-kanstaticazureedgenet-download-pictures-2022-2-10-imgid-69081_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qj0p5fax/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מה הקשר בין אדולף אייכמן, רחוב סומסום ומפעל לתיקון צמיגים? דניאלה יוצאת לבדוק איך נעלי הבית המשובצות הפכו לאייקון וכזה סמל ישראלי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s6/141238/",
+       "id": "141238",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "כאן סקרנים | למה שכונות בישראל נראות אותו הדבר?",
+       "logo": "https://www.kan.org.il/media/inulvnwk/https-kanstaticazureedgenet-download-pictures-2021-11-18-imgid-64468_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wc78ok7b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כמה פעמים עברתם ליד שכונה והייתם בטוחים שכבר ראיתם אותה בעבר? לוסי מסבירה מדוע זה כך ומהן ההשלכות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/137857/",
+       "id": "137857",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | איך ומתי הומצאו שמות המשפחה שלנו?",
+       "logo": "https://www.kan.org.il/media/tb0hft4a/https-kanstaticazureedgenet-download-pictures-2021-11-4-imgid-63666_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z95aubv9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דניאלה מסבירה איך כולנו קיבלנו שמות משפחה, ומגייסת למשימה את ד\"ר אבשלום קור",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/137251/",
+       "id": "137251",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | מתי הפכו עצי הפיקוס למטרד בלתי נסבל?",
+       "logo": "https://www.kan.org.il/media/chlhe2jk/https-kanstaticazureedgenet-download-pictures-2021-10-28-imgid-63246_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fbls5d6c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כשהם הגיעו לארץ בשנות ה-20 של המאה הקודמת, אף אחד לא צפה מה הולך לקרות. הם אמנם יוצרים צל נהדר ומקשטים את השדרות שלנו, אך הם גם מרימים מדרכות, פוגעים בתשתיות ומלכלכים את הרחובות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/136769/",
+       "id": "136769",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | למה ליהודים יש יותר מחלות משאר אוכלוסיית העולם?",
+       "logo": "https://www.kan.org.il/media/yyzl0kyi/https-kanstaticazureedgenet-download-pictures-2021-10-10-imgid-62223_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7bsodzbu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מחלות שנחשבות נדירות בעולם, הפכו שכיחות בקרב יהודים. טיי זקס, גושה והימופיליה C, הן רק חלק מהמחלות שנפוצות יותר בעם ישראל. אז למה יש לנו יותר סיכוי לחלות בהן בניגוד לשאר אוכלוסיית העולם? ענת קורול בדקה וחזרה עם תשובות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/135910/",
+       "id": "135910",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | כת השטן בישראל - המצאה הזויה או מציאות מפחידה?",
+       "logo": "https://www.kan.org.il/media/lznaweo4/https-kanstaticazureedgenet-download-pictures-2021-10-3-imgid-61797_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e5mckqy4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בשנות ה-90 בני נוער שהלכו עם ביגוד שחור, קעקועים, פירסינג, שמעו מוזיקת מטאל אלימה, והשתתפו ב'פוגו', הפחידו את הממסד השמרני שנבהל מהם. בתקשורת דיברו על טקסים סודיים שבהם שוחטים חתולים, שותים דם, אונסים נערות בבתי קברות ועוד דברים אפלים, זה הגיע למשטרה ואפילו לכנסת, כולם ניסו לבדוק האם כת השטן קיימת בישראל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/135667/",
+       "id": "135667",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | למה יש בשפה העברית אותיות סופיות?",
+       "logo": "https://www.kan.org.il/media/ff4p05hw/https-kanstaticazureedgenet-download-pictures-2021-6-21-imgid-55611_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xrg2q51s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האותיות הסופיות בעברית כמו שאנחנו מכירים אותן היום, נכתבו בעבר בכלל באמצע מילה, פשוט כי הן היו האותיות הרגילות. מתי הףסיק להיות תקין לךתוב ךךה? למה בכלל צריך אותיות סופיות? ואיך הן הגיעו לכתב העברי?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/132736/",
+       "id": "132736",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | למה תרגום שמות סרטים זה עסק קטלני של כישלון גורלי?",
+       "logo": "https://www.kan.org.il/media/50bbi5fd/https-kanstaticazureedgenet-download-pictures-2021-6-16-imgid-55333_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mks5uh93/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מה משותף לסרטים שליחות קטלנית, זיכרון קטלני, חופשה קטלנית, סוד הווירוס הקטלני ופיתוי קטלני? באף אחד מהם המילה \"קטלני\" לא מופיעה בשם המקורי באנגלית. כן, כן. תרגום של שמות סרטים מגיע לפעמים לאבסורדים משעשעים, הוא כורך יחד סרטים שבכלל לא קשורים, ומשתמש בנוסחאות קצת מגוחכות. אז מה הסיפור מאחורי זה? ואיך זה קשור לכסף?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/132482/",
+       "id": "132482",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | למה אופנועים נשמעים כמו אזעקה?",
+       "logo": "https://www.kan.org.il/media/d4qfrfu4/https-kanstaticazureedgenet-download-pictures-2021-5-26-imgid-53861_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9vktk0c1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מי מאתנו לא קפץ לפחות פעם אחת בתקופה האחרונה, כששמע אופנוע חוצה את הכביש. אז איך זה שהצליל של אופנוע שחוצה במהירות את הכביש הסמוך אלינו זהה, כמעט בדיוק, לצליל האעזקה? איך כל אחד מהצלילים מופק? ואיך הם משפיעים על המוח שלנו? ענת קורול יצאה לבדוק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/131568/",
+       "id": "131568",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | איך לוחות הברית נראו באמת?",
+       "logo": "https://www.kan.org.il/media/uucnirtq/https-kanstaticazureedgenet-download-pictures-2021-5-16-imgid-53180_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vzst2zww/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מיינו רגע את לוחות הברית - יכול להיות שאתם חושבים על סמל אנטישמי! אז איך באמת נראו לוחות הברית? ומתי הפך הדימוי האנטישמי מגנאי לציון בבתי כנסת יהודיים?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/131200/",
+       "id": "131200",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | למה אנחנו זוכרים את הנופלים בעזרת צפירת אזעקה?",
+       "logo": "https://www.kan.org.il/media/avkl1kcj/https-kanstaticazureedgenet-download-pictures-2021-4-13-imgid-50885_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ogjwb605/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בהרבה מדינות יש דקת דומייה לזכר הנופלים, אבל רק בישראל (כמעט) נוספת לה צפירה. מתי זה התחיל, ולמה אנחנו ממשיכים אחרי שכולם הפסיקו עם זה כבר לפני 70 שנה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/129812/",
+       "id": "129812",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | למה לא רוצים שנטייל ליד הכנסת?",
+       "logo": "https://www.kan.org.il/media/rkiakvod/https-kanstaticazureedgenet-download-pictures-2021-3-21-imgid-49453_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yg2ozpat/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "צל הוא מצרך נדיר, אין מסעדות או בתי קפה שאפשר לשבת בהם, לפארקים ליד קשה להגיע בגלל הגדרות שמסביב והכל מרגיש כאילו התכנון הוא שלאנשים יהיה לא נוח להיות פה. אז למה בעולם מוסדות המדינה שוכנים במבנים מפוארים ורק אצלנו זה נראה כאילו הם לא רוצים שנבקר?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/129078/",
+       "id": "129078",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | למה אסור לקטוף פרחים מוגנים ואיך זה קשור למרגרינה?",
+       "logo": "https://www.kan.org.il/media/psejmf11/https-kanstaticazureedgenet-download-pictures-2021-3-1-imgid-48235_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_82l0cra4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עד אמצע שנות ה-60 אזרחים טובים היו יוצאים לטבע לקטוף כלניות, רקפות וחצבים, אפילו בתי הספר היו מוציאים תלמידים לקטוף פרחים כדי לשלוח אותם בגלויות לילדי הגולה. אבל החשש  מארץ ישראל לא פורחת ומהפגיעה בטבע הוליד את קמפיין התודעה מהיעילים ביותר בישראל - הפרחים המוגנים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/128317/",
+       "id": "128317",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | איך בוחרים שמות עבריים למחלות?",
+       "logo": "https://www.kan.org.il/media/m5tenqdr/https-kanstaticazureedgenet-download-pictures-2021-2-2-imgid-46608_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_46vcoyhy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מה משותף לגַּזֶּזֶת, אַדֶּמֶת, חַזֶרֶת, כַּלֶּבֶת, חַצֶּבֶת, פַּטֶּרֶת ועַגֶּבֶת? כולן שמות בעברית של מחלות וכולן הומצאו במאה ה-20 על ידי ועדה מיוחדת. אז איך נותנים שמות בעברית של מחלות, למה המילים חוֹבְלָה והַלֶּמֶת לא תפסו ומה הקשר בין אליעזר בן יהודה לנזלת? לוסי איוב כאן בשביל לענות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/126803/",
+       "id": "126803",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | לאן נעלמו עצי האלון שכיסו את הארץ?",
+       "logo": "https://www.kan.org.il/media/nchgr0zw/https-kanstaticazureedgenet-download-pictures-2021-1-28-imgid-46325_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5hvdyhm9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ט''ו בשבט הוא זמן טוב לשאול: לאן נעלמו עצי האלון שכיסו את הארץ? מה כולל תפקיד האלונאי? ומה אנחנו מפסידים מהיעלמותו של העץ רב הסגולות?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/126534/",
+       "id": "126534",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | מה בעצם התפקיד של הבסים ולמה הם כל כך חשובים?",
+       "logo": "https://www.kan.org.il/media/ctcovmtb/https-kanstaticazureedgenet-download-pictures-2021-1-11-imgid-45223_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4638vr2i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הבסים נמצאים שם תמיד. פעם התפקיד היה של הבסיסט והיום הטכנולוגיה נותנת הרבה פעמים את הבס, אז למה הוא כל כך חשוב? לוסי איוב יצאה לפגוש את המפיק והבסיסט האגדי יוסי פיין, ובדקה למה הבס חשוב כל כך, אפילו שלפעמים אנחנו אפילו לא שומעים אותו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/125652/",
+       "id": "125652",
+       "season": 5
+      },
+      {
+       "name": "כאן סקרנים | טורקי? ספרדי? אולי הודי? מה שבטוח הג'חנון הוא לא תימני",
+       "logo": "https://www.kan.org.il/media/2ppfce0m/2021-1-7-imgid-45016_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zp1yzzp2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כל שנה נמכרים טונות של בצק ג'חנון בעלות של יותר מ-43 מיליון שקלים. כי מי לא אוהב בשבת בבוקר ג'חנון עם ביצה ורסק שאכלו בתימן? אז זהו, לא אכלו אותו ככה בתימן כי הוא בכלל לא תימני במקור. אז מאיפה הגיע הג'חנון? אופיר בועז יצא לבדוק - וגם לאכול",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s5/125554/",
+       "id": "125554",
+       "season": 5
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "כאן סקרנים | איך נוצרו הבגדים המוכרים של ריקודי העם?",
+       "logo": "https://www.kan.org.il/media/pvwf3lex/https-kanstaticazureedgenet-download-pictures-2020-12-14-imgid-43659_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_od6rnpsi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הורה לשמלה! איך נוצרו הבגדים המוכרים של ריקודי העם, מהיכן הגיעה ההשראה וכיצד אלתרו את החומרים מהם הם עשויים? כאן יוצאים בריקוד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/119177/",
+       "id": "119177",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | למה יש כל כך הרבה סוגי שקעים בעולם?",
+       "logo": "https://www.kan.org.il/media/fygb00u0/https-kanstaticazureedgenet-download-pictures-2020-11-22-imgid-42488_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894938/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אם חשבתם שסוג השקע שיש בישראל דומה לשאר העולם, כנראה שלא ביקרתם באיטליה ובצ'ילה באוסטרליה, בסין ואפילו בפפואה גינאה החדשה, בכל אחד מהמקומות האלה יש שקע שונה. אז מדוע יש כל כך הרבה סוגי שקעים ואיך כל זה קשור לסופרמן ותומאס אדיסון?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/118489/",
+       "id": "118489",
+       "season": 4
+      },
+      {
+       "name": "למה שירי הערש הם בעלי המנגינות העצובות ביותר והמילים המיואשות ביותר?",
+       "logo": "https://www.kan.org.il/media/l41bqvko/https-kanstaticazureedgenet-download-pictures-2020-11-15-imgid-42039_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pw3vogls/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "נשמע מוזר אבל את השיר \"אם הילד השחור לא יישן, יבוא השטן הלבן, ויאכל את הרגל הקטנה\" או \"אל תשכב על קצה המיטה כי יבוא זאבצ'יק, וינשוך אותך\" שרים לילדים לפני השינה. אז למה יש כל כך הרבה שירי ערש על אנשים מתים, חוטפי ילדים ומפלצות שאורבות מתחת למיטה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/118175/",
+       "id": "118175",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | איך קובעים את מהירות הנסיעה המותרת בכביש?",
+       "logo": "https://www.kan.org.il/media/yfbln0ms/https-kanstaticazureedgenet-download-pictures-2020-11-8-imgid-41729_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iu77ei74/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ממתי התחילו ההגבלות? מהו הדגם הנורדי? ומיהו נהג המונית שנכנס לספרי ההיסטוריה בתור האמריקאי הראשון שגם קיבל דוח וגם נעצר על מהירות מופרזת של 20 קמ\"ש? לוסי יצאה לדרכים לבדוק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/117857/",
+       "id": "117857",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | אנחנו קוראים לילדים שלנו על שם דמויות שליליות מהתנ\"ך. למה?",
+       "logo": "https://www.kan.org.il/media/xctnjnt2/https-kanstaticazureedgenet-download-pictures-2020-10-1-imgid-39710_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qaojnzrn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עמרי, יואב, נמרוד, דקלה ועוד - איך זה שכל כך הרבה אנשים קרויים על שם דמות מקראית שלילית או סתמית? האמת היא שיש לזה סיבות טובות, והן חושפות את אחורי הקלעים המעניינים של הפיכת שמות לפופולריים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/116798/",
+       "id": "116798",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | חזנות - זו אופרה של יהודים?",
+       "logo": "https://www.kan.org.il/media/hddduxv4/https-kanstaticazureedgenet-download-pictures-2020-9-15-imgid-39015_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0e94u26j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האם החזנות, שהתפתחה כמו האופרה במהלך הרנסנס במערב אירופה, היא המקבילה היהודית שלה? או שאולי האלתור והרגש הופכים אותה לדומה יותר לג'אז? וכיצד היא השפיעה על שירים ישראלים מוכרים? לכבוד ימי התפילה, שהשנה נחגוג בבית, ניסינו לגלות: מהיכן הגיע סגנון השירה בחזנות? שנה טובה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/116500/",
+       "id": "116500",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | האם המקורות היהודיים ניבאו מתי יגיע סוף העולם?",
+       "logo": "https://www.kan.org.il/media/vm1mjgar/https-kanstaticazureedgenet-download-pictures-2020-9-3-imgid-38419_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nyvjowhe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "לפי התלמוד סוף העולם יגיע בשנת 6000. האם אנחנו בדרך לאפוקליפסת זומבים שכבר הנינים של הנכדים שלנו יהנו ממנה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/116232/",
+       "id": "116232",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | כמה פיפי יש בבריכות השחייה שלנו (ומה הכלור עושה לו)?",
+       "logo": "https://www.kan.org.il/media/njrjprur/https-kanstaticazureedgenet-download-pictures-2020-8-11-imgid-37309_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qgitfoqs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "האם זה נורא כמו שזה נשמע? ומה הקשר בין זה לבין העיניים האדומות ששחייה בבריכה עושה לנו? ענת קורול יצאה לברר את ה-תעלומה של הקיץ, ועל הדרך עשתה ניסוי שכלל בקבוק ליטר וחצי מלא שתן",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/115593/",
+       "id": "115593",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | מאיפה הגיעו אלינו הצהלולים ואיך עושים \"קולולו\" משובח?",
+       "logo": "https://www.kan.org.il/media/yteav2bi/https-kanstaticazureedgenet-download-pictures-2020-8-2-imgid-36762_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bume6o42/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הם חזקים מאוד, בתדר גבוה מאוד ואם היו נשמעים יותר מאשר כמה שניות, היו גורמים לנו להתחרש. ובכל זאת - אנחנו *מתים* על צהלולים. והיום יותר מתמיד: בחתונות, בר מצוות ושאר שמחות. מאיפה הם הגיעו למקומותינו, מי המוזיקאי שהמציא את המילה המגניבה הזאת, ומה הקשר בינם לבין מלחמת היזידים בדעא\"ש ויהודיות ממוצא אתיופי שלחמו במלחמת האזרחים שם?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/115119/",
+       "id": "115119",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | איך האוזניות שינו את המוזיקה?",
+       "logo": "https://www.kan.org.il/media/3wsmoaq5/https-kanstaticazureedgenet-download-pictures-2020-7-15-imgid-36674_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gorrxykl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מוזיקה הושפעה מאז ומתמיד מהאתר שבו היא הושמעה. בימינו-אנו מדובר, כמובן, על המכשיר הסלולרי. האוזניות שמחוברות אליו הן אינטימיות יותר, ולהבדיל מרמקולים, תדרים מסוימים נשמעים בהן פחות טוב. וכך, במסגרת הניסיון להתאים אליהן את המוזיקה, מפיקים מוזיקליים התחילו להשתמש במניפולציות שנועדו לחפות על חסרונותיהן, אבל במקביל גם לנצל את האינטימיות שלהן. התוצאה לפניכם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/114645/",
+       "id": "114645",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | למה שיחות וידאו מועברות באיכות כל כך גרועה?",
+       "logo": "https://www.kan.org.il/media/3lcnxtgp/https-kanstaticazureedgenet-download-pictures-2020-5-20-imgid-33763_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yupwo9k1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כל מי שערך לאחרונה ישיבת צוות בווידאו, ליל סדר בזום או צפה בהרצאה חיה ברשת, יודע שאיכות הווידאו שונה מאוד ממה שהתרגלנו בעידן ה-HD וה-4K. אז למה זה קורה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/113296/",
+       "id": "113296",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | למה נשים נוהגות לכסות את הראש בתרבויות שונות?",
+       "logo": "https://www.kan.org.il/media/2xglvivu/https-kanstaticazureedgenet-download-pictures-2020-5-17-imgid-33553_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wzgrgr0p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "במזרח הרחוק נהגו לכסות את הראש כבר משנת 3,000 לפני הספירה. ביהדות, מוצאים את המקורות לזה כבר במקרא. בתרבויות כמו מצרים העתיקה, יוון ורומא נשים התכסו ובתרבות הערבית זה נהיה לנורמה. איך זה שבכל כך הרבה תרבויות שונות  נשים נוהגות לכסות את הראש?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/113164/",
+       "id": "113164",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | איך השפיעו היפנים על המוזיקה המזרחית בישראל?",
+       "logo": "https://www.kan.org.il/media/ucyni2xo/https-kanstaticazureedgenet-download-pictures-2020-5-14-imgid-33436_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9sk7stij/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החל מאמצע שנות ה-80 חל שינוי במוזיקה המזרחית: הגיטרות המוכרות זזו הצידה ופינו את הדרך לסאונד חדש לגמרי - אלקטרוני ומתכתי יותר. הצליל החדשני השתלט על הז'אנר ומי שהיו אחראים על השינוי הזה הגיעו מהמזרח, אבל ממש מזרח - מזרח רחוק",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/113127/",
+       "id": "113127",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | מקור ארוך וחליפות טוקסידו - האבולוציה של מדי הרופאים",
+       "logo": "https://www.kan.org.il/media/rfaanacp/https-kanstaticazureedgenet-download-pictures-2020-5-10-imgid-33194_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3d28owgd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "מסכות לגירוש שדים, קישוטים שהיו חלק מ-\"טיפול\", משקפי זכוכית ומקור ארוך, חליפות דומות לטוקסידו, וכמובן החלוק הלבן. כיצד התפתחו מדי הרופאים למה שהם היום ואיך חברת צמיגים קשורה לזה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/112998/",
+       "id": "112998",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | למה כל כך הרבה ישראלים עברתו את שמותיהם?",
+       "logo": "https://www.kan.org.il/media/aqljggyu/https-kanstaticazureedgenet-download-pictures-2020-4-28-imgid-32662_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a5ei915p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "דוד בן גוריון (או \"דוד גרין\") הציע הצעה שאי אפשר לסרב לה, וכך אבוטבול הפך לאביטל, שטרן הפך לכוכבי ועוד. איך התפתחה תופעת עברות השמות? וכיצד עודדה המדינה את השינוי לטובת שימור הזהות הישראלית?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/112735/",
+       "id": "112735",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | תולדות המארש הצה\"לי",
+       "logo": "https://www.kan.org.il/media/uf1f4udj/https-kanstaticazureedgenet-download-pictures-2020-4-28-imgid-32621_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_onbf8y1d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איך הפך מארש צה\"ל (צה\"ל צועד) למנגינה הרשמית של המצעדים בישראל? מסתבר שמדובר בשיר שנכתב במה שלימים נשמע כמו לא פחות מריאליטי חלוצי בתחום המוזיקה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/112723/",
+       "id": "112723",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | למה אנחנו אובססיביים למפלס הכנרת?",
+       "logo": "https://www.kan.org.il/media/szennsav/https-kanstaticazureedgenet-download-pictures-2020-4-22-imgid-32301_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fyryygnn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "היום החשמל שלנו, מי השתייה והמקלחות שלנו כבר לא תלויים כל כך במפלס הכנרת. אז למה הוא ממשיך להעסיק אותנו? הדאגה למפלס עוברת מדור לדור ומשדרן לשדרן, וכנראה שזה ימשיך להיות כך גם בעתיד",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/112486/",
+       "id": "112486",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | האם בני ישראל בנו את הפירמידות במצרים?",
+       "logo": "https://www.kan.org.il/media/lzzf1d04/https-kanstaticazureedgenet-download-pictures-2020-4-16-imgid-32014_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_00b6pcnq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "הגבוהה שבהן מתנשאת כמעט לגובה של אחד ממגדלי עזריאלי, נדרש בשבילן להרים סלעים בכמויות ובתנאים שלא ממש מסתדרים עם התקופה, והעובדים היו דווקא פועלים בשכר. אז האם עבדים בני ישראל אכן בנו את הפירמידות במצרים? האמת, אפילו הסיכוי שהיו אלה חייזרים - גבוה יותר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/112233/",
+       "id": "112233",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | מניין הגיע הרעיון שיהודים אופים מצות עם דם של ילדים נוצרים?",
+       "logo": "https://www.kan.org.il/media/glwdfqvd/https-kanstaticazureedgenet-download-pictures-2020-4-13-imgid-31863_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uol07ubc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "עלילות דם רבות נרקמו סביב היהודים. בסמוך לחג הפסח והסעודה האחרונה הן צצות שוב בעקבות כמה מהן אשר קשורות באכילת דם של נוצרים על ידי יהודים. אך איך זה בכלל ייתכן כאשר בדת היהודית חל איסור מוחלט על אכילת דם?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/112155/",
+       "id": "112155",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | איך הפכה טורקיה למעצמה של טלנובלות?",
+       "logo": "https://www.kan.org.il/media/2bekxk2e/https-kanstaticazureedgenet-download-pictures-2020-3-26-imgid-30900_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kpk9t0ed/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אסמה סולטאן, פארוק וזיינפ - בעולם הטלנובלות יש כבר כמה זמן כלה חדשה והיא מאיסטנבול. בשני העשורים האחרונים טורקיה הפכה למעצמת טלוויזיה, תעשיית הסדרות שלה היא השנייה בגודלה בעולם אחרי ארה\"ב והיא מגלגלת מאות מיליוני דולרים בשנה. איך זה קרה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/111663/",
+       "id": "111663",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | איך נולדה מנת הקרב של צה\"ל?",
+       "logo": "https://www.kan.org.il/media/h44fwog5/https-kanstaticazureedgenet-download-pictures-2020-2-26-imgid-29192_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xqqiefpm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "חושבים שלוף זה מעדן? חבל, כי הוא יוצא ממנת הקרב. אבל איך הוא נכנס לתוכה בכלל? מה הקשר בין הרכיבים של מנת הקרב, ומי אחראי על זה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/110410/",
+       "id": "110410",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | לאן נעלמו האותיות של יהודי המזרח?",
+       "logo": "https://www.kan.org.il/media/kyfhvlqj/https-kanstaticazureedgenet-download-pictures-2020-1-30-imgid-27706_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1wbrwvv6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "כתב היד העברי שבו אנחנו רגילים לכתוב הוא אשכנזי. מה קרה לאחיו המזרחי שיהודים בארצות הערב השתמשו בו במשך יותר מאלף שנה? בגדול: נעלם. הכירו את הסוליטראו",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/109535/",
+       "id": "109535",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | איך ומתי הפך ורוד לצבע של בנות?",
+       "logo": "https://www.kan.org.il/media/4msfhgbz/https-kanstaticazureedgenet-download-pictures-2020-1-23-imgid-27331_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6icjfjtk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "במאה ה-18 התגלה פיגמנט ורוד חדשני, והבדים שהפיקו ממנו סימלו עוצמה, מלחמתיות ואגרסיביות. אבל במאה ה-19 התרחש מהפך. גברים עברו לחליפות כהות, ונשים אימצו צבעים רכים. האם מאז נגזר עלינו לחשוב שוורוד מתאים לבנות וכחול לבנים? ואיך קשורים לזה הנאצים, אודרי הפבורן והביולוגיה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/109424/",
+       "id": "109424",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | אופנת המצבות של היהודים",
+       "logo": "https://www.kan.org.il/media/zmhbw0if/https-kanstaticazureedgenet-download-pictures-2020-1-15-imgid-26889_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_146kp66m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עץ גדוע, ברכת כהנים, ציטוט משיר ישראלי? הכיתובים על המצבות משתנים כבר אלפי שנים, ובכל זאת - את המצבות היהודיות אפשר לזהות מרחוק כבר אלפי שנים. ענת קורול גורדון יצאה בעקבות התפתחות העיצוב של עולם הקבורה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/109181/",
+       "id": "109181",
+       "season": 4
+      },
+      {
+       "name": "כאן סקרנים | מלעיל VS מלרע - הקרב הגדול של העברית",
+       "logo": "https://www.kan.org.il/media/pf3mav0z/https-kanstaticazureedgenet-download-pictures-2020-1-2-imgid-26230_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3rkspbc8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "למה אנחנו כשאנחנו פונים ברשמיות לקולגה מהעבודה, אנחנו קוראים לו מאור במלרע, אבל כשהוא החבר שלנו מהמילואים, אנחנו קוראים לו מאור במלעיל? לתשובה קוראים \"נקמת יידיש\" - השפה שנכנסה בדלת האחורית לעברית והשפיעה עמוקות על הניגון שלה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s4/108948/",
+       "id": "108948",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "כאן סקרנים | האם באמת אפשר לסמוך על החזאים?",
+       "logo": "https://www.kan.org.il/media/v2xc4zal/https-kanstaticazureedgenet-download-pictures-2019-12-29-imgid-25984_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jdl1092x/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "כשהסופה משתוללת בחוץ, האם יש לנו על מי לסמוך? מי שומר על החזאים? ולמה בזמן שהטכנולוגיה כל כך התפתחה - החזאים עדיין טועים?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/108870/",
+       "id": "108870",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | למה כדאי לספר לילדים דברים נוראיים?",
+       "logo": "https://www.kan.org.il/media/ba4apbby/https-kanstaticazureedgenet-download-pictures-2019-11-11-imgid-23260_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_shm7764k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "נערה שמקצצת את כפות רגליה, אבא שמוכר את בתו לשטן - סיפורי הילדים של פעם היו די אלימים, אבל לא בטוח שהגרסאות המעודנות שלהם היום עושות יותר חסד עם הילדים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/107329/",
+       "id": "107329",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | איך נראה העולם תחתינו?",
+       "logo": "https://www.kan.org.il/media/nomedswc/https-kanstaticazureedgenet-download-pictures-2019-11-3-imgid-22847_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0gzpt8y9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מתחת לרצפות האספלט מסתתר עולם אחר, תת קרקעי המספק את רוב הצרכים היומיומיים והבסיסיים ביותר שלנו. מה קורה לנו מתחת לרגליים? איתמר אבנרי ירד אל העולם התחתון של התשתיות שלא כולנו מכירים",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/107163/",
+       "id": "107163",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | למה אנחנו בונים כל כך הרבה אצטדיונים?",
+       "logo": "https://www.kan.org.il/media/4rppv3ox/https-kanstaticazureedgenet-download-pictures-2019-10-10-imgid-21738_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_daygb5pe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בעשור האחרון נבנו בישראל חמישה אצטדיוני כדורגל בעלות כוללת של יותר ממיליארד שקל וחצי, ושניים נוספים עברו שיפוץ והרחבה. כולל בלומפילד. מה גורם לנו (ולכל שאר העולם) להשקיע כל כך הרבה במתקן שפעיל, ברוב המקרים, שעתיים בשבוע? התשובה מתחילה בטיטוס",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/106537/",
+       "id": "106537",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | מתי נכנס יום כיפור?",
+       "logo": "https://www.kan.org.il/media/ixtnaagi/https-kanstaticazureedgenet-download-pictures-2019-10-7-imgid-21652_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dwd0how9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "היום הקדוש מתחיל בשעות שונות בבאר שבע, בירושלים ובתל אביב. ובעצם לא רק הוא - גם השבת והחגים. למה זה קורה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/106515/",
+       "id": "106515",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | איך הפכה ישראל למעצמת תמרים?",
+       "logo": "https://www.kan.org.il/media/y5ud2zfm/https-kanstaticazureedgenet-download-pictures-2019-9-18-imgid-20749_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ciovano5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לפני קום המדינה כמעט שלא היו בארץ עצי דקל, והיום ישראל מייצאת 18 אלף טון מדי שנה. איך הפכנו לארץ התמר?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/106228/",
+       "id": "106228",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | איך מתכננים קו אוטובוס?",
+       "logo": "https://www.kan.org.il/media/yetje4wo/https-kanstaticazureedgenet-download-pictures-2019-8-29-imgid-19615_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5u7kk7ma/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "רוצים תחנה או קו אוטובוס שיעבור מתחת לבית? זה לא כל כך פשוט, אבל לא בלתי אפשרי. און דגן על התהליך המסורבל שמאחורי תכנון קווי התחבורה בישראל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/105811/",
+       "id": "105811",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | למה אין שום משמעות למידות הבגדים שלנו?",
+       "logo": "https://www.kan.org.il/media/23ym05xf/https-kanstaticazureedgenet-download-pictures-2019-7-25-imgid-17249_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6u0p7obg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "חושבות שאתן מידה 38? 40? 42? ולמה המידה קופצת ומשתנה בלי שעלינו במשקל? כך חברות האופנה עובדות עלינו כבר 200 שנה. שחר גבע יצאה לבדוק ולמדוד ומצאה שהמספר לא באמת אומר כלום",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/105058/",
+       "id": "105058",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | מסרים סודיים בתוכניות הרדיו של קול ישראל?",
+       "logo": "https://www.kan.org.il/media/z3wd2l4y/https-kanstaticazureedgenet-download-pictures-2019-6-12-imgid-14541_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1utbff44/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מה הקשר בין רבקה מיכאלי, דגים מבושלים וסוכני המודיעין הישראלי? כך השתמשו יחידות צה\"ל בקול ישראל כדי להעביר מסרים לחיילים ולסוכנים חשאיים במדינות אויב",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/103923/",
+       "id": "103923",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | למה הישראלים יצרו חג שגורם להם כאב בטן?",
+       "logo": "https://www.kan.org.il/media/khxdi0lk/https-kanstaticazureedgenet-download-pictures-2019-6-6-imgid-14181_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bajsfu51/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עובדה מספר 1: מסורת אכילת מוצרי חלב בשבועות היא די מומצאת. עובדה מספר 2: 80% מהישראלים רגישים ללקטוז ויאלצו גם השנה לסבול מכאבים במהלך. ענת קורול-גורדון, המתמודדת בעצמה עם אי-סבילות ללקטוז, יצאה לברר - למה לעזאזל אנחנו עושים את זה לעצמנו?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/103794/",
+       "id": "103794",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | למה התחלנו ללבוש גלימות?",
+       "logo": "https://www.kan.org.il/media/q1mp5trh/https-kanstaticazureedgenet-download-pictures-2019-5-26-imgid-13420_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6hm7rbq1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מחכים להצטלם עם הגלימה והכובע בטקס קבלת התואר? רק אומרים שהם שם בעיקר בגלל האינסטגרם, נזירים נוצרים והחלום האמריקאי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/103380/",
+       "id": "103380",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | למה אנחנו אומרים \"אֶהה\"...?",
+       "logo": "https://www.kan.org.il/media/oy3e4p3p/https-kanstaticazureedgenet-download-pictures-2019-5-20-imgid-13032_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_42zwygjy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "לא רק קריינים וכתבים, כל אחד עושה את זה: כשאנחנו חושבים אנחנו אומרים אֶהה... אבל למה, איזו משמעות יש לזה?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/103222/",
+       "id": "103222",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | כיצד צורת המסגד מספרת על מאבקי הכוח בעולם המוסלמי?",
+       "logo": "https://www.kan.org.il/media/k2ogrdki/https-kanstaticazureedgenet-download-pictures-2019-5-13-imgid-12482_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g0u1xk2q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "מבנה המסגד מלמד אותנו הרבה על המדינה שהקימה אותו. איך צורות המסגדים הנפוצות משקפות את מאבק הכוחות בין שלוש המעצמות המוסלמיות: ערב הסעודית, טורקיה ואיראן?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/103054/",
+       "id": "103054",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | איך \"ערב של שושנים\" הפך להמנון אצטדיונים אירופי?",
+       "logo": "https://www.kan.org.il/media/u5aatnbl/https-kanstaticazureedgenet-download-pictures-2019-4-10-imgid-9310_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0g2onpyt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "הוא נכתב ב-55', הפך ללהיט מספר 1 של הדודאים, נסע איתם ברחבי העולם, ומשם נדד כתוצאה של צירופי מקרים לאצטדיון של נינרברג ושל קבוצות נוספות באירופה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/101903/",
+       "id": "101903",
+       "season": 3
+      },
+      {
+       "name": "כאן סקרנים | איך הגיע הג'וקר לחפיסת הקלפים שלנו?",
+       "logo": "https://www.kan.org.il/media/5rvoxzqb/2019-3-18-imgid-6654_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dvtn5dbv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "נראה לכם הגיוני שבמשחק קלפים יש קלף אחד שיכול לעשות הכל? הג'וקר הוא הקלף החדש ביותר בחפיסת הקלפים, ולא, הוא לא ממש קשור לליצן החצר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s3/100857/",
+       "id": "100857",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "כאן סקרנים | למה יש בצרפתית המון אותיות מיותרות?",
+       "logo": "https://www.kan.org.il/media/jjel14qk/https-kanstaticazureedgenet-download-pictures-2018-12-17-imgid-1185_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2rp4m1c8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "רנולט הופכת לרנו, פג'וט לפג'ו, ומייק ברנט שר את \"לס מואה טמה\" עם לא פחות מ-623 אותיות בצרפתית. האגדה אומרת שהסופרים הצרפתיים הוסיפו אותיות כדי להרוויח עוד קצת כסף מהוצאות הספרים, אבל האמת היא אחרת לגמרי. ענת קורול מסבירה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/98333/",
+       "id": "98333",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | כך הפך השניצל למאכל ישראלי",
+       "logo": "https://www.kan.org.il/media/3xspujsv/cat41885_img_cover902302282.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pvdgddsd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "ידוע שאין כמו השניצל של אמא, אבל מאיפה הוא הגיע לחיינו ואיך הפך למאכל כל כך ישראלי?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/96583/",
+       "id": "96583",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | למה סיכות הלוחם בצה\"ל מצמיחות כנפיים?",
+       "logo": "https://www.kan.org.il/media/iuyj0lrf/cat40053_img_cover206127367.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wb2m0eah/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "שמתם לב שכמעט בכל הסיכות הצבאיות יש כנפיים? זה הגיוני בחילות האוויר או הצנחנים, אבל לאורך השנים כמעט לכל יחידה שמוקמת בצה\"ל מצמידים כנפיים לסיכות הלוחמים: חתול עם כנפיים? משקפת מכונפת? בצה\"ל הכל תופס. עמוס מרון מנסה להסביר את המקור לתופעה",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/93689/",
+       "id": "93689",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | מה משמעות המספרים שמתחילים ב־E על מוצרי מזון?",
+       "logo": "https://www.kan.org.il/media/g3udmxyb/https-kanstaticazureedgenet-download-pictures-2021-3-9-imgid-48770_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_13yjsh2r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "כשאנחנו מסתכלים על מוצרים שיש בהם חומרים שהשם שלהם מתחיל באות E, זה גורם לנו לחשוב שהמוצר פחות בריא. רק שהסימון הזה בכלל מציין את השיטה האירופית לסימון תוספי מזון. זה הסיפור על התגלגלותו של המיתוס הכוזב",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/89075/",
+       "id": "89075",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | איך המכוניות תורמות לשכחת ילדים ברכב?",
+       "logo": "https://www.kan.org.il/media/cjrf4yys/https-kanstaticazureedgenet-download-pictures-2021-3-9-imgid-48770_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8mhsl6di/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "כולם מדברים על הטלפונים החכמים - אבל אף אחד לא מדבר על המכוניות. ההשתכללות של המכוניות בעשורים האחרונים הופכת את שכחת הילדים לכמעט בלתי נמנעת",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/88810/",
+       "id": "88810",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | למה אנשים זורקים מטבעות למזרקות?",
+       "logo": "https://www.kan.org.il/media/yyjd24ph/cat35303_img_cover717556194.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2ds4d4dm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "המנהג היה קיים אצל שִבטי הברברים באירופה אצל ההודים במזרח וגם אצל הרומאים. אז למה אנשים ממשיכים לזרוק מטבעות למזרקות?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/88286/",
+       "id": "88286",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | למה אי אפשר להעביר ריחות בהודעת וואטסאפ?",
+       "logo": "https://www.kan.org.il/media/5lsgcauk/https-kanstaticazureedgenet-download-pictures-2021-3-9-imgid-48770_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h4wl52fa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אנחנו יכולים לשלוח בטלפון תמונות או שירים. אבל למה לא ריחות? הכירו את הילד הדחוי של עולם המדע - חוש הריח",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/88082/",
+       "id": "88082",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | למה יהודים חובשים כיפה?",
+       "logo": "https://www.kan.org.il/media/bt4p41k3/cat33260_img_cover748531862.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s7wfj0kk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אברהם אבינו לא ידע על קיומה, הגאון מווילנה יצא נגדה ובאירופה היא התחילה כסמל אנטישמי: זהו סיפורה של כיפה (ואם תישארו לסגיר, תשמעו גם על הלדרדוס).",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/87647/",
+       "id": "87647",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | למה ומתי גברים הפסיקו להתאפר?",
+       "logo": "https://www.kan.org.il/media/uvpjhz1o/cat32701_img_cover687167140.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qxnkj723/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "גבר, מתי בפעם האחרונה מרחת צללית וסומק? ענת קורול בודקת למה הפסיקו הגברים להתאפר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/87378/",
+       "id": "87378",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | חומרים מסוכנים",
+       "logo": "https://www.kan.org.il/media/o4rhdrwj/cat31526_img_cover946697885.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ra4hrjtr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אנחנו מכירים את המשאיות שמובילות חומרים מסוכנים על הכביש אבל רובנו לא באמת יודעים מה יש בפנים או אולי מעדיפים שלא לדעת. ובכל זאת אפשר וכדאי לזהות אותן די בקלות",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/86768/",
+       "id": "86768",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | למה יש חולצות שלא צריכות גיהוץ?",
+       "logo": "https://www.kan.org.il/media/mwkluosl/cat31277_img_cover666426701.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yr87bo33/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "קניתם חולצה חדשה וגיליתם שהיא מתקמטת בטירוף עם כל כביסה? הכנו לכם מדריך לבחירת בדים על פי הנטייה שלהם להתקמט",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/86608/",
+       "id": "86608",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | איך הפכנו את הפלאפל לישראלי",
+       "logo": "https://www.kan.org.il/media/xsxp2zjy/cat30970_img_cover677621492.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cnae6uy8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בפעם הבאה שיגידו לכם שפלאפל הוא בכלל של השכנים הערבים - תהיה לכם תשובה מנצחת. מהיכן באמת הגיע הפלאפל ומה הפך אותו לכל כך ישראלי? בדקנו וחזרנו עם כמה מסקנות שיחממו את המוראל הלאומי",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/86433/",
+       "id": "86433",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | למה קשה לנו להבין את השירים של שלמה ארצי?",
+       "logo": "https://www.kan.org.il/media/oubiohh2/https-kanstaticazureedgenet-download-pictures-2019-8-13-imgid-18484_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_48bkxul0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "נחום אבניאל מסביר מה אנחנו כל כך אוהבים בשירים של שלמה ארצי, ולמה קשה להבין אותם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/85372/",
+       "id": "85372",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | מדוע רוב אוכלוסיית ישראל נמצאת בין גדרה לחדרה?",
+       "logo": "https://www.kan.org.il/media/0yifyzoq/https-kanstaticazureedgenet-download-pictures-2019-8-13-imgid-18475_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2aupnryg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "בעלי הדירות במגדלי אקירוב בתל אביב חייבים את ערך הנכס שלהם לסולטאן הממלוכי בייברס ולפחד שלו מהפנאטים הנוצרים. כך הפכה אוכלוסיית מדינת ישראל להיות תושבי המרכז",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/85252/",
+       "id": "85252",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | איך הגיעו לישראל מגפי העבודה האוסטרליים?",
+       "logo": "https://www.kan.org.il/media/eyanfv3h/https-kanstaticazureedgenet-download-pictures-2019-8-13-imgid-18474_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4wpum7cl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "המלכה ויקטוריה הפכה אותם ללהיט, הביטלס הזמינו מהם גרסה מיוחדת ובישראל תמצאו אותם אצל מושבניקים, מתנחלות והייטקיסטים מתל אביב. כך הפכו מגפי העבודה האוסטרליים לפופולריים כל כך באנגליה, הודו, אוסטרליה, ניו זילנד, טסמניה וגם ישראל",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/84559/",
+       "id": "84559",
+       "season": 2
+      },
+      {
+       "name": "כאן סקרנים | איך נקבעים מספרי הכבישים בישראל?",
+       "logo": "https://www.kan.org.il/media/m5jo4ugt/https-kanstaticazureedgenet-download-pictures-2019-8-13-imgid-18472_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yw41p1r5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "עמוס מרון יצא לבדוק איך הכבישים בישראל מקבלים מספר",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s2/84194/",
+       "id": "84194",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "כאן סקרנים | מדוע אנחנו מחקים?",
+       "logo": "https://www.kan.org.il/media/zorpkcxb/https-kanstaticazureedgenet-download-pictures-2019-8-13-imgid-18470_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pt3hehhg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "אנחנו אוהבים לחשוב שאנחנו שונים ומיוחדים, אבל בסופו של דבר, כולנו חקיינים, ויש לזה סיבה ביולוגית",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12184/s1/82908/",
+       "id": "82908",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

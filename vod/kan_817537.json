@@ -1,0 +1,93 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בחזרה לעתיד | תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-817537/",
+   "series_id": "817537",
+   "updated": "2026-10-28 09:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בחזרה לעתיד | בורקס הזהב",
+       "logo": "https://www.kan.org.il/media/r0wpexk1/בורקס-הזהב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8kaukqds/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-28",
+       "plot": "מוני מושונוב ושלמה בראבא מעניקים פרס מיוחד, חנה לסלאו בקטע סטנדאפ ושלמה ניצן על כותרות בעיתונים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-817537/s1/817565/",
+       "id": "817565",
+       "season": 1
+      },
+      {
+       "name": "בחזרה לעתיד | רצים לפוליטיקה",
+       "logo": "https://www.kan.org.il/media/0csjqnew/רצים-לפוליטיקה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gtjof9ky/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-28",
+       "plot": "שלמה ניצן על מנהיגי המחר לקראת הבחירות ויוסי בנאי במשחק כיסאות פוליטי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-817537/s1/817557/",
+       "id": "817557",
+       "season": 1
+      },
+      {
+       "name": "בחזרה לעתיד | שרים וצוחקים",
+       "logo": "https://www.kan.org.il/media/qmtdcse4/שרים-וצוחקים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uyx18lo8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-28",
+       "plot": "שלמה ניצן עם שיר לשבת וקטעי סטנדאפ קורעים מצחוק של מודי בר און וחנה לסלאו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-817537/s1/817553/",
+       "id": "817553",
+       "season": 1
+      },
+      {
+       "name": "בחזרה לעתיד | סיבה למסיבה",
+       "logo": "https://www.kan.org.il/media/iurpab54/סיבה-למסיבה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ioj8xqfv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-28",
+       "plot": "יאיר ניצני, גני תמיר ואברי גלעד שרים את \"שיר המנגל\" ורבקה מיכאלי בגרסה הנשית למערכון \"לול\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-817537/s1/817550/",
+       "id": "817550",
+       "season": 1
+      },
+      {
+       "name": "בחזרה לעתיד | בחירות בליכוד",
+       "logo": "https://www.kan.org.il/media/armdfpdg/בחירות-בליכוד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7op9g39o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-28",
+       "plot": "טוביה צפיר ורבקה מיכאלי על הפריימריז במפלגה הגדולה בישראל, פינת \"האגף הסגור\" על משגיחי כשרות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-817537/s1/817544/",
+       "id": "817544",
+       "season": 1
+      },
+      {
+       "name": "בחזרה לעתיד | שנות ה-80",
+       "logo": "https://www.kan.org.il/media/2g5gqqgd/שנות-ה-80.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i5ktskfn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-10-28",
+       "plot": "שלמה בראבא בפרודיה על \"מבט שני\", מערכונים על טיולים בעולם וחוויית הישראליות בחו\"ל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-817537/s1/817542/",
+       "id": "817542",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בחזרה לעתיד | פתיח",
+       "logo": "https://www.kan.org.il/media/nmkllcul/בחזרה-לעתיד.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yyydal5v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-18",
+       "plot": "\"מה שהיה היה, מה שיהיה יהיה\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-817537/861456/",
+       "id": "861456"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

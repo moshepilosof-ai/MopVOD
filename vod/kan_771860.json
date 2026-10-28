@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הייתי מתה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-771860/",
+   "series_id": "771860",
+   "updated": "2026-10-28 09:52",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הייתי מתה עם עדי אשכנזי | פרק 6 - החזרה לחיים",
+       "logo": "https://www.kan.org.il/media/g0pcktwv/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ux4lj7k4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-10",
+       "plot": "בשלב האחרון הנשמה חוזרת לגוף. עדי ואנשים רבים אחרים שחוו חווית סף מוות, שואלים את עצמם מה הייתה המשמעות של האירוע? מה הם נדרשים לעשות על מנת לתקן את עצמם או את החברה בה הם חיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/s1/771878/",
+       "id": "771878",
+       "season": 1
+      },
+      {
+       "name": "הייתי מתה עם עדי אשכנזי | פרק 5 - גן עדן או גיהנום",
+       "logo": "https://www.kan.org.il/media/pnabr3og/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3gdegwnk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-10",
+       "plot": "השלב הבא בחוויית סף המוות אחרי האור הוא הגעה לבית דין של מעלה. אדם רואה את סרט חייו ומרגיש אשם או גאה. האם התנהגות מוסרית בעולם הזה תשתלם לנו בעולם הבא? מהי התנהגות מוסרית ומי מחליט מה הם הקריטריונים? האם יש גן עדן וגיהנום בעולם הבא ואולי הם נמצאים בעולם הזה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/s1/771875/",
+       "id": "771875",
+       "season": 1
+      },
+      {
+       "name": "הייתי מתה עם עדי אשכנזי | פרק 4 - אלוהים אחרים",
+       "logo": "https://www.kan.org.il/media/3twbjfzy/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_anaxq5mj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-10",
+       "plot": "עדי ממשיכה לבחון את מושג האור/האלוהות והפעם היא שואלת: אם אנחנו אור לגויים אז למה אנחנו בחשיכה? היא בוחנת את ההשפעות של היהדות על הדתות המונותאיסטיות, נצרות ואסלאם, ומגלה שכל הדתות מדברות על אהבה. עדי מתקשה להבין את הפער בין הצהרות אנשי הדת על חסד ואהבה לסבל בעולם. היא מגיעה לבודהיזם ומבינה שבשביל להתגבר על הסבל היא צריכה 24/7 לעשות מדיטציה. האם היא תצליח לעשות מדיטציה תוך כדי אכילה? האם לא כדאי לפתוח דת חדשה?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/s1/771873/",
+       "id": "771873",
+       "season": 1
+      },
+      {
+       "name": "הייתי מתה עם עדי אשכנזי | פרק 3 - הופעת האור",
+       "logo": "https://www.kan.org.il/media/k03fkhua/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fteffzx6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-10",
+       "plot": "בדרכה למעלה הנשמה מסתנוורת מאור גדול כשהיא יוצאת מהמנהרה. אנשי הדת אומרים שהאור הוא אלוהים. עדי מנסה להבין מה אלוהים רצה ממנה ומאיתנו? היא חוקרת למה יש פער בין האור שהיא חוותה לבין מושג האלוהים בחברה היהודית ולמה נשים ביהדות מופלות ומודרות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/s1/771870/",
+       "id": "771870",
+       "season": 1
+      },
+      {
+       "name": "הייתי מתה עם עדי אשכנזי | פרק 2 - הפרוזדור",
+       "logo": "https://www.kan.org.il/media/hgios2dz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mk4jurgx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-10",
+       "plot": "עדי נפגשת עם חוקרת חוויות סף מוות שמתארת לה תחנות במסע של הנשמה לעולמות עליונים. היא לומדת שאחרי התנתקות הנשמה מהגוף היא עוברת במנהרה לעולם אחר. עדי מחליטה לראיין אנשים שחוו גם הם מוות קליני שיספרו לה על התהליך, היא פוגשת גם מתקשרים ואנשי מאגיה שמתחברים עם נשמות שתקועות במנהרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/s1/771868/",
+       "id": "771868",
+       "season": 1
+      },
+      {
+       "name": "הייתי מתה עם עדי אשכנזי | פרק 1 - כשהנשמה יוצאת",
+       "logo": "https://www.kan.org.il/media/cjdf2ugw/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r0n6ize3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-07-10",
+       "plot": "לאור חווית סף המוות שעברה, עדי מחליטה לצאת למסע לחיפוש משמעות החיים. הדבר הראשון שחוותה באותו אירוע הייתה התחושה של יציאת הנשמה מהגוף. מהי נשמה? האם ניתן לשחזר את ניתוק הנשמה מהגוף? מה קורה לנשמה אחרי שמתים והאם היא בכלל קיימת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/s1/771862/",
+       "id": "771862",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הייתי מתה | טריילר",
+       "logo": "https://www.kan.org.il/media/iqwbns24/1920x1080-with-logo_הייתי-מתה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_q31bwgqw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "עדי אשכנזי חוזרת לחוויית סף המוות ששינתה את חייה, ומחפשת תשובות לשאלות קיומיות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/866236/",
+       "id": "866236"
+      },
+      {
+       "name": "הייתי מתה - הצצה | יש גלגול נשמות?",
+       "logo": "https://www.kan.org.il/media/la1p5xps/הייתי-מתה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3k7fzzu4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "עדי אשכנזי מתייעצת עם פרופסור לפיזיקה קוונטית על גלגול נשמות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/856473/",
+       "id": "856473"
+      },
+      {
+       "name": "הייתי מתה - הצצה | חוויית סף מוות",
+       "logo": "https://www.kan.org.il/media/litpv00t/הייתי-מתה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5z9z45k2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "\"אדוני הרב, מה זה האור הלבן\"? עדי אשכנזי מדברת על חוויית סף המוות שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-771860/856450/",
+       "id": "856450"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

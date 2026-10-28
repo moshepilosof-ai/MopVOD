@@ -1,0 +1,39 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מקצה לקצה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/news-series/p-1106090/",
+   "series_id": "1106090",
+   "updated": "2026-10-28 12:25",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "\"נצביע לביבי, טוב לנו איתו\": 7 באוקטובר ישנה את דפוסי ההצבעה בדרום?",
+       "logo": "https://www.kan.org.il/media/52lfsw22/2.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250292/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "איך הטבח ישפיע על הפתק שישימו תושבי העוטף והדרום בקלפי? הפרק השני בפרויקט המיוחד שלנו \"מקצה לקצה\"",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1106090/s1/1104115/",
+       "id": "1104115",
+       "season": 1
+      },
+      {
+       "name": "\"אנחנו לא על המפה של הממשלה\": המלחמה תשנה את דפוסי ההצבעה בחצור הגלילית?",
+       "logo": "https://www.kan.org.il/media/mlwj5u43/רחוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2249857/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-27",
+       "plot": "שלוש שנים של פגיעות ישירות, מכה כלכלית ועזיבת תושבים מואצת שינו בלי היכר את יישובי הצפון והדרום, שמזוהים בהצבעה למפלגות הימין. הם לא שוכחים מה קרה כאן, אבל האם הטלטלה שחוו תשנה את הפתק שישימו בקלפי? חודש לבחירות, אורן אהרוני וסוקר כאן חדשות דודי חסיד יצאו למסע מקרית שמונה ועד שדרות כדי להבין אם המלחמה תשנה דפוסי הצבעה היסטוריים",
+       "page": "https://www.kan.org.il/content/kan/news-series/p-1106090/s1/1103739/",
+       "id": "1103739",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

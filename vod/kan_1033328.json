@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - לעבודה ולמלאכה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/projects/p-1033328/",
+   "series_id": "1033328",
+   "updated": "2026-10-28 11:33",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "לעבודה ולמלאכה | טריילר",
+       "logo": "https://www.kan.org.il/media/trgdhcgh/1920x1080-with-logo-לעבודה-ולמלאכה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194786/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-28",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1033328/1034504/",
+       "id": "1034504"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

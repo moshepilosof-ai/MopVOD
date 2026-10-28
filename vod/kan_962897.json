@@ -1,0 +1,934 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תגידו קצר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-962897/",
+   "series_id": "962897",
+   "updated": "2026-10-28 13:39",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "תגידו קצר בחירות 2026 | פרק 3 - 27.10.26",
+       "logo": "https://www.kan.org.il/media/d3qcfarh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258895/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-25",
+       "plot": "רגע לפני סקירת הקלפיות והמדגם הדרמטי, האנשים עם הפה הכי גדול מסכמים את מערכת הבחירות הסוערת של 2026. עם קותי סבג וליאור דיין, מנדי וביתאן, גלעד כהנא וגלית חוגי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s2/1112505/",
+       "id": "1112505",
+       "season": 2
+      },
+      {
+       "name": "תגידו קצר בחירות 2026 | פרק 2 - 26.10.26",
+       "logo": "https://www.kan.org.il/media/ha2nvnrb/לאתר-מה-שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258894/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-25",
+       "plot": "בכל יום השבוע, האנשים עם הפה הכי גדול במדינה סופרים לאחור לקראת פתיחת הקלפיות במהדורת בזק. עם קותי סבג וליאור דיין, יואב רבינוביץ' ושיר ראובן, מנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s2/1112504/",
+       "id": "1112504",
+       "season": 2
+      },
+      {
+       "name": "תגידו קצר בחירות 2026 | פרק 1 - 25.10.26 ",
+       "logo": "https://www.kan.org.il/media/tfvhv1pw/תגידוקצרלאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258893/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-25",
+       "plot": "בכל יום השבוע, האנשים עם הפה הכי גדול במדינה סופרים לאחור לקראת פתיחת הקלפיות במהדורת בזק. עם לידור אדמוני ותומר עובדיה, ליאור אשכנזי וברק כהן, שיר ראובן ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s2/1112503/",
+       "id": "1112503",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "תגידו קצר | פרק 88 - סיכום שבועי, 27.02.26",
+       "logo": "https://www.kan.org.il/media/wjvjozhz/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171283/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-26",
+       "plot": "כינוס מועצת השלום, לימור סון הר -מלך בעזה, התקיפה הקרבה באיראן, ביקור מודי בישראל, החלת חינוך פיננסי, צו המע\"מ של סמוטריץ' וחג פורים שבפתח.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1003315/",
+       "id": "1003315",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 87 - 25.02.26",
+       "logo": "https://www.kan.org.il/media/vqlg3mu5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170824/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-25",
+       "plot": "רגע לפני שמדברים על כל מה שקרה היום, בואו נדבר על כל מה שקרה היום: מרד המע''מ ופורים שמעבר לפינה. עם גלית חוגי וגלעד כהנא, שיר ראובן ויואב רבינוביץ', מנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1003066/",
+       "id": "1003066",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 86 - 24.02.26",
+       "logo": "https://www.kan.org.il/media/1hkh1hud/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170594/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-24",
+       "plot": "האם ראש ממשלת הודו ינאם מול כנסת חצי ריקה? והאם באמת יהיה כאן חינוך פיננסי בבית הספר? עם מאיה בצלאל וגלעד כהנא, יוסי מרשק וליאור אשכנזי, גיה באר גורביץ' ויוגב יפת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1002711/",
+       "id": "1002711",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 85 - 23.02.26",
+       "logo": "https://www.kan.org.il/media/4sxdadcz/תגידו-קצר-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169877/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-23",
+       "plot": "תהיה תקיפה באיראן או לא? וסל התרופות כבר כאן. עם יוסי מרשק ויואב רבינוביץ', דור כאהן וטס השילוני, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1002359/",
+       "id": "1002359",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | 22.02.26",
+       "logo": "https://www.kan.org.il/media/3g5ejkv1/s0553302_100_03_16_13still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169730/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-22",
+       "plot": "הכינוס ההיסטורי של מועצת השלום החדשה, ופעילי ימין חוצים את הגבול לעזה. עם גלית חוגי וגלעד כהנא, מאיה בצלאל וקותי סבג, הדר לוי ונלי תגר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1001980/",
+       "id": "1001980",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 83 - סיכום שבועי, 20.02.26",
+       "logo": "https://www.kan.org.il/media/z45grwje/תגידו-קצר-83-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168867/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-19",
+       "plot": "פספסתם את כותרות השבוע? הצמדים של \"תגידו קצר\" כאן כדי לעשות סדר ולצחוק על טראמפ והרצוג, המחלוקת סביב המילה \"טבח\", המהומות בבני ברק, אובמה והחייזרים, הבחירות שבאופק, המו\"מ עם איראן והז'קט של נועה קירל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1000978/",
+       "id": "1000978",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | 18.02.26",
+       "logo": "https://www.kan.org.il/media/nwnpmbt0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168372/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-18",
+       "plot": "ארה\"ב ואיראן ממשיכות לנהל מו\"מ, וערוץ 14 מכסה את נועה קירל. עם גלעד כהנא וגלית חוגי, מאיה בצלאל וקותי סבג, יוסי מרשק ויואב רבינוביץ'.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1000730/",
+       "id": "1000730",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | 17.02.26",
+       "logo": "https://www.kan.org.il/media/y4uhs4um/fasfsa.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168105/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-17",
+       "plot": "האם אנחנו אכן לקראת בחירות, והאם הכסף הגדול נמצא בפולימרקט? עם ליאור אשכנזי ויוסי מרשק, דור כאהן וטס השילוני, אלי ביתאן ומאיה בצלאל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/1000251/",
+       "id": "1000251",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | 16.02.26",
+       "logo": "https://www.kan.org.il/media/ewnd2u4p/תגידו-קצר-פרק-80-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167682/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-16",
+       "plot": "שטח ההפקר בבני ברק, אובמה והחייזרים, ומשחק האולסטאר. עם גיה באר גורביץ' ויוגב יפת, מאיה בצלאל ואלי ביתאן, גלית חוגי וגלעד כהנא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/999975/",
+       "id": "999975",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | 15.02.26",
+       "logo": "https://www.kan.org.il/media/qfwlc1pk/תגידו-קצר-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167142/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "הסערה סביב השמטת המילה \"טבח\" בהנצחת ארועי 7.10, וקרב הנשיאים - טראמפ נגד הרצוג. עם יואב רבינוביץ' ושיר ראובן, הדר לוי ונלי תגר, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/999418/",
+       "id": "999418",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 78 - סיכום שבועי, 13.02.26",
+       "logo": "https://www.kan.org.il/media/5ppbbva0/s055329600_02_50_04still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166252/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-12",
+       "plot": "הפרוטוקולים של נתניהו, אולימפיאדת החורף, פרשות אפשטיין ואושר כהן, הנסיעה של רה\"מ לוושינגטון, המשבר במערכת החינוך, והאינדונזים שבדרך לעזה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/998507/",
+       "id": "998507",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | 11.02.26",
+       "logo": "https://www.kan.org.il/media/cexnus1q/תגידו-קצר-77.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165733/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-11",
+       "plot": "רה\"מ יוצא נגד ראש השב\"כ, והאם חיילים אינדונזים בדרך לרצועת עזה? עם גלית חוגי וגלעד כהנא, הדר לוי ונלי תגר, יוסי מרשק ויואב רבינוביץ'.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/998124/",
+       "id": "998124",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 76 - 10.02.26",
+       "logo": "https://www.kan.org.il/media/2mgnebfr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165583/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-10",
+       "plot": "הנסיעה הבהולה של נתניהו לוושינגטון, והמחסור החמור במורים. עם שיר ראובן ויואב רבינוביץ', גיה באר גורביץ' ויוגב יפת, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/997780/",
+       "id": "997780",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 75 - 09.02.26",
+       "logo": "https://www.kan.org.il/media/gmgpere5/יוסי-מרשק.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165184/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-09",
+       "plot": "ההתפתחויות האחרונות בפרשת אפשטיין ואושר כהן מסתבך. עם יוסי מרשק ויואב רבינוביץ', מאיה בצלאל וקותי סבג, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/997382/",
+       "id": "997382",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 74 - 08.02.26",
+       "logo": "https://www.kan.org.il/media/hkebpser/s055329200_06_45_17still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2164663/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-08",
+       "plot": "נתניהו עונה למבקר וחושף פרוטוקולים, ואולימפיאדת החורף יצאה לדרך! עם גלית חוגי וגלעד כהנא, מאיה בצלאל וקותי סבג, דור כאהן וטס\nהשילוני.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/996984/",
+       "id": "996984",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 73 - סיכום שבועי, 06.02.26",
+       "logo": "https://www.kan.org.il/media/rvmf3ofm/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2163894/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-05",
+       "plot": "החסימות של מרדכי דוד, הליכוד נגד הדיפ סטייט, הריבים בצמרת המשטרה, הממשלה בקריית שמונה, ערוץ 14 נגד לוחמות בצה\"ל, רפורמת החלב והאח של דוד זיני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/996102/",
+       "id": "996102",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 72 - 04.02.26",
+       "logo": "https://www.kan.org.il/media/2tchk4le/תגידו-קצר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2162979/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-04",
+       "plot": "פרשת ההברחות לעזה ובצלאל זיני, רפורמת החלב, ובג\"צ נגד איתמר בן גביר. עם יוסי מרשק ויואב רבינוביץ', קותי סבג ויונה קפח, מנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/995925/",
+       "id": "995925",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 71 - 03.02.26",
+       "logo": "https://www.kan.org.il/media/pnlbpchr/vlcsnap-2026-02-03-19h06m24s445.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2158720/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-03",
+       "plot": "האם אנחנו בדרך לתקיפה או מו\"מ באיראן, וערוץ 14 נגד הלוחמות בצה\"ל. עם גלעד כהנא וגלית חוגי, גיה באר גורביץ' ויוגב יפת, מאיה בצלאל וקותי סבג.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/995568/",
+       "id": "995568",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | 02.02.26",
+       "logo": "https://www.kan.org.il/media/u41jbsx4/נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2153724/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-02",
+       "plot": "רעידת אדמה בצמרת המשטרה, והממשלה נזכרה שיש עיר בשם קריית שמונה. עם: גלעד כהנא וגלית חוגי, יוסי מרשק ויואב רבינוביץ', מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/995218/",
+       "id": "995218",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 69 - 01.02.26",
+       "logo": "https://www.kan.org.il/media/q25hzmrc/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2148243/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-01",
+       "plot": "מרדכי דוד חוסם כל דבר שזז, ומפלגת הליכוד יוצאת כנגד ה\"דיפ סטייט\". עם שיר ראובן והדר לוי, מאיה בצלאל וקותי סבג, דור כאהן ואלונה סער.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/994884/",
+       "id": "994884",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 68 - סיכום שבועי, 29.01.26",
+       "logo": "https://www.kan.org.il/media/hhxb2hxm/לאתר-ועריכה-ליוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2134460/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-29",
+       "plot": "פספסתם את כותרות השבוע? הצמדים של \"תגידו קצר\" עושים סדר: שלב ב' בעזה, המתקפה באיראן, המשבר ב\"אגד\", תקציב המדינה מול חוק הגיוס, דו\"ח הבריאות הנפשית בישראל, הפרשייה הביטחונית החדשה והספארי שעובר דירה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/994121/",
+       "id": "994121",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 67 - 28.01.26",
+       "logo": "https://www.kan.org.il/media/jlqikuxk/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2130978/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-28",
+       "plot": "רגע לפני שמדברים על כל מה שקרה היום – בואו נדבר על כל מה שקרה היום: הפרשייה הבטחונית החדשה נחשפת, והספארי ברמת גן עובר דירה. עם: יואב רבינוביץ' ושיר ראובן, הדר לוי וברק כהן, מאיה בצלאל וקותי סבג.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/993864/",
+       "id": "993864",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 66 - 27.01.26",
+       "logo": "https://www.kan.org.il/media/dhyjt352/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2126157/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-27",
+       "plot": "החזרתו של החלל החטוף האחרון רן גואילי, תקציב המדינה ראש בראש מול חוק הגיוס, ודוח חדש קבע - ישראל בדיכאון. עם גלעד כהנא ונלי תגר, יוגב יפת וגיה באר-גורביץ', מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/993496/",
+       "id": "993496",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 65 - 26.01.26",
+       "logo": "https://www.kan.org.il/media/g0miqjft/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2121703/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-26",
+       "plot": "החשש וההכנות למתקפה האיראנית, והחוסר הגדול בנהגים בתחבורה הציבורית. עם גלעד כהנא וליאור אשכנזי, דור כאהן וטס השילוני, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/993173/",
+       "id": "993173",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 64 - 25.01.26",
+       "logo": "https://www.kan.org.il/media/yi5bqe2e/tagidukazar_digital_se01ep64_25012600_01_26_01still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2116637/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-25",
+       "plot": "שלב ב' ותכנית המפרט ל\"עזה החדשה\", והקלטות הרבנים בנושא חוק הגיוס. עם יואב רבינוביץ' ושיר ראובן, מאיה בצלאל וקותי סבג, הדר לוי ונלי תגר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/992632/",
+       "id": "992632",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 63 - סיכום שבועי, 22.01.26",
+       "logo": "https://www.kan.org.il/media/uwrlslmv/s055328100_02_58_11still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2103667/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-22",
+       "plot": "פספסתם את כותרות השבוע? הצמדים של \"תגידו קצר\" עושים סדר: מועצת השלום בעזה, שירות נשים בצה\"ל, פרשת נסרין ורום ברסלבסקי, אובר בדרך לישראל, טראמפ חם על גרינלנד, ההתעלמות מקריית שמונה, והרמטכ\"ל שמתריע בשער.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/991971/",
+       "id": "991971",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 62 - 21.01.26",
+       "logo": "https://www.kan.org.il/media/kwhiqpol/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2100010/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-21",
+       "plot": "נתניהו יישב במועצת השלום עם קטאר וטורקיה, הממשלה מתעלמת מקיומה של קריית שמונה, והרמטכ\"ל שוב מתריע בשער. עם יואב רבינוביץ' ושיר ראובן, מאיה בצלאל וקותי סבג, הדר לוי וברק כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/991656/",
+       "id": "991656",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 61 - 20.01.26",
+       "logo": "https://www.kan.org.il/media/skkhbft3/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2094412/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-20",
+       "plot": "האם דונלד טראמפ בדררך להשתלט על גרינלנד, והאם ישראל ערוכה לרעידת האדמה שבדרך? עם יואב רבינוביץ' ושיר ראובן, גיה באר גורביץ' ויוגב יפת, מנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/991415/",
+       "id": "991415",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 60 - 19.01.26",
+       "logo": "https://www.kan.org.il/media/fb4pjkwp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2089973/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-19",
+       "plot": "מה קרה בין בן הזוג של הזמרת ושורד השבי, והאם אובר מתגלגלת בדרך לישראל? עם גלעד כהנא וליאור אשכנזי, דור כאהן וטס השילוני, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/991121/",
+       "id": "991121",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 59 - 18.01.26",
+       "logo": "https://www.kan.org.il/media/utmj3fle/מה-שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2084844/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-18",
+       "plot": "מועצת השלום בעזה יוצאת לדרך מעל הראש של ישראל, והאם אתם בעד או נגד נשים בצבא? עם יוסי מרשק ויואב רבינוביץ', מאיה בצלאל וקותי סבג, הדר לוי ונלי תגר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/990716/",
+       "id": "990716",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 58 - סיכום שבועי, 15.01.26",
+       "logo": "https://www.kan.org.il/media/k5raniau/תגידו-לקט.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2073791/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-15",
+       "plot": "פספסתם את כותרות השבוע? הצמדים של \"תגידו קצר\" מסכמים: שובה של הליכודיאדה, עינב צנגאוקר בדרך לפוליטיקה, החקיקה המשפטית בקואליציה, סיום תפקידו של ה\"בואש\", ההפגנות באיראן והקמפיין החדש של רומן זדורוב.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/989963/",
+       "id": "989963",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 57 - 14.01.26",
+       "logo": "https://www.kan.org.il/media/ok4a4dgc/לאתר-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2070940/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-14",
+       "plot": "המחאות באיראן רק מסלימות וכולם מחכים לפעולה אמריקאית, ומה נסגר עם רומן זדורוב? עם גלית חוגי וגלעד כהנא, יוסי מרשק ויואב רבינוביץ', מאיה בצלאל וקותי סבג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/989667/",
+       "id": "989667",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 56 - 13.01.26",
+       "logo": "https://www.kan.org.il/media/cm3it30s/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067939/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-13",
+       "plot": "הקואליציה מעלה הילוך עם מהלכי חקיקה, ובמשטרה מחפשים תחליף לנוזל הבואש. עם: גיה באר גורביץ' ויוגב יפת, אמה וגורי אלפי, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/989301/",
+       "id": "989301",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 55 - 12.01.26",
+       "logo": "https://www.kan.org.il/media/reigzwj4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2064853/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-12",
+       "plot": "המציאות האלימה בחברה הערבית לא מפסיקה, ועינב צנגאוקר בדרך לכנסת? עם דור כאהן ושיר ראובן, יוסי מרשק ויואב רבינוביץ', מנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/988950/",
+       "id": "988950",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 54 - 11.01.26",
+       "logo": "https://www.kan.org.il/media/eohiwy0y/tagidukazar_digital_se01ep54_11012600_01_31_15still002.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2062332/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-11",
+       "plot": "המהומות באיראן, התחקיר על הדיל הנשיאותי והליכודיאדה שחוזרת לחיינו. עם גלעד כהנא וגלית חוגי, מאיה בצלאל וקותי סבג, הדר לוי  וברק כהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/988616/",
+       "id": "988616",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 53 - סיכום שבועי, 08.01.26",
+       "logo": "https://www.kan.org.il/media/gq4ecng3/s055327100_16_29_03still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2054429/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-08",
+       "plot": "המהומות באיראן, הפרישה של ערן זהבי, הפלישה לונצואלה, הסל של השר ניר ברקת, חוק המשרתים של בנט, דו\"ח המבקר והחתונה המרגשת של יהורם גאון!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/988023/",
+       "id": "988023",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 52 - 07.01.26",
+       "logo": "https://www.kan.org.il/media/mvpha04s/s0553270_100_00_29_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2050641/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-07",
+       "plot": "דו\"ח המבקר והמתיחות עם לבנון, והחתונה המרגשת של יהורם גאון! עם גלית חוגי וגלעד כהנא, מאיה בצלאל וקותי סבג, יוסי מרשק ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/987745/",
+       "id": "987745",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 51 - 06.01.26",
+       "logo": "https://www.kan.org.il/media/be5l4pli/vlcsnap-2026-01-06-18h36m23s171.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2045804/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-06",
+       "plot": "הסל של המדינה שהציג השר ניר ברקת, וחוק המשרתים שהציג נפתלי בנט. עם דור כאהן ושיר ראובן, גורי ואמה אלפי, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/987297/",
+       "id": "987297",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 50 - 05.01.26",
+       "logo": "https://www.kan.org.il/media/u00annmh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2040893/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-05",
+       "plot": "ועדת החינוך בכנסת נגד עיתון הארץ והצעד הבא של טראמפ אחרי הפלישה לונצואלה. עם: גיה באר גורביץ' ויוגב יפת, הדר לוי ונלי תגר, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/986778/",
+       "id": "986778",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 49 - 04.01.26",
+       "logo": "https://www.kan.org.il/media/bxxjbonf/s055326700_00_49_21still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2036274/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-04",
+       "plot": "הפלישה לוונצואלה, המהומות באיראן ופרישתו של ערן זהבי. עם גלית חוגי וגלעד כהנא, מאיה בצלאל וקותי סבג, יוסי מרשק ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/986422/",
+       "id": "986422",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 48 - סיכום שבועי, 01.01.26",
+       "logo": "https://www.kan.org.il/media/bzohwn0f/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2026644/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-01-01",
+       "plot": "ההכרה בסומלילנד, הירידה של המותג \"ישראל\" במדדים בינלאומיים, טקס פרסי הקולנוע, הבלגן בוועדת הכספים, המבצע למשילות בנגב והשנה האזרחית החדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/985801/",
+       "id": "985801",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 47 - 31.12.25",
+       "logo": "https://www.kan.org.il/media/rjinonhp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025912/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-31",
+       "plot": "מבצע האכיפה למשילות בתראבין, ושנה אזרחית חדשה בפתח! עם גלית חוגי וגלעד כהנא, טס השילוני ואלונה סער, קותי סבג ומאיה בצלאל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/985438/",
+       "id": "985438",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 46 - 30.12.25",
+       "logo": "https://www.kan.org.il/media/nemodxcp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2025126/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-30",
+       "plot": "פגישת טראמפ ונתניהו, וטקס פרסי הקולנוע של מיקי זוהר חוזר לכותרות. עם: דור כאהן ושיר ראובן, יוסי מרשק ויואב רבינוביץ', מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/985099/",
+       "id": "985099",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 45 - 29.12.25",
+       "logo": "https://www.kan.org.il/media/gnjpgfvw/צגידו-קצר-פרק-45-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2024332/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-29",
+       "plot": "ראש הממשלה בדרך לפגישה טעונה עם הנשיא טראמפ, ובוועדת הכספים, ח\"כ מילביצקי מאבד את זה לגמרי. עם גלית חוגי וגלעד כהנא, קותי סבג ומאיה בצלאל, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/984730/",
+       "id": "984730",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 44 - 28.12.25",
+       "logo": "https://www.kan.org.il/media/4zrdfln1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2023530/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-28",
+       "plot": "ההכרה הישראלית בסומלילנד, והירידה של המותג \"ישראל\" במדדים בינלאומיים. עם: רועי עידן וברק כהן, יוסי מרשק ויואב רבינוביץ', גיה באר גורביץ' ויוגב יפת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/984336/",
+       "id": "984336",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 43 - סיכום שבועי, 25.12.25",
+       "logo": "https://www.kan.org.il/media/qeepemyk/תגידו-קצר-פרק-43-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011316/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-25",
+       "plot": "ההתחממות בגיזרה האיראנית, ההצגה של יובל המבולבל, דני אבדיה מכוון לאולסטארס, הראיונות של פלדשטיין ופרשת קטאר גייט, וגם חגיגות חג המולד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/983664/",
+       "id": "983664",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 42 - 24.12.25",
+       "logo": "https://www.kan.org.il/media/zxqizyto/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2008073/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-24",
+       "plot": "בואו נדבר על כל מה שקרה היום: שר הבטחון מכריז על הקמת יישובים חדשים, מקבל בראש מהאמריקאים ואז חוזר בו, וחג מולד שמח למי שחוגג! עם יוסי מרשק ויואב רבינוביץ', דור כאהן וגלית חוגי, מאיה בצלאל וקותי סבג.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/983338/",
+       "id": "983338",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 41 - 23.12.25",
+       "logo": "https://www.kan.org.il/media/nfidjhwt/לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2004408/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-23",
+       "plot": "הראיון הנפיץ של אלי פלדשטיין, ההתפתחויות בפרשת קטאר-גייט, וההון של אילון מאסק עומד להגיע לטריליון דולר! עם: גיה באר גורביץ' ויוגב יפת, מאיה בצלאל וקותי סבג, מנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/982977/",
+       "id": "982977",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 40 - 22.12.25",
+       "logo": "https://www.kan.org.il/media/usfgsq3e/לאתר-סופי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2000460/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-22",
+       "plot": "ההחלטות על סגירת גלי צה''ל והקמת ועדת חקירה פוליטית, ודני אבדיה בדרך לאולסטאר. עם גלית חוגי וגלעד כהנא, יוסי מרשק ויואב רבינוביץ', מנדי גרוזמן ושיר ראובן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/982704/",
+       "id": "982704",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 39 - 21.12.25",
+       "logo": "https://www.kan.org.il/media/xkab51af/אלה-שאמרו-לי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1996697/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-21",
+       "plot": "פרשת אפשטיין, איראן מרימה ראש והצגת המריבה של יובל המבולבל. עם גלעד כהנא וגלית חוגי, יוסי מרשק ויואב רבינוביץ', קותי סבג והדר לוי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/982333/",
+       "id": "982333",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 35 - 15.12.25",
+       "logo": "https://www.kan.org.il/media/rdunmguf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1974740/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-15",
+       "plot": "מה בדיוק קורה במשרד החינוך של השר קיש, וכמובן, הדלקת נר של חנוכה! עם יוסי מרשק ויואב רבינוביץ', קותי סבג ומאיה בצלאל, גיה באר גורביץ' ויוגב יפת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/980638/",
+       "id": "980638",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 38 - סיכום שבועי, 18.12.25",
+       "logo": "https://www.kan.org.il/media/umcbj5k4/תגידו-קצר-38-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1985301/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "משרד החינוך של השר קיש, החקירה הנגדית במשפט נתניהו, העיר בישראל שתושביה הכי מרוצים, דגלי פלסטין באירוויזיון, וכמובן – חנוכה!",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978086/",
+       "id": "978086",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 37 - 17.12.25",
+       "logo": "https://www.kan.org.il/media/15xle0wo/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1981875/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "בליץ החקיקה חוזר וצובר תאוצה, והאם באמת נראה מלא דגלי פלסטין באירוויזיון השנה? עם גלית חוגי וגלעד כהנא, קותי סבג ומאיה בצלאל, יואב רבינוביץ' ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978085/",
+       "id": "978085",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 36 - 16.12.25",
+       "logo": "https://www.kan.org.il/media/gkmhozz1/vlcsnap-2025-12-16-18h52m51s158.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1979091/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "החקירה הנגדית במשפט נתניהו ממשיכה להתנהל בצל ביטולי דיונים, ומהי העיר בישראל שתושביה הכי מרוצים? עם גלית חוגי והדר לוי, דור כאהן ונלי תגר, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978083/",
+       "id": "978083",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 34 - סיכום שבועי, 11.12.25",
+       "logo": "https://www.kan.org.il/media/255gbvwh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1962840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "הצמדים של \"תגידו קצר\" עם הכותרות שעשו את השבוע: בקשת החנינה של נתניהו, מינוי ראש מוסד חדש, אישור תקציב 2026, בלגנים בקורס טיס, שנה לנפילת משטר אסד והספורט שחזר סוף-סוף לישראל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978079/",
+       "id": "978079",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 33 - 10.12.25",
+       "logo": "https://www.kan.org.il/media/ob3lm4h5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961913/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "בואו נדבר על כל מה שקרה היום: הסופה ביירון, שנה לנפילת אסד והמתיחות בסוריה, ומשחקי הספורט שחוזרים לישראל אחרי שנתיים. עם גלית חוגי וגלעד כהנא, מאיה בצלאל וקותי סבג, יוסי מרשק ויואב רבינוביץ'.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978078/",
+       "id": "978078",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 32 - 09.12.25",
+       "logo": "https://www.kan.org.il/media/0pwit5zw/הן-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961460/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "בארה\"ב לוחצים לעבור לשלב ב' של הפסקת האש, ומגפת השפעת כבר משתוללת. עם טס השילוני ואלונה סער, דור כאהן וגלית חוגי, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978077/",
+       "id": "978077",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 31 - 08.12.25",
+       "logo": "https://www.kan.org.il/media/qalc4bpn/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1961073/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-08",
+       "plot": "שנה חדשה, תקציב חדש, הכל מתייקר, וצוערי חיל האוויר עושים פאדיחות רגע לפני סיום הקורס. עם גיה באר גורביץ' ויוגב יפת, מאיה בצלאל וקותי סבג, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978076/",
+       "id": "978076",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 30 - 07.12.25",
+       "logo": "https://www.kan.org.il/media/krsbqiqo/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1960394/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-12-07",
+       "plot": "האם נתפרה חנינה תמורת ועדת חקירה? ומה הסיפור של ראש המוסד המיועד? עם גלית חוגי וגלעד כהנא, מאיה בצלאל וקותי סבג, יואב רבינוביץ' ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/977656/",
+       "id": "977656",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 29 - סיכום שבועי, 04.12.25",
+       "logo": "https://www.kan.org.il/media/gmxbumtu/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1954953/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "הצמדים של \"תגידו קצר\" עם הכותרות שעשו את השבוע: טיוטת חוק הגיוס, הנהירה לדרכון פורטוגלי, החנינה של רה\"מ נתניהו והנשיא שמבקש פידבק מהציבור, הרפורמה בחניונים, חוק השידורים של קרעי וחופי רחצה בהפרדה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974099/",
+       "id": "974099",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 28 - 03.12.25",
+       "logo": "https://www.kan.org.il/media/ffkdewt0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953740/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "ליל ההצהרות על חוק הגיוס שלא באמת היה, והאם יוקם חוף חדש בהפרדה? עם דור כאהן ונלי תגר, מאיה בצלאל וקותי סבג, יואב רבינוביץ' ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974098/",
+       "id": "974098",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 27 - 02.12.25",
+       "logo": "https://www.kan.org.il/media/l2yf2yhd/vlcsnap-2025-12-02-18h00m37s022.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953049/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "ועדה חדשה תדון בחוקי התקשורת של השר קרעי, והנשיא הרצוג מזמין את הציבור להביע דעה בסוגיית החנינה. עם גלית חוגי והדר לוי, גיה באר-גורביץ' ויוגב יפת, מנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974097/",
+       "id": "974097",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 26 - 01.12.25",
+       "logo": "https://www.kan.org.il/media/z1rfhrj2/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1953555/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "בקשת החנינה של ראש הממשלה נתניהו מכה גלים, והרפורמה במחירי החניונים. עם גלית חוגי וגלעד כהנא, מנדי וביתאן, קותי סבג ומאיה בצלאל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974095/",
+       "id": "974095",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 25 - 30.11.25",
+       "logo": "https://www.kan.org.il/media/02plqe1m/תגידו-קצר-טאמבנייל-אתר-301125.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1951129/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "פרסום מתווה חוק הגיוס של ביסמוט והתור האינסופי לדרכון פורטוגלי. עם גלית חוגי ודור כאהן, יוסי מרשק ויואב רבינוביץ', מאיה בצלאל וקותי סבג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974094/",
+       "id": "974094",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 24 - סיכום שבועי, 27.11.25",
+       "logo": "https://www.kan.org.il/media/cnun3rjs/תגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1950005/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "השינוי ההצבעות באירוויזיון, איומים על עיתונאים, הטלטלה הגדולה במטכ''ל, טיפולי יופי עם זרע סלמון, הזבל שנערם במטמנות, וטרפת הקניות של בלאק פריידיי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974089/",
+       "id": "974089",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 23 - 26.11.25",
+       "logo": "https://www.kan.org.il/media/2fzhudwd/אלה-אמרו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949765/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "המשך הטלנובלה בין שר הביטחון לרמטכ\"ל, והקניות של בלאק פריידי. עם מאיה בצלאל וקותי סבג, טס השילוני ואלונה סער, יואב רבינוביץ' ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974088/",
+       "id": "974088",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 22 - 25.11.25",
+       "logo": "https://www.kan.org.il/media/ealbbgob/תגידו-קצרררר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1949554/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-25",
+       "plot": "הרמטכ\"ל ושר הביטחון במסלול התנגשות, ומה נעשה עם כל הזבל שנערם? עם גיה באר גורביץ' ויוגב יפת, קותי סבג ומאיה בצלאל, גלית חוגי ודור כאהן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/974016/",
+       "id": "974016",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 21 - 24.11.25",
+       "logo": "https://www.kan.org.il/media/1cokozbp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1948989/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-24",
+       "plot": "הטלטלה במטכ''ל, התחממות הגזרה בצפון וטיפולי יופי עם זרע של סלמון. עם גלית חוגי וגלעד כהנא, אלי ביתאן והדר לוי, יואב רבינוביץ' ויוסי מרשק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/973539/",
+       "id": "973539",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 20 - 23.11.25",
+       "logo": "https://www.kan.org.il/media/byin4lrh/vlcsnap-2025-11-23-18h23m31s080.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1946068/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-23",
+       "plot": "איומים בלתי פוסקים על עיתונאים, התפוררות הפסקת האש ושינוי ההצבעות באירוויזיון. עם מנדי וביתאן, קותי סבג ומאיה בצלאל, גלית חוגי וגלעד כהנא",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/973155/",
+       "id": "973155",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 19 - סיכום שבועי, 20.11.25",
+       "logo": "https://www.kan.org.il/media/zbkgr3pm/תגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1937283/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-20",
+       "plot": "פותחים על ההצבעה הדרמטית באו\"ם, פגישת טראמפ ובן סלמן, המחלוקת על ועדת חקירה, המוניטין של ים המלח, קריסת האינטרנט וגם החורף שהגיע לבקר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/972346/",
+       "id": "972346",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 18 - 19.11.25",
+       "logo": "https://www.kan.org.il/media/sfujnjyc/אלה-אמרו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1934205/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-19",
+       "plot": "אובדן המשילות בדרום, ונפילת השרתים הגדולה שהשביתה את האינטרנט. עם גלית חוגי וגלעד כהנא, יוסי מרשק ויואב רבינוביץ', נלי תגר ודור כאהן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/972170/",
+       "id": "972170",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 17 - 18.11.25",
+       "logo": "https://www.kan.org.il/media/npuouiph/אמהההה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1930896/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-18",
+       "plot": "ההצבעה הדרמטית על מסמך 20 הנקודות באו\"ם, ופגישת טראמפ ומוחמד בן סלמן בבית הלבן. עם גלית חוגי וגלעד כהנא, גורי ואמה אלפי, מנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/971604/",
+       "id": "971604",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 16 - 17.11.25",
+       "logo": "https://www.kan.org.il/media/iq5pxpmr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1927537/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-17",
+       "plot": "רגע לפני שמדברים על כל מה שקרה היום, בואו נדבר על כל מה שקרה היום: למה הממשלה מטרפדת ועדת חקירה ממלכתית? ולמה ים המלח זה כזה מקום מבאס? עם גורי ואמה אלפי, מנדי וביתאן, קותי סבג ומאיה בצלאל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/971297/",
+       "id": "971297",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 14 - סיכום שבועי, 13.11.25",
+       "logo": "https://www.kan.org.il/media/xioptaxe/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1923850/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-16",
+       "plot": "פספסתם את החדשות השבוע? אל חשש! חברי \"תגידו קצר\" עושים סדר ועוברים על כל הידיעות שפתחו מהדורות: פרשת הפצ\"רית, כיס רפיח, פלאפונים בסופרמרקט וגם החתונה של נועה קירל ודניאל פרץ",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/971089/",
+       "id": "971089",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 15 - 16.11.25",
+       "logo": "https://www.kan.org.il/media/mkhlmssx/אומרים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1924136/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-16",
+       "plot": "בסביבת ראש הממשלה רוצים חנינה ושונאים ביקורת, והאם זה החורף הכי קצר בהיסטוריה? עם גיה באר-גורביץ' ויוגב יפת, יוסי מרשק ויואב רבינוביץ', קותי סבג ומאיה בצלאל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/970995/",
+       "id": "970995",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 13 - 12.11.25",
+       "logo": "https://www.kan.org.il/media/yqspr5qh/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1911240/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-12",
+       "plot": "אלימות המתנחלים עולה מדרגה ונועה קירל ודניאל פרץ משיקים את חתונת השנה. עם: נלי תגר ודור כאהן, מאיה בצלאל וקותי סבג ויוסי מרשק ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/970006/",
+       "id": "970006",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 12 - 11.11.25",
+       "logo": "https://www.kan.org.il/media/cmzn1x0h/אומרים-באריכות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907564/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-11",
+       "plot": "דיון ארבעים החתימות מייצר מהומה, והאם הרובוטים מצאו דרך להשתלט עלינו? עם גלית חוגי וגלעד כהנא, קותי סבג ומאיה בצלאל וגיה באר-גורביץ' ויוגב יפת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/969644/",
+       "id": "969644",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 11 - 10.11.25",
+       "logo": "https://www.kan.org.il/media/wrqcp2km/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1904205/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-10",
+       "plot": "רגע לפני שמדברים על כל מה שקרה היום, בואו נדבר על כל מה שקרה היום: מה קורה בכיס רפיח, ולמה השרים לא מפסיקים לאחר לישיבות? עם מנדי וביתאן, גורי ואמה אלפי וגלית חוגי וגלעד כהנא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/969261/",
+       "id": "969261",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 10 - 09.11.25",
+       "logo": "https://www.kan.org.il/media/isknffrm/תיקון.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1900394/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-09",
+       "plot": "המשך פרשת הפצ''רית, ושבירת שוק הטלפונים בסופרמרקטים. עם: קותי סבג ומאיה בצלאל, יוסי מרשק ויואב רבינוביץ' ומנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/968859/",
+       "id": "968859",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 9 - 06.11.25",
+       "logo": "https://www.kan.org.il/media/qjufiilq/לאתר-ועריכה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1894916/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-06",
+       "plot": "החריקות הבלתי פוסקות בקואליציה, וקרן פלס רועה בשדות יוון. עם גורי ואמה אלפי, מנדי וביתאן ואלונה סער וטס השילוני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/968241/",
+       "id": "968241",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 8 - 05.11.25",
+       "logo": "https://www.kan.org.il/media/ccwjjgm2/קצר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1892415/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-05",
+       "plot": "סערת מינוי הפצ\"ר החדש והכוח הבינלאומי המתוכנן לעזה. עם קותי סבג ומאיה בצלאל, גלית חוגי וגלעד כהנא ויוסי מרשק ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/967745/",
+       "id": "967745",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 7 - 04.11.25",
+       "logo": "https://www.kan.org.il/media/snbpgx5t/תגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891782/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-04",
+       "plot": "פרשת שחיתות הענק בהסתדרות והבחירות לראשות עיריית ניו יורק. עם גלעד כהנא וגלית חוגי, יואב רבינוביץ' ויוסי מרשק ודור כאהן ונלי תגר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/967429/",
+       "id": "967429",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 6 - 03.11.25",
+       "logo": "https://www.kan.org.il/media/o3rhquib/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891651/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-11-03",
+       "plot": "פרשת הפצ''רית, גלידה בטעם פלסטין ו-30 שנה לרצח רבין. עם גורי ואמה אלפי, יוסי מרשק ויואב רבינוביץ', קותי סבג ומאיה בצלאל ומנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/967104/",
+       "id": "967104",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 5 - 30.10.25",
+       "logo": "https://www.kan.org.il/media/u4ypvgob/לאתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891432/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-30",
+       "plot": "הפגנות החרדים, האלווין, סערת הג'ובים ופרשיית שדה תימן. עם: אלונה סער וטס השילוני, יוסי מרשק ויואב רבינוביץ' ומנדי וביתאן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/965787/",
+       "id": "965787",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 4 - 29.10.25",
+       "logo": "https://www.kan.org.il/media/vqjljela/גורי-ואמה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891370/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-29",
+       "plot": "הפסקת האש השברירית, המשטרה נגד אוהדי כדורגל ומה קורה לישראלים בתאילנד? עם יואב רבינוביץ ויוסי מרשק, גורי ואמה אלפי, קותי סבג ומאיה בצלאל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/965438/",
+       "id": "965438",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 2 - 27.10.25",
+       "logo": "https://www.kan.org.il/media/xg0nm5fu/מה-שתגידו-קצר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891246/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-27",
+       "plot": "בליץ החקיקה חוזר, לכידת שודדי הלובר, ומה נסגר עם קטי שטרית? עם קותי סבג ומאיה בצלאל, מנדי וביתאן, יוסי מרשק ויואב רבינוביץ'",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/964564/",
+       "id": "964564",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 3 - 28.10.25",
+       "logo": "https://www.kan.org.il/media/z5xnw1pg/מה-שתגידו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891312/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-26",
+       "plot": "שנה לבחירות והקמפיינים בשיאם, ואינסטגרם חוגגת 15 שנה של סלפי מרוטש וצילומי אוכל מסוגנן! עם גלית חוגי וגלעד כהנא, גורי ואמה אלפי, ומנדי וביתאן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/963908/",
+       "id": "963908",
+       "season": 1
+      },
+      {
+       "name": "תגידו קצר | פרק 1 - 26.10.25",
+       "logo": "https://www.kan.org.il/media/t0zgzfiu/קצר-ולעניין.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891199/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-10-23",
+       "plot": "לפני שמדברים על כל מה שקרה היום– בואו נדבר על כל מה שקרה היום! פליטות הפה של סמוטריץ' ובן גביר, רה\"מ גיבור בבינה מלאכותית, והאם הזזתם את השעון? עם קותי סבג ומאיה בצלאל, מנדי וביתאן, גלית חוגי וגלעד כהנא.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/962921/",
+       "id": "962921",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,562 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - בוש",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-833724/",
+   "series_id": "833724",
+   "updated": "2026-10-28 09:31",
+   "sub_categories": [
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "בוש עונה 6 | פרק 10 - מידה של צדק",
+       "logo": "https://www.kan.org.il/media/q3apjybt/בוש-6-פרק-10.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uwj61qdk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nאירווינג ומאדי מקבלים החלטות חשובות לגבי עתידם. בעת הדיון על הראיות בתיק הרצח של קנט, לבוש ואדגר ניתנת אפשרות בחירה - להניח לדברים, או לקחת את העניינים לידיים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874118/",
+       "id": "874118",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 9 - לילה קדוש אפל",
+       "logo": "https://www.kan.org.il/media/1owbyifa/בוש-6-פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4uvx2qzz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nבוש מתקרב לעצירת חשוד ברצח דייזי קלייטון בזמן שאליזבת מתחילה להתמוטט. מחלק חקירות פנים חוקר את התלונה נגד בילטס. הרוצח של דייזי חושף וידוי מזעזע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874117/",
+       "id": "874117",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 8 - החקיין",
+       "logo": "https://www.kan.org.il/media/kpbp3s1s/בוש-6-פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9ftpomz7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nכוח המשימה החדש של אירווינג חווה ניצחון. בילטס מקבלת שיחת טלפון מ\"חקירות פנים\". בזמן בחינת רשימת חשודים חדשים בתיק דייזי קלייטון, בוש חושף קשר מפתיע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874116/",
+       "id": "874116",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 7 - טינה",
+       "logo": "https://www.kan.org.il/media/xc3bsp1l/בוש-6-פרק-7.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lwn0a76m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nבוש ואדגר חוקרים את פרשת רצח המודיע של האף-בי-איי, וחושפים מידע חדש ונפיץ. בארל מקבל לידיו הקלטה ישנה של המפקד אירווינג, שעלולה להזיק לו מבחינה פוליטית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874115/",
+       "id": "874115",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 6 - מלון \"אייס\"",
+       "logo": "https://www.kan.org.il/media/mpho3vw1/בוש-6-פרק-6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y8wsbikg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "צ'נדלר מתווכת בעסקת טיעון שמובילה לווידוי, ומעניקה לבוש ולאדגר את מה שדרוש כדי לתפוס את הרוצח של קנט. בוש חוקר מעשה נוכלות רחוב שדייזי הייתה מעורבת בו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874113/",
+       "id": "874113",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 5 - האני-מזומני",
+       "logo": "https://www.kan.org.il/media/cnvhm3fi/בוש-6-פרק-5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jlt1le8n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "בוש צולל עמוק יותר אל העבר הבעייתי של דייזי קלייטון. אדגר מתאמץ למצוא ראיות שמאששות את החשדות של בוש בפרשת קנט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874076/",
+       "id": "874076",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 4 - חלק מהעניין",
+       "logo": "https://www.kan.org.il/media/q4kfsbig/בוש-6-פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_atpd7pus/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "בוש מגלה שבגרסה של אלישיה קנט רב הנסתר על הגלוי. אליזבת קלייטון מקבלת מידע חדש שמביא לחידוש החקירה בתיק הישן של בתה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874074/",
+       "id": "874074",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 3 - שלוש אלמנות",
+       "logo": "https://www.kan.org.il/media/4hylhfs1/בוש-6-פרק-3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ntlr7va/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "כשמתגלה גופה של חסר בית מכוסה כוויות קרינה, מתרחב המצוד אחר הצסיום, אך בוש ואדגר תוהים אם ההשערות הראשוניות שלהם לגבי הפשע היו שגויות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874071/",
+       "id": "874071",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 2 - אנשים טובים משני הצדדים",
+       "logo": "https://www.kan.org.il/media/rmxhkhhj/בוש.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_10w0qyzv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "פרט שהגיע מאלמנתו של קנט, מביא את בוש ואת האף-בי-איי לחשוד שקבוצת אזרחים ריבוניים עומדת מאחורי גניבת הצסיום הרדיואקטיבי והרצח במצפה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874070/",
+       "id": "874070",
+       "season": 6
+      },
+      {
+       "name": "בוש עונה 6 | פרק 1 - המצפה",
+       "logo": "https://www.kan.org.il/media/iqumasfx/בוש-לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4wh37odt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-23",
+       "plot": "עונה שישית חדשה לדרמה הבלשית. כמעט שנה חלפה ובוש, שעדיין שוקד על פרשת הרצח של דייזי קלייטון, נקרא למצפה אגם הוליווד כדי לחקור את רצח הפיזיקאי הרפואי, סטנלי קנט",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s6/874066/",
+       "id": "874066",
+       "season": 6
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "בוש עונה 4 | פרק 10 - ספר הנשכחים",
+       "logo": "https://www.kan.org.il/media/muxcajiv/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fgd9bf86/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "בוש והסמלת איימי סניידר חושפים ראיה שעלולה להשפיע על חקירת רצח אליאס. אירווינג חושף את אויביו עירום ועריה. בוש אורב לבדו לחשוד ברצח אליאס, ומתעמת פנים אל פנים עם עברו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862058/",
+       "id": "862058",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 9 - אדום עמוק",
+       "logo": "https://www.kan.org.il/media/4dtmn4km/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c1hpnjko/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "בילטס מגיעה להסדר עם פעילי המחאה. אירווינג מבין שחברים ותיקים הפכו לאויבים חדשים. הכוח המיוחד ממהר להציל את החקירה, ובוש \nמוצא את עצמו במעמקי מנהרות הרכבת התחתית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862055/",
+       "id": "862055",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 8 - שמים שחורים",
+       "logo": "https://www.kan.org.il/media/zj5fbjoe/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uowu3dw1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "תחנת הוליווד נכנסת למצב כוננות טקטית. אירווינג זומם את מהלכיו הבאים. עם ראיות חדשות, תיק אליאס מקבל תפנית לא צפויה. מאדי מנסה להתחבר לעבר שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862053/",
+       "id": "862053",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 7 - קשרים אבודים",
+       "logo": "https://www.kan.org.il/media/voqabej4/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hfef1ulg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "שני שוטרים שלא בתפקיד יוצרים לבילטס צרות, בזמן שהמחאות מחוץ לתחנת הוליווד גוברות. עם חשוד במעצר, הכוח המיוחד מתחיל לסגור את התיק, אבל בוש נותר לא משוכנע",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862052/",
+       "id": "862052",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 6 - מעיין הנעורים",
+       "logo": "https://www.kan.org.il/media/tzehmb2e/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hx2d27le/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "החיפוש אחר שיהאן הולך וגובר, יחד עם הלחץ הרב לפתור את רצח אליאס. הכוח המיוחד מחכה לבדיקה הבליסטית שתאשר את חשדם. אדגר ובוש עובדים על \"מיזם צדדי\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862050/",
+       "id": "862050",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 5 - ההתמודדות",
+       "logo": "https://www.kan.org.il/media/nwgb0joy/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t580bo04/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "בוש מתקשה להתמודד עם כל הדברים שאיבד ואינו מצליח להרחיק מעצמו וממאדי את התחושה האפלה המתגברת. הכוח המיוחד סוגר על שני חשודים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862049/",
+       "id": "862049",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 4 - חיים קודמים ",
+       "logo": "https://www.kan.org.il/media/tbmhqqeg/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1si0tdbp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "הבלש פרנסיס שיהאן מתוודה בפני בוש, רוברטסון חושד שיש הדלפה מתוך החקירה, ואדגר מצטרף לכוח המיוחד. המתיחות סביב רצח אליאס גואה, ועל אירווינג מופעל לחץ להתערב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862038/",
+       "id": "862038",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 3 - השטן בתוך הבית",
+       "logo": "https://www.kan.org.il/media/fe4ppupg/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s77dcnqh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "הכוח המיוחד מנסה לחקור, ומגלה אליבי שקרי עם השלכות מרעישות. הבלש סנטיאגו רוברטסון צריך לשים את קשריו האישיים בצד למען החקירה. בוש זוכה לביקור פתע לילי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862036/",
+       "id": "862036",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 2 - חלומות על באנקר היל",
+       "logo": "https://www.kan.org.il/media/jzdlcaa0/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3re90012/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "בוש לא בוחל באמצעים בחקירת הרצח של אליאס, בזמן שהוא מותיר את בלשיות חקירות הפנים שבצוותו מאחור. אלינור ויש חוזרת לעבוד עם האף-בי-איי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862035/",
+       "id": "862035",
+       "season": 4
+      },
+      {
+       "name": "בוש עונה 4 | פרק 1 - לגשש בערפל",
+       "logo": "https://www.kan.org.il/media/1cjgj4tr/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3cevtvj1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-19",
+       "plot": "3 חודשים לאחר גילויו של קצה חוט מרעיש, בוש עדיין רודף אחר האמת בתיק הרצח הפתוח של אימו. רצח מתוקשר של עו\"ד מביא את העיר אל סף התפרצות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862030/",
+       "id": "862030",
+       "season": 4
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "בוש עונה 3 | פרק 1 - החוטים נפרמים",
+       "logo": "https://www.kan.org.il/media/4qeftuvb/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lidahdrw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "האמת המכוערת מאחורי רצח אימו הותירה את הארי בוש מתוח וחסר מנוחה. במקביל בוש עובד על משפט בעל פרופיל גבוה הכולל במאי הוליוודי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851262/",
+       "id": "851262",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 2 - ארבעת הדברים האחרונים",
+       "logo": "https://www.kan.org.il/media/coul4ztz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nmmi5e6b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "חשוד ברצח שבוש רודף אחריו כבר כמה שנים נרצח. אדגר מגלה שלהארי יש היסטוריה מסובכת עם המת, והבלש ג'ימי רוברטסון מפתח תיאוריות מטרידות לגבי האשם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851261/",
+       "id": "851261",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 3 - אלוהים רואה",
+       "logo": "https://www.kan.org.il/media/bebbn0fj/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yrqe2kyy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש לומד על העבר האפל והרצח של בילי מדוז. אמינותו של עד מפתח מאיימת לערער את תיק הולנד. כמה אנשים מסוכנים מתכווננים על בוש ורואים בו מטרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851260/",
+       "id": "851260",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 4 - החבר",
+       "logo": "https://www.kan.org.il/media/cj0ketx5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_795lkxov/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש מתעמת עם חבריו הבלשים. אירווינג שוקל את אפשרויות הקריירה שלו בדיוק כשחייו האישיים מקבלים תפנית. הרוצחים מאחורי רצח מדוז מהדקים קצוות רופפים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851259/",
+       "id": "851259",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 5 - דם מתחת לגשר",
+       "logo": "https://www.kan.org.il/media/15tl3to5/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qu82cth6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "המאמץ החשאי למעקב אחר בוש מתגבר. הארי ועמיתיו נאבקים לגלות מי מנסה להפליל אותו. אירווינג סוגר פרק בחייו האישיים, אך נלכד בפוליטיקה במשטרה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851258/",
+       "id": "851258",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 6 - בירדלנד",
+       "logo": "https://www.kan.org.il/media/shxhgtaj/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cz24xkq8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "לכלי התקשורת נודע כי משטרת אל-איי חוקרת את אחד מאנשיה בתיק רצח. בוש מבין את המניע מאחורי שורה של רציחות. הספקות של רוברטסון לגבי בוש מעמיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851257/",
+       "id": "851257",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 7 - מהלך נכון",
+       "logo": "https://www.kan.org.il/media/3acg5zbr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n7ydhrdi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש ורוברטסון עובדים יחד על תיק גאן. ראיות נוספות מקרבות את הצוות לפתרון הרצח של מדוז. אירווינג עושה בקרת נזקים במשבר אחר הקשור לבוש",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851255/",
+       "id": "851255",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 8 - איה פאפי",
+       "logo": "https://www.kan.org.il/media/2ljbn25y/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4rvv4v3q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש פועל מאחורי הקלעים כדי לחשוף את העבריינים. רוצחים משתוללים ברחובות. אדגר מתמודד עם ההשלכות של החלטה גורלית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851254/",
+       "id": "851254",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 9 - ירייה מדויקת",
+       "logo": "https://www.kan.org.il/media/jcbn0g4s/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1cl896dg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "המחלקה מתגייסת כשהאיום מגיע קרוב לבית. פרשת הולנד מקבלת תפנית קריטית. בוש נאלץ להתמודד עם אמת קשה. אירווינג מגשים שאיפה ארוכת שנים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851253/",
+       "id": "851253",
+       "season": 3
+      },
+      {
+       "name": "בוש עונה 3 | פרק 10 - מלך הים",
+       "logo": "https://www.kan.org.il/media/vknbwcve/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_59vg37jx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "המרדף הבלתי פוסק של בוש בפרשת מדוז מגיע לשיאו. בוש ואדגר דנים בגילוי מזעזע. אורחת בלתי צפויה מגיעה לבקר את בוש ומדי. הארי מגלה כי עברו רחוק מלהיות ברור",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s3/851252/",
+       "id": "851252",
+       "season": 3
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "בוש עונה 2 | פרק 1 - מוזיקת טראנק",
+       "logo": "https://www.kan.org.il/media/jgjcd3z1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_md4jpeh1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "עונה 2 חדשה לדרמה הבלשית. בפרק פתיחת העונה הארי בוש חוזר לתפקיד לאחר השעיה. כשנראה שלגופה שנמצאה בתא המטען של מכונית יש קשרים למאפיה, בוש לוקח על עצמו את האתגר הגדול ביותר שלו עד כה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851222/",
+       "id": "851222",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 2 - סודות",
+       "logo": "https://www.kan.org.il/media/oskcebbp/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bytd2v4p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש מגלה שלמקרה הרצח שלו יש השלכות רחבות. הסמפכ\"ל אירווין מנסה להישאר מעל המאבק הפוליטי. הארי מקבל טיפ בקשר לרצח אימו. החקירה של טוני אלן שולחת את בוש לעיר החטאים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851221/",
+       "id": "851221",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 3 - קורבן הלילה",
+       "logo": "https://www.kan.org.il/media/ufubpwgr/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v2229m2d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש מתעמק בסודות האפלים של לאס וגאס. מפגש עם בתו חושף סדקים במשפחה. אירווין נכנס לעובי הקורה במאבק הפוליטי ובוחר צד במרוץ לראשות העיר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851220/",
+       "id": "851220",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 4 - למי יש מזל עכשיו?",
+       "logo": "https://www.kan.org.il/media/g0kfwta0/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_apmp0pxc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש עוצר חשוד ברצח, בעוד אחרים עוקבים מקרוב אחר החקירה. לאחר מפגש עם ג'ואי מארקס, בוש מתמודד עם שאלות על העבר של מישהו קרוב אליו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851219/",
+       "id": "851219",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 5 - נעלמה",
+       "logo": "https://www.kan.org.il/media/vk4ia5vg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_btixln7g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש ואדגר בעקבותיו של ג'ואי מרקס. ג'ורג' אירווין מתמסר יותר להגשמת מטרותיו. בוש חייב ללכת עד הקצה כדי להבטיח את שלומם של הקרובים לו ביותר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851218/",
+       "id": "851218",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 7 - הזמן לנטוש",
+       "logo": "https://www.kan.org.il/media/hpohhgcl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_w4w48i33/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "לאחר רצח בנו, הסמפכ\"ל אירווינג נוקט באמצעים מסוכנים ובוש מוצא עצמו בברית בלתי צפויה. אלינור מפלרטטת עם האף-בי-איי והכנופיה המרושעת מאחורי הפשעים החמורים מתכננת את אסטרטגיית היציאה שלה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851217/",
+       "id": "851217",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 8 - בעקבות הכסף",
+       "logo": "https://www.kan.org.il/media/r5zlxryl/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rdiyblcg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש מתמקד בלכידת נאש וחבורתו. אלינור משתפת פעולה עם ה-אף-בי-איי. כוחות שונים מתכנסים במגרש חניה שהופך אלים במיוחד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851216/",
+       "id": "851216",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 9 - מלכת המעונים",
+       "logo": "https://www.kan.org.il/media/zn0nmbhg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4qunkp6u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "חשוד מוביל חומק מאחיזתו של בוש. עולמו של הסמפכ\"ל ארווינג הולך מתפרק, גם כשניתנת לו הזדמנות של פעם בחיים. המרדף של בוש ואדגר אחר מנהיג החבורה המסוכן מוביל לעימות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851215/",
+       "id": "851215",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 10 - כל אחד נחשב",
+       "logo": "https://www.kan.org.il/media/ebse3krf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_b0wat1ic/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "בוש מקבל טיפ על זהות הרוצח של אימו, ועושה מאמצים לנסות לאתר אותו. בינתיים, הוא ואדגר עושים מה שהם יכולים כדי לאתר את נאש ולהשיג ראיות נגד ורוניקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851214/",
+       "id": "851214",
+       "season": 2
+      },
+      {
+       "name": "בוש עונה 2 | פרק 6 - התקף לב",
+       "logo": "https://www.kan.org.il/media/1kzhvbbf/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_t3efu5e5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-01-23",
+       "plot": "נסיבות יוצאות דופן יוצרות מפגש משפחתי. גילוי מפתיע מחזיר את הארי לנקודת ההתחלה. ג'ורג' אירווינג עומד בפני סכנה חמורה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s2/851213/",
+       "id": "851213",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בוש | פרק 10 - אנחנו והם",
+       "logo": "https://www.kan.org.il/media/skkhopup/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1f9verbp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בוש נאלץ להתמודד עם ההשלכות של העימות שלו עם וייטס, בזמן שביקור הפתע של בתו מעניק להם זמן יקר יחד. בעקבות פענוח חקירת העצמות, העבודה של בוש נמצאת בסכנה, והוא מוצא עצמו בפני תפנית חדשה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833763/",
+       "id": "833763",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 9 - טירת הקסמים",
+       "logo": "https://www.kan.org.il/media/h4mdobbd/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dcw4e2kh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "הסיפור האמיתי של הרצח בחקירת העצמות נחשף לבסוף, ממקם את בוש בעין הסערה ומוביל את משטרת לוס אנג'לס לנקודת רתיחה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833761/",
+       "id": "833761",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 8 - שפל וגאות",
+       "logo": "https://www.kan.org.il/media/1vrazmn4/פרק-8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8wczhdic/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בוש זוכה לבת ברית חדשה בדמות גרושתו, אלינור. תשומת הלב המטרידה שווייטס מרעיף על בוש גוברת",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833758/",
+       "id": "833758",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 7 - ילדים אבודים",
+       "logo": "https://www.kan.org.il/media/vivpb13a/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uqk6mcbi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בוש מתקשה להתמודד עם ההשלכות של בעיותיו המקצועיות והאישיות, כשהד מן העבר עוזר לו לגלות רמזים גורליים בחקירת וייטס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833753/",
+       "id": "833753",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 6 - יובלות",
+       "logo": "https://www.kan.org.il/media/jb5ku2xl/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_or4s48lq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בוש נוסע לבקר את בתו, ולקבל מספר תובנות לגבי וייטס, מגרושתו, אלינור ויש, שבעברה הייתה מאבחנת זיהוי פלילי מבריקה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833750/",
+       "id": "833750",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 5 - ילד של אימא",
+       "logo": "https://www.kan.org.il/media/zzxhvplp/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fia4zd88/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nכשהנושא של ריינרד וייטס מסלים, סגן המפקד אירווינג משעה את בוש. בוש מתמקד בפתרון תעלומת תיק העצמות הפתוח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833746/",
+       "id": "833746",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 4 - פוגאזי",
+       "logo": "https://www.kan.org.il/media/btmi0gdr/פרק-4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ya9ih3fk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nחקירת העצמות חושפת את עברה האפל של המשפחה. בזמן שהמשפט נגד בוש מגיע לשלב גזר הדין, הוא נקלע לסיור מסוכן עם ריינרד וייטס",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833741/",
+       "id": "833741",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 3 - דת כחולה",
+       "logo": "https://www.kan.org.il/media/s30dl11o/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_85305y09/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nלאחר זיהוי הקורבן הצעיר בחקירת העצמות, בוש וג'יי. אדגר נשאבים לעולמה המורכב של משפחת הילד",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833734/",
+       "id": "833734",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 2 - אור אבוד",
+       "logo": "https://www.kan.org.il/media/04ki22td/פרק-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ypucorsm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nבדיקת רכב מובילה לתפיסת חשוד המהווה איום קטלני חדש, בזמן שהבלשים בוש ואדגר רודפים אחר קצה חוט מבטיח בחקירת העצמות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833731/",
+       "id": "833731",
+       "season": 1
+      },
+      {
+       "name": "בוש | פרק 1 - תקופת החגים",
+       "logo": "https://www.kan.org.il/media/oxifbujx/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0k6b5o23/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-12-08",
+       "plot": "בשל הסכמי זכויות שידור, פרק זה כבר לא זמין לצפייה.\nדרמה בלשית חדשה המתמקדת בהארי בוש, בלש במחלק הרצח של משטרת אל-איי, העומד למשפט על ירי בחשוד ברצח סדרתי, בדיוק בזמן שתיק פתוח שעוסק בגילוי שרידי גופתו של ילד מאלץ אותו להתעמת עם עברו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/s1/833725/",
+       "id": "833725",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בוש - הצצה | הבלש הכי לא \"זהיר\"",
+       "logo": "https://www.kan.org.il/media/x5lirkhb/בוש-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cycno9ec/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-09",
+       "plot": "הבלש בוש ישיג את הצדק בכל מחיר, גם אם בדרך הוא יהרוס הכל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/858096/",
+       "id": "858096"
+      },
+      {
+       "name": "בוש - הצצה | \"מה לעזאזל קרה כאן?\"",
+       "logo": "https://www.kan.org.il/media/oqviwthd/בוש-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oynu5vzw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-09",
+       "plot": "הבלש הארי בוש רוצח, שוב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-833724/858095/",
+       "id": "858095"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

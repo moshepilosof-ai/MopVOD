@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הילדים משכונת חיים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-670759/",
+   "series_id": "670759",
+   "updated": "2026-10-28 09:52",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הילדים משכונת חיים | פרק 1 - הכללה חלק א'",
+       "logo": "https://www.kan.org.il/media/iqvfj0dr/shunathayim02.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_shilv8wg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "האם צריך תמיד לפרט או שיש דברים שמספיק להגיד באופן כללי? תושבי השכונה יוצאים לטיול, ובמכולת של אדון יחזקאל נלמד מה זו דוגמה שמייצגת את הכלל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673352/",
+       "id": "673352",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 2 - הכללה חלק ב'",
+       "logo": "https://www.kan.org.il/media/kripu0v4/shunathayim01.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dbzfl906/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יוני רוצה לאמץ כלב כי לטענתו לכולם יש כלב, אך מתברר ש\"כולם\" זה עוזי בלבד. ילדי השכונה מעלים את ההצגה \"ד\"ר מכליליאן - לאן?\" שודר בשנת 1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673349/",
+       "id": "673349",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 5 - מיון חלק א'",
+       "logo": "https://www.kan.org.il/media/m4pbthdc/shunathayim03.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ir9bt2iw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הילקוט של יוני מבולגן והוא צריך למיין את הספרים והמחברות. במכולת ובדואר ממיינים מצרכים ומכתבים, ואדון כהן השוטר מתלבט איך למיין במחלקת אבדות.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673346/",
+       "id": "673346",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 6 - מיון חלק ב'",
+       "logo": "https://www.kan.org.il/media/5xbfzhn3/shunathayim04.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l5idyw2r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הילדים יוצאים למבצע ניקיון בשכונה וממיינים את כל מה שהם מוצאים. גם מוכר הפיצוחים ואישוני הכבאי עסוקים בסידור ובארגון. כולם מחפשים מפתח למועדון והספרייה נסגרת לטובת סידור הבלגן. שודר בשנת 1978",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673343/",
+       "id": "673343",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 14 - שלם ופרטים חלק א'",
+       "logo": "https://www.kan.org.il/media/voodbnhb/shunathayim05.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xijwrzhs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "אימא של יוני מכינה קובות ומנסה לשכנע אותו לאכול. אדון יחזקאל מסביר כמה חשוב לראות כל דבר בשלמותו ולא רק את החלקים. הילדים מקשטים את המועדון בפתגמים, ואישוני הכבאי מפספס פרטים על שריפה.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673340/",
+       "id": "673340",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 16 - שלם ופרטים חלק ב'",
+       "logo": "https://www.kan.org.il/media/40zc5znx/shunathayim06web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mjkfxrgy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עוזי וג'נגו מדווחים לשוטר על גנב, אבל הדיווח מבולגן ולא ברור. ילדי המועדון מתנדבים בחפירות ארכיאולוגיות ומדביקים חרסים יחד. עוזי וג'נגו מרכיבים קלסתרון של הגנב.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673337/",
+       "id": "673337",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 7 - העברת מידע חלק א'",
+       "logo": "https://www.kan.org.il/media/xy5ju14b/shunathayim07web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7zux5bm3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הכלב של שפרה הולך לאיבוד והילדים מנסחים מודעה, אבל התיאור שלהם לא מדויק. אישוני מקבל דיווח על שריפה שחסרים בו פרטים. הילדים חושבים שג'נגו בצרות, אבל מתברר שהם פירשו לא נכון.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673334/",
+       "id": "673334",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 9 - העברת מידע חלק ב'",
+       "logo": "https://www.kan.org.il/media/fnrilqwv/shunathayim08web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_juhh7ev1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יוני מדבר עם אמו בסלנג והיא לא מבינה אותו ועוזי צריך לתלות שלט ולא מסביר מה הוא צריך. תושבי השכונה נלחצים מאריה שברח, אך האם יש סיבה לחשוש בכלל?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673331/",
+       "id": "673331",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 18 - נקודות ראות חלק א', חינוך מיוחד",
+       "logo": "https://www.kan.org.il/media/s54bqi5z/shunathayim09web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kpapmxgj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הילדים מוסרים לשוטר עדויות על הגנב מנקודות מבט שונות. התושבים הולכים לחתונה וכל אחד נהנה בה ממשהו אחר. ומה הקשר לעכבר השדה ועכבר העיר?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673328/",
+       "id": "673328",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 19 - נקודות ראות חלק ב'",
+       "logo": "https://www.kan.org.il/media/l0ddgn1c/shunathayim10web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p1y3mqzt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "הילדים מוכרים חפצים יד שנייה כדי לגייס כסף לספרייה. הגשם שיורד בשכונה פוגע בעסקים במכולת, אבל טוב לחקלאי שייחל לו. ובביקור במוזיאון כל אחד רואה דמויות שונות באותן יצירות. שודר בשנת 1977",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673325/",
+       "id": "673325",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 21 - תקשורת חלק א'",
+       "logo": "https://www.kan.org.il/media/dbtj10mu/shunathayim11web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3qcfpt2h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "עולה חדש מרוסיה מנסה לקנות במכולת של יחזקאל, רחלה מוסרת רשימת מצרכים לחלוצי, וקבוצת ילדים מחו\"ל באה להתארח בשכונה. איך מדברים ללא שפה ואיך קוראים שלטים ללא מילים, רק עם סימנים?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673322/",
+       "id": "673322",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 22 - תקשורת חלק ב'",
+       "logo": "https://www.kan.org.il/media/55pm2pep/shunathayim12web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_107vlykw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יוני מצוברח כי הוא רוצה את הנעליים שראה בפרסומת. אישוני מסתבך בקריאת הוראות הפעלה, והילדים מנסים לקרוא פתק ללא סימני פיסוק. בהפסקת החשמל בשכונה הילדים נעזרים בחוש השמיעה. שודר בשנת 1977",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673319/",
+       "id": "673319",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 10 - עיקר וטפל חלק א'",
+       "logo": "https://www.kan.org.il/media/czfjnl2g/shunathayim13web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c4f936pp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "מה חשוב להגיד ומה פחות? שפרה צריכה לשלוח מברק קצר לסבתה, אישוני שוב מפספס שריפה, וג'נגו צריך לנסח מודעה למסיבה, אבל מפרט יותר מדי.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673316/",
+       "id": "673316",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 13 - עיקר וטפל חלק ב'",
+       "logo": "https://www.kan.org.il/media/uyunmrjc/shunathayim14web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s25ricbh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יוני מבקש מאמו אופניים חדשים, אבל מדבר סחור סחור ולא ישר ולעניין, אישוני מאחר לצאת לשריפה, הילדים מחפשים שם לתערוכת הציורים שלהם, ובדואר מנסים לנסח מברק ברור. שודר בשנת 1977",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673310/",
+       "id": "673310",
+       "season": 1
+      },
+      {
+       "name": "הילדים משכונת חיים | פרק 3 - השוואה חלק א'",
+       "logo": "https://www.kan.org.il/media/zhya2vg4/shunathayim15web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yc4nezf5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-01-07",
+       "plot": "יוני מחפש את ההבדלים בין שני ציורים, אישוני משווה בין האופנה של פעם לזו של היום, אבא של ששון בא לבקר, ומה ההבדל בין קייטנה לבילוי אצל הדודה? מה דומה ומה שונה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/s1/673307/",
+       "id": "673307",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הילדים משכונת חיים | פתיח",
+       "logo": "https://www.kan.org.il/media/n1pfw3kc/הילדים.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1892426/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-08-19",
+       "plot": "פתיח לסדרה \"הילדים משכונת חיים\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-670759/943413/",
+       "id": "943413"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

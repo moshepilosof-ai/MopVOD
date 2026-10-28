@@ -1,0 +1,53 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - התלוש של המדינה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1072582/",
+   "series_id": "1072582",
+   "updated": "2026-10-28 10:27",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "התלוש של המדינה - חלק שני",
+       "logo": "https://www.kan.org.il/media/okhlznmw/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222452/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-07",
+       "plot": "סקר המשכורות הגדול של ישראל ממשיך. בחלק השני, שאול אמסטרדמסקי מברר על השכר של שופט כדורגל, סוהרת, סופר סת\"ם, מורה בבית ספר, שחקן תיאטרון וחברת כנסת, ושואל פסיכולוג למה לדבר על כסף כל כך מביך אותנו?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1072582/s1/1072588/",
+       "id": "1072588",
+       "season": 1
+      },
+      {
+       "name": "התלוש של המדינה - חלק ראשון",
+       "logo": "https://www.kan.org.il/media/jozbnwko/אתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222451/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-07",
+       "plot": "סקר המשכורות הגדול של ישראל - פרויקט לאומי בשני חלקים. שאול אמסטרדמסקי שובר את הטאבו הכי גדול ומעז לשאול: כמה מרוויח הישראלי הממוצע מדי חודש? מועבד התברואה ועד לאיש ההייטק, התלושים נחשפים לראשונה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1072582/s1/1072586/",
+       "id": "1072586",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "התלוש של המדינה | טריילר",
+       "logo": "https://www.kan.org.il/media/y5yfth4o/1920x1080-with-logo_התלוש-של-המדינה.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223308/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-09",
+       "plot": "כמה מרוויחים בכל מקצוע? שאול אמסטרדמסקי עומד לחשוף הכל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1072582/1073877/",
+       "id": "1073877"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

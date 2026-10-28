@@ -1,0 +1,233 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - תצפית",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-761676/",
+   "series_id": "761676",
+   "updated": "2026-10-28 13:42",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "תצפית | 3.2.1993 - מולטימדיה",
+       "logo": "https://www.kan.org.il/media/jjaplibv/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j2euya0b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "השתלטות המחשבים על תחומי החיים והסכנה שהם מהווים על הפעילות הגופנית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/762002/",
+       "id": "762002",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 6.1.1993 - טירונות",
+       "logo": "https://www.kan.org.il/media/4gcnbu0a/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mcqhznbm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "מחקר חדש שערך צה\"ל על טירונים שבהם בדקו שברי מאמץ",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761998/",
+       "id": "761998",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 8.7.1992 - חיים במים",
+       "logo": "https://www.kan.org.il/media/kchlqkfj/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hqe3oy87/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "רבייה של סוסוני ים במצפה התת ימי באילת, חיידקים מנקים כתמי נפט בים, טכניקת הישרדות של חבצלת החוף ואיך הירח משפיע על חיי המין של אלמוגים באוסטרליה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761993/",
+       "id": "761993",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 24.6.1992 - מוח",
+       "logo": "https://www.kan.org.il/media/auah4qey/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd6za5ho/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "איך אפשר להבין מה מתרחש בתוך הגולגולת וסיפורם של שני נפגעי מוח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761985/",
+       "id": "761985",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 22.1.1992 - הדרך אל התבונה",
+       "logo": "https://www.kan.org.il/media/550dytj4/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ogm73lqy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "סרט על התפתחות האדם המודרני ועל האדם הקדמון",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761983/",
+       "id": "761983",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 1.1.1992 - רעש",
+       "logo": "https://www.kan.org.il/media/niraqwwi/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y5sgyxl2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "דיון עם שוטר מתזמורת משטרת ישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761979/",
+       "id": "761979",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 15.10.1991 - משחקים",
+       "logo": "https://www.kan.org.il/media/zbdop4on/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sbhu5dr1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "השפעת משחקי מחשב על התנהגות ילדים, אליפות הארץ במשחקי טלוויזיה ומפתחי משחקי קופסה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761965/",
+       "id": "761965",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 23.7.1991 - לחשוב אחרת",
+       "logo": "https://www.kan.org.il/media/wiuoobky/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_brxs983w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "האנשים בעלי חשיבה מקורית ויצירתית שעומדים מאחורי ההמצאות ששינו את העולם. קורסים לחשיבה לא שגרתית: מה לומדים בהם?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761958/",
+       "id": "761958",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 27.12.1989 - סיכום שנות ה-80'",
+       "logo": "https://www.kan.org.il/media/hkfc3mcg/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tkticzd3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-17",
+       "plot": "כל הגילויים החדשים בתחום המדע והטכנולוגיה: מפת החלל, מערכת השמש, מעבורות חלל, מוסיקה אלקטרונית, הנדסה גנטית, השתלטות הרובוטים, פקסימליות ואיכות הסביבה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761953/",
+       "id": "761953",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 28.6.1989 - שבץ מוחי",
+       "logo": "https://www.kan.org.il/media/hr0duvjl/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_de5nenp3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "מה בדיוק קורה במוח בזמן ההתקף? כיצד מטפלים בזה? ראיון עם רופא מרדים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761752/",
+       "id": "761752",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 25.1.1989 - חורש טבע",
+       "logo": "https://www.kan.org.il/media/eqgla4xq/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ho8s6ryv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "עצי ופרחי הטבע הישראלי, גידול אלפקות ויעל דן צונחת ממצנח",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761750/",
+       "id": "761750",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 28.12.1988 - תא לחץ",
+       "logo": "https://www.kan.org.il/media/twwosssw/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gvfsznkt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "הטיפול המיוחד בתל השומר שמסייע לטיפול בצוללנים ולשיקום נכים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761747/",
+       "id": "761747",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 2.5.1988 - מחשבים בגן",
+       "logo": "https://www.kan.org.il/media/wckdtemq/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4fsbuju0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "איך משלבים לימוד במחשב במערכת החינוך?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761743/",
+       "id": "761743",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 25.2.1987 - הנדסה גנטית",
+       "logo": "https://www.kan.org.il/media/gaakp345/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2qkdfec3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "הורמוני גדילה, סיסטיק פיברוזיס - המחלה התורשתית שפוגעת במערכת העיכול והנשימה והשתלת גנים אנושיים של תסמונת דאון בעכבר",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761735/",
+       "id": "761735",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 1.10.1986 - \"גדול וקטן\"",
+       "logo": "https://www.kan.org.il/media/bjdnnw4w/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oi3ne772/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "תערוכה חדשה במוזיאון ישראל מציגה תעתועי ראייה וטעויות אופטיות. אנשים הסובלים מעודף כולסטרול בדם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761726/",
+       "id": "761726",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 20.8.1986 - אמצעי מניעה",
+       "logo": "https://www.kan.org.il/media/apletq4d/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_k2c2tn6i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "על חינוך מיני, האמצעי למניעת הריון שאפשר לקנות בבית מרקחת והריון לא רצוי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761718/",
+       "id": "761718",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 6.7.1983 - לחיות עם הסרטן",
+       "logo": "https://www.kan.org.il/media/gqxnsv4c/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hxbe4pq7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "הטכנולוגיה של החיים המודרניים מייצרת הנאות אך גם סכנות שעלולות לגרום לסרטן",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761711/",
+       "id": "761711",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 16.3.1983 - חובבי מחשב",
+       "logo": "https://www.kan.org.il/media/4v4nr4co/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e8x3hb33/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "תופעה חדשה: יותר ויותר אנשים משחקים ועובדים במחשב, כולל ילדים!",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761710/",
+       "id": "761710",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 1.1.1982 - משחקי מחשב",
+       "logo": "https://www.kan.org.il/media/haudxb1c/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sktk7neu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "המשחקים הקלאסיים כמו טניס, כדורגל, כדורסל, ששבש ושחמט עוברים למסך והמבוגרים מתמכרים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761705/",
+       "id": "761705",
+       "season": 1
+      },
+      {
+       "name": "תצפית | 12.5.1981 - עוזניות ופרסים",
+       "logo": "https://www.kan.org.il/media/s51drzfp/web.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3uy238dg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2024-06-16",
+       "plot": "פרופ' מנדלסון מהגן הזואולוגי בתל אביב מספר על הרביית עופות בר בצורה מלאכותית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/s1/761696/",
+       "id": "761696",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "תצפית | פתיח",
+       "logo": "https://www.kan.org.il/media/cuydavcj/תצפית.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3zozdfbo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-26",
+       "plot": "הפתיח האהוב של \"תצפית\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-761676/912132/",
+       "id": "912132"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

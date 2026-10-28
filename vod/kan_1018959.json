@@ -1,0 +1,99 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מאסטר בראנץ'",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1018959/",
+   "series_id": "1018959",
+   "updated": "2026-10-28 11:33",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מאסטר בראנץ' | פרק 8 - הגמר הגדול ",
+       "logo": "https://www.kan.org.il/media/vjypscxe/לאתר8.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194306/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-27",
+       "plot": "בגמר הגדול שלושת המועמדים נפגשים עם מנטורים שעוזרים למקד אותם במטרתם לאחר הזכייה ומתחילים בבישול ארוחה שאמורה לשקף את החזון העתידי שלהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1034030/",
+       "id": "1034030",
+       "season": 1
+      },
+      {
+       "name": "מאסטר בראנץ' | פרק 7 - בראנץ' חגיגי",
+       "logo": "https://www.kan.org.il/media/forf4d5h/vlcsnap-2026-04-28-17h33m39s521.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194065/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "חמשת המועמדים מתבקשים להכין שתי ארוחות באווירת החגים בארה\"ב. בראשונה מנת ביס ובשנייה סעודה חגיגית.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1033410/",
+       "id": "1033410",
+       "season": 1
+      },
+      {
+       "name": "מאסטר בראנץ' | פרק 6 - הבראנץ' הנחשק",
+       "logo": "https://www.kan.org.il/media/dcvh5qni/לאתר6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194064/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "המתמודדים מקבלים ביקור משף קונדיטור ומכינים את המנה \"הנחשקת\" ביותר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1033409/",
+       "id": "1033409",
+       "season": 1
+      },
+      {
+       "name": "מאסטר בראנץ' | פרק 5 - בראנץ' פיין דיינינג",
+       "logo": "https://www.kan.org.il/media/zz4ayumd/לאתר5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194061/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "המתמודדים מגישים ארוחה בת 3 מנות מוקפדות בסגנון פיין דיינינג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1033335/",
+       "id": "1033335",
+       "season": 1
+      },
+      {
+       "name": "מאסטר בראנץ' | פרק 4 - בראנץ' של פחמימות",
+       "logo": "https://www.kan.org.il/media/kn5ic415/לאתר4.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194050/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "המתמודדים צריכים להגיש מנה ראשונה ועיקרית סביב טהרת הלחם והפחמימה וגם ארוחה ללא גלוטן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1033331/",
+       "id": "1033331",
+       "season": 1
+      },
+      {
+       "name": "מאסטר בראנץ' | פרק 3 - בראנץ' מהחווה לצלחת",
+       "logo": "https://www.kan.org.il/media/bjbpmgqr/לאתר3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194057/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-04-26",
+       "plot": "המתמודדים מקבלים משימה לבשל בסגנון \"מהחווה לצלחת\", מנה ראשונה טבעונית ומנה שנייה צמחונית",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1033329/",
+       "id": "1033329",
+       "season": 1
+      },
+      {
+       "name": "מאסטר בראנץ' | פרק 2 -  בראנץ' היום שאחרי ",
+       "logo": "https://www.kan.org.il/media/qgifpbet/לאתר2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181072/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-26",
+       "plot": "המתמודדים מקבלים משימה להגיש מנות הקשורות ליום שאחרי לילה עמוס באלכוהול, בהשראת מסעדות הדיינר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1019046/",
+       "id": "1019046",
+       "season": 1
+      },
+      {
+       "name": "מאסטר בראנץ' | פרק 1 -  הבראנץ' של היום מייצג אתכם ",
+       "logo": "https://www.kan.org.il/media/nvgfemvq/לאתר1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181070/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-03-26",
+       "plot": "בפרק הפתיחה, כל מתמודד צריך להכין את מנת הבראנץ' שתציג לשופטים מי הוא ומה החלום שלו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1018959/s1/1018960/",
+       "id": "1018960",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

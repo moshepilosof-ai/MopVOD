@@ -1,0 +1,119 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - כאן ארכיון | איפה היינו - תוכניות מלאות לצפייה ישירה",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-872059/",
+   "series_id": "872059",
+   "updated": "2026-10-28 11:19",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "איפה היינו | תכנית 9 - אריה מליניאק",
+       "logo": "https://www.kan.org.il/media/cabcqg1m/bb02610819-manor-efo-meliniak.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y9gxcvxa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "מאמן הכדורסל, פרשן ומחנך שיצר שיטת אימון מקורית מדבר על המעבר מהמגרש לאולפן, החינוך דרך ספורט וההשפעה על דורות של שחקנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874651/",
+       "id": "874651",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 8 - יעל הדיה",
+       "logo": "https://www.kan.org.il/media/2bmg3mde/be10252809-manor-efo-hedaya.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0h44naqq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "הסופרת חוזרת לילדותה מול הטלוויזיה הלימודית, חושפת קטעים נוסטלגיים, ופותחת את הלב על הכתיבה, ירושלים של פעם והמאבק החילוני",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874646/",
+       "id": "874646",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 7 - נועם ונאוה סמל",
+       "logo": "https://www.kan.org.il/media/1u3p40tq/be10252759-manor-efo-semel.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f18rxcvt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "הזוג שפעל לאורך שנים בלב העשייה התרבותית בישראל משתף בסיפורם המשותף, בתיאטרון ובספרות, כשותפות חיים שבה היצירה היא חלק מהאהבה וההשראה ההדדית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874645/",
+       "id": "874645",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 5 - טלי ליפקין-שחק",
+       "logo": "https://www.kan.org.il/media/qgido4kk/bb02461734-manor-efo-lipkin-shahak.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aya8xozp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "העיתונאית שפרצה דרך בעיתונות הביטחונית משתפת בהתמודדות בעולם גברי ולא מתפשר, ובבחירה העקבית להחזיק בקול האישי גם מול אתגרים מערכתיים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874644/",
+       "id": "874644",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 4 - סמדר שיר",
+       "logo": "https://www.kan.org.il/media/lj3fmfby/mb02464701-manor-efo-shir.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qxnz7l0j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "הסופרת, העיתונאית והתסריטאית שכתיבתה מלווה את התרבות הישראלית מילדות ועד בגרות מדברת על השילוב בין אימהות ליצירה ועל ההשראה שמניעה את עולמה האישי והספרותי",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874643/",
+       "id": "874643",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 3 - אברהם גרנט",
+       "logo": "https://www.kan.org.il/media/bybdhflu/bb02463979-manor-efo-grant.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_etqo40xk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "מאמן הכדורגל שהוביל את נבחרת ישראל וחצה גבולות אל הזירה הבינלאומית מספר על הלחצים מאחורי הקווים, הרגעים הגדולים והחלום להביא את ישראל למונדיאל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874641/",
+       "id": "874641",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 2 - טומי לפיד",
+       "logo": "https://www.kan.org.il/media/03vf3ujl/bb02464399-manor-efo-lapid.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_p21z8r1h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "איש התקשורת החריף ואחד הקולות המרכזיים במאבק למען חילוניות משתף בזיכרונות מהקריירה העיתונאית, המעבר לזירה הפוליטית, והמחיר של דעות נחרצות במרחב הציבורי. בבימויה של ריקי אריכא",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874639/",
+       "id": "874639",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 1 - רם אורן",
+       "logo": "https://www.kan.org.il/media/h41dxxwg/bb02467020-manor-efo-oren.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ifmuw646/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-24",
+       "plot": "העיתונאי שהפך לאחד הסופרים הנקראים בישראל חוזר אל הדרך שעשה מהחדשות לעולמות הדמיון, וחושף את הסיפורים שמאחורי רבי-המכר שהפכו אותו לשם דבר בספרות הישראלית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/874637/",
+       "id": "874637",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 6 - אורי אורבך",
+       "logo": "https://www.kan.org.il/media/on5jtfqr/איפה-היינו-אורי-אורבך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2px7oezc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "העיתונאי והסאטיריקן מציג את ההומר כגשר בין העולם הדתי לחילוני וחוזר לרגעים נוסטלגיים, קטעים נדירים ושירים של פעם",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/866190/",
+       "id": "866190",
+       "season": 1
+      },
+      {
+       "name": "איפה היינו | תכנית 10 - יעקב ואמיר פרי",
+       "logo": "https://www.kan.org.il/media/wcnpitub/אהוד-מנור-יעקב-ומאיר-איפה-היינו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fr2vct5c/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "ראש השב\"כ לשעבר ובנו המוזיקאי קופצים בין נושאים מדיניים וביטחוניים לסצנת הרוק של הניינטיז",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-872059/s1/866189/",
+       "id": "866189",
+       "season": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

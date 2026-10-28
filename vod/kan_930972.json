@@ -1,0 +1,82 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - גיים צ'יינג'ר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-930972/",
+   "series_id": "930972",
+   "updated": "2026-10-28 09:37",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "גיים צ'יינג'ר | פרק 4 - לבחור דמות",
+       "logo": "https://www.kan.org.il/media/ewkfszbg/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hbxcfwwg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "נבט, במאי אוטיסט שלמד לתקשר עם העולם דרך משחקי מחשב, יוצא לפגוש אנשים שנעזרו בגיימינג כדי לבחור מי הם רוצים להיות: שימי, חוזר בשאלה, יהלי, שנכנסה להריון כשהייתה נערה ואיילה, שיצאה מהארון בזכות משחק מחשב",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-930972/s1/931031/",
+       "id": "931031",
+       "season": 1
+      },
+      {
+       "name": "גיים צ'יינג'ר | פרק 3 - להמשיך במשחק",
+       "logo": "https://www.kan.org.il/media/kcyhr5ut/גיים3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ov7wonhj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "נבט, במאי אוטיסט שלמד לתקשר עם העולם דרך משחקי מחשב, יוצא לפגוש אנשים שהתגברו על משברים בעזרת גיימינג: מיטל, שסבלה מפוסט-טראומה בשל מות אביה, אלן, עולה חדש שמשפחתו התפרקה ולירון, שחלתה בסרטן והשתקמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-930972/s1/931025/",
+       "id": "931025",
+       "season": 1
+      },
+      {
+       "name": "גיים צ'יינג'ר | פרק 2 - שני שחקנים",
+       "logo": "https://www.kan.org.il/media/rdwholql/פרק-2-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qi93k43o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "נבט, במאי אוטיסט שלמד לתקשר עם העולם דרך משחקי מחשב, יוצא לפגוש אנשים שגיימינג עזר להם לפתח מערכות יחסים – אייר ומוחמד, שהתאהבו בשחקנים ששיחקו מולם ויהודה, טייס לשעבר, שהתקרב לנכדו דרך סימולטור טיסה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-930972/s1/931013/",
+       "id": "931013",
+       "season": 1
+      },
+      {
+       "name": "גיים צ'יינג'ר | פרק 1 - משחק חדש",
+       "logo": "https://www.kan.org.il/media/cztj2y01/פרק-1-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ks4f7fim/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-07-13",
+       "plot": "נבט, במאי אוטיסט שלמד לתקשר עם העולם דרך משחקי מחשב, יוצא לפגוש אנשים שגיימינג שינה את חייהם – טל, מוזיקאי בינלאומי עם תסמונת טורט, קאירי, טרנסית שהשתתפה בחיסול בן-לאדן ושגיא, שאיבד את בנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-930972/s1/930987/",
+       "id": "930987",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "גיים צ'יינג'ר | טריילר",
+       "logo": "https://www.kan.org.il/media/vwpblttc/1920x1080_no-logo-גיים-ציינגר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167081/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-15",
+       "plot": "נבט, במאי אוטיסט שלמד לתקשר עם העולם בעזרת משחקי מחשב, יוצא למסע מרגש בו הוא פוגש אנשים שגם חייהם השתנו בעקבות אותו תחביב - החל מהתגברות על טראומות ועד למציאת אהבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-930972/999190/",
+       "id": "999190"
+      },
+      {
+       "name": "גיים צ'יינג'ר | הצצה",
+       "logo": "https://www.kan.org.il/media/fr4h2k5i/credit_נועה-שרביט.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166242/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-02-08",
+       "plot": "נבט, במאי אוטיסט שלמד לתקשר עם העולם בעזרת משחקי מחשב, יוצא למסע מרגש בו הוא פוגש אנשים שגם חייהם השתנו בעקבות אותו תחביב - החל מהתגברות על טראומות ועד למציאת אהבה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-930972/996911/",
+       "id": "996911"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
