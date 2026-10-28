@@ -47,17 +47,6 @@
    "updated": "2026-10-28 23:43"
   },
   {
-   "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
-   "name": "קשת 12 - הטלוויזיה של הישראלים",
-   "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw",
-   "logo": "",
-   "file": "vod/yt_UCig6uBmo-4yWSJtUBGoLMAw.json",
-   "programs": 1,
-   "episodes": 3,
-   "source": "youtube",
-   "updated": "2026-10-28 20:06"
-  },
-  {
    "id": "ia_SciFi_Horror",
    "name": "Sci-Fi / Horror",
    "url": "https://archive.org/details/SciFi_Horror",
@@ -78,6 +67,17 @@
    "episodes": 5506,
    "source": "youtube",
    "updated": "2026-10-28 20:01"
+  },
+  {
+   "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
+   "name": "קשת 12 - הטלוויזיה של הישראלים",
+   "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw",
+   "logo": "",
+   "file": "vod/yt_UCig6uBmo-4yWSJtUBGoLMAw.json",
+   "programs": 1,
+   "episodes": 3,
+   "source": "youtube",
+   "updated": "2026-10-28 20:06"
   }
  ]
 }
