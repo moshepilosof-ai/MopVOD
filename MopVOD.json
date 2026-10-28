@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-28 19:50",
+ "updated": "2026-10-28 20:26",
  "sources": [
   {
    "name": "כאן 11 - המהדורה המרכזית",
@@ -3803,10 +3803,10 @@
   {
    "name": "כאן 11 - תגידו קצר",
    "file": "vod/kan_962897.json",
-   "episodes": 91,
+   "episodes": 92,
    "seasons": 2,
-   "updated": "2026-10-28 13:39",
-   "newest": "2026-10-25",
+   "updated": "2026-10-28 20:26",
+   "newest": "2026-10-28",
    "oldest": "2025-10-23"
   },
   {
@@ -4084,7 +4084,7 @@
    "file": "vod/yt_UCOyYs3ZtsGMmt3L5eaywsXA.json",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-10-28 21:17",
+   "updated": "2026-10-28 19:53",
    "newest": null,
    "oldest": null
   },
