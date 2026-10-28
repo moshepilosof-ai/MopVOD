@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-28 20:38",
+ "updated": "2026-10-28 20:45",
  "sources": [
   {
    "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
@@ -23,6 +23,17 @@
    "episodes": 3,
    "source": "youtube",
    "updated": "2026-10-28 20:06"
+  },
+  {
+   "id": "yt_UCuDhb2ObLzWrD_fuU5p_Qtw",
+   "name": "דיגיטל ערוץ 14",
+   "url": "https://www.youtube.com/channel/UCuDhb2ObLzWrD_fuU5p_Qtw",
+   "logo": "",
+   "file": "vod/yt_UCuDhb2ObLzWrD_fuU5p_Qtw.json",
+   "programs": 1,
+   "episodes": 1,
+   "source": "youtube",
+   "updated": "2026-10-28 20:45"
   }
  ]
 }
