@@ -1,10 +1,5 @@
 [
  {
-  "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
-  "name": "קשת 12 - הטלוויזיה של הישראלים",
-  "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw"
- },
- {
   "id": "yt_UCpVm7bg6pXKo1Pr6k5kxG9A",
   "name": "National Geographic",
   "url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A"
@@ -28,5 +23,10 @@
   "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
   "name": "חדשות 13",
   "url": "https://www.youtube.com/channel/UCvQmPpU20hw1Trss_CVwaew"
+ },
+ {
+  "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
+  "name": "קשת 12 - הטלוויזיה של הישראלים",
+  "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw"
  }
 ]
