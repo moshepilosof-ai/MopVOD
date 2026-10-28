@@ -6,11 +6,29 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-670610/",
    "series_id": "670610",
-   "updated": "2026-10-28 16:37",
+   "updated": "2026-10-28 19:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "בחירות 2026 - משדר מיוחד - איילה חסון - 28.10.26 -18:55",
+       "logo": "https://www.kan.org.il/media/xblpajk1/איילה-חסון-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259798/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "בחירות 2026 - משדר חדשות מיוחד עם איילה חסון.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1113911/",
+       "id": "1113911"
+      },
+      {
+       "name": "בחירות 2026 | משדר מיוחד עם מיכל רשף ויואב זהבי - 28.10.26 - 17:00",
+       "logo": "https://www.kan.org.il/media/o1wh3srx/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259791/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "בחירות 2026 - משדר חדשות מיוחד עם מיכל רשף ויואב זהבי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1113894/",
+       "id": "1113894"
+      },
       {
        "name": "בחירות 2026 - משדר מיוחד - גליק ותמר",
        "logo": "https://www.kan.org.il/media/plqlvxuc/גליק-ותמר-לאתר.png",

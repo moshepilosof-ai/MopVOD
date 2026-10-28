@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-10-28 12:21",
+   "updated": "2026-10-28 19:45",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זהר | 28.10.26",
+       "logo": "https://www.kan.org.il/media/1c4lu53z/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2255411/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "אחרי הבחירות, נתניהו לא מבין איך פוליטיקאים יכולים לנרמל מפלגות ערביות? איך? תשאל את נתניהו | הבחירות היו החלק הקל, עכשיו לכו תרכיבו ממשלה: ליקטנו שלל הבטחות בחירות שהיו. עכשיו תהמרו איזו הבטחה הולכים להפר | אלי ביתאן מכתיר את נתניהו כראש הממשלה של שרדינגר, ומציע: רוצים פרשנות פוליטית לגביו? כדאי שתביאו פיזיקאי | קונצנזוס שלא לומר אחדות במערכת הפוליטית ובאולפנים. על מה? שיבוש יום הבחירות. שלא קרה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1109159/",
+       "id": "1109159",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זהר | 26.10.26",
        "logo": "https://www.kan.org.il/media/h5gnwsk2/artboard-1.jpg",
