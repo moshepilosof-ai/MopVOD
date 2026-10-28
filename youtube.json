@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-28 23:58",
+ "updated": "2026-10-29 00:09",
  "sources": [
   {
    "id": "yt_UCpVm7bg6pXKo1Pr6k5kxG9A",
@@ -67,6 +67,17 @@
    "episodes": 3,
    "source": "youtube",
    "updated": "2026-10-28 20:06"
+  },
+  {
+   "id": "ia_SciFi_Horror",
+   "name": "Sci-Fi / Horror",
+   "url": "https://archive.org/details/SciFi_Horror",
+   "logo": "https://archive.org/services/img/SciFi_Horror",
+   "file": "vod/ia_SciFi_Horror.json",
+   "programs": 1,
+   "episodes": 950,
+   "source": "youtube",
+   "updated": "2026-10-29 00:09"
   }
  ]
 }
