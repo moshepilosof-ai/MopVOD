@@ -78,6 +78,17 @@
    "episodes": 3,
    "source": "youtube",
    "updated": "2026-10-28 20:06"
+  },
+  {
+   "id": "ia_classic_tv",
+   "name": "Classic TV",
+   "url": "https://archive.org/details/classic_tv",
+   "logo": "https://archive.org/services/img/classic_tv",
+   "file": "vod/ia_classic_tv.json",
+   "programs": 1,
+   "episodes": 1000,
+   "source": "youtube",
+   "updated": "2026-10-29 00:17"
   }
  ]
 }
