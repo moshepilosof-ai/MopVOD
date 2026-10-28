@@ -160,6 +160,63 @@ def build_channel(url, title, status=None, max_playlists=None):
 # רשימות שטוחות של YouTube לא כוללות תאריך העלאה. משלימים אותו לכל סרטון בנפרד (yt-dlp, במקביל),
 # שומרים בקטלוג, ובריצות הבאות רק פרקים חדשים נבדקים.
 DATE_WORKERS = 8
+API_KEY_FILE = os.path.join(HERE, "youtube_api_key.txt")   # אופציונלי: מפתח YouTube Data API v3 (תאריכים מהירים, גם מ-GitHub)
+
+
+def youtube_api_key():
+    key = os.environ.get("YOUTUBE_API_KEY", "").strip()
+    if key:
+        return key
+    try:
+        with open(API_KEY_FILE, encoding="utf-8") as f:
+            return f.read().strip() or None
+    except OSError:
+        return None
+
+
+def _video_ids(eps):
+    out = {}
+    for ep in eps:
+        m = re.search(r"(?:v=|youtu\.be/|/shorts/)([A-Za-z0-9_-]{11})", ep.get("url") or "")
+        vid = m.group(1) if m else (ep.get("id") if re.match(r"^[A-Za-z0-9_-]{11}$", str(ep.get("id") or "")) else None)
+        if vid:
+            out.setdefault(vid, []).append(ep)
+    return out
+
+
+def _fill_dates_api(todo, key, status):
+    """YouTube Data API: 50 סרטונים בבקשה אחת (snippet.publishedAt). מחזיר כמה הושלמו, או None אם המפתח לא עובד."""
+    import urllib.request
+    by_id = _video_ids(todo)
+    ids = list(by_id)
+    ok = 0
+    total = len(ids)
+    for i in range(0, total, 50):
+        chunk = ids[i:i + 50]
+        q = urllib.parse.urlencode({"part": "snippet", "id": ",".join(chunk), "fields": "items(id,snippet(publishedAt,description))", "key": key})
+        req = urllib.request.Request("https://www.googleapis.com/youtube/v3/videos?" + q, headers={"User-Agent": "MopVOD"})
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                items = json.loads(r.read().decode("utf-8")).get("items", [])
+        except Exception as e:  # noqa: BLE001
+            if i == 0:
+                print("YouTube Data API failed:", str(e)[:120])
+                return None
+            break
+        for it in items:
+            sn = it.get("snippet") or {}
+            d = (sn.get("publishedAt") or "")[:10]
+            for ep in by_id.get(it["id"], []):
+                if d:
+                    ep["date"] = d
+                    ok += 1
+                if sn.get("description") and not ep.get("plot"):
+                    ep["plot"] = sn["description"][:600]
+        if status is not None:
+            status.update(step=f"משלים תאריכים (API) {min(i + 50, total)}/{total}", progress=min(i + 50, total) / max(1, total))
+        if status is not None and status.get("cancel"):
+            break
+    return ok
 
 
 def _episodes(data):
@@ -200,6 +257,11 @@ def fill_dates(data, status=None, limit=None, workers=DATE_WORKERS):
     import concurrent.futures
     status = status if status is not None else {}
     todo = [ep for ep in _episodes(data) if not ep.get("date") and ep.get("url") and ep.get("resolve", "ytdlp") == "ytdlp"]
+    key = youtube_api_key()
+    if key:
+        got = _fill_dates_api(todo, key, status)   # עם מפתח: הכל, מהר (בלי limit)
+        if got is not None:
+            return got
     if limit:
         todo = todo[:limit]
     if not todo:
@@ -270,6 +332,22 @@ def _save(path, data):
         json.dump(data, f, ensure_ascii=False, indent=1)
 
 
+def rebuild_index(root):
+    """youtube.json מחדש מתוך sources.json וקובצי vod/ הקיימים (אחרי מיזוג עם שינויים מהאפליקציה)."""
+    sources = _load(os.path.join(root, SOURCES_FILE), [])
+    old = {e["id"]: e for e in _load(os.path.join(root, INDEX_FILE), {}).get("sources", [])}
+    index = []
+    for s in sources:
+        sid = s.get("id") or source_id_for(s["url"])
+        data = _load(os.path.join(root, VOD_SUBDIR, sid + ".json"), None)
+        if not data:
+            continue
+        upd = (data.get("categories") or [{}])[0].get("updated") or (old.get(sid) or {}).get("updated")
+        index.append(index_entry(sid, dict(data, name=s.get("name") or data.get("name"), url=s.get("url") or data.get("url")), upd))
+    _save(os.path.join(root, INDEX_FILE), {"name": "MopVOD YouTube", "updated": time.strftime("%Y-%m-%d %H:%M"), "sources": index})
+    print(f"   -> {INDEX_FILE}: {len(index)} מקורות")
+
+
 def rebuild_all(root, only=None, dates_per_source=2000):
     sources = _load(os.path.join(root, SOURCES_FILE), [])
     old_index = {e["id"]: e for e in _load(os.path.join(root, INDEX_FILE), {}).get("sources", [])}
@@ -324,7 +402,11 @@ def main():
     ap.add_argument("--title", help="שם לתצוגה (עם --add)")
     ap.add_argument("--search", help="חיפוש ערוצים לפי שם (בדיקה)")
     ap.add_argument("--dates", type=int, default=2000, help="כמה תאריכים חסרים להשלים לכל מקור בריצה (0 = בלי)")
+    ap.add_argument("--index", action="store_true", help="לבנות מחדש רק את youtube.json מהקבצים הקיימים")
     args = ap.parse_args()
+    if args.index:
+        rebuild_index(HERE)
+        return
     if args.search:
         for r in search_channels(args.search):
             print(f"  {r['title']}  |  {r.get('subscribers')}  |  {r['url']}")

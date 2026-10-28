@@ -25,16 +25,20 @@ jobs:
           python-version: "3.12"
       - run: pip install -q yt-dlp
       - name: Rebuild YouTube catalogs
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python ytsource.py --all --dates 3000
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add youtube.json vod sources.json
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
-          fi
-          git commit -m "Update YouTube catalogs $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
+          # 1) only the catalog files; sources.json belongs to the app, youtube.json is regenerated after merging
+          git add vod
+          if git diff --cached --quiet; then echo "No catalog changes"; else git commit -m "Update YouTube catalogs $(date -u +'%Y-%m-%d %H:%M UTC')"; fi
+          # 2) merge whatever the app pushed meanwhile (added/removed sources); on a conflicting catalog keep this run's version
+          git pull --rebase -X theirs origin main
+          # 3) index from the merged state
+          python ytsource.py --index
+          git add youtube.json
+          if git diff --cached --quiet; then echo "No index changes"; else git commit -m "Update youtube.json index"; fi
           git push
