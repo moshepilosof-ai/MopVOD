@@ -199,7 +199,7 @@ def fill_dates(data, status=None, limit=None, workers=DATE_WORKERS):
     מחזיר כמה הושלמו. נעצר אם 20 הניסיונות הראשונים נכשלו (למשל חסימה של YouTube לשרת)."""
     import concurrent.futures
     status = status if status is not None else {}
-    todo = [ep for ep in _episodes(data) if not ep.get("date") and ep.get("url")]
+    todo = [ep for ep in _episodes(data) if not ep.get("date") and ep.get("url") and ep.get("resolve", "ytdlp") == "ytdlp"]
     if limit:
         todo = todo[:limit]
     if not todo:
@@ -285,7 +285,11 @@ def rebuild_all(root, only=None, dates_per_source=2000):
         print(f"== {s.get('name')}  ({s['url']})")
         status = {}
         try:
-            data = build_channel(s["url"], s.get("name") or sid, status)
+            if "archive.org" in s["url"]:
+                import archivesource
+                data = archivesource.build(s["url"], status)
+            else:
+                data = build_channel(s["url"], s.get("name") or sid, status)
         except Exception as e:  # noqa: BLE001
             print(f"   !! נכשל: {e}")
             if old:
