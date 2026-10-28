@@ -14,17 +14,6 @@
    "updated": "2026-10-28 19:55"
   },
   {
-   "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
-   "name": "קשת 12 - הטלוויזיה של הישראלים",
-   "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw",
-   "logo": "",
-   "file": "vod/yt_UCig6uBmo-4yWSJtUBGoLMAw.json",
-   "programs": 1,
-   "episodes": 3,
-   "source": "youtube",
-   "updated": "2026-10-28 22:02"
-  },
-  {
    "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
    "name": "חדשות 13",
    "url": "https://www.youtube.com/channel/UCvQmPpU20hw1Trss_CVwaew",
@@ -34,6 +23,17 @@
    "episodes": 5506,
    "source": "youtube",
    "updated": "2026-10-28 20:01"
+  },
+  {
+   "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
+   "name": "קשת 12 - הטלוויזיה של הישראלים",
+   "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw",
+   "logo": "",
+   "file": "vod/yt_UCig6uBmo-4yWSJtUBGoLMAw.json",
+   "programs": 1,
+   "episodes": 3,
+   "source": "youtube",
+   "updated": "2026-10-28 20:06"
   }
  ]
 }
