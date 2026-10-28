@@ -23,5 +23,10 @@
   "id": "yt_https___www_twitch_tv_nasa_videos",
   "name": "nasa - All Videos sorted by Date",
   "url": "https://www.twitch.tv/nasa/videos"
+ },
+ {
+  "id": "yt_thelinuxexperiment_channel",
+  "name": "The Linux Experiment",
+  "url": "https://tilvids.com/c/thelinuxexperiment_channel/videos"
  }
 ]
