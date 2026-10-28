@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-28 23:10",
+ "updated": "2026-10-28 21:12",
  "sources": [
   {
    "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
@@ -9,9 +9,9 @@
    "logo": "https://yt3.googleusercontent.com/AVbz_iWuCltpOm4nO-An-n2PmT4dYcC7VMFQzhFaOUDpsXxrIWmKr8q_C7ge9HuWI3BSBZOso64=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "programs": 57,
-   "episodes": 5506,
+   "episodes": 5518,
    "source": "youtube",
-   "updated": "2026-10-28 20:01"
+   "updated": "2026-10-28 21:12"
   },
   {
    "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
