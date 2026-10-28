@@ -1,17 +1,5 @@
 {
  "name": "MopVOD YouTube",
  "updated": "2026-10-28 20:34",
- "sources": [
-  {
-   "id": "yt_UCOyYs3ZtsGMmt3L5eaywsXA",
-   "name": "רשת 13",
-   "url": "https://www.youtube.com/channel/UCOyYs3ZtsGMmt3L5eaywsXA",
-   "logo": "https://yt3.googleusercontent.com/Z-2adhAL5YLs3Rky2uOhMMwWVqAUrUn-IdCcy8ZN61JTfewjPnJ4Ileg3DF6FvRifnjEzZdjYiM=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
-   "file": "vod/yt_UCOyYs3ZtsGMmt3L5eaywsXA.json",
-   "programs": 3,
-   "episodes": 94,
-   "source": "youtube",
-   "updated": "2026-10-28 20:34"
-  }
- ]
+ "sources": []
 }
