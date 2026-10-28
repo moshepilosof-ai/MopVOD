@@ -1,17 +1,5 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-28 22:17",
- "sources": [
-  {
-   "id": "yt_http___vimeo_com_channels_staffpicks",
-   "name": "http://vimeo.com/channels/staffpicks",
-   "url": "http://vimeo.com/channels/staffpicks",
-   "logo": "",
-   "file": "vod/yt_http___vimeo_com_channels_staffpicks.json",
-   "programs": 1,
-   "episodes": 1,
-   "source": "youtube",
-   "updated": "2026-10-28 22:17"
-  }
- ]
+ "updated": "2026-10-28 22:19",
+ "sources": []
 }
