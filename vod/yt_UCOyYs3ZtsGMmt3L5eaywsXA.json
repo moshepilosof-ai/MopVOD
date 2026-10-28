@@ -1,0 +1,1089 @@
+{
+ "name": "רשת 13",
+ "url": "https://www.youtube.com/channel/UCOyYs3ZtsGMmt3L5eaywsXA",
+ "logo": "https://yt3.googleusercontent.com/Z-2adhAL5YLs3Rky2uOhMMwWVqAUrUn-IdCcy8ZN61JTfewjPnJ4Ileg3DF6FvRifnjEzZdjYiM=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+ "categories": [
+  {
+   "name": "הארץ המובטחת - עונה 1",
+   "type": "vod",
+   "source": "youtube",
+   "resolve": "ytdlp",
+   "logo": "https://i.ytimg.com/vi/YR7ncNqXaGA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCN7HrsURmcT1vT4YrwUMmDGeux1w",
+   "program_url": "https://www.youtube.com/playlist?list=PLQScOU07Mqfg",
+   "updated": "2026-10-28 20:34",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "\"צריך לקפוץ למים העמוקים\": מי בחר לעלות לישראל?",
+       "logo": "https://i.ytimg.com/vi/YR7ncNqXaGA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeHLbA6o5hQZjaal41BJfPAA_tPg",
+       "url": "https://www.youtube.com/watch?v=YR7ncNqXaGA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=YR7ncNqXaGA",
+       "id": "YR7ncNqXaGA",
+       "duration": "8:51",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "רגע לפני מעמד ההחלטה: משתתפי \"הארץ המובטחת\" מסכמים את המסע בישראל",
+       "logo": "https://i.ytimg.com/vi/j4VcNDGe-HY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm1FdlwCNRNLfrTbJXW5pZPvAwhQ",
+       "url": "https://www.youtube.com/watch?v=j4VcNDGe-HY",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=j4VcNDGe-HY",
+       "id": "j4VcNDGe-HY",
+       "duration": "9:54",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אדם מתקשה להתמודד עם המרחק מהמשפחה: \"זה החלק הכי קשה, אני מתגעגע בטירוף\"",
+       "logo": "https://i.ytimg.com/vi/9PCzm_WVTQU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATq5PM61xcMvXuTp8gSRlatVE7tA",
+       "url": "https://www.youtube.com/watch?v=9PCzm_WVTQU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=9PCzm_WVTQU",
+       "id": "9PCzm_WVTQU",
+       "duration": "3:28",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"זה משוגע, לא ציפיתי לזה\": כשמשתתפי \"הארץ המובטחת\" פגשו את המציאות הישראלית",
+       "logo": "https://i.ytimg.com/vi/8TdJfqbvYf8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkNNdeGAunSb7LIJO1trQRMx1qZQ",
+       "url": "https://www.youtube.com/watch?v=8TdJfqbvYf8",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=8TdJfqbvYf8",
+       "id": "8TdJfqbvYf8",
+       "duration": "6:13",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"הייתי כל כך לחוץ\": איך עבר הדייט הראשון של אדם בישראל?",
+       "logo": "https://i.ytimg.com/vi/bOVFWLP_5lY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaSs7CFXc6bgkjYE69nCfuXmCkkw",
+       "url": "https://www.youtube.com/watch?v=bOVFWLP_5lY",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=bOVFWLP_5lY",
+       "id": "bOVFWLP_5lY",
+       "duration": "2:12",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"זה לא בדיוק להיות עורך דין כמו בקנדה\": האם אדם יצליח להתמודד עם הלקוח הראשון שלו בישראל?",
+       "logo": "https://i.ytimg.com/vi/3IYLzfnRtQU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCPZgqbKm8nol-CHxktgNVaq93AQ",
+       "url": "https://www.youtube.com/watch?v=3IYLzfnRtQU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=3IYLzfnRtQU",
+       "id": "3IYLzfnRtQU",
+       "duration": "2:57",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"הגעת לישראל, אין סבלנות\": סמנתה לומדת איך נוהגים בארץ",
+       "logo": "https://i.ytimg.com/vi/hV5M9Z2pMX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQVX3mJ02CPCf9CeyvlMKsTC5mLA",
+       "url": "https://www.youtube.com/watch?v=hV5M9Z2pMX8",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=hV5M9Z2pMX8",
+       "id": "hV5M9Z2pMX8",
+       "duration": "2:12",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"אני מרגישה כמו סטודנטית אבודה\": המשמרת הראשונה של שנינה מסתבכת",
+       "logo": "https://i.ytimg.com/vi/zBIAhQ9TVFI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZzfvQonPQG8CqZdzerQm5QaafVg",
+       "url": "https://www.youtube.com/watch?v=zBIAhQ9TVFI",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=zBIAhQ9TVFI",
+       "id": "zBIAhQ9TVFI",
+       "duration": "3:39",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"מה שאת צריכה זה חוצפה ישראלית\": רומי גיאור מלמדת את אורלי איך להתנהג בארץ",
+       "logo": "https://i.ytimg.com/vi/6uhwucUk0oA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoyCJf_XCjHmgTGPj8BorE3A-a1A",
+       "url": "https://www.youtube.com/watch?v=6uhwucUk0oA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=6uhwucUk0oA",
+       "id": "6uhwucUk0oA",
+       "duration": "3:02",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"מאז ה-7.10 זה לא מרגיש בטוח להיות יהודים באמריקה\": הכירו את האחים סמנתה וזאק פוקרוי",
+       "logo": "https://i.ytimg.com/vi/CMb8JqvKS0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoPomh2XV5oH11HoaE6Nu9u_Sc_w",
+       "url": "https://www.youtube.com/watch?v=CMb8JqvKS0U",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=CMb8JqvKS0U",
+       "id": "CMb8JqvKS0U",
+       "duration": "3:06",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"ישראל בשבילי זה בית\": הכירו את שנינה ספוזניקוף",
+       "logo": "https://i.ytimg.com/vi/-0t3rxqsBDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBqyEh1cqjOf0-doZZvYeJMA3zrg",
+       "url": "https://www.youtube.com/watch?v=-0t3rxqsBDE",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=-0t3rxqsBDE",
+       "id": "-0t3rxqsBDE",
+       "duration": "2:26",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"לפעמים בניו יורק אני מרגישה כמו זרה\": הכירו את אורלי בארס",
+       "logo": "https://i.ytimg.com/vi/NK8r8mvmJFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5qYwjHjirpumSiHBIBPYxsaVbFQ",
+       "url": "https://www.youtube.com/watch?v=NK8r8mvmJFQ",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=NK8r8mvmJFQ",
+       "id": "NK8r8mvmJFQ",
+       "duration": "3:20",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"ה-7.10 עשה לי רצון לגור ולהיות חלק מישראל\": הכירו את אדם ברודר וקסלר",
+       "logo": "https://i.ytimg.com/vi/J03ch80Y8cU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsxJWXTu8-uNM1VTmspp9ZP1xZiQ",
+       "url": "https://www.youtube.com/watch?v=J03ch80Y8cU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=J03ch80Y8cU",
+       "id": "J03ch80Y8cU",
+       "duration": "2:37",
+       "resolve": "ytdlp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "פאוור קאפל",
+   "type": "vod",
+   "source": "youtube",
+   "resolve": "ytdlp",
+   "logo": "https://i.ytimg.com/vi/s2ngrv0iXNI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbPCQPApxoocxxOnKF_VvVbGtHjQ",
+   "program_url": "https://www.youtube.com/playlist?list=PLZWH-ns59K3s",
+   "updated": "2026-10-28 20:34",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "בתום גמר סוער במיוחד: אורי ואנה בנאי הם הפאוור קאפל של ישראל",
+       "logo": "https://i.ytimg.com/vi/s2ngrv0iXNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZXdxGx1u2-hBxvd3mtdeCaDZEuA",
+       "url": "https://www.youtube.com/watch?v=s2ngrv0iXNI",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=s2ngrv0iXNI",
+       "id": "s2ngrv0iXNI",
+       "duration": "1:24",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אודיה מתנצלת בפני שיר: \"מצטערת, טעות, לא מגיע לכם\"",
+       "logo": "https://i.ytimg.com/vi/tPFZykI73VY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV-2roKC55k2SMhIPZTwBbtqMSSA",
+       "url": "https://www.youtube.com/watch?v=tPFZykI73VY",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=tPFZykI73VY",
+       "id": "tPFZykI73VY",
+       "duration": "4:29",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חני נחמיאס נגד אודיה פינטו: \"את מתנשאת, אין לך כבוד\"",
+       "logo": "https://i.ytimg.com/vi/YKbFeQVmZlY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdMlPbJwUU41wB7baQTz3QMOZyWg",
+       "url": "https://www.youtube.com/watch?v=YKbFeQVmZlY",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=YKbFeQVmZlY",
+       "id": "YKbFeQVmZlY",
+       "duration": "4:17",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"לא נתקלתי בזוג כל כך בריוני, פשוט גועל נפש\": העימות הסוער בין אסי ועדי לשיר ואלעד",
+       "logo": "https://i.ytimg.com/vi/jv2Sm9FlMfY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqKZleKb8JXpyILVlmmePXAji_og",
+       "url": "https://www.youtube.com/watch?v=jv2Sm9FlMfY",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=jv2Sm9FlMfY",
+       "id": "jv2Sm9FlMfY",
+       "duration": "8:45",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "בתום דו-קרב מותח: אורי ואנה בנאי זכו ב-50 אלף קולות מהבית",
+       "logo": "https://i.ytimg.com/vi/6lvDvXd25YI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs-QqM5Ct2nPeinOckjEPCIr2UPw",
+       "url": "https://www.youtube.com/watch?v=6lvDvXd25YI",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=6lvDvXd25YI",
+       "id": "6lvDvXd25YI",
+       "duration": "9:12",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "רגע לפני הגמר - עימות סוער בין אסי ועדי לעומרי ודורין: \"שקרים זה הצד החזק שלך\"",
+       "logo": "https://i.ytimg.com/vi/xqchuAqiJjE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT0MmMEWzh_UV7FOn9h9xWqnA71g",
+       "url": "https://www.youtube.com/watch?v=xqchuAqiJjE",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=xqchuAqiJjE",
+       "id": "xqchuAqiJjE",
+       "duration": "6:31",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "בתום טקס הדחה דרמטי: זו שלישיית הגמר של \"פאוור קאפל\"",
+       "logo": "https://i.ytimg.com/vi/qJQiLCwq5NA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADsglI6DC0J8PN6fJIfHnAyFDX9g",
+       "url": "https://www.youtube.com/watch?v=qJQiLCwq5NA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=qJQiLCwq5NA",
+       "id": "qJQiLCwq5NA",
+       "duration": "5:19",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "העימות הסוער בין אודיה לשיר: \"היא הוכיחה שהיא אישה לא נאמנה כלפי בן הזוג שלה\"",
+       "logo": "https://i.ytimg.com/vi/xt87n9TaeWc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDi8I-lY-OhwT1QHW5jrBquTYaFQ",
+       "url": "https://www.youtube.com/watch?v=xt87n9TaeWc",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=xt87n9TaeWc",
+       "id": "xt87n9TaeWc",
+       "duration": "4:26",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"שיר מאוד כוחנית, היא הגבר בבית והיא מסרסת אותו\": הזוגות מגלים מה נאמר עליהם מאחורי הגב",
+       "logo": "https://i.ytimg.com/vi/Qtpbhz_jisw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC53--WKUG3u77g3tbfUS62CdGfMw",
+       "url": "https://www.youtube.com/watch?v=Qtpbhz_jisw",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=Qtpbhz_jisw",
+       "id": "Qtpbhz_jisw",
+       "duration": "5:44",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"צריך רופא דחוף\": מה גרם לשיר ואלעד לעצור באמצע המשימה?",
+       "logo": "https://i.ytimg.com/vi/RJ6FqsN9K7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz40Xn0YlZMojieGXD61spCub1kw",
+       "url": "https://www.youtube.com/watch?v=RJ6FqsN9K7k",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=RJ6FqsN9K7k",
+       "id": "RJ6FqsN9K7k",
+       "duration": "4:09",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"הייתה לנו חוויה מטורפת\": אודיה פינטו ואליאור סופר הודחו מ\"פאוור קאפל\"",
+       "logo": "https://i.ytimg.com/vi/rM6nogcW7yo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxNhz0pBnJVtBbTKRJOdyRFBpQqA",
+       "url": "https://www.youtube.com/watch?v=rM6nogcW7yo",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=rM6nogcW7yo",
+       "id": "rM6nogcW7yo",
+       "duration": "3:33",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הזוגות נגד ההחלטה של שיר ואלעד: \"הזדעזעתי, זה המעשה הכי שפל שיש\"",
+       "logo": "https://i.ytimg.com/vi/yZPzOd28MmY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDw3TydjhZy4oxDURPwXeEtp0oURg",
+       "url": "https://www.youtube.com/watch?v=yZPzOd28MmY",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=yZPzOd28MmY",
+       "id": "yZPzOd28MmY",
+       "duration": "1:49",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "עומרי קנדה בווידוי חשוף: \"אני מחלק סחורה בלילות\"",
+       "logo": "https://i.ytimg.com/vi/XsLIJFXnxd8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2R5j9hdq_SMvbgd5tYWLg88O5Ow",
+       "url": "https://www.youtube.com/watch?v=XsLIJFXnxd8",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=XsLIJFXnxd8",
+       "id": "XsLIJFXnxd8",
+       "duration": "1:58",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"האישה הראשונה בעולם שהצליחה\": עדי בוזגלו עושה את הבלתי אפשרי",
+       "logo": "https://i.ytimg.com/vi/lKhOlmLJMNs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFfeLJvCPjU6WKxpTJO4n9w9AaDw",
+       "url": "https://www.youtube.com/watch?v=lKhOlmLJMNs",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=lKhOlmLJMNs",
+       "id": "lKhOlmLJMNs",
+       "duration": "8:27",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אודיה בווידוי כואב מהילדות: \"רק כשהייתי צועקת מישהו היה שם לב אליי\"",
+       "logo": "https://i.ytimg.com/vi/4yTzgu-HRLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUv333pLQSikeLXADOsQoE1l0ZgA",
+       "url": "https://www.youtube.com/watch?v=4yTzgu-HRLA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=4yTzgu-HRLA",
+       "id": "4yTzgu-HRLA",
+       "duration": "2:36",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "בתום דו קרב מותח: שיר טרן ואלעד תורג'מן חזרו למשחק",
+       "logo": "https://i.ytimg.com/vi/6R6W3fYqyUk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQYk4iTrrMXbnG5S2FTh_oIa8-uQ",
+       "url": "https://www.youtube.com/watch?v=6R6W3fYqyUk",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=6R6W3fYqyUk",
+       "id": "6R6W3fYqyUk",
+       "duration": "5:34",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אודיה פינטו פותחת במתקפה נגד אלעד ושיר: \"אנשים פתטיים. בוגד נשאר בוגד\"",
+       "logo": "https://i.ytimg.com/vi/bozAhBLTv4Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVPggXtL_KgxTD9OgEZ-Pu5Z5w3w",
+       "url": "https://www.youtube.com/watch?v=bozAhBLTv4Y",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=bozAhBLTv4Y",
+       "id": "bozAhBLTv4Y",
+       "duration": "3:05",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"קשה לי להסתכל לכם בעיניים\": מי הזוג השלישי שהודח מ\"פאוור קאפל\"?",
+       "logo": "https://i.ytimg.com/vi/9Vx_x3-Ncs0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwflWdjzPeP5WtSNFRQv--mig0OQ",
+       "url": "https://www.youtube.com/watch?v=9Vx_x3-Ncs0",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=9Vx_x3-Ncs0",
+       "id": "9Vx_x3-Ncs0",
+       "duration": "6:09",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "שיר טרן בווידוי חשוף: \"אני מפחדת שמשהו בי דפוק גנטית\"",
+       "logo": "https://i.ytimg.com/vi/ys0PcvulP_s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4zSHWSmkIkCf1zqgLpG5I2FvbVw",
+       "url": "https://www.youtube.com/watch?v=ys0PcvulP_s",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=ys0PcvulP_s",
+       "id": "ys0PcvulP_s",
+       "duration": "2:39",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"אני עצובה, לא רציתי שהם ילכו\": מי הזוג השני שהודח?",
+       "logo": "https://i.ytimg.com/vi/TLgTOSfG47E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqg4VoJWdUULOHKQLUgTzVQ7PYkQ",
+       "url": "https://www.youtube.com/watch?v=TLgTOSfG47E",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=TLgTOSfG47E",
+       "id": "TLgTOSfG47E",
+       "duration": "4:59",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "העימות בין רונן וקנדה עולה שלב: \"אתה משחק כמו אפס\"",
+       "logo": "https://i.ytimg.com/vi/j7x0z69KD50/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgmVGBfjFeJHusanVAv-gGN_FLVA",
+       "url": "https://www.youtube.com/watch?v=j7x0z69KD50",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=j7x0z69KD50",
+       "id": "j7x0z69KD50",
+       "duration": "2:22",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "שרון נגד הזוגות: \"כולם פה חיילים של אסי ועדי\"",
+       "logo": "https://i.ytimg.com/vi/mLk-La86ldo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLBaBaC3PRGgTYn73WmCAwFmDkfA",
+       "url": "https://www.youtube.com/watch?v=mLk-La86ldo",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=mLk-La86ldo",
+       "id": "mLk-La86ldo",
+       "duration": "3:10",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אחרי הפרישה של חני ויהודה - אודיה לא מתנצלת: \"פחות התחברתי אליהם\"",
+       "logo": "https://i.ytimg.com/vi/U4Le0-dK18M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA8v8uwYTBCfpIlcHj8-iYwG1Big",
+       "url": "https://www.youtube.com/watch?v=U4Le0-dK18M",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=U4Le0-dK18M",
+       "id": "U4Le0-dK18M",
+       "duration": "1:30",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אחרי הריב הסוער עם שיר - עומרי קנדה מגיב: \"את מחפשת אותי על מילים\"",
+       "logo": "https://i.ytimg.com/vi/o0xk-MMudck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo5kh5UEb6TIBqlNvibPLDTR6IKg",
+       "url": "https://www.youtube.com/watch?v=o0xk-MMudck",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=o0xk-MMudck",
+       "id": "o0xk-MMudck",
+       "duration": "2:09",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"אנחנו יוצאים מפה בראש מורם\": ההדחה שהפתיעה את כולם",
+       "logo": "https://i.ytimg.com/vi/sa039EeoJLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO8sMr1hdUa9W4f2s5iVdJs9Ezdg",
+       "url": "https://www.youtube.com/watch?v=sa039EeoJLs",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=sa039EeoJLs",
+       "id": "sa039EeoJLs",
+       "duration": "4:32",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"לעצור! לעצור!\": מה גרם לרון שחר להפסיק את המשימה באמצע?",
+       "logo": "https://i.ytimg.com/vi/uG6KJcDrtPU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-79dtUQjr8k8iqDVGOMArNeHXJg",
+       "url": "https://www.youtube.com/watch?v=uG6KJcDrtPU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=uG6KJcDrtPU",
+       "id": "uG6KJcDrtPU",
+       "duration": "1:42",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אסי בוזגלו משתף: \"היו סצנות שהייתי רואה את עצמי צורח - ונגעל\"",
+       "logo": "https://i.ytimg.com/vi/B2E_Wi5Bc9o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV_5VccAOwKBydHYBuCHlAbJMUmg",
+       "url": "https://www.youtube.com/watch?v=B2E_Wi5Bc9o",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=B2E_Wi5Bc9o",
+       "id": "B2E_Wi5Bc9o",
+       "duration": "1:49",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "עימות סוער בין אודיה פינטו לאורי בנאי: \"אל תנסה להקטין אותי\"",
+       "logo": "https://i.ytimg.com/vi/V83mc8H9VWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkwYeSgPuNb1LxBE35OPK5I7VSbA",
+       "url": "https://www.youtube.com/watch?v=V83mc8H9VWk",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=V83mc8H9VWk",
+       "id": "V83mc8H9VWk",
+       "duration": "3:33",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"לא ציפיתי שנגיע לדברים כאלה\": אחרי הריב הסוער - אסי ושיר משלימים",
+       "logo": "https://i.ytimg.com/vi/EM-CqmUh5OE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv-OE9hwsrLoWG1DHi3S5KY-XXtg",
+       "url": "https://www.youtube.com/watch?v=EM-CqmUh5OE",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=EM-CqmUh5OE",
+       "id": "EM-CqmUh5OE",
+       "duration": "2:51",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"אתה לא תעשה קרקס על הגב שלי\": העימות הסוער בין עומרי קנדה לשיר טרן",
+       "logo": "https://i.ytimg.com/vi/fdvxx0gfoJI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDNm9ogIPjqfKIdubBxVUaaCw4Zg",
+       "url": "https://www.youtube.com/watch?v=fdvxx0gfoJI",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=fdvxx0gfoJI",
+       "id": "fdvxx0gfoJI",
+       "duration": "3:44",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אחרי ההדחה הדרמטית, אסי בוזגלו מתעמת עם אלעד ושיר: \"זו בגידה באמון\"",
+       "logo": "https://i.ytimg.com/vi/FYCJ7baj35A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGv04D-CSuciJBMAYTJUgSU-yiAw",
+       "url": "https://www.youtube.com/watch?v=FYCJ7baj35A",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=FYCJ7baj35A",
+       "id": "FYCJ7baj35A",
+       "duration": "5:04",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"מרגיש שקיבלנו סכין בגב\": מי הזוג הראשון שסיים את דרכו בתום ההדחה הדרמטית?",
+       "logo": "https://i.ytimg.com/vi/9An9kJZYsw8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvGaj0E-KR3aNj8U3ZzCUuH9d_eg",
+       "url": "https://www.youtube.com/watch?v=9An9kJZYsw8",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=9An9kJZYsw8",
+       "id": "9An9kJZYsw8",
+       "duration": "7:20",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "המשימה שהפכה לעימות בין אודיה לאליאור: \"מה אתה מטומטם, מה הבעיה לזכור?\"",
+       "logo": "https://i.ytimg.com/vi/NvoAscglIoI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqXxUvigSdoDP0P-x1ISc6dQcaZQ",
+       "url": "https://www.youtube.com/watch?v=NvoAscglIoI",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=NvoAscglIoI",
+       "id": "NvoAscglIoI",
+       "duration": "3:37",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "לאחר ההפסד במשימה - אסי בוזגלו נשבר: \"אל תגיד לי שאתה עומד לבכות\"",
+       "logo": "https://i.ytimg.com/vi/JXu1UUW1QKk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeysKbjh-gz65GfdwndwOiPeZvnA",
+       "url": "https://www.youtube.com/watch?v=JXu1UUW1QKk",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=JXu1UUW1QKk",
+       "id": "JXu1UUW1QKk",
+       "duration": "2:04",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "אחרי שהפסידו במשימה, דורין מתאכזבת מעומרי: \"אני לא חשובה לך?\"",
+       "logo": "https://i.ytimg.com/vi/m5yn6Zbem5E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtxx2NC7jQofNNmcL2PnsY2tGqoA",
+       "url": "https://www.youtube.com/watch?v=m5yn6Zbem5E",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=m5yn6Zbem5E",
+       "id": "m5yn6Zbem5E",
+       "duration": "1:41",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"יש לו פה גדול שהרס לו\": האם זה הסוף של החברות בין אסי בוזגלו לעומרי קנדה?",
+       "logo": "https://i.ytimg.com/vi/6HzHGHVdksA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkLGZtBsnutiroySnWmUkD5R8_3w",
+       "url": "https://www.youtube.com/watch?v=6HzHGHVdksA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=6HzHGHVdksA",
+       "id": "6HzHGHVdksA",
+       "duration": "5:02",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "שיר טרן משתפת: \"אקסים אמרו לי לירוק את האוכל כדי לא לעלות במשקל\"",
+       "logo": "https://i.ytimg.com/vi/JqCSqmMAGVc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOxCU-bHjucv9KHusDD-y2n7yonA",
+       "url": "https://www.youtube.com/watch?v=JqCSqmMAGVc",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=JqCSqmMAGVc",
+       "id": "JqCSqmMAGVc",
+       "duration": "2:40",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"אני לא מאמינה שאמרתי את זה\": הסוד של חני נחמיאס נחשף לראשונה",
+       "logo": "https://i.ytimg.com/vi/-fETSpne26o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIMS3Eb0o3v9-U3qWKCo0yvFqjPg",
+       "url": "https://www.youtube.com/watch?v=-fETSpne26o",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=-fETSpne26o",
+       "id": "-fETSpne26o",
+       "duration": "4:24",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"מי את שתדברי על החינוך של בעלי?\": האמירה שהציתה עימות בין אודיה לשיר",
+       "logo": "https://i.ytimg.com/vi/hACE_Clfpho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEQbfnVnuSEaAlHbLRsWR6fZRiTQ",
+       "url": "https://www.youtube.com/watch?v=hACE_Clfpho",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=hACE_Clfpho",
+       "id": "hACE_Clfpho",
+       "duration": "5:15",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "מי הזוג שניצח במשימת הפתיחה של העונה - ומי סיים במקום אחרון?",
+       "logo": "https://i.ytimg.com/vi/EfXh8OEHJ0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPR39jTw6E4nzpBrvKQeDYynIgeQ",
+       "url": "https://www.youtube.com/watch?v=EfXh8OEHJ0U",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=EfXh8OEHJ0U",
+       "id": "EfXh8OEHJ0U",
+       "duration": "8:10",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"מי נראים הכי פחות מחוברים?\": התשובה המפתיעה של הזוגות לשאלה",
+       "logo": "https://i.ytimg.com/vi/rbPfI_axqz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADCnAB-VhjDzh1YV5HmEybsaACJQ",
+       "url": "https://www.youtube.com/watch?v=rbPfI_axqz0",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=rbPfI_axqz0",
+       "id": "rbPfI_axqz0",
+       "duration": "3:25",
+       "resolve": "ytdlp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "חיים כפולים",
+   "type": "vod",
+   "source": "youtube",
+   "resolve": "ytdlp",
+   "logo": "https://i.ytimg.com/vi/lBf1ViyrU30/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB5jGSgmIVAqZM602uAdDZwWBT5CA",
+   "program_url": "https://www.youtube.com/playlist?list=PL5tTMlIkxhYe1ms3s3Kq_Ix-NW3ikR_aR",
+   "updated": "2026-10-28 20:34",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הצצה לפרק הסיום של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/lBf1ViyrU30/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCkGwM1oOv-U6N4eHYt7520C0fozQ",
+       "url": "https://www.youtube.com/shorts/lBf1ViyrU30",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/lBf1ViyrU30",
+       "id": "lBf1ViyrU30",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הצצה לפרק 31 של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/bgWyxZCC8wA/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCafVfg1e0cOnPwO1VM9rriJX4TVA",
+       "url": "https://www.youtube.com/shorts/bgWyxZCC8wA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/bgWyxZCC8wA",
+       "id": "bgWyxZCC8wA",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הצצה לפרק 30 של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/C4vXBspkS3k/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDTU-07WWaSIlQuUkq5QHVGfhSPSQ",
+       "url": "https://www.youtube.com/shorts/C4vXBspkS3k",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/C4vXBspkS3k",
+       "id": "C4vXBspkS3k",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הצצה לפרק 29 של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/rCuKW7bj6fU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBJPFbE39aD62J49x44yIvYsEv7xA",
+       "url": "https://www.youtube.com/shorts/rCuKW7bj6fU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/rCuKW7bj6fU",
+       "id": "rCuKW7bj6fU",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הצצה לפרק 28 של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/bHfSk0iyC7A/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDH6ASRmkoFrsOfL5ENdwYmHgdxIw",
+       "url": "https://www.youtube.com/shorts/bHfSk0iyC7A",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/bHfSk0iyC7A",
+       "id": "bHfSk0iyC7A",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הצצה לפרק 27 של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/dXX34FRQqpU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBf8CnwGfL8-UMB0DHGA8uG8PyHfQ",
+       "url": "https://www.youtube.com/shorts/dXX34FRQqpU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/dXX34FRQqpU",
+       "id": "dXX34FRQqpU",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הצצה לפרק 26 של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/JHOxwGhNQJA/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCRfVXiHxm-rnBUGoJvZR4EfAmT7w",
+       "url": "https://www.youtube.com/shorts/JHOxwGhNQJA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/JHOxwGhNQJA",
+       "id": "JHOxwGhNQJA",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הצצה לפרק 25 של חיים כפולים | הפרק המלא זמין לצפייה באפליקציית 13+",
+       "logo": "https://i.ytimg.com/vi/g-dZ5Y1ehqc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA3IhGnF5EFgmlORq_ApHdtBhRRtg",
+       "url": "https://www.youtube.com/shorts/g-dZ5Y1ehqc",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/g-dZ5Y1ehqc",
+       "id": "g-dZ5Y1ehqc",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 24: לא שבר, משבר",
+       "logo": "https://i.ytimg.com/vi/g-Sd84GOLuw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCEaT7MMcBIZtN5FoKUBQDOPvwqxg",
+       "url": "https://www.youtube.com/shorts/g-Sd84GOLuw",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/g-Sd84GOLuw",
+       "id": "g-Sd84GOLuw",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 23: אמת או שקר",
+       "logo": "https://i.ytimg.com/vi/vLYYvCqBg68/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD4zLsFVK3ZPj6YoBIfg74ZlWV3TA",
+       "url": "https://www.youtube.com/shorts/vLYYvCqBg68",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/vLYYvCqBg68",
+       "id": "vLYYvCqBg68",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 22: בחירות קשות",
+       "logo": "https://i.ytimg.com/vi/sWVRmW8CmtE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLA6f49wEf4QXCllSFzEa_YqRJScYg",
+       "url": "https://www.youtube.com/shorts/sWVRmW8CmtE",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/sWVRmW8CmtE",
+       "id": "sWVRmW8CmtE",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 21: הטלפון המוסתר",
+       "logo": "https://i.ytimg.com/vi/rdDs20GZ9ec/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCX0kqV_R6oX5S2-HQKTLtqPcihxg",
+       "url": "https://www.youtube.com/shorts/rdDs20GZ9ec",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/rdDs20GZ9ec",
+       "id": "rdDs20GZ9ec",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 20: לילה שיוצא משליטה",
+       "logo": "https://i.ytimg.com/vi/mevbDhls9gA/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAgxu8N8M7c5KwuN2m3mdZkd_fcWQ",
+       "url": "https://www.youtube.com/shorts/mevbDhls9gA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/mevbDhls9gA",
+       "id": "mevbDhls9gA",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 19: ריבאונד",
+       "logo": "https://i.ytimg.com/vi/QK2pisNFlvc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBGk7Muu0mHufNZ0vn5B2uYayhFpA",
+       "url": "https://www.youtube.com/shorts/QK2pisNFlvc",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/QK2pisNFlvc",
+       "id": "QK2pisNFlvc",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 18: יצאנו לרקוד",
+       "logo": "https://i.ytimg.com/vi/HMjwJbDphX8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAKHw8pyfK3mWCUza8lRGsW0LIOQQ",
+       "url": "https://www.youtube.com/shorts/HMjwJbDphX8",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/HMjwJbDphX8",
+       "id": "HMjwJbDphX8",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 17: נצמדת אלי",
+       "logo": "https://i.ytimg.com/vi/L_xyM_OXiRc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAaUJs4hXdtXtQQWrM3qwykenDrZw",
+       "url": "https://www.youtube.com/shorts/L_xyM_OXiRc",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/L_xyM_OXiRc",
+       "id": "L_xyM_OXiRc",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 16: תתקדמי",
+       "logo": "https://i.ytimg.com/vi/gL7ka-jTzu0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAKEfke8oyJIPJnHSiA9KhdW-7WAA",
+       "url": "https://www.youtube.com/shorts/gL7ka-jTzu0",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/gL7ka-jTzu0",
+       "id": "gL7ka-jTzu0",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 15: שקר צף",
+       "logo": "https://i.ytimg.com/vi/CUu_NsWkW8U/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBoi_g4pFC_NTEWsqOHLK0U3iYl0Q",
+       "url": "https://www.youtube.com/shorts/CUu_NsWkW8U",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/CUu_NsWkW8U",
+       "id": "CUu_NsWkW8U",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 14 חלק ב': התהפכו היוצרות",
+       "logo": "https://i.ytimg.com/vi/GanYBuJT2a4/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDPa8tKsdoI6NlVRc6-J-bGEtjhfA",
+       "url": "https://www.youtube.com/shorts/GanYBuJT2a4",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/GanYBuJT2a4",
+       "id": "GanYBuJT2a4",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 14 חלק א': התהפכו היוצרות",
+       "logo": "https://i.ytimg.com/vi/AJ9oVyCCAT0/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLChd_qNhAAkhafJHbCnS5NPxq8beA",
+       "url": "https://www.youtube.com/shorts/AJ9oVyCCAT0",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/AJ9oVyCCAT0",
+       "id": "AJ9oVyCCAT0",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 13: סודות",
+       "logo": "https://i.ytimg.com/vi/0osOY_rjAAc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCqIRB0wsuRMfgnpHc6UVIng_hRxA",
+       "url": "https://www.youtube.com/shorts/0osOY_rjAAc",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/0osOY_rjAAc",
+       "id": "0osOY_rjAAc",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 12: חישוב מסלול מחדש",
+       "logo": "https://i.ytimg.com/vi/dZYVD1CSK1w/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDinMsLi2nrv9WBmH7Id20DJYFcUw",
+       "url": "https://www.youtube.com/shorts/dZYVD1CSK1w",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/dZYVD1CSK1w",
+       "id": "dZYVD1CSK1w",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 11: מלכוד",
+       "logo": "https://i.ytimg.com/vi/4u1F8cKd16g/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAkHudA0j59QD1J-XbWU9ZqG4HYoA",
+       "url": "https://www.youtube.com/shorts/4u1F8cKd16g",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/4u1F8cKd16g",
+       "id": "4u1F8cKd16g",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 10: כסף תמורת אהבה",
+       "logo": "https://i.ytimg.com/vi/ktJPBctT39Y/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB44cT2WX6Zq180uRtBeUs_Draepw",
+       "url": "https://www.youtube.com/shorts/ktJPBctT39Y",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/ktJPBctT39Y",
+       "id": "ktJPBctT39Y",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 9: הצעה שאי אפשר לסרב לה",
+       "logo": "https://i.ytimg.com/vi/dUuWJdDKaIw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBWwZmz7ul0314WtzcJYBcW7JIz_g",
+       "url": "https://www.youtube.com/shorts/dUuWJdDKaIw",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/dUuWJdDKaIw",
+       "id": "dUuWJdDKaIw",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 8: עולמות שונים",
+       "logo": "https://i.ytimg.com/vi/11IbfBbganY/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCSiqHao_kOMByN19xpMc7QQ_7wOg",
+       "url": "https://www.youtube.com/shorts/11IbfBbganY",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/11IbfBbganY",
+       "id": "11IbfBbganY",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 7: אמת או חובה",
+       "logo": "https://i.ytimg.com/vi/3q8C5GRT0Lw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBf4zex_bYL6XAswC9c_8HOiI9kcg",
+       "url": "https://www.youtube.com/shorts/3q8C5GRT0Lw",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/3q8C5GRT0Lw",
+       "id": "3q8C5GRT0Lw",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 6: מפגש מקרי",
+       "logo": "https://i.ytimg.com/vi/47VgLyEyfkU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBEseRbnoaQnyCvx1oj7T6WDQvb4g",
+       "url": "https://www.youtube.com/shorts/47VgLyEyfkU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/47VgLyEyfkU",
+       "id": "47VgLyEyfkU",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 5: אובדן שליטה",
+       "logo": "https://i.ytimg.com/vi/IWxvDrtPzTc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBfIHiwL0e0uByt9ICXAHptO3D9sQ",
+       "url": "https://www.youtube.com/shorts/IWxvDrtPzTc",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/IWxvDrtPzTc",
+       "id": "IWxvDrtPzTc",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 4: עם הגב לקיר",
+       "logo": "https://i.ytimg.com/vi/QSXffZhwAnA/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAvtYayVOl7NXHsO7AhfOenHCx5xw",
+       "url": "https://www.youtube.com/shorts/QSXffZhwAnA",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/QSXffZhwAnA",
+       "id": "QSXffZhwAnA",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 3 חלק ב': בחירה אחת שמשנה את הגורל",
+       "logo": "https://i.ytimg.com/vi/GbOxhQtpclQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC0V7Ru6u_H-HprJh6qw2o3_9WXPw",
+       "url": "https://www.youtube.com/shorts/GbOxhQtpclQ",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/GbOxhQtpclQ",
+       "id": "GbOxhQtpclQ",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 3 חלק א': בחירה אחת שמשנה את הגורל",
+       "logo": "https://i.ytimg.com/vi/ve_G91BrlWU/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDlB8SF9KUKLUzKq-b6JjCEvP6ycg",
+       "url": "https://www.youtube.com/shorts/ve_G91BrlWU",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/ve_G91BrlWU",
+       "id": "ve_G91BrlWU",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 2: שברון לב",
+       "logo": "https://i.ytimg.com/vi/w4lpIzkHW3c/oar2.jpg?sqp=-oaymwEdCJsDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDzg09ZJsnCd3psynC9a96d3Bd-gw",
+       "url": "https://www.youtube.com/shorts/w4lpIzkHW3c",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/w4lpIzkHW3c",
+       "id": "w4lpIzkHW3c",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "חיים כפולים - פרק 1: תמונה אחת שווה אלף מילים",
+       "logo": "https://i.ytimg.com/vi/hqsbImdez_Q/oardefault.jpg?sqp=-oaymwEdCJsDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB3K1mKBFOWuCC1r5k5qyoLmokstQ",
+       "url": "https://www.youtube.com/shorts/hqsbImdez_Q",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/hqsbImdez_Q",
+       "id": "hqsbImdez_Q",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "כוכבי הסדרה \"חיים כפולים\" עושים סדר במה שכולכם צריכים לדעת😉😱",
+       "logo": "https://i.ytimg.com/vi/sp6BE8WdYIM/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD4WADdSbHL58yjz8B5mur_2tvF1g",
+       "url": "https://www.youtube.com/shorts/sp6BE8WdYIM",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/sp6BE8WdYIM",
+       "id": "sp6BE8WdYIM",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "כמה רחוק אפשר ללכת בשביל לשמור סוד?😱 | חיים כפולים - רביעי ב-13+",
+       "logo": "https://i.ytimg.com/vi/R98sLIqEBLE/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDmDCUZQlaHpL874DtH1NYUENPi1Q",
+       "url": "https://www.youtube.com/shorts/R98sLIqEBLE",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/R98sLIqEBLE",
+       "id": "R98sLIqEBLE",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "התגובות של קאסט \"חיים כפולים\" בזמן הצפייה הראשונה בפרק הבכורה😱",
+       "logo": "https://i.ytimg.com/vi/m-jfRs5iwJI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAKl1lb6mTunOuGEjYwQUYs47g-DA",
+       "url": "https://www.youtube.com/shorts/m-jfRs5iwJI",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/m-jfRs5iwJI",
+       "id": "m-jfRs5iwJI",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "פגשנו את הקאסט של \"חיים כפולים\" ושאלנו אותם את כל מה שכולם רוצים לדעת👀‼️",
+       "logo": "https://i.ytimg.com/vi/iW8KQxhgWkQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDDkmU_raIukEQiqaVkaW8tD3QECQ",
+       "url": "https://www.youtube.com/shorts/iW8KQxhgWkQ",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/iW8KQxhgWkQ",
+       "id": "iW8KQxhgWkQ",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "מאחורי הקלעים של \"חיים כפולים\"🤣",
+       "logo": "https://i.ytimg.com/vi/DVbPvlLGMNs/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDYpb2aky2LihZhJYK6joDC5m5mpw",
+       "url": "https://www.youtube.com/shorts/DVbPvlLGMNs",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/DVbPvlLGMNs",
+       "id": "DVbPvlLGMNs",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "רגע לפני ש\"חיים כפולים\" מגיעה אליכם - מייה שם ואביתר עוזרי עונים על השאלות הכי חשובות😱",
+       "logo": "https://i.ytimg.com/vi/t-0gOwiN8rQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCtH1vf0yih3t-C9fY4w4wYe21woA",
+       "url": "https://www.youtube.com/shorts/t-0gOwiN8rQ",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/shorts/t-0gOwiN8rQ",
+       "id": "t-0gOwiN8rQ",
+       "duration": null,
+       "resolve": "ytdlp"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
