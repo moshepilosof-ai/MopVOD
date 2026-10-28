@@ -269,23 +269,25 @@ def fill_dates(data, status=None, limit=None, workers=DATE_WORKERS):
     done = ok = 0
     total = len(todo)
     status.update(step=f"משלים תאריכים 0/{total}", progress=0)
+    stop = False
+    # בקבוצות קטנות: עצירה (ביטול, או חסימה של YouTube) לא מחכה לאלפי משימות שכבר נשלחו לתור
     with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, workers)) as ex:
-        futures = {ex.submit(_video_date, ep["url"]): ep for ep in todo}
-        for fut in concurrent.futures.as_completed(futures):
-            ep = futures[fut]
-            date, plot = fut.result()
-            done += 1
-            if date:
-                ep["date"] = date
-                if plot and not ep.get("plot"):
-                    ep["plot"] = plot
-                ok += 1
-            if done % 25 == 0 or done == total:
-                status.update(step=f"משלים תאריכים {done}/{total}", progress=done / total)
+        for i in range(0, total, max(1, workers) * 3):
+            batch = todo[i:i + max(1, workers) * 3]
+            for ep, (date, plot) in zip(batch, ex.map(_video_date, [ep["url"] for ep in batch])):
+                done += 1
+                if date:
+                    ep["date"] = date
+                    if plot and not ep.get("plot"):
+                        ep["plot"] = plot
+                    ok += 1
+            status.update(step=f"משלים תאריכים {done}/{total}", progress=done / total)
             if status.get("cancel"):
-                break
+                stop = True
             if done >= 20 and ok == 0:
-                status.update(step="השלמת תאריכים נעצרה: YouTube לא עונה לבקשות הבודדות (ימולא בריצה הבאה)")
+                status.update(step="השלמת תאריכים נעצרה: YouTube לא עונה לבקשות הבודדות מכאן (ימולא מהמחשב או עם מפתח API)")
+                stop = True
+            if stop:
                 break
     return ok
 
