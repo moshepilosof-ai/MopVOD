@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-965458/",
    "series_id": "965458",
-   "updated": "2026-10-28 11:18",
+   "updated": "2026-10-29 10:32",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "יוצרים מן הכלל | אליעזר מצייר על נשקים",
+       "logo": "https://www.kan.org.il/media/amvbn42j/1_00028.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260203/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "\"אני אומן והתפקיד שלי זה לפרק את המערכת מבפנים\": אליעזר זוננשטיין מצייר על כלי נשק ואפילו מגניב יצירות שלו לתוך מוזיאונים ברחבי העולם",
+       "page": "https://www.kan.org.il/content/dig/digital/p-965458/s1/1114076/",
+       "id": "1114076",
+       "season": 1
+      },
       {
        "name": "יוצרים מן הכלל | רוני מספרת סיפורים דרך מחול",
        "logo": "https://www.kan.org.il/media/j3fdl13p/dp_3044-roni.jpg",

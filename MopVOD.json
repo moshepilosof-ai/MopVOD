@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-29 00:33",
+ "updated": "2026-10-29 10:39",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -3857,10 +3857,10 @@
   {
    "name": "כאן 11 - יוצרים מן הכלל",
    "file": "vod/kan_965458.json",
-   "episodes": 2,
+   "episodes": 3,
    "seasons": 1,
-   "updated": "2026-10-28 11:18",
-   "newest": "2026-02-16",
+   "updated": "2026-10-29 10:32",
+   "newest": "2026-10-29",
    "oldest": "2025-10-29"
   },
   {
@@ -4102,16 +4102,16 @@
    "file": "vod/yt_UCig6uBmo-4yWSJtUBGoLMAw.json",
    "episodes": 3,
    "seasons": 1,
-   "updated": "2026-10-28 20:06",
-   "newest": null,
-   "oldest": null
+   "updated": "2026-10-29 02:54",
+   "newest": "2026-03-08",
+   "oldest": "2026-03-08"
   },
   {
    "name": "Steve Boyes on #AfricaEarthsWildHome",
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-10-28 23:23",
+   "updated": "2026-10-29 07:42",
    "newest": null,
    "oldest": null
   },
@@ -4120,7 +4120,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-10-28 19:59",
+   "updated": "2026-10-29 08:02",
    "newest": null,
    "oldest": null
   },
