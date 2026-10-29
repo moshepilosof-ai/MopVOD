@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-29 10:39",
+ "updated": "2026-10-29 20:49",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -23,10 +23,10 @@
   {
    "name": "כאן 11 - המהדורה המרכזית",
    "file": "vod/kan11_news.json",
-   "episodes": 2269,
+   "episodes": 2270,
    "seasons": 1,
-   "updated": "2026-10-29 00:28",
-   "newest": "2026-10-28",
+   "updated": "2026-10-29 20:44",
+   "newest": "2026-10-29",
    "oldest": "2017-11-28"
   },
   {
@@ -725,9 +725,9 @@
   {
    "name": "כאן 11 - דאבל על הכסף",
    "file": "vod/kan_1103859.json",
-   "episodes": 16,
+   "episodes": 17,
    "seasons": 2,
-   "updated": "2026-10-28 09:39",
+   "updated": "2026-10-29 20:35",
    "newest": "2026-10-12",
    "oldest": "2026-09-28"
   },
@@ -743,10 +743,10 @@
   {
    "name": "כאן 11 - שבע",
    "file": "vod/kan_11039.json",
-   "episodes": 891,
+   "episodes": 892,
    "seasons": 1,
-   "updated": "2026-10-28 13:26",
-   "newest": "2026-10-26",
+   "updated": "2026-10-29 20:48",
+   "newest": "2026-10-29",
    "oldest": "2023-03-05"
   },
   {
@@ -869,10 +869,10 @@
   {
    "name": "כאן 11 - שרון ואורי",
    "file": "vod/kan_11288.json",
-   "episodes": 558,
+   "episodes": 559,
    "seasons": 1,
-   "updated": "2026-10-28 13:38",
-   "newest": "2026-10-24",
+   "updated": "2026-10-29 20:49",
+   "newest": "2026-10-29",
    "oldest": "2017-10-13"
   },
   {
@@ -1292,10 +1292,10 @@
   {
    "name": "כאן 11 - מהצד השני עם גיא זהר",
    "file": "vod/kan_12463.json",
-   "episodes": 1721,
+   "episodes": 1722,
    "seasons": 3,
-   "updated": "2026-10-28 19:45",
-   "newest": "2026-10-28",
+   "updated": "2026-10-29 20:44",
+   "newest": "2026-10-29",
    "oldest": "2019-02-17"
   },
   {
@@ -2750,10 +2750,10 @@
   {
    "name": "כאן 11 - שום פלפל ושמן זית",
    "file": "vod/kan_682519.json",
-   "episodes": 75,
+   "episodes": 74,
    "seasons": 3,
-   "updated": "2026-10-28 13:27",
-   "newest": "2026-10-22",
+   "updated": "2026-10-29 20:48",
+   "newest": "2026-09-24",
    "oldest": "2024-01-17"
   },
   {
@@ -3407,9 +3407,9 @@
   {
    "name": "כאן 11 - כאן בשש",
    "file": "vod/kan_821794.json",
-   "episodes": 424,
+   "episodes": 425,
    "seasons": 1,
-   "updated": "2026-10-28 11:25",
+   "updated": "2026-10-29 20:41",
    "newest": "2027-07-23",
    "oldest": "2024-11-10"
   },
@@ -4102,9 +4102,9 @@
    "file": "vod/yt_UCig6uBmo-4yWSJtUBGoLMAw.json",
    "episodes": 3,
    "seasons": 1,
-   "updated": "2026-10-29 02:54",
-   "newest": "2026-03-08",
-   "oldest": "2026-03-08"
+   "updated": "2026-10-28 20:06",
+   "newest": null,
+   "oldest": null
   },
   {
    "name": "Steve Boyes on #AfricaEarthsWildHome",
@@ -4112,15 +4112,15 @@
    "episodes": 4,
    "seasons": 1,
    "updated": "2026-10-29 07:42",
-   "newest": null,
-   "oldest": null
+   "newest": "2026-09-28",
+   "oldest": "2026-09-18"
   },
   {
    "name": "חדשות בעולם",
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-10-29 08:02",
+   "updated": "2026-10-28 19:59",
    "newest": null,
    "oldest": null
   },
@@ -4130,8 +4130,8 @@
    "episodes": 10,
    "seasons": 1,
    "updated": "2026-10-28 23:38",
-   "newest": null,
-   "oldest": null
+   "newest": "2015-02-20",
+   "oldest": "2006-06-27"
   },
   {
    "name": "nasa - All Videos sorted by Date",

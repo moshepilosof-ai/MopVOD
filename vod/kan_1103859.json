@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1103859/",
    "series_id": "1103859",
-   "updated": "2026-10-28 09:39",
+   "updated": "2026-10-29 20:35",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "דאבל על הכסף | פרק 6",
+       "logo": "https://www.kan.org.il/media/l0nf5aga/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250231/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "איך מכפילים 8,000 שקלים ב-5 ימים? אורית ושלומי מגלים שקוקוס הוא טעם נרכש, עדי ולירון מגלות שלוקיישן זה הכל, ומאור וסבתא דבורה מגלות שכדאי לספור את הכסף. מי הזוג שיודח בסוף המשימה? מנחה: אגם רודברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/s1/1103865/",
+       "id": "1103865",
+       "season": 1
+      },
       {
        "name": "דאבל על הכסף | פרק 5",
        "logo": "https://www.kan.org.il/media/k05pklni/פרק-חמש-אתר.jpg",

@@ -6,7 +6,7 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-821794/",
    "series_id": "821794",
-   "updated": "2026-10-28 11:25",
+   "updated": "2026-10-29 20:41",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -46,6 +46,15 @@
        "plot": "הסיפורים הכי מעניינים בחדשות, הדיווחים והראיונות עם האנשים הכי רלוונטיים שנמצאים על סדר היום.",
        "page": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1079322/",
        "id": "1079322"
+      },
+      {
+       "name": "כאן בשש | 29.10.26",
+       "logo": "https://www.kan.org.il/media/uimpdmiz/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260237/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "מהדורת סיכום חדשות היום עם עדכונים שוטפים, כותרות וניתוחי עומק של האירועים האקטואליים המרכזיים בארץ ובעולם.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1114192/",
+       "id": "1114192"
       },
       {
        "name": "כאן בשש | 26.10.26",
