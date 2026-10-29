@@ -69,17 +69,6 @@
    "updated": "2026-10-29 00:17"
   },
   {
-   "id": "yt_http___vod_c14_co_il",
-   "name": "http://vod.c14.co.il",
-   "url": "http://vod.c14.co.il",
-   "logo": "",
-   "file": "vod/yt_http___vod_c14_co_il.json",
-   "programs": 1,
-   "episodes": 1,
-   "source": "youtube",
-   "updated": "2026-10-29 15:45"
-  },
-  {
    "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
    "name": "חדשות 13",
    "url": "https://www.youtube.com/channel/UCvQmPpU20hw1Trss_CVwaew",
