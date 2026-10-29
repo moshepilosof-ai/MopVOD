@@ -10,14 +10,14 @@
    "resolve": "ytdlp",
    "logo": "",
    "program_url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw/videos",
-   "updated": "2026-10-29 02:54",
+   "updated": "2026-10-28 20:06",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
       {
        "name": "המירוץ למיליון 2026 עונה 2 פרק 12 איכות 1080p",
-       "logo": "https://i.ytimg.com/vi/IVdjLqKGMKI/hqdefault.jpg",
+       "logo": "https://i.ytimg.com/vi/IVdjLqKGMKI/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgWIDcofzAP&rs=AOn4CLC73CKfrpVZ-RNzdSVQNu41OfHN0w",
        "url": "https://www.youtube.com/watch?v=IVdjLqKGMKI",
        "date": null,
        "plot": "",
@@ -28,10 +28,10 @@
       },
       {
        "name": "המירוץ למיליון עונה 2 פרק 12",
-       "logo": "https://i.ytimg.com/vi/ZdEWGgvUP-A/hqdefault.jpg",
+       "logo": "https://i.ytimg.com/vi/ZdEWGgvUP-A/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE4oTDAP&rs=AOn4CLCKW0Z8VBweYwCLrRi2TQYgtncxXg",
        "url": "https://www.youtube.com/watch?v=ZdEWGgvUP-A",
-       "date": "2026-03-08",
-       "plot": "07.03.26\nמאי ואיתי ההתפרקות\nהאם החברות בין מאי ואיתי מתפרקת על המדרגות הארוכות בעולם? וגם: שלומי ואסף התכוננו להכל, אבל הם לא ציפו למשימה שנגעה לשלומי בנקודה הכי רגישה",
+       "date": null,
+       "plot": "",
        "page": "https://www.youtube.com/watch?v=ZdEWGgvUP-A",
        "id": "ZdEWGgvUP-A",
        "duration": "11:29",
@@ -39,7 +39,7 @@
       },
       {
        "name": "כוכבים בריבוע עונה 1 פרק 6",
-       "logo": "https://i.ytimg.com/vi/fbmmmnrBS28/hqdefault.jpg",
+       "logo": "https://i.ytimg.com/vi/fbmmmnrBS28/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGEoUDAP&rs=AOn4CLAXV2K8aNcqaEE6XIH3f-3gAFj0JA",
        "url": "https://www.youtube.com/watch?v=fbmmmnrBS28",
        "date": null,
        "plot": "",
