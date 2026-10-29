@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-29 15:44",
+ "updated": "2026-10-29 15:45",
  "sources": [
   {
    "id": "yt_UCpVm7bg6pXKo1Pr6k5kxG9A",
@@ -89,6 +89,17 @@
    "episodes": 3,
    "source": "youtube",
    "updated": "2026-10-28 20:06"
+  },
+  {
+   "id": "yt_http___vod_c14_co_il",
+   "name": "http://vod.c14.co.il",
+   "url": "http://vod.c14.co.il",
+   "logo": "",
+   "file": "vod/yt_http___vod_c14_co_il.json",
+   "programs": 1,
+   "episodes": 1,
+   "source": "youtube",
+   "updated": "2026-10-29 15:45"
   }
  ]
 }
