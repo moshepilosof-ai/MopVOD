@@ -1,14 +1,32 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-28 20:26",
+ "updated": "2026-10-29 00:33",
  "sources": [
+  {
+   "name": "Sci-Fi / Horror",
+   "file": "vod/ia_SciFi_Horror.json",
+   "episodes": 950,
+   "seasons": 13,
+   "updated": "2026-10-29 00:09",
+   "newest": "2015-10-06",
+   "oldest": "1903-01-01"
+  },
+  {
+   "name": "Classic TV",
+   "file": "vod/ia_classic_tv.json",
+   "episodes": 1000,
+   "seasons": 10,
+   "updated": "2026-10-29 00:17",
+   "newest": "2024-06-05",
+   "oldest": "1945-01-01"
+  },
   {
    "name": "כאן 11 - המהדורה המרכזית",
    "file": "vod/kan11_news.json",
-   "episodes": 2268,
+   "episodes": 2269,
    "seasons": 1,
-   "updated": "2026-10-28 12:07",
-   "newest": "2026-10-27",
+   "updated": "2026-10-29 00:28",
+   "newest": "2026-10-28",
    "oldest": "2017-11-28"
   },
   {
@@ -941,10 +959,10 @@
   {
    "name": "כאן 11 - חדשות הלילה",
    "file": "vod/kan_11602.json",
-   "episodes": 2042,
+   "episodes": 2043,
    "seasons": 1,
-   "updated": "2026-10-28 11:04",
-   "newest": "2026-10-26",
+   "updated": "2026-10-29 00:24",
+   "newest": "2026-10-28",
    "oldest": "2017-12-10"
   },
   {
@@ -4080,15 +4098,6 @@
    "oldest": "2026-02-12"
   },
   {
-   "name": "הארץ המובטחת - עונה 1",
-   "file": "vod/yt_UCOyYs3ZtsGMmt3L5eaywsXA.json",
-   "episodes": 13,
-   "seasons": 1,
-   "updated": "2026-10-28 19:53",
-   "newest": null,
-   "oldest": null
-  },
-  {
    "name": "כל הסרטונים",
    "file": "vod/yt_UCig6uBmo-4yWSJtUBGoLMAw.json",
    "episodes": 3,
@@ -4098,11 +4107,47 @@
    "oldest": null
   },
   {
+   "name": "Steve Boyes on #AfricaEarthsWildHome",
+   "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
+   "episodes": 4,
+   "seasons": 1,
+   "updated": "2026-10-28 23:23",
+   "newest": null,
+   "oldest": null
+  },
+  {
    "name": "חדשות בעולם",
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
    "updated": "2026-10-28 19:59",
+   "newest": null,
+   "oldest": null
+  },
+  {
+   "name": "Speakers you secretly wish were your parents",
+   "file": "vod/yt_https___www_ted_com_playlists_304_the_best_of_tedxtelaviv.json",
+   "episodes": 10,
+   "seasons": 1,
+   "updated": "2026-10-28 23:38",
+   "newest": null,
+   "oldest": null
+  },
+  {
+   "name": "nasa - All Videos sorted by Date",
+   "file": "vod/yt_https___www_twitch_tv_nasa_videos.json",
+   "episodes": 275,
+   "seasons": 1,
+   "updated": "2026-10-28 23:41",
+   "newest": null,
+   "oldest": null
+  },
+  {
+   "name": "The Linux Experiment",
+   "file": "vod/yt_thelinuxexperiment_channel.json",
+   "episodes": 479,
+   "seasons": 1,
+   "updated": "2026-10-28 23:43",
    "newest": null,
    "oldest": null
   }

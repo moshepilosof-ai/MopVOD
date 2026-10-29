@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11602/",
    "series_id": "11602",
-   "updated": "2026-10-28 11:04",
+   "updated": "2026-10-29 00:24",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "חדשות הלילה - ספיישל בחירות 2026",
+       "logo": "https://www.kan.org.il/media/t35lcutr/חדשות-לילה-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259838/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "רגע לפני שהיום נגמר, חדשות הלילה תסכם עבורכם את כל הדברים החשובים והמעניינים שקרו היום – מזווית קצת אחרת.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1113964/",
+       "id": "1113964"
+      },
       {
        "name": "חדשות הלילה | 26.10.26",
        "logo": "https://www.kan.org.il/media/ikloaq0i/הלילה.jpg",
