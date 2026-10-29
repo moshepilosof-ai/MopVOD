@@ -25,11 +25,6 @@
   "url": "https://archive.org/details/SciFi_Horror"
  },
  {
-  "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
-  "name": "קשת 12 - הטלוויזיה של הישראלים",
-  "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw"
- },
- {
   "id": "ia_classic_tv",
   "name": "Classic TV",
   "url": "https://archive.org/details/classic_tv"
@@ -38,5 +33,10 @@
   "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
   "name": "חדשות 13",
   "url": "https://www.youtube.com/channel/UCvQmPpU20hw1Trss_CVwaew"
+ },
+ {
+  "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
+  "name": "קשת 12 - הטלוויזיה של הישראלים",
+  "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw"
  }
 ]
