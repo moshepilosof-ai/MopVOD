@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-29 02:54",
+ "updated": "2026-10-29 08:03",
  "sources": [
   {
    "id": "yt_UCpVm7bg6pXKo1Pr6k5kxG9A",
@@ -11,7 +11,7 @@
    "programs": 317,
    "episodes": 17416,
    "source": "youtube",
-   "updated": "2026-10-29 02:33"
+   "updated": "2026-10-29 07:42"
   },
   {
    "id": "yt_https___www_ted_com_playlists_304_the_best_of_tedxtelaviv",
@@ -66,7 +66,7 @@
    "programs": 57,
    "episodes": 5518,
    "source": "youtube",
-   "updated": "2026-10-29 02:53"
+   "updated": "2026-10-29 08:02"
   },
   {
    "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
