@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-10-29 00:38",
+ "updated": "2026-10-29 02:54",
  "sources": [
   {
    "id": "yt_UCpVm7bg6pXKo1Pr6k5kxG9A",
@@ -11,7 +11,7 @@
    "programs": 317,
    "episodes": 17416,
    "source": "youtube",
-   "updated": "2026-10-28 23:23"
+   "updated": "2026-10-29 02:33"
   },
   {
    "id": "yt_https___www_ted_com_playlists_304_the_best_of_tedxtelaviv",
@@ -64,9 +64,9 @@
    "logo": "https://yt3.googleusercontent.com/AVbz_iWuCltpOm4nO-An-n2PmT4dYcC7VMFQzhFaOUDpsXxrIWmKr8q_C7ge9HuWI3BSBZOso64=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "programs": 57,
-   "episodes": 5506,
+   "episodes": 5518,
    "source": "youtube",
-   "updated": "2026-10-28 19:59"
+   "updated": "2026-10-29 02:53"
   },
   {
    "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
@@ -77,7 +77,7 @@
    "programs": 1,
    "episodes": 3,
    "source": "youtube",
-   "updated": "2026-10-28 20:06"
+   "updated": "2026-10-29 02:54"
   },
   {
    "id": "ia_classic_tv",
