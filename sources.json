@@ -30,11 +30,6 @@
   "url": "https://archive.org/details/classic_tv"
  },
  {
-  "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
-  "name": "קשת 12 - הטלוויזיה של הישראלים",
-  "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw"
- },
- {
   "id": "yt_http___vod_c14_co_il",
   "name": "http://vod.c14.co.il",
   "url": "http://vod.c14.co.il"
@@ -43,5 +38,10 @@
   "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
   "name": "חדשות 13",
   "url": "https://www.youtube.com/channel/UCvQmPpU20hw1Trss_CVwaew"
+ },
+ {
+  "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
+  "name": "קשת 12 - הטלוויזיה של הישראלים",
+  "url": "https://www.youtube.com/channel/UCig6uBmo-4yWSJtUBGoLMAw"
  }
 ]
