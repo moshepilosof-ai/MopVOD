@@ -35,6 +35,9 @@ jobs:
           # 1) only the catalog files; sources.json belongs to the app, youtube.json is regenerated after merging
           git add vod
           if git diff --cached --quiet; then echo "No catalog changes"; else git commit -m "Update YouTube catalogs $(date -u +'%Y-%m-%d %H:%M UTC')"; fi
+          # the rebuild also rewrote youtube.json; drop that copy (it is regenerated below from the merged state)
+          git checkout -- .
+          git clean -fdq -e cache || true
           # 2) merge whatever the app pushed meanwhile (added/removed sources); on a conflicting catalog keep this run's version
           git pull --rebase -X theirs origin main
           # 3) index from the merged state
