@@ -1,0 +1,34 @@
+{
+ "name": "http://vod.c14.co.il",
+ "url": "http://vod.c14.co.il",
+ "logo": "",
+ "categories": [
+  {
+   "name": "http://vod.c14.co.il",
+   "type": "vod",
+   "source": "vod.c14.co.il",
+   "resolve": "ytdlp",
+   "logo": "",
+   "program_url": "http://vod.c14.co.il",
+   "updated": "2026-10-29 15:45",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "https://tv.c14.co.il/",
+       "logo": "",
+       "url": "https://tv.c14.co.il/",
+       "date": null,
+       "plot": "",
+       "page": "https://tv.c14.co.il/",
+       "id": "https://tv.c14.co.il/",
+       "duration": null,
+       "resolve": "ytdlp"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
