@@ -6,11 +6,61 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-10-27 21:24",
+   "updated": "2026-10-30 00:22",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "סוף עידן הסמארטפון? המשקפיים החכמים של מטא נחתו בישראל - מהן הסכנות?",
+       "logo": "https://www.kan.org.il/media/hm0fsadf/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260278/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "המשקפיים החכמים של מטא סוף סוף הגיעו רשמית לישראל, עם הבטחות מרשימות - והימור גדול. מצד אחד החזון של החברה להחליף את הסמארטפונים במשקפיים שיודעים לצלם, להשמיע מוזיקה, לתרגם ולענות לשיחות, ומהצד השני גם חששות כבדים בנוגע לפרטיות",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114246/",
+       "id": "1114246",
+       "season": 2
+      },
+      {
+       "name": "אחרי ששמרה על פרופיל נמוך: ג'ניפר לורנס חוזרת לתפקיד האייקוני - ומשיקה מותג חדש",
+       "logo": "https://www.kan.org.il/media/nazhfprl/1920x1080_4800_hp00_00_00_21.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260276/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "אחרי תקופה שבה התרחקה מהמצלמות, כוכבת הענק ג'ניפר לורנס פתחה אינסטגרם, השיקה מותג חדש למוצרי שיער, וגם הודיעה שהיא חוזרת לתפקיד האייקוני של קטניס ממשחקי הרעב",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114245/",
+       "id": "1114245",
+       "season": 2
+      },
+      {
+       "name": "\"אנשים הפכו לחסרי בית\": חלום \"הקרוז שלא נגמר\" התנפץ - ומה הקשר לאיראן?",
+       "logo": "https://www.kan.org.il/media/fnjdmxkn/05-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260274/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "המלחמה באיראן מגיעה גם למקומות לא צפויים: יותר מ-200 בני אדם ששילמו כדי לחיות על ספינת תענוגות שמקיפה את העולם - נדרשו לנטוש אותה בתוך שעות. הסיבה: מחירי הדלק שזינקו בעקבות המלחמה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114244/",
+       "id": "1114244",
+       "season": 2
+      },
+      {
+       "name": "כבר לא רומנטית: התיירות בפריז משלמת את מחיר המהומות הקשות",
+       "logo": "https://www.kan.org.il/media/kuablqea/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260272/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "מה עולה לנו לראש כשאנחנו חושבים על פריז? לא רק אייפל, מאפים ותמונות רומנטיות - גל המחאות והמהומות בחודש האחרון גרם נזק ממשי לעיר, וגם נזק תדמיתי שאולי יידרשו שנים לתקן",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114238/",
+       "id": "1114238",
+       "season": 2
+      },
+      {
+       "name": "\"כולם גיבורים\": המקום שעוזר לפצועי המלחמה לעמוד בחזרה על הרגליים",
+       "logo": "https://www.kan.org.il/media/co2evzcw/04-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260267/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "עם הרבה מוטיבציה, וגם הרבה קשיחות, שגיא דובב מעמיד מחדש על הרגליים, את מי שאיבדו אותן בקרבות. הוא מרים מחדש את פצועי המלחמה ונותן להם תקווה, במרחב שהופך להיות בית שני. כתבנו ממשיך לחפש תקווה, הפעם הוא מוצא אותה ב\"בית הגיבורים\"",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114236/",
+       "id": "1114236",
+       "season": 2
+      },
       {
        "name": "בין ערד לדימונה: הערים השכנות שמצביעות בקלפי עם פתקים שונים לגמרי",
        "logo": "https://www.kan.org.il/media/v31fjnww/4.jpg",
