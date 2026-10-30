@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12645/",
    "series_id": "12645",
-   "updated": "2026-10-28 12:36",
+   "updated": "2026-10-30 20:19",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "סוכן תרבות | 30.10.26",
+       "logo": "https://www.kan.org.il/media/kc0lg5bh/סוכן-תרבוטת.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260432/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-30",
+       "plot": "מגזין תרבות אישי עם קובי מידן. השבוע: סוף העולם מגיע לתיאטרון, סודות הנשים החרדיות, מה חושבים בעולם התרבות על תוצאות הבחירות, ואוראל צברי חוזר הביתה בשאלון.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12645/s4/1109798/",
+       "id": "1109798",
+       "season": 4
+      },
       {
        "name": "סוכן תרבות | 23.10.26",
        "logo": "https://www.kan.org.il/media/fl0c2ebd/לאתר.jpg",

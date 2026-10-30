@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-30 10:43",
+ "updated": "2026-10-30 20:23",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -1238,10 +1238,10 @@
   {
    "name": "כאן 11 - אגן הים התיכון",
    "file": "vod/kan_12373.json",
-   "episodes": 177,
+   "episodes": 178,
    "seasons": 1,
-   "updated": "2026-10-27 21:28",
-   "newest": "2026-10-23",
+   "updated": "2026-10-30 20:08",
+   "newest": "2026-10-30",
    "oldest": "2023-04-23"
   },
   {
@@ -1337,10 +1337,10 @@
   {
    "name": "כאן 11 - סוכן תרבות",
    "file": "vod/kan_12645.json",
-   "episodes": 130,
+   "episodes": 131,
    "seasons": 3,
-   "updated": "2026-10-28 12:36",
-   "newest": "2026-10-23",
+   "updated": "2026-10-30 20:19",
+   "newest": "2026-10-30",
    "oldest": "2024-01-19"
   },
   {
@@ -1454,10 +1454,10 @@
   {
    "name": "כאן 11 - ערב עם שי שטרן",
    "file": "vod/kan_13011.json",
-   "episodes": 178,
+   "episodes": 179,
    "seasons": 6,
-   "updated": "2026-10-28 13:05",
-   "newest": "2026-10-09",
+   "updated": "2026-10-30 20:20",
+   "newest": "2026-10-16",
    "oldest": "2023-04-23"
   },
   {
@@ -2750,10 +2750,10 @@
   {
    "name": "כאן 11 - שום פלפל ושמן זית",
    "file": "vod/kan_682519.json",
-   "episodes": 74,
+   "episodes": 75,
    "seasons": 3,
-   "updated": "2026-10-29 20:48",
-   "newest": "2026-09-24",
+   "updated": "2026-10-30 20:22",
+   "newest": "2026-10-22",
    "oldest": "2024-01-17"
   },
   {
@@ -3398,10 +3398,10 @@
   {
    "name": "כאן 11 - גליק ותמר",
    "file": "vod/kan_821792.json",
-   "episodes": 140,
+   "episodes": 141,
    "seasons": 1,
-   "updated": "2026-10-28 09:39",
-   "newest": "2026-10-26",
+   "updated": "2026-10-30 20:09",
+   "newest": "2026-10-30",
    "oldest": "2024-11-09"
   },
   {
