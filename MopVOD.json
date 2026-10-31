@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-31 19:49",
+ "updated": "2026-10-31 23:55",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -660,6 +660,15 @@
    "oldest": "2026-09-01"
   },
   {
+   "name": "כאן 11 - האישה בלבן",
+   "file": "vod/kan_1096462.json",
+   "episodes": 1,
+   "seasons": 1,
+   "updated": "2026-10-31 23:43",
+   "newest": "2026-09-06",
+   "oldest": "2026-09-06"
+  },
+  {
    "name": "כאן 11 - דרך הודו",
    "file": "vod/kan_1097937.json",
    "episodes": 5,
@@ -1022,10 +1031,10 @@
   {
    "name": "כאן 11 - חדשות השבת עם איילה חסון",
    "file": "vod/kan_11736.json",
-   "episodes": 449,
+   "episodes": 450,
    "seasons": 1,
-   "updated": "2026-10-28 11:09",
-   "newest": "2026-10-24",
+   "updated": "2026-10-31 23:47",
+   "newest": "2026-10-31",
    "oldest": "2017-02-17"
   },
   {
@@ -3830,10 +3839,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 666,
+   "episodes": 668,
    "seasons": 2,
-   "updated": "2026-10-31 00:14",
-   "newest": "2026-10-30",
+   "updated": "2026-10-31 23:52",
+   "newest": "2026-10-31",
    "oldest": "2024-09-18"
   },
   {

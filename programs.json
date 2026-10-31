@@ -1166,12 +1166,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_1108588",
-      "title": "כאן 11 - בוחרים לראשונה",
-      "url": "https://www.kan.org.il/content/dig/digital/p-1108588/",
-      "section": "dig/digital"
-    },
-    {
       "id": "kan_833724",
       "title": "כאן 11 - בוש",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-833724/",
@@ -1289,6 +1283,12 @@
       "id": "kan_578430",
       "title": "כאן 11 - האיש שרצה לדעת הכול",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-578430/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1096462",
+      "title": "כאן 11 - האישה בלבן",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1096462/",
       "section": "kan/kan-11"
     },
     {
@@ -2102,12 +2102,6 @@
       "section": "kan/news-series"
     },
     {
-      "id": "kan_934442",
-      "title": "כאן 11 - מלאכי",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-934442/",
-      "section": "kan/kan-11"
-    },
-    {
       "id": "kan_955232",
       "title": "כאן 11 - מלחמה על איזה בית",
       "url": "https://www.kan.org.il/content/dig/digital/p-955232/",
@@ -2705,6 +2699,18 @@
       "id": "kan_928522",
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1108588",
+      "title": "כאן 11 - בוחרים לראשונה",
+      "url": "https://www.kan.org.il/content/dig/digital/p-1108588/",
+      "section": "dig/digital"
+    },
+    {
+      "id": "kan_934442",
+      "title": "כאן 11 - מלאכי",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-934442/",
       "section": "kan/kan-11"
     },
     {

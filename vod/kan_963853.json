@@ -6,11 +6,31 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-10-31 00:14",
+   "updated": "2026-10-31 23:52",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "לחיות לנצח - אבל בבריאות: התחום החדש שמסעיר את עולם הרפואה",
+       "logo": "https://www.kan.org.il/media/jgppq5ck/2_אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260869/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-31",
+       "plot": "בדיקות דם משוכללות, תזונה מוקפדת, משטר אימונים, אמבטיות קרח ומה לא. הכול חלק ממדע חדש יחסית בשם לונג'ביטי, תחום ברפואה שמטרתו לא רק להאריך לנו את תוחלת החיים בכל מחיר, אלא גם שנחיה אותן בחיוך, בבריאות ובחיוניות. כתבנו יצא לפגוש את האנשים שמתכננים לחיות עד 120 - כמו בני 20",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114648/",
+       "id": "1114648",
+       "season": 2
+      },
+      {
+       "name": "הפרדוקס הישראלי: בזמן שהאנטישמיות בעולם בשיא - כך גם הייצוא הביטחוני",
+       "logo": "https://www.kan.org.il/media/iybjngxb/הפרקודס-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260865/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-31",
+       "plot": "צרפת שוב מגבילה את ישראל בתערוכת נשק - ובמקביל משרד הביטחון ורפא\"ל ימכרו ספינות ומערכות לחיל הים של קפריסין. הניגוד הזה הוא חלק מהסיפור הישראלי בעולם בשנים האחרונות. בזמן שהאנטישמיות הולכת וגוברת, כך גם התלות הביטחונית בנו. יותר ויותר נשק, מערכות הגנה וטילים מתוצרת כחול-לבן נמכרים למדינות שלפעמים אפילו יוצאות נגדנו בגלוי. אז איך ניתן ליישב את הפרדוקס הזה?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114642/",
+       "id": "1114642",
+       "season": 2
+      },
       {
        "name": "אסי, ליאור - ואני: חייה ומותה של קרוליין לנגפורד ז״ל",
        "logo": "https://www.kan.org.il/media/opldeahd/נקי-ליאור.jpg",
