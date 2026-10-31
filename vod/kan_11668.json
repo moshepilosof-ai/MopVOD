@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11668/",
    "series_id": "11668",
-   "updated": "2026-10-28 11:14",
+   "updated": "2026-10-31 00:09",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "חדשות שישי | 30.10.26",
+       "logo": "https://www.kan.org.il/media/sq0hwoc2/נקי-חדשות-שישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260464/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-30",
+       "plot": "נבחרת הפרשנים של כאן חדשות עם מהדורת סיכום השבוע של כאן 11: הסיפורים שעשו את השבוע, הכותרות המרכזיות, הדיווחים והפרשנויות – לצד כתבות מגזין מרתקות.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11668/1114480/",
+       "id": "1114480"
+      },
       {
        "name": "חדשות שישי עם מואב ורדי | 23.10.26",
        "logo": "https://www.kan.org.il/media/vy2kfea1/artboard-1.jpg",

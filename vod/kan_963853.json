@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-10-30 00:22",
+   "updated": "2026-10-31 00:14",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "אסי, ליאור - ואני: חייה ומותה של קרוליין לנגפורד ז״ל",
+       "logo": "https://www.kan.org.il/media/opldeahd/נקי-ליאור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260457/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-30",
+       "plot": "בשנות השמונים היא הפכה לכוכבת קולנוע ענקית, ואז התחתנה עם אסי דיין והתהילה שלה רק גדלה. אבל בפרק הבא, פרק המשפחה, הדברים הסתבכו, והעולה החדשה מאנגליה החליטה לעזוב את בעלה המכה ואת בנם הפעוט ולהגר לארצות הברית, שם ניסתה לאסוף את שברי חייה ולהתחיל מחדש. הקיץ, בגיל 68, קרוליין לנגפורד הלכה לעולמה בלוס אנג'לס. יחד עם בנה, ליאור דיין, אחיה ג'רמי וביתה דניאלה, שחיה היום באוסטרליה, חזרנו לפרשת חייה יוצאת הדופן של לנגפורד",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114471/",
+       "id": "1114471",
+       "season": 2
+      },
+      {
+       "name": "ימנים וערבים ״ראש בראש״: הבחירות בלוד משקפות את תוצאות הבחירות בארץ",
+       "logo": "https://www.kan.org.il/media/0t1iis1z/s0491019_item0300_02_11_49still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260453/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-30",
+       "plot": "הבוחרים בלוד אמרו את דברם: הליכוד במקום הראשון עם כמעט רבע מהמצביעים, המשותפת במקום השני עם 17 אחוזים, בן גביר ועוצמה יהודית במקום השלישי ורע\"מ צמודה אליו במקום הרביעי. העיר המעורבת תמיד ייצגה את הקונפליקט הישראלי, והשבוע גם היתה שיקוף מדויק למה שקרה בקלפיות",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114466/",
+       "id": "1114466",
+       "season": 2
+      },
+      {
+       "name": "פסולים: מה הסיבה לסירוב לשבת עם המפלגות הערביות בממשלה? ",
+       "logo": "https://www.kan.org.il/media/tejdaxiv/untitled-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260446/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-30",
+       "plot": "שיעור ההצבעה במגזר הערבי בבחירות הללו שבר שיאים, אך המפלגות הערביות שהשיגו השבוע  19 מנדטים, לא יכולות בינתיים לתרגם את הכוח הפוליטי הזה להשפעה על הממשלה. כמעט בכל המפלגות הציוניות מתנגדים לשילובם של הערבים בקואליציה עתידית. האם הפסילה מגיעה מגזענות ופחד, או מסיבות כבדות משקל שראוי לתת עליהן את הדעת?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1114461/",
+       "id": "1114461",
+       "season": 2
+      },
       {
        "name": "סוף עידן הסמארטפון? המשקפיים החכמים של מטא נחתו בישראל - מהן הסכנות?",
        "logo": "https://www.kan.org.il/media/hm0fsadf/6.jpg",
