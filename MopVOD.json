@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-10-31 10:15",
+ "updated": "2026-10-31 19:49",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -743,10 +743,10 @@
   {
    "name": "כאן 11 - שבע",
    "file": "vod/kan_11039.json",
-   "episodes": 892,
+   "episodes": 893,
    "seasons": 1,
-   "updated": "2026-10-29 20:48",
-   "newest": "2026-10-29",
+   "updated": "2026-10-31 19:48",
+   "newest": "2026-10-31",
    "oldest": "2023-03-05"
   },
   {
@@ -869,10 +869,10 @@
   {
    "name": "כאן 11 - שרון ואורי",
    "file": "vod/kan_11288.json",
-   "episodes": 559,
+   "episodes": 560,
    "seasons": 1,
-   "updated": "2026-10-29 20:49",
-   "newest": "2026-10-29",
+   "updated": "2026-10-31 19:49",
+   "newest": "2026-10-31",
    "oldest": "2017-10-13"
   },
   {
@@ -905,9 +905,9 @@
   {
    "name": "כאן 11 - פגישה עם רוני קובן",
    "file": "vod/kan_11486.json",
-   "episodes": 189,
+   "episodes": 190,
    "seasons": 11,
-   "updated": "2026-10-28 13:08",
+   "updated": "2026-10-31 19:47",
    "newest": "2026-09-16",
    "oldest": "2023-04-22"
   },
