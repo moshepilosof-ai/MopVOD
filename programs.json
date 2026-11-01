@@ -254,6 +254,12 @@
       "section": "archive1/vod"
     },
     {
+      "id": "kan_671172",
+      "title": "כאן 11 - דוקו אחר אירועי לילות מערכת הבחירות הדרמטיות בישראל",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671172/",
+      "section": "archive1/vod"
+    },
+    {
       "id": "kan_745400",
       "title": "כאן 11 - יום של חול | תוכנית מלאות לצפייה ישירה",
       "url": "https://www.kan.org.il/content/archive1/vod/p-745400/",
@@ -1064,12 +1070,6 @@
       "section": "kan/news-series"
     },
     {
-      "id": "kan_1102158",
-      "title": "כאן 11 - איך עיצבה ההיסטוריה המשפחתית את מי שאני כיום?",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1102158/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1003359",
       "title": "כאן 11 - אלי חביב - בסדר גמור",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1003359/",
@@ -1230,12 +1230,6 @@
       "title": "כאן 11 - דודו טסה - לתפוס דג",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1043786/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_671172",
-      "title": "כאן 11 - דוקו אחר אירועי לילות מערכת הבחירות הדרמטיות בישראל",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671172/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_11685",
@@ -1982,6 +1976,12 @@
       "section": "archive1/projects"
     },
     {
+      "id": "kan_1102158",
+      "title": "כאן 11 - איך עיצבה ההיסטוריה המשפחתית את מי שאני כיום?",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1102158/",
+      "section": "archive1/vod"
+    },
+    {
       "id": "kan_1018959",
       "title": "כאן 11 - מאסטר בראנץ'",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1018959/",
@@ -2240,12 +2240,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_671176",
-      "title": "כאן 11 - סדרה תיעודית המלווה את מערכת הבחירות של שנת 1981",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671176/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_485095",
       "title": "כאן 11 - סובייצקה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-485095/",
@@ -2280,12 +2274,6 @@
       "title": "כאן 11 - סיפורים מהכורסה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12955/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1090290",
-      "title": "כאן 11 - סיפורם של אנשים שנקלעו למצב אבוד ויצאו ממנו",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1090290/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_739563",
@@ -2334,6 +2322,12 @@
       "title": "כאן 11 - עיר המתים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-975806/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1090290",
+      "title": "כאן 11 - סיפורם של אנשים שנקלעו למצב אבוד ויצאו ממנו",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1090290/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_12062",
@@ -2618,12 +2612,6 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_671168",
-      "title": "כאן 11 - שמעון טסלר בדוקו אחרי הלך הרוח בתקופת בחירות 1984",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-671168/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12657",
       "title": "כאן 11 - שעת אפס",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12657/",
@@ -2700,6 +2688,18 @@
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_671176",
+      "title": "כאן 11 - סדרה תיעודית המלווה את מערכת הבחירות של שנת 1981",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671176/",
+      "section": "archive1/vod"
+    },
+    {
+      "id": "kan_671168",
+      "title": "כאן 11 - שמעון טסלר בדוקו אחרי הלך הרוח בתקופת בחירות 1984",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-671168/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_1108588",
