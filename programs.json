@@ -1682,12 +1682,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_1083583",
-      "title": "כאן 11 - זמן אמיתי",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1083583/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan11_zman_emet",
       "title": "כאן 11 - זמן אמת",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12043/",
@@ -1974,6 +1968,12 @@
       "title": "כאן 11 - לקט אופטימי לשנה החדשה",
       "url": "https://www.kan.org.il/content/archive1/projects/p-1089752/",
       "section": "archive1/projects"
+    },
+    {
+      "id": "kan_1111324",
+      "title": "כאן 11 - מאחורי הקלעים של מעצמת הענק סין",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1111324/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_1102158",
@@ -2688,6 +2688,12 @@
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1083583",
+      "title": "כאן 11 - זמן אמיתי",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1083583/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_671176",

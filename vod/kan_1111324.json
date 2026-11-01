@@ -1,0 +1,83 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מאחורי הקלעים של מעצמת הענק סין",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1111324/",
+   "series_id": "1111324",
+   "updated": "2026-11-01 20:07",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שעת הסין | פרק 5 - אורז או חופש",
+       "logo": "https://www.kan.org.il/media/zh3l5mgy/arc_xxxxxxxx_1_v100_03_50_20still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259741/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "הדילמה הניצבת בפני מיליארד בני אדם: הזכות לחופש ביטוי או הזכות לאכול? להתלבש ולגור במקום כלשהו? דמוקרטיה או אנרכיה?",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1111324/s1/1113713/",
+       "id": "1113713",
+       "season": 1
+      },
+      {
+       "name": "שעת הסין | פרק 4 - מהפכת התרבות",
+       "logo": "https://www.kan.org.il/media/vycn15e4/arc_xxxxxxxx_1_v100_02_46_10still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259730/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-28",
+       "plot": "אירועי טבח טיינאנמן על רקע מהפכת התרבות שהיתה בסין 20 שנה קודם לכן: עם שנסחף בסערה מהפכנית ומליונים ששילמו בחייהם על אידיאל שלא הבינו את פישרו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1111324/s1/1113681/",
+       "id": "1113681",
+       "season": 1
+      },
+      {
+       "name": "שעת הסין | פרק 3 - חמוץ מתוק",
+       "logo": "https://www.kan.org.il/media/faakgjbx/arc_xxxxxxxx_1_v100_13_50_21still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257380/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-21",
+       "plot": "רוחה הייחודית של סין באיזון מופלא בחיי האדם פנימה, בין האדם לסביבתו ובין החיים למוות. הרמוניה של ניגודים ברפואה, במזון, בדת, במוסיקה ובטבע",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1111324/s1/1111458/",
+       "id": "1111458",
+       "season": 1
+      },
+      {
+       "name": "שעת הסין | פרק 2 - החברים של לי",
+       "logo": "https://www.kan.org.il/media/qenmv5ha/arc_xxxxxxxx_1_v100_25_39_19still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257377/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-21",
+       "plot": "הצצה נדירה אל מאחורי הקלעים של אורח המחשבה ואורחות החיים של הסיני החדש עם גיבורת הסרט-לי-יאפית סינית, המגלמת בעצם אישיותה את סין המתחדשת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1111324/s1/1111440/",
+       "id": "1111440",
+       "season": 1
+      },
+      {
+       "name": "שעת הסין | פרק 1 - בדרך למערב",
+       "logo": "https://www.kan.org.il/media/3ghher10/arc_xxxxxxxx_1_v100_04_04_24still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257375/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-21",
+       "plot": "היקף המאבק בין ששת אלפי שנות תרבות מסורתית ומקורית לבין כיבוש הקטיפה של מנעמי המערב",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1111324/s1/1111434/",
+       "id": "1111434",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שעת הסין | פתיח",
+       "logo": "https://www.kan.org.il/media/myllxsgr/arc_xxxxxxxx_1_v100_01_04_07still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257368/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-21",
+       "plot": "פתיח לסדרת התעודה \"שעת הסין\" בקריינות ירין קימור.",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1111324/1111403/",
+       "id": "1111403"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

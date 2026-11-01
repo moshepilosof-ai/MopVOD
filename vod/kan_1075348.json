@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
    "series_id": "1075348",
-   "updated": "2026-10-28 09:53",
+   "updated": "2026-11-01 20:02",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "הכוורת | פרק 43",
+       "logo": "https://www.kan.org.il/media/pmlj4qth/נקי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2256504/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-18",
+       "plot": "בימאית, עובד סוציאלי וקופירייטר מול כוורת חסרת רחמים - מי מהם יצליח לנצח את הכוורת? מי יפגין ידע, מהירות ואסטרטגיה ויזכה בתואר מלך הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1110141/",
+       "id": "1110141",
+       "season": 1
+      },
       {
        "name": "הכוורת | פרק 42",
        "logo": "https://www.kan.org.il/media/bz4jtxbs/כוורת42לאתר.jpg",
