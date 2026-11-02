@@ -10,7 +10,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/eDhBOxuHHnQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDoLfSMoQCSJBVcxFTdujts2bYLQg",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jnyTRTtmomg-zJ8RwvnBP7",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -92,7 +92,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/XbjwCbeioL0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB91nAsLVtD8lDZbHQkJXBB-wEmbw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0iqTH0P28GNWHarhYkSeXme",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -735,7 +735,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/u9lppp8sX-A/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbyaVcMdomywvtlaTwCPkAxHucGQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gSAoTA1ArIhXovNDL5-VJ8",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -971,7 +971,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/XbjwCbeioL0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB91nAsLVtD8lDZbHQkJXBB-wEmbw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gmSTocdv-EFvIftRFgjmQF",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -8423,7 +8423,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/NYrx8X0Wu34/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYXiBeKF4wDw==&rs=AOn4CLAbe0SOcD19hEVfVQYvX0F6ltGLeA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0irvGwcdvatzUu_4BIkVmQJ",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -8483,7 +8483,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/geGN1s-uel0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBZKD4wDw==&rs=AOn4CLDkWan3mF3iKRdUggaopi3DfwsKXQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gTOdIcTorbJvFRdt2ZEU8L",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -8530,13 +8530,90 @@
    "type": "vod",
    "source": "youtube",
    "resolve": "ytdlp",
-   "logo": "https://i.ytimg.com/pl_c/PLtVtp2u4oB0hMbseMWvfX7GMPjBfpRzvK/studio_square_thumbnail.jpg?sqp=CJvsm9cG-oaymwEICIAKENAFSFqi85f_AwYI9JrExAY=&rs=AOn4CLAB48VbHWsmH8bQ6jzAHczu_iyGVg",
+   "logo": "https://i.ytimg.com/pl_c/PLtVtp2u4oB0hMbseMWvfX7GMPjBfpRzvK/studio_square_thumbnail.jpg?sqp=CJuPodcG-oaymwEICIAKENAFSFqi85f_AwYI9JrExAY=&rs=AOn4CLAk7KQ1_KQfruvPsPuY59AFm0-_tQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hMbseMWvfX7GMPjBfpRzvK",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "אין כניסה לילדים: בתי המלון שמציעים חוויה למבוגרים בלבד",
+       "logo": "https://i.ytimg.com/vi/U1M2PJe2w-c/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=U1M2PJe2w-c",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=U1M2PJe2w-c",
+       "id": "U1M2PJe2w-c",
+       "duration": "11:34",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "תעלול או ממתק? הישראלים שחוגגים את ליל כל הקדושים",
+       "logo": "https://i.ytimg.com/vi/ZL5TWDt-YAQ/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=ZL5TWDt-YAQ",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=ZL5TWDt-YAQ",
+       "id": "ZL5TWDt-YAQ",
+       "duration": "2:58",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "ניסתה להשיב את הטלפון הגנוב - ונעצרה על הסגת גבול",
+       "logo": "https://i.ytimg.com/vi/VfjnAvP51Ps/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=VfjnAvP51Ps",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=VfjnAvP51Ps",
+       "id": "VfjnAvP51Ps",
+       "duration": "2:59",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הטייסים שהנחיתו את טיסת פליי דובאי: \"רגעים שנישא עימנו לנצח\"",
+       "logo": "https://i.ytimg.com/vi/MMAXQ_Jj2jg/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=MMAXQ_Jj2jg",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=MMAXQ_Jj2jg",
+       "id": "MMAXQ_Jj2jg",
+       "duration": "3:37",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"ישראל רוצחת\": המהומות באירופה מתרחבות - עם מסרים נגד המלחמה",
+       "logo": "https://i.ytimg.com/vi/LJxiS6ckDCM/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=LJxiS6ckDCM",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=LJxiS6ckDCM",
+       "id": "LJxiS6ckDCM",
+       "duration": "2:32",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "סולברג: \"אין בחשדות בכדי לגרוע מתקינות הליך הבחירות והתוצאות\"",
+       "logo": "https://i.ytimg.com/vi/pJcSVdPP8ac/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=pJcSVdPP8ac",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=pJcSVdPP8ac",
+       "id": "pJcSVdPP8ac",
+       "duration": "4:21",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "Ci5Rm8Zv56I",
+       "logo": "https://i.ytimg.com/vi/Ci5Rm8Zv56I/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=Ci5Rm8Zv56I",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=Ci5Rm8Zv56I",
+       "id": "Ci5Rm8Zv56I",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
       {
        "name": "להילחם בפוסט טראומה - עם זריקה: \"טיפול משנה חיים\"",
        "logo": "https://i.ytimg.com/vi/kBqpW7zQ1NM/hqdefault.jpg",
@@ -21022,7 +21099,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/OXfrE7dUbSo/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdvVMxyJDWLxj85IfuEPakMuP0SQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hiGMmvh-fob7xYHaA6eDiQ",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -23535,7 +23612,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/hMnOQ1GeXzI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAr6uAF1ubGonMSDJIaWeInirc8Iw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0imKiMbEvzzIHBTVyd4PMBM",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -23574,7 +23651,7 @@
        "resolve": "ytdlp"
       },
       {
-       "name": "ליל כל המדגמים: הצצה אל מאחורי הקלעים של משדר הבחירות",
+       "name": "ליל כל המדגמים: מאחורי הקלעים של ההצגה הכי טובה בעיר",
        "logo": "https://i.ytimg.com/vi/wXDMKLepcOI/hqdefault.jpg",
        "url": "https://www.youtube.com/watch?v=wXDMKLepcOI",
        "date": null,
@@ -25971,7 +26048,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/aTfg2pqZr6U/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCscLtJtxPfYQ2_TSb_QUj3IHqkzw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0j0dV_nMhhbuqiHDB24tAff",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -26053,7 +26130,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/QXsxPz8n80o/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4wiMwZIq8mSIuzmKnLJ4UhFRRhg",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gOPjcoH7MjsW67sC5OdebM",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -26619,7 +26696,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/8m1wFbrYvO4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBRwiMGW0MTLXS7xhM99J4yxDK57g",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hDFGIpzqnd6krSQ858EQKy",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -26701,7 +26778,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/WKGu3YHpWlU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC3aPk271ob3gbKocBm0fRkLGjYVA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jU3W9C5zE4cStq4dRrMNAJ",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -26937,7 +27014,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/uEgIUDV3kyU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBOh63BzmfP2IxFdSmyLLm_oXiXLg",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hhgsQFzGYlYMIvSyJFcK6f",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -27734,7 +27811,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/W2KDC90TcBA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDpsYHsMjT-rmFIgYfDFTBri7ymnQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hTfzWVNXVJn-CKH-_NqOM3",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -28652,7 +28729,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/zW2yzCg5NyQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAlVmeiXXZPtew4zOPjNGfNaB11qA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0ibZa_Vf0XAhM_bnZAjr5Te",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -29449,7 +29526,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/R4u56QNHW3c/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBccNN7Cc_Cll7FtdjuIvObjNmuiw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0illw65Os7bOsTRQokc6l4w",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -30202,7 +30279,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/t-chJ6PJ2JA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBBlaNTrXW6LlqhCMCsSzifL9j1DQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0iVgHnu3JM_2Bs0W_oIOlFG",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -30405,7 +30482,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/Uv80pWcKraM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDMbtoyfYEFEWZbm-GKeM-1YoUTsw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0j3IiqdrqZNWEVLuhenGEBj",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -30828,7 +30905,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/0jE17u9kD24/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_6Hv0uLdkAwTxeuhBjTArTwXIrQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jH2Jf0fQuUEthr2n_HEJvd",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -30899,7 +30976,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/AAkVgtAyruk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMki5t60rGSY_Xc4zJD2NMVRaaxA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0iQtVSCajqiEgRhM9ctli0R",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -31124,7 +31201,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/UbCkaJAG7Zw/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXkmUWK0mP9hb9CJTOxJkenNc_vg",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hedHCleREDmGI7LkEHW8u9",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -31195,7 +31272,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/Abyn9aphdnk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5GfAUtBGr10MvK5TFJRijqqChQQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hVt8n5OqvcR0Qt-ZGMXbL8",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -31255,7 +31332,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/rQgzW2lD16A/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCu7JpyJjI8jD5vBY8iy2EiTaeryw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0j8gK1Q1ix_hjxKLW81GD73",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -31491,7 +31568,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/iU-IR7j2hfs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBPU51NzVo1HV34B42ib6pJ1OMgiw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0i2DZjh3hcFcZ4E9MP1O7oG",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -31626,9 +31703,9 @@
    "type": "vod",
    "source": "youtube",
    "resolve": "ytdlp",
-   "logo": "https://i.ytimg.com/pl_c/PLtVtp2u4oB0gPegKNpLwIqjTdxSpPr9TM/studio_square_thumbnail.jpg?sqp=CPGvm9cG-oaymwEICIAKENAFSFqi85f_AwYIqp3lwwY=&rs=AOn4CLB1oBXHcr6H2S-0djCtiWrHSaT9FA",
+   "logo": "https://i.ytimg.com/pl_c/PLtVtp2u4oB0gPegKNpLwIqjTdxSpPr9TM/studio_square_thumbnail.jpg?sqp=CPHSoNcG-oaymwEICIAKENAFSFqi85f_AwYIqp3lwwY=&rs=AOn4CLAF8apmTJK1Fl6psbHwlSsAvrugnw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gPegKNpLwIqjTdxSpPr9TM",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -31754,7 +31831,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/8BEPAHLQGx8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCt-sBhW9TxPFJiHpqmxpxg_zIahA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hw1MFSp-rUfTVYOVtfauu0",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -32285,13 +32362,79 @@
    "type": "vod",
    "source": "youtube",
    "resolve": "ytdlp",
-   "logo": "https://i.ytimg.com/pl_c/PLtVtp2u4oB0jWHfoRRpQZOHf3PfmE0ors/studio_square_thumbnail.jpg?sqp=CIurm9cG-oaymwEICIAKENAFSFqi85f_AwYIgYjYugY=&rs=AOn4CLAO7JdYqn4f9NKWetSQSkSQspnAWQ",
+   "logo": "https://i.ytimg.com/pl_c/PLtVtp2u4oB0jWHfoRRpQZOHf3PfmE0ors/studio_square_thumbnail.jpg?sqp=CIvOoNcG-oaymwEICIAKENAFSFqi85f_AwYIgYjYugY=&rs=AOn4CLCo7qJNuS-o1YvYp_lTSQlH-BdTvQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jWHfoRRpQZOHf3PfmE0ors",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "אין כניסה לילדים: בתי המלון שמציעים חוויה למבוגרים בלבד",
+       "logo": "https://i.ytimg.com/vi/U1M2PJe2w-c/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=U1M2PJe2w-c",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=U1M2PJe2w-c",
+       "id": "U1M2PJe2w-c",
+       "duration": "11:34",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "תעלול או ממתק? הישראלים שחוגגים את ליל כל הקדושים",
+       "logo": "https://i.ytimg.com/vi/ZL5TWDt-YAQ/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=ZL5TWDt-YAQ",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=ZL5TWDt-YAQ",
+       "id": "ZL5TWDt-YAQ",
+       "duration": "2:58",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "ניסתה להשיב את הטלפון הגנוב - ונעצרה על הסגת גבול",
+       "logo": "https://i.ytimg.com/vi/VfjnAvP51Ps/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=VfjnAvP51Ps",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=VfjnAvP51Ps",
+       "id": "VfjnAvP51Ps",
+       "duration": "2:59",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "הטייסים שהנחיתו את טיסת פליי דובאי: \"רגעים שנישא עימנו לנצח\"",
+       "logo": "https://i.ytimg.com/vi/MMAXQ_Jj2jg/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=MMAXQ_Jj2jg",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=MMAXQ_Jj2jg",
+       "id": "MMAXQ_Jj2jg",
+       "duration": "3:37",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "\"ישראל רוצחת\": המהומות באירופה מתרחבות - עם מסרים נגד המלחמה",
+       "logo": "https://i.ytimg.com/vi/LJxiS6ckDCM/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=LJxiS6ckDCM",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=LJxiS6ckDCM",
+       "id": "LJxiS6ckDCM",
+       "duration": "2:32",
+       "resolve": "ytdlp"
+      },
+      {
+       "name": "Ci5Rm8Zv56I",
+       "logo": "https://i.ytimg.com/vi/Ci5Rm8Zv56I/hqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=Ci5Rm8Zv56I",
+       "date": null,
+       "plot": "",
+       "page": "https://www.youtube.com/watch?v=Ci5Rm8Zv56I",
+       "id": "Ci5Rm8Zv56I",
+       "duration": null,
+       "resolve": "ytdlp"
+      },
       {
        "name": "הסוד של ליאור: \"כל החיים שלי הם הישרדות\"",
        "logo": "https://i.ytimg.com/vi/OXfrE7dUbSo/hqdefault.jpg",
@@ -54622,7 +54765,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/8XqTU2O0V7M/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA7IuRIDfQRWH8ydQvP6NN2RuSoGw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0iaL2hlJwcWaDDr8XL9cUU8",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -55133,7 +55276,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/aJfeT73HO8U/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFQ6w3a1iCXDaKpowIoQHsMb3uaA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0htfT4PFWl0UItISytyaWlh",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -55237,7 +55380,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/MayOTtPKGd0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4EgALgA4oCDAgAEAEYEyBeKH8wDw==&rs=AOn4CLBurXF1C7BJFJTIc088RPTjkHETgQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jItniCHSzS056XUnJTQ4DG",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -55990,7 +56133,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/2TIramgAg_A/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAdFTihwNquqAzRRRfODTpBHXRosQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0halw-x1rtYUZdFGA2zTwv1",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -56039,7 +56182,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/5wkNVTNgLbc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcKR2PnR0U8RTklJJ3SJIqOk_trw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jGhj3g5RNqB2ynpAigcjse",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -56088,7 +56231,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/Hpo45uhTCrQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtBrYXnWaYFUvuB4IRrtQVoIscGA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jYutcFsgawuMt1rhddTzw2",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -56203,7 +56346,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/RC1kTO-AqAM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBmZJPgswg-SNgl4lh3o4qz_iAxKA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jQn28afe5Zru3SUkWqDWux",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -56417,7 +56560,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/r1m66ujdy8s/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBGThPy1l0fbPzbML17M2yjY6yodQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0h48ikNB-TJU4LYyceHPC6-",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -56961,7 +57104,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/IjwVt65Q_bk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBH39NcZqrT1a-g4rN0-gR-lmwFLg",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0ju6900OMm5_3WeeuNiyAvo",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -57175,7 +57318,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/FZqlMYHZlxA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDe_B0jfE-mcT2bhFyAtcI_Pxqkxg",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0h484xcg92Vmsnf1qgkzwKL",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -57202,7 +57345,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/k86EteJrqlg/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8RSMGN1yd2KkYXq8E7oYU7W2FLA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gl3Zt-uIiBQTa-XRVlhvwn",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -57240,7 +57383,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/YFbElVNdZkM/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWyBlKGIwDw==&rs=AOn4CLCXBuJsQSKrhNLDIvqLGqkMv9Idpw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hoV74jf9MKmMiIaBo_k23-",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -57267,7 +57410,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/rZdklP7pW4E/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBZKFMwDw==&rs=AOn4CLA8bJBW-vGtyfs0KNEUac__DUNiBQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0i4E6hCDHqj0sIXr_tz67mz",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -57393,7 +57536,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/4vLwV2UcREo/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA4gUtz6F6bPhKS7C5ZVFa5lxtPEw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0h21diT5MFyx9U7-0h_6lOD",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -58267,7 +58410,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/jtmO1YUNQlc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBcKDswDw==&rs=AOn4CLCI5HeTDF7M0eVkc2Lvg3tC4wSwrA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hS6XOQ5Dx-s-dR8E-DbfHl",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -58305,7 +58448,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/sk_ZC_SuKro/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB95XvOsxjQhXgjj0TQ2hwk1CeEqQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gGrZ49IR9Na__yI7GBhgEO",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -58541,7 +58684,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/L8RwtVp3QdQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Ac4FgAKUA4oCDAgAEAEYZSBlKEowDw==&rs=AOn4CLDgEa7nb92W__0iA7rj-UoJmWiguw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jNeJHFwqY9-o_fO56nNr6y",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -58711,7 +58854,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/C9tHxEVfutk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBYKE0wDw==&rs=AOn4CLDP_PRVVpZN-5pRwCXHNqjIVZAb0Q",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gsnJYLY2sgGW8I9nGyVr2H",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -58771,7 +58914,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/BEHP4JOK-QA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALUA4oCDAgAEAEYEyAlKH8wDw==&rs=AOn4CLAOtWt1biNvvwRNdY9RP0875pPbkw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jvpLw3wl6JL2HkgbtQlrjc",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -58897,7 +59040,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/cdfslvNAusc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJ4KVhYiuYix_lufFMhOBvGfyNew",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jCQZncqCH15huqfxaac8rS",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -59023,7 +59166,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/NnXJn7tanyQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFuPo2yvPkNKHXZECZkvDYQWsblA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0gPI5CzpfDQcLNYG9ewDqEj",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -59270,7 +59413,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/Evxb649fVeg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYISAvKH8wDw==&rs=AOn4CLDUsAFgK-ZlsZl8scylLUYXpCEb3Q",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0j1C0dA0EkTzZw0egYUjo-f",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -59396,7 +59539,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/s4UIOA4z2sk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDmyuoS0_hru0sDREGrMusFm2CP6w",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jpouwMhm9sOfwkDQNvEdkf",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -60127,7 +60270,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/leRo8xRMLbo/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDOiSBcouGy2pcajxyhPXyWLh5MQw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0jMr3vyA-wd0KG4lcaA2Txu",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -60363,7 +60506,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/rdRyNNPiWpI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA1gABEAA0HevZ485uxRn_N5rMtLw",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0g_hA8EOE5vPIb7w6X_eLJ2",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -60401,7 +60544,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/Zpr2udy0j8s/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYUSBhKGUwDw==&rs=AOn4CLATztdswUTAiMsedO0sKQLGZTTsWQ",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hVnAyzYIIHgMODzJoly-ii",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -60648,7 +60791,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/uTBhqPW-oic/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBkKBYwDw==&rs=AOn4CLCjYgjGWGgWszhIDi2mTOJdeo9jIA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0i10fC1leHT0sXwP5NE881T",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -61038,7 +61181,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/k2lIfOg54WE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD5kqpGVh5gMtD_QcDQ92a-mX3fBA",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0ig3pLDUGsMHDQFnUCty6iA",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
@@ -61791,7 +61934,7 @@
    "resolve": "ytdlp",
    "logo": "https://i.ytimg.com/vi/L3eMdniLY1Y/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASbuy0j7ODcLHGI_w4ByF9Lg4h2g",
    "program_url": "https://www.youtube.com/playlist?list=PLtVtp2u4oB0hs87Q9BBObkXhTM9VrUSpU",
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "sub_categories": [
     {
      "name": "כל הפרקים",
