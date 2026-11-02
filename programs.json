@@ -1832,6 +1832,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_670931",
+      "title": "כאן 11 - ישראל ואיראן - יחסינו לאן",
+      "url": "https://www.kan.org.il/content/archive1/projects/p-670931/",
+      "section": "archive1/projects"
+    },
+    {
       "id": "kan_13676",
       "title": "כאן 11 - כאן איתכם",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13676/",
@@ -1952,22 +1958,10 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_1033328",
-      "title": "כאן 11 - לעבודה ולמלאכה",
-      "url": "https://www.kan.org.il/content/archive1/projects/p-1033328/",
-      "section": "archive1/projects"
-    },
-    {
       "id": "kan_11228",
       "title": "כאן 11 - לצאת מהקופסה",
       "url": "https://www.kan.org.il/content/dig/digital/p-11228/",
       "section": "dig/digital"
-    },
-    {
-      "id": "kan_1089752",
-      "title": "כאן 11 - לקט אופטימי לשנה החדשה",
-      "url": "https://www.kan.org.il/content/archive1/projects/p-1089752/",
-      "section": "archive1/projects"
     },
     {
       "id": "kan_1111324",
@@ -2486,6 +2480,12 @@
       "section": "kan/news-series"
     },
     {
+      "id": "kan_1106577",
+      "title": "כאן 11 - רון ארד | 40 שנה לנפילתו בשבי",
+      "url": "https://www.kan.org.il/content/archive1/projects/p-1106577/",
+      "section": "archive1/projects"
+    },
+    {
       "id": "kan_1066627",
       "title": "כאן 11 - רכבת התקלות",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1066627/",
@@ -2688,6 +2688,18 @@
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1033328",
+      "title": "כאן 11 - לעבודה ולמלאכה",
+      "url": "https://www.kan.org.il/content/archive1/projects/p-1033328/",
+      "section": "archive1/projects"
+    },
+    {
+      "id": "kan_1089752",
+      "title": "כאן 11 - לקט אופטימי לשנה החדשה",
+      "url": "https://www.kan.org.il/content/archive1/projects/p-1089752/",
+      "section": "archive1/projects"
     },
     {
       "id": "kan_1083583",

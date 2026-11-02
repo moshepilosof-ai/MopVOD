@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-02 00:07",
+ "updated": "2026-11-02 11:55",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -793,6 +793,15 @@
    "updated": "2026-10-28 12:33",
    "newest": "2026-10-05",
    "oldest": "2026-10-05"
+  },
+  {
+   "name": "כאן 11 - רון ארד | 40 שנה לנפילתו בשבי",
+   "file": "vod/kan_1106577.json",
+   "episodes": 11,
+   "seasons": 2,
+   "updated": "2026-11-02 11:53",
+   "newest": "2026-10-15",
+   "oldest": "2026-10-06"
   },
   {
    "name": "כאן 11 - ובמקום הראשון",
@@ -2478,6 +2487,15 @@
    "oldest": "2024-01-07"
   },
   {
+   "name": "כאן 11 - ישראל ואיראן - יחסינו לאן",
+   "file": "vod/kan_670931.json",
+   "episodes": 0,
+   "seasons": 0,
+   "updated": "2026-11-02 11:47",
+   "newest": null,
+   "oldest": null
+  },
+  {
    "name": "כאן 11 - חצי המנשה",
    "file": "vod/kan_670939.json",
    "episodes": 14,
@@ -4129,7 +4147,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-01 08:16",
+   "updated": "2026-11-02 08:28",
    "newest": "2026-09-28",
    "oldest": "2026-09-18"
   },
@@ -4138,7 +4156,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-01 08:35",
+   "updated": "2026-11-02 08:46",
    "newest": null,
    "oldest": null
   },
