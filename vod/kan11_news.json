@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11544/",
    "series_id": "11544",
-   "updated": "2026-10-29 20:44",
+   "updated": "2026-11-02 00:02",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "מהדורת כאן חדשות | 01.11.26",
+       "logo": "https://www.kan.org.il/media/imololym/2261052_1793564259679.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261052/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "מהדורת החדשות המרכזית של כאן 11 עם נבחרת הכתבים והפרשנים של כאן חדשות. הפרסומים הראשונים, הכותרות החמות וכל הפרשנויות לצד כתבות מגזין ופינות קבועות.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1115040/",
+       "id": "1115040"
+      },
       {
        "name": "מהדורת כאן חדשות | 29.10.26",
        "logo": "https://www.kan.org.il/media/nbcb4gi1/מהגורה.jpg",
