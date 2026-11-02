@@ -6,11 +6,31 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-01 20:10",
+   "updated": "2026-11-02 23:32",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "עד קצת העולם ובחזרה: הבריטי שחצה ברגל את כל העולם חזר הביתה",
+       "logo": "https://www.kan.org.il/media/0cff5b0c/כתבה-5-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261517/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "מסע של עשרים ושמונה שנים, שהתחיל בעיר האל באנגליה ועבר דרך כל העולם, הגיע לסיומו היום באותה העיר. קרל בושבי, שיצא בשנת 1998 למסע מסביב לעולם בלי אמצעי תחבורה, השלים סוף סוף את המסלול",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1115399/",
+       "id": "1115399",
+       "season": 2
+      },
+      {
+       "name": "לרוץ מרתון בלי לראות כלום? שאול אמסטרדמסקי בדק איך ריצה יוצרת קהילות",
+       "logo": "https://www.kan.org.il/media/xerbylqq/כתבה-4-אר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261508/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "ריצה היא כבר הרבה מעבר לספורט, היא סוג של תרבות. בשנים האחרונות היא גורמת למאות אלפי ישראלים להרגיש חלק ממשהו. שאול אמסטרמדסקי יצא להבין דרך הרגליים איך ריצות יוצרות קהילות, וגם איך אפשר לרוץ מרתון שלם בלי לראות כלום\n\n\"כולם רצים עכשיו\" | פרק 2\nתחקיר: יסמין מנור קט",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1115395/",
+       "id": "1115395",
+       "season": 2
+      },
       {
        "name": "\"אנשים מחפשים סיבות לחגוג\": כך נראו חגיגות ההאלווין ברחבי העולם - וגם בישראל",
        "logo": "https://www.kan.org.il/media/uu1p0ruj/5_אתר.jpg",

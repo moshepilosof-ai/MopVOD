@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-821792/",
    "series_id": "821792",
-   "updated": "2026-11-01 20:00",
+   "updated": "2026-11-02 23:21",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "גליק ותמר | 02.11.26",
+       "logo": "https://www.kan.org.il/media/zusiz0h0/גליק-ותמר-211.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261467/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "מגזין אקטואליה. עדכוני חדשות, ראיונות לסיכום השבוע ומבט לאירועי השבוע הבא בנושאי פוליטיקה, ביטחון וחברה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1115313/",
+       "id": "1115313"
+      },
       {
        "name": "גליק ותמר | 01.11.26",
        "logo": "https://www.kan.org.il/media/1fbpqo2w/גליק-ותמר-אתר.jpg",

@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
    "series_id": "1075348",
-   "updated": "2026-11-01 20:02",
+   "updated": "2026-11-02 23:24",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "הכוורת | פרק 44",
+       "logo": "https://www.kan.org.il/media/cbqp32om/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2256890/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-19",
+       "plot": "מורה שיש לה גם תואר בתיאטרון, מהנדס שגם כותב תשחצים, ואיש מכירות שהוא גם מאייר- שלושה אנשים מוכשרים במשחק מאתגר שדורש ידע וגם אסטרטגיה. הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1110578/",
+       "id": "1110578",
+       "season": 1
+      },
       {
        "name": "הכוורת | פרק 43",
        "logo": "https://www.kan.org.il/media/pmlj4qth/נקי-אתר.jpg",

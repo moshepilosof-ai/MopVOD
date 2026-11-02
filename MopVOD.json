@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-02 11:55",
+ "updated": "2026-11-02 23:35",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -23,10 +23,10 @@
   {
    "name": "כאן 11 - המהדורה המרכזית",
    "file": "vod/kan11_news.json",
-   "episodes": 2271,
+   "episodes": 2272,
    "seasons": 1,
-   "updated": "2026-11-02 00:02",
-   "newest": "2026-11-01",
+   "updated": "2026-11-02 23:30",
+   "newest": "2026-11-02",
    "oldest": "2017-11-28"
   },
   {
@@ -455,10 +455,10 @@
   {
    "name": "כאן 11 - הכוורת",
    "file": "vod/kan_1075348.json",
-   "episodes": 44,
+   "episodes": 45,
    "seasons": 2,
-   "updated": "2026-11-01 20:02",
-   "newest": "2026-10-18",
+   "updated": "2026-11-02 23:24",
+   "newest": "2026-10-19",
    "oldest": "2026-07-12"
   },
   {
@@ -509,10 +509,10 @@
   {
    "name": "כאן 11 - כאן חדשות +",
    "file": "vod/kan_1080424.json",
-   "episodes": 35,
+   "episodes": 36,
    "seasons": 1,
-   "updated": "2026-11-01 20:05",
-   "newest": "2026-11-01",
+   "updated": "2026-11-02 23:27",
+   "newest": "2026-11-02",
    "oldest": "2026-07-26"
   },
   {
@@ -734,9 +734,9 @@
   {
    "name": "כאן 11 - דאבל על הכסף",
    "file": "vod/kan_1103859.json",
-   "episodes": 17,
+   "episodes": 18,
    "seasons": 2,
-   "updated": "2026-10-29 20:35",
+   "updated": "2026-11-02 23:21",
    "newest": "2026-10-12",
    "oldest": "2026-09-28"
   },
@@ -986,10 +986,10 @@
   {
    "name": "כאן 11 - חדשות הלילה",
    "file": "vod/kan_11602.json",
-   "episodes": 2045,
+   "episodes": 2046,
    "seasons": 1,
-   "updated": "2026-11-01 23:58",
-   "newest": "2026-11-01",
+   "updated": "2026-11-02 23:26",
+   "newest": "2026-11-02",
    "oldest": "2017-12-10"
   },
   {
@@ -1040,10 +1040,10 @@
   {
    "name": "כאן 11 - העולם היום",
    "file": "vod/kan_11719.json",
-   "episodes": 1822,
+   "episodes": 1823,
    "seasons": 1,
-   "updated": "2026-11-01 20:03",
-   "newest": "2026-11-01",
+   "updated": "2026-11-02 23:25",
+   "newest": "2026-11-02",
    "oldest": "2017-12-31"
   },
   {
@@ -1319,10 +1319,10 @@
   {
    "name": "כאן 11 - מהצד השני עם גיא זהר",
    "file": "vod/kan_12463.json",
-   "episodes": 1723,
+   "episodes": 1724,
    "seasons": 3,
-   "updated": "2026-11-01 20:08",
-   "newest": "2026-11-01",
+   "updated": "2026-11-02 23:30",
+   "newest": "2026-11-02",
    "oldest": "2019-02-17"
   },
   {
@@ -3434,18 +3434,18 @@
   {
    "name": "כאן 11 - גליק ותמר",
    "file": "vod/kan_821792.json",
-   "episodes": 142,
+   "episodes": 143,
    "seasons": 1,
-   "updated": "2026-11-01 20:00",
-   "newest": "2026-11-01",
+   "updated": "2026-11-02 23:21",
+   "newest": "2026-11-02",
    "oldest": "2024-11-09"
   },
   {
    "name": "כאן 11 - כאן בשש",
    "file": "vod/kan_821794.json",
-   "episodes": 426,
+   "episodes": 427,
    "seasons": 1,
-   "updated": "2026-11-01 20:05",
+   "updated": "2026-11-02 23:27",
    "newest": "2027-07-23",
    "oldest": "2024-11-10"
   },
@@ -3866,10 +3866,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 669,
+   "episodes": 671,
    "seasons": 2,
-   "updated": "2026-11-01 20:10",
-   "newest": "2026-11-01",
+   "updated": "2026-11-02 23:32",
+   "newest": "2026-11-02",
    "oldest": "2024-09-18"
   },
   {
