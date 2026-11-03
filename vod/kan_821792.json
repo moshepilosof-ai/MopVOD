@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-821792/",
    "series_id": "821792",
-   "updated": "2026-11-02 23:21",
+   "updated": "2026-11-03 21:21",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "גליק ותמר | 03.11.26",
+       "logo": "https://www.kan.org.il/media/0sefsvyz/גליק-ותמר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261585/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "מגזין אקטואליה יומי. יפעת גליק ותמר אלמוג עם כותרות החדשות, ראיונות עומק, אנשי השעה, והרגעים האנושיים שמרכיבים את המציאות הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1115738/",
+       "id": "1115738"
+      },
       {
        "name": "גליק ותמר | 02.11.26",
        "logo": "https://www.kan.org.il/media/zusiz0h0/גליק-ותמר-211.png",

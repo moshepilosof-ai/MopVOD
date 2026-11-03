@@ -6,8 +6,23 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12002/",
    "series_id": "12002",
-   "updated": "2026-10-28 10:30",
+   "updated": "2026-11-03 21:25",
    "sub_categories": [
+    {
+     "name": "עונה 9",
+     "channels": [
+      {
+       "name": "זהו זה! עונה 9 | פרק 1 - 03.11.26",
+       "logo": "https://www.kan.org.il/media/m5tnqas3/זהו-זה-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261424/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "מוני מושונוב, גידי גוב, דבל'ה גליקמן, ואבי קושניר עם אנסמבל שחקני חיזוק, עושים \"סדר\" בימים המטורפים שעוברים עלינו, מצחיקים ומפתיעים. בפרק פתיחת העונה הם יארחו את משה פרץ.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s9/1115141/",
+       "id": "1115141",
+       "season": 9
+      }
+     ]
+    },
     {
      "name": "עונה 8",
      "channels": [

@@ -6,8 +6,33 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13401/",
    "series_id": "13401",
-   "updated": "2026-10-28 10:32",
+   "updated": "2026-11-03 21:25",
    "sub_categories": [
+    {
+     "name": "עונה 9",
+     "channels": [
+      {
+       "name": "גיבור של אמא",
+       "logo": "https://www.kan.org.il/media/p0jerkbz/גיבור-של-אמא-לייב-באולפן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261593/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "\"אורח: משה פרץ\n\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר חליל : אמיר לקנר\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s9/1115751/",
+       "id": "1115751",
+       "season": 9
+      },
+      {
+       "name": "אף אחד לא קם",
+       "logo": "https://www.kan.org.il/media/ykjjkofw/אף-אחד-לא-קם-לייב-באולפן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261592/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "\"עיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר חליל : אמיר לקנר\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s9/1115734/",
+       "id": "1115734",
+       "season": 9
+      }
+     ]
+    },
     {
      "name": "עונה 8",
      "channels": [

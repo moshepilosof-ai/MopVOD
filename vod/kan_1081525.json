@@ -1,0 +1,43 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חיבורים",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1081525/",
+   "series_id": "1081525",
+   "updated": "2026-11-03 21:26",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חיבורים | פרק 1 - שני ושיר",
+       "logo": "https://www.kan.org.il/media/omwndwba/אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229502/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-26",
+       "plot": "סדרת דוקו-ריאליטי המביאה 3 סיפורים אנושיים מטלטלים על נתק משפחתי עמוק. הפרק הראשון עוקב אחר אם ל-4, ששנים של טעויות חינוכיות וחוסר כלים הובילו לנתק מוחלט מבתה. כשהכאב מגיע לשיא, היא יוצאת למסע של תיקון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1081525/s1/1081533/",
+       "id": "1081533",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חיבורים | הצצה - האם הם יתאחדו?",
+       "logo": "https://www.kan.org.il/media/yxchihp0/תמונה-טריילר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260998/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "סדרה חדשה המאחדת מחדש בני משפחתה לאחר קרע עמוק של שנים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1081525/1114945/",
+       "id": "1114945"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
