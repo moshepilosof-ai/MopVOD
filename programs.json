@@ -2330,12 +2330,6 @@
       "section": "archive1/vod"
     },
     {
-      "id": "kan_12062",
-      "title": "כאן 11 - על נשים בפוליטיקה הישראלית מאז ועד היום",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-12062/",
-      "section": "kan/kan-11"
-    },
-    {
       "id": "kan_13664",
       "title": "כאן 11 - עמוד האש",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13664/",
@@ -2594,12 +2588,6 @@
       "section": "kan/kan-actual"
     },
     {
-      "id": "kan_1042052",
-      "title": "כאן 11 - שלושה צלמים בביצה",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-1042052/",
-      "section": "kan/kan-11"
-    },
-    {
       "id": "kan_327420",
       "title": "כאן 11 - שלושה שירים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-327420/",
@@ -2693,6 +2681,18 @@
       "id": "kan_928522",
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_12062",
+      "title": "כאן 11 - על נשים בפוליטיקה הישראלית מאז ועד היום",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-12062/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1042052",
+      "title": "כאן 11 - שלושה צלמים בביצה",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1042052/",
       "section": "kan/kan-11"
     },
     {
