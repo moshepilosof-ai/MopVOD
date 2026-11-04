@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-03 21:29",
+   "updated": "2026-11-04 21:45",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זהר | 04.11.26",
+       "logo": "https://www.kan.org.il/media/gjbd3tqr/מהצדהשני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257352/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-04",
+       "plot": "במשך חודשים התמכרנו לסקרים, רק כדי לגלות (שוב) שרובם פספסו! הפערים העצומים בין התחזיות לתוצאות האמת הם לגמרי מקריים? ולפי אילו מדדים קובעים איזה סקר צדק? צללנו ליום הכיפורים של הסוקרים ולתחושות הבטן שמאחורי המספרים | מכונת הפייקים עבדה שעות נוספות ביום הבחירות - חבל שהצופה בנימין נתניהו לא שלח לה את תמונות וסרטונים לפני שהפיץ.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1111292/",
+       "id": "1111292",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זהר | 03.11.26",
        "logo": "https://www.kan.org.il/media/g1phid1g/גאיזו.jpg",

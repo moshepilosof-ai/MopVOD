@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11039/",
    "series_id": "11039",
-   "updated": "2026-10-31 19:48",
+   "updated": "2026-11-04 21:49",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "שבע עם אליאור לוי | 04.11.26",
+       "logo": "https://www.kan.org.il/media/nwnnepmx/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262194/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-04",
+       "plot": "כל ענייני היום הבוערים עם אליאור לוי, האנשים שבמרכז החדשות ומיטב הפרשנים, מימין ומשמאל.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11039/1116119/",
+       "id": "1116119"
+      },
       {
        "name": "שבע עם איילה חסון | 31.10.26",
        "logo": "https://www.kan.org.il/media/c4fbc1gw/שבע_אתר.jpg",

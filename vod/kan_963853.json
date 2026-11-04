@@ -6,11 +6,31 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-03 21:31",
+   "updated": "2026-11-04 21:47",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "הכי חורפי, מנחם - וטעים: המסע בעקבות הצ'ולנט המושלם",
+       "logo": "https://www.kan.org.il/media/rz3fnjoo/1920x1080_4800_hp-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262219/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-04",
+       "plot": "הוא מתבשל 24 שעות, יש לו אינספור גרסאות - וכל משפחה מבטיחה שהמתכון שלה הוא הטוב ביותר. החמין, אחד המאכלים היהודיים העתיקים, הוא הרבה יותר מסיר של שעועית, תפוחי אדמה וקישקע - אלא מסורת שעוברת מדור לדור, טעם של בית וגם גאווה משפחתית. רגע לפני שהחורף מגיע, יצאנו לחפש את המתכון לצ'ולנט המושלם.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116152/",
+       "id": "1116152",
+       "season": 2
+      },
+      {
+       "name": "האב השכול שמשלב אנשים עם צרכים מיוחדים במפעל שלו: \"שואב מהם אופטימיות\" | רובי מחפש תקווה",
+       "logo": "https://www.kan.org.il/media/fuxpuyow/רובי-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262217/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-04",
+       "plot": "רובי מחפש תקווה: אב שאיבד את בנו ב-7 באוקטובר החליט לקום כל בוקר מחדש ולמצוא את הכוחות במפעל שהוא מנהל, ובעובדיו המסורים - בעלי צרכים מיוחדים.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116149/",
+       "id": "1116149",
+       "season": 2
+      },
       {
        "name": "20 שנה לבוראט: הדמות האייקונית של סשה ברון כהן חוגגת שני עשורים",
        "logo": "https://www.kan.org.il/media/q4pfs5gw/12.jpg",
