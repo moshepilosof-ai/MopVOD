@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11288/",
    "series_id": "11288",
-   "updated": "2026-10-31 19:49",
+   "updated": "2026-11-05 21:54",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "שרון ואורי | 05.11.2026",
+       "logo": "https://www.kan.org.il/media/kzcbwuvx/שרון-ואורי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262358/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-05",
+       "plot": "מגזין אקטואליה. אורי לוי ושרון וכסלר עם עדכוני חדשות, ראיונות עומק, אנשי השעה, והרגעים האנושיים שמרכיבים את המציאות הישראלית",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11288/1116430/",
+       "id": "1116430"
+      },
       {
        "name": "שרון ואורי | 31.10.26",
        "logo": "https://www.kan.org.il/media/0k2eur4d/שרון-ואורי-אתר-2.png",

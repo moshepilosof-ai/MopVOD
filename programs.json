@@ -686,12 +686,6 @@
       "section": "archive1/vod"
     },
     {
-      "id": "kan_652283",
-      "title": "כאן 11 - מוצ\"ש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-652283/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_984622",
       "title": "כאן 11 - כאן ועכשיו | פרקים מלאים לצפייה",
       "url": "https://www.kan.org.il/content/archive1/vod/p-984622/",
@@ -1068,6 +1062,12 @@
       "title": "כאן 11 - אחרי שהם חזרו",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1110163/",
       "section": "kan/news-series"
+    },
+    {
+      "id": "kan_1102158",
+      "title": "כאן 11 - איך עיצבה ההיסטוריה המשפחתית את מי שאני כיום?",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1102158/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_1003359",
@@ -1646,6 +1646,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_991360",
+      "title": "כאן 11 - נתן דטנר פוגש את התרבות היהודית כפי שהיא היום",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-991360/",
+      "section": "archive1/vod"
+    },
+    {
       "id": "kan_965920",
       "title": "כאן 11 - ו'יני (איפה) ידידה?",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-965920/",
@@ -1976,12 +1982,6 @@
       "section": "archive1/vod"
     },
     {
-      "id": "kan_1102158",
-      "title": "כאן 11 - איך עיצבה ההיסטוריה המשפחתית את מי שאני כיום?",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1102158/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_1018959",
       "title": "כאן 11 - מאסטר בראנץ'",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1018959/",
@@ -2052,6 +2052,12 @@
       "title": "כאן 11 - מופע מחווה לדקלון וצלילי הכרם",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1101750/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_652283",
+      "title": "כאן 11 - מוצ\"ש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-652283/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_666904",
@@ -2228,12 +2234,6 @@
       "section": "archive1/remembering"
     },
     {
-      "id": "kan_991360",
-      "title": "כאן 11 - נתן דטנר פוגש את התרבות היהודית כפי שהיא היום",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-991360/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_12169",
       "title": "כאן 11 - סבתא בישלה עם תום יער",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12169/",
@@ -2274,6 +2274,12 @@
       "title": "כאן 11 - סיפורים מהכורסה",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12955/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1090290",
+      "title": "כאן 11 - סיפורם של אנשים שנקלעו למצב אבוד ויצאו ממנו",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1090290/",
+      "section": "archive1/vod"
     },
     {
       "id": "kan_739563",
@@ -2322,12 +2328,6 @@
       "title": "כאן 11 - עיר המתים",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-975806/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1090290",
-      "title": "כאן 11 - סיפורם של אנשים שנקלעו למצב אבוד ויצאו ממנו",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-1090290/",
-      "section": "archive1/vod"
     },
     {
       "id": "kan_13664",

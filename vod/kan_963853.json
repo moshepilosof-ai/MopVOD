@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-04 21:47",
+   "updated": "2026-11-05 21:51",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "עיר זמנית שהוקמה באמצע המדבר: הצצה מיוחדת למידברן",
+       "logo": "https://www.kan.org.il/media/4gyjqwh3/1920x1080_4800_hp00_11_07_08.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262410/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-05",
+       "plot": "בכל שנה זה קורה: אלפי בני אדם מתנתקים מחיי היום-יום, נוהרים בשיירות למדבר - ומקימים עיר חד פעמית של מיצגים צבעוניים, מסיבות ואוהלים באמצע שום מקום. מידברן 2026 מתקיים בימים אלו ממש, וקיבלנו הצצה אל מאחורי הקלעים של האירוע שרובנו לא באמת מכירים",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116555/",
+       "id": "1116555",
+       "season": 2
+      },
+      {
+       "name": "בגלל תרופות ההרזיה: המידות הגדולות נעלמות מהמדפים - והחייטים מרוויחים",
+       "logo": "https://www.kan.org.il/media/zkgljjhp/5.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262404/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-05",
+       "plot": "תרופות ההרזיה משנות את עולם האופנה האמריקני - ולא רק ברשתות הגדולות ובמותגים. המרוויחים הגדולים הם דווקא החייטים וחנויות היד השנייה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116550/",
+       "id": "1116550",
+       "season": 2
+      },
+      {
+       "name": "המחאות בסוריה נגד ישראל - והשאלות האסטרטגיות | שנתיים לנפילת משטר אסד",
+       "logo": "https://www.kan.org.il/media/hgkgmwfw/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262393/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-05",
+       "plot": "שנתיים חלפו מאז שמשטר אסד בסוריה נפל, ומאז יושבים חיילי צה\"ל ברצועת ביטחון מעבר לגדר. בשטח מתחילות מחאות נגד ישראל - ונדמה שאיש לא שואל את השאלות האסטרטגיות. פרויקט מיוחד: שנתיים לנפילת הרודן הסורי",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116531/",
+       "id": "1116531",
+       "season": 2
+      },
       {
        "name": "הכי חורפי, מנחם - וטעים: המסע בעקבות הצ'ולנט המושלם",
        "logo": "https://www.kan.org.il/media/rz3fnjoo/1920x1080_4800_hp-1.jpg",

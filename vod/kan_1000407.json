@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/",
    "series_id": "1000407",
-   "updated": "2026-10-28 09:37",
+   "updated": "2026-11-05 21:40",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "בשכונה שלנו | 05.11.26",
+       "logo": "https://www.kan.org.il/media/flqgpthy/נקי-17.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262363/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-05",
+       "plot": "תכנית שבועית בהגשת רועי קייס ואליאור לוי העוסקת בסוגיות מגוונות הנוגעות למדינות המזרח התיכון ובדגש על העולם הערבי, ושאינם באים בדרך כלל לידי ביטוי בתקשורת הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1000407/s1/1116459/",
+       "id": "1116459",
+       "season": 1
+      },
       {
        "name": "בשכונה שלנו | 22.10.26",
        "logo": "https://www.kan.org.il/media/4hsc0jty/בשכונה_אתר.jpg",
