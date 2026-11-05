@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-04 21:51",
+ "updated": "2026-11-05 11:42",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -4127,10 +4127,10 @@
   {
    "name": "כאן 11 - FOMO",
    "file": "vod/kan_996166.json",
-   "episodes": 145,
+   "episodes": 146,
    "seasons": 1,
-   "updated": "2026-11-01 23:52",
-   "newest": "2026-11-01",
+   "updated": "2026-11-05 11:27",
+   "newest": "2026-11-05",
    "oldest": "2026-02-05"
   },
   {
@@ -4156,7 +4156,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-04 08:11",
+   "updated": "2026-11-05 08:37",
    "newest": "2026-09-28",
    "oldest": "2026-09-18"
   },
@@ -4165,7 +4165,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-04 08:30",
+   "updated": "2026-11-05 08:56",
    "newest": null,
    "oldest": null
   },
