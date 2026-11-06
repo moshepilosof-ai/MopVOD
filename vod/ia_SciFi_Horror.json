@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-10-29 00:09",
+   "updated": "2026-11-06 08:58",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -1458,17 +1458,6 @@
        "plot": "Pulse ( 回路 , Kairo ) is a 2001 Japanese techno-horror film directed by Kiyoshi Kurosawa . The film was screened in the Un Certain Regard section at the 2001 Cannes Film Festival . [4] The movie was well-received critically and has a cult following . [5] An English-language remake, also titled Pulse , debuted in 2006 and spawned two sequels. The script was also adapted into a novel of the same name by Kurosawa himself. [6]",
        "page": "https://archive.org/details/pulse.-2001",
        "id": "pulse.-2001",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Brotherhood Of The Wolf (2001)",
-       "logo": "https://archive.org/services/img/brotherhood-of-the-wolf",
-       "url": "https://archive.org/details/brotherhood-of-the-wolf",
-       "date": "2001-01-01",
-       "plot": "Brotherhood of the Wolf is a 2001 French period action horror film directed by Christophe Gans, co-written by Gans and Stéphane Cabel, and starring Samuel Le Bihan, Mark Dacascos, Émilie Dequenne, Monica Bellucci and Vincent Cassel. The story takes place in 18th-century France, where the Chevalier de Fronsac and Mani of the Iroquois tribe are sent to investigate the mysterious slaughter of hundreds by an unknown creature in the county of Gévaudan.",
-       "page": "https://archive.org/details/brotherhood-of-the-wolf",
-       "id": "brotherhood-of-the-wolf",
        "duration": null,
        "resolve": "archive"
       }
