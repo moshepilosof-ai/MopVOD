@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11668/",
    "series_id": "11668",
-   "updated": "2026-10-31 00:09",
+   "updated": "2026-11-06 21:40",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "חדשות שישי | 06.11.26",
+       "logo": "https://www.kan.org.il/media/1rnomonv/חדשות-שישי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262849/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-06",
+       "plot": "נבחרת הפרשנים של כאן חדשות עם מהדורת סיכום השבוע של כאן 11: הסיפורים שעשו את השבוע, הכותרות המרכזיות, הדיווחים והפרשנויות – לצד כתבות מגזין מרתקות.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11668/1116776/",
+       "id": "1116776"
+      },
       {
        "name": "חדשות שישי | 30.10.26",
        "logo": "https://www.kan.org.il/media/sq0hwoc2/נקי-חדשות-שישי.jpg",

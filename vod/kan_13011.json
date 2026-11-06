@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13011/",
    "series_id": "13011",
-   "updated": "2026-10-30 20:20",
+   "updated": "2026-11-06 21:46",
    "sub_categories": [
     {
      "name": "עונה 6",
      "channels": [
+      {
+       "name": "ערב עם שי שטרן 6 - פרק 33",
+       "logo": "https://www.kan.org.il/media/25wlly35/שי-שטרן-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258305/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-23",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, יונה קפח ומושיק גלאמין. וגם: מנדי וביתאן על המאמצים להרכבת ממשלה, ושי נפגש עם מוני מושונוב ודבל'ה גליקמן לקראת העונה החדשה של \"זהו זה\".",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1112054/",
+       "id": "1112054",
+       "season": 6
+      },
       {
        "name": "ערב עם שי שטרן 6 - פרק 32",
        "logo": "https://www.kan.org.il/media/hb4brjgm/שי-שטרן-לאתר.jpg",

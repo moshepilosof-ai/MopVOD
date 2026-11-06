@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12645/",
    "series_id": "12645",
-   "updated": "2026-10-30 20:19",
+   "updated": "2026-11-06 21:45",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "סוכן תרבות | 06.11.26",
+       "logo": "https://www.kan.org.il/media/soeblnsx/סוכן-תרבות-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258304/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-06",
+       "plot": "מגזין תרבות אישי עם קובי מידן. השבוע: היהדות של לאונרד כהן, דוקו מרתק על הרצח שהצית את ליל הבדולח, יום הולדת 75 ליוני רכטר, ודורית ראובני מתחרטת שסירבה להופיע עם שלמה ארצי, בשאלון.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12645/s4/1112052/",
+       "id": "1112052",
+       "season": 4
+      },
       {
        "name": "סוכן תרבות | 30.10.26",
        "logo": "https://www.kan.org.il/media/kc0lg5bh/סוכן-תרבוטת.jpg",

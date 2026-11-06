@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-05 21:51",
+   "updated": "2026-11-06 21:46",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "חצ'פורי וחינקלי הם רק ההתחלה: הפריחה המפתיעה של המטבח הגאורגי בישראל",
+       "logo": "https://www.kan.org.il/media/txslge0c/חצפורי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262842/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-06",
+       "plot": "חצ'פורי, חינקלי, צ'אכאפולי וצ'ורצ'חלה - מאכלי המטבח הגאורגי לא חדשים לחך שלנו, אבל עם הפיכתה של גאורגיה ליעד תיירות נכסף לישראלים, הם זוכים לפריחה מחודשת ולפרשנויות מעודכנות ומגרות של מסעדנים צעירים. כתבנו בילה במעוזי הקולינריה הגאורגית בתל אביב, בת-ים ואשדוד, וחזר מסופק ושבע מאי פעם",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116770/",
+       "id": "1116770",
+       "season": 2
+      },
+      {
+       "name": "\"זה מחבר בין כל הדורות\": איך הפכו משחקי הקופסה לפופולריים יותר מאי-פעם?",
+       "logo": "https://www.kan.org.il/media/0gkbv1qf/משחקי-קופסא-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-06",
+       "plot": "משחקי הקופסה מלווים את ישראל מיומה הראשון, ובשנות החמישים והשישים לא היה בית שלא אירח טורניר מונופול או רמיקוב משפחתי. גם במאה הנוכחית הקסם של המשחקים הללו לא פג - בזכות להיטי ענק כמו \"קטאן\" או \"אליאס\" - ובשנים האחרונות הם משגשגים גם ברשת. כתבתנו עם הספר החדש שחוזר למשחקים ששיחקנו פעם, ועם הישראלים שמככבים בטורנירים בין-לאומיים",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116768/",
+       "id": "1116768",
+       "season": 2
+      },
+      {
+       "name": "נתניהו הזהיר מסנקציות על הבנקים. מה זה אומר על הכסף שלנו?",
+       "logo": "https://www.kan.org.il/media/l2hb2jws/טאמבנייל-כללי-שורה-אחת-1-jpg.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262800/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-06",
+       "plot": "סנקציות על הבנקים הישראליים עלולות לפגוע לא רק בכלכלה, אלא גם במשכורות, במקומות העבודה ואפילו בקניות שלנו מחו\"ל. נתניהו כבר הזהיר מפני התרחיש, ובריטניה מקדמת סנקציות נגד גופים שמממנים בנייה בהתנחלויות. איך האיום הזה עלול להשפיע על החיים של כולנו, והאם ישראל יכולה למנוע אותו? הטור של שאול אמסטרדמסקי, בשיתוף כאן חדשות בדיגיטל",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116715/",
+       "id": "1116715",
+       "season": 2
+      },
       {
        "name": "עיר זמנית שהוקמה באמצע המדבר: הצצה מיוחדת למידברן",
        "logo": "https://www.kan.org.il/media/4gyjqwh3/1920x1080_4800_hp00_11_07_08.jpg",

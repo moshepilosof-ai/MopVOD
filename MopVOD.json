@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-06 11:37",
+ "updated": "2026-11-06 21:49",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -1022,10 +1022,10 @@
   {
    "name": "כאן 11 - חדשות שישי",
    "file": "vod/kan_11668.json",
-   "episodes": 487,
+   "episodes": 488,
    "seasons": 1,
-   "updated": "2026-10-31 00:09",
-   "newest": "2026-10-30",
+   "updated": "2026-11-06 21:40",
+   "newest": "2026-11-06",
    "oldest": "2017-10-13"
   },
   {
@@ -1373,10 +1373,10 @@
   {
    "name": "כאן 11 - סוכן תרבות",
    "file": "vod/kan_12645.json",
-   "episodes": 131,
+   "episodes": 132,
    "seasons": 3,
-   "updated": "2026-10-30 20:19",
-   "newest": "2026-10-30",
+   "updated": "2026-11-06 21:45",
+   "newest": "2026-11-06",
    "oldest": "2024-01-19"
   },
   {
@@ -1490,10 +1490,10 @@
   {
    "name": "כאן 11 - ערב עם שי שטרן",
    "file": "vod/kan_13011.json",
-   "episodes": 179,
+   "episodes": 180,
    "seasons": 6,
-   "updated": "2026-10-30 20:20",
-   "newest": "2026-10-16",
+   "updated": "2026-11-06 21:46",
+   "newest": "2026-10-23",
    "oldest": "2023-04-23"
   },
   {
@@ -2795,10 +2795,10 @@
   {
    "name": "כאן 11 - שום פלפל ושמן זית",
    "file": "vod/kan_682519.json",
-   "episodes": 75,
+   "episodes": 76,
    "seasons": 3,
-   "updated": "2026-10-30 20:22",
-   "newest": "2026-10-22",
+   "updated": "2026-11-06 21:48",
+   "newest": "2026-10-29",
    "oldest": "2024-01-17"
   },
   {
@@ -3443,10 +3443,10 @@
   {
    "name": "כאן 11 - גליק ותמר",
    "file": "vod/kan_821792.json",
-   "episodes": 145,
+   "episodes": 146,
    "seasons": 1,
-   "updated": "2026-11-04 21:35",
-   "newest": "2026-11-04",
+   "updated": "2026-11-06 21:35",
+   "newest": "2026-11-06",
    "oldest": "2024-11-09"
   },
   {
@@ -3875,10 +3875,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 678,
+   "episodes": 681,
    "seasons": 2,
-   "updated": "2026-11-05 21:51",
-   "newest": "2026-11-05",
+   "updated": "2026-11-06 21:46",
+   "newest": "2026-11-06",
    "oldest": "2024-09-18"
   },
   {

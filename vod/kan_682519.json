@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-682519/",
    "series_id": "682519",
-   "updated": "2026-10-30 20:22",
+   "updated": "2026-11-06 21:48",
    "sub_categories": [
     {
      "name": "עונה 3",
      "channels": [
+      {
+       "name": "שום פלפל ושמן זית 2026 | פרק 25 - קרן ואיציק קדוש",
+       "logo": "https://www.kan.org.il/media/cfgkb3qk/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260204/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-10-29",
+       "plot": "חיים כהן מארח במטבח לארוחת שישי את קרן ואיציק קדוש זוג הקונדיטורים מירושלים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1114059/",
+       "id": "1114059",
+       "season": 3
+      },
       {
        "name": "שום פלפל ושמן זית 2026 | פרק 24 - אניה בוקשטיין",
        "logo": "https://www.kan.org.il/media/aeglgysl/artboard-1.jpg",
