@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-11-05 08:58",
+ "updated": "2026-11-06 09:00",
  "sources": [
   {
    "id": "yt_UCpVm7bg6pXKo1Pr6k5kxG9A",
@@ -9,9 +9,9 @@
    "logo": "https://yt3.googleusercontent.com/BNbWpqS3XGe0ATGTW9nmlgr39WhrbgM6Bm9xxOvU6KC0NDFxzl4F8sJ58ep7p67zfrh-Zq_JAQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "programs": 317,
-   "episodes": 17419,
+   "episodes": 17424,
    "source": "youtube",
-   "updated": "2026-11-05 08:37"
+   "updated": "2026-11-06 08:37"
   },
   {
    "id": "yt_https___www_ted_com_playlists_304_the_best_of_tedxtelaviv",
@@ -53,9 +53,9 @@
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "programs": 1,
-   "episodes": 950,
+   "episodes": 949,
    "source": "youtube",
-   "updated": "2026-10-29 00:09"
+   "updated": "2026-11-06 08:58"
   },
   {
    "id": "ia_classic_tv",
@@ -77,7 +77,7 @@
    "programs": 57,
    "episodes": 5598,
    "source": "youtube",
-   "updated": "2026-11-05 08:56"
+   "updated": "2026-11-06 08:58"
   },
   {
    "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
