@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-06 21:49",
+ "updated": "2026-11-07 10:55",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -4156,7 +4156,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-06 08:37",
+   "updated": "2026-11-07 07:52",
    "newest": "2026-09-28",
    "oldest": "2026-09-18"
   },
@@ -4165,7 +4165,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-06 08:58",
+   "updated": "2026-11-07 08:08",
    "newest": null,
    "oldest": null
   },
