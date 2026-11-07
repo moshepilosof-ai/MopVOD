@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11486/",
    "series_id": "11486",
-   "updated": "2026-10-31 19:47",
+   "updated": "2026-11-07 19:52",
    "sub_categories": [
     {
      "name": "עונה 11",
      "channels": [
+      {
+       "name": "פגישה עם רוני קובן עונה 11 | פרק 7 - שלומי אלדר",
+       "logo": "https://www.kan.org.il/media/rlsfuwg1/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2246426/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-16",
+       "plot": "שלומי אלדר, מספר לרוני קובן את הסיפור הלא יאומן של השנה האחרונה בחייו - איך ממש במקביל לכך שהוא עלה על סקופ חייו ועמד לפרסם אותו - גילה שחייו האישיים קורסים. איך התמוטט נפשית ואיך התגבר וחזר לחיים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11486/s11/1100317/",
+       "id": "1100317",
+       "season": 11
+      },
       {
        "name": "פגישה עם רוני קובן עונה 11 | פרק 5 - בר אלמליח דונצוב (הפשוטע)",
        "logo": "https://www.kan.org.il/media/55bcbklt/פגישה-הפשוטע-אתרpng.jpg",
