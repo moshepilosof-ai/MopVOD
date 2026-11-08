@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-07 19:55",
+ "updated": "2026-11-08 00:10",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -858,6 +858,15 @@
    "oldest": "2026-10-05"
   },
   {
+   "name": "כאן 11 - ילדי חברון",
+   "file": "vod/kan_1110562.json",
+   "episodes": 1,
+   "seasons": 1,
+   "updated": "2026-11-08 00:02",
+   "newest": "2026-10-19",
+   "oldest": "2026-10-19"
+  },
+  {
    "name": "כאן 11 - הנווט",
    "file": "vod/kan_1110893.json",
    "episodes": 2,
@@ -1058,10 +1067,10 @@
   {
    "name": "כאן 11 - חדשות השבת עם איילה חסון",
    "file": "vod/kan_11736.json",
-   "episodes": 450,
+   "episodes": 451,
    "seasons": 1,
-   "updated": "2026-10-31 23:47",
-   "newest": "2026-10-31",
+   "updated": "2026-11-08 00:01",
+   "newest": "2026-11-07",
    "oldest": "2017-02-17"
   },
   {
@@ -3875,10 +3884,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 681,
+   "episodes": 685,
    "seasons": 2,
-   "updated": "2026-11-06 21:46",
-   "newest": "2026-11-06",
+   "updated": "2026-11-08 00:06",
+   "newest": "2026-11-07",
    "oldest": "2024-09-18"
   },
   {

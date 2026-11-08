@@ -6,11 +6,51 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-06 21:46",
+   "updated": "2026-11-08 00:06",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "עם גלגל שווארמה ואגיו: נבחרת ישראל קטפה תואר באליפות העולם בבשר",
+       "logo": "https://www.kan.org.il/media/qybmw0is/6.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262986/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-07",
+       "plot": "הנה אליפות שלא חשבתם שננצח בה - אליפות העולם בבשר. הנבחרת הישראלית חזרה השבוע לארץ מטקסס ארצות הברית עם הישג היסטורי - גלגל שווארמה במשקל 200 ק\"ג שקטף את המקום הראשון, וכל זה בפעם הראשונה שהשתתפה באירוע",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116941/",
+       "id": "1116941",
+       "season": 2
+      },
+      {
+       "name": "הונה את ישיבת הממשלה מהכלא: הריאיון האחרון של הרמאי מספר אחת | בלעדי",
+       "logo": "https://www.kan.org.il/media/uoinznzt/נוכל-חדש.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262980/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-07",
+       "plot": "אורן אברהם הוא כנראה גדול הנוכלים בתולדות מדינת ישראל. הוא שלח נערות ליווי לשופטים, הצליח להשיג קודים סודיים של בנקים ואפילו לשלוח פיצות לישיבת ממשלה בעזרת כרטיס האשראי של מנכ\"ל המשרד. את כל זה הוא עשה מבית הכלא, שממנו כמעט ולא שוחרר, בעזרת מכשיר טלפון והרבה תחכום. השבוע הוא הלך לעולמו, שנה לאחר ששוחרר ממאסר בפעם האחרונה. כתבתנו ראיינה אותו בבוקר שבו יצא מכותלי הכלא",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116937/",
+       "id": "1116937",
+       "season": 2
+      },
+      {
+       "name": "הקושי בלשחק מחבלת - וההחלטה הכואבת לעלות לארץ מצרפת: כוכבת פאודה בריאיון",
+       "logo": "https://www.kan.org.il/media/fmnpmbof/פאודה-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262979/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-07",
+       "plot": "השחקנית וירג'יני חליפה חג נולדה וגדלה בפריז למשפחה יהודית. אבל מי שרובנו מכירים מהמסך מהעונה האחרונה של הסדרה פאודה, היא במידה רבה סמל לסיפור של צרפת כולה. מילדות בין מהגרים ועם גילויי אנטישמיות קיימים, אך מעטים, וירג'יני ראתה את המולדת שלה מקצינה ומקצינה - עד שהבינה שהמולדת היא בעצם בישראל, ובחרה לעשות עלייה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116929/",
+       "id": "1116929",
+       "season": 2
+      },
+      {
+       "name": "15 שנה לכיפת ברזל: המהנדסים שפיתחו את הסוללה פותחים את אחורי הקלעים",
+       "logo": "https://www.kan.org.il/media/j14p5lj5/אתר-כיפת-ברזל.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262970/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-07",
+       "plot": "איך הייתה נראית מדינת ישראל ב-2026 בלי כיפת ברזל? כולנו כנראה שאלנו את עצמנו את השאלה המפחידה הזאת בשנים האחרונות, בהן ספגנו ירי מעזה, לבנון, איראן ותימן. הפלא הטכנולוגי תוצרת כחול לבן חוגג 15 שנה לעובדה שבזכות אחוזי היירוט הגבוהים שלו אנחנו יכולים לישון הרבה יותר בשקט, ומקבלי ההחלטות יכולים לנהל מלחמה כשאיום הטילים פחת משמעותית",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1116918/",
+       "id": "1116918",
+       "season": 2
+      },
       {
        "name": "חצ'פורי וחינקלי הם רק ההתחלה: הפריחה המפתיעה של המטבח הגאורגי בישראל",
        "logo": "https://www.kan.org.il/media/txslge0c/חצפורי.jpg",
