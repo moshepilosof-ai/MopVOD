@@ -1,0 +1,46 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - טיפול זוגי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12816/",
+   "series_id": "12816",
+   "updated": "2026-11-08 20:07",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "טיפול זוגי | טריילר",
+       "logo": "https://www.kan.org.il/media/22pnf5yy/1_cover-image_1920x1080_טיפול-זוגי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uxk7z2gh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "ארבעה זוגות נפגשים לטיפול זוגי במשך חצי שנה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12816/866238/",
+       "id": "866238"
+      },
+      {
+       "name": "טיפול זוגי - הצצה | \"אם אני אפיל את ההריון אני אשנא אותך\"",
+       "logo": "https://www.kan.org.il/media/kbzbee4b/טיפול-זוגי-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4gandr8h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "אורפז וספיר חוזרים להחלטה ששינתה את הזוגיות שלהם",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12816/856501/",
+       "id": "856501"
+      },
+      {
+       "name": "טיפול זוגי - הצצה | \"לא את חווית פה השפלה\"",
+       "logo": "https://www.kan.org.il/media/3yppltlr/טיפול-זוגי-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_whzemm7s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-05",
+       "plot": "לירון מתקשה לעמוד לצידה של יעל לאחר היחס הפוגע והמשפיל של אחותה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12816/856491/",
+       "id": "856491"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

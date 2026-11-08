@@ -1,0 +1,146 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - שטוקהולם",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13291/",
+   "series_id": "13291",
+   "updated": "2026-11-08 20:14",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שטוקהולם עונה 2 | פרק 8 - ספירלה של פרדוקסים",
+       "logo": "https://www.kan.org.il/media/nc5eutbz/https-kanstaticazureedgenet-download-pictures-2020-6-14-imgid-35036_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cle4pyah/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "ספירלה של פרדוקסים: נילי מנסה להזהיר את זוהרה מפני גרשי, אך זוהרה לא שועה לאזהרותיה ויוצאת עמו למסע על גבי היאכטה שלו. נילי ויהודה מגלים פרטים חדשים ומטרידים ביחס לנסיבות מותה של אשתו של גרשי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/113945/",
+       "id": "113945",
+       "season": 2
+      },
+      {
+       "name": "שטוקהולם עונה 2 | פרק 7 - גמל עם עניבה",
+       "logo": "https://www.kan.org.il/media/313p4sfq/https-kanstaticazureedgenet-download-pictures-2020-6-7-imgid-34678_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i7nvejit/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "רומן לוהט ניצת בין זוהרה לגרשי, והשניים נאלצים להסתיר אותו מנילי המאוהבת. עמוס מתמנה לראשות החוג. במקביל, מתרבים סימני השאלה סביב דמותו של גרשי זומר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/113766/",
+       "id": "113766",
+       "season": 2
+      },
+      {
+       "name": "שטוקהולם עונה 2 | פרק 6 - איש קריות",
+       "logo": "https://www.kan.org.il/media/c0dj15j5/https-kanstaticazureedgenet-download-pictures-2020-5-31-imgid-34294_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8rhb9ozy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "איש קריות: זוהרה משתחררת ממעצר לאחר שנוקתה מהחשדות בזכות גרשי. היא מנסה להתקרב אליו, אך מגלה שהיחסים בינו ובין נילי התחממו בינתיים. יהודה מרגל אחרי גרושתו, בניסיון לגלות עם מי היא מנהלת רומן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/113531/",
+       "id": "113531",
+       "season": 2
+      },
+      {
+       "name": "שטוקהולם עונה 2 | פרק 5 - אפרסמון לא בשל",
+       "logo": "https://www.kan.org.il/media/qlndps4h/https-kanstaticazureedgenet-download-pictures-2020-5-24-imgid-33945_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5hq91xlh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אפרסמון לא בשל: זוהרה עצורה בחשד לרצח אבישי. יהודה - החושד שלפרודתו יש מאהב חדש - מנצל את היעדרה של זוהרה כדי להתנחל בביתו של אבישי ולגור שם; עמוס מגלה שהאוניברסיטה מוציאה אותו לפנסיה כפויה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/113353/",
+       "id": "113353",
+       "season": 2
+      },
+      {
+       "name": "שטוקהולם עונה 2 | פרק 4 - כסף וכוח",
+       "logo": "https://www.kan.org.il/media/kq1fzhs5/https-kanstaticazureedgenet-download-pictures-2022-10-16-imgid-33748_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gbkrilcx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "כסף וכוח: חוקרי המשטרה עורכים ביקור מטריד בביתה של זוהרה. גרשי זומר לוקח את כל החברים למסע נוסטלגי לטנטורה. נילי מנצלת את הטיול כדי לחזר נמרצות אחרי גרשי, שמצדו מחזר אחרי זוהרה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/112522/",
+       "id": "112522",
+       "season": 2
+      },
+      {
+       "name": "שטוקהולם עונה 2 | פרק 3 - אישה עם ציצים",
+       "logo": "https://www.kan.org.il/media/jrqkhadc/https-kanstaticazureedgenet-download-pictures-2020-5-13-imgid-33406_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mh0hw6c2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "אישה עם ציצים: צוואתו של אבישי נחשפת וטורפת את כל הקלפים; יהודה מתמודד עם ההשלכות הכלכליות של גירושיו; הבעיה הרפואית של עמוס נחשפת; ואחותו של המנוח מאירה באור חדש ומפתיע את זהותו ומניעיו של גרשי",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/112516/",
+       "id": "112516",
+       "season": 2
+      },
+      {
+       "name": "שטוקהולם עונה 2 | פרק 2 - דגים שמנים",
+       "logo": "https://www.kan.org.il/media/fk0ahtf4/https-kanstaticazureedgenet-download-pictures-2020-4-27-imgid-32574_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_134f8w93/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "\"גרשי זומר\" - או איך שלא קוראים לו באמת – מזמין את החברים ליאכטה שלו. הארבעה מחליטים ללכת, חמושים בציוד הקלטה, כדי לנסות לרדת לחקר מניעיו ומטרתו האמיתית; ככל הנראה כספו הרב של המנוח",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/112513/",
+       "id": "112513",
+       "season": 2
+      },
+      {
+       "name": "שטוקהולם עונה 2 | פרק 1 - מאדם אתה ואל אדם תשוב",
+       "logo": "https://www.kan.org.il/media/nyinxfwi/https-kanstaticazureedgenet-download-pictures-2020-4-27-imgid-32573_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j0yj95ph/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "להלווייתו של אבישי מגיע גבר המציג עצמו כחבר ותיק של אבישי, שחי כבר שנים בארה\"ב. אבל סימני השאלה הולכים ומתרבים: מה מניעיו של הגבר המסתורי, ומי הוא באמת?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s2/112510/",
+       "id": "112510",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שטוקהולם | פרק 1 - זוהרה",
+       "logo": "https://www.kan.org.il/media/sxqh1ey3/https-kanstaticazureedgenet-download-pictures-2020-10-13-imgid-40485_aa.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0sygkyt2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "זוהרה מוצאת את אבישי מת במיטתו. היא מזעיקה את חבריה, כדי להתחיל להניע את סידורי הלוויה – אלא שאז מציע יהודה רעיון: להסתיר את דבר מותו של אבישי למשך חמישה ימים, כדי לאפשר לו לזכות בפרס נובל. לאחר ויכוח הרעיון מתקבל",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/s1/87633/",
+       "id": "87633",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "שטוקהולם עונה 2 | טריילר",
+       "logo": "https://www.kan.org.il/media/hdafuubk/2020-4-6-imgid-31573_d.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eeb0dbzn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-10",
+       "plot": "קומדיה שחורה המבוססת על ספרה של נעה ידלין. הסדרה נפתחת עם מותו של אבישי שר-שלום, כלכלן בעל שם עולמי ומועמד מוביל לזכייה בפרס נובל בכלכלה, לאחר שלקה ככל הנראה בלבו. את גופתו מוצאים ארבעת חבריו הקרובים בחמישים. רגע לפני שהם קוראים לאמבולנס ומתחילים להיערך לסידורי הלוויה, עולה בדעתו של אחד מהם רעיון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/881322/",
+       "id": "881322"
+      },
+      {
+       "name": "שטוקהולם - הצצה | לא גרשי זומר",
+       "logo": "https://www.kan.org.il/media/jtcptp5j/תמונה-2.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eev49zew/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "גרשי מפתיע את זוהרה והיא ממש לא אוהבת את זה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/856062/",
+       "id": "856062"
+      },
+      {
+       "name": "שטוקהולם - הצצה | זה לא הזמן",
+       "logo": "https://www.kan.org.il/media/ro1gpnki/תמונה-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hdnvmp7w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "שבעה זה ממש לא הזמן להתחיל לדבר על עיזבון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13291/856061/",
+       "id": "856061"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

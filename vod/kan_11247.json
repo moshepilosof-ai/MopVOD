@@ -1,0 +1,131 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מלאך משחית",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11247/",
+   "series_id": "11247",
+   "updated": "2026-11-08 20:11",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מלאך משחית | פרק 8 - צא טמא",
+       "logo": "https://www.kan.org.il/media/em5brixe/2023-2-8-imgid-93461_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891558/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "באר, מלכי וג׳ובאני מארגנים טקס גירוש  בניסיון נואש להציל את נחמי מאחיזתה של השדה הרצחנית.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159798/",
+       "id": "159798",
+       "season": 1
+      },
+      {
+       "name": "מלאך משחית | פרק 7 - נחמי",
+       "logo": "https://www.kan.org.il/media/quxdy02k/2023-2-8-imgid-93460_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891562/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שמואל משה קלמן מטריד את מלכי ומאיים על המשך חייה בקהילה. נחמי בתו של ישי מתחילה להתנהג מוזר, ובאר נחלץ לעזרתה. היא מעוררת אצל באר זיכרונות מהעבר הטרגי שלו עם ידידה, ולבסוף מובילה אותו אל ידידה עצמה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159795/",
+       "id": "159795",
+       "season": 1
+      },
+      {
+       "name": "מלאך משחית | פרק 6 - אשמדאי",
+       "logo": "https://www.kan.org.il/media/khtf240e/2023-2-8-imgid-93459_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891560/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "החיפוש אחר ידידה מוביל את מלכי ובאר לצפת, ולביתו של שושני, שמגלה להם פרטים מטרידים על ידידה שץ שקשורים גם לבאר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159792/",
+       "id": "159792",
+       "season": 1
+      },
+      {
+       "name": "מלאך משחית | פרק 5 – אור מלפני 1300 שנה",
+       "logo": "https://www.kan.org.il/media/ftspmal4/2023-2-8-imgid-93423_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891556/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "בעבר, דב-בער וידידה הצעירים בורחים ממאה שערים ומתחילים חיים משותפים בעולם החילוני. ובהווה, באר ממשיך בחיפושים אחר ידידה, בניסיון לפענח את הקשר בינה לבין האירועים המצמררים שפוקדים את מאה שערים.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159789/",
+       "id": "159789",
+       "season": 1
+      },
+      {
+       "name": "מלאך משחית | פרק 4 - ידידה",
+       "logo": "https://www.kan.org.il/media/2hlhooj5/2023-2-8-imgid-93421_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891557/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "שמואל משה קלמן מנסה לנחם את מלכי, אבל מעורר אצלה אי נחת. רוח׳לאה נעלמת מהמוסד ומופיעה במרפאה של נמי, וכשבאר ומלכי מגיעים לאסוף אותה, הם חווים עוד התפרצות מפחידה של הילדה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159783/",
+       "id": "159783",
+       "season": 1
+      },
+      {
+       "name": "מלאך משחית | פרק 3 - אשת זנונים",
+       "logo": "https://www.kan.org.il/media/gfeey20e/2023-2-8-imgid-93456_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891555/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "למרות אזהרותיה של איטה, מלכי מביאה את רוח׳לאה אל המוסד במטרה לטפל בה. ההתנהגות המוזרה של רוח׳לאה מובילה את מלכי ובאר אל אשה ערירית בשם ידידה שץ, שנעלמה מביתה לאחרונה.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159777/",
+       "id": "159777",
+       "season": 1
+      },
+      {
+       "name": "מלאך משחית | פרק 2 - דב-בער מברודי",
+       "logo": "https://www.kan.org.il/media/mq3phkn2/2023-2-8-imgid-93446_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891554/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "באר נקשר לעוד מקרה מוות במאה שערים ומבקש את עזרתו של ישי, חבר מהעבר הרחוק. מלכי מוזעקת אל בית חסידי במאה שערים שבו ילדה בשם רוח׳לאה עוברת מה שנראה כמו התעללות בידי רב מקובל.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159771/",
+       "id": "159771",
+       "season": 1
+      },
+      {
+       "name": "מלאך משחית | פרק 1 - אוקסן אוקסן",
+       "logo": "https://www.kan.org.il/media/ginh5jby/2023-2-8-imgid-93458_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1891552/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "סדרת מתח ואימה חדשה שבמרכזה שד רצחני שעובר מאישה לאישה בקהילה חסידית במאה שערים וזורע הרס וחורבן. פרופסור לפיזיקה, חילוני מושבע ופסיכולוגית חרדית חוברים יחד כדי לחקור את מקורותיו.\nבאר מוזמן לחקירת משטרה בעקבות רצח מחריד במאה שערים. ומלכי נפרדת מרשי, המטופלת האהובה שלה, למרות שהיא חושדת שרשי לא לגמרי בסדר.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/s1/159765/",
+       "id": "159765",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מלאך משחית | טריילר",
+       "logo": "https://www.kan.org.il/media/hgnfrb55/2023-1-15-imgid-91175_e.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_58zymcbg/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-05-15",
+       "plot": "פרופסור לפיזיקה שחזר בשאלה ופסיכולוגית חרדית מנסים יחד לעצור שד רצחני",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/902922/",
+       "id": "902922"
+      },
+      {
+       "name": "מלאך משחית - הצצה | שרלטן",
+       "logo": "https://www.kan.org.il/media/nrvby0cd/הצצה-2-מלאך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ujklt9j1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "מה בדיוק עושה המכונה הזאת של באר. אולי הוא שרלטן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/866286/",
+       "id": "866286"
+      },
+      {
+       "name": "מלאך משחית - הצצה | כלה אדומה",
+       "logo": "https://www.kan.org.il/media/5l0fg21f/הצצה-1-מלאך.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_svk86d42/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-03-02",
+       "plot": "האם מקרה הרצח המחריד בחתונה החסידית במאה שערים קשור לשדים?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11247/866280/",
+       "id": "866280"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

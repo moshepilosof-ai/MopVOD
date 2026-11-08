@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-05 21:49",
+   "updated": "2026-11-08 20:10",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זוהר | 08.11.26",
+       "logo": "https://www.kan.org.il/media/irrd0k45/מהצד-השני-811.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2258882/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-08",
+       "plot": "השר קרעי מתהדר ב\"חוק הגיוס אמיתי\" שחוקקו, שגייס אלפי חרדים. מסתבר שאפשר להתספק גם בחוק בפוטנציה | שאול אמסטרדמסקי מתרגש מההשקה החגיגית של השירות החדש של הרכבת, שפועל כבר 4 שנים | לפני הבחירות טראמפ נעזר בדמיון מודרך, אחרי הבחירות? טוב שיש את מה להאשים | שמעון ריקלין מבקש להזכיר מי חסם כבישים וקרא לסרבנות. הארכיון התקשר",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1112434/",
+       "id": "1112434",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זהר | 05.11.26",
        "logo": "https://www.kan.org.il/media/vjoj5pnc/גיאזו.jpg",

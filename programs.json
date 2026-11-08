@@ -1106,12 +1106,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_12255",
-      "title": "כאן 11 - אקלים לשינוי",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-12255/",
-      "section": "kan/kan-11"
-    },
-    {
       "id": "kan_936892",
       "title": "כאן 11 - ארבע חתונות",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-936892/",
@@ -1343,12 +1337,6 @@
       "id": "kan_1087990",
       "title": "כאן 11 - הדיגיטל חוגג עשור",
       "url": "https://www.kan.org.il/content/dig/digital/p-1087990/",
-      "section": "dig/digital"
-    },
-    {
-      "id": "kan_12097",
-      "title": "כאן 11 - הדיקטטורים",
-      "url": "https://www.kan.org.il/content/dig/digital/p-12097/",
       "section": "dig/digital"
     },
     {
@@ -1784,6 +1772,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_12816",
+      "title": "כאן 11 - טיפול זוגי",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-12816/",
+      "section": "kan/kan-11"
+    },
+    {
       "id": "kan_1087616",
       "title": "כאן 11 - טל גורדון פוגשת זמרים לשיחה המלווה בטעימות מהקריירה",
       "url": "https://www.kan.org.il/content/archive1/vod/p-1087616/",
@@ -1824,12 +1818,6 @@
       "title": "כאן 11 - ילדי חברון",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1110562/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_12342",
-      "title": "כאן 11 - ילדי פלא",
-      "url": "https://www.kan.org.il/content/dig/digital/p-12342/",
-      "section": "dig/digital"
     },
     {
       "id": "kan_336216",
@@ -2106,6 +2094,12 @@
       "title": "כאן 11 - מכינת התקומה",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1035662/",
       "section": "kan/news-series"
+    },
+    {
+      "id": "kan_11247",
+      "title": "כאן 11 - מלאך משחית",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-11247/",
+      "section": "kan/kan-11"
     },
     {
       "id": "kan_955232",
@@ -2546,6 +2540,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_13291",
+      "title": "כאן 11 - שטוקהולם",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-13291/",
+      "section": "kan/kan-11"
+    },
+    {
       "id": "kan_1066085",
       "title": "כאן 11 - שימי תבורי | 50 שנות יצירה",
       "url": "https://www.kan.org.il/content/archive1/projects/p-1066085/",
@@ -2682,6 +2682,24 @@
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_12255",
+      "title": "כאן 11 - אקלים לשינוי",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-12255/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_12097",
+      "title": "כאן 11 - הדיקטטורים",
+      "url": "https://www.kan.org.il/content/dig/digital/p-12097/",
+      "section": "dig/digital"
+    },
+    {
+      "id": "kan_12342",
+      "title": "כאן 11 - ילדי פלא",
+      "url": "https://www.kan.org.il/content/dig/digital/p-12342/",
+      "section": "dig/digital"
     },
     {
       "id": "kan_1081525",
