@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-08 20:12",
+   "updated": "2026-11-09 00:12",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "מעספור - לנטפליקס: הצמד גיא עמיר וחנן סביון בריאיון מיוחד",
+       "logo": "https://www.kan.org.il/media/mczg2w5v/עספור-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263469/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-08",
+       "plot": "מעספור ועד נטפליקס - חנן סביון וגיא עמיר בנו לעצמם מסלול יוצא דופן, כמעט תמיד ביחד, ותמיד עם הסיפור הבא בראש. מאחורי ההצלחה הגדולה עומדת חברות של יותר משני עשורים, עם לא מעט רגעים יפים, ויכוחים וחלומות משותפים. לקראת עליית העונה השנייה של \"באש ובמים\" פגשנו אותם",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1117353/",
+       "id": "1117353",
+       "season": 2
+      },
+      {
+       "name": "טסים להופעה בחו\"ל? כך תוזילו את העלויות של הטיסות והכרטיסים",
+       "logo": "https://www.kan.org.il/media/pg4ljsga/3.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263467/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-08",
+       "plot": "כמה רחוק תהיו מוכנים ללכת בשביל הופעה של האמן האהוב עליכם? בשנה הקרובה כ-80 אלף ישראלים צפויים לטוס לחו\"ל - כדי לראות הופעה. אז איך אפשר להוזיל את העלויות של הכרטיס והטיסה?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1117350/",
+       "id": "1117350",
+       "season": 2
+      },
+      {
+       "name": "140 שנות בן גוריון: מה באמת נשאר ממורשתו של ראש הממשלה הראשון?",
+       "logo": "https://www.kan.org.il/media/larbycty/כתבה-4-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263465/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-08",
+       "plot": "140 שנות דוד בן גוריון שזורות בכל אירוע היסטורי ובכל סיפור מכונן בתולדות המדינה. איש העלייה השנייה, ראש הממשלה הראשון, ומי שהכריז - אנחנו מכריזים בזאת. אבל מה באמת נשאר מהזקן? ממורשתו, מהחלטותיו, מהציטוטים שנכנסו לפנתיאון, וגם מהאדם, האבא והסבא שהיה? 140 שנה להולדתו, אורן אהרוני נחשף למסמכים שטרם פורסמו ופגש את האנשים הכי קרובים אליו",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1117349/",
+       "id": "1117349",
+       "season": 2
+      },
       {
        "name": "עם גלגל שווארמה ואגיו: נבחרת ישראל קטפה תואר באליפות העולם בבשר",
        "logo": "https://www.kan.org.il/media/qybmw0is/6.jpg",

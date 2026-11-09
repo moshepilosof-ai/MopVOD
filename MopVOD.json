@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-08 20:16",
+ "updated": "2026-11-09 00:15",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -23,10 +23,10 @@
   {
    "name": "כאן 11 - המהדורה המרכזית",
    "file": "vod/kan11_news.json",
-   "episodes": 2275,
+   "episodes": 2276,
    "seasons": 1,
-   "updated": "2026-11-05 21:49",
-   "newest": "2026-11-05",
+   "updated": "2026-11-09 00:10",
+   "newest": "2026-11-08",
    "oldest": "2017-11-28"
   },
   {
@@ -482,9 +482,9 @@
   {
    "name": "כאן 11 - אנשים שפגשתי",
    "file": "vod/kan_1077526.json",
-   "episodes": 8,
+   "episodes": 9,
    "seasons": 2,
-   "updated": "2026-11-01 23:52",
+   "updated": "2026-11-09 00:01",
    "newest": "2026-09-17",
    "oldest": "2026-07-16"
   },
@@ -1013,10 +1013,10 @@
   {
    "name": "כאן 11 - חדשות הלילה",
    "file": "vod/kan_11602.json",
-   "episodes": 2049,
+   "episodes": 2050,
    "seasons": 1,
-   "updated": "2026-11-05 21:45",
-   "newest": "2026-11-05",
+   "updated": "2026-11-09 00:07",
+   "newest": "2026-11-08",
    "oldest": "2017-12-10"
   },
   {
@@ -3911,10 +3911,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 683,
+   "episodes": 686,
    "seasons": 2,
-   "updated": "2026-11-08 20:12",
-   "newest": "2026-11-07",
+   "updated": "2026-11-09 00:12",
+   "newest": "2026-11-08",
    "oldest": "2024-09-18"
   },
   {
