@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/classic_tv",
    "program_url": "https://archive.org/details/classic_tv",
-   "updated": "2026-10-29 00:17",
+   "updated": "2026-11-10 09:09",
    "sub_categories": [
     {
      "name": "2020-2029",
@@ -5440,17 +5440,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bonanza - The Mill",
-       "logo": "https://archive.org/services/img/Bonanza_The_Mill",
-       "url": "https://archive.org/details/Bonanza_The_Mill",
-       "date": null,
-       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
-       "page": "https://archive.org/details/Bonanza_The_Mill",
-       "id": "Bonanza_The_Mill",
-       "duration": "49:22",
-       "resolve": "archive"
-      },
-      {
        "name": "MTV's Downtown Complete Season 1 (1999)",
        "logo": "https://archive.org/services/img/mtvs-downtown_202209",
        "url": "https://archive.org/details/mtvs-downtown_202209",
@@ -5459,6 +5448,17 @@
        "page": "https://archive.org/details/mtvs-downtown_202209",
        "id": "mtvs-downtown_202209",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Bonanza - The Mill",
+       "logo": "https://archive.org/services/img/Bonanza_The_Mill",
+       "url": "https://archive.org/details/Bonanza_The_Mill",
+       "date": null,
+       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
+       "page": "https://archive.org/details/Bonanza_The_Mill",
+       "id": "Bonanza_The_Mill",
+       "duration": "49:22",
        "resolve": "archive"
       },
       {
@@ -6386,17 +6386,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Martha Raye as Guest",
-       "logo": "https://archive.org/services/img/Red_Skelton_MarthaRayeGuest",
-       "url": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
-       "date": null,
-       "plot": "Red Skelton Martha Raye as Guest",
-       "page": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
-       "id": "Red_Skelton_MarthaRayeGuest",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Robin_Hood_59_-_Ambush",
        "logo": "https://archive.org/services/img/Robin_Hood_59_-_Ambush",
        "url": "https://archive.org/details/Robin_Hood_59_-_Ambush",
@@ -6404,6 +6393,17 @@
        "plot": "The Adventures of Robin Hood Season 2 ep20",
        "page": "https://archive.org/details/Robin_Hood_59_-_Ambush",
        "id": "Robin_Hood_59_-_Ambush",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Martha Raye as Guest",
+       "logo": "https://archive.org/services/img/Red_Skelton_MarthaRayeGuest",
+       "url": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
+       "date": null,
+       "plot": "Red Skelton Martha Raye as Guest",
+       "page": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
+       "id": "Red_Skelton_MarthaRayeGuest",
        "duration": null,
        "resolve": "archive"
       },
@@ -6793,17 +6793,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Rivals",
-       "logo": "https://archive.org/services/img/Andy_Griffith_Rivals",
-       "url": "https://archive.org/details/Andy_Griffith_Rivals",
-       "date": null,
-       "plot": "Andy Griffith Episode, Rivals",
-       "page": "https://archive.org/details/Andy_Griffith_Rivals",
-       "id": "Andy_Griffith_Rivals",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Twilight Zone – Complete Season 4 (18 episodes) (restored, colorized) (1963, TV series)",
        "logo": "https://archive.org/services/img/the-twilight-zone-s-4e-3-colorized-720p-hd",
        "url": "https://archive.org/details/the-twilight-zone-s-4e-3-colorized-720p-hd",
@@ -6811,6 +6800,17 @@
        "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
        "page": "https://archive.org/details/the-twilight-zone-s-4e-3-colorized-720p-hd",
        "id": "the-twilight-zone-s-4e-3-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Rivals",
+       "logo": "https://archive.org/services/img/Andy_Griffith_Rivals",
+       "url": "https://archive.org/details/Andy_Griffith_Rivals",
+       "date": null,
+       "plot": "Andy Griffith Episode, Rivals",
+       "page": "https://archive.org/details/Andy_Griffith_Rivals",
+       "id": "Andy_Griffith_Rivals",
        "duration": null,
        "resolve": "archive"
       },
@@ -7002,6 +7002,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Green Hornet",
+       "logo": "https://archive.org/services/img/GreenHornetTV",
+       "url": "https://archive.org/details/GreenHornetTV",
+       "date": null,
+       "plot": "Episodes of the classic TV series \"Green Hornet\"",
+       "page": "https://archive.org/details/GreenHornetTV",
+       "id": "GreenHornetTV",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Jethro Goes To School",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
@@ -7021,17 +7032,6 @@
        "page": "https://archive.org/details/Ozzie_and_Harriet_Christmas",
        "id": "Ozzie_and_Harriet_Christmas",
        "duration": "Approx 30 Minutes",
-       "resolve": "archive"
-      },
-      {
-       "name": "Green Hornet",
-       "logo": "https://archive.org/services/img/GreenHornetTV",
-       "url": "https://archive.org/details/GreenHornetTV",
-       "date": null,
-       "plot": "Episodes of the classic TV series \"Green Hornet\"",
-       "page": "https://archive.org/details/GreenHornetTV",
-       "id": "GreenHornetTV",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -7266,17 +7266,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Super Girl 1979 (English Subtitles)",
-       "logo": "https://archive.org/services/img/47_20230622",
-       "url": "https://archive.org/details/47_20230622",
-       "date": null,
-       "plot": "A sexy action series about the activities of seven female detectives working in the detective agency 'Super Girl Seven', led by Yuko Hirose (played by Yoko Nogiwa), who quit her job as a police officer.",
-       "page": "https://archive.org/details/47_20230622",
-       "id": "47_20230622",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Twilight Zone 1985 S01",
        "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
        "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
@@ -7284,6 +7273,17 @@
        "plot": "The Twilight Zone 1985 S01",
        "page": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
        "id": "twilight-zone-1985-1x-01-shatterday",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Super Girl 1979 (English Subtitles)",
+       "logo": "https://archive.org/services/img/47_20230622",
+       "url": "https://archive.org/details/47_20230622",
+       "date": null,
+       "plot": "A sexy action series about the activities of seven female detectives working in the detective agency 'Super Girl Seven', led by Yuko Hirose (played by Yoko Nogiwa), who quit her job as a police officer.",
+       "page": "https://archive.org/details/47_20230622",
+       "id": "47_20230622",
        "duration": null,
        "resolve": "archive"
       },
@@ -7706,6 +7706,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Alfred Hitchcock Presents - Complete Season 1 (39 Episodes) (restored, colorized) (1955, TV series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "date": null,
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "id": "alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "No Place Like Home",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep14_No_Place_Like_Home",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep14_No_Place_Like_Home",
@@ -7724,17 +7735,6 @@
        "plot": "Beverly Hillbillies Ep 42 Jethro's First Love",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep42_Jethros_First_Love",
        "id": "Beverly_Hillbillies_Ep42_Jethros_First_Love",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alfred Hitchcock Presents - Complete Season 1 (39 Episodes) (restored, colorized) (1955, TV series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "id": "alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -8707,17 +8707,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bob Goes To The Moon",
-       "logo": "https://archive.org/services/img/Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
-       "url": "https://archive.org/details/Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
-       "date": null,
-       "plot": "Love That Bob Season 4 Episode 27 Bob Goes To The Moon",
-       "page": "https://archive.org/details/Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
-       "id": "Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "CBS 1961 Fall Season Preview Show",
        "logo": "https://archive.org/services/img/Cbs1961FallSeasonPreviewShow",
        "url": "https://archive.org/details/Cbs1961FallSeasonPreviewShow",
@@ -8725,6 +8714,17 @@
        "plot": "One of those old television network promo shows that was supposed to get you interested in their new upcoming programs.",
        "page": "https://archive.org/details/Cbs1961FallSeasonPreviewShow",
        "id": "Cbs1961FallSeasonPreviewShow",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Bob Goes To The Moon",
+       "logo": "https://archive.org/services/img/Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
+       "url": "https://archive.org/details/Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
+       "date": null,
+       "plot": "Love That Bob Season 4 Episode 27 Bob Goes To The Moon",
+       "page": "https://archive.org/details/Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
+       "id": "Love_That_Bob_Ep4x27_Bob_Goes_To_The_Moon",
        "duration": null,
        "resolve": "archive"
       },
@@ -8949,6 +8949,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Alien Nation (1989) Complete Series",
+       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "date": null,
+       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
+       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "A Year To Remeber - 1935",
        "logo": "https://archive.org/services/img/YTR1935",
        "url": "https://archive.org/details/YTR1935",
@@ -9033,17 +9044,6 @@
        "plot": "HERE IS DISK 1 OF I LOVE LUCY",
        "page": "https://archive.org/details/vts-01-1_20220124_0030",
        "id": "vts-01-1_20220124_0030",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alien Nation (1989) Complete Series",
-       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "date": null,
-       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
-       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
        "duration": null,
        "resolve": "archive"
       },
@@ -9191,6 +9191,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Shadow Raiders Complete Series (1998)",
+       "logo": "https://archive.org/services/img/shadow-raiders-complete-series-1998",
+       "url": "https://archive.org/details/shadow-raiders-complete-series-1998",
+       "date": null,
+       "plot": "Shadow Raiders is a Canadian animated television series produced by Mainframe Entertainment and syndicated by The Summit Media Group, that aired from September 16, 1998, to June 23, 1999. The show was loosely based on the Trendmasters toy line, War Planets. The original character designs were created by ReBoot designer, Brendan McCarthy. The series focused on the four warring planets of a solar system called the Cluster as they were forced to set aside their differences and form a coalition against the menace of the Beast Planet.",
+       "page": "https://archive.org/details/shadow-raiders-complete-series-1998",
+       "id": "shadow-raiders-complete-series-1998",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Chickadee Returns",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep43_Chickadee_Returns",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep43_Chickadee_Returns",
@@ -9209,17 +9220,6 @@
        "plot": "Quatermass II Episode 6 of 6 6 part BBC Sci Fi Live TV series from 1955",
        "page": "https://archive.org/details/Quatermass_II_Episode_6of6_1955",
        "id": "Quatermass_II_Episode_6of6_1955",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Shadow Raiders Complete Series (1998)",
-       "logo": "https://archive.org/services/img/shadow-raiders-complete-series-1998",
-       "url": "https://archive.org/details/shadow-raiders-complete-series-1998",
-       "date": null,
-       "plot": "Shadow Raiders is a Canadian animated television series produced by Mainframe Entertainment and syndicated by The Summit Media Group, that aired from September 16, 1998, to June 23, 1999. The show was loosely based on the Trendmasters toy line, War Planets. The original character designs were created by ReBoot designer, Brendan McCarthy. The series focused on the four warring planets of a solar system called the Cluster as they were forced to set aside their differences and form a coalition against the menace of the Beast Planet.",
-       "page": "https://archive.org/details/shadow-raiders-complete-series-1998",
-       "id": "shadow-raiders-complete-series-1998",
        "duration": null,
        "resolve": "archive"
       },

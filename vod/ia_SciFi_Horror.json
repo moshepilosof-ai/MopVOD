@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-06 08:58",
+   "updated": "2026-11-10 09:09",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -2775,17 +2775,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Black Christmas 1974",
-       "logo": "https://archive.org/services/img/black-christmas-1974_202405",
-       "url": "https://archive.org/details/black-christmas-1974_202405",
-       "date": "1974-01-01",
-       "plot": "During their Christmas break, a group of sorority girls are stalked and terrorised by a stranger.",
-       "page": "https://archive.org/details/black-christmas-1974_202405",
-       "id": "black-christmas-1974_202405",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "From Beyond The Grave 1974",
        "logo": "https://archive.org/services/img/from-beyond-the-grave-1974",
        "url": "https://archive.org/details/from-beyond-the-grave-1974",
@@ -2793,6 +2782,17 @@
        "plot": "Four customers buy or steal items from an old antique shop whose motto is \"Offers You Cannot Resist\". A nasty fate awaits those who cheat the shop's mysterious proprietor.",
        "page": "https://archive.org/details/from-beyond-the-grave-1974",
        "id": "from-beyond-the-grave-1974",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Black Christmas 1974",
+       "logo": "https://archive.org/services/img/black-christmas-1974_202405",
+       "url": "https://archive.org/details/black-christmas-1974_202405",
+       "date": "1974-01-01",
+       "plot": "During their Christmas break, a group of sorority girls are stalked and terrorised by a stranger.",
+       "page": "https://archive.org/details/black-christmas-1974_202405",
+       "id": "black-christmas-1974_202405",
        "duration": null,
        "resolve": "archive"
       },
@@ -5486,17 +5486,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Hercules in the Haunted World (1961)",
-       "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
-       "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
-       "date": "1961-01-01",
-       "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
-       "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
-       "id": "hercules.-in.-the.-haunted.-world.-1961",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Pit And The Pendulum (1961)",
        "logo": "https://archive.org/services/img/pit-and-the-pendulum-1961_202510",
        "url": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
@@ -5504,6 +5493,17 @@
        "plot": "The Pit and the Pendulum is a 1961 American horror film directed by Roger Corman, starring Vincent Price, Barbara Steele, John Kerr, and Luana Anders. The screenplay by Richard Matheson was loosely inspired by Edgar Allan Poe's 1842 short story of the same name. Set in sixteenth-century Spain, the story is about a young Englishman who visits a foreboding castle to investigate his sister's mysterious death. After a series of horrific revelations, apparently ghostly appearances and violent deaths, the young man becomes strapped to the titular torture device by his lunatic brother-in-law during t",
        "page": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
        "id": "pit-and-the-pendulum-1961_202510",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Hercules in the Haunted World (1961)",
+       "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
+       "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
+       "date": "1961-01-01",
+       "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
+       "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
+       "id": "hercules.-in.-the.-haunted.-world.-1961",
        "duration": null,
        "resolve": "archive"
       },
