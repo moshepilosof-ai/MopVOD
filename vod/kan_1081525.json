@@ -6,7 +6,7 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1081525/",
    "series_id": "1081525",
-   "updated": "2026-11-03 21:26",
+   "updated": "2026-11-10 22:00",
    "sub_categories": [
     {
      "name": "עונה 1",
@@ -19,6 +19,16 @@
        "plot": "סדרת דוקו-ריאליטי המביאה 3 סיפורים אנושיים מטלטלים על נתק משפחתי עמוק. הפרק הראשון עוקב אחר אם ל-4, ששנים של טעויות חינוכיות וחוסר כלים הובילו לנתק מוחלט מבתה. כשהכאב מגיע לשיא, היא יוצאת למסע של תיקון",
        "page": "https://www.kan.org.il/content/kan/kan-11/p-1081525/s1/1081533/",
        "id": "1081533",
+       "season": 1
+      },
+      {
+       "name": "חיבורים | פרק 2 - אליקו וענת",
+       "logo": "https://www.kan.org.il/media/4tjb1n3b/חיבוריםלאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229501/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-07-26",
+       "plot": "לוחם הלום קרב שאיבד את הקשר עם 3 ילדיו יוצא למסע רגשי ומורכב במטרה לחדש את הקשר האבוד. האם זה יסתיים בשלום?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1081525/s1/1081529/",
+       "id": "1081529",
        "season": 1
       }
      ]

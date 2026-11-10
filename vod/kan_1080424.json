@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/",
    "series_id": "1080424",
-   "updated": "2026-11-10 00:04",
+   "updated": "2026-11-10 22:01",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "כאן חדשות+ | 10.11.26",
+       "logo": "https://www.kan.org.il/media/mvtjsypw/חדשות-פלוס.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263795/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "אליאור לוי עם הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1118032/",
+       "id": "1118032"
+      },
       {
        "name": "כאן חדשות+ | 09.11.26",
        "logo": "https://www.kan.org.il/media/30nn5o3m/כאן-חדשות-plus.png",

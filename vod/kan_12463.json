@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-10 00:06",
+   "updated": "2026-11-10 22:03",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זוהר | 10.11.26",
+       "logo": "https://www.kan.org.il/media/mjrfksa1/גיא-זוהר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259540/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "ליברמן אומר שאצלו מילה זו מילה, רק יכול להיות שאחרי כל הבטחות הבחירות, והפרסומים הסותרים שאחריהן, מילים הן סתם מילים? | ליברמן אומר שממשלה הנשענת על רע\"ם והרשימה המשותפת תפגע בביטחון. הוא כנראה שכח איך הם דאגו לביטחון יחד בממשלת השינוי | נתניהו קורא לאחדות! או לממשלה רחבה? מסתבר שזה דפוס חוזר אצלו לפני ואחרי בחירות | לינוי בר גפן מראה לשרה לשעבר אורלי לוי-אבקסיס איך מקיימים הבטחות | הנשיא הרצוג התקבל למערכת מהצד השני! איך? תשאלו את השרה מירי רגב, שניסתה לתפוס את מספר 2 ברשימת ישר יורם כהן במילה.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1113144/",
+       "id": "1113144",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זוהר | 09.11.26",
        "logo": "https://www.kan.org.il/media/ws5cksvz/תמונה.png",

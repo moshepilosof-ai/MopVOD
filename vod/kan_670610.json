@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-670610/",
    "series_id": "670610",
-   "updated": "2026-10-28 19:46",
+   "updated": "2026-11-10 22:04",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "משדר מיוחד - השבעת הכנסת ה 26 - יונתן אוחיון – 10.11.26 – 12:00",
+       "logo": "https://www.kan.org.il/media/lz2l4f2a/משדר-מיוחד-יונתן-אוחיות.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263770/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "השבעת הכנסת ה 26 - משדר חדשות מיוחד עם יונתן אוחיון",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1117968/",
+       "id": "1117968"
+      },
       {
        "name": "בחירות 2026 - משדר מיוחד - איילה חסון - 28.10.26 -18:55",
        "logo": "https://www.kan.org.il/media/xblpajk1/איילה-חסון-אתר.jpg",

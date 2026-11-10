@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-11228/",
    "series_id": "11228",
-   "updated": "2026-10-28 11:33",
+   "updated": "2026-11-10 22:02",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "לצאת מהקופסה - הצצה | מי ישאר אחרון?",
+       "logo": "https://www.kan.org.il/media/txhbfjek/לצאת-מהקופסא.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xqz0fl9v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-04-08",
+       "plot": "האם קבוצה של סטרייטים יצליחו למצוא את הגיי שביניהם?",
+       "page": "https://www.kan.org.il/content/dig/digital/p-11228/880751/",
+       "id": "880751"
+      },
       {
        "name": "לצאת מהקופסה | פרק 10 - מי מתחזה לזוג?",
        "logo": "https://www.kan.org.il/media/thkebstz/screenshot_57.jpg",

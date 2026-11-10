@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12346/",
    "series_id": "12346",
-   "updated": "2026-10-28 10:25",
+   "updated": "2026-11-10 21:58",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "העשירייה - הצצה | לבזבז לך את הזמן / שלומי שבן ",
+       "logo": "https://www.kan.org.il/media/2abhcx0n/העשירייה-נקי.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cknrybqy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-16",
+       "plot": "שלומי שבן מבצע באולפן את השיר \"לבזבז לך את הזמן\"",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/921371/",
+       "id": "921371"
+      },
       {
        "name": "גיבורי השנה במוזיקה | 02.10.24",
        "logo": "https://www.kan.org.il/media/0ygnocxx/העשירייה-מצעד_web_app.jpg",
@@ -354,123 +363,6 @@
        "id": "151388"
       },
       {
-       "name": "העשירייה - כנסיית השכל | 20.10",
-       "logo": "https://www.kan.org.il/media/oj3jtar2/https-kanstaticazureedgenet-download-pictures-2022-10-20-imgid-83695_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ux8wsfsj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים:כנסיית השכל\r\nמגישה: מאיה אלקולומברה",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/151106/",
-       "id": "151106"
-      },
-      {
-       "name": "העשירייה - אביהו פנחסוב ודודי בר דוד | 13.10",
-       "logo": "https://www.kan.org.il/media/ovpdj1mx/https-kanstaticazureedgenet-download-pictures-2022-10-13-imgid-83289_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0hgldpzo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית - עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: אביהו פנחסוב ודודי בר דוד. מגישה: מאיה אלקולומברה",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/150920/",
-       "id": "150920"
-      },
-      {
-       "name": "העשירייה - אליאב זוהר ואדיר גץ | 06.10",
-       "logo": "https://www.kan.org.il/media/omwpkg5x/https-kanstaticazureedgenet-download-pictures-2022-10-6-imgid-82932_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qi7764v4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית - עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: אליאב זוהר ואדיר גץ. מגישה: מאיה אלקולומברה",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/150698/",
-       "id": "150698"
-      },
-      {
-       "name": "העשירייה - עידן עמדי ויונתן רזאל | 29.09",
-       "logo": "https://www.kan.org.il/media/mewhzo0j/https-kanstaticazureedgenet-download-pictures-2022-9-29-imgid-82565_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0jiw8mk7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: עידן עמדי ויונתן רזאל. מגישה: מאיה אלקולומברה",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/150545/",
-       "id": "150545"
-      },
-      {
-       "name": "העשירייה - קובי אפללו ובר צברי | 08.09",
-       "logo": "https://www.kan.org.il/media/u3odgjlz/https-kanstaticazureedgenet-download-pictures-2022-9-8-imgid-81303_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0wq9kqcl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילות אינטראקטיבית. אורחים: קובי אפללו ובר צברי. מגישה: מאיה אלקולומברה",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/149927/",
-       "id": "149927"
-      },
-      {
-       "name": "העשירייה - אבי אבורומי ונורוז | 01.09",
-       "logo": "https://www.kan.org.il/media/fsfbuu5y/https-kanstaticazureedgenet-download-pictures-2022-9-1-imgid-80779_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ztqixpe1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: אבי אבורומי ונורוז. מגישה: מאיה אלקולומברה",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/149651/",
-       "id": "149651"
-      },
-      {
-       "name": "העשירייה - יסמין מועלם וליאור נרקיס | 25.08",
-       "logo": "https://www.kan.org.il/media/zt0lwt4u/https-kanstaticazureedgenet-download-pictures-2022-8-25-imgid-80391_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_e2tvawka/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: יסמין מועלם וליאור נרקיס. מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/149417/",
-       "id": "149417"
-      },
-      {
-       "name": "העשירייה - מרגי ואיתי לוי | 18.08",
-       "logo": "https://www.kan.org.il/media/4o5fockc/https-kanstaticazureedgenet-download-pictures-2022-8-18-imgid-80031_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jgrpzax5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: מרגי ואיתי לוי. מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/149111/",
-       "id": "149111"
-      },
-      {
-       "name": "העשירייה - דיקלה ורן דנקר | 11.08",
-       "logo": "https://www.kan.org.il/media/ddzhsgwe/https-kanstaticazureedgenet-download-pictures-2022-8-11-imgid-79632_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_505p5s22/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: דיקלה ורן דנקר. מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/148847/",
-       "id": "148847"
-      },
-      {
-       "name": "העשירייה - ענבל ביבי ומאור אדרי | 04.08",
-       "logo": "https://www.kan.org.il/media/vjhg3izx/https-kanstaticazureedgenet-download-pictures-2022-8-4-imgid-79146_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_25dyq1zq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: ענבל ביבי ומאור אדרי. מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/148649/",
-       "id": "148649"
-      },
-      {
-       "name": "העשירייה - נונו ושחר טבוך | 28.07",
-       "logo": "https://www.kan.org.il/media/3difztws/https-kanstaticazureedgenet-download-pictures-2022-7-28-imgid-78715_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rzsicnue/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: נונו ושחר טבוך. מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/148316/",
-       "id": "148316"
-      },
-      {
-       "name": "העשירייה - אלי חולי ועדן דרסו | 21.07",
-       "logo": "https://www.kan.org.il/media/mlnhqcs5/https-kanstaticazureedgenet-download-pictures-2022-7-21-imgid-78326_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_jknsg4na/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: אלי חולי ועדן דרסו. מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/147980/",
-       "id": "147980"
-      },
-      {
-       "name": "העשירייה - ערוץ הכיבוד וישי ריבו | 7.7",
-       "logo": "https://www.kan.org.il/media/fz0py05t/https-kanstaticazureedgenet-download-pictures-2022-7-7-imgid-77464_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3s45d1e4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-04-23",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית - עשרת השירים הגדולים של השבוע, הופעות חיות באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות. אורחים: ישי ריבו וערוץ הכיבוד. מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/147405/",
-       "id": "147405"
-      },
-      {
        "name": "העשירייה - תמיר גרינברג, פלד ולירון עמרם | 09.03.23",
        "logo": "https://www.kan.org.il/media/idohqrwr/https-kanstaticazureedgenet-download-pictures-2023-3-9-imgid-95608_a.jpeg",
        "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qtjfk55g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
@@ -577,60 +469,6 @@
        "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות של מיטב האומנים באולפן המוזיקה של כאן גימל בירושלים. אורחים: ניב דמירל, נורוז וגל אדם\r\nמגישה: מאיה אלקולומברה.",
        "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/151947/",
        "id": "151947"
-      },
-      {
-       "name": "העשירייה של השנה | 25.09.22",
-       "logo": "https://www.kan.org.il/media/nrsoqttm/https-kanstaticazureedgenet-download-pictures-2022-9-28-imgid-82498_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v59xg9bd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2022-09-25",
-       "plot": "שידור חגיגי של בחירת עשרת שירי השנה של כאן גימל לשנת תשפ\"ד וכן זמר השנה, זמרת השנה והרכב השנה",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/150449/",
-       "id": "150449"
-      },
-      {
-       "name": "יובל דיין ועודד פז | 30.06.2022",
-       "logo": "https://www.kan.org.il/media/pqblxrxw/https-kanstaticazureedgenet-download-pictures-2022-6-30-imgid-77070_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5vyq9di1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2022-06-30",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות מאולפן המוזיקה של כאן גימל ופעילויות אינטראקטיביות. אורחים: יובל דיין ועודד פז והקסדות.  מגישה: טל ארגמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/147144/",
-       "id": "147144"
-      },
-      {
-       "name": "עדן חסון ואברהם טל | 23.06.2022",
-       "logo": "https://www.kan.org.il/media/yvbnqmhk/https-kanstaticazureedgenet-download-pictures-2022-6-23-imgid-76703_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_upg4frnp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2022-06-23",
-       "plot": "התכנית המלאה של העשירייה עם עדן חסון ואברהם טל באולפן, בביצועים חיים, וגם כמובן - עשרת השירים הגדולים של השבוע במוזיקה הישראלית כפי שאתם דירגתם ובחרתם",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/146862/",
-       "id": "146862"
-      },
-      {
-       "name": "ספיישל עברי לידר | 16.06.2022",
-       "logo": "https://www.kan.org.il/media/wuyj03ln/https-kanstaticazureedgenet-download-pictures-2022-6-16-imgid-76301_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ajg5memr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2022-06-16",
-       "plot": "המצעד השבועי הרשמי של ישראל בתוכנית מיוחדת לכבוד 25 שנות פעילותו של עברי לידר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/146571/",
-       "id": "146571"
-      },
-      {
-       "name": "שחר סאול, ים רפאלי ואור עמרמי ברוקמן |  09.06.2022",
-       "logo": "https://www.kan.org.il/media/0tcdj50s/https-kanstaticazureedgenet-download-pictures-2022-6-16-imgid-76295_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lbklvxg0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2022-06-09",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית - עשרת השירים הגדולים של השבוע, הופעות חיות של מיטב האומנים באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות ברשתות החברתיות. מגישה: טל ארגמן.",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/146565/",
-       "id": "146565"
-      },
-      {
-       "name": "רותם כהן, גלעד כהנא וגיא מוזס | 02.06.2022",
-       "logo": "https://www.kan.org.il/media/1udp2ycm/https-kanstaticazureedgenet-download-pictures-2022-6-19-imgid-76411_aa.jpeg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cz3ad0mm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2022-06-02",
-       "plot": "המצעד הרשמי של המוזיקה הישראלית – עשרת השירים הגדולים של השבוע, הופעות חיות של מיטב האומנים באולפן המוזיקה של כאן גימל בירושלים, חדשות המוזיקה ופעילויות אינטראקטיביות ברשתות החברתיות. מגישה: טל ארגמן.",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-12346/146562/",
-       "id": "146562"
       }
      ]
     }

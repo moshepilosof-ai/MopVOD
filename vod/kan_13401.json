@@ -6,11 +6,31 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13401/",
    "series_id": "13401",
-   "updated": "2026-11-03 21:25",
+   "updated": "2026-11-10 21:59",
    "sub_categories": [
     {
      "name": "עונה 9",
      "channels": [
+      {
+       "name": "ליל סתיו",
+       "logo": "https://www.kan.org.il/media/us5btyi1/ליל-סתיו-לייב-באולפן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263811/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "ליל סתיו – מבצעים: חבורת זהו זה\n\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\n\nטרומבון: יאיר סלוצקי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nתופים: עידן פרידמן\nקלידים: איתמר גרוס\nפסנתר חליל : אמיר לקנר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s9/1117957/",
+       "id": "1117957",
+       "season": 9
+      },
+      {
+       "name": "תן לי זמן",
+       "logo": "https://www.kan.org.il/media/0qlhwgjj/תן-לי-זמן-לייב-באולפן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263812/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "ליל סתיו – מבצעים: חבורת זהו זה\n\nאורחת: נועם קליינשטיין\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\n\nטרומבון: יאיר סלוצקי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nתופים: עידן פרידמן\nקלידים: איתמר גרוס\nפסנתר חליל : אמיר לקנר\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s9/1117956/",
+       "id": "1117956",
+       "season": 9
+      },
       {
        "name": "גיבור של אמא",
        "logo": "https://www.kan.org.il/media/p0jerkbz/גיבור-של-אמא-לייב-באולפן.jpg",
@@ -1465,306 +1485,6 @@
        "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/650877/",
        "id": "650877",
        "season": 6
-      },
-      {
-       "name": "אהבה אסורה",
-       "logo": "https://www.kan.org.il/media/vorgoezn/אהבה-אסורה-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1iveeecj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-12-11",
-       "plot": "מילים: סוזי אקמן רוגובין\nלחן: ישי אמיר\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר - מכאל שוורץ\nחליל - אמיר לקנר\nחליל: אמיר לקנר \nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/650876/",
-       "id": "650876",
-       "season": 6
-      },
-      {
-       "name": "גשם בעיתו",
-       "logo": "https://www.kan.org.il/media/mapdlnzk/גשם-בעיתו-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gqfxd4wk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-12-07",
-       "plot": "מילים: תלמה אליגון רוז\nלחן: קובי אשרת\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/644733/",
-       "id": "644733",
-       "season": 6
-      },
-      {
-       "name": "יש כאן יותר מזה",
-       "logo": "https://www.kan.org.il/media/aoah3rfn/יש-כאן-יותר-מזה-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l9osu4sf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-12-07",
-       "plot": "מילים ולחן: חנן בן ארי\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/644728/",
-       "id": "644728",
-       "season": 6
-      },
-      {
-       "name": "לילה כיום יאיר",
-       "logo": "https://www.kan.org.il/media/wucf45cb/לילה-כיום-יאיר-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7xkrnrfj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-12-04",
-       "plot": "מילים ולחן: אביתר בנאי\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/639023/",
-       "id": "639023",
-       "season": 6
-      },
-      {
-       "name": "צלצולי פעמונים",
-       "logo": "https://www.kan.org.il/media/yq5n2ebe/צלצולי-פעמונים-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_othdgnjs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-12-04",
-       "plot": "מילים: יאיר מדינה ואהובה עוזרי\nלחן: אהובה עוזרי\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/639018/",
-       "id": "639018",
-       "season": 6
-      },
-      {
-       "name": "לילה",
-       "logo": "https://www.kan.org.il/media/x2xjosnf/לילה-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_048rdknt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-30",
-       "plot": "מילים ולחן: שלום חנוך\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/632060/",
-       "id": "632060",
-       "season": 6
-      },
-      {
-       "name": "אתה לי ארץ",
-       "logo": "https://www.kan.org.il/media/1jjhxgrd/אתה-לי-ארץ-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kgxwnppz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-30",
-       "plot": "מילים: יורם טהרלב\nלחן: נורית הירש\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/632059/",
-       "id": "632059",
-       "season": 6
-      },
-      {
-       "name": "עצים",
-       "logo": "https://www.kan.org.il/media/aadfbfxd/עצים-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0mahxilw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-23",
-       "plot": "מילים: אריק איינשטיין, לחן: שלום חנוך\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל:  אמיר לקנר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/620740/",
-       "id": "620740",
-       "season": 6
-      },
-      {
-       "name": "לפני שיגמר",
-       "logo": "https://www.kan.org.il/media/txyhl2oo/לפני-שיגמר-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aa35i527/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-23",
-       "plot": "מילים ולחן: עידן רייכל\nעיבוד והפקה מוסיקלית: אמיר לקנר\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל:  אמיר לקנר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/620737/",
-       "id": "620737",
-       "season": 6
-      },
-      {
-       "name": "פנס בודד",
-       "logo": "https://www.kan.org.il/media/gnubpa1r/פנס-בודד-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_azrv22or/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-20",
-       "plot": "מילים: חיים גורי, יוסף דר\nלחן: סשה ארגוב",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/616442/",
-       "id": "616442",
-       "season": 6
-      },
-      {
-       "name": "זכיתי לאהוב",
-       "logo": "https://www.kan.org.il/media/mcxfjzrf/זכיתי-לאהוב-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_68j5ccuo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-20",
-       "plot": "מילים ולחן: עברי לידר\nעיבוד והפקה מוסיקלית: אמיר לקנר\nאקורדיון וחליל: סלעית להב\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר :  אמיר לקנר\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/616436/",
-       "id": "616436",
-       "season": 6
-      },
-      {
-       "name": "סתיו",
-       "logo": "https://www.kan.org.il/media/ujhixmy0/סתיו-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6ge4gfsb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-16",
-       "plot": "מילים: שמשון חלפי, לחן: משה וילנסקי\n\nעיבוד והפקה מוסיקלית: אמיר לקנר\nאקורדיון וחליל: סלעית להב\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר :  אמיר לקנר\n\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/611206/",
-       "id": "611206",
-       "season": 6
-      },
-      {
-       "name": "ילדות נשכחת",
-       "logo": "https://www.kan.org.il/media/liqd3r0j/ילדות-נשכחת-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4cjq91d5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-16",
-       "plot": "מילים: יעקב גלעד\nלחן: יהודית רביץ \n\nעיבוד והפקה מוסיקלית: אמיר לקנר\nאקורדיון וחליל: סלעית להב\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: אבי יפרח\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר :  אמיר לקנר\n\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/611204/",
-       "id": "611204",
-       "season": 6
-      },
-      {
-       "name": "היא תבוא",
-       "logo": "https://www.kan.org.il/media/rmnp2lms/היא-תבוא-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cu4x0ge4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-13",
-       "plot": "מילים: יענקל'ה רוטבליט, לחן: מיקי גבריאלוב\n\nעיבוד והפקה מוסיקלית: אמיר לקנר\nצ'לו: מאיה בלזיצמן\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר \n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/607294/",
-       "id": "607294",
-       "season": 6
-      },
-      {
-       "name": "תמיד יחכו לך",
-       "logo": "https://www.kan.org.il/media/5bglauz4/תמיד-יחכו-לך-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8qfk5gfx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-13",
-       "plot": "מילים ולחן:לאה שבת\n\nעיבוד והפקה מוסיקלית: אמיר לקנר\nצ'לו: מאיה בלזיצמן\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר \n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/607265/",
-       "id": "607265",
-       "season": 6
-      },
-      {
-       "name": "פרח הלילך",
-       "logo": "https://www.kan.org.il/media/2uohbaur/פרח-הלילך-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3t9plai1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-09",
-       "plot": "מילים: אסף אורי, לחן: הירש נורית\n \nעיבוד והפקה מוסיקלית: אמיר לקנר\nצ'לו: מאיה בלזיצמן\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר \nבס: מיקי ורשאי\nויולה: גליה חי\nכינור: ניצן קאמטי\nכינור: גילי רדין שדה\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\nמוניטור: אוריה רובין\n\n\n\nהַיּוֹם, אוּלַי, נִדְחֶה אֶת בּוֹא הַלַּיְלָה\nוְלֹא נִשְׁאַף לְאוֹר כּוֹכָב,\nהֵן לִי וְלָךְ יֵשׁ כֹּל אֲשֶׁר נִשְׁאֲלָה\nמִבְּלִי מִלִּים, נֵדַע זֹאת כִּי נֹאהַב.\n \nהַיּוֹם, אוּלַי, נִדְחֶה אֶת קֵץ דַּרְכֵּנוּ\nוְלֹא נִזְכֹּר כִּי סוֹף לַכֹּל.\nזֶה הַמִּשְׁעוֹל, שֶׁבּוֹ דּוֹרְכוֹת רַגְלֵינוּ,\nבִּשְׁנֵי קְצוֹתָיו הָדשא לֹא יִבֹּל. \n \nשׁוֹתְקִים, נֶאֱהַב, כִּי לִי וְלָךְ\nדַּי בְּלִי מִלִּים, שֶׁהֵן לְאֵלֶּה,\nאֲשֶׁר אֵינָם יוֹדְעִים לוֹמַר אַחֶרֶת,\nכַּמָּה יָפֶה פּוֹרֵחַ הַלִּילָךְ.\n \n היום אולי\n נִדְחֶה אֶת הָעַצֶבֶת \nאִם יָד בְּיָד בָּאוֹר נֵלֵךְ \nכִּי רוּחַ כְּפוֹר וַחֲשֵׁכָה נוֹשֶׁבֶת\nרַק בַּמָּקוֹם בּוֹ לֹא שָׁמְעוּ אֶת שְׁמֵךְ.\n \nשׁוֹתְקִים, נֶאֱהַב, כִּי לִי וְלָךְ\nדַּי בְּלִי מִלִּים, שֶׁהֵן לְאֵלֶּה,\nאֲשֶׁר אֵינָם יוֹדְעִים לוֹמַר אַחֶרֶת,\nכַּמָּה יָפֶה פּוֹרֵחַ הַלִּילָךְ.\n\nהַיּוֹם, אוּלַי, נִדְחֶה בּוֹא הַשַּׁלֶּכֶת \nוְלֹא יוּכַל לָבוֹא- הַסְּתָו\nדְּרָכִים רַבּוֹת, הֵן לְאָבִיב מַמְלֶכֶת,\nאִם רַק אוֹתָן אוֹר חִיוּכֵךְ יֶאֱהַב.\n \nשׁוֹתְקִים, נֶאֱהַב, כִּי לִי וְלָךְ\nדַּי בְּלִי מִלִּים, שֶׁהֵן לְאֵלֶּה,\nאֲשֶׁר אֵינָם יוֹדְעִים לוֹמַר אַחֶרֶת, \n כמה יפה פּוֹרֵחַ הַלִּילָךְ.",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/601475/",
-       "id": "601475",
-       "season": 6
-      },
-      {
-       "name": "לא יפריד דבר",
-       "logo": "https://www.kan.org.il/media/sl2f2jg1/לא-יפריד-דבר-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3rxjea6j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-09",
-       "plot": "מילים ולחן: דני סנדרסון\n\nעיבוד והפקה מוסיקלית: אמיר לקנר\nצ'לו: מאיה בלזיצמן\nכלי נשיפה ואקורדיון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל: אמיר לקנר \n\nמילים: \n\nלא יפריד דבר בינינו לעד\nגם אם העולם ייפסק ביום אחד\nמקומי תמיד יהיה לצידך\nלאורך כל הדרך אני אהובך\n \nאת תמיד היית הכל בשבילי\nבזכותך למדתי מה ומי אני\nמתנה כזאת של פעם בחיים\nצריך לשמור עליה עולמי עולמים\n \nהנהר סוחף אותנו ישא\nאין לדעת לאן\nאו את אורכו של המסע\nוכשנגיע אומר בוודאי\nזו הנסיעה של חיי\n \nגשר מזהב סלול אל ליבך\nמחבר את שנינו\nבכל אשר נלך\nברוחות הקור סופות וגשמים\nאני צמוד אלייך\nעולמי עולמים\n \nהנהר סוחף אותנו ישא\nאין לדעת לאן\nאו את אורכו של המסע\nוכשנגיע אומר בוודאי\nזו הנסיעה של חיי\n \nלא יפריד דבר בינינו לעד\nגם אם העולם ייפסק ביום אחד\nמקומי תמיד יהיה לצידך\nלאורך כל הדרך אני אהובך",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/601473/",
-       "id": "601473",
-       "season": 6
-      },
-      {
-       "name": "יש אי שם",
-       "logo": "https://www.kan.org.il/media/f0xfbxuf/יש-אי-שם-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uu5jo933/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-02",
-       "plot": "מילים: ענת גוב ויוני רכטר\nלחן: יוני רכטר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/592448/",
-       "id": "592448",
-       "season": 6
-      },
-      {
-       "name": "כשאת עצובה",
-       "logo": "https://www.kan.org.il/media/ok5pmpra/כשאת-עצובה-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_li8i778q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-02",
-       "plot": "מילים ולחן: עמיר בניון",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/592447/",
-       "id": "592447",
-       "season": 6
-      },
-      {
-       "name": "זמר אהבה לים",
-       "logo": "https://www.kan.org.il/media/bbqjqsmm/זמר-אהבה-לים-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r5o35mox/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-11-02",
-       "plot": "מילים: רפאל אליעז\nלחן: סשה ארגוב",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/592446/",
-       "id": "592446",
-       "season": 6
-      },
-      {
-       "name": "שמור לך חלום קטן ",
-       "logo": "https://www.kan.org.il/media/fwicwb1i/שמור-לך-חלום-קטן-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v6mhmloy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-26",
-       "plot": "מילים: גס קאן\nלחן: ווילבור שוואנדט ופאביאן אנדרה\nתרגום: אהוד מנור",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/582998/",
-       "id": "582998",
-       "season": 6
-      },
-      {
-       "name": "לו יהי עם שייקה וגברי  ",
-       "logo": "https://www.kan.org.il/media/wminilcl/לו-יהי-לייב-באולפן.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ehx68klm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-26",
-       "plot": "מילים ולחן : נעמי שמר",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/582995/",
-       "id": "582995",
-       "season": 6
-      },
-      {
-       "name": "רואים רחוק רואים שקוף  ",
-       "logo": "https://www.kan.org.il/media/4sup0du0/רואים-רחוק-רואים-שקוף-לייב-באולפן-113.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_06yat4q2/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-26",
-       "plot": "מילים: יענקלה רוטבליט\nלחן: שמואל קראוס",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/582970/",
-       "id": "582970",
-       "season": 6
-      },
-      {
-       "name": "שיר ערש (גרסה שקטה)",
-       "logo": "https://www.kan.org.il/media/nsglyh0j/שיר-ערש.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nxjlrv1u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-17",
-       "plot": "מילים: נתן אלתרמן, לחן: סשה ארגוב",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/571728/",
-       "id": "571728",
-       "season": 6
-      },
-      {
-       "name": "בגלל הרוח (גרסה שקטה)",
-       "logo": "https://www.kan.org.il/media/i0cpycde/בגלל-הרוח.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lw068dpy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-17",
-       "plot": "מילים: מיכה שיטרית, לחן: לאה שבת",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/571726/",
-       "id": "571726",
-       "season": 6
-      },
-      {
-       "name": "מילה טובה",
-       "logo": "https://www.kan.org.il/media/iixnbt3d/מילה-טובה.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rxl15lhx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-17",
-       "plot": "מילים: יעקב גלעד, לחן: יהודית רביץ",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/571725/",
-       "id": "571725",
-       "season": 6
-      },
-      {
-       "name": "דרכנו",
-       "logo": "https://www.kan.org.il/media/zwkhwqww/דרכנו.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_471f6837/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-12",
-       "plot": "מילים: יענקל'ה רוטבליט\nלחן: יזהר אשדות\n\nעיבוד והפקה מוזיקלית לכל השירים: אמיר לקנר\n\nנגנים:\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיאון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל – אמיר לקנר\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\n\n\nדרכנו\n\nלא קלה היא לא קלה דרכנו\nועינייך לפעמים כה נוגות\nעוד שדות פורחים יש לפנינו\nעוד הרים גבוהים, וצונני פסגות\n\nאור הנר נמהל באור הירח\nעל הכר שיערך שפוך\nבחלון צמרת עץ פורח\nוהשקט חזר, רואים לפי החיוך \n\nסערה היתה, הנה חלפה לה\nופנייך שוב רוגעות כפני הים\nעם האור נוסיף ללכת הלאה\nעוד הדרך רבה, המסע עדיין לא תם\n\nלא קלה היא לא קלה דרכנו\nועינייך לפעמים כה נוגות\nעוד שדות פורחים יש לפנינו\nעוד הרים גבוהים, וצונני פסגות\n\nרסיסים של אור בדמעותייך\nוחיוך שוב מגשש דרכו אלי\nכל הטוב עודנו לפנייך\nשימי ראש על כתפי, \nתני לי ידך בידי\n\nעוד מעט יתם הנר לגווע\nעוד מעט יובס השקט המבורך\nהמולת היום תתחיל לבקוע\nלא תלכי לבדך, \nלא תלכי לבדך\nאני אהיה שם איתך\n\nלא קלה היא, לא קלה דרכנו\nועינייך לפעמים כה נוגות\nעוד שדות פורחים יש לפנינו\nעוד הרים גבוהים, וצונני פסגות\n\nלא קלה היא, לא קלה דרכנו\nועינייך לפעמים כה נוגות\nעוד שדות פורחים יש לפנינו\nעוד הרים גבוהים, וצונני פסגות\n\nאור הנר נמהל באור הירח\nעל הכר שיערך שפוך\nבחלון צמרת עץ פורח\nוהשקט חזר, \nרואים לפי החיוך",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/565797/",
-       "id": "565797",
-       "season": 6
-      },
-      {
-       "name": "נוף ילדות",
-       "logo": "https://www.kan.org.il/media/kympoccu/נוף-ילדות.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_enyqbor1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-12",
-       "plot": "מילים ולחן: שלמה ארצי\n\nעיבוד והפקה מוזיקלית לכל השירים: אמיר לקנר\n\nנגנים:\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיאון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל – אמיר לקנר\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\n\n\nנוף ילדות \n\nבנוף הבתים הישנים\nאשר היו צילי בימי יָלְדוּת\nחלפו הרבה שנים\nחלפו הרבה שנים\nנוף הבתים כבר מתפורר\nוקירותיו נעלמים\nחלפו הרבה שנים\nחלפו הרבה שנים\nבגן העדן של ילדות\nאשר היה פו↓רח\nהייתי חלק מהנוף\nהיום אני אורח\nבגן העדן של ילדות\nאשר היה פורח  \nהייתי חלק מהנוף \nהיום אני אורח\nבגן העצים המתקלפים\nאשר היו צילי בימי ילדות \nכבר נשברו הענפים\nקפצה זִיקנה פתאום\nאני הולך ואת איתי\nוהם כולם נעלמים\nקפצה זִיקנה פתאום\nאיזה יום היום\nבגן העדן של ילדות\nאשר היה פו↓רח\nהייתי חלק מהנוף\nהיום אני אורח\nבגן העדן של ילדות\nאשר היה פו↑רח\nהייתי חלק מהנוף\nהיום אני אורח\nהיום אני אורח\n\nנוף הבתים הישנים\nאשר היו צילי בימי יָלְדוּת\nחלפו הרבה↑ שנים ↓\nחלפו הרבה↓ שנים",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/565796/",
-       "id": "565796",
-       "season": 6
-      },
-      {
-       "name": "שיר לשירה",
-       "logo": "https://www.kan.org.il/media/2frdkdwo/שיר-לשירה.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6sc7585f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-12",
-       "plot": "מילים: יהונתן גפן\nלחן: קורין אלאל\n\nעיבוד והפקה מוזיקלית לכל השירים: אמיר לקנר\n\nנגנים:\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיאון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל – אמיר לקנר\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\n\n\nשיר לשירה\n\nדברי עכשיו, ילדה, אני שומע\nכל העולם \nמקשיב למלמולך\nדברי מלאך, שלי, אני יודע\nשלא תמיד\nיקשיבו לקולך\n\nדברו שפתיים יחפות\nדברו עיניים\nכל עוד חלב נוטף מחיוכך\nחבקי את כל פחדי בשתי ידייך\nחבקי דובים גדולים\nמתוך שנתך\n\nעולם חדש וטוב אני אתן לך \nכבר במבט כחול את מגלה \nכמה חשוב לראות פתאום חצי ירח\nקורץ צהוב-צהוב מתוך האפלה\n\nהיי קטנה, מאומה לא יפגע בך\nסיכת פרפר\nקשורה בשערך\nתהיי קטנה, מאומה לא יברח לך\nאני אהיה גדול\nגם בשבילך\n\nדברו שפתיים יחפות, דברו עיניים\nכל עוד חלב נוטף מחיוכך\nחבקי -  את כל פחדי בשתי ידייך\nחבקי דובים גדולים, מתוך שנתך\nעולם חדש וטוב אני אתן לך \nכבר במבט כחול את מגלה \nכמה חשוב לראות פתאום חצי ירח\nקורץ צהוב-צהוב \nמתוך האפלה\n\nעולם חדש וטוב אני אתן לך\n    כבר במבט כחול את מגלה \nכמה חשוב לראות פתאום חצי ירח\nקורץ צהוב צהוב מתוך האפלה\nדברי עכשיו, ילדה, אני שומע",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/565795/",
-       "id": "565795",
-       "season": 6
-      },
-      {
-       "name": "מחכה ",
-       "logo": "https://www.kan.org.il/media/5jdifhdd/מחכה.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8q9a9mb3/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2023-10-12",
-       "plot": "מילים: ריטה\nלחן: עידן רייכל\n\nעיבוד והפקה מוזיקלית לכל השירים: אמיר לקנר\n\nנגנים:\nכינור: קרן טננבאום\nכלי נשיפה ואקורדיאון: אוהד בן אבי\nגיטרות: רמי אוסרווסר\nבס: בנצי גפני\nכלי הקשה: עידית דביר\nקלידים: איתמר גרוס\nפסנתר וחליל – אמיר לקנר\n\nסאונד: יוסי לוגסי\nמיקס: יונתן דנינו\n\n\nיום אחד זה יקרה\nבלי שנרגיש, משהו ישתנה\nמשהו ירגע בנו, משהו יגע בנו\nולא יהיה ממה לחשוש\nוזה יבוא\nכמו קו חרוט על כף יד זה יבוא\nבטוח בעצמו\nכאילו היה שם תמיד\nוחיכה שנבחין בו\nוזה יבוא, אתה תראה\nהידיים הקפוצות יתארכו\nוהלב השומר לא להיפגע יפעם\nבקצב רגיל זה יבוא\nכמו שהטבע רגיל, אתה תראה\nהידיים הקפוצות יתארכו\nוהלב השומר לא להיפגע יפעם\nבקצב רגיל זה יבוא\nכמו שהטבע רגיל\nלהיות שלם עם עצמו\nיום אחד זה יקרה\nבלי שנרגיש, משהו ישתנה\nמשהו יגע בנו\nמשהו ירגע בנו\nולא יהיה ממה לחשוש\nוזה יבוא\nכמו קו חרוט על כף יד זה יבוא\nבטוח בעצמו\nכאילו היה שם תמיד\nוחיכה שנבחין בו\nוזה יבוא, אתה תראה\nהידיים הקפוצות יתארכו\nוהלב השומר לא להיפגע, יפעם\nבקצב רגיל זה יבוא\nכמו שהטבע רגיל, אתה תראה\nהידיים הקפוצות יתארכו\nוהלב השומר לא להיפגע יפעם\nבקצב רגיל זה יבוא\nכמו שהטבע רגיל\nלהיות שלם עם עצמו\nוזה יבוא, אתה תראה\nהידיים הקפוצות יתארכו\nוהלב השומר לא להיפגע, יפעם\nבקצב רגיל זה יבוא\nכמו שהטבע רגיל, אתה תראה\nהידיים הקפוצות יתארכו\nוהלב השומר לא להיפגע יפעם\nבקצב רגיל זה יבוא\nכמו שהטבע רגיל\nלהיות שלם עם עצמו\nוזה יבוא, אתה הרי יודע\nלא הכל יטלטל אותנו\nלא הכל יכה\nומה שייפתח לנו\nמחכה\"",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s6/565794/",
-       "id": "565794",
-       "season": 6
       }
      ]
     },
@@ -2770,6 +2490,20 @@
        "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/s1/158370/",
        "id": "158370",
        "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "זהו זה! השירים - הצצה | פרנויה",
+       "logo": "https://www.kan.org.il/media/cv5d5rek/artboard-1.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rjvmgozu/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-15",
+       "plot": "כל הביצועים של השירים האהובים על חמישיית הקאלט מהשנים האחרונות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13401/920766/",
+       "id": "920766"
       }
      ]
     }

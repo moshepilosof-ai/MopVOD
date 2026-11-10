@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-12459/",
    "series_id": "12459",
-   "updated": "2026-10-28 13:41",
+   "updated": "2026-11-10 22:08",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "תעלומות - הצצה | \"הילד הבוכה\"",
+       "logo": "https://www.kan.org.il/media/vcodmfxf/תעלומות.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9gq4ca0g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-06-15",
+       "plot": "ענת קורול-גורדון יוצאת לבדוק מה הסיפור של הציור המפורסם \"הילד הבוכה\"",
+       "page": "https://www.kan.org.il/content/dig/digital/p-12459/920683/",
+       "id": "920683"
+      },
       {
        "name": "תעלומות | מי קבור גופה ביסודות של מרכז כלל בירושלים?",
        "logo": "https://www.kan.org.il/media/k0apdpqj/2021-8-26-imgid-59952_b.jpeg",

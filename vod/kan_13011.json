@@ -6,7 +6,7 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13011/",
    "series_id": "13011",
-   "updated": "2026-11-06 21:46",
+   "updated": "2026-11-10 22:05",
    "sub_categories": [
     {
      "name": "עונה 6",
@@ -1835,6 +1835,29 @@
        "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s1/131739/",
        "id": "131739",
        "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ערב עם שי שטרן - הצצה | למה קשה להיות אישה",
+       "logo": "https://www.kan.org.il/media/fcwjj4sw/artboard-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o7uhsx2i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "הדר לוי מסבירה לשי שטרן למה קשה להיות אישה בימנו",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/856227/",
+       "id": "856227"
+      },
+      {
+       "name": "ערב עם שי שטרן - הצצה | איך לחדש דרכון ולשרוד",
+       "logo": "https://www.kan.org.il/media/qw2kzg4t/b18d41a0-3de2-4fe5-ad4a-3c0ffcd9139a.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wflaplc7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2025-02-04",
+       "plot": "שי יוצא לבדוק כמה קשה לקבוע תור לחידוש דרכון במשרד הפנים, ופוגש אחד לא פראייר",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/856213/",
+       "id": "856213"
       }
      ]
     }
