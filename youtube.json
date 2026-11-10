@@ -1,6 +1,6 @@
 {
  "name": "MopVOD YouTube",
- "updated": "2026-11-09 09:06",
+ "updated": "2026-11-10 09:10",
  "sources": [
   {
    "id": "yt_UCpVm7bg6pXKo1Pr6k5kxG9A",
@@ -11,7 +11,7 @@
    "programs": 317,
    "episodes": 17431,
    "source": "youtube",
-   "updated": "2026-11-09 08:46"
+   "updated": "2026-11-10 08:52"
   },
   {
    "id": "yt_https___www_ted_com_playlists_304_the_best_of_tedxtelaviv",
@@ -55,7 +55,7 @@
    "programs": 1,
    "episodes": 949,
    "source": "youtube",
-   "updated": "2026-11-06 08:58"
+   "updated": "2026-11-10 09:09"
   },
   {
    "id": "ia_classic_tv",
@@ -66,7 +66,7 @@
    "programs": 1,
    "episodes": 1000,
    "source": "youtube",
-   "updated": "2026-10-29 00:17"
+   "updated": "2026-11-10 09:09"
   },
   {
    "id": "yt_UCvQmPpU20hw1Trss_CVwaew",
@@ -75,9 +75,9 @@
    "logo": "https://yt3.googleusercontent.com/AVbz_iWuCltpOm4nO-An-n2PmT4dYcC7VMFQzhFaOUDpsXxrIWmKr8q_C7ge9HuWI3BSBZOso64=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "programs": 57,
-   "episodes": 5629,
+   "episodes": 5646,
    "source": "youtube",
-   "updated": "2026-11-09 09:04"
+   "updated": "2026-11-10 09:09"
   },
   {
    "id": "yt_UCig6uBmo-4yWSJtUBGoLMAw",
