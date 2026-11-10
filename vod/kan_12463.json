@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-08 20:10",
+   "updated": "2026-11-10 00:06",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זוהר | 09.11.26",
+       "logo": "https://www.kan.org.il/media/ws5cksvz/תמונה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259096/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-09",
+       "plot": "לקראת הבחירות חזינו בפריחה מחודשת - ראש עיריית קריית שמונה אביחי שטרן שוב מאמין בנתניהו. מי שעד לא מזמן זעק על הפקרה ופייק עשייה, חוגג אוניברסיטה שהובטחה לפני 6 שנים ומיגון שעדיין מתעכב. פער שמתגלה במלוא תפארתו בעונה הזו | בערוץ 14 משוכנעים שארגוני פשיעה שמחזיקים מקלעים מתכננים להקים צבא, כי \"מי זוכר אירוע פלילי עם מקלעים\". הארכיון זוכר גם זוכר",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1112790/",
+       "id": "1112790",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זוהר | 08.11.26",
        "logo": "https://www.kan.org.il/media/irrd0k45/מהצד-השני-811.png",

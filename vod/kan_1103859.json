@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1103859/",
    "series_id": "1103859",
-   "updated": "2026-11-04 21:35",
+   "updated": "2026-11-09 23:59",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "דאבל על הכסף",
+       "logo": "https://www.kan.org.il/media/w2vbjau4/לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2250234/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-28",
+       "plot": "חצי הגמר יוצא לדרך: בין מסיבת הצהריים של עדי ולירון, האפליקציה החינוכית של אלירן ונאור, הריטריט של אורית ושלומי ופסטיבל האנימה של לי ואמנון – מי מהזוגות יודח רגע לפני הגמר הגדול? מנחה: אגם רודברג",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1103859/s1/1103868/",
+       "id": "1103868",
+       "season": 1
+      },
       {
        "name": "דאבל על הכסף",
        "logo": "https://www.kan.org.il/media/s2haffak/artboard-1.jpg",
