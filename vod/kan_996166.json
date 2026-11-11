@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-996166/",
    "series_id": "996166",
-   "updated": "2026-11-11 11:26",
+   "updated": "2026-11-11 22:13",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "קשה להסביר מה זה להיות א-בינרי",
+       "logo": "https://www.kan.org.il/media/e5ffwoda/קשה-להסביר-מה-זה-להיות-א-בינרי.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263727/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1118381/",
+       "id": "1118381",
+       "season": 1
+      },
+      {
+       "name": "יונה בוגלה הוציא את העם שלו מהגלות, מגיע לו רחוב על שמו",
+       "logo": "https://www.kan.org.il/media/ixsh3c0a/קבלו-את-משה-רבנו-גרסת-אתיופיה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263586/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1118377/",
+       "id": "1118377",
+       "season": 1
+      },
+      {
+       "name": "למי יש כסף לרישיון נהיגה???",
+       "logo": "https://www.kan.org.il/media/txsjtxlo/למי-יש-כסף-לרישיון-נהיגה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2264101/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1118366/",
+       "id": "1118366",
+       "season": 1
+      },
       {
        "name": "\"עד גיל 20 עשיתי את המיליון הראשון שלי\"",
        "logo": "https://www.kan.org.il/media/spdl4p0o/2263390_1794377862299-1.jpg",
@@ -459,36 +489,6 @@
        "plot": "",
        "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1083601/",
        "id": "1083601",
-       "season": 1
-      },
-      {
-       "name": "יום אהבה שמח! איך הייתה הנשיקה הראשונה שלכם?",
-       "logo": "https://www.kan.org.il/media/ifyfcunr/dp_3846_igtv_first_kiss.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230160/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-29",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1083247/",
-       "id": "1083247",
-       "season": 1
-      },
-      {
-       "name": "מה צריך לקרות בשביל שהג'ינס שלכם יגיע לכביסה?",
-       "logo": "https://www.kan.org.il/media/mq2dbbnb/2230169_1785243249158.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230169/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-28",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1082492/",
-       "id": "1082492",
-       "season": 1
-      },
-      {
-       "name": "המשפיען התשוש",
-       "logo": "https://www.kan.org.il/media/5zph42wu/mashpi.png",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228234/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-22",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1080089/",
-       "id": "1080089",
        "season": 1
       }
      ]

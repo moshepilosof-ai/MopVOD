@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-11 11:37",
+   "updated": "2026-11-11 22:24",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "״בתים שרופים ודשא ירוק״: בני הנוער שמחזירים את החיים לניר עוז",
+       "logo": "https://www.kan.org.il/media/ykmd3hoy/ניר-עוז-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2264164/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-11",
+       "plot": "עשרות בני נוער לפני גיוס, מכל הארץ, בחרו לעבור לגור בקיבוץ ניר עוז, במסגרת מכינה חדשה שהוקמה כדי לעזור בשיקום הקיבוץ, שאחד מכל ארבעה מחבריו נרצח או נחטף ב-7 באוקטובר. בני הנוער מביאים אליו חיים חדשים - ושורד השבי גדי מוזס הצטרף אליהם. רובי מחפש תקווה | תחקיר: שלומי קיים",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1118432/",
+       "id": "1118432",
+       "season": 2
+      },
       {
        "name": "המסעדה הגדולה בישראל: איך מאכילים אלפי שקנאים? | סיפור דרך",
        "logo": "https://www.kan.org.il/media/cwfdvkyx/כתבה-3-אתר.jpg",
