@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-10 22:08",
+ "updated": "2026-11-11 11:41",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-10 09:09",
+   "updated": "2026-11-11 08:45",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-10 09:09",
+   "updated": "2026-11-11 08:45",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -894,6 +894,15 @@
    "oldest": "2023-04-23"
   },
   {
+   "name": "כאן 11 - הפסטיבל באילת חוגג 40",
+   "file": "vod/kan_1115229.json",
+   "episodes": 16,
+   "seasons": 2,
+   "updated": "2026-11-11 11:31",
+   "newest": "2026-11-10",
+   "oldest": "2026-11-02"
+  },
+  {
    "name": "כאן 11 - לצאת מהקופסה",
    "file": "vod/kan_11228.json",
    "episodes": 11,
@@ -1013,10 +1022,10 @@
   {
    "name": "כאן 11 - חדשות הלילה",
    "file": "vod/kan_11602.json",
-   "episodes": 2051,
+   "episodes": 2052,
    "seasons": 1,
-   "updated": "2026-11-10 00:03",
-   "newest": "2026-11-09",
+   "updated": "2026-11-11 11:32",
+   "newest": "2026-11-10",
    "oldest": "2017-12-10"
   },
   {
@@ -3920,10 +3929,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 684,
+   "episodes": 685,
    "seasons": 2,
-   "updated": "2026-11-10 11:47",
-   "newest": "2026-11-08",
+   "updated": "2026-11-11 11:37",
+   "newest": "2026-11-10",
    "oldest": "2024-09-18"
   },
   {
@@ -4174,8 +4183,8 @@
    "file": "vod/kan_996166.json",
    "episodes": 48,
    "seasons": 1,
-   "updated": "2026-11-10 21:54",
-   "newest": "2026-11-09",
+   "updated": "2026-11-11 11:26",
+   "newest": "2026-11-11",
    "oldest": "2026-07-22"
   },
   {
@@ -4201,7 +4210,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-10 08:52",
+   "updated": "2026-11-11 08:29",
    "newest": "2026-09-28",
    "oldest": "2026-09-18"
   },
@@ -4210,7 +4219,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-10 09:09",
+   "updated": "2026-11-11 08:45",
    "newest": null,
    "oldest": null
   },

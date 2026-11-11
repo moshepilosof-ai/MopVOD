@@ -1,0 +1,183 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הפסטיבל באילת חוגג 40",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/vod/p-1115229/",
+   "series_id": "1115229",
+   "updated": "2026-11-11 11:31",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ג'אז בים האדום | קול הג'אז הזה ",
+       "logo": "https://www.kan.org.il/media/pztavjbi/dddddddddddd.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263752/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "פסטיבל הג'אז החמישי חוזר לאילת ואיתו אמני ג'אז רבים מהארץ ומהעולם ביניהם, יוני רכטר ולהקתו, להקת ספיירו ג'יירה, בטי קרטר ושלישייתה ואדי האריס. הבמאי צדוק פרינץ ירד לדרום לתעד ולהשתתף בחגיגה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1117829/",
+       "id": "1117829",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום |  אדי דניאלס וגארי ברטן ",
+       "logo": "https://www.kan.org.il/media/yh2edtuw/dddddddddd.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261578/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "היום הרביעי והאחרון לפסטיבל השביעי ועל הבמה הלהקה הישראלית של איריס ועופר פורטוגלי, ו\"שושלת מינגוס\", חמישיית נגנים הממשיכים את דרכו של צ'ארלי מינגוס, ממייסדי האוונגרד שבג'אז. בנוסף אדי דניאלס וגארי ברטן במחווה למוזיקאים בני גודמן וליונל המפטון. וגם הצצה לג'אם סשן בבית המלון מסביב לבריכה בה הנגנים מתאספים לאחר הקונצרט ומנגנים אל תוך הלילה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115726/",
+       "id": "1115726",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | ריי בארטו",
+       "logo": "https://www.kan.org.il/media/s1ihiykx/ריי-בארטו-be10014233.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261575/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "מה לסלסה ולג'אז? שידור ישיר מהיום השלישי של הפסטיבל עם תזמורת הסלסה של ריי בארטו",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115677/",
+       "id": "1115677",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | הסינדיקט של זאווינול",
+       "logo": "https://www.kan.org.il/media/3o0nrquo/1993-מתוך-be10014209-הסינדיקט-של-זאווינול.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261573/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "יומו השני של הפסטיבל השביעי מתחיל ואל הבמה באילת חוזר הפסנתרן מישל פטרוצ'אני. במקביל, על אחת הבמות, מופיע אחד ההרכבים החזקים ביותר המקשרים בין מוזיקת העולם לג'אז הנקרא \"הסינדיקט של ג'ו זאווינול\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115655/",
+       "id": "1115655",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | פרזרביישן הול",
+       "logo": "https://www.kan.org.il/media/hqweavcz/1993-תזמורת-הפרזרווישן-be10014225.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261566/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "פותחים את פסטיבל הג'אז הבינלאומי השביעי עם תזמורת ה\"פרזרביישן הול\" מניו אורלינס עם ג'אז אותנטי מתחילת המאה ה-20",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115629/",
+       "id": "1115629",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | ג'ו הנדרסון ובני גולסון",
+       "logo": "https://www.kan.org.il/media/fwpfw4vo/1992-בני-גולסון-bi19214389.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261463/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "חוזרים לקטעים מהפסטיבל ה-6 באילת עם הופעתם של שני נגני הסקסופון טנור הגדולים. בני גולסון, נציג הג'אז של שנות ה50-60 המארח עוד ארבע נגנים להופעה של ג'אז קלאסי וג'ו הנדרסון עם מופע לא שגרתי שלו יחד עם עוד שני נגנים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115626/",
+       "id": "1115626",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | להקת יולוג׳אקטס",
+       "logo": "https://www.kan.org.il/media/udajyo2o/1992-להקת-ילוגאקטס-ui19214530.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261462/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "הפסטיבל ה-6 מגיע לסיומו עם שידור ישיר מהקונצרט של להקת ה-\"Yellowjackets\" המשלבת פיוז'ן ג'אז עם רוק",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115624/",
+       "id": "1115624",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | טניה מריה ",
+       "logo": "https://www.kan.org.il/media/xxplndfb/1992-טניה-מריה-ui19214529.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261453/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "כמידי שנה נמל אילת לובש בעונת הקיץ, לבוש של ג'אז. השנה הפסטיבל השישי במספר ועל הבמה התופעה הברזילאית טניה מריה, המשלבת במוזיקה שלה את המסורת של ברזיל לצד אלמנטים של ג'אז ואלתורים",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115623/",
+       "id": "1115623",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | תמנה בראור ואלי מאירי",
+       "logo": "https://www.kan.org.il/media/ojzdum2q/1991-be10690370-תמנה-בראור.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261454/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "על בימת הפסטיבל, הזמרת הישראלית־אוסטרית תמנה, מופיעה לצד הפסנתרן הישראלי, אלי. וגם המתופף, אלווין ג'ונס התייצב בהרכב מלא להופעה",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115619/",
+       "id": "1115619",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | ויין שורטר",
+       "logo": "https://www.kan.org.il/media/vyknph3r/1991-ויין-שורטר-mb06904129.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261449/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-03",
+       "plot": "אוגוסט 1990,  תחילת המשבר במפרץ, אמנים רבים ביטלו את הגעתם וקיום הפסטיבל הוטל בספק. ממארגני הפסטיבל נדרש לאלתר ולחשוב על פתרונות מהירים, אחד מהם היה נגן הסקסופון ויין שורטר שנשלף מחופשה בכפר קטן בפורטוגל והגיע מרצונו היישר לפסטיבל באילת",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115616/",
+       "id": "1115616",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | אחינועם ניני וגיל דור",
+       "logo": "https://www.kan.org.il/media/cinfxa1x/אחינועם-ניני-וגילי-דור-1990.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261443/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "הזמרת והגיטריסט האהובים מופיעים על הבמה ומספרים מדוע הם כל כך אוהבים ג'אז. הלהקה \"טירוף ביולוגי\" שבראשה עומד לארי סמית׳ המשלבת בין ג'אז ורוק מתארחת בפסטיבל ולצידה, ההרכב המוזיקלי משיקגו \"שמונה נשמות אמיצות\"",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115302/",
+       "id": "1115302",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | פרדי האברד",
+       "logo": "https://www.kan.org.il/media/c3dpfcgs/1990-פרדי-הבארדui19012665.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261445/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "פסטיבל הג'אז הבינלאומי הרביעי חוזר לאילת ואליו מגיע הרכב הג'אז בהובלת חצוצרן העל, פרדי האברד",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115301/",
+       "id": "1115301",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | להקת אולימפיה",
+       "logo": "https://www.kan.org.il/media/maharqvl/1990-הרולד-דזאן-ומילטון-באטיסט-ui29002688.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261446/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "ניו אורלינס מגיע לאילת עם ענקי הג'אז, מילטון באטיס והארולד ד'זאן יחד עם להקת אולימפיה שמתארחים בפסטיבל הג'אז הבינלאומי בישראל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115296/",
+       "id": "1115296",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | מישל פטרוצ'יאני",
+       "logo": "https://www.kan.org.il/media/2gzbiec2/1990-מישל-פטרוציאני-ui19001459.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261444/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "זו השנה השלישית של פסטיבל הג'אז הבינלאומי באילת. בפסטיבל מתארחים אמנים רבים ביניהם, ענק הג'אז ואחד הכישרונות הגדולים בתחום הפסנתר מישל פטרוצ'יאני, החצוצרן הצרפתי ז'אן-לו לוניון ולהקת מינואט הישראלית",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115280/",
+       "id": "1115280",
+       "season": 1
+      },
+      {
+       "name": "ג'אז בים האדום | אלברט פיאמנטה",
+       "logo": "https://www.kan.org.il/media/v5dd3jab/1991-רביעיית-הסקספון-הישראלית-של-אלברט-פיאמנטה-bi19114055.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261442/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "אל הפסטיבל מגיע אלברט פיאמנטה עם קבוצה של סקסופוניסטים צעירים, יחד הם מבצעים קטעי ג'אז אהובים. הסקסופוניסט הסקוטי הצעיר טומי סמית׳ ולהקתו על הבמה וגם ראיון עם המוזיקאי הישראלי-צ'כי, ירוסלב יעקובוביץ שמופיע בפסטיבל",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/s1/1115231/",
+       "id": "1115231",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ג'אז בים האדום | הצצה",
+       "logo": "https://www.kan.org.il/media/bbbjje34/dddddddddddddddddddddddddddddddddddddddddddddd.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263754/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "הצצה לפסטיבל הבינלאומי לג'אז באילת בשנותיו הראשונות",
+       "page": "https://www.kan.org.il/content/archive1/vod/p-1115229/1117796/",
+       "id": "1117796"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

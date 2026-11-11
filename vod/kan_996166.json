@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-996166/",
    "series_id": "996166",
-   "updated": "2026-11-10 21:54",
+   "updated": "2026-11-11 11:26",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "\"עד גיל 20 עשיתי את המיליון הראשון שלי\"",
+       "logo": "https://www.kan.org.il/media/spdl4p0o/2263390_1794377862299-1.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263390/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-11",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1118179/",
+       "id": "1118179",
+       "season": 1
+      },
       {
        "name": "לא נזכיר שמות | אוריאן ספיבק",
        "logo": "https://www.kan.org.il/media/veflhvfu/2262351_1794219770232.jpg",
@@ -479,16 +489,6 @@
        "plot": "",
        "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1080089/",
        "id": "1080089",
-       "season": 1
-      },
-      {
-       "name": "מפורסמים פעם להיות כמו:",
-       "logo": "https://www.kan.org.il/media/nb1mk3vd/mefur.png",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227750/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-22",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1080084/",
-       "id": "1080084",
        "season": 1
       }
      ]

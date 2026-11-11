@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-10 11:47",
+   "updated": "2026-11-11 11:37",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "המסעדה הגדולה בישראל: איך מאכילים אלפי שקנאים? | סיפור דרך",
+       "logo": "https://www.kan.org.il/media/cwfdvkyx/כתבה-3-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263846/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "המסעדה הגדולה בישראל - לא של בני אדם, אלא של ציפורים. נדדנו בין עמק החולה לעמק חפר כדי להבין איך מאכילים אלפי שקנאים רעבים. הכתבה של ישראל רוזנר, מתוך מהדורת כאן חדשות 10.11.26 | מתוך סדרת הכתבות סיפור דרך",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1118092/",
+       "id": "1118092",
+       "season": 2
+      },
       {
        "name": "מעספור - לנטפליקס: הצמד גיא עמיר וחנן סביון בריאיון מיוחד",
        "logo": "https://www.kan.org.il/media/mczg2w5v/עספור-אתר.png",
