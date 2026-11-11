@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-10 09:09",
+   "updated": "2026-11-11 08:45",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -2775,17 +2775,6 @@
        "resolve": "archive"
       },
       {
-       "name": "From Beyond The Grave 1974",
-       "logo": "https://archive.org/services/img/from-beyond-the-grave-1974",
-       "url": "https://archive.org/details/from-beyond-the-grave-1974",
-       "date": "1974-01-01",
-       "plot": "Four customers buy or steal items from an old antique shop whose motto is \"Offers You Cannot Resist\". A nasty fate awaits those who cheat the shop's mysterious proprietor.",
-       "page": "https://archive.org/details/from-beyond-the-grave-1974",
-       "id": "from-beyond-the-grave-1974",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Black Christmas 1974",
        "logo": "https://archive.org/services/img/black-christmas-1974_202405",
        "url": "https://archive.org/details/black-christmas-1974_202405",
@@ -2793,6 +2782,17 @@
        "plot": "During their Christmas break, a group of sorority girls are stalked and terrorised by a stranger.",
        "page": "https://archive.org/details/black-christmas-1974_202405",
        "id": "black-christmas-1974_202405",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "From Beyond The Grave 1974",
+       "logo": "https://archive.org/services/img/from-beyond-the-grave-1974",
+       "url": "https://archive.org/details/from-beyond-the-grave-1974",
+       "date": "1974-01-01",
+       "plot": "Four customers buy or steal items from an old antique shop whose motto is \"Offers You Cannot Resist\". A nasty fate awaits those who cheat the shop's mysterious proprietor.",
+       "page": "https://archive.org/details/from-beyond-the-grave-1974",
+       "id": "from-beyond-the-grave-1974",
        "duration": null,
        "resolve": "archive"
       },
@@ -3226,17 +3226,6 @@
        "resolve": "archive"
       },
       {
-       "name": "And Now The Screaming Starts 1973",
-       "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
-       "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
-       "date": "1973-01-01",
-       "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
-       "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
-       "id": "and-now-the-screaming-starts-1973_202409",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Hourglass Sanatorium (1973)",
        "logo": "https://archive.org/services/img/the.-hourglass.-sanatorium.-1973",
        "url": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
@@ -3244,6 +3233,17 @@
        "plot": "The Hourglass Sanatorium is a 1973 Polish drama film directed by Wojciech Jerzy Has, starring Jan Nowicki, Tadeusz Kondrat, Mieczysław Voit, Halina Kowalska and Gustaw Holoubek. It is also known as The Sandglass in English-speaking countries. It follows a young Jewish man named Józef who travels to a mystical sanatorium to visit his dying father. Upon arrival, he discovers a decaying facility where time behaves unpredictably, leading him through a dream-like exploration of his memories and experiences.",
        "page": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
        "id": "the.-hourglass.-sanatorium.-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "And Now The Screaming Starts 1973",
+       "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
+       "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
+       "date": "1973-01-01",
+       "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
+       "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
+       "id": "and-now-the-screaming-starts-1973_202409",
        "duration": null,
        "resolve": "archive"
       },
@@ -4870,17 +4870,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tomb of Ligeia (1964)",
-       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
-       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
-       "date": "1964-01-01",
-       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
-       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
-       "id": "the.-tomb.of.-ligeia-1964",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Blood And Black Lace 1964",
        "logo": "https://archive.org/services/img/blood-and-black-lace-1964_202407",
        "url": "https://archive.org/details/blood-and-black-lace-1964_202407",
@@ -4888,6 +4877,17 @@
        "plot": "A masked, shadowy killer stalks and brutally murders the models of a scandalous fashion house in Rome.",
        "page": "https://archive.org/details/blood-and-black-lace-1964_202407",
        "id": "blood-and-black-lace-1964_202407",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Tomb of Ligeia (1964)",
+       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
+       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "date": "1964-01-01",
+       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
+       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "id": "the.-tomb.of.-ligeia-1964",
        "duration": null,
        "resolve": "archive"
       },
@@ -9327,17 +9327,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Devil's Hand (1962)",
-       "logo": "https://archive.org/services/img/TheDevilsHand1962_154",
-       "url": "https://archive.org/details/TheDevilsHand1962_154",
-       "date": null,
-       "plot": "Rick Turner has dreams of Bianca Milan who belongs to the cult of the diabolic Camba. Mystic Nights Videos",
-       "page": "https://archive.org/details/TheDevilsHand1962_154",
-       "id": "TheDevilsHand1962_154",
-       "duration": "1:11:06",
-       "resolve": "archive"
-      },
-      {
        "name": "Bloody Pit Of Horror",
        "logo": "https://archive.org/services/img/BloodyPitOfHorror_201508",
        "url": "https://archive.org/details/BloodyPitOfHorror_201508",
@@ -9346,6 +9335,17 @@
        "page": "https://archive.org/details/BloodyPitOfHorror_201508",
        "id": "BloodyPitOfHorror_201508",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Devil's Hand (1962)",
+       "logo": "https://archive.org/services/img/TheDevilsHand1962_154",
+       "url": "https://archive.org/details/TheDevilsHand1962_154",
+       "date": null,
+       "plot": "Rick Turner has dreams of Bianca Milan who belongs to the cult of the diabolic Camba. Mystic Nights Videos",
+       "page": "https://archive.org/details/TheDevilsHand1962_154",
+       "id": "TheDevilsHand1962_154",
+       "duration": "1:11:06",
        "resolve": "archive"
       },
       {
