@@ -686,6 +686,12 @@
       "section": "archive1/vod"
     },
     {
+      "id": "kan_652283",
+      "title": "כאן 11 - מוצ\"ש",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-652283/",
+      "section": "archive1/vod"
+    },
+    {
       "id": "kan_984622",
       "title": "כאן 11 - כאן ועכשיו | פרקים מלאים לצפייה",
       "url": "https://www.kan.org.il/content/archive1/vod/p-984622/",
@@ -986,6 +992,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_1117879",
+      "title": "כאן 11 - 140 שנה לבן גוריון",
+      "url": "https://www.kan.org.il/content/kan/news-series/p-1117879/",
+      "section": "kan/news-series"
+    },
+    {
       "id": "kan_13712",
       "title": "כאן 11 - 80 וארבע",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13712/",
@@ -1055,6 +1067,12 @@
       "id": "kan_975601",
       "title": "כאן 11 - אונר\"א",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-975601/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1108042",
+      "title": "כאן 11 - אחרי הדאבל",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1108042/",
       "section": "kan/kan-11"
     },
     {
@@ -1308,12 +1326,6 @@
       "title": "כאן 11 - הבן יקיר לי",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-1028550/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1017865",
-      "title": "כאן 11 - הגביע הקדוש",
-      "url": "https://www.kan.org.il/content/kan/news-series/p-1017865/",
-      "section": "kan/news-series"
     },
     {
       "id": "kan_768844",
@@ -1730,6 +1742,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_1113834",
+      "title": "כאן 11 - חזרה אל תכניות האירוח של ערב שבת בטלוויזיה הישראלית",
+      "url": "https://www.kan.org.il/content/archive1/vod/p-1113834/",
+      "section": "archive1/vod"
+    },
+    {
       "id": "kan_13081",
       "title": "כאן 11 - חזרות",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13081/",
@@ -1898,6 +1916,12 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_1117818",
+      "title": "כאן 11 - כולם רצים עכשיו",
+      "url": "https://www.kan.org.il/content/kan/news-series/p-1117818/",
+      "section": "kan/news-series"
+    },
+    {
       "id": "kan_821296",
       "title": "כאן 11 - כולנו הרצל",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-821296/",
@@ -2048,12 +2072,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_652283",
-      "title": "כאן 11 - מוצ\"ש",
-      "url": "https://www.kan.org.il/content/archive1/vod/p-652283/",
-      "section": "archive1/vod"
-    },
-    {
       "id": "kan_666904",
       "title": "כאן 11 - מוקד 11",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-666904/",
@@ -2094,12 +2112,6 @@
       "title": "כאן 11 - מישהו לגור איתו",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-327417/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1035662",
-      "title": "כאן 11 - מכינת התקומה",
-      "url": "https://www.kan.org.il/content/kan/news-series/p-1035662/",
-      "section": "kan/news-series"
     },
     {
       "id": "kan_11247",
@@ -2426,6 +2438,12 @@
       "section": "dig/digital"
     },
     {
+      "id": "kan_1113322",
+      "title": "כאן 11 - קולות הסרוגים",
+      "url": "https://www.kan.org.il/content/kan/news-series/p-1113322/",
+      "section": "kan/news-series"
+    },
+    {
       "id": "kan_12832",
       "title": "כאן 11 - קופה ראשית",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12832/",
@@ -2454,12 +2472,6 @@
       "title": "כאן 11 - קצה חוט",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13668/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1036654",
-      "title": "כאן 11 - קריסת האונקולוגיה",
-      "url": "https://www.kan.org.il/content/kan/news-series/p-1036654/",
-      "section": "kan/news-series"
     },
     {
       "id": "kan_762359",
@@ -2694,6 +2706,24 @@
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1017865",
+      "title": "כאן 11 - הגביע הקדוש",
+      "url": "https://www.kan.org.il/content/kan/news-series/p-1017865/",
+      "section": "kan/news-series"
+    },
+    {
+      "id": "kan_1035662",
+      "title": "כאן 11 - מכינת התקומה",
+      "url": "https://www.kan.org.il/content/kan/news-series/p-1035662/",
+      "section": "kan/news-series"
+    },
+    {
+      "id": "kan_1036654",
+      "title": "כאן 11 - קריסת האונקולוגיה",
+      "url": "https://www.kan.org.il/content/kan/news-series/p-1036654/",
+      "section": "kan/news-series"
     },
     {
       "id": "kan_12816",

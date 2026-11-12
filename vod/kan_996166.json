@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-996166/",
    "series_id": "996166",
-   "updated": "2026-11-11 22:13",
+   "updated": "2026-11-12 22:01",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "מה ניסו להגיד בשנות ה-90? שמי שמעשן הוא תולעת?",
+       "logo": "https://www.kan.org.il/media/xurdemv2/מה-ניסו-להגיד-בשנות-ה-90-שמי-שמעשן-תולעת.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2264825/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-12",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1118746/",
+       "id": "1118746",
+       "season": 1
+      },
       {
        "name": "קשה להסביר מה זה להיות א-בינרי",
        "logo": "https://www.kan.org.il/media/e5ffwoda/קשה-להסביר-מה-זה-להיות-א-בינרי.png",
@@ -479,16 +489,6 @@
        "plot": "",
        "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1085491/",
        "id": "1085491",
-       "season": 1
-      },
-      {
-       "name": "סרטון שיגרום לכם לאמץ חתול. או אמונה טפלה",
-       "logo": "https://www.kan.org.il/media/mafpczuq/2230829_1785409548893.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230829/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-30",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1083601/",
-       "id": "1083601",
        "season": 1
       }
      ]

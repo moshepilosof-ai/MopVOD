@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-12 11:58",
+   "updated": "2026-11-12 22:12",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "הכי רחוק שיש משב״ק ס׳: האלבום החדש של מוקי - והחיבור לעידן רייכל",
+       "logo": "https://www.kan.org.il/media/uxtf1z2n/מוקי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2264881/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-12",
+       "plot": "מוקי משתף פעולה עם עידן רייכל באלבום חדש שמנסה לזקק את מה שעבר על המדינה בשנים האחרונות, וגם את מה שעבר עליו. האלבום \"איך יראה מחר?\" נע בין שברים ומחלוקות, לאמונה ותקווה. כתבתנו פגשה את מוקי ואת רייכל לשיחה על היצירה המשותפת",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1118786/",
+       "id": "1118786",
+       "season": 2
+      },
+      {
+       "name": "האם השפים בישראל רודפים אחרי המישלן - ולמה המסעדות פה כל כך יקרות?",
+       "logo": "https://www.kan.org.il/media/1mgoqjbn/1920x1080_4800_hp-2-00_01_00_46.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2264878/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-12",
+       "plot": "זכייה בכוכב מישלן, או בכמה מהם, היא כנראה פסגת השאיפות של כל שף בעולם. אבל האם השפים הישראלים משתתפים במרוץ - או שהכוכב הנוצץ לא ממש רלוונטי אצלנו? עד כמה המעמד של מישלן נותר בלתי מעורער, והאם הוא שווה את המחיר?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1118782/",
+       "id": "1118782",
+       "season": 2
+      },
+      {
+       "name": "התחזית המדעית משנות השישים: סוף העולם צפוי מחר",
+       "logo": "https://www.kan.org.il/media/tanbj3l3/סוף-העולם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2264873/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-12",
+       "plot": "העולם כנראה לא יגיע אל קיצו מחר. אלה הן כמובן חדשות טובות, אבל בנובמבר 1960 היו מדענים רציניים שחזו שביום שישי, שלושה-עשר בנובמבר 2026 - נגיע לנקודת השיא של הגידול באוכלוסיית העולם, ובני האדם פשוט ימחצו זה את זה למוות. למה זה לא קרה?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1118772/",
+       "id": "1118772",
+       "season": 2
+      },
       {
        "name": "המסעדה הגדולה בישראל: איך מאכילים אלפי שקנאים? | סיפור דרך",
        "logo": "https://www.kan.org.il/media/cwfdvkyx/כתבה-3-אתר.jpg",
@@ -1332,16 +1362,6 @@
        "season": 2
       },
       {
-       "name": "עגלות הקפה שמביאות תקווה לקריית שמונה: \"נותן לנו כוח להישאר פה\"",
-       "logo": "https://www.kan.org.il/media/jkhnsmal/s0544754_item1300_01_57_33still001.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239680/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-08-26",
-       "plot": "על קריית שמונה עוברים ימים לא פשוטים. העסקים בעיר נסגרים, תושבים עוזבים, אך יש מי שמחליטות לא לוותר ולהוסיף קצת אור לעיר המשתקמת - עגלות הקפה",
-       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1093136/",
-       "id": "1093136",
-       "season": 2
-      },
-      {
        "name": "בגלל המכסים של טראמפ: נפילתה של חברת האופנה המהירה \"שיין\"",
        "logo": "https://www.kan.org.il/media/gkmhpjyq/11.jpg",
        "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239195/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
@@ -1489,16 +1509,6 @@
        "plot": "יותר מחצי מיליון ישראלים יצביעו בבחירות האלה בפעם הראשונה בחייהם, והקרב על הקול הצעיר מוביל פוליטיקאים רבים להסכתים. שם הם יכולים לוותר על החליפה, ופעמים רבות - גם על השאלות הקשות",
        "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1091418/",
        "id": "1091418",
-       "season": 2
-      },
-      {
-       "name": "הלוחמים שנלחמו ב-7 באוקטובר בקיבוצי עוטף עזה - בונים אותם מחדש",
-       "logo": "https://www.kan.org.il/media/4o3nwvg2/רובי-אתר.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237232/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-08-19",
-       "plot": "סיפורם של אלה שהביטו למוות בעיניים ובונים היום מחדש את יישובי עוטף עזה",
-       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1090984/",
-       "id": "1090984",
        "season": 2
       },
       {

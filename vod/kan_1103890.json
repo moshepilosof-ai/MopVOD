@@ -6,7 +6,7 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/news-series/p-1103890/",
    "series_id": "1103890",
-   "updated": "2026-11-12 11:59",
+   "updated": "2026-11-12 22:14",
    "sub_categories": [
     {
      "name": "עונה 1",
@@ -92,13 +92,23 @@
        "season": 1
       },
       {
-       "name": "קרובים קרובים | מעז יצא מתוק",
-       "logo": "https://www.kan.org.il/media/vk4f2nvq/cat40197_img_cover388162241.jpg",
-       "url": "https://www.youtube.com/embed/M-zbre5T-XU",
-       "date": "2023-04-22",
-       "plot": "אביתר מחליט להיות טבעוני. המשפחה מתנגדת, אך הוא עומד על עקרונותיו ומפגין את רצונו בצורה קיצונית. הוא פונה אל חנה לעזרה. המוצא מהסבך מפתיע את כולם",
-       "page": "https://www.kan.org.il/content/kan/news-series/p-1103890/s1/94100/",
-       "id": "94100",
+       "name": "עגלות הקפה שמביאות תקווה לקריית שמונה: \"נותן לנו כוח להישאר פה\"",
+       "logo": "https://www.kan.org.il/media/jkhnsmal/s0544754_item1300_01_57_33still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239680/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-26",
+       "plot": "על קריית שמונה עוברים ימים לא פשוטים. העסקים בעיר נסגרים, תושבים עוזבים, אך יש מי שמחליטות לא לוותר ולהוסיף קצת אור לעיר המשתקמת - עגלות הקפה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1093136/",
+       "id": "1093136",
+       "season": 1
+      },
+      {
+       "name": "הלוחמים שנלחמו ב-7 באוקטובר בקיבוצי עוטף עזה - בונים אותם מחדש",
+       "logo": "https://www.kan.org.il/media/4o3nwvg2/רובי-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237232/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-08-19",
+       "plot": "סיפורם של אלה שהביטו למוות בעיניים ובונים היום מחדש את יישובי עוטף עזה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1090984/",
+       "id": "1090984",
        "season": 1
       }
      ]
