@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-11 22:28",
+ "updated": "2026-11-12 12:01",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-11 08:45",
+   "updated": "2026-11-12 09:12",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-11 08:45",
+   "updated": "2026-11-12 09:12",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -752,10 +752,10 @@
   {
    "name": "כאן 11 - רובי מחפש תקווה",
    "file": "vod/kan_1103890.json",
-   "episodes": 8,
+   "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-08 20:14",
-   "newest": "2026-11-04",
+   "updated": "2026-11-12 11:59",
+   "newest": "2026-11-11",
    "oldest": "2023-04-22"
   },
   {
@@ -3929,10 +3929,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 686,
+   "episodes": 685,
    "seasons": 2,
-   "updated": "2026-11-11 22:24",
-   "newest": "2026-11-11",
+   "updated": "2026-11-12 11:58",
+   "newest": "2026-11-10",
    "oldest": "2024-09-18"
   },
   {
@@ -4206,20 +4206,20 @@
    "oldest": null
   },
   {
-   "name": "Steve Boyes on #AfricaEarthsWildHome",
+   "name": "Start Here | The Best Of National Geographic",
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
-   "episodes": 4,
+   "episodes": 11,
    "seasons": 1,
-   "updated": "2026-11-11 08:29",
-   "newest": "2026-09-28",
-   "oldest": "2026-09-18"
+   "updated": "2026-11-12 08:53",
+   "newest": "2026-09-24",
+   "oldest": "2026-07-26"
   },
   {
    "name": "חדשות בעולם",
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-11 08:45",
+   "updated": "2026-11-12 09:12",
    "newest": null,
    "oldest": null
   },
