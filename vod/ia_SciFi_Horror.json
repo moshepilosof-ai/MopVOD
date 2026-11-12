@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-11 08:45",
+   "updated": "2026-11-12 09:12",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3226,17 +3226,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Hourglass Sanatorium (1973)",
-       "logo": "https://archive.org/services/img/the.-hourglass.-sanatorium.-1973",
-       "url": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
-       "date": "1973-01-01",
-       "plot": "The Hourglass Sanatorium is a 1973 Polish drama film directed by Wojciech Jerzy Has, starring Jan Nowicki, Tadeusz Kondrat, Mieczysław Voit, Halina Kowalska and Gustaw Holoubek. It is also known as The Sandglass in English-speaking countries. It follows a young Jewish man named Józef who travels to a mystical sanatorium to visit his dying father. Upon arrival, he discovers a decaying facility where time behaves unpredictably, leading him through a dream-like exploration of his memories and experiences.",
-       "page": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
-       "id": "the.-hourglass.-sanatorium.-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "And Now The Screaming Starts 1973",
        "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
        "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
@@ -3244,6 +3233,17 @@
        "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
        "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
        "id": "and-now-the-screaming-starts-1973_202409",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Hourglass Sanatorium (1973)",
+       "logo": "https://archive.org/services/img/the.-hourglass.-sanatorium.-1973",
+       "url": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
+       "date": "1973-01-01",
+       "plot": "The Hourglass Sanatorium is a 1973 Polish drama film directed by Wojciech Jerzy Has, starring Jan Nowicki, Tadeusz Kondrat, Mieczysław Voit, Halina Kowalska and Gustaw Holoubek. It is also known as The Sandglass in English-speaking countries. It follows a young Jewish man named Józef who travels to a mystical sanatorium to visit his dying father. Upon arrival, he discovers a decaying facility where time behaves unpredictably, leading him through a dream-like exploration of his memories and experiences.",
+       "page": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
+       "id": "the.-hourglass.-sanatorium.-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -4870,6 +4870,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Tomb of Ligeia (1964)",
+       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
+       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "date": "1964-01-01",
+       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
+       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "id": "the.-tomb.of.-ligeia-1964",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Blood And Black Lace 1964",
        "logo": "https://archive.org/services/img/blood-and-black-lace-1964_202407",
        "url": "https://archive.org/details/blood-and-black-lace-1964_202407",
@@ -4881,13 +4892,13 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tomb of Ligeia (1964)",
-       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
-       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "name": "Kwaidan (1964)",
+       "logo": "https://archive.org/services/img/kwaidan-1964_202510",
+       "url": "https://archive.org/details/kwaidan-1964_202510",
        "date": "1964-01-01",
-       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
-       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
-       "id": "the.-tomb.of.-ligeia-1964",
+       "plot": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include \"The Black Hair,\" about a samurai haunted by his past, \"The Woman of the Snow,\" featur",
+       "page": "https://archive.org/details/kwaidan-1964_202510",
+       "id": "kwaidan-1964_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -4910,17 +4921,6 @@
        "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
        "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
        "id": "the-last-man-on-earth-1964_20251031",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Kwaidan (1964)",
-       "logo": "https://archive.org/services/img/kwaidan-1964_202510",
-       "url": "https://archive.org/details/kwaidan-1964_202510",
-       "date": "1964-01-01",
-       "plot": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include \"The Black Hair,\" about a samurai haunted by his past, \"The Woman of the Snow,\" featur",
-       "page": "https://archive.org/details/kwaidan-1964_202510",
-       "id": "kwaidan-1964_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -5486,17 +5486,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Pit And The Pendulum (1961)",
-       "logo": "https://archive.org/services/img/pit-and-the-pendulum-1961_202510",
-       "url": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
-       "date": "1961-01-01",
-       "plot": "The Pit and the Pendulum is a 1961 American horror film directed by Roger Corman, starring Vincent Price, Barbara Steele, John Kerr, and Luana Anders. The screenplay by Richard Matheson was loosely inspired by Edgar Allan Poe's 1842 short story of the same name. Set in sixteenth-century Spain, the story is about a young Englishman who visits a foreboding castle to investigate his sister's mysterious death. After a series of horrific revelations, apparently ghostly appearances and violent deaths, the young man becomes strapped to the titular torture device by his lunatic brother-in-law during t",
-       "page": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
-       "id": "pit-and-the-pendulum-1961_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Hercules in the Haunted World (1961)",
        "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
        "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
@@ -5504,6 +5493,17 @@
        "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
        "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
        "id": "hercules.-in.-the.-haunted.-world.-1961",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Pit And The Pendulum (1961)",
+       "logo": "https://archive.org/services/img/pit-and-the-pendulum-1961_202510",
+       "url": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
+       "date": "1961-01-01",
+       "plot": "The Pit and the Pendulum is a 1961 American horror film directed by Roger Corman, starring Vincent Price, Barbara Steele, John Kerr, and Luana Anders. The screenplay by Richard Matheson was loosely inspired by Edgar Allan Poe's 1842 short story of the same name. Set in sixteenth-century Spain, the story is about a young Englishman who visits a foreboding castle to investigate his sister's mysterious death. After a series of horrific revelations, apparently ghostly appearances and violent deaths, the young man becomes strapped to the titular torture device by his lunatic brother-in-law during t",
+       "page": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
+       "id": "pit-and-the-pendulum-1961_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -5662,17 +5662,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tell-Tale Heart",
-       "logo": "https://archive.org/services/img/ttth77844109",
-       "url": "https://archive.org/details/ttth77844109",
-       "date": "1960-01-01",
-       "plot": "Title: The Tell-Tale Heart Summary: When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes... Directed by: Ernest Morris Actors: Laurence Payne, Adrienne Corri, Dermot Walsh Production Company: Danziger Productions Ltd. Release Date: December 1960 (UK) Aspect Ratio: 1.66 : 1 When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes",
-       "page": "https://archive.org/details/ttth77844109",
-       "id": "ttth77844109",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Atom Age Vampire (1960)",
        "logo": "https://archive.org/services/img/atom.-age.-vampire.-1960",
        "url": "https://archive.org/details/atom.-age.-vampire.-1960",
@@ -5680,6 +5669,17 @@
        "plot": "\"Atom Age Vampire\" is a 1960 Italian horror film directed by Anton Giulio Majano. It follows Jeanette Moreneau, a stripper who becomes disfigured in a car accident. A scientist, Dr. Alberto Levin, develops a serum to restore her beauty. However, as the treatment begins to fail, he resorts to unethical methods, including murder, to obtain the necessary ingredients for the serum. The film explores themes of obsession and the consequences of scientific experimentation.",
        "page": "https://archive.org/details/atom.-age.-vampire.-1960",
        "id": "atom.-age.-vampire.-1960",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Tell-Tale Heart",
+       "logo": "https://archive.org/services/img/ttth77844109",
+       "url": "https://archive.org/details/ttth77844109",
+       "date": "1960-01-01",
+       "plot": "Title: The Tell-Tale Heart Summary: When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes... Directed by: Ernest Morris Actors: Laurence Payne, Adrienne Corri, Dermot Walsh Production Company: Danziger Productions Ltd. Release Date: December 1960 (UK) Aspect Ratio: 1.66 : 1 When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes",
+       "page": "https://archive.org/details/ttth77844109",
+       "id": "ttth77844109",
        "duration": null,
        "resolve": "archive"
       },
@@ -6030,17 +6030,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Blob (1958)",
-       "logo": "https://archive.org/services/img/the.-blob.-1958",
-       "url": "https://archive.org/details/the.-blob.-1958",
-       "date": "1958-01-01",
-       "plot": "The Blob is a 1958 American science fiction horror film directed by Irvin S. Yeaworth Jr. In thhe film, a gelatinous alien life form crashes to Earth in a meteorite and begins to consume everything in its path. Teenagers Steve and Jane discover the creature and try to warn their town, but no one believes them until it's almost too late, leading to a desperate attempt to stop the Blob using cold temperatures.",
-       "page": "https://archive.org/details/the.-blob.-1958",
-       "id": "the.-blob.-1958",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Fly (1958)",
        "logo": "https://archive.org/services/img/the.-fly.-1958",
        "url": "https://archive.org/details/the.-fly.-1958",
@@ -6048,6 +6037,17 @@
        "plot": "The Fly is a 1958 American science fiction horror film in CinemaScope and the first installment in The Fly film series. It follows scientist André Delambre accidentally transforms himself into a grotesque human-fly hybrid after a fly enters his matter transporter during an experiment. As he struggles to maintain his humanity, his wife Hélène becomes involved in a tragic series of events leading to a shocking conclusion.",
        "page": "https://archive.org/details/the.-fly.-1958",
        "id": "the.-fly.-1958",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Blob (1958)",
+       "logo": "https://archive.org/services/img/the.-blob.-1958",
+       "url": "https://archive.org/details/the.-blob.-1958",
+       "date": "1958-01-01",
+       "plot": "The Blob is a 1958 American science fiction horror film directed by Irvin S. Yeaworth Jr. In thhe film, a gelatinous alien life form crashes to Earth in a meteorite and begins to consume everything in its path. Teenagers Steve and Jane discover the creature and try to warn their town, but no one believes them until it's almost too late, leading to a desperate attempt to stop the Blob using cold temperatures.",
+       "page": "https://archive.org/details/the.-blob.-1958",
+       "id": "the.-blob.-1958",
        "duration": null,
        "resolve": "archive"
       },
@@ -9327,17 +9327,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bloody Pit Of Horror",
-       "logo": "https://archive.org/services/img/BloodyPitOfHorror_201508",
-       "url": "https://archive.org/details/BloodyPitOfHorror_201508",
-       "date": null,
-       "plot": "This film has fallen into the Public Domain.",
-       "page": "https://archive.org/details/BloodyPitOfHorror_201508",
-       "id": "BloodyPitOfHorror_201508",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Devil's Hand (1962)",
        "logo": "https://archive.org/services/img/TheDevilsHand1962_154",
        "url": "https://archive.org/details/TheDevilsHand1962_154",
@@ -9346,6 +9335,17 @@
        "page": "https://archive.org/details/TheDevilsHand1962_154",
        "id": "TheDevilsHand1962_154",
        "duration": "1:11:06",
+       "resolve": "archive"
+      },
+      {
+       "name": "Bloody Pit Of Horror",
+       "logo": "https://archive.org/services/img/BloodyPitOfHorror_201508",
+       "url": "https://archive.org/details/BloodyPitOfHorror_201508",
+       "date": null,
+       "plot": "This film has fallen into the Public Domain.",
+       "page": "https://archive.org/details/BloodyPitOfHorror_201508",
+       "id": "BloodyPitOfHorror_201508",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10273,17 +10273,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 99: \"Demons & The Dead\" Double Feature",
-       "logo": "https://archive.org/services/img/Week99",
-       "url": "https://archive.org/details/Week99",
-       "date": null,
-       "plot": "Hello and welcome back to everyone's favorite possessed picture palace. With the demon days of summer in full swing, what better way to beat the evening heat than in a haunted bed with a few good scary stories. First up, after the usual coming attractions and visit with Bugs Bunny, we present 1977's \"Death Bed\", a true wonder about a possessed bed that likes to eat people. Then, following a brief intermission, we finish up with 1978's \"House of the Dead\", a rather well done low budget anthology dealing with murder, ghosts and morality as told by a mortician to an adulterer. So the moral of thi",
-       "page": "https://archive.org/details/Week99",
-       "id": "Week99",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Crucible Of Terror 1971",
        "logo": "https://archive.org/services/img/crucible-of-terror-1971",
        "url": "https://archive.org/details/crucible-of-terror-1971",
@@ -10291,6 +10280,17 @@
        "plot": "A deranged sculptor who creates particularly lifelike bronze sculptures edges to the brink of artistic success when the art market latches onto one of his masterpieces. No one realises that he is a maniac who uses real women as moulds for his sculptures, but lurking inside his latest work is a live model hell-bent on avenging her submersion in liquid bronze.",
        "page": "https://archive.org/details/crucible-of-terror-1971",
        "id": "crucible-of-terror-1971",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 99: \"Demons & The Dead\" Double Feature",
+       "logo": "https://archive.org/services/img/Week99",
+       "url": "https://archive.org/details/Week99",
+       "date": null,
+       "plot": "Hello and welcome back to everyone's favorite possessed picture palace. With the demon days of summer in full swing, what better way to beat the evening heat than in a haunted bed with a few good scary stories. First up, after the usual coming attractions and visit with Bugs Bunny, we present 1977's \"Death Bed\", a true wonder about a possessed bed that likes to eat people. Then, following a brief intermission, we finish up with 1978's \"House of the Dead\", a rather well done low budget anthology dealing with murder, ghosts and morality as told by a mortician to an adulterer. So the moral of thi",
+       "page": "https://archive.org/details/Week99",
+       "id": "Week99",
        "duration": null,
        "resolve": "archive"
       },
