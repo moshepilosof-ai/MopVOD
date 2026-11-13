@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/classic_tv",
    "program_url": "https://archive.org/details/classic_tv",
-   "updated": "2026-11-12 09:12",
+   "updated": "2026-11-13 09:06",
    "sub_categories": [
     {
      "name": "2020-2029",
@@ -5154,17 +5154,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Adventures of Sherlock Holmes (1954)",
-       "logo": "https://archive.org/services/img/SherlockHolmes1954",
-       "url": "https://archive.org/details/SherlockHolmes1954",
-       "date": null,
-       "plot": "Season 1 of the Public Domain series The Adventures of Sherlock Holmes (1954)",
-       "page": "https://archive.org/details/SherlockHolmes1954",
-       "id": "SherlockHolmes1954",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Twilight Zone 1959 S01",
        "logo": "https://archive.org/services/img/the-twilight-zone-1959-s-01-e-00-original-pilot",
        "url": "https://archive.org/details/the-twilight-zone-1959-s-01-e-00-original-pilot",
@@ -5172,6 +5161,17 @@
        "plot": "Twilight Zone 1959 Season 1",
        "page": "https://archive.org/details/the-twilight-zone-1959-s-01-e-00-original-pilot",
        "id": "the-twilight-zone-1959-s-01-e-00-original-pilot",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Adventures of Sherlock Holmes (1954)",
+       "logo": "https://archive.org/services/img/SherlockHolmes1954",
+       "url": "https://archive.org/details/SherlockHolmes1954",
+       "date": null,
+       "plot": "Season 1 of the Public Domain series The Adventures of Sherlock Holmes (1954)",
+       "page": "https://archive.org/details/SherlockHolmes1954",
+       "id": "SherlockHolmes1954",
        "duration": null,
        "resolve": "archive"
       },
@@ -5429,17 +5429,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bonanza - The Mill",
-       "logo": "https://archive.org/services/img/Bonanza_The_Mill",
-       "url": "https://archive.org/details/Bonanza_The_Mill",
-       "date": null,
-       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
-       "page": "https://archive.org/details/Bonanza_The_Mill",
-       "id": "Bonanza_The_Mill",
-       "duration": "49:22",
-       "resolve": "archive"
-      },
-      {
        "name": "MTV's Downtown Complete Season 1 (1999)",
        "logo": "https://archive.org/services/img/mtvs-downtown_202209",
        "url": "https://archive.org/details/mtvs-downtown_202209",
@@ -5448,6 +5437,17 @@
        "page": "https://archive.org/details/mtvs-downtown_202209",
        "id": "mtvs-downtown_202209",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Bonanza - The Mill",
+       "logo": "https://archive.org/services/img/Bonanza_The_Mill",
+       "url": "https://archive.org/details/Bonanza_The_Mill",
+       "date": null,
+       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
+       "page": "https://archive.org/details/Bonanza_The_Mill",
+       "id": "Bonanza_The_Mill",
+       "duration": "49:22",
        "resolve": "archive"
       },
       {
@@ -6716,6 +6716,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Honeymooners S01 Original 39 Episodes",
+       "logo": "https://archive.org/services/img/the-honeymooners-DVD",
+       "url": "https://archive.org/details/the-honeymooners-DVD",
+       "date": null,
+       "plot": "This is a Rip of the honeymooners (1955) 5-DVD collection",
+       "page": "https://archive.org/details/the-honeymooners-DVD",
+       "id": "the-honeymooners-DVD",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Cheyney Vase",
        "logo": "https://archive.org/services/img/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
        "url": "https://archive.org/details/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
@@ -6756,17 +6767,6 @@
        "plot": "First episode of the 1958 British television series \"H.G. Wells' The Invisible Man\". Not really anything to do with the Novel, the series is a fantasy-espionage series - like Danger Man or the Avengers with the added invisibility gimick.",
        "page": "https://archive.org/details/InvisibleMan-SecretExperiment1958",
        "id": "InvisibleMan-SecretExperiment1958",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Honeymooners S01 Original 39 Episodes",
-       "logo": "https://archive.org/services/img/the-honeymooners-DVD",
-       "url": "https://archive.org/details/the-honeymooners-DVD",
-       "date": null,
-       "plot": "This is a Rip of the honeymooners (1955) 5-DVD collection",
-       "page": "https://archive.org/details/the-honeymooners-DVD",
-       "id": "the-honeymooners-DVD",
        "duration": null,
        "resolve": "archive"
       },
@@ -7717,6 +7717,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Avengers - Complete Season 5 (24 Episodes) (restored, in color) (1967, TV series)",
+       "logo": "https://archive.org/services/img/the-avengers-s-5e-1-restored-720p-hd",
+       "url": "https://archive.org/details/the-avengers-s-5e-1-restored-720p-hd",
+       "date": null,
+       "plot": "The Avengers is a British espionage television series, created in 1961, that ran for 161 episodes until 1969. It initially focused on David Keel (Ian Hendry), aided by John Steed (Patrick Macnee). Hendry left after the first series; Steed then became the main character, partnered with a succession of assistants. His most famous assistants were intelligent, stylish, and assertive women: Cathy Gale (Honor Blackman), Emma Peel (Diana Rigg), and Tara King (Linda Thorson). Dresses and suits for the series were made by Pierre Cardin. The Avengers was shown in more than 90 countries. ITV produced a s",
+       "page": "https://archive.org/details/the-avengers-s-5e-1-restored-720p-hd",
+       "id": "the-avengers-s-5e-1-restored-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Jethro's First Love",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep42_Jethros_First_Love",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep42_Jethros_First_Love",
@@ -7735,17 +7746,6 @@
        "plot": "Car Commericals 1966-1970",
        "page": "https://archive.org/details/Car_Commericals_1966-1970",
        "id": "Car_Commericals_1966-1970",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Avengers - Complete Season 5 (24 Episodes) (restored, in color) (1967, TV series)",
-       "logo": "https://archive.org/services/img/the-avengers-s-5e-1-restored-720p-hd",
-       "url": "https://archive.org/details/the-avengers-s-5e-1-restored-720p-hd",
-       "date": null,
-       "plot": "The Avengers is a British espionage television series, created in 1961, that ran for 161 episodes until 1969. It initially focused on David Keel (Ian Hendry), aided by John Steed (Patrick Macnee). Hendry left after the first series; Steed then became the main character, partnered with a succession of assistants. His most famous assistants were intelligent, stylish, and assertive women: Cathy Gale (Honor Blackman), Emma Peel (Diana Rigg), and Tara King (Linda Thorson). Dresses and suits for the series were made by Pierre Cardin. The Avengers was shown in more than 90 countries. ITV produced a s",
-       "page": "https://archive.org/details/the-avengers-s-5e-1-restored-720p-hd",
-       "id": "the-avengers-s-5e-1-restored-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7860,6 +7860,17 @@
        "resolve": "archive"
       },
       {
+       "name": "GEORGE & MILDRED (1976-79) (Full Series)",
+       "logo": "https://archive.org/services/img/george-mildred-1976-79",
+       "url": "https://archive.org/details/george-mildred-1976-79",
+       "date": null,
+       "plot": "George and Mildred Roper have just moved into a middle-class neighborhood.",
+       "page": "https://archive.org/details/george-mildred-1976-79",
+       "id": "george-mildred-1976-79",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Dead Or Alive",
        "logo": "https://archive.org/services/img/Robin_Hood_03_Dead_Or_Alive",
        "url": "https://archive.org/details/Robin_Hood_03_Dead_Or_Alive",
@@ -7879,17 +7890,6 @@
        "page": "https://archive.org/details/ClimaxCasinoRoyale",
        "id": "ClimaxCasinoRoyale",
        "duration": "51:49",
-       "resolve": "archive"
-      },
-      {
-       "name": "GEORGE & MILDRED (1976-79) (Full Series)",
-       "logo": "https://archive.org/services/img/george-mildred-1976-79",
-       "url": "https://archive.org/details/george-mildred-1976-79",
-       "date": null,
-       "plot": "George and Mildred Roper have just moved into a middle-class neighborhood.",
-       "page": "https://archive.org/details/george-mildred-1976-79",
-       "id": "george-mildred-1976-79",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -8190,17 +8190,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Big False Make",
-       "logo": "https://archive.org/services/img/Dragnet_The_Big_False_Make",
-       "url": "https://archive.org/details/Dragnet_The_Big_False_Make",
-       "date": null,
-       "plot": "The Big False Make from the 1950's series Dragnet",
-       "page": "https://archive.org/details/Dragnet_The_Big_False_Make",
-       "id": "Dragnet_The_Big_False_Make",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Dragnet: The Big War",
        "logo": "https://archive.org/services/img/DragnetTheBigWar",
        "url": "https://archive.org/details/DragnetTheBigWar",
@@ -8209,6 +8198,17 @@
        "page": "https://archive.org/details/DragnetTheBigWar",
        "id": "DragnetTheBigWar",
        "duration": "25:54",
+       "resolve": "archive"
+      },
+      {
+       "name": "The Big False Make",
+       "logo": "https://archive.org/services/img/Dragnet_The_Big_False_Make",
+       "url": "https://archive.org/details/Dragnet_The_Big_False_Make",
+       "date": null,
+       "plot": "The Big False Make from the 1950's series Dragnet",
+       "page": "https://archive.org/details/Dragnet_The_Big_False_Make",
+       "id": "Dragnet_The_Big_False_Make",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -8652,6 +8652,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Wonderbug - Full Series! (1976 -1977)",
+       "logo": "https://archive.org/services/img/wonderbug-full-series",
+       "url": "https://archive.org/details/wonderbug-full-series",
+       "date": null,
+       "plot": "Wonderbug - Full Series (1976 -1977)",
+       "page": "https://archive.org/details/wonderbug-full-series",
+       "id": "wonderbug-full-series",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "To The Manor Born - Season 2 of 3 - TV Series - 1979 - XviD AVI",
        "logo": "https://archive.org/services/img/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
        "url": "https://archive.org/details/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
@@ -8681,17 +8692,6 @@
        "plot": "The Adventures Of Robin Hood ep 09 Checkmate",
        "page": "https://archive.org/details/Robin_Hood_09_Checkmate",
        "id": "Robin_Hood_09_Checkmate",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Wonderbug - Full Series! (1976 -1977)",
-       "logo": "https://archive.org/services/img/wonderbug-full-series",
-       "url": "https://archive.org/details/wonderbug-full-series",
-       "date": null,
-       "plot": "Wonderbug - Full Series (1976 -1977)",
-       "page": "https://archive.org/details/wonderbug-full-series",
-       "id": "wonderbug-full-series",
        "duration": null,
        "resolve": "archive"
       },
@@ -8927,6 +8927,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Alien Nation (1989) Complete Series",
+       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "date": null,
+       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
+       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Dick Van Dyke Show - Season 4 of 5 - MKV",
        "logo": "https://archive.org/services/img/the-dick-van-dyke-show-season-4-of-5-mkv",
        "url": "https://archive.org/details/the-dick-van-dyke-show-season-4-of-5-mkv",
@@ -9023,17 +9034,6 @@
        "page": "https://archive.org/details/ClassicCommercialMetrecalDietDrink1965",
        "id": "ClassicCommercialMetrecalDietDrink1965",
        "duration": "1:09",
-       "resolve": "archive"
-      },
-      {
-       "name": "Alien Nation (1989) Complete Series",
-       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "date": null,
-       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
-       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9136,6 +9136,28 @@
        "resolve": "archive"
       },
       {
+       "name": "Shadow Raiders Complete Series (1998)",
+       "logo": "https://archive.org/services/img/shadow-raiders-complete-series-1998",
+       "url": "https://archive.org/details/shadow-raiders-complete-series-1998",
+       "date": null,
+       "plot": "Shadow Raiders is a Canadian animated television series produced by Mainframe Entertainment and syndicated by The Summit Media Group, that aired from September 16, 1998, to June 23, 1999. The show was loosely based on the Trendmasters toy line, War Planets. The original character designs were created by ReBoot designer, Brendan McCarthy. The series focused on the four warring planets of a solar system called the Cluster as they were forced to set aside their differences and form a coalition against the menace of the Beast Planet.",
+       "page": "https://archive.org/details/shadow-raiders-complete-series-1998",
+       "id": "shadow-raiders-complete-series-1998",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Car Commericals spanning 1949-1955",
+       "logo": "https://archive.org/services/img/Car_Commericals_1949-1955",
+       "url": "https://archive.org/details/Car_Commericals_1949-1955",
+       "date": null,
+       "plot": "Car Commericals spanning 1949-1955",
+       "page": "https://archive.org/details/Car_Commericals_1949-1955",
+       "id": "Car_Commericals_1949-1955",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Dangerous Assignment: The Alien Smuggler Story",
        "logo": "https://archive.org/services/img/TheAlienSmugglerStory",
        "url": "https://archive.org/details/TheAlienSmugglerStory",
@@ -9169,17 +9191,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Car Commericals spanning 1949-1955",
-       "logo": "https://archive.org/services/img/Car_Commericals_1949-1955",
-       "url": "https://archive.org/details/Car_Commericals_1949-1955",
-       "date": null,
-       "plot": "Car Commericals spanning 1949-1955",
-       "page": "https://archive.org/details/Car_Commericals_1949-1955",
-       "id": "Car_Commericals_1949-1955",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Chickadee Returns",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep43_Chickadee_Returns",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep43_Chickadee_Returns",
@@ -9198,17 +9209,6 @@
        "plot": "Quatermass II Episode 6 of 6 6 part BBC Sci Fi Live TV series from 1955",
        "page": "https://archive.org/details/Quatermass_II_Episode_6of6_1955",
        "id": "Quatermass_II_Episode_6of6_1955",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Shadow Raiders Complete Series (1998)",
-       "logo": "https://archive.org/services/img/shadow-raiders-complete-series-1998",
-       "url": "https://archive.org/details/shadow-raiders-complete-series-1998",
-       "date": null,
-       "plot": "Shadow Raiders is a Canadian animated television series produced by Mainframe Entertainment and syndicated by The Summit Media Group, that aired from September 16, 1998, to June 23, 1999. The show was loosely based on the Trendmasters toy line, War Planets. The original character designs were created by ReBoot designer, Brendan McCarthy. The series focused on the four warring planets of a solar system called the Cluster as they were forced to set aside their differences and form a coalition against the menace of the Beast Planet.",
-       "page": "https://archive.org/details/shadow-raiders-complete-series-1998",
-       "id": "shadow-raiders-complete-series-1998",
        "duration": null,
        "resolve": "archive"
       },
@@ -9895,6 +9895,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Are You Being Served? Series 1 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-uncut",
+       "url": "https://archive.org/details/are-you-being-served-uncut",
+       "date": null,
+       "plot": "All of series 1 uncut.",
+       "page": "https://archive.org/details/are-you-being-served-uncut",
+       "id": "are-you-being-served-uncut",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "ONLY WHEN I LAUGH (1979-82) (Full Series)",
        "logo": "https://archive.org/services/img/only-when-i-laugh-1979-82",
        "url": "https://archive.org/details/only-when-i-laugh-1979-82",
@@ -9957,17 +9968,6 @@
        "plot": "The Adventures Of Robin Hood ep 11 A Husband For Marian",
        "page": "https://archive.org/details/Robin_Hood_11_A_Husband_For_Marian",
        "id": "Robin_Hood_11_A_Husband_For_Marian",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Are You Being Served? Series 1 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-uncut",
-       "url": "https://archive.org/details/are-you-being-served-uncut",
-       "date": null,
-       "plot": "All of series 1 uncut.",
-       "page": "https://archive.org/details/are-you-being-served-uncut",
-       "id": "are-you-being-served-uncut",
        "duration": null,
        "resolve": "archive"
       },
@@ -10104,6 +10104,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Veronica's Closet (1997-2000) complete series",
+       "logo": "https://archive.org/services/img/veronicascloset",
+       "url": "https://archive.org/details/veronicascloset",
+       "date": null,
+       "plot": "Veronica's Closet (1997-2000) complete series",
+       "page": "https://archive.org/details/veronicascloset",
+       "id": "veronicascloset",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Man With a Camera - Double Negative",
        "logo": "https://archive.org/services/img/ManWithACamera-DoubleNegative",
        "url": "https://archive.org/details/ManWithACamera-DoubleNegative",
@@ -10178,17 +10189,6 @@
        "page": "https://archive.org/details/ImAFoolgeTheater",
        "id": "ImAFoolgeTheater",
        "duration": "24:55",
-       "resolve": "archive"
-      },
-      {
-       "name": "Veronica's Closet (1997-2000) complete series",
-       "logo": "https://archive.org/services/img/veronicascloset",
-       "url": "https://archive.org/details/veronicascloset",
-       "date": null,
-       "plot": "Veronica's Closet (1997-2000) complete series",
-       "page": "https://archive.org/details/veronicascloset",
-       "id": "veronicascloset",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10302,6 +10302,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Frighteners - TV Show - AVI",
+       "logo": "https://archive.org/services/img/the-frighteners-tv-show-avi",
+       "url": "https://archive.org/details/the-frighteners-tv-show-avi",
+       "date": null,
+       "plot": "The Frighteners - TV Show - AVI Video Size: 624x480 -- A horror anthology series, with each episode featuring a different eerie tale. This show is \"Tales of the unexpected\" nastier brother. Much darker than anything seen in similar 30 min format TV shows. Some of the endings left me saying \"Holy Moly!\" When audiences in the USA in 1972 were watching stuff like Night Gallery and saying \"Gee, this is great\", audiences in the UK were treated to this anthology show that was original, and dark. Not sticking to too well worn TV tropes THE FRIGHTENERS showed what no holds barred TV was all about. Onl",
+       "page": "https://archive.org/details/the-frighteners-tv-show-avi",
+       "id": "the-frighteners-tv-show-avi",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Jimmy Durante Show",
        "logo": "https://archive.org/services/img/JimmyDuranteShow",
        "url": "https://archive.org/details/JimmyDuranteShow",
@@ -10335,17 +10346,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Frighteners - TV Show - AVI",
-       "logo": "https://archive.org/services/img/the-frighteners-tv-show-avi",
-       "url": "https://archive.org/details/the-frighteners-tv-show-avi",
-       "date": null,
-       "plot": "The Frighteners - TV Show - AVI Video Size: 624x480 -- A horror anthology series, with each episode featuring a different eerie tale. This show is \"Tales of the unexpected\" nastier brother. Much darker than anything seen in similar 30 min format TV shows. Some of the endings left me saying \"Holy Moly!\" When audiences in the USA in 1972 were watching stuff like Night Gallery and saying \"Gee, this is great\", audiences in the UK were treated to this anthology show that was original, and dark. Not sticking to too well worn TV tropes THE FRIGHTENERS showed what no holds barred TV was all about. Onl",
-       "page": "https://archive.org/details/the-frighteners-tv-show-avi",
-       "id": "the-frighteners-tv-show-avi",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Mare Nostrum",
        "logo": "https://archive.org/services/img/VAS_08_Mare_Nostrum",
        "url": "https://archive.org/details/VAS_08_Mare_Nostrum",
@@ -10353,6 +10353,17 @@
        "plot": "Victory At Sea ep 08 Mare Nostrum",
        "page": "https://archive.org/details/VAS_08_Mare_Nostrum",
        "id": "VAS_08_Mare_Nostrum",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Are You being Served? Series 4 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-4",
+       "url": "https://archive.org/details/are-you-being-served-4",
+       "date": null,
+       "plot": "All of series 4 uncut including the 3 episodes that are always cut on tv and the UK dvds (No Sale, Forward Mr Grainger & The Father Christmas Affair)",
+       "page": "https://archive.org/details/are-you-being-served-4",
+       "id": "are-you-being-served-4",
        "duration": null,
        "resolve": "archive"
       },
@@ -10412,6 +10423,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Are You Being Served? Series 5 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-5",
+       "url": "https://archive.org/details/are-you-being-served-5",
+       "date": null,
+       "plot": "All of series 5 uncut.",
+       "page": "https://archive.org/details/are-you-being-served-5",
+       "id": "are-you-being-served-5",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Honest Man",
        "logo": "https://archive.org/services/img/GE_Theater_The_Honest_Man",
        "url": "https://archive.org/details/GE_Theater_The_Honest_Man",
@@ -10430,17 +10452,6 @@
        "plot": "The Mickey Rooney Show aka \"Hey Mulligan\" Misc 16 I have no titles or broadcast dates for this series. If you have any Info on this show please use the reviews to add the info here.",
        "page": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_16",
        "id": "The_Mickey_Rooney_Show_Misc_ep_16",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Are You being Served? Series 4 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-4",
-       "url": "https://archive.org/details/are-you-being-served-4",
-       "date": null,
-       "plot": "All of series 4 uncut including the 3 episodes that are always cut on tv and the UK dvds (No Sale, Forward Mr Grainger & The Father Christmas Affair)",
-       "page": "https://archive.org/details/are-you-being-served-4",
-       "id": "are-you-being-served-4",
        "duration": null,
        "resolve": "archive"
       },
@@ -10552,17 +10563,6 @@
        "page": "https://archive.org/details/SherlockHolmes-TheCaseOfTheWinthropLegend",
        "id": "SherlockHolmes-TheCaseOfTheWinthropLegend",
        "duration": "26:56",
-       "resolve": "archive"
-      },
-      {
-       "name": "Are You Being Served? Series 5 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-5",
-       "url": "https://archive.org/details/are-you-being-served-5",
-       "date": null,
-       "plot": "All of series 5 uncut.",
-       "page": "https://archive.org/details/are-you-being-served-5",
-       "id": "are-you-being-served-5",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10731,6 +10731,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Are You Being Served? Series 2 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-2",
+       "url": "https://archive.org/details/are-you-being-served-2",
+       "date": null,
+       "plot": "All of series 2 uncut.",
+       "page": "https://archive.org/details/are-you-being-served-2",
+       "id": "are-you-being-served-2",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Space Patrol Episode 2 The Wandering Asteroid",
        "logo": "https://archive.org/services/img/SpacePatrolEpisode2TheWanderingAsteroid",
        "url": "https://archive.org/details/SpacePatrolEpisode2TheWanderingAsteroid",
@@ -10749,17 +10760,6 @@
        "plot": "Love That Bob Ep 4x31 Grandpa Attends A Convention",
        "page": "https://archive.org/details/Love_That_Bob_Ep4x31_Grandpa_Attends_A_Convention",
        "id": "Love_That_Bob_Ep4x31_Grandpa_Attends_A_Convention",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Are You Being Served? Series 2 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-2",
-       "url": "https://archive.org/details/are-you-being-served-2",
-       "date": null,
-       "plot": "All of series 2 uncut.",
-       "page": "https://archive.org/details/are-you-being-served-2",
-       "id": "are-you-being-served-2",
        "duration": null,
        "resolve": "archive"
       },
@@ -10951,17 +10951,6 @@
        "resolve": "archive"
       },
       {
-       "name": "s01-19-20-20-freedownloadvideo.net",
-       "logo": "https://archive.org/services/img/s01-19-20-20-freedownloadvideo.net_20230314",
-       "url": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
-       "date": null,
-       "plot": "Gunsmoke Season 1 All Episodes",
-       "page": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
-       "id": "s01-19-20-20-freedownloadvideo.net_20230314",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "06. T 5 ( 12)",
        "logo": "https://archive.org/services/img/06.-t-5-12",
        "url": "https://archive.org/details/06.-t-5-12",
@@ -10969,6 +10958,17 @@
        "plot": "06. M4r14 l4 d3l b4rr10 1995",
        "page": "https://archive.org/details/06.-t-5-12",
        "id": "06.-t-5-12",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "s01-19-20-20-freedownloadvideo.net",
+       "logo": "https://archive.org/services/img/s01-19-20-20-freedownloadvideo.net_20230314",
+       "url": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
+       "date": null,
+       "plot": "Gunsmoke Season 1 All Episodes",
+       "page": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
+       "id": "s01-19-20-20-freedownloadvideo.net_20230314",
        "duration": null,
        "resolve": "archive"
       },

@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-12 09:12",
+   "updated": "2026-11-13 09:06",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3226,17 +3226,6 @@
        "resolve": "archive"
       },
       {
-       "name": "And Now The Screaming Starts 1973",
-       "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
-       "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
-       "date": "1973-01-01",
-       "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
-       "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
-       "id": "and-now-the-screaming-starts-1973_202409",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Hourglass Sanatorium (1973)",
        "logo": "https://archive.org/services/img/the.-hourglass.-sanatorium.-1973",
        "url": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
@@ -3244,6 +3233,17 @@
        "plot": "The Hourglass Sanatorium is a 1973 Polish drama film directed by Wojciech Jerzy Has, starring Jan Nowicki, Tadeusz Kondrat, Mieczysław Voit, Halina Kowalska and Gustaw Holoubek. It is also known as The Sandglass in English-speaking countries. It follows a young Jewish man named Józef who travels to a mystical sanatorium to visit his dying father. Upon arrival, he discovers a decaying facility where time behaves unpredictably, leading him through a dream-like exploration of his memories and experiences.",
        "page": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
        "id": "the.-hourglass.-sanatorium.-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "And Now The Screaming Starts 1973",
+       "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
+       "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
+       "date": "1973-01-01",
+       "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
+       "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
+       "id": "and-now-the-screaming-starts-1973_202409",
        "duration": null,
        "resolve": "archive"
       },
@@ -4232,17 +4232,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Genocide",
-       "logo": "https://archive.org/services/img/genocide_202102",
-       "url": "https://archive.org/details/genocide_202102",
-       "date": "1968-01-01",
-       "plot": "The insects are taking over in this nasty piece of disaster horror directed by Kazui Nihonmatsu. A group of military personnel transporting a hydrogen bomb are left to figure out how and why swarms of killer bugs took down their plane; the answer is more deliriously nihilistic—and convoluted—than you could imagine. Also known as War of the Insects, Genocide enacts a cracked doomsday scenario like no other.",
-       "page": "https://archive.org/details/genocide_202102",
-       "id": "genocide_202102",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Dracula Has Risen From The Grave 1968",
        "logo": "https://archive.org/services/img/dracula-has-risen-from-the-grave-1968_202406",
        "url": "https://archive.org/details/dracula-has-risen-from-the-grave-1968_202406",
@@ -4250,6 +4239,17 @@
        "plot": "While exorcising Draculas castle a priest unknowingly brings the Count back from the dead. Once awakened, Dracula forces the priest to assist him and seeks out the Monsignor's beautiful daughter as his next victim.",
        "page": "https://archive.org/details/dracula-has-risen-from-the-grave-1968_202406",
        "id": "dracula-has-risen-from-the-grave-1968_202406",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Genocide",
+       "logo": "https://archive.org/services/img/genocide_202102",
+       "url": "https://archive.org/details/genocide_202102",
+       "date": "1968-01-01",
+       "plot": "The insects are taking over in this nasty piece of disaster horror directed by Kazui Nihonmatsu. A group of military personnel transporting a hydrogen bomb are left to figure out how and why swarms of killer bugs took down their plane; the answer is more deliriously nihilistic—and convoluted—than you could imagine. Also known as War of the Insects, Genocide enacts a cracked doomsday scenario like no other.",
+       "page": "https://archive.org/details/genocide_202102",
+       "id": "genocide_202102",
        "duration": null,
        "resolve": "archive"
       },
@@ -4272,17 +4272,6 @@
        "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
        "page": "https://archive.org/details/kuroneko-1968_202510",
        "id": "kuroneko-1968_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Spirits Of The Dead 1968",
-       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
-       "url": "https://archive.org/details/spirits-of-the-dead-1968",
-       "date": "1968-01-01",
-       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
-       "page": "https://archive.org/details/spirits-of-the-dead-1968",
-       "id": "spirits-of-the-dead-1968",
        "duration": null,
        "resolve": "archive"
       },
@@ -4349,6 +4338,17 @@
        "plot": "In 19th century London, macabre murders shock the local countryside.",
        "page": "https://archive.org/details/the-blood-beast-terror-1968",
        "id": "the-blood-beast-terror-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Spirits Of The Dead 1968",
+       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
+       "url": "https://archive.org/details/spirits-of-the-dead-1968",
+       "date": "1968-01-01",
+       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
+       "page": "https://archive.org/details/spirits-of-the-dead-1968",
+       "id": "spirits-of-the-dead-1968",
        "duration": null,
        "resolve": "archive"
       },
@@ -6195,17 +6195,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Monolith Monsters",
-       "logo": "https://archive.org/services/img/the-monolith-monsters",
-       "url": "https://archive.org/details/the-monolith-monsters",
-       "date": "1957-01-01",
-       "plot": "A strange black meteor crashes near the town of San Angelo and litters the countryside with fragments. When a storm exposes these fragments to water, they grow into skyscraper-sized monoliths which then topple and shatter into thousands of pieces that grow into monoliths themselves and repeat the process. Any humans in the way are crushed or turned into human statues. The citizens of San Angelo desperately try to save themselves and the world from the spreading doom.",
-       "page": "https://archive.org/details/the-monolith-monsters",
-       "id": "the-monolith-monsters",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Curse Of Frankenstein 1957",
        "logo": "https://archive.org/services/img/the-curse-of-frankenstein-1957_202406",
        "url": "https://archive.org/details/the-curse-of-frankenstein-1957_202406",
@@ -6217,13 +6206,13 @@
        "resolve": "archive"
       },
       {
-       "name": "20 Million Miles to Earth",
-       "logo": "https://archive.org/services/img/20-million-miles-to-earth",
-       "url": "https://archive.org/details/20-million-miles-to-earth",
+       "name": "The Monolith Monsters",
+       "logo": "https://archive.org/services/img/the-monolith-monsters",
+       "url": "https://archive.org/details/the-monolith-monsters",
        "date": "1957-01-01",
-       "plot": "The first U.S. spaceship to Venus crash-lands off the coast of Sicily on its return trip. A dangerous, lizard-like creature comes with it and quickly grows gigantic.",
-       "page": "https://archive.org/details/20-million-miles-to-earth",
-       "id": "20-million-miles-to-earth",
+       "plot": "A strange black meteor crashes near the town of San Angelo and litters the countryside with fragments. When a storm exposes these fragments to water, they grow into skyscraper-sized monoliths which then topple and shatter into thousands of pieces that grow into monoliths themselves and repeat the process. Any humans in the way are crushed or turned into human statues. The citizens of San Angelo desperately try to save themselves and the world from the spreading doom.",
+       "page": "https://archive.org/details/the-monolith-monsters",
+       "id": "the-monolith-monsters",
        "duration": null,
        "resolve": "archive"
       },
@@ -6235,6 +6224,17 @@
        "plot": "Plan 9 from Outer Space is often regarded as one of the most infamous cult films in cinematic history, directed by Ed Wood. The story revolves around an extraterrestrial invasion aimed at stopping humanity from creating a dangerous doomsday weapon that could annihilate the universe. The aliens, specifically a character named Eros, learn that humans are close to inventing a weapon that might lead to their own destruction. To prevent this, they devise \"Plan 9,\" which involves resurrecting the dead to create chaos on Earth. The aliens use a method dubbed \"Plan 9\" to reanimate the deceased, includ",
        "page": "https://archive.org/details/plan.-9.-from.-outer.-space.-1957",
        "id": "plan.-9.-from.-outer.-space.-1957",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "20 Million Miles to Earth",
+       "logo": "https://archive.org/services/img/20-million-miles-to-earth",
+       "url": "https://archive.org/details/20-million-miles-to-earth",
+       "date": "1957-01-01",
+       "plot": "The first U.S. spaceship to Venus crash-lands off the coast of Sicily on its return trip. A dangerous, lizard-like creature comes with it and quickly grows gigantic.",
+       "page": "https://archive.org/details/20-million-miles-to-earth",
+       "id": "20-million-miles-to-earth",
        "duration": null,
        "resolve": "archive"
       },
@@ -9492,17 +9492,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Horror Movie English Subtitles",
-       "logo": "https://archive.org/services/img/the-corpse-vanishes-eng",
-       "url": "https://archive.org/details/the-corpse-vanishes-eng",
-       "date": null,
-       "plot": "English subtitles for classic horror movies.",
-       "page": "https://archive.org/details/the-corpse-vanishes-eng",
-       "id": "the-corpse-vanishes-eng",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Eyes of the Werewolf (1999)",
        "logo": "https://archive.org/services/img/eyes-of-the-werewolf",
        "url": "https://archive.org/details/eyes-of-the-werewolf",
@@ -9510,6 +9499,17 @@
        "plot": "IMDB Description: A laboratory accident leaves Rich blind and at the mercy of a surgeon who performs an eye transplant. Unknown to everyone, the eyes were stolen from a werewolf. All hell breaks loose as Rich extracts revenge during the next full moon.",
        "page": "https://archive.org/details/eyes-of-the-werewolf",
        "id": "eyes-of-the-werewolf",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Horror Movie English Subtitles",
+       "logo": "https://archive.org/services/img/the-corpse-vanishes-eng",
+       "url": "https://archive.org/details/the-corpse-vanishes-eng",
+       "date": null,
+       "plot": "English subtitles for classic horror movies.",
+       "page": "https://archive.org/details/the-corpse-vanishes-eng",
+       "id": "the-corpse-vanishes-eng",
        "duration": null,
        "resolve": "archive"
       },
