@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12645/",
    "series_id": "12645",
-   "updated": "2026-11-06 21:45",
+   "updated": "2026-11-13 21:50",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "סוכן תרבות | 13.11.26",
+       "logo": "https://www.kan.org.il/media/av0cmltq/סוכן-תרבות-אתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260411/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-13",
+       "plot": "מגזין תרבות אישי עם קובי מידן. השבוע: מה משותף לסערות יהודית רביץ ואייל ברקוביץ', הפסטיבל שנלחם בחרם על ישראל, היידיש יוצאת מהבוידעם, ואיגי וקסמן בשאלון נזכרת בחברות עם אגדה מוזיקלית עולמית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12645/s4/1114355/",
+       "id": "1114355",
+       "season": 4
+      },
       {
        "name": "סוכן תרבות | 06.11.26",
        "logo": "https://www.kan.org.il/media/soeblnsx/סוכן-תרבות-אתר.jpg",
