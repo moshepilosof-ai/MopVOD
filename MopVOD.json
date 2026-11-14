@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-13 21:54",
+ "updated": "2026-11-14 20:39",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-13 09:06",
+   "updated": "2026-11-14 08:30",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-13 09:06",
+   "updated": "2026-11-14 08:30",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -761,10 +761,10 @@
   {
    "name": "כאן 11 - שבע",
    "file": "vod/kan_11039.json",
-   "episodes": 896,
+   "episodes": 897,
    "seasons": 1,
-   "updated": "2026-11-07 19:53",
-   "newest": "2026-11-07",
+   "updated": "2026-11-14 20:37",
+   "newest": "2026-11-14",
    "oldest": "2023-03-05"
   },
   {
@@ -977,10 +977,10 @@
   {
    "name": "כאן 11 - שרון ואורי",
    "file": "vod/kan_11288.json",
-   "episodes": 563,
+   "episodes": 564,
    "seasons": 1,
-   "updated": "2026-11-12 22:15",
-   "newest": "2026-11-12",
+   "updated": "2026-11-14 20:38",
+   "newest": "2026-11-14",
    "oldest": "2017-10-13"
   },
   {
@@ -1013,9 +1013,9 @@
   {
    "name": "כאן 11 - פגישה עם רוני קובן",
    "file": "vod/kan_11486.json",
-   "episodes": 193,
+   "episodes": 194,
    "seasons": 12,
-   "updated": "2026-11-10 22:06",
+   "updated": "2026-11-14 20:35",
    "newest": "2026-10-11",
    "oldest": "2023-04-22"
   },
@@ -1139,10 +1139,10 @@
   {
    "name": "כאן 11 - חדשות השבת עם איילה חסון",
    "file": "vod/kan_11736.json",
-   "episodes": 451,
+   "episodes": 452,
    "seasons": 1,
-   "updated": "2026-11-08 00:01",
-   "newest": "2026-11-07",
+   "updated": "2026-11-14 20:25",
+   "newest": "2026-11-14",
    "oldest": "2017-02-17"
   },
   {
@@ -3974,10 +3974,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 686,
+   "episodes": 691,
    "seasons": 2,
-   "updated": "2026-11-12 22:12",
-   "newest": "2026-11-12",
+   "updated": "2026-11-14 20:33",
+   "newest": "2026-11-14",
    "oldest": "2024-09-18"
   },
   {
@@ -4255,7 +4255,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 11,
    "seasons": 1,
-   "updated": "2026-11-13 08:50",
+   "updated": "2026-11-14 08:11",
    "newest": "2026-09-24",
    "oldest": "2026-07-26"
   },
@@ -4264,7 +4264,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-13 09:06",
+   "updated": "2026-11-14 08:30",
    "newest": null,
    "oldest": null
   },

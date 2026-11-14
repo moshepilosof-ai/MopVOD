@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-11486/",
    "series_id": "11486",
-   "updated": "2026-11-10 22:06",
+   "updated": "2026-11-14 20:35",
    "sub_categories": [
     {
      "name": "עונה 11",
      "channels": [
+      {
+       "name": "פגישה עם רוני קובן עונה 11 | פרק 8 - נדב אבוקסיס",
+       "logo": "https://www.kan.org.il/media/hm3py0s3/נדב-א-פישה.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265160/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-09-16",
+       "plot": "הסטנדאפיסט המצליח מספר לרוני קובן איך זה להיות אומן שמזדהה כימני, על היציאה מהארון ועל התגובה של הוריו, על ההתחלה המפתיעה במעגל של דן שילון, ועל הרגע שבו אלוהים החליט בשבילו על הקריירה",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-11486/s11/1100318/",
+       "id": "1100318",
+       "season": 11
+      },
       {
        "name": "פגישה עם רוני קובן עונה 11 | פרק 7 - שלומי אלדר",
        "logo": "https://www.kan.org.il/media/rlsfuwg1/לאתר.jpg",
