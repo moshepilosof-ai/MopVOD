@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-15 00:24",
+ "updated": "2026-11-15 11:42",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-14 08:30",
+   "updated": "2026-11-15 08:49",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-14 08:30",
+   "updated": "2026-11-15 08:49",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -937,6 +937,24 @@
    "updated": "2026-11-11 11:31",
    "newest": "2026-11-10",
    "oldest": "2026-11-02"
+  },
+  {
+   "name": "כאן 11 - ברקוני - המדריך לאנושות",
+   "file": "vod/kan_1115517.json",
+   "episodes": 1,
+   "seasons": 1,
+   "updated": "2026-11-15 11:29",
+   "newest": "2026-11-12",
+   "oldest": "2026-11-12"
+  },
+  {
+   "name": "כאן 11 - אירוויזיון אסיה 2026",
+   "file": "vod/kan_1117125.json",
+   "episodes": 1,
+   "seasons": 1,
+   "updated": "2026-11-15 11:28",
+   "newest": "2026-11-14",
+   "oldest": "2026-11-14"
   },
   {
    "name": "כאן 11 - כולם רצים עכשיו",
@@ -4237,8 +4255,8 @@
    "file": "vod/kan_996166.json",
    "episodes": 48,
    "seasons": 1,
-   "updated": "2026-11-12 22:01",
-   "newest": "2026-11-12",
+   "updated": "2026-11-15 11:27",
+   "newest": "2026-11-15",
    "oldest": "2026-08-04"
   },
   {
@@ -4264,7 +4282,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 11,
    "seasons": 1,
-   "updated": "2026-11-14 08:11",
+   "updated": "2026-11-15 08:29",
    "newest": "2026-09-24",
    "oldest": "2026-07-26"
   },
@@ -4273,7 +4291,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-14 08:30",
+   "updated": "2026-11-15 08:49",
    "newest": null,
    "oldest": null
   },

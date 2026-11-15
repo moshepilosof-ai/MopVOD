@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - ברקוני - המדריך לאנושות",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1115517/",
+   "series_id": "1115517",
+   "updated": "2026-11-15 11:29",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "ברקוני | טריילר",
+       "logo": "https://www.kan.org.il/media/j1ah3bsm/1920x1080-with-logo_ברקוני.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2264089/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-12",
+       "plot": "כאן נבוך להציג: חייזר אדום וגס רוח יראה לנו עד כמה עלובה האנושות",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1115517/1118539/",
+       "id": "1118539"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
