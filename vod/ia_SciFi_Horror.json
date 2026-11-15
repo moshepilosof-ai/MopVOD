@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-14 08:30",
+   "updated": "2026-11-15 08:49",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3424,17 +3424,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Case Of The Bloody Iris 1972",
-       "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
-       "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
-       "date": "1972-01-01",
-       "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
-       "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
-       "id": "the-case-of-the-bloody-iris-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Asylum 1972",
        "logo": "https://archive.org/services/img/asylum-1972_202405",
        "url": "https://archive.org/details/asylum-1972_202405",
@@ -3442,6 +3431,17 @@
        "plot": "A young psychiatrist interviews four patients inside a mental institution, each telling a tale of horror and madness about how they got to be within the walls of the asylum.",
        "page": "https://archive.org/details/asylum-1972_202405",
        "id": "asylum-1972_202405",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Case Of The Bloody Iris 1972",
+       "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
+       "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
+       "date": "1972-01-01",
+       "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
+       "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
+       "id": "the-case-of-the-bloody-iris-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -3765,17 +3765,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Fifth Cord 1971",
-       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
-       "url": "https://archive.org/details/the-fifth-cord-1971",
-       "date": "1971-01-01",
-       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
-       "page": "https://archive.org/details/the-fifth-cord-1971",
-       "id": "the-fifth-cord-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Devil's Nightmare, The 1971",
        "logo": "https://archive.org/services/img/devils-nightmare-the-1971",
        "url": "https://archive.org/details/devils-nightmare-the-1971",
@@ -3783,6 +3772,17 @@
        "plot": "Variation on the Exorcist craze of the 70's. The owner of a castles ancestors made a deal with the devil and now every generation produces a succubus. Erika Blanc plays the latest incarnation though her victims succumb more to the seven deadly sins. Dubbed English",
        "page": "https://archive.org/details/devils-nightmare-the-1971",
        "id": "devils-nightmare-the-1971",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Fifth Cord 1971",
+       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
+       "url": "https://archive.org/details/the-fifth-cord-1971",
+       "date": "1971-01-01",
+       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
+       "page": "https://archive.org/details/the-fifth-cord-1971",
+       "id": "the-fifth-cord-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -4188,17 +4188,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Goke, Body Snatcher From Hell",
-       "logo": "https://archive.org/services/img/goke-body-snatcher-from-hell",
-       "url": "https://archive.org/details/goke-body-snatcher-from-hell",
-       "date": "1968-01-01",
-       "plot": "After an airplane is forced to crash-land in a remote area, its passengers find themselves face-to-face with an alien force that wants to possess them body and soul—and perhaps take over the entire human race. Filled with creatively repulsive effects—including a very invasive bloblike life-form—Hajime Sato’s Goke, Body Snatcher from Hell is a pulpy, apocalyptic gross-out.",
-       "page": "https://archive.org/details/goke-body-snatcher-from-hell",
-       "id": "goke-body-snatcher-from-hell",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Witchfinder General (1968)",
        "logo": "https://archive.org/services/img/witchfinder-general-1968",
        "url": "https://archive.org/details/witchfinder-general-1968",
@@ -4206,6 +4195,17 @@
        "plot": "Witchfinder General is a 1968 British period folk horror film directed by Michael Reeves and starring Vincent Price, Ian Ogilvy, Hilary Dwyer, Robert Russell and Rupert Davies. The screenplay, by Reeves and Tom Baker, was based on Ronald Bassett's 1966 novel Witchfinder General. Set during the English Civil War, following Matthew Hopkins, a sadistic witch hunter, who exploits the chaos to torture and execute those accused of witchcraft. The story centers on Richard Marshall, a soldier who seeks revenge against Hopkins after he and his assistant harm his fiancée and her family.",
        "page": "https://archive.org/details/witchfinder-general-1968",
        "id": "witchfinder-general-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Goke, Body Snatcher From Hell",
+       "logo": "https://archive.org/services/img/goke-body-snatcher-from-hell",
+       "url": "https://archive.org/details/goke-body-snatcher-from-hell",
+       "date": "1968-01-01",
+       "plot": "After an airplane is forced to crash-land in a remote area, its passengers find themselves face-to-face with an alien force that wants to possess them body and soul—and perhaps take over the entire human race. Filled with creatively repulsive effects—including a very invasive bloblike life-form—Hajime Sato’s Goke, Body Snatcher from Hell is a pulpy, apocalyptic gross-out.",
+       "page": "https://archive.org/details/goke-body-snatcher-from-hell",
+       "id": "goke-body-snatcher-from-hell",
        "duration": null,
        "resolve": "archive"
       },
@@ -5024,17 +5024,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Paranoiac",
-       "logo": "https://archive.org/services/img/paranoiac_202107",
-       "url": "https://archive.org/details/paranoiac_202107",
-       "date": "1963-01-01",
-       "plot": "A wealthy psychotic is is coddled by his aunt in their mansion outside of London. One day, his long lost brother mysteriously arrives at the house to claim his share of the inheritance.",
-       "page": "https://archive.org/details/paranoiac_202107",
-       "id": "paranoiac_202107",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Black Sabbath (1963)",
        "logo": "https://archive.org/services/img/black.-sabbath.-1963",
        "url": "https://archive.org/details/black.-sabbath.-1963",
@@ -5042,6 +5031,17 @@
        "plot": "Black Sabbath is a 1963 horror anthology film directed by Mario Bava. The film consists of three separate tales that are introduced by Boris Karloff. The order in which the stories are presented varies among the different versions in which the film has been released. In the original, Italian print, the first story, titled \"The Telephone\", involves Rosy who continually receives threatening telephone calls from an unseen stalker. The second is \"The Wurdulak\", where a man named Gorca returns to his family after claiming to have slain a Wurdulak, an undead creature who attacks those that it had on",
        "page": "https://archive.org/details/black.-sabbath.-1963",
        "id": "black.-sabbath.-1963",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Paranoiac",
+       "logo": "https://archive.org/services/img/paranoiac_202107",
+       "url": "https://archive.org/details/paranoiac_202107",
+       "date": "1963-01-01",
+       "plot": "A wealthy psychotic is is coddled by his aunt in their mansion outside of London. One day, his long lost brother mysteriously arrives at the house to claim his share of the inheritance.",
+       "page": "https://archive.org/details/paranoiac_202107",
+       "id": "paranoiac_202107",
        "duration": null,
        "resolve": "archive"
       },
@@ -5662,17 +5662,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Atom Age Vampire (1960)",
-       "logo": "https://archive.org/services/img/atom.-age.-vampire.-1960",
-       "url": "https://archive.org/details/atom.-age.-vampire.-1960",
-       "date": "1960-01-01",
-       "plot": "\"Atom Age Vampire\" is a 1960 Italian horror film directed by Anton Giulio Majano. It follows Jeanette Moreneau, a stripper who becomes disfigured in a car accident. A scientist, Dr. Alberto Levin, develops a serum to restore her beauty. However, as the treatment begins to fail, he resorts to unethical methods, including murder, to obtain the necessary ingredients for the serum. The film explores themes of obsession and the consequences of scientific experimentation.",
-       "page": "https://archive.org/details/atom.-age.-vampire.-1960",
-       "id": "atom.-age.-vampire.-1960",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Tell-Tale Heart",
        "logo": "https://archive.org/services/img/ttth77844109",
        "url": "https://archive.org/details/ttth77844109",
@@ -5680,6 +5669,17 @@
        "plot": "Title: The Tell-Tale Heart Summary: When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes... Directed by: Ernest Morris Actors: Laurence Payne, Adrienne Corri, Dermot Walsh Production Company: Danziger Productions Ltd. Release Date: December 1960 (UK) Aspect Ratio: 1.66 : 1 When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes",
        "page": "https://archive.org/details/ttth77844109",
        "id": "ttth77844109",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Atom Age Vampire (1960)",
+       "logo": "https://archive.org/services/img/atom.-age.-vampire.-1960",
+       "url": "https://archive.org/details/atom.-age.-vampire.-1960",
+       "date": "1960-01-01",
+       "plot": "\"Atom Age Vampire\" is a 1960 Italian horror film directed by Anton Giulio Majano. It follows Jeanette Moreneau, a stripper who becomes disfigured in a car accident. A scientist, Dr. Alberto Levin, develops a serum to restore her beauty. However, as the treatment begins to fail, he resorts to unethical methods, including murder, to obtain the necessary ingredients for the serum. The film explores themes of obsession and the consequences of scientific experimentation.",
+       "page": "https://archive.org/details/atom.-age.-vampire.-1960",
+       "id": "atom.-age.-vampire.-1960",
        "duration": null,
        "resolve": "archive"
       },
@@ -5898,17 +5898,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Caltiki, the Immortal Monster",
-       "logo": "https://archive.org/services/img/CALTIKITheImmortalMonster1960",
-       "url": "https://archive.org/details/CALTIKITheImmortalMonster1960",
-       "date": "1959-01-01",
-       "plot": "Title: Caltiki, the Immortal Monster Summary: Archaeologists investigating some Mayan ruins come across a blob-like monster. They manage to destroy it with fire, but keep a sample. Meanwhile, a comet is due to pass close to the Earth -... Directed by: Riccardo Freda, Mario Bava Actors: Production Company: Galatea Film Release Date: 20 September 1960 (USA) Aspect Ratio: 1.66 : 1 Archaeologists investigating some Mayan ruins come across a blob-like monster. They manage to destroy it with fire, but keep a sample. Meanwhile, a comet is due to pass close to the Earth - the same comet passed near th",
-       "page": "https://archive.org/details/CALTIKITheImmortalMonster1960",
-       "id": "CALTIKITheImmortalMonster1960",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Th Angry Red Planet (1959)",
        "logo": "https://archive.org/services/img/the.angry.red.planet.1959",
        "url": "https://archive.org/details/the.angry.red.planet.1959",
@@ -5916,6 +5905,17 @@
        "plot": "The Angry Red Planet is a 1959 American science-fiction film directed by Ib Melchior, featuring a crew's expedition to Mars where they encounter strange creatures and challenges. The film follows the Mars Rocket 1 (MR-1) crew, who are initially thought lost. Upon their return, only two crew members survive. They recount their harrowing experiences on Mars, including encounters with bizarre creatures like a giant amoeba and a hybrid creature resembling a rat, bat, spider, and crab. Due to a limited budget and tight filming schedule, the movie utilized a unique film-processing technique called \"",
        "page": "https://archive.org/details/the.angry.red.planet.1959",
        "id": "the.angry.red.planet.1959",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Caltiki, the Immortal Monster",
+       "logo": "https://archive.org/services/img/CALTIKITheImmortalMonster1960",
+       "url": "https://archive.org/details/CALTIKITheImmortalMonster1960",
+       "date": "1959-01-01",
+       "plot": "Title: Caltiki, the Immortal Monster Summary: Archaeologists investigating some Mayan ruins come across a blob-like monster. They manage to destroy it with fire, but keep a sample. Meanwhile, a comet is due to pass close to the Earth -... Directed by: Riccardo Freda, Mario Bava Actors: Production Company: Galatea Film Release Date: 20 September 1960 (USA) Aspect Ratio: 1.66 : 1 Archaeologists investigating some Mayan ruins come across a blob-like monster. They manage to destroy it with fire, but keep a sample. Meanwhile, a comet is due to pass close to the Earth - the same comet passed near th",
+       "page": "https://archive.org/details/CALTIKITheImmortalMonster1960",
+       "id": "CALTIKITheImmortalMonster1960",
        "duration": null,
        "resolve": "archive"
       },
@@ -5942,17 +5942,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tingler (1959)",
-       "logo": "https://archive.org/services/img/the-tingler-1959_202510",
-       "url": "https://archive.org/details/the-tingler-1959_202510",
-       "date": "1959-01-01",
-       "plot": "The Tingler is a 1959 American horror film produced and directed by William Castle. It is the third of five collaborations between Castle and writer Robb White, and starring Vincent Price. It follows a pathologist, Dr. Warren Chapin, who discovers a parasitic creature called the \"tingler\" that grows stronger when its host experiences fear. The plot unfolds as he investigates the death of a mute woman who cannot scream, leading to a series of terrifying events involving the creature that ultimately escapes into a movie theater, where chaos ensues as the audience must scream to survive.",
-       "page": "https://archive.org/details/the-tingler-1959_202510",
-       "id": "the-tingler-1959_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Monster of Piedras Blancas (1959)",
        "logo": "https://archive.org/services/img/the.monster.of.piedras.blancas.1959",
        "url": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
@@ -5960,6 +5949,17 @@
        "plot": "The Monster of Piedras Blancas is a 1959 American horror film directed by Irvin Berwick. The story is set in a small California town where a lighthouse keeper, Sturges, is worried about his daughter and the safety of the community. He believes a sea monster, which he has been feeding, is responsible for a series of gruesome murders. As bodies begin to wash ashore, a local scientist identifies a scale from the creature, leading to a confrontation with the monster.",
        "page": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
        "id": "the.monster.of.piedras.blancas.1959",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Tingler (1959)",
+       "logo": "https://archive.org/services/img/the-tingler-1959_202510",
+       "url": "https://archive.org/details/the-tingler-1959_202510",
+       "date": "1959-01-01",
+       "plot": "The Tingler is a 1959 American horror film produced and directed by William Castle. It is the third of five collaborations between Castle and writer Robb White, and starring Vincent Price. It follows a pathologist, Dr. Warren Chapin, who discovers a parasitic creature called the \"tingler\" that grows stronger when its host experiences fear. The plot unfolds as he investigates the death of a mute woman who cannot scream, leading to a series of terrifying events involving the creature that ultimately escapes into a movie theater, where chaos ensues as the audience must scream to survive.",
+       "page": "https://archive.org/details/the-tingler-1959_202510",
+       "id": "the-tingler-1959_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -6019,17 +6019,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Space Master X-7",
-       "logo": "https://archive.org/services/img/SpacemasterX7_201602",
-       "url": "https://archive.org/details/SpacemasterX7_201602",
-       "date": "1958-01-01",
-       "plot": "Title: Space Master X-7 Summary: A fungus brought from space threatens to grow and spread, devouring everyone in its path. Directed by: Edward Bernds Actors: Bill Williams, Lyn Thomas, Robert Ellis Production Company: Regal Films Release Date: June 1958 (USA) Aspect Ratio: 2.35 : 1 A space probe returns to Earth covered with a strange fungus. The fungus is accidentally tinged with human blood and is transformed into an ever-growing pile of space rust, dubbed \"Blood Rust\". It is up to John Hand and Joe Rattigan to find the one woman who can stop the rust from spreading and taking over the world",
-       "page": "https://archive.org/details/SpacemasterX7_201602",
-       "id": "SpacemasterX7_201602",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Fly (1958)",
        "logo": "https://archive.org/services/img/the.-fly.-1958",
        "url": "https://archive.org/details/the.-fly.-1958",
@@ -6037,6 +6026,17 @@
        "plot": "The Fly is a 1958 American science fiction horror film in CinemaScope and the first installment in The Fly film series. It follows scientist André Delambre accidentally transforms himself into a grotesque human-fly hybrid after a fly enters his matter transporter during an experiment. As he struggles to maintain his humanity, his wife Hélène becomes involved in a tragic series of events leading to a shocking conclusion.",
        "page": "https://archive.org/details/the.-fly.-1958",
        "id": "the.-fly.-1958",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Space Master X-7",
+       "logo": "https://archive.org/services/img/SpacemasterX7_201602",
+       "url": "https://archive.org/details/SpacemasterX7_201602",
+       "date": "1958-01-01",
+       "plot": "Title: Space Master X-7 Summary: A fungus brought from space threatens to grow and spread, devouring everyone in its path. Directed by: Edward Bernds Actors: Bill Williams, Lyn Thomas, Robert Ellis Production Company: Regal Films Release Date: June 1958 (USA) Aspect Ratio: 2.35 : 1 A space probe returns to Earth covered with a strange fungus. The fungus is accidentally tinged with human blood and is transformed into an ever-growing pile of space rust, dubbed \"Blood Rust\". It is up to John Hand and Joe Rattigan to find the one woman who can stop the rust from spreading and taking over the world",
+       "page": "https://archive.org/details/SpacemasterX7_201602",
+       "id": "SpacemasterX7_201602",
        "duration": null,
        "resolve": "archive"
       },
@@ -6761,17 +6761,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Nabonga",
-       "logo": "https://archive.org/services/img/nabonga",
-       "url": "https://archive.org/details/nabonga",
-       "date": "1944-01-01",
-       "plot": "You can find more information regarding this film on its IMDb page .",
-       "page": "https://archive.org/details/nabonga",
-       "id": "nabonga",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "House Of Frankenstein 1944",
        "logo": "https://archive.org/services/img/house-of-frankenstein-1944_202106",
        "url": "https://archive.org/details/house-of-frankenstein-1944_202106",
@@ -6779,6 +6768,17 @@
        "plot": "A deranged scientist escapes from prison and recruits Dracula, Frankenstein and the Wolf Man to get revenge on his behalf.",
        "page": "https://archive.org/details/house-of-frankenstein-1944_202106",
        "id": "house-of-frankenstein-1944_202106",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Nabonga",
+       "logo": "https://archive.org/services/img/nabonga",
+       "url": "https://archive.org/details/nabonga",
+       "date": "1944-01-01",
+       "plot": "You can find more information regarding this film on its IMDb page .",
+       "page": "https://archive.org/details/nabonga",
+       "id": "nabonga",
        "duration": null,
        "resolve": "archive"
       },
@@ -6805,17 +6805,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Pearl of Death (1944)",
-       "logo": "https://archive.org/services/img/the.-pearl.-of.-death.-1944",
-       "url": "https://archive.org/details/the.-pearl.-of.-death.-1944",
-       "date": "1944-01-01",
-       "plot": "The Pearl of Death is a 1944 film featuring Sherlock Holmes, portrayed by Basil Rathbone, and Dr. John Watson, played by Nigel Bruce.The story revolves around the theft of the infamous Borgia Pearl from a museum. Holmes, initially responsible for its security, inadvertently allows the master criminal Giles Conover to steal it. Following the theft, a series of brutal murders occur, each victim found surrounded by smashed china. Holmes must unravel the mystery and recover the pearl, which is hidden within a bust of Napoleon.",
-       "page": "https://archive.org/details/the.-pearl.-of.-death.-1944",
-       "id": "the.-pearl.-of.-death.-1944",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Uninvited (1944)",
        "logo": "https://archive.org/services/img/the.-uninvited.-1944_202512",
        "url": "https://archive.org/details/the.-uninvited.-1944_202512",
@@ -6823,6 +6812,17 @@
        "plot": "\"The Uninvited\" is a classic supernatural horror film directed by Lewis Allen . This film is notable for its chilling atmosphere and engaging storytelling, making it one of the early standout haunted house films in American cinema. The story revolves around a brother and sister, Roderick (played by Ray Milland ) and Pamela (played by Gail Russell ), who purchase a beautiful but eerie mansion on the coast of England. Soon after moving in, they encounter supernatural occurrences and a haunting spirit, which they learn is tied to the tragic history of the house, specifically involving a young wom",
        "page": "https://archive.org/details/the.-uninvited.-1944_202512",
        "id": "the.-uninvited.-1944_202512",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Pearl of Death (1944)",
+       "logo": "https://archive.org/services/img/the.-pearl.-of.-death.-1944",
+       "url": "https://archive.org/details/the.-pearl.-of.-death.-1944",
+       "date": "1944-01-01",
+       "plot": "The Pearl of Death is a 1944 film featuring Sherlock Holmes, portrayed by Basil Rathbone, and Dr. John Watson, played by Nigel Bruce.The story revolves around the theft of the infamous Borgia Pearl from a museum. Holmes, initially responsible for its security, inadvertently allows the master criminal Giles Conover to steal it. Following the theft, a series of brutal murders occur, each victim found surrounded by smashed china. Holmes must unravel the mystery and recover the pearl, which is hidden within a bust of Napoleon.",
+       "page": "https://archive.org/details/the.-pearl.-of.-death.-1944",
+       "id": "the.-pearl.-of.-death.-1944",
        "duration": null,
        "resolve": "archive"
       },
@@ -7778,17 +7778,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Murder at Dawn",
-       "logo": "https://archive.org/services/img/MurderatDawn",
-       "url": "https://archive.org/details/MurderatDawn",
-       "date": "1932-01-01",
-       "plot": "Mad scientist works on a death ray in his mountain hideaway.",
-       "page": "https://archive.org/details/MurderatDawn",
-       "id": "MurderatDawn",
-       "duration": "51 min.",
-       "resolve": "archive"
-      },
-      {
        "name": "Werewolf of London (1935)",
        "logo": "https://archive.org/services/img/werewolf.of.london",
        "url": "https://archive.org/details/werewolf.of.london",
@@ -7797,6 +7786,17 @@
        "page": "https://archive.org/details/werewolf.of.london",
        "id": "werewolf.of.london",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Murder at Dawn",
+       "logo": "https://archive.org/services/img/MurderatDawn",
+       "url": "https://archive.org/details/MurderatDawn",
+       "date": "1932-01-01",
+       "plot": "Mad scientist works on a death ray in his mountain hideaway.",
+       "page": "https://archive.org/details/MurderatDawn",
+       "id": "MurderatDawn",
+       "duration": "51 min.",
        "resolve": "archive"
       },
       {
@@ -8722,17 +8722,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Beast from Haunted Cave",
-       "logo": "https://archive.org/services/img/BeastFromHauntedCave",
-       "url": "https://archive.org/details/BeastFromHauntedCave",
-       "date": null,
-       "plot": "Beast from Haunted Cave is a 1959 horror/gangster/heist film directed by Monte Hellman and starring Michael Forest, Frank Wolff, Richard Sinatra, and Sheila Carroll. Filmed in South Dakota, it tells the story of bank robbers fleeing in the snow who run afoul of a beast that feeds on humans.",
-       "page": "https://archive.org/details/BeastFromHauntedCave",
-       "id": "BeastFromHauntedCave",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Devil's Hand (1962)",
        "logo": "https://archive.org/services/img/TheDevilsHand1962",
        "url": "https://archive.org/details/TheDevilsHand1962",
@@ -8741,6 +8730,17 @@
        "page": "https://archive.org/details/TheDevilsHand1962",
        "id": "TheDevilsHand1962",
        "duration": "1:09:40",
+       "resolve": "archive"
+      },
+      {
+       "name": "Beast from Haunted Cave",
+       "logo": "https://archive.org/services/img/BeastFromHauntedCave",
+       "url": "https://archive.org/details/BeastFromHauntedCave",
+       "date": null,
+       "plot": "Beast from Haunted Cave is a 1959 horror/gangster/heist film directed by Monte Hellman and starring Michael Forest, Frank Wolff, Richard Sinatra, and Sheila Carroll. Filmed in South Dakota, it tells the story of bank robbers fleeing in the snow who run afoul of a beast that feeds on humans.",
+       "page": "https://archive.org/details/BeastFromHauntedCave",
+       "id": "BeastFromHauntedCave",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -8964,17 +8964,6 @@
        "resolve": "archive"
       },
       {
-       "name": "White Zombie (1932)",
-       "logo": "https://archive.org/services/img/WhiteZombie1932",
-       "url": "https://archive.org/details/WhiteZombie1932",
-       "date": null,
-       "plot": "White Zombie is often described as being the first ever zombie movie. It is about a young couple who go to visit an acquaintance who lives in Haiti. Unfortunately the the girl is so attractive that she turns the head of a local Voodoo master, played by Bela Lugosi, who wants her for himself, so he turns her into a zombie. You can learn more about White Zombie at A Passion for Horror .",
-       "page": "https://archive.org/details/WhiteZombie1932",
-       "id": "WhiteZombie1932",
-       "duration": "1:05:22",
-       "resolve": "archive"
-      },
-      {
        "name": "Night Tide (1961)",
        "logo": "https://archive.org/services/img/NightTide1961",
        "url": "https://archive.org/details/NightTide1961",
@@ -8983,6 +8972,17 @@
        "page": "https://archive.org/details/NightTide1961",
        "id": "NightTide1961",
        "duration": "1:25:09",
+       "resolve": "archive"
+      },
+      {
+       "name": "White Zombie (1932)",
+       "logo": "https://archive.org/services/img/WhiteZombie1932",
+       "url": "https://archive.org/details/WhiteZombie1932",
+       "date": null,
+       "plot": "White Zombie is often described as being the first ever zombie movie. It is about a young couple who go to visit an acquaintance who lives in Haiti. Unfortunately the the girl is so attractive that she turns the head of a local Voodoo master, played by Bela Lugosi, who wants her for himself, so he turns her into a zombie. You can learn more about White Zombie at A Passion for Horror .",
+       "page": "https://archive.org/details/WhiteZombie1932",
+       "id": "WhiteZombie1932",
+       "duration": "1:05:22",
        "resolve": "archive"
       },
       {
@@ -9426,17 +9426,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 56: \"Which Witch\" Double Feature",
-       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
-       "url": "https://archive.org/details/ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
-       "date": null,
-       "plot": "Brrrrrrrrrr - another cold dead night at the ol' Shocker Internet Drive In and we do not know \"witch\" way to turn! Yes, we know it is colder than hell out there and everyone is enjoying the dead of January, but we are here to keep your blood warm and the spirits high with our special double feature which is \"witch\", we do not know! First up, after the usual Coming Attractions, we bring you a Bugs cartoon, with \"witch\" comes a few laughs, followed by Christopher Lee and \"The City of The Dead\" (or \"Horror Hotel\" - which ever scares you the most). Then, after a brief intermission and a voodoo sho",
-       "page": "https://archive.org/details/ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
-       "id": "ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
-       "duration": "2:51:22",
-       "resolve": "archive"
-      },
-      {
        "name": "Carnival of Souls ( iPod Video Version )",
        "logo": "https://archive.org/services/img/carnival_of_souls",
        "url": "https://archive.org/details/carnival_of_souls",
@@ -9445,6 +9434,17 @@
        "page": "https://archive.org/details/carnival_of_souls",
        "id": "carnival_of_souls",
        "duration": "01:22:59",
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 56: \"Which Witch\" Double Feature",
+       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
+       "url": "https://archive.org/details/ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
+       "date": null,
+       "plot": "Brrrrrrrrrr - another cold dead night at the ol' Shocker Internet Drive In and we do not know \"witch\" way to turn! Yes, we know it is colder than hell out there and everyone is enjoying the dead of January, but we are here to keep your blood warm and the spirits high with our special double feature which is \"witch\", we do not know! First up, after the usual Coming Attractions, we bring you a Bugs cartoon, with \"witch\" comes a few laughs, followed by Christopher Lee and \"The City of The Dead\" (or \"Horror Hotel\" - which ever scares you the most). Then, after a brief intermission and a voodoo sho",
+       "page": "https://archive.org/details/ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
+       "id": "ShockerInternetDriveIn-Week56whichWitchDoubleFeature",
+       "duration": "2:51:22",
        "resolve": "archive"
       },
       {
@@ -9492,17 +9492,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Eyes of the Werewolf (1999)",
-       "logo": "https://archive.org/services/img/eyes-of-the-werewolf",
-       "url": "https://archive.org/details/eyes-of-the-werewolf",
-       "date": null,
-       "plot": "IMDB Description: A laboratory accident leaves Rich blind and at the mercy of a surgeon who performs an eye transplant. Unknown to everyone, the eyes were stolen from a werewolf. All hell breaks loose as Rich extracts revenge during the next full moon.",
-       "page": "https://archive.org/details/eyes-of-the-werewolf",
-       "id": "eyes-of-the-werewolf",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Horror Movie English Subtitles",
        "logo": "https://archive.org/services/img/the-corpse-vanishes-eng",
        "url": "https://archive.org/details/the-corpse-vanishes-eng",
@@ -9510,6 +9499,17 @@
        "plot": "English subtitles for classic horror movies.",
        "page": "https://archive.org/details/the-corpse-vanishes-eng",
        "id": "the-corpse-vanishes-eng",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Eyes of the Werewolf (1999)",
+       "logo": "https://archive.org/services/img/eyes-of-the-werewolf",
+       "url": "https://archive.org/details/eyes-of-the-werewolf",
+       "date": null,
+       "plot": "IMDB Description: A laboratory accident leaves Rich blind and at the mercy of a surgeon who performs an eye transplant. Unknown to everyone, the eyes were stolen from a werewolf. All hell breaks loose as Rich extracts revenge during the next full moon.",
+       "page": "https://archive.org/details/eyes-of-the-werewolf",
+       "id": "eyes-of-the-werewolf",
        "duration": null,
        "resolve": "archive"
       },
