@@ -1526,12 +1526,6 @@
       "section": "kan/news-series"
     },
     {
-      "id": "kan_1108868",
-      "title": "כאן 11 - הנדסת תודעה עם ליאור סושרד",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-1108868/",
-      "section": "kan/kan-11"
-    },
-    {
       "id": "kan_1110893",
       "title": "כאן 11 - הנווט",
       "url": "https://www.kan.org.il/content/kan/news-series/p-1110893/",
@@ -1836,12 +1830,6 @@
       "title": "כאן 11 - יוצרים מן הכלל",
       "url": "https://www.kan.org.il/content/dig/digital/p-965458/",
       "section": "dig/digital"
-    },
-    {
-      "id": "kan_1110562",
-      "title": "כאן 11 - ילדי חברון",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-1110562/",
-      "section": "kan/kan-11"
     },
     {
       "id": "kan_336216",
@@ -2705,6 +2693,18 @@
       "id": "kan_928522",
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1108868",
+      "title": "כאן 11 - הנדסת תודעה עם ליאור סושרד",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1108868/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_1110562",
+      "title": "כאן 11 - ילדי חברון",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1110562/",
       "section": "kan/kan-11"
     },
     {

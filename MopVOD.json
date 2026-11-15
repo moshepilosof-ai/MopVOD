@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-15 11:42",
+ "updated": "2026-11-15 20:51",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -23,10 +23,10 @@
   {
    "name": "כאן 11 - המהדורה המרכזית",
    "file": "vod/kan11_news.json",
-   "episodes": 2280,
+   "episodes": 2281,
    "seasons": 1,
-   "updated": "2026-11-12 22:10",
-   "newest": "2026-11-12",
+   "updated": "2026-11-15 20:45",
+   "newest": "2026-11-15",
    "oldest": "2017-11-28"
   },
   {
@@ -464,10 +464,10 @@
   {
    "name": "כאן 11 - הכוורת",
    "file": "vod/kan_1075348.json",
-   "episodes": 49,
+   "episodes": 50,
    "seasons": 2,
-   "updated": "2026-11-10 21:58",
-   "newest": "2026-10-27",
+   "updated": "2026-11-15 20:40",
+   "newest": "2026-11-01",
    "oldest": "2026-07-12"
   },
   {
@@ -518,10 +518,10 @@
   {
    "name": "כאן 11 - כאן חדשות +",
    "file": "vod/kan_1080424.json",
-   "episodes": 42,
+   "episodes": 43,
    "seasons": 1,
-   "updated": "2026-11-12 22:08",
-   "newest": "2026-11-12",
+   "updated": "2026-11-15 20:43",
+   "newest": "2026-11-15",
    "oldest": "2026-07-26"
   },
   {
@@ -941,11 +941,11 @@
   {
    "name": "כאן 11 - ברקוני - המדריך לאנושות",
    "file": "vod/kan_1115517.json",
-   "episodes": 1,
-   "seasons": 1,
-   "updated": "2026-11-15 11:29",
+   "episodes": 2,
+   "seasons": 2,
+   "updated": "2026-11-15 20:37",
    "newest": "2026-11-12",
-   "oldest": "2026-11-12"
+   "oldest": "2026-11-03"
   },
   {
    "name": "כאן 11 - אירוויזיון אסיה 2026",
@@ -1157,10 +1157,10 @@
   {
    "name": "כאן 11 - העולם היום",
    "file": "vod/kan_11719.json",
-   "episodes": 1827,
+   "episodes": 1828,
    "seasons": 1,
-   "updated": "2026-11-11 22:18",
-   "newest": "2026-11-11",
+   "updated": "2026-11-15 20:41",
+   "newest": "2026-11-15",
    "oldest": "2017-12-31"
   },
   {
@@ -1436,9 +1436,9 @@
   {
    "name": "כאן 11 - מהצד השני עם גיא זהר",
    "file": "vod/kan_12463.json",
-   "episodes": 1732,
+   "episodes": 1733,
    "seasons": 3,
-   "updated": "2026-11-12 22:10",
+   "updated": "2026-11-15 20:45",
    "newest": "2026-11-12",
    "oldest": "2019-02-17"
   },
@@ -1535,9 +1535,9 @@
   {
    "name": "כאן 11 - קופה ראשית",
    "file": "vod/kan_12832.json",
-   "episodes": 83,
+   "episodes": 84,
    "seasons": 7,
-   "updated": "2026-11-08 20:13",
+   "updated": "2026-11-15 20:48",
    "newest": "2026-10-27",
    "oldest": "2023-04-22"
   },
@@ -3569,18 +3569,18 @@
   {
    "name": "כאן 11 - גליק ותמר",
    "file": "vod/kan_821792.json",
-   "episodes": 151,
+   "episodes": 152,
    "seasons": 1,
-   "updated": "2026-11-13 21:39",
-   "newest": "2026-11-13",
+   "updated": "2026-11-15 20:38",
+   "newest": "2026-11-15",
    "oldest": "2024-11-09"
   },
   {
    "name": "כאן 11 - כאן בשש",
    "file": "vod/kan_821794.json",
-   "episodes": 435,
+   "episodes": 436,
    "seasons": 1,
-   "updated": "2026-11-12 22:08",
+   "updated": "2026-11-15 20:43",
    "newest": "2027-07-23",
    "oldest": "2024-11-10"
   },
@@ -4001,10 +4001,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 694,
+   "episodes": 698,
    "seasons": 2,
-   "updated": "2026-11-15 00:20",
-   "newest": "2026-11-14",
+   "updated": "2026-11-15 20:47",
+   "newest": "2026-11-15",
    "oldest": "2024-09-18"
   },
   {

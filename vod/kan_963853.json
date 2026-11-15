@@ -6,11 +6,51 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-15 00:20",
+   "updated": "2026-11-15 20:47",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "זוכת האירוויזיון מהולנד עלתה לישראל דווקא עכשיו: המסע של לני קור לארץ",
+       "logo": "https://www.kan.org.il/media/5p4jnjwq/לני-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265842/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-15",
+       "plot": "בזמן שאמסטרדם בוערת משנאה לישראל, זוכת האירוויזיון היהודייה לני קור, החליטה שהגיע הזמן לעלות לארץ. ליווינו את המסע של - מהרגע שביטלה את הופעותיה בהולנד והחליטה לארוז חיים שלמים במכולה, ועד צעדיה הראשונים החודש, בביתה החדש, בארץ.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1119598/",
+       "id": "1119598",
+       "season": 2
+      },
+      {
+       "name": "החדר של חני שוב כאן: חני נחמיאס נפגשה עם הילדים שהתארחו בתוכנית המיתולוגית",
+       "logo": "https://www.kan.org.il/media/yfde2ytf/כתבה-7-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265841/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-15",
+       "plot": "מאות אלפי ילדים גדלו על \"החדר של חני\", התוכנית שהפכה את חני נחמיאס לאחת הדמויות האהובות על ילדי שנות התשעים. אחרי כמעט שלושים שנה, היא החליטה לאסוף מחדש את הילדים שהתארחו אצלה באולפן. המפגש הזה הפך למסע מרגש בזמן, עם לא מעט הפתעות.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1119592/",
+       "id": "1119592",
+       "season": 2
+      },
+      {
+       "name": "פלסטיק במסטיק: ארה\"ב יוצאת למלחמה נגד לועסי המסטיקים",
+       "logo": "https://www.kan.org.il/media/c5rfb2ls/מסטיק-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265839/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-15",
+       "plot": "מכורים למסטיקים? עוד ועוד מחקרים מזהירים - גומי הלעיסה עלול להיות מסוכן לבריאות. בימים אלה מקודמת בארצות הברית הצעת חוק חדשה להגבלות על מוצרים הפולטים מיקרו-פלסטיקים, ובהם המסטיק.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1119589/",
+       "id": "1119589",
+       "season": 2
+      },
+      {
+       "name": "המס הוורוד: כמה עולה להיות אישה בישראל?",
+       "logo": "https://www.kan.org.il/media/icalzdpe/כתבה-4-אתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265827/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-15",
+       "plot": "אם לחיות בישראל זה יקר - לחיות כאישה בישראל יקר לא פחות. למה יש מוצרים שחמישים אחוז מהאוכלוסייה משלם עליהם יותר?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1119572/",
+       "id": "1119572",
+       "season": 2
+      },
       {
        "name": "מהפטריות מעמק חפר ועד לוואסבי מרמת הגולן: חומרי הגלם הייחודים שגדלים בישראל",
        "logo": "https://www.kan.org.il/media/tqvj5dlr/3אתר.jpg",

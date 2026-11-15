@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
    "series_id": "1075348",
-   "updated": "2026-11-10 21:58",
+   "updated": "2026-11-15 20:40",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "הכוורת | פרק 49",
+       "logo": "https://www.kan.org.il/media/rdmhnstw/55069100_00_11_23.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259720/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "אשת שיווק, סטודנט להנדסת חומרים ואיש תוכנה יתמודדו במשחק מאתגר במיוחד שכולל טריוויה, אסטרטגיה וגם קצת זריזות. רק אחד מהם יכול לנצח את הכוורת. שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1114742/",
+       "id": "1114742",
+       "season": 1
+      },
       {
        "name": "הכוורת | פרק 48",
        "logo": "https://www.kan.org.il/media/ncqj1qno/אתר.jpg",
