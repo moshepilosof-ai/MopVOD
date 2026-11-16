@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-15 20:51",
+ "updated": "2026-11-16 00:36",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -1094,10 +1094,10 @@
   {
    "name": "כאן 11 - חדשות הלילה",
    "file": "vod/kan_11602.json",
-   "episodes": 2054,
+   "episodes": 2055,
    "seasons": 1,
-   "updated": "2026-11-12 22:07",
-   "newest": "2026-11-12",
+   "updated": "2026-11-16 00:27",
+   "newest": "2026-11-15",
    "oldest": "2017-12-10"
   },
   {
