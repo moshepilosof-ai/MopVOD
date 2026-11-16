@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-15 08:49",
+   "updated": "2026-11-16 08:57",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3226,17 +3226,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Hourglass Sanatorium (1973)",
-       "logo": "https://archive.org/services/img/the.-hourglass.-sanatorium.-1973",
-       "url": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
-       "date": "1973-01-01",
-       "plot": "The Hourglass Sanatorium is a 1973 Polish drama film directed by Wojciech Jerzy Has, starring Jan Nowicki, Tadeusz Kondrat, Mieczysław Voit, Halina Kowalska and Gustaw Holoubek. It is also known as The Sandglass in English-speaking countries. It follows a young Jewish man named Józef who travels to a mystical sanatorium to visit his dying father. Upon arrival, he discovers a decaying facility where time behaves unpredictably, leading him through a dream-like exploration of his memories and experiences.",
-       "page": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
-       "id": "the.-hourglass.-sanatorium.-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "And Now The Screaming Starts 1973",
        "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
        "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
@@ -3244,6 +3233,17 @@
        "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
        "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
        "id": "and-now-the-screaming-starts-1973_202409",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Hourglass Sanatorium (1973)",
+       "logo": "https://archive.org/services/img/the.-hourglass.-sanatorium.-1973",
+       "url": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
+       "date": "1973-01-01",
+       "plot": "The Hourglass Sanatorium is a 1973 Polish drama film directed by Wojciech Jerzy Has, starring Jan Nowicki, Tadeusz Kondrat, Mieczysław Voit, Halina Kowalska and Gustaw Holoubek. It is also known as The Sandglass in English-speaking countries. It follows a young Jewish man named Józef who travels to a mystical sanatorium to visit his dying father. Upon arrival, he discovers a decaying facility where time behaves unpredictably, leading him through a dream-like exploration of his memories and experiences.",
+       "page": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
+       "id": "the.-hourglass.-sanatorium.-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -3424,17 +3424,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Asylum 1972",
-       "logo": "https://archive.org/services/img/asylum-1972_202405",
-       "url": "https://archive.org/details/asylum-1972_202405",
-       "date": "1972-01-01",
-       "plot": "A young psychiatrist interviews four patients inside a mental institution, each telling a tale of horror and madness about how they got to be within the walls of the asylum.",
-       "page": "https://archive.org/details/asylum-1972_202405",
-       "id": "asylum-1972_202405",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Case Of The Bloody Iris 1972",
        "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
        "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
@@ -3442,6 +3431,17 @@
        "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
        "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
        "id": "the-case-of-the-bloody-iris-1972",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Asylum 1972",
+       "logo": "https://archive.org/services/img/asylum-1972_202405",
+       "url": "https://archive.org/details/asylum-1972_202405",
+       "date": "1972-01-01",
+       "plot": "A young psychiatrist interviews four patients inside a mental institution, each telling a tale of horror and madness about how they got to be within the walls of the asylum.",
+       "page": "https://archive.org/details/asylum-1972_202405",
+       "id": "asylum-1972_202405",
        "duration": null,
        "resolve": "archive"
       },
@@ -3754,6 +3754,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Fifth Cord 1971",
+       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
+       "url": "https://archive.org/details/the-fifth-cord-1971",
+       "date": "1971-01-01",
+       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
+       "page": "https://archive.org/details/the-fifth-cord-1971",
+       "id": "the-fifth-cord-1971",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Countess Dracula 1971",
        "logo": "https://archive.org/services/img/countess-dracula-1971_20240614",
        "url": "https://archive.org/details/countess-dracula-1971_20240614",
@@ -3772,17 +3783,6 @@
        "plot": "Variation on the Exorcist craze of the 70's. The owner of a castles ancestors made a deal with the devil and now every generation produces a succubus. Erika Blanc plays the latest incarnation though her victims succumb more to the seven deadly sins. Dubbed English",
        "page": "https://archive.org/details/devils-nightmare-the-1971",
        "id": "devils-nightmare-the-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Fifth Cord 1971",
-       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
-       "url": "https://archive.org/details/the-fifth-cord-1971",
-       "date": "1971-01-01",
-       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
-       "page": "https://archive.org/details/the-fifth-cord-1971",
-       "id": "the-fifth-cord-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -4683,17 +4683,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The 10th Victim 1965",
-       "logo": "https://archive.org/services/img/the-10th-victim-1965",
-       "url": "https://archive.org/details/the-10th-victim-1965",
-       "date": "1965-01-01",
-       "plot": "In a future when people indulge in human hunts for entertainment a veteran huntress' plan to kill a victim for a major TV sponsorship deal is compounded by romance.",
-       "page": "https://archive.org/details/the-10th-victim-1965",
-       "id": "the-10th-victim-1965",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Dr Terror's House Of Horrors 1965",
        "logo": "https://archive.org/services/img/dr-terrors-house-of-horrors-1965",
        "url": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
@@ -4701,6 +4690,17 @@
        "plot": "Aboard a British train, mysterious fortune teller Dr. Schreck uses tarot cards to read the futures of five fellow passengers.",
        "page": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
        "id": "dr-terrors-house-of-horrors-1965",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The 10th Victim 1965",
+       "logo": "https://archive.org/services/img/the-10th-victim-1965",
+       "url": "https://archive.org/details/the-10th-victim-1965",
+       "date": "1965-01-01",
+       "plot": "In a future when people indulge in human hunts for entertainment a veteran huntress' plan to kill a victim for a major TV sponsorship deal is compounded by romance.",
+       "page": "https://archive.org/details/the-10th-victim-1965",
+       "id": "the-10th-victim-1965",
        "duration": null,
        "resolve": "archive"
       },
@@ -5024,17 +5024,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Black Sabbath (1963)",
-       "logo": "https://archive.org/services/img/black.-sabbath.-1963",
-       "url": "https://archive.org/details/black.-sabbath.-1963",
-       "date": "1963-01-01",
-       "plot": "Black Sabbath is a 1963 horror anthology film directed by Mario Bava. The film consists of three separate tales that are introduced by Boris Karloff. The order in which the stories are presented varies among the different versions in which the film has been released. In the original, Italian print, the first story, titled \"The Telephone\", involves Rosy who continually receives threatening telephone calls from an unseen stalker. The second is \"The Wurdulak\", where a man named Gorca returns to his family after claiming to have slain a Wurdulak, an undead creature who attacks those that it had on",
-       "page": "https://archive.org/details/black.-sabbath.-1963",
-       "id": "black.-sabbath.-1963",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Paranoiac",
        "logo": "https://archive.org/services/img/paranoiac_202107",
        "url": "https://archive.org/details/paranoiac_202107",
@@ -5042,6 +5031,17 @@
        "plot": "A wealthy psychotic is is coddled by his aunt in their mansion outside of London. One day, his long lost brother mysteriously arrives at the house to claim his share of the inheritance.",
        "page": "https://archive.org/details/paranoiac_202107",
        "id": "paranoiac_202107",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Black Sabbath (1963)",
+       "logo": "https://archive.org/services/img/black.-sabbath.-1963",
+       "url": "https://archive.org/details/black.-sabbath.-1963",
+       "date": "1963-01-01",
+       "plot": "Black Sabbath is a 1963 horror anthology film directed by Mario Bava. The film consists of three separate tales that are introduced by Boris Karloff. The order in which the stories are presented varies among the different versions in which the film has been released. In the original, Italian print, the first story, titled \"The Telephone\", involves Rosy who continually receives threatening telephone calls from an unseen stalker. The second is \"The Wurdulak\", where a man named Gorca returns to his family after claiming to have slain a Wurdulak, an undead creature who attacks those that it had on",
+       "page": "https://archive.org/details/black.-sabbath.-1963",
+       "id": "black.-sabbath.-1963",
        "duration": null,
        "resolve": "archive"
       },
@@ -7800,17 +7800,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Vampyr ( Original German)",
-       "logo": "https://archive.org/services/img/vampr-german-intertiles",
-       "url": "https://archive.org/details/vampr-german-intertiles",
-       "date": "1932-01-01",
-       "plot": "With Vampyr, Danish filmmaker Carl Theodor Dreyer channeled his genius for creating mesmerizing atmosphere and austere, unsettling imagery into the horror genre. The result—a chilling film about a student of the occult who encounters supernatural haunts and local evildoers in a village outside of Paris—is nearly unclassifiable. A host of stunning camera and editing tricks and densely layered sounds create a mood of dreamlike terror. With its roiling fogs, ominous scythes, and foreboding echoes, Vampyr is one of cinema’s great nightmares.",
-       "page": "https://archive.org/details/vampr-german-intertiles",
-       "id": "vampr-german-intertiles",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "White Zombie (1932)",
        "logo": "https://archive.org/services/img/white.zombie.1932",
        "url": "https://archive.org/details/white.zombie.1932",
@@ -7818,6 +7807,17 @@
        "plot": "\"White Zombie\" is a 1932 horror film directed by Victor Halperin, often regarded as the first feature-length zombie movie. It is a horror film set in Haiti, focusing on a young woman named Madeleine who is transformed into a zombie by an evil voodoo master named \"Murder\" Legendre, played by Bela Lugosi. The story follows her fiancé, Neil Parker, as he seeks to rescue her from this fate. The film explores themes of love, betrayal, and the supernatural.",
        "page": "https://archive.org/details/white.zombie.1932",
        "id": "white.zombie.1932",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Vampyr ( Original German)",
+       "logo": "https://archive.org/services/img/vampr-german-intertiles",
+       "url": "https://archive.org/details/vampr-german-intertiles",
+       "date": "1932-01-01",
+       "plot": "With Vampyr, Danish filmmaker Carl Theodor Dreyer channeled his genius for creating mesmerizing atmosphere and austere, unsettling imagery into the horror genre. The result—a chilling film about a student of the occult who encounters supernatural haunts and local evildoers in a village outside of Paris—is nearly unclassifiable. A host of stunning camera and editing tricks and densely layered sounds create a mood of dreamlike terror. With its roiling fogs, ominous scythes, and foreboding echoes, Vampyr is one of cinema’s great nightmares.",
+       "page": "https://archive.org/details/vampr-german-intertiles",
+       "id": "vampr-german-intertiles",
        "duration": null,
        "resolve": "archive"
       },
