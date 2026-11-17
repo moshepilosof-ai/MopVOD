@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-17 00:04",
+   "updated": "2026-11-17 23:20",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זוהר | 17.11.2026",
+       "logo": "https://www.kan.org.il/media/x33pf1t1/גיאזו.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261546/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-17",
+       "plot": "כאן 11 | קו אדום מגיר שנמחק בגשם: פוליטיקאים מכל הקשת מסבירים למה ישיבה עם מפלגות ערביות מסכנת את הביטחון. אבל הארכיון זוכר שנתניהו, לפיד, בנט וליברמן ראו בהם פרטנרים לגיטימיים, כשהם היו צריכים את האצבעות שלהם | בערוץ 14 מציעים לגייס ערבים לשירות לאומי מ\"סוג אחר\". רגע, איפה בכלל מותר לאזרחי ישראל הערבים לעבוד?",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1115478/",
+       "id": "1115478",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זוהר | 16.11.2026",
        "logo": "https://www.kan.org.il/media/ejcbnzda/גאיזו.png",

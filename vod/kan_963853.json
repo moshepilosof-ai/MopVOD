@@ -6,11 +6,31 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-17 00:06",
+   "updated": "2026-11-17 23:22",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "״קליפ הרצח״ של נועה קירל ונסרין: הומור שחור או פרובוקציה חסרת אחריות?",
+       "logo": "https://www.kan.org.il/media/5jnfg1ks/4יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2266480/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-17",
+       "plot": "נועה קירל ונסרין קדרי יודעות לעורר סערות לטובת יח\"צ, כל אחת בנפרד, והפעם הן עושות את זה ביחד. בקליפ לשיר החדש של הזמרות, השתיים מנסות להיפטר מגופה באמצע הלילה. צורפה לו אמנם אזהרת צפייה לגיל 18, אבל הקליפ עדיין נגיש לכולם. התגובות הזועמות לא איחרו לבוא, ורבים מאשימים את נועה קירל ונסרין קדרי בפרסום תוכן אלים",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1120459/",
+       "id": "1120459",
+       "season": 2
+      },
+      {
+       "name": "מחפשים אמא: ההורים השכולים שקיבלו אישור להביא ילד מהזרע שנקצר מבנם",
+       "logo": "https://www.kan.org.il/media/15xfjvlg/3לאתר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2266472/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-17",
+       "plot": "מאות משפחות שכולות בשלוש השנים האחרונות ביקשו לקצור זרע מבנם שנפל במלחמה כדי להמשיך את דרכו. רק בודדות קיבלו אישור משפטי להתחיל לחפש את האישה שתביא לעולם נכד מהזרע של בנם. אבל איך באמת יוצרים חיים חדשים מתוך הכאב והאובדן? כתתנו פגשה שלוש משפחות שיצאו למסע הזה, ודיברה איתן על החששות, סימני השאלה וגם על התקווה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1120448/",
+       "id": "1120448",
+       "season": 2
+      },
       {
        "name": "יפן תסגור את שעריה? הצעדים של הרשויות בטוקיו נגד תיירות היתר במדינה",
        "logo": "https://www.kan.org.il/media/luigmdea/יפן-אתר-חדש.png",
