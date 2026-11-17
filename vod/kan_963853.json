@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-15 20:47",
+   "updated": "2026-11-17 00:06",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "יפן תסגור את שעריה? הצעדים של הרשויות בטוקיו נגד תיירות היתר במדינה",
+       "logo": "https://www.kan.org.il/media/luigmdea/יפן-אתר-חדש.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2266017/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-16",
+       "plot": "עם מסורת עתיקה, אוכל טעים והרחובות הזוהרים של טוקיו. יפן הפכה כבר מזמן לאחד היעדים הנחשקים והפופולריים בעולם. אבל עם העלייה בתיירות, ליפנים מתחיל להימאס. העומס באתרים וההתנהגות הלא מנומסת של התיירים גרמו לצעדים חריגים של הרשויות. אז לפני שאנחנו טסים ליפן, האם יש ממה לחשוש?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1119926/",
+       "id": "1119926",
+       "season": 2
+      },
+      {
+       "name": "מסעדת המריבה: שלט קטן הוביל למהומות בלונדון - ומה הקשר למונטי פייתון?",
+       "logo": "https://www.kan.org.il/media/ga4lmmy0/חלאל-לאתר.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2266015/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-16",
+       "plot": "ועכשיו ללונדון ולמקרה הזה - בני הזוג הרמן וקושי סירבו להכשיר את המסעדה שלהם לחלאל, הכשרות המוסלמית, ואחרי לחצים תלו שלט: ״בגאווה, איננו מגישים אוכל חלאל״. השלט הוביל להצקות והטרדות, ועד להפגנה שהבעירה את הרחוב מחוץ למסעדה. לבסוף, בני הזוג פנו לקומיקאי מפורסם בתקווה להגנה שלא זכו לה מהמשטרה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1119923/",
+       "id": "1119923",
+       "season": 2
+      },
+      {
+       "name": "מפת ההשמנה של ישראל: איפה נרשם שיא של כל הזמנים – והערים שרק מידרדרות",
+       "logo": "https://www.kan.org.il/media/kyojqqbj/עיר-שמנה-לאתר-חדש.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2266000/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-16",
+       "plot": "אחד מכל 12 ילדים בכיתה א בישראל - סובל מהשמנת יתר, שיא כל הזמנים. נתונים חדשים חושפים לא רק את היקף הבעיה, אלא גם את הפערים האדירים בין הערים ובין האוכלוסיות השונות. הערב במד מן - מפת ההשמנה של ישראל. באיזו עיר המצב החמור ביותר, היכן מצליחים לרדת הרבה מתחת לממוצע, וגם מה השינויים הקטנים בהרגלים שיכולים לעשות הבדל גדול?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1119909/",
+       "id": "1119909",
+       "season": 2
+      },
       {
        "name": "זוכת האירוויזיון מהולנד עלתה לישראל דווקא עכשיו: המסע של לני קור לארץ",
        "logo": "https://www.kan.org.il/media/5p4jnjwq/לני-אתר.png",
