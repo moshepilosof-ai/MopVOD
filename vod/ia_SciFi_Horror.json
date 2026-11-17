@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-16 08:57",
+   "updated": "2026-11-17 10:03",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3226,17 +3226,6 @@
        "resolve": "archive"
       },
       {
-       "name": "And Now The Screaming Starts 1973",
-       "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
-       "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
-       "date": "1973-01-01",
-       "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
-       "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
-       "id": "and-now-the-screaming-starts-1973_202409",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Hourglass Sanatorium (1973)",
        "logo": "https://archive.org/services/img/the.-hourglass.-sanatorium.-1973",
        "url": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
@@ -3244,6 +3233,17 @@
        "plot": "The Hourglass Sanatorium is a 1973 Polish drama film directed by Wojciech Jerzy Has, starring Jan Nowicki, Tadeusz Kondrat, Mieczysław Voit, Halina Kowalska and Gustaw Holoubek. It is also known as The Sandglass in English-speaking countries. It follows a young Jewish man named Józef who travels to a mystical sanatorium to visit his dying father. Upon arrival, he discovers a decaying facility where time behaves unpredictably, leading him through a dream-like exploration of his memories and experiences.",
        "page": "https://archive.org/details/the.-hourglass.-sanatorium.-1973",
        "id": "the.-hourglass.-sanatorium.-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "And Now The Screaming Starts 1973",
+       "logo": "https://archive.org/services/img/and-now-the-screaming-starts-1973_202409",
+       "url": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
+       "date": "1973-01-01",
+       "plot": "In the late 1700's a young woman marries her rich fiance and moves into his families castle but unknowingly awakens an ancient curse with deadly consequences.",
+       "page": "https://archive.org/details/and-now-the-screaming-starts-1973_202409",
+       "id": "and-now-the-screaming-starts-1973_202409",
        "duration": null,
        "resolve": "archive"
       },
@@ -3754,17 +3754,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Fifth Cord 1971",
-       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
-       "url": "https://archive.org/details/the-fifth-cord-1971",
-       "date": "1971-01-01",
-       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
-       "page": "https://archive.org/details/the-fifth-cord-1971",
-       "id": "the-fifth-cord-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Countess Dracula 1971",
        "logo": "https://archive.org/services/img/countess-dracula-1971_20240614",
        "url": "https://archive.org/details/countess-dracula-1971_20240614",
@@ -3772,6 +3761,17 @@
        "plot": "In 17th-century Hungary, a sinister elderly widow Countess Elisabeth Nádasdy maintains her misleading youthful appearance by bathing in the blood of virgins regularly supplied to her by faithful servant.",
        "page": "https://archive.org/details/countess-dracula-1971_20240614",
        "id": "countess-dracula-1971_20240614",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Fifth Cord 1971",
+       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
+       "url": "https://archive.org/details/the-fifth-cord-1971",
+       "date": "1971-01-01",
+       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
+       "page": "https://archive.org/details/the-fifth-cord-1971",
+       "id": "the-fifth-cord-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -3941,17 +3941,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Taste The Blood Of Dacula 1970",
-       "logo": "https://archive.org/services/img/taste-the-blood-of-dacula-1970",
-       "url": "https://archive.org/details/taste-the-blood-of-dacula-1970",
-       "date": "1970-01-01",
-       "plot": "Three distinguished English gentlemen seeking new levels of excitement and pleasure unwittingly resurrect the blasphemous Count Dracula.",
-       "page": "https://archive.org/details/taste-the-blood-of-dacula-1970",
-       "id": "taste-the-blood-of-dacula-1970",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Bird with the Crystal Plumage (1970)",
        "logo": "https://archive.org/services/img/the.-bird.-with.-the.-crystal.-plumage.-1970",
        "url": "https://archive.org/details/the.-bird.-with.-the.-crystal.-plumage.-1970",
@@ -3959,6 +3948,17 @@
        "plot": "The Bird with the Crystal Plumage is a 1970 giallo film written and directed by Dario Argento. It follows an American writer named Sam Dalmas, who witnesses an attempted murder in an art gallery while vacationing in Rome. As he becomes embroiled in the investigation of a serial killer targeting young women, he must uncover the murderer's identity before he and his girlfriend become the next victims.",
        "page": "https://archive.org/details/the.-bird.-with.-the.-crystal.-plumage.-1970",
        "id": "the.-bird.-with.-the.-crystal.-plumage.-1970",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Taste The Blood Of Dacula 1970",
+       "logo": "https://archive.org/services/img/taste-the-blood-of-dacula-1970",
+       "url": "https://archive.org/details/taste-the-blood-of-dacula-1970",
+       "date": "1970-01-01",
+       "plot": "Three distinguished English gentlemen seeking new levels of excitement and pleasure unwittingly resurrect the blasphemous Count Dracula.",
+       "page": "https://archive.org/details/taste-the-blood-of-dacula-1970",
+       "id": "taste-the-blood-of-dacula-1970",
        "duration": null,
        "resolve": "archive"
       },
@@ -4188,17 +4188,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Witchfinder General (1968)",
-       "logo": "https://archive.org/services/img/witchfinder-general-1968",
-       "url": "https://archive.org/details/witchfinder-general-1968",
-       "date": "1968-01-01",
-       "plot": "Witchfinder General is a 1968 British period folk horror film directed by Michael Reeves and starring Vincent Price, Ian Ogilvy, Hilary Dwyer, Robert Russell and Rupert Davies. The screenplay, by Reeves and Tom Baker, was based on Ronald Bassett's 1966 novel Witchfinder General. Set during the English Civil War, following Matthew Hopkins, a sadistic witch hunter, who exploits the chaos to torture and execute those accused of witchcraft. The story centers on Richard Marshall, a soldier who seeks revenge against Hopkins after he and his assistant harm his fiancée and her family.",
-       "page": "https://archive.org/details/witchfinder-general-1968",
-       "id": "witchfinder-general-1968",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Goke, Body Snatcher From Hell",
        "logo": "https://archive.org/services/img/goke-body-snatcher-from-hell",
        "url": "https://archive.org/details/goke-body-snatcher-from-hell",
@@ -4206,6 +4195,17 @@
        "plot": "After an airplane is forced to crash-land in a remote area, its passengers find themselves face-to-face with an alien force that wants to possess them body and soul—and perhaps take over the entire human race. Filled with creatively repulsive effects—including a very invasive bloblike life-form—Hajime Sato’s Goke, Body Snatcher from Hell is a pulpy, apocalyptic gross-out.",
        "page": "https://archive.org/details/goke-body-snatcher-from-hell",
        "id": "goke-body-snatcher-from-hell",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Witchfinder General (1968)",
+       "logo": "https://archive.org/services/img/witchfinder-general-1968",
+       "url": "https://archive.org/details/witchfinder-general-1968",
+       "date": "1968-01-01",
+       "plot": "Witchfinder General is a 1968 British period folk horror film directed by Michael Reeves and starring Vincent Price, Ian Ogilvy, Hilary Dwyer, Robert Russell and Rupert Davies. The screenplay, by Reeves and Tom Baker, was based on Ronald Bassett's 1966 novel Witchfinder General. Set during the English Civil War, following Matthew Hopkins, a sadistic witch hunter, who exploits the chaos to torture and execute those accused of witchcraft. The story centers on Richard Marshall, a soldier who seeks revenge against Hopkins after he and his assistant harm his fiancée and her family.",
+       "page": "https://archive.org/details/witchfinder-general-1968",
+       "id": "witchfinder-general-1968",
        "duration": null,
        "resolve": "archive"
       },
@@ -4276,6 +4276,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Spirits Of The Dead 1968",
+       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
+       "url": "https://archive.org/details/spirits-of-the-dead-1968",
+       "date": "1968-01-01",
+       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
+       "page": "https://archive.org/details/spirits-of-the-dead-1968",
+       "id": "spirits-of-the-dead-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Night Of The Living Dead ( 1968) Doblada Al Español FULL HD",
        "logo": "https://archive.org/services/img/night-of-the-living-dead-1968-doblada-al-espanol",
        "url": "https://archive.org/details/night-of-the-living-dead-1968-doblada-al-espanol",
@@ -4338,17 +4349,6 @@
        "plot": "In 19th century London, macabre murders shock the local countryside.",
        "page": "https://archive.org/details/the-blood-beast-terror-1968",
        "id": "the-blood-beast-terror-1968",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Spirits Of The Dead 1968",
-       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
-       "url": "https://archive.org/details/spirits-of-the-dead-1968",
-       "date": "1968-01-01",
-       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
-       "page": "https://archive.org/details/spirits-of-the-dead-1968",
-       "id": "spirits-of-the-dead-1968",
        "duration": null,
        "resolve": "archive"
       },
@@ -4903,17 +4903,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Gorgon 1964",
-       "logo": "https://archive.org/services/img/the-gorgon-1964",
-       "url": "https://archive.org/details/the-gorgon-1964",
-       "date": "1964-01-01",
-       "plot": "When a professor investigating the alleged suicide of his son in a small Balkan village in the 1900th century also turns up dead and mysteriously turned to stone, his remaining son comes to seek the truth. Conspiracy and cover-ups by local doctors and police are only the tip of the iceberg when legend of an ancient deadly entity also come to light.",
-       "page": "https://archive.org/details/the-gorgon-1964",
-       "id": "the-gorgon-1964",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Last Man on Earth (1964)",
        "logo": "https://archive.org/services/img/the-last-man-on-earth-1964_20251031",
        "url": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
@@ -4921,6 +4910,17 @@
        "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
        "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
        "id": "the-last-man-on-earth-1964_20251031",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Gorgon 1964",
+       "logo": "https://archive.org/services/img/the-gorgon-1964",
+       "url": "https://archive.org/details/the-gorgon-1964",
+       "date": "1964-01-01",
+       "plot": "When a professor investigating the alleged suicide of his son in a small Balkan village in the 1900th century also turns up dead and mysteriously turned to stone, his remaining son comes to seek the truth. Conspiracy and cover-ups by local doctors and police are only the tip of the iceberg when legend of an ancient deadly entity also come to light.",
+       "page": "https://archive.org/details/the-gorgon-1964",
+       "id": "the-gorgon-1964",
        "duration": null,
        "resolve": "archive"
       },
@@ -5024,17 +5024,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Paranoiac",
-       "logo": "https://archive.org/services/img/paranoiac_202107",
-       "url": "https://archive.org/details/paranoiac_202107",
-       "date": "1963-01-01",
-       "plot": "A wealthy psychotic is is coddled by his aunt in their mansion outside of London. One day, his long lost brother mysteriously arrives at the house to claim his share of the inheritance.",
-       "page": "https://archive.org/details/paranoiac_202107",
-       "id": "paranoiac_202107",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Black Sabbath (1963)",
        "logo": "https://archive.org/services/img/black.-sabbath.-1963",
        "url": "https://archive.org/details/black.-sabbath.-1963",
@@ -5042,6 +5031,17 @@
        "plot": "Black Sabbath is a 1963 horror anthology film directed by Mario Bava. The film consists of three separate tales that are introduced by Boris Karloff. The order in which the stories are presented varies among the different versions in which the film has been released. In the original, Italian print, the first story, titled \"The Telephone\", involves Rosy who continually receives threatening telephone calls from an unseen stalker. The second is \"The Wurdulak\", where a man named Gorca returns to his family after claiming to have slain a Wurdulak, an undead creature who attacks those that it had on",
        "page": "https://archive.org/details/black.-sabbath.-1963",
        "id": "black.-sabbath.-1963",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Paranoiac",
+       "logo": "https://archive.org/services/img/paranoiac_202107",
+       "url": "https://archive.org/details/paranoiac_202107",
+       "date": "1963-01-01",
+       "plot": "A wealthy psychotic is is coddled by his aunt in their mansion outside of London. One day, his long lost brother mysteriously arrives at the house to claim his share of the inheritance.",
+       "page": "https://archive.org/details/paranoiac_202107",
+       "id": "paranoiac_202107",
        "duration": null,
        "resolve": "archive"
       },
@@ -5486,17 +5486,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Hercules in the Haunted World (1961)",
-       "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
-       "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
-       "date": "1961-01-01",
-       "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
-       "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
-       "id": "hercules.-in.-the.-haunted.-world.-1961",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Pit And The Pendulum (1961)",
        "logo": "https://archive.org/services/img/pit-and-the-pendulum-1961_202510",
        "url": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
@@ -5504,6 +5493,17 @@
        "plot": "The Pit and the Pendulum is a 1961 American horror film directed by Roger Corman, starring Vincent Price, Barbara Steele, John Kerr, and Luana Anders. The screenplay by Richard Matheson was loosely inspired by Edgar Allan Poe's 1842 short story of the same name. Set in sixteenth-century Spain, the story is about a young Englishman who visits a foreboding castle to investigate his sister's mysterious death. After a series of horrific revelations, apparently ghostly appearances and violent deaths, the young man becomes strapped to the titular torture device by his lunatic brother-in-law during t",
        "page": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
        "id": "pit-and-the-pendulum-1961_202510",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Hercules in the Haunted World (1961)",
+       "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
+       "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
+       "date": "1961-01-01",
+       "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
+       "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
+       "id": "hercules.-in.-the.-haunted.-world.-1961",
        "duration": null,
        "resolve": "archive"
       },
@@ -5942,17 +5942,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Monster of Piedras Blancas (1959)",
-       "logo": "https://archive.org/services/img/the.monster.of.piedras.blancas.1959",
-       "url": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
-       "date": "1959-01-01",
-       "plot": "The Monster of Piedras Blancas is a 1959 American horror film directed by Irvin Berwick. The story is set in a small California town where a lighthouse keeper, Sturges, is worried about his daughter and the safety of the community. He believes a sea monster, which he has been feeding, is responsible for a series of gruesome murders. As bodies begin to wash ashore, a local scientist identifies a scale from the creature, leading to a confrontation with the monster.",
-       "page": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
-       "id": "the.monster.of.piedras.blancas.1959",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Tingler (1959)",
        "logo": "https://archive.org/services/img/the-tingler-1959_202510",
        "url": "https://archive.org/details/the-tingler-1959_202510",
@@ -5960,6 +5949,17 @@
        "plot": "The Tingler is a 1959 American horror film produced and directed by William Castle. It is the third of five collaborations between Castle and writer Robb White, and starring Vincent Price. It follows a pathologist, Dr. Warren Chapin, who discovers a parasitic creature called the \"tingler\" that grows stronger when its host experiences fear. The plot unfolds as he investigates the death of a mute woman who cannot scream, leading to a series of terrifying events involving the creature that ultimately escapes into a movie theater, where chaos ensues as the audience must scream to survive.",
        "page": "https://archive.org/details/the-tingler-1959_202510",
        "id": "the-tingler-1959_202510",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Monster of Piedras Blancas (1959)",
+       "logo": "https://archive.org/services/img/the.monster.of.piedras.blancas.1959",
+       "url": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
+       "date": "1959-01-01",
+       "plot": "The Monster of Piedras Blancas is a 1959 American horror film directed by Irvin Berwick. The story is set in a small California town where a lighthouse keeper, Sturges, is worried about his daughter and the safety of the community. He believes a sea monster, which he has been feeding, is responsible for a series of gruesome murders. As bodies begin to wash ashore, a local scientist identifies a scale from the creature, leading to a confrontation with the monster.",
+       "page": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
+       "id": "the.monster.of.piedras.blancas.1959",
        "duration": null,
        "resolve": "archive"
       },
@@ -8964,17 +8964,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Night Tide (1961)",
-       "logo": "https://archive.org/services/img/NightTide1961",
-       "url": "https://archive.org/details/NightTide1961",
-       "date": null,
-       "plot": "Dennis Hopper as a sailor who falls for a girl who works as a mermaid in a sideshow. Is she human or really a sea creature?",
-       "page": "https://archive.org/details/NightTide1961",
-       "id": "NightTide1961",
-       "duration": "1:25:09",
-       "resolve": "archive"
-      },
-      {
        "name": "White Zombie (1932)",
        "logo": "https://archive.org/services/img/WhiteZombie1932",
        "url": "https://archive.org/details/WhiteZombie1932",
@@ -8983,6 +8972,17 @@
        "page": "https://archive.org/details/WhiteZombie1932",
        "id": "WhiteZombie1932",
        "duration": "1:05:22",
+       "resolve": "archive"
+      },
+      {
+       "name": "Night Tide (1961)",
+       "logo": "https://archive.org/services/img/NightTide1961",
+       "url": "https://archive.org/details/NightTide1961",
+       "date": null,
+       "plot": "Dennis Hopper as a sailor who falls for a girl who works as a mermaid in a sideshow. Is she human or really a sea creature?",
+       "page": "https://archive.org/details/NightTide1961",
+       "id": "NightTide1961",
+       "duration": "1:25:09",
        "resolve": "archive"
       },
       {
@@ -9041,17 +9041,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Bat (1926)",
-       "logo": "https://archive.org/services/img/TheBat1926",
-       "url": "https://archive.org/details/TheBat1926",
-       "date": null,
-       "plot": "A Silent film based upon the Broadway play by Mary Roberts Rinehart and Avery Hopwood, this Silent Gem was directed by Roland West in 1926, later being Remade as the Bat Whispers in 1930 (by Roland West) and again in 1958 in the Bat starring Vincent Price, also available at the Archive. Oh, and when I say silent, I mean silent - this was transferred from a 16mm print and was probably meant to be played with live musical accompaniment. SYNOPSIS: The Bat, a masked criminal, terrorises a mansion filled with the guests of a mystery writer, a mansion in which a robber has hidden $20,000 of Stolen m",
-       "page": "https://archive.org/details/TheBat1926",
-       "id": "TheBat1926",
-       "duration": "1:25:34",
-       "resolve": "archive"
-      },
-      {
        "name": "Eyes Without a Face - Les yeux sans visage (restored, uncut) (1960, France, horror, imdb score: 7.7)",
        "logo": "https://archive.org/services/img/eyes-without-a-face-1960-restored-720p-hd",
        "url": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
@@ -9060,6 +9049,17 @@
        "page": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
        "id": "eyes-without-a-face-1960-restored-720p-hd",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Bat (1926)",
+       "logo": "https://archive.org/services/img/TheBat1926",
+       "url": "https://archive.org/details/TheBat1926",
+       "date": null,
+       "plot": "A Silent film based upon the Broadway play by Mary Roberts Rinehart and Avery Hopwood, this Silent Gem was directed by Roland West in 1926, later being Remade as the Bat Whispers in 1930 (by Roland West) and again in 1958 in the Bat starring Vincent Price, also available at the Archive. Oh, and when I say silent, I mean silent - this was transferred from a 16mm print and was probably meant to be played with live musical accompaniment. SYNOPSIS: The Bat, a masked criminal, terrorises a mansion filled with the guests of a mystery writer, a mansion in which a robber has hidden $20,000 of Stolen m",
+       "page": "https://archive.org/details/TheBat1926",
+       "id": "TheBat1926",
+       "duration": "1:25:34",
        "resolve": "archive"
       },
       {
@@ -9932,17 +9932,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Count Schlockula's Shock Show Volume 11",
-       "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume11",
-       "url": "https://archive.org/details/CountSchlockulasShockShowVolume11",
-       "date": null,
-       "plot": "Greetings. The Count is Back for the Attack with Volume 11 of Shock Show. Our Creature feature is the thriller THE BOWERY AT MIDNIGHT starring Bela Lugosi. Count Schlockula compels you to enjoy the show.",
-       "page": "https://archive.org/details/CountSchlockulasShockShowVolume11",
-       "id": "CountSchlockulasShockShowVolume11",
-       "duration": "1:04:01",
-       "resolve": "archive"
-      },
-      {
        "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT - JESSE JAMES MEETS FRANKENSTEIN'S DAUGHTER & BILLY THE VID VS DRACULA",
        "logo": "https://archive.org/services/img/jjfrankbtkdrac",
        "url": "https://archive.org/details/jjfrankbtkdrac",
@@ -9951,6 +9940,17 @@
        "page": "https://archive.org/details/jjfrankbtkdrac",
        "id": "jjfrankbtkdrac",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Count Schlockula's Shock Show Volume 11",
+       "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume11",
+       "url": "https://archive.org/details/CountSchlockulasShockShowVolume11",
+       "date": null,
+       "plot": "Greetings. The Count is Back for the Attack with Volume 11 of Shock Show. Our Creature feature is the thriller THE BOWERY AT MIDNIGHT starring Bela Lugosi. Count Schlockula compels you to enjoy the show.",
+       "page": "https://archive.org/details/CountSchlockulasShockShowVolume11",
+       "id": "CountSchlockulasShockShowVolume11",
+       "duration": "1:04:01",
        "resolve": "archive"
       },
       {
