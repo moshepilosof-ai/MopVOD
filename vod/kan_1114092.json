@@ -1,0 +1,148 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - חוגגים 75 ליוני רכטר",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/archive1/projects/p-1114092/",
+   "series_id": "1114092",
+   "updated": "2026-11-17 12:29",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "טלתרום | הכבש השישה עשר",
+       "logo": "https://www.kan.org.il/media/dd3h4sia/keves-16.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_768vw1c1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-11",
+       "plot": "כוכבי האלבום המיתולוגי, שעליו גדל דור שלם של ילדים, מבצעים על הבמה את השירים \"גן סגור\" ו\"כשנסענו העירה לבקר את דוד אפרים\" בערב התרמה למען ילדי קמבודיה",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1118201/",
+       "id": "1118201",
+       "season": 2
+      },
+      {
+       "name": "אפשרויות נוספות | משירי יוני רכטר ועלי מוהר",
+       "logo": "https://www.kan.org.il/media/fdenexvr/yoni_ali.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262154/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-04",
+       "plot": "תוכנית מיוחדת המוקדשת לשיתוף הפעולה של שני היוצרים שיצרו אינסוף קלאסיקות אהובות",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1115891/",
+       "id": "1115891",
+       "season": 2
+      },
+      {
+       "name": "חמוש במשקפיים | זו אותה האהבה",
+       "logo": "https://www.kan.org.il/media/x15dqnqd/bb00618386.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261458/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "מלווה בפסנתר את אריק אינשטיין בשיר המרגש \"זו אותה האהבה\" שכתב אריק והלחין יוני",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1115266/",
+       "id": "1115266",
+       "season": 2
+      },
+      {
+       "name": "העיקר זה הרומנטיקה | משירי יוני רכטר",
+       "logo": "https://www.kan.org.il/media/pqucxs54/yonir.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_353to5vv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "מופע משיריו של יוני רכטר - שמארח את גידי גוב, יהודית רביץ, מזי כהן, חיים צינוביץ' ועוד",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1114813/",
+       "id": "1114813",
+       "season": 2
+      },
+      {
+       "name": "זהו זה | עוגן הרם",
+       "logo": "https://www.kan.org.il/media/vauo5l4k/עוגן-הרם.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4j1lwf68/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "בספיישל פורים בסירה עם שלושת כוכבי \"זהו זה\" - שלמה בראבא, גידי גוב ודבל'ה גליקמן, מבצע את \"עוגן הרם\"",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1114812/",
+       "id": "1114812",
+       "season": 2
+      },
+      {
+       "name": "עוד להיט | שוב היא כאן",
+       "logo": "https://www.kan.org.il/media/psdefmjq/יוני-רכטר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0qkg87la/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "הופעה משולבת של שירה ופסנתר, מתוך \"עוד להיט\"",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1114811/",
+       "id": "1114811",
+       "season": 2
+      },
+      {
+       "name": "ערב שירי משוררים | הרחובות ממריאים לאט",
+       "logo": "https://www.kan.org.il/media/snimmcec/bb05008769.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260974/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "יחד עם שם טוב לוי מבצע את ״הרחובות ממריאים לאט״, למילותיו של המשורר דוד אבידן, בליווי הרכב נגנים. את הביצוע מקדים המנחה אילי גורליצקי בקטע מקדים על רחובות תל אביב ועל השיר",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1114767/",
+       "id": "1114767",
+       "season": 2
+      },
+      {
+       "name": "ערב אלכסנדר פן | שיר ערש",
+       "logo": "https://www.kan.org.il/media/4sintt3f/ui28504736.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260972/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "יוני רכטר מלווה בפסנתר את יהודית רביץ בביצוע ל״שיר ערש״ (״נומי דומי״), שהלחינה רביץ למילותיו של המשורר אלכסנדר פן",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1114765/",
+       "id": "1114765",
+       "season": 2
+      },
+      {
+       "name": "זמרת הארץ | פזמון ליקינטון",
+       "logo": "https://www.kan.org.il/media/0xhf4ire/oi15301515.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260971/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "בתוכנית המוקדשת לשיריה של לאה גולדברג, מבצע בשירה ובפסנתר את ״פזמון ליקינתון״, שהלחינה רבקה גווילי, בעיבוד משלו ובליווי הרכב נגנים, וגם אהוד מנור על השיר האהוב, המלווה דורות של ילדים ומבוגרים",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1114763/",
+       "id": "1114763",
+       "season": 2
+      },
+      {
+       "name": "חתימה טובה | עם אסתר עופרים",
+       "logo": "https://www.kan.org.il/media/nn4nv1fz/db05766784.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260219/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "מלווה בפסנתר את אסתר עופרים בביצועים לשירים ״ואולי״ למילות רחל המשוררת, ״התרגעות״ למילות יהודה קרני ו״ציוניוני הדרך״ למילות רבי יהודה הלוי, במסגרת תוכנית מיוחדת לכבוד ביקורו של נשיא מצרים אנואר סאדאת בישראל",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s2/1114751/",
+       "id": "1114751",
+       "season": 2
+      }
+     ]
+    },
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עד פופ | חייו מלאי שיר",
+       "logo": "https://www.kan.org.il/media/0pgmd2f3/fb10211224.png",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2260222/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-01",
+       "plot": "אהוד מנור מארח את יוני רכטר לשיחה על אהבתו למוזיקה הקלאסית ולג'אז, על חלומו להיות פסנתרן ג'אז ועל שיתופי הפעולה עם אריק איינשטיין וגידי גוב. משתף בתהליך ההלחנה של ״עטור מצחך זהב שחור״, ומספר על ההשפעות שעיצבו את דרכו המוזיקלית. טעימות מנכסי צאן הברזל  ״הימים חולפים״, ״עטור מצחך זהב שחור״ ו״שטח ההפקר״",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/s1/1114754/",
+       "id": "1114754",
+       "season": 1
+      }
+     ]
+    },
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "חגיגות 75 ליוני רכטר | טריילר",
+       "logo": "https://www.kan.org.il/media/drlomu3c/1920x1080-no-logo_יוני-רכטר.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2262144/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-04",
+       "plot": "חגיגות 75 ליוני רכטר | טריילר",
+       "page": "https://www.kan.org.il/content/archive1/projects/p-1114092/1115926/",
+       "id": "1115926"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
