@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/classic_tv",
    "program_url": "https://archive.org/details/classic_tv",
-   "updated": "2026-11-17 10:03",
+   "updated": "2026-11-18 09:39",
    "sub_categories": [
     {
      "name": "2020-2029",
@@ -801,17 +801,6 @@
        "resolve": "archive"
       },
       {
-       "name": "On the Air (1992)",
-       "logo": "https://archive.org/services/img/on-the-air-s-01e-01-e-03",
-       "url": "https://archive.org/details/on-the-air-s-01e-01-e-03",
-       "date": "1992-01-01",
-       "plot": "On the Air is an American television sitcom created by Mark Frost and David Lynch . It was broadcast from June 20 to July 4, 1992 on the American Broadcasting Company (ABC). The series follows the staff of a fictional 1950s television network, Zoblotnick Broadcasting Company (ZBC), as they produce a live variety program called The Lester Guy Show —often with disastrous results. On the Air was produced by Lynch/Frost Productions and followed Lynch and Frost's previous series, Twin Peaks . In the United States only three of the seven filmed episodes were aired, [1] but the first-and-only season ",
-       "page": "https://archive.org/details/on-the-air-s-01e-01-e-03",
-       "id": "on-the-air-s-01e-01-e-03",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "ALL MY CHILDREN 1992 #01 Jan thru May (16.8 GB)",
        "logo": "https://archive.org/services/img/AllMyChildren199201JanThruMay16.8Gb",
        "url": "https://archive.org/details/AllMyChildren199201JanThruMay16.8Gb",
@@ -823,6 +812,17 @@
        "resolve": "archive"
       },
       {
+       "name": "On the Air (1992)",
+       "logo": "https://archive.org/services/img/on-the-air-s-01e-01-e-03",
+       "url": "https://archive.org/details/on-the-air-s-01e-01-e-03",
+       "date": "1992-01-01",
+       "plot": "On the Air is an American television sitcom created by Mark Frost and David Lynch . It was broadcast from June 20 to July 4, 1992 on the American Broadcasting Company (ABC). The series follows the staff of a fictional 1950s television network, Zoblotnick Broadcasting Company (ZBC), as they produce a live variety program called The Lester Guy Show —often with disastrous results. On the Air was produced by Lynch/Frost Productions and followed Lynch and Frost's previous series, Twin Peaks . In the United States only three of the seven filmed episodes were aired, [1] but the first-and-only season ",
+       "page": "https://archive.org/details/on-the-air-s-01e-01-e-03",
+       "id": "on-the-air-s-01e-01-e-03",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Playboy Inside Out 3",
        "logo": "https://archive.org/services/img/playboy-inside-out-3",
        "url": "https://archive.org/details/playboy-inside-out-3",
@@ -830,6 +830,17 @@
        "plot": "Episode 3 of Playboy’s more dramatic softcore vignette series, starring Alison Brooks, Elizabeth Burr, Marianna Elliott, Julie Gray, Marilyn Hassett, Elizabeth Burr, Roxanna Micheals, Whitney Weston, Alex Datcher, Bianca Rossini, and Cary La Salle. (1) \"Dogs Playing Poker\"-An art dealer plays a game of high-stakes poker. (2) \"The Branding\"-A married sound editor on location for a movie in Europe is mugged and ends up cheating on his wife. (3) \"The Portal\"-A group of old people think they've stumbled on the fountain of youth. (4) \"The Perfect Woman\"-A desperate guy calls a 1 900 number looking ",
        "page": "https://archive.org/details/playboy-inside-out-3",
        "id": "playboy-inside-out-3",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Playboy Inside Out 1",
+       "logo": "https://archive.org/services/img/playboy-inside-out-1",
+       "url": "https://archive.org/details/playboy-inside-out-1",
+       "date": "1992-01-01",
+       "plot": "Episode 1 of Playboy’s more dramatic softcore vignette series, starring Barbara Alyn Woods, Cee Verrell, Marta Kober, Sherrie Rose, Chana Jael Chiesa, Kimberly Ryusaki, Neith Hunter, Serina Robinson, and Marie Chambers. Brush Strokes, story 1, is about a painter who chooses to paint a nude Terry (Barbara Alyn Woods). In Shrink Rap, Beth Hogan tells her Psychiatrist about a rape fantasy she has. In Doubletalk, Marta Kober and her co-star go on a date and go back to his place where they speak their thoughts. In Leda, an outer space prison ship features Sherri Rose cheating on her computer lover.",
+       "page": "https://archive.org/details/playboy-inside-out-1",
+       "id": "playboy-inside-out-1",
        "duration": null,
        "resolve": "archive"
       },
@@ -1286,6 +1297,17 @@
        "plot": "UK police drama The Bill, complete seasons 1 to 26. Some recorded from UK TV boardcasts, others gathered from various sources. Note that a few episodes are edited for content on daytime TV, and will be replaced by uncensored versions when they become available. The Bill is a British police procedural television series, first broadcast on ITV from 16 October 1984 until 31 August 2010. The programme originated from a one-off drama, Woodentop , broadcast in August 1983. The programme focused on the lives and work of one shift of police officers of all ranks, and the storylines dealt with situatio",
        "page": "https://archive.org/details/the-bill-complete-series-1-to-26",
        "id": "the-bill-complete-series-1-to-26",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Tripods - Complete Series 1984",
+       "logo": "https://archive.org/services/img/tripods-s-02-e-01",
+       "url": "https://archive.org/details/tripods-s-02-e-01",
+       "date": "1984-09-15",
+       "plot": "The Tripods is a television adaptation of John Christopher 's The Tripods series of novels. It was jointly produced by the BBC in the United Kingdom and the Seven Network in Australia. The music soundtrack was written by Ken Freeman . Series one of The Tripods , broadcast in 1984, had 13 half-hour episodes written by Alick Rowe , the author of many radio plays, and covers the first book, The White Mountains ; the 12-episode second series (1985) written by Christopher Penfold covers The City of Gold and Lead . Although a television script had been written for the third series, it was cancelled ",
+       "page": "https://archive.org/details/tripods-s-02-e-01",
+       "id": "tripods-s-02-e-01",
        "duration": null,
        "resolve": "archive"
       },
@@ -2873,6 +2895,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Lucy Show (The Complete Series) [1962 - 1968]",
+       "logo": "https://archive.org/services/img/the-lucy-show-the-complete-series-1962-1968-DVD",
+       "url": "https://archive.org/details/the-lucy-show-the-complete-series-1962-1968-DVD",
+       "date": "1962-10-01",
+       "plot": "The Lucy Show is an American sitcom that aired on CBS from 1962 to 1968. It was Lucille Ball's follow-up to I Love Lucy. A significant change in cast and premise for the fourth season (1965–1966) divides the program into two distinct eras; aside from Ball, only Gale Gordon, who joined the program for its second season, remained. For the first three seasons, Vivian Vance was the co-star. The original premise of the series was that widow Lucy Carmichael lives in the fictional town of Danfield, New York with her teenage daughter Chris and younger son Jerry, with her divorced friend Vivian \"Viv\" B",
+       "page": "https://archive.org/details/the-lucy-show-the-complete-series-1962-1968-DVD",
+       "id": "the-lucy-show-the-complete-series-1962-1968-DVD",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Steptoe and Son - 1x05 - The Holiday",
        "logo": "https://archive.org/services/img/SteptoeAndSon1x05",
        "url": "https://archive.org/details/SteptoeAndSon1x05",
@@ -3281,17 +3314,6 @@
        "plot": "Episode of the classic sci-fi/mystery show. Episode details : http://www.imdb.com/title/tt0507817/",
        "page": "https://archive.org/details/OneStepBeyondTheDream",
        "id": "OneStepBeyondTheDream",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Mike Wallace Interview featuring Rod Serling",
-       "logo": "https://archive.org/services/img/The_Mike_Wallace_Interview___Rod_Serling",
-       "url": "https://archive.org/details/The_Mike_Wallace_Interview___Rod_Serling",
-       "date": "1959-01-01",
-       "plot": "An Episode of The Mike Wallace Interview featuring Rod Serling.",
-       "page": "https://archive.org/details/The_Mike_Wallace_Interview___Rod_Serling",
-       "id": "The_Mike_Wallace_Interview___Rod_Serling",
        "duration": null,
        "resolve": "archive"
       },
@@ -5572,17 +5594,6 @@
        "resolve": "archive"
       },
       {
-       "name": "A Wife For Andy",
-       "logo": "https://archive.org/services/img/Andy_Griffith_A_Wife_For_Andy",
-       "url": "https://archive.org/details/Andy_Griffith_A_Wife_For_Andy",
-       "date": null,
-       "plot": "Andy Griffith Episode A Wife For Andy",
-       "page": "https://archive.org/details/Andy_Griffith_A_Wife_For_Andy",
-       "id": "Andy_Griffith_A_Wife_For_Andy",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Doctor Who S03 (1965-1966)",
        "logo": "https://archive.org/services/img/doctorwho_s03_v2",
        "url": "https://archive.org/details/doctorwho_s03_v2",
@@ -5590,6 +5601,17 @@
        "plot": "Third season of Doctor Who with the First Doctor.",
        "page": "https://archive.org/details/doctorwho_s03_v2",
        "id": "doctorwho_s03_v2",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "A Wife For Andy",
+       "logo": "https://archive.org/services/img/Andy_Griffith_A_Wife_For_Andy",
+       "url": "https://archive.org/details/Andy_Griffith_A_Wife_For_Andy",
+       "date": null,
+       "plot": "Andy Griffith Episode A Wife For Andy",
+       "page": "https://archive.org/details/Andy_Griffith_A_Wife_For_Andy",
+       "id": "Andy_Griffith_A_Wife_For_Andy",
        "duration": null,
        "resolve": "archive"
       },
@@ -6001,6 +6023,17 @@
        "resolve": "archive"
       },
       {
+       "name": "LIS",
+       "logo": "https://archive.org/services/img/L_I_S",
+       "url": "https://archive.org/details/L_I_S",
+       "date": null,
+       "plot": "LIS",
+       "page": "https://archive.org/details/L_I_S",
+       "id": "L_I_S",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Lucy and the RingaDing Ring",
        "logo": "https://archive.org/services/img/TLS_Lucy_And_The_RingaDing_Ring",
        "url": "https://archive.org/details/TLS_Lucy_And_The_RingaDing_Ring",
@@ -6052,17 +6085,6 @@
        "plot": "Annie Oakley Ep. Sharp Shootin' Annie",
        "page": "https://archive.org/details/Annie_Oakley_Sharp_Shootin_Annie",
        "id": "Annie_Oakley_Sharp_Shootin_Annie",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "LIS",
-       "logo": "https://archive.org/services/img/L_I_S",
-       "url": "https://archive.org/details/L_I_S",
-       "date": null,
-       "plot": "LIS",
-       "page": "https://archive.org/details/L_I_S",
-       "id": "L_I_S",
        "duration": null,
        "resolve": "archive"
       },
@@ -6419,17 +6441,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Outer Limits - Complete Season 1 (32 Episodes) (restored. colorized) (1963, TV Series)",
-       "logo": "https://archive.org/services/img/the-outer-limits-s-1e-1-1963-colorized",
-       "url": "https://archive.org/details/the-outer-limits-s-1e-1-1963-colorized",
-       "date": null,
-       "plot": "The Outer Limits is an American television series that was broadcast on ABC . It is often compared to The Twilight Zone , but with a greater emphasis on science fiction stories (rather than stories of fantasy or the supernatural ). It is an anthology of self-contained episodes, sometimes with plot twists at their ends. In 1997, the episode \" The Zanti Misfits \" was ranked #98 on TV Guide's 100 Greatest Episodes of All Time. It was revived in 1995 , until its cancellation in 2002. In April 2019, a new revival was stated to be in development at a premium cable network. (Source: Wikipedia)",
-       "page": "https://archive.org/details/the-outer-limits-s-1e-1-1963-colorized",
-       "id": "the-outer-limits-s-1e-1-1963-colorized",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Classic Commercial for Post's Sugar Crisps",
        "logo": "https://archive.org/services/img/Sugar_Crisps_Ad1",
        "url": "https://archive.org/details/Sugar_Crisps_Ad1",
@@ -6481,6 +6492,17 @@
        "plot": "The Lucy Show ep Main Street USA",
        "page": "https://archive.org/details/TLS_Main_Street_U_S_A",
        "id": "TLS_Main_Street_U_S_A",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Outer Limits - Complete Season 1 (32 Episodes) (restored. colorized) (1963, TV Series)",
+       "logo": "https://archive.org/services/img/the-outer-limits-s-1e-1-1963-colorized",
+       "url": "https://archive.org/details/the-outer-limits-s-1e-1-1963-colorized",
+       "date": null,
+       "plot": "The Outer Limits is an American television series that was broadcast on ABC . It is often compared to The Twilight Zone , but with a greater emphasis on science fiction stories (rather than stories of fantasy or the supernatural ). It is an anthology of self-contained episodes, sometimes with plot twists at their ends. In 1997, the episode \" The Zanti Misfits \" was ranked #98 on TV Guide's 100 Greatest Episodes of All Time. It was revived in 1995 , until its cancellation in 2002. In April 2019, a new revival was stated to be in development at a premium cable network. (Source: Wikipedia)",
+       "page": "https://archive.org/details/the-outer-limits-s-1e-1-1963-colorized",
+       "id": "the-outer-limits-s-1e-1-1963-colorized",
        "duration": null,
        "resolve": "archive"
       },
@@ -6815,17 +6837,6 @@
        "resolve": "archive"
       },
       {
-       "name": "BATMAN S3 E1 \"Enter Batgirl, Exit Penguin\"",
-       "logo": "https://archive.org/services/img/batman31",
-       "url": "https://archive.org/details/batman31",
-       "date": null,
-       "plot": "S3 E1 \"Enter Batgirl Exit Penguin\" Watch and Download all episodes! https://m4uhd.tv/watch-tvseries-batman-19661968-228671.html Direct Downloads! SEASON 1 https://streamm4u.club/f/myeg8a5-6wxen84 https://streamm4u.club/f/j-my8bdg28163g6 https://streamm4u.club/f/13k01bj2klzq2ry https://streamm4u.club/f/z7ek8ijgk8genp3 https://streamm4u.club/f/z7ek8ijgk8gk7py https://streamm4u.club/f/36ypzbmx3n0yrqg https://streamm4u.club/f/x4zpwi58kelx67l https://streamm4u.club/f/47z2miz6ndkyng- https://streamm4u.club/f/24zrki20jgl3jey https://streamm4u.club/f/w3kr8bngr5jll5j https://streamm4u.club/f/qyp38aeg3z",
-       "page": "https://archive.org/details/batman31",
-       "id": "batman31",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Dragnet The Big Betty",
        "logo": "https://archive.org/services/img/DragnetTheBigBetty",
        "url": "https://archive.org/details/DragnetTheBigBetty",
@@ -6833,6 +6844,17 @@
        "plot": "Dragnet is an American television series, enacting the cases of a dedicated Los Angeles police Detective, Sergeant Joe Friday, and his partners. The series is a spin off from the radio play of the same name. Both shows take their names from the police term \"dragnet\", meaning a system of coordinated measures for apprehending criminals or suspects. The ominous, four-note introduction to the brass and tympani theme music (titled \"Danger Ahead\") is instantly recognizable (though its origins date to Miklós Rózsa's score for the 1946 film version of The Killers). After its success on radio Dragnet w",
        "page": "https://archive.org/details/DragnetTheBigBetty",
        "id": "DragnetTheBigBetty",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "BATMAN S3 E1 \"Enter Batgirl, Exit Penguin\"",
+       "logo": "https://archive.org/services/img/batman31",
+       "url": "https://archive.org/details/batman31",
+       "date": null,
+       "plot": "S3 E1 \"Enter Batgirl Exit Penguin\" Watch and Download all episodes! https://m4uhd.tv/watch-tvseries-batman-19661968-228671.html Direct Downloads! SEASON 1 https://streamm4u.club/f/myeg8a5-6wxen84 https://streamm4u.club/f/j-my8bdg28163g6 https://streamm4u.club/f/13k01bj2klzq2ry https://streamm4u.club/f/z7ek8ijgk8genp3 https://streamm4u.club/f/z7ek8ijgk8gk7py https://streamm4u.club/f/36ypzbmx3n0yrqg https://streamm4u.club/f/x4zpwi58kelx67l https://streamm4u.club/f/47z2miz6ndkyng- https://streamm4u.club/f/24zrki20jgl3jey https://streamm4u.club/f/w3kr8bngr5jll5j https://streamm4u.club/f/qyp38aeg3z",
+       "page": "https://archive.org/details/batman31",
+       "id": "batman31",
        "duration": null,
        "resolve": "archive"
       },
@@ -6881,17 +6903,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bas les masques - Heliomonde - 1993",
-       "logo": "https://archive.org/services/img/1993-mireille-dumas-heliomonde",
-       "url": "https://archive.org/details/1993-mireille-dumas-heliomonde",
-       "date": null,
-       "plot": "1993 mireille dumas heliomonde",
-       "page": "https://archive.org/details/1993-mireille-dumas-heliomonde",
-       "id": "1993-mireille-dumas-heliomonde",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Twilight Zone – Complete Season 2 (29 episodes) (restored, colorized) (1960, TV series)",
        "logo": "https://archive.org/services/img/the-twilight-zone-s-2-e-1-colorized-720p-hd",
        "url": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
@@ -6899,6 +6910,17 @@
        "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
        "page": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
        "id": "the-twilight-zone-s-2-e-1-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Bas les masques - Heliomonde - 1993",
+       "logo": "https://archive.org/services/img/1993-mireille-dumas-heliomonde",
+       "url": "https://archive.org/details/1993-mireille-dumas-heliomonde",
+       "date": null,
+       "plot": "1993 mireille dumas heliomonde",
+       "page": "https://archive.org/details/1993-mireille-dumas-heliomonde",
+       "id": "1993-mireille-dumas-heliomonde",
        "duration": null,
        "resolve": "archive"
       },
@@ -6936,17 +6958,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Ironside Season 4",
-       "logo": "https://archive.org/services/img/ironsideS04",
-       "url": "https://archive.org/details/ironsideS04",
-       "date": null,
-       "plot": "The Complete Season 4 of Ironside",
-       "page": "https://archive.org/details/ironsideS04",
-       "id": "ironsideS04",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Hill street blues Season 3",
        "logo": "https://archive.org/services/img/hill.street.blues.s-03",
        "url": "https://archive.org/details/hill.street.blues.s-03",
@@ -6954,6 +6965,17 @@
        "plot": "The Complete Third Season",
        "page": "https://archive.org/details/hill.street.blues.s-03",
        "id": "hill.street.blues.s-03",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Ironside Season 4",
+       "logo": "https://archive.org/services/img/ironsideS04",
+       "url": "https://archive.org/details/ironsideS04",
+       "date": null,
+       "plot": "The Complete Season 4 of Ironside",
+       "page": "https://archive.org/details/ironsideS04",
+       "id": "ironsideS04",
        "duration": null,
        "resolve": "archive"
       },
@@ -7156,6 +7178,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Hill street blues Season 5",
+       "logo": "https://archive.org/services/img/hill.street.blues.s-05",
+       "url": "https://archive.org/details/hill.street.blues.s-05",
+       "date": null,
+       "plot": "The Complete Season 5",
+       "page": "https://archive.org/details/hill.street.blues.s-05",
+       "id": "hill.street.blues.s-05",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Twilight Zone 1985 S01",
        "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
        "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
@@ -7178,13 +7211,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Hill street blues Season 5",
-       "logo": "https://archive.org/services/img/hill.street.blues.s-05",
-       "url": "https://archive.org/details/hill.street.blues.s-05",
+       "name": "Hill street blues season 4",
+       "logo": "https://archive.org/services/img/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "url": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
        "date": null,
-       "plot": "The Complete Season 5",
-       "page": "https://archive.org/details/hill.street.blues.s-05",
-       "id": "hill.street.blues.s-05",
+       "plot": "The complete Season 4",
+       "page": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "id": "hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
        "duration": null,
        "resolve": "archive"
       },
@@ -7255,17 +7288,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Hill street blues season 4",
-       "logo": "https://archive.org/services/img/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
-       "url": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
-       "date": null,
-       "plot": "The complete Season 4",
-       "page": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
-       "id": "hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "'Tales of Tomorrow' - Blunder (1951)",
        "logo": "https://archive.org/services/img/talesOfTomorrow-Blunder1951",
        "url": "https://archive.org/details/talesOfTomorrow-Blunder1951",
@@ -7273,17 +7295,6 @@
        "plot": "Episode \"Blunder\" of the \"Live\" 50's TV series 'Tales of Tomorrow'. This episode originally aired 10 August 1951 (Season 1, Episode 2). Cast: Robert Allen, Ann Loring Directed by: Leonard Valenta Complete with original commercials.",
        "page": "https://archive.org/details/talesOfTomorrow-Blunder1951",
        "id": "talesOfTomorrow-Blunder1951",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Man with a Camera (1958-1960 TV series)",
-       "logo": "https://archive.org/services/img/manwithacamera_202002",
-       "url": "https://archive.org/details/manwithacamera_202002",
-       "date": null,
-       "plot": "Public domain episodes of the TV series starring Charles Bronson. From IMDb: Former combat cameraman Mike Kovac is now a freelance photographer in New York City, specializing in difficult and dangerous assignments where he can get the kinds of pictures that other photographers can't, or won't take. He sometimes gets help, often reluctantly, from his contact in the police department, Lt. Donovan, and advice from his immigrant father Anton.",
-       "page": "https://archive.org/details/manwithacamera_202002",
-       "id": "manwithacamera_202002",
        "duration": null,
        "resolve": "archive"
       },
@@ -7299,6 +7310,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Man with a Camera (1958-1960 TV series)",
+       "logo": "https://archive.org/services/img/manwithacamera_202002",
+       "url": "https://archive.org/details/manwithacamera_202002",
+       "date": null,
+       "plot": "Public domain episodes of the TV series starring Charles Bronson. From IMDb: Former combat cameraman Mike Kovac is now a freelance photographer in New York City, specializing in difficult and dangerous assignments where he can get the kinds of pictures that other photographers can't, or won't take. He sometimes gets help, often reluctantly, from his contact in the police department, Lt. Donovan, and advice from his immigrant father Anton.",
+       "page": "https://archive.org/details/manwithacamera_202002",
+       "id": "manwithacamera_202002",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Hotel (1983-1988) complete series",
        "logo": "https://archive.org/services/img/hotel_202312",
        "url": "https://archive.org/details/hotel_202312",
@@ -7306,17 +7328,6 @@
        "plot": ".",
        "page": "https://archive.org/details/hotel_202312",
        "id": "hotel_202312",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Twilight Zone – Complete Season 3 (37 episodes) (restored, colorized) (1961, TV series)",
-       "logo": "https://archive.org/services/img/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "url": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "date": null,
-       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
-       "page": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "id": "the-twilight-zone-s-3e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7339,6 +7350,17 @@
        "plot": "The Beverly Hillbillies Ep 50 Christmas At The Clampetts",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep50__Christmas_At_The_Clampetts",
        "id": "Beverly_Hillbillies_Ep50__Christmas_At_The_Clampetts",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Twilight Zone – Complete Season 3 (37 episodes) (restored, colorized) (1961, TV series)",
+       "logo": "https://archive.org/services/img/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "url": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "date": null,
+       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
+       "page": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "id": "the-twilight-zone-s-3e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7552,17 +7574,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Pygmalion And Elly",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep10 Pygmalion And Elly",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
-       "id": "Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Buck Rogers season 2",
        "logo": "https://archive.org/services/img/buck-rogers-s-2-episode-06-the-golden-man-3",
        "url": "https://archive.org/details/buck-rogers-s-2-episode-06-the-golden-man-3",
@@ -7570,6 +7581,17 @@
        "plot": "Season 2 of buck Rogers .",
        "page": "https://archive.org/details/buck-rogers-s-2-episode-06-the-golden-man-3",
        "id": "buck-rogers-s-2-episode-06-the-golden-man-3",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Pygmalion And Elly",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep10 Pygmalion And Elly",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
+       "id": "Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
        "duration": null,
        "resolve": "archive"
       },
@@ -7592,17 +7614,6 @@
        "plot": "Beverly Hillbillies Ep15 Jed Rescues Pearl",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep15_Jed_Rescues_Pearl",
        "id": "Beverly_Hillbillies_Ep15_Jed_Rescues_Pearl",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Thriller (1960) - Complete Series",
-       "logo": "https://archive.org/services/img/s-01-e-26-papa-benjamin",
-       "url": "https://archive.org/details/s-01-e-26-papa-benjamin",
-       "date": null,
-       "plot": "Thriller (1960) - Complete Series - All 67 episodes of Thriller staring Boris Karloff",
-       "page": "https://archive.org/details/s-01-e-26-papa-benjamin",
-       "id": "s-01-e-26-papa-benjamin",
        "duration": null,
        "resolve": "archive"
       },
@@ -7651,17 +7662,6 @@
        "resolve": "archive"
       },
       {
-       "name": "BBC Television received in New York - November 1938",
-       "logo": "https://archive.org/services/img/BbcTelevisionReceivedInNewYork-1938",
-       "url": "https://archive.org/details/BbcTelevisionReceivedInNewYork-1938",
-       "date": null,
-       "plot": "The four-minute compilation from 1938 exists only because of a technological fluke and the enthusiasm of two television buffs, one in Britain and the other in America where, thanks to freak atmospheric conditions, it was picked up and recorded on a cine camera placed in front of a television screen as the images came in. Andrew Emmerson, the British enthusiast, spent five years tracking down the recording and believes it is the only surviving example of pre-war live high-definition British television. The flickering black-and-white footage includes Jasmine Bligh, one of the original BBC announ",
-       "page": "https://archive.org/details/BbcTelevisionReceivedInNewYork-1938",
-       "id": "BbcTelevisionReceivedInNewYork-1938",
-       "duration": "3:18",
-       "resolve": "archive"
-      },
-      {
        "name": "Alfred Hitchcock Presents - Complete Season 1 (39 Episodes) (restored, colorized) (1955, TV series)",
        "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
        "url": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
@@ -7673,13 +7673,24 @@
        "resolve": "archive"
       },
       {
-       "name": "The Golden Palace",
-       "logo": "https://archive.org/services/img/the-golden-palace",
-       "url": "https://archive.org/details/the-golden-palace",
+       "name": "BBC Television received in New York - November 1938",
+       "logo": "https://archive.org/services/img/BbcTelevisionReceivedInNewYork-1938",
+       "url": "https://archive.org/details/BbcTelevisionReceivedInNewYork-1938",
        "date": null,
-       "plot": "The Golden Palace is an American sitcom television series produced as a sequel to The Golden Girls without Bea Arthur, that originally aired on CBS from September 1992 to May 1993. Not as popular as its predecessor, the series aired for a single 24-episode season and was cancelled by CBS. The Golden Palace begins where The Golden Girls had ended, in the quartet's now-sold Miami house. With Dorothy Zbornak having married and left in the previous series finale, the three remaining roommates (Sophia Petrillo, Rose Nylund, and Blanche Devereaux) decide to invest in a Miami hotel that is up for sal",
-       "page": "https://archive.org/details/the-golden-palace",
-       "id": "the-golden-palace",
+       "plot": "The four-minute compilation from 1938 exists only because of a technological fluke and the enthusiasm of two television buffs, one in Britain and the other in America where, thanks to freak atmospheric conditions, it was picked up and recorded on a cine camera placed in front of a television screen as the images came in. Andrew Emmerson, the British enthusiast, spent five years tracking down the recording and believes it is the only surviving example of pre-war live high-definition British television. The flickering black-and-white footage includes Jasmine Bligh, one of the original BBC announ",
+       "page": "https://archive.org/details/BbcTelevisionReceivedInNewYork-1938",
+       "id": "BbcTelevisionReceivedInNewYork-1938",
+       "duration": "3:18",
+       "resolve": "archive"
+      },
+      {
+       "name": "Thriller (1960) - Complete Series",
+       "logo": "https://archive.org/services/img/s-01-e-26-papa-benjamin",
+       "url": "https://archive.org/details/s-01-e-26-papa-benjamin",
+       "date": null,
+       "plot": "Thriller (1960) - Complete Series - All 67 episodes of Thriller staring Boris Karloff",
+       "page": "https://archive.org/details/s-01-e-26-papa-benjamin",
+       "id": "s-01-e-26-papa-benjamin",
        "duration": null,
        "resolve": "archive"
       },
@@ -7691,6 +7702,17 @@
        "plot": "One Step Beyond: Dead Man's Tale Season 3 Episode 17 First Aired 1/17/1961",
        "page": "https://archive.org/details/OSB-78_Dead_Mans_Tale",
        "id": "OSB-78_Dead_Mans_Tale",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Golden Palace",
+       "logo": "https://archive.org/services/img/the-golden-palace",
+       "url": "https://archive.org/details/the-golden-palace",
+       "date": null,
+       "plot": "The Golden Palace is an American sitcom television series produced as a sequel to The Golden Girls without Bea Arthur, that originally aired on CBS from September 1992 to May 1993. Not as popular as its predecessor, the series aired for a single 24-episode season and was cancelled by CBS. The Golden Palace begins where The Golden Girls had ended, in the quartet's now-sold Miami house. With Dorothy Zbornak having married and left in the previous series finale, the three remaining roommates (Sophia Petrillo, Rose Nylund, and Blanche Devereaux) decide to invest in a Miami hotel that is up for sal",
+       "page": "https://archive.org/details/the-golden-palace",
+       "id": "the-golden-palace",
        "duration": null,
        "resolve": "archive"
       },
@@ -8256,17 +8278,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Galactica 1980",
-       "logo": "https://archive.org/services/img/s-02-e-07-e-08-tha-night-the-cylons-landed",
-       "url": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
-       "date": null,
-       "plot": "Galactica 1980 is an American science fiction television series and a spin-off from the original Battlestar Galactica television series. It was first broadcast on ABC in the United States from January 27 to May 4, 1980, lasting for 10 episodes. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use",
-       "page": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
-       "id": "s-02-e-07-e-08-tha-night-the-cylons-landed",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Big Frank",
        "logo": "https://archive.org/services/img/Dragnet_-_2x26_The_Big_Frank",
        "url": "https://archive.org/details/Dragnet_-_2x26_The_Big_Frank",
@@ -8421,6 +8432,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Dick Van Dyke Show - Season 3 of 5 - MKV",
+       "logo": "https://archive.org/services/img/the-dick-van-dyke-show-season-3-of-5-mkv",
+       "url": "https://archive.org/details/the-dick-van-dyke-show-season-3-of-5-mkv",
+       "date": null,
+       "plot": "The Dick Van Dyke Show - Season 3 of 5 - MKV Blu-Ray Source Video Size: 1440x1080 The Dick Van Dyke Show is an American television sitcom that initially aired on CBS from October 3, 1961, to June 1, 1966, with a total of 158 half-hour episodes spanning five seasons. It was produced by Calvada Productions in association with the CBS Television Network and Desilu Studios. The show was created by Carl Reiner and starred Dick Van Dyke, Rose Marie, Morey Amsterdam, Larry Mathews, and Mary Tyler Moore. It centered on the work and home life of television comedy writer Rob Petrie (Van Dyke). The show ",
+       "page": "https://archive.org/details/the-dick-van-dyke-show-season-3-of-5-mkv",
+       "id": "the-dick-van-dyke-show-season-3-of-5-mkv",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Mickey Rooney Show Misc 02",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_02",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_02",
@@ -8428,6 +8450,17 @@
        "plot": "The Mickey Rooney Show aka \"Hey Mulligan\" misc 02 I have no titles or broadcast dates for this series. If you have any Info on this show please use the reviews to add the info here.",
        "page": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_02",
        "id": "The_Mickey_Rooney_Show_Misc_ep_02",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Tales From The Darkside S01 (1983-1985) [EN]",
+       "logo": "https://archive.org/services/img/tales-from-the-darkside-s01-en",
+       "url": "https://archive.org/details/tales-from-the-darkside-s01-en",
+       "date": null,
+       "plot": "Tales from the Darkside - S01E00 - Trick or Treat (Pilot) [EN] Tales from the Darkside - S01E01 - The New Man [EN] Tales from the Darkside - S01E02 - I'll Give You a Million [EN] Tales from the Darkside - S01E03 - Pain Killer [EN] Tales from the Darkside - S01E04 - The Odds [EN] Tales from the Darkside - S01E05 - Mookie and Pookie [EN] Tales from the Darkside - S01E06 - Slippage [EN] Tales from the Darkside - S01E07 - Inside the Closet [EN] Tales from the Darkside - S01E08 - The Word Processor of the Gods [EN] Tales from the Darkside - S01E09 - A Case of the Stubborns [EN] Tales from the Darks",
+       "page": "https://archive.org/details/tales-from-the-darkside-s01-en",
+       "id": "tales-from-the-darkside-s01-en",
        "duration": null,
        "resolve": "archive"
       },
@@ -8454,6 +8487,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Galactica 1980",
+       "logo": "https://archive.org/services/img/s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "url": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "date": null,
+       "plot": "Galactica 1980 is an American science fiction television series and a spin-off from the original Battlestar Galactica television series. It was first broadcast on ABC in the United States from January 27 to May 4, 1980, lasting for 10 episodes. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use",
+       "page": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "id": "s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Evil Touch - TV Show - 1973",
        "logo": "https://archive.org/services/img/the-evil-touch-tv-show-1973",
        "url": "https://archive.org/details/the-evil-touch-tv-show-1973",
@@ -8461,17 +8505,6 @@
        "plot": "The Evil Touch - TV Show - 1973 Not complete The Evil Touch - S01E01 - The Lake (Starring Robert Lansin) (1973-09-16) Higher Quality.mp4 The Evil Touch - S01E01 - The Lake (Starring Robert Lansin) (1973-09-16).avi The Evil Touch - S01E02 - Heart to Heart (1973.09.23).avi The Evil Touch - S01E04 - The Obituary (1973.10.07).avi The Evil Touch - S01E05 - Happy New Year Aunt Carrie (1973.10.14).avi The Evil Touch - S01E06 - A Game of Hearts (1973.10.21).avi The Evil Touch - S01E08 - The Upper Hand (1973.11.04).avi The Evil Touch - S01E09 - Murder is for the Birds (1973.11.11).avi The Evil Touch - ",
        "page": "https://archive.org/details/the-evil-touch-tv-show-1973",
        "id": "the-evil-touch-tv-show-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Dick Van Dyke Show - Season 3 of 5 - MKV",
-       "logo": "https://archive.org/services/img/the-dick-van-dyke-show-season-3-of-5-mkv",
-       "url": "https://archive.org/details/the-dick-van-dyke-show-season-3-of-5-mkv",
-       "date": null,
-       "plot": "The Dick Van Dyke Show - Season 3 of 5 - MKV Blu-Ray Source Video Size: 1440x1080 The Dick Van Dyke Show is an American television sitcom that initially aired on CBS from October 3, 1961, to June 1, 1966, with a total of 158 half-hour episodes spanning five seasons. It was produced by Calvada Productions in association with the CBS Television Network and Desilu Studios. The show was created by Carl Reiner and starred Dick Van Dyke, Rose Marie, Morey Amsterdam, Larry Mathews, and Mary Tyler Moore. It centered on the work and home life of television comedy writer Rob Petrie (Van Dyke). The show ",
-       "page": "https://archive.org/details/the-dick-van-dyke-show-season-3-of-5-mkv",
-       "id": "the-dick-van-dyke-show-season-3-of-5-mkv",
        "duration": null,
        "resolve": "archive"
       },
@@ -8538,17 +8571,6 @@
        "plot": "The Big Shoplift from the 1950's series Dragnet",
        "page": "https://archive.org/details/Dragnet_The_Big_Shoplift",
        "id": "Dragnet_The_Big_Shoplift",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Tales From The Darkside S01 (1983-1985) [EN]",
-       "logo": "https://archive.org/services/img/tales-from-the-darkside-s01-en",
-       "url": "https://archive.org/details/tales-from-the-darkside-s01-en",
-       "date": null,
-       "plot": "Tales from the Darkside - S01E00 - Trick or Treat (Pilot) [EN] Tales from the Darkside - S01E01 - The New Man [EN] Tales from the Darkside - S01E02 - I'll Give You a Million [EN] Tales from the Darkside - S01E03 - Pain Killer [EN] Tales from the Darkside - S01E04 - The Odds [EN] Tales from the Darkside - S01E05 - Mookie and Pookie [EN] Tales from the Darkside - S01E06 - Slippage [EN] Tales from the Darkside - S01E07 - Inside the Closet [EN] Tales from the Darkside - S01E08 - The Word Processor of the Gods [EN] Tales from the Darkside - S01E09 - A Case of the Stubborns [EN] Tales from the Darks",
-       "page": "https://archive.org/details/tales-from-the-darkside-s01-en",
-       "id": "tales-from-the-darkside-s01-en",
        "duration": null,
        "resolve": "archive"
       },
@@ -8751,17 +8773,6 @@
        "resolve": "archive"
       },
       {
-       "name": "'Tales of Tomorrow' - What you need (1952)",
-       "logo": "https://archive.org/services/img/talesOfTomorrow-WhatYouNeed1952",
-       "url": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
-       "date": null,
-       "plot": "Episode \"What you need\" of the \"Live\" 50's TV series 'Tales of Tomorrow'. This episode originally aired 8 February 1952 (Season 1, Episode 19). Cast: Billy Redfield, Edgar Stehli Directed by: Charles S. Dubin A 1959 'Twilight Zone' episode was also based on this short story by Lewis Padgett. Complete with original commercials.",
-       "page": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
-       "id": "talesOfTomorrow-WhatYouNeed1952",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Sherlock Holmes - Case of the Blind Mans Bluff",
        "logo": "https://archive.org/services/img/SherlockHolmes-CaseOfTheBlindMansBluff",
        "url": "https://archive.org/details/SherlockHolmes-CaseOfTheBlindMansBluff",
@@ -8770,6 +8781,17 @@
        "page": "https://archive.org/details/SherlockHolmes-CaseOfTheBlindMansBluff",
        "id": "SherlockHolmes-CaseOfTheBlindMansBluff",
        "duration": "26:34",
+       "resolve": "archive"
+      },
+      {
+       "name": "'Tales of Tomorrow' - What you need (1952)",
+       "logo": "https://archive.org/services/img/talesOfTomorrow-WhatYouNeed1952",
+       "url": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
+       "date": null,
+       "plot": "Episode \"What you need\" of the \"Live\" 50's TV series 'Tales of Tomorrow'. This episode originally aired 8 February 1952 (Season 1, Episode 19). Cast: Billy Redfield, Edgar Stehli Directed by: Charles S. Dubin A 1959 'Twilight Zone' episode was also based on this short story by Lewis Padgett. Complete with original commercials.",
+       "page": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
+       "id": "talesOfTomorrow-WhatYouNeed1952",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9312,17 +9334,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bob Retrenches",
-       "logo": "https://archive.org/services/img/Love_That_Bob_Ep4x28_Bob_Retrenches",
-       "url": "https://archive.org/details/Love_That_Bob_Ep4x28_Bob_Retrenches",
-       "date": null,
-       "plot": "Love That Bob Season 4 Ep 28 Bob Retrenches",
-       "page": "https://archive.org/details/Love_That_Bob_Ep4x28_Bob_Retrenches",
-       "id": "Love_That_Bob_Ep4x28_Bob_Retrenches",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Virginia Slims Cigarettes U.S. Television Commercial 16 / 1968-1971",
        "logo": "https://archive.org/services/img/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
        "url": "https://archive.org/details/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
@@ -9330,6 +9341,17 @@
        "plot": "640p x 480p High Resolution File",
        "page": "https://archive.org/details/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
        "id": "VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Bob Retrenches",
+       "logo": "https://archive.org/services/img/Love_That_Bob_Ep4x28_Bob_Retrenches",
+       "url": "https://archive.org/details/Love_That_Bob_Ep4x28_Bob_Retrenches",
+       "date": null,
+       "plot": "Love That Bob Season 4 Ep 28 Bob Retrenches",
+       "page": "https://archive.org/details/Love_That_Bob_Ep4x28_Bob_Retrenches",
+       "id": "Love_That_Bob_Ep4x28_Bob_Retrenches",
        "duration": null,
        "resolve": "archive"
       },
@@ -9543,6 +9565,17 @@
        "resolve": "archive"
       },
       {
+       "name": "DANGER UXB (1979) (Full Series)",
+       "logo": "https://archive.org/services/img/danger-uxb-1979",
+       "url": "https://archive.org/details/danger-uxb-1979",
+       "date": null,
+       "plot": "The series chronicles the exploits of the fictional Royal Engineer Tunnelling Company 97, which has been made a bomb disposal unit to deal with the thousands of unexploded bombs (\"UXBs\") in London during the Battle of Britain.",
+       "page": "https://archive.org/details/danger-uxb-1979",
+       "id": "danger-uxb-1979",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Honeymooners Spoof",
        "logo": "https://archive.org/services/img/Jack_Benny_-_Honeymooners_Show",
        "url": "https://archive.org/details/Jack_Benny_-_Honeymooners_Show",
@@ -9598,17 +9631,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Cagney & Lacey Season 2",
-       "logo": "https://archive.org/services/img/cagney-and-lacey-season-2",
-       "url": "https://archive.org/details/cagney-and-lacey-season-2",
-       "date": null,
-       "plot": "The Complete Season 2 of Cagney and Lacey",
-       "page": "https://archive.org/details/cagney-and-lacey-season-2",
-       "id": "cagney-and-lacey-season-2",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Ordeal",
        "logo": "https://archive.org/services/img/Robin_Hood_10_The_Ordeal",
        "url": "https://archive.org/details/Robin_Hood_10_The_Ordeal",
@@ -9631,6 +9653,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Cagney & Lacey Season 2",
+       "logo": "https://archive.org/services/img/cagney-and-lacey-season-2",
+       "url": "https://archive.org/details/cagney-and-lacey-season-2",
+       "date": null,
+       "plot": "The Complete Season 2 of Cagney and Lacey",
+       "page": "https://archive.org/details/cagney-and-lacey-season-2",
+       "id": "cagney-and-lacey-season-2",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Make Room for Daddy - Margaret's Birthday",
        "logo": "https://archive.org/services/img/MakeRoomForDaddy-MargaretsBirthday",
        "url": "https://archive.org/details/MakeRoomForDaddy-MargaretsBirthday",
@@ -9649,6 +9682,17 @@
        "plot": "The Dick Van Dyke Show - Season 5 of 5 - MKV Blu-Ray Source Video Size: 720x480 The Dick Van Dyke Show is an American television sitcom that initially aired on CBS from October 3, 1961, to June 1, 1966, with a total of 158 half-hour episodes spanning five seasons. It was produced by Calvada Productions in association with the CBS Television Network and Desilu Studios. The show was created by Carl Reiner and starred Dick Van Dyke, Rose Marie, Morey Amsterdam, Larry Mathews, and Mary Tyler Moore. It centered on the work and home life of television comedy writer Rob Petrie (Van Dyke). The show wa",
        "page": "https://archive.org/details/the-dick-van-dyke-show-season-5-of-5-mkv",
        "id": "the-dick-van-dyke-show-season-5-of-5-mkv",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Alan Watts - Time - KQED - 1959",
+       "logo": "https://archive.org/services/img/AlanWatts-Time-Kqed-1959",
+       "url": "https://archive.org/details/AlanWatts-Time-Kqed-1959",
+       "date": null,
+       "plot": "* Alan Watts - Time - KQED - 1959. * uploaded by bsanandaATyahooDOTcom * globalcooperativeforumDOTnet",
+       "page": "https://archive.org/details/AlanWatts-Time-Kqed-1959",
+       "id": "AlanWatts-Time-Kqed-1959",
        "duration": null,
        "resolve": "archive"
       },
@@ -9697,17 +9741,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Alan Watts - Time - KQED - 1959",
-       "logo": "https://archive.org/services/img/AlanWatts-Time-Kqed-1959",
-       "url": "https://archive.org/details/AlanWatts-Time-Kqed-1959",
-       "date": null,
-       "plot": "* Alan Watts - Time - KQED - 1959. * uploaded by bsanandaATyahooDOTcom * globalcooperativeforumDOTnet",
-       "page": "https://archive.org/details/AlanWatts-Time-Kqed-1959",
-       "id": "AlanWatts-Time-Kqed-1959",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Decoy: The Pilot Episode",
        "logo": "https://archive.org/services/img/DecoyThePilotEpisode",
        "url": "https://archive.org/details/DecoyThePilotEpisode",
@@ -9748,17 +9781,6 @@
        "plot": "Victory At Sea ep 02 The Pacific Boils Over",
        "page": "https://archive.org/details/VAS_02_The_Pacific_Boils_Over",
        "id": "VAS_02_The_Pacific_Boils_Over",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "DANGER UXB (1979) (Full Series)",
-       "logo": "https://archive.org/services/img/danger-uxb-1979",
-       "url": "https://archive.org/details/danger-uxb-1979",
-       "date": null,
-       "plot": "The series chronicles the exploits of the fictional Royal Engineer Tunnelling Company 97, which has been made a bomb disposal unit to deal with the thousands of unexploded bombs (\"UXBs\") in London during the Battle of Britain.",
-       "page": "https://archive.org/details/danger-uxb-1979",
-       "id": "danger-uxb-1979",
        "duration": null,
        "resolve": "archive"
       },
@@ -9814,17 +9836,6 @@
        "plot": "Love That Bob Ep 4x36 Bob's Forgotten Fiancee",
        "page": "https://archive.org/details/Love_That_Bob_Ep4x36_Bobs_Forgotten_Fiancee",
        "id": "Love_That_Bob_Ep4x36_Bobs_Forgotten_Fiancee",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "ONLY WHEN I LAUGH (1979-82) (Full Series)",
-       "logo": "https://archive.org/services/img/only-when-i-laugh-1979-82",
-       "url": "https://archive.org/details/only-when-i-laugh-1979-82",
-       "date": null,
-       "plot": "A rather naive, middle-class man is admitted to a hospital ward and finds that he is sharing it with a working-class layabout and an upper-class hypochondriac. All three of them cause headaches for the hospital staff.",
-       "page": "https://archive.org/details/only-when-i-laugh-1979-82",
-       "id": "only-when-i-laugh-1979-82",
        "duration": null,
        "resolve": "archive"
       },
@@ -9917,6 +9928,17 @@
        "resolve": "archive"
       },
       {
+       "name": "ONLY WHEN I LAUGH (1979-82) (Full Series)",
+       "logo": "https://archive.org/services/img/only-when-i-laugh-1979-82",
+       "url": "https://archive.org/details/only-when-i-laugh-1979-82",
+       "date": null,
+       "plot": "A rather naive, middle-class man is admitted to a hospital ward and finds that he is sharing it with a working-class layabout and an upper-class hypochondriac. All three of them cause headaches for the hospital staff.",
+       "page": "https://archive.org/details/only-when-i-laugh-1979-82",
+       "id": "only-when-i-laugh-1979-82",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Alfred Hitchcock Presents - Complete Season 7 (39 Episodes) (restored, colorized) (1961, TV Series)",
        "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-7e-1-colorized-sd",
        "url": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
@@ -9990,17 +10012,6 @@
        "plot": "Electra Woman and Dyna Girl \"The Spider Lady\"",
        "page": "https://archive.org/details/electra-woman",
        "id": "electra-woman",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alfred Hitchcock Presents - Complete Season 2 (39 Episodes) (restored, colorized) (1956, TV Series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "id": "alfred-hitchcock-presents-s-2e-13-colorized-sd",
        "duration": null,
        "resolve": "archive"
       },
@@ -10177,6 +10188,17 @@
        "plot": "Love That Bob Ep 5x10 Bob Butters Beck, Beck Butters Better",
        "page": "https://archive.org/details/Love_That_Bob-5x10-Bob_Butters_Beck_Beck_Butters_Better",
        "id": "Love_That_Bob-5x10-Bob_Butters_Beck_Beck_Butters_Better",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Alfred Hitchcock Presents - Complete Season 2 (39 Episodes) (restored, colorized) (1956, TV Series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "date": null,
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "id": "alfred-hitchcock-presents-s-2e-13-colorized-sd",
        "duration": null,
        "resolve": "archive"
       },
@@ -10753,17 +10775,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Moonlighting S01",
-       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
-       "url": "https://archive.org/details/moonlighting-season-1-e-01",
-       "date": null,
-       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
-       "page": "https://archive.org/details/moonlighting-season-1-e-01",
-       "id": "moonlighting-season-1-e-01",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Classic Christmas TV: 'You Asked for It'",
        "logo": "https://archive.org/services/img/Christmas_1234567890",
        "url": "https://archive.org/details/Christmas_1234567890",
@@ -10881,6 +10892,17 @@
        "plot": "Ozzie and Harriet misc 03",
        "page": "https://archive.org/details/OZZIEANDHARRIETMISC03",
        "id": "OZZIEANDHARRIETMISC03",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Moonlighting S01",
+       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
+       "url": "https://archive.org/details/moonlighting-season-1-e-01",
+       "date": null,
+       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
+       "page": "https://archive.org/details/moonlighting-season-1-e-01",
+       "id": "moonlighting-season-1-e-01",
        "duration": null,
        "resolve": "archive"
       },
@@ -11035,28 +11057,6 @@
        "plot": "The Adventures Of Robin Hood ep 39 The Prisioner ( end of season 1 )",
        "page": "https://archive.org/details/Robin_Hood_39_The_Prisioner",
        "id": "Robin_Hood_39_The_Prisioner",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "\"The Walter Winchell Show\" - 13/December/1953",
-       "logo": "https://archive.org/services/img/theWalterWinchellShow-13december1953",
-       "url": "https://archive.org/details/theWalterWinchellShow-13december1953",
-       "date": null,
-       "plot": "Episode of \"The Walter Winchell Show\". It was a combination of gossip and commentary in the format of a TV Sunday-evening \"news\" show.",
-       "page": "https://archive.org/details/theWalterWinchellShow-13december1953",
-       "id": "theWalterWinchellShow-13december1953",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Car Commericals 1956-1957",
-       "logo": "https://archive.org/services/img/Car_Commericals_1956-1960",
-       "url": "https://archive.org/details/Car_Commericals_1956-1960",
-       "date": null,
-       "plot": "Car Commericals 1956-1957",
-       "page": "https://archive.org/details/Car_Commericals_1956-1960",
-       "id": "Car_Commericals_1956-1960",
        "duration": null,
        "resolve": "archive"
       }

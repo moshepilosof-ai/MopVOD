@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-17 10:03",
+   "updated": "2026-11-18 09:39",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -2335,17 +2335,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Manitou 1978",
-       "logo": "https://archive.org/services/img/the-manitou-1978_202412",
-       "url": "https://archive.org/details/the-manitou-1978_202412",
-       "date": "1978-01-01",
-       "plot": "A psychic meets a hospitalised woman who has developed a large mysterious growth on her back. With the help of a modern day medicine man they must try to stop an ancient Indian shamans curse before it is too late.",
-       "page": "https://archive.org/details/the-manitou-1978_202412",
-       "id": "the-manitou-1978_202412",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Evil 1978",
        "logo": "https://archive.org/services/img/the-evil-1978",
        "url": "https://archive.org/details/the-evil-1978",
@@ -2353,6 +2342,17 @@
        "plot": "A doctor and his wife purchase a dilapidated mansion but are unaware of the darkness lurking within.",
        "page": "https://archive.org/details/the-evil-1978",
        "id": "the-evil-1978",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Manitou 1978",
+       "logo": "https://archive.org/services/img/the-manitou-1978_202412",
+       "url": "https://archive.org/details/the-manitou-1978_202412",
+       "date": "1978-01-01",
+       "plot": "A psychic meets a hospitalised woman who has developed a large mysterious growth on her back. With the help of a modern day medicine man they must try to stop an ancient Indian shamans curse before it is too late.",
+       "page": "https://archive.org/details/the-manitou-1978_202412",
+       "id": "the-manitou-1978_202412",
        "duration": null,
        "resolve": "archive"
       },
@@ -4254,17 +4254,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Kuroneko (1968)",
-       "logo": "https://archive.org/services/img/kuroneko-1968_202510",
-       "url": "https://archive.org/details/kuroneko-1968_202510",
-       "date": "1968-01-01",
-       "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
-       "page": "https://archive.org/details/kuroneko-1968_202510",
-       "id": "kuroneko-1968_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Snow Woman (1968)",
        "logo": "https://archive.org/services/img/the.-snow.-woman.-1968",
        "url": "https://archive.org/details/the.-snow.-woman.-1968",
@@ -4272,6 +4261,17 @@
        "plot": "\"The Snow Woman\" ( Kaidan Yukijorō ) is a 1968 Japanese fantasy horror film directed by Tokuzō Tanaka . It was produced by Daiei Film and is an adaptation of the Yuki-onna short story from Lafcadio Hearn's 1904 collection, Kwaidan: Stories and Studies of Strange Things . The film runs for 80 minutes and combines elements of fantasy, romance, and horror to portray the legend of Yuki-onna, the snow woman. The film's story begins in feudal Japan , where two sculptors seek a special tree for carving a statue of Kannon , the Buddhist goddess. As a blizzard hits, they take refuge in an abandoned hut",
        "page": "https://archive.org/details/the.-snow.-woman.-1968",
        "id": "the.-snow.-woman.-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Kuroneko (1968)",
+       "logo": "https://archive.org/services/img/kuroneko-1968_202510",
+       "url": "https://archive.org/details/kuroneko-1968_202510",
+       "date": "1968-01-01",
+       "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
+       "page": "https://archive.org/details/kuroneko-1968_202510",
+       "id": "kuroneko-1968_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -7800,17 +7800,6 @@
        "resolve": "archive"
       },
       {
-       "name": "White Zombie (1932)",
-       "logo": "https://archive.org/services/img/white.zombie.1932",
-       "url": "https://archive.org/details/white.zombie.1932",
-       "date": "1932-01-01",
-       "plot": "\"White Zombie\" is a 1932 horror film directed by Victor Halperin, often regarded as the first feature-length zombie movie. It is a horror film set in Haiti, focusing on a young woman named Madeleine who is transformed into a zombie by an evil voodoo master named \"Murder\" Legendre, played by Bela Lugosi. The story follows her fiancé, Neil Parker, as he seeks to rescue her from this fate. The film explores themes of love, betrayal, and the supernatural.",
-       "page": "https://archive.org/details/white.zombie.1932",
-       "id": "white.zombie.1932",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Vampyr ( Original German)",
        "logo": "https://archive.org/services/img/vampr-german-intertiles",
        "url": "https://archive.org/details/vampr-german-intertiles",
@@ -7818,6 +7807,17 @@
        "plot": "With Vampyr, Danish filmmaker Carl Theodor Dreyer channeled his genius for creating mesmerizing atmosphere and austere, unsettling imagery into the horror genre. The result—a chilling film about a student of the occult who encounters supernatural haunts and local evildoers in a village outside of Paris—is nearly unclassifiable. A host of stunning camera and editing tricks and densely layered sounds create a mood of dreamlike terror. With its roiling fogs, ominous scythes, and foreboding echoes, Vampyr is one of cinema’s great nightmares.",
        "page": "https://archive.org/details/vampr-german-intertiles",
        "id": "vampr-german-intertiles",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "White Zombie (1932)",
+       "logo": "https://archive.org/services/img/white.zombie.1932",
+       "url": "https://archive.org/details/white.zombie.1932",
+       "date": "1932-01-01",
+       "plot": "\"White Zombie\" is a 1932 horror film directed by Victor Halperin, often regarded as the first feature-length zombie movie. It is a horror film set in Haiti, focusing on a young woman named Madeleine who is transformed into a zombie by an evil voodoo master named \"Murder\" Legendre, played by Bela Lugosi. The story follows her fiancé, Neil Parker, as he seeks to rescue her from this fate. The film explores themes of love, betrayal, and the supernatural.",
+       "page": "https://archive.org/details/white.zombie.1932",
+       "id": "white.zombie.1932",
        "duration": null,
        "resolve": "archive"
       },
@@ -9041,17 +9041,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Eyes Without a Face - Les yeux sans visage (restored, uncut) (1960, France, horror, imdb score: 7.7)",
-       "logo": "https://archive.org/services/img/eyes-without-a-face-1960-restored-720p-hd",
-       "url": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
-       "date": null,
-       "plot": "Eyes Without a Face (French: Les Yeux sans visage) is a 1960 French-language horror film co-written and directed by Georges Franju. The film, a French-Italian co-production, stars Pierre Brasseur and Alida Valli. Based on the novel of the same name by Jean Redon, it revolves around a plastic surgeon who is determined to perform a face transplant on his daughter, who was disfigured in an auto crash. During the film's production, consideration was given to the standards of European censors by setting the right tone, minimizing gore and eliminating the mad scientist character. Although the film p",
-       "page": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
-       "id": "eyes-without-a-face-1960-restored-720p-hd",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Bat (1926)",
        "logo": "https://archive.org/services/img/TheBat1926",
        "url": "https://archive.org/details/TheBat1926",
@@ -9060,6 +9049,17 @@
        "page": "https://archive.org/details/TheBat1926",
        "id": "TheBat1926",
        "duration": "1:25:34",
+       "resolve": "archive"
+      },
+      {
+       "name": "Eyes Without a Face - Les yeux sans visage (restored, uncut) (1960, France, horror, imdb score: 7.7)",
+       "logo": "https://archive.org/services/img/eyes-without-a-face-1960-restored-720p-hd",
+       "url": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
+       "date": null,
+       "plot": "Eyes Without a Face (French: Les Yeux sans visage) is a 1960 French-language horror film co-written and directed by Georges Franju. The film, a French-Italian co-production, stars Pierre Brasseur and Alida Valli. Based on the novel of the same name by Jean Redon, it revolves around a plastic surgeon who is determined to perform a face transplant on his daughter, who was disfigured in an auto crash. During the film's production, consideration was given to the standards of European censors by setting the right tone, minimizing gore and eliminating the mad scientist character. Although the film p",
+       "page": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
+       "id": "eyes-without-a-face-1960-restored-720p-hd",
+       "duration": null,
        "resolve": "archive"
       },
       {
