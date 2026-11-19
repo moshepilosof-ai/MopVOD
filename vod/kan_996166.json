@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-996166/",
    "series_id": "996166",
-   "updated": "2026-11-15 11:27",
+   "updated": "2026-11-18 23:23",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "שיחות ללא הגבלה | להיות אתלט עם טורט",
+       "logo": "https://www.kan.org.il/media/hxqbht3j/2265795_1795010673109.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265795/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-18",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1120764/",
+       "id": "1120764",
+       "season": 1
+      },
       {
        "name": "הצ'אט הוא החבר הכי טוב שלי",
        "logo": "https://www.kan.org.il/media/1c2ir53u/2265769_1794741446188.jpg",
@@ -479,16 +489,6 @@
        "plot": "",
        "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1085496/",
        "id": "1085496",
-       "season": 1
-      },
-      {
-       "name": " מזריקים כדי למנוע קמטים בהמשך או כי זה האידיאל בטיקטוק?",
-       "logo": "https://www.kan.org.il/media/h1lfu113/2232352_1785851771898.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232352/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-08-04",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1085492/",
-       "id": "1085492",
        "season": 1
       }
      ]

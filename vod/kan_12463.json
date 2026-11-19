@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-17 23:20",
+   "updated": "2026-11-19 00:05",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זוהר | 18.11.2026",
+       "logo": "https://www.kan.org.il/media/2ohn0adw/גליק-ותמר-חתוך-258.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2262140/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-18",
+       "plot": "כאן 11 | חיפוש משטרתי בלי צו? נתניהו מימי האופוזיציה לא היה נותן לזה לקרות | מדווחים לנו שבניגוד להבטחות של ישראל כ\"ץ, משאיות סיוע חזרו להיכנס לרצועת עזה דרך מעבר ארז. בטוחים שזה מה שכ\"ץ הבטיח? | שינוי ניכר באוויר, אבל לא הכל בסדר - שרה העצני כהן שואלת איך זה שבתקשורת זורמים עם הפשרות של ליברמן? | בימין זועמים על מינוי אחמד טיבי לסגן יו\"ר הכנסת, רק שבעבר התעקשו למנות אותו לאותו התפקיד בדיוק",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1115897/",
+       "id": "1115897",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זוהר | 17.11.2026",
        "logo": "https://www.kan.org.il/media/x33pf1t1/גיאזו.jpg",

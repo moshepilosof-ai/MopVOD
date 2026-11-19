@@ -6,11 +6,51 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-17 23:22",
+   "updated": "2026-11-19 00:12",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "המוסך של העולם התחתון: מעבדה לתיקון כלי הנשק של העבריינים",
+       "logo": "https://www.kan.org.il/media/swle1w3f/4לאתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266669/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-18",
+       "plot": "תיעוד מיוחד מתעשיית הנשק של עולם הפשע: העבריינים מחזיקים בכמויות בלתי נתפסות של אמצעי לחימה, שגם הם מתקלקלים לפעמים, ומגיעים לתיקון במעבדה מחתרתית",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1120863/",
+       "id": "1120863",
+       "season": 2
+      },
+      {
+       "name": "האם המידע שלנו מוגן? בהלה אחרי השיבושים בענקיות הטכנולוגיה",
+       "logo": "https://www.kan.org.il/media/2wofwa5x/1920x1080_4800_hp-4-00_00_21_39.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266661/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-18",
+       "plot": "ענקיות הטכנולוגיה הפכו את החיים שלנו לנוחים יותר מאי פעם – סדרה של תקלות בשבוע שעבר הזכירה שהנוחות הזו היא גם תלות. לאחר השיבושים בשירותי מיקרוסופט, במערכות התעופה והבנקים - ניסינו להבין עד כמה עמוק הקשר בין האדם למכונה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1120854/",
+       "id": "1120854",
+       "season": 2
+      },
+      {
+       "name": "הצמיד שינצח את הטורט? הפיתוח החדש שמצליח לעצור את הטיקים",
+       "logo": "https://www.kan.org.il/media/jljlcn4b/whatsapp-image-2026-11-18-at-2051.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266655/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-18",
+       "plot": "תסמונת טורט פוגעת בעיקר בילדים ובני נוער - ועד היום לא נמצאה בעבורה תרופה אמיתית. פיתוח חדש בבריטניה מצליח לעצור את התנועות הלא רצוניות ונותן תקווה חדשה לחולים",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1120849/",
+       "id": "1120849",
+       "season": 2
+      },
+      {
+       "name": "למה כרטיסי טיסה יעלו הרבה יותר ב-2027?",
+       "logo": "https://www.kan.org.il/media/knnj5n51/whatsapp-image-2026-11-18-at-2038.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266650/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-18",
+       "plot": "לא משנה אם אתם מתכננים סופ\"ש ביוון או חודש בתאילנד - בשנת 2027 הטיסה תעלה לכם הרבה יותר. מה עומד מאחורי ההתייקרות, והאם יש דרך לעקוף אותה?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1120847/",
+       "id": "1120847",
+       "season": 2
+      },
       {
        "name": "״קליפ הרצח״ של נועה קירל ונסרין: הומור שחור או פרובוקציה חסרת אחריות?",
        "logo": "https://www.kan.org.il/media/5jnfg1ks/4יוטיוב.jpg",
