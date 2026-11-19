@@ -1,0 +1,28 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - מדינה קטנה - ביקור סאדאת",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1117755/",
+   "series_id": "1117755",
+   "updated": "2026-11-19 23:02",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "מדינה קטנה - ביקור סאדאת",
+       "logo": "https://www.kan.org.il/media/aubdcyu0/21920x1080-no-logo_מדינה-קטנה.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2263723/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-10",
+       "plot": "ב־19 בנובמבר 1977 נחת בנתב״ג האויב הגדול ביותר של ישראל, והדהים את העולם כולו. ליאור אשכנזי וצוות של היסטוריונים, דיפלומטים ומיניאטוריסטים יוצאים לבנות דגם מיניאטורי שישחזר את הביקור ההיסטורי, ועל הדרך לגלות  מה באמת התרחש מאחורי הקלעים של שלושת הימים ששינו את פני המזרח התיכון",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1117755/1117756/",
+       "id": "1117756"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

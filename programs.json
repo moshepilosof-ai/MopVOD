@@ -1196,6 +1196,12 @@
       "section": "dig/digital"
     },
     {
+      "id": "kan_11297",
+      "title": "כאן 11 - ביקורת נוסטלגיה",
+      "url": "https://www.kan.org.il/content/dig/digital/p-11297/",
+      "section": "dig/digital"
+    },
+    {
       "id": "kan_11860",
       "title": "כאן 11 - בלי פאניקה!",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-11860/",
@@ -2018,6 +2024,12 @@
       "section": "kan/news-series"
     },
     {
+      "id": "kan_1117755",
+      "title": "כאן 11 - מדינה קטנה - ביקור סאדאת",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1117755/",
+      "section": "kan/kan-11"
+    },
+    {
       "id": "kan_11913",
       "title": "כאן 11 - מדע הכדורגל",
       "url": "https://www.kan.org.il/content/dig/digital/p-11913/",
@@ -2117,12 +2129,6 @@
       "id": "kan_327417",
       "title": "כאן 11 - מישהו לגור איתו",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-327417/",
-      "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_11247",
-      "title": "כאן 11 - מלאך משחית",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-11247/",
       "section": "kan/kan-11"
     },
     {
@@ -2480,12 +2486,6 @@
       "section": "kan/kan-11"
     },
     {
-      "id": "kan_11635",
-      "title": "כאן 11 - קרתגו",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-11635/",
-      "section": "kan/kan-11"
-    },
-    {
       "id": "kan_13652",
       "title": "כאן 11 - רבנו",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-13652/",
@@ -2561,12 +2561,6 @@
       "id": "kan_725343",
       "title": "כאן 11 - שורדי העל של הטבע",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-725343/",
-      "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_13291",
-      "title": "כאן 11 - שטוקהולם",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-13291/",
       "section": "kan/kan-11"
     },
     {
@@ -2714,6 +2708,24 @@
       "section": "kan/kan-11"
     },
     {
+      "id": "kan_11247",
+      "title": "כאן 11 - מלאך משחית",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-11247/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_11635",
+      "title": "כאן 11 - קרתגו",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-11635/",
+      "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_13291",
+      "title": "כאן 11 - שטוקהולם",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-13291/",
+      "section": "kan/kan-11"
+    },
+    {
       "id": "kan_1050286",
       "title": "כאן 11 - עשור למותו של אלי ויזל",
       "url": "https://www.kan.org.il/content/archive1/projects/p-1050286/",
@@ -2844,12 +2856,6 @@
       "title": "כאן 11 - אגדת חורבן",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12499/",
       "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_11297",
-      "title": "כאן 11 - ביקורת נוסטלגיה",
-      "url": "https://www.kan.org.il/content/dig/digital/p-11297/",
-      "section": "dig/digital"
     }
   ]
 }
