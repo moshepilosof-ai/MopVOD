@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-19 00:17",
+ "updated": "2026-11-19 12:21",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-18 09:39",
+   "updated": "2026-11-19 09:50",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-18 09:39",
+   "updated": "2026-11-19 09:50",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -738,6 +738,15 @@
    "seasons": 1,
    "updated": "2026-10-28 12:33",
    "newest": "2026-09-24",
+   "oldest": "2026-09-24"
+  },
+  {
+   "name": "כאן 11 - תכנית אירוח למוצאי השבת עם דודו פישר החוגג 75",
+   "file": "vod/kan_1102638.json",
+   "episodes": 32,
+   "seasons": 2,
+   "updated": "2026-11-19 12:20",
+   "newest": "2026-10-13",
    "oldest": "2026-09-24"
   },
   {
@@ -4300,7 +4309,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-18 09:19",
+   "updated": "2026-11-19 09:34",
    "newest": null,
    "oldest": null
   },
@@ -4309,7 +4318,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-18 09:39",
+   "updated": "2026-11-19 09:50",
    "newest": null,
    "oldest": null
   },
