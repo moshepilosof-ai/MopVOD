@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-18 09:39",
+   "updated": "2026-11-19 09:50",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3358,17 +3358,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Horror Express",
-       "logo": "https://archive.org/services/img/HorrorExpress",
-       "url": "https://archive.org/details/HorrorExpress",
-       "date": "1972-01-01",
-       "plot": "An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. - IMDB Description",
-       "page": "https://archive.org/details/HorrorExpress",
-       "id": "HorrorExpress",
-       "duration": "1:27:05",
-       "resolve": "archive"
-      },
-      {
        "name": "Tales from the Crypt (1972)",
        "logo": "https://archive.org/services/img/tales.-from.-the.-crypt.-1972",
        "url": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
@@ -3377,6 +3366,17 @@
        "page": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
        "id": "tales.-from.-the.-crypt.-1972",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Horror Express",
+       "logo": "https://archive.org/services/img/HorrorExpress",
+       "url": "https://archive.org/details/HorrorExpress",
+       "date": "1972-01-01",
+       "plot": "An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. - IMDB Description",
+       "page": "https://archive.org/details/HorrorExpress",
+       "id": "HorrorExpress",
+       "duration": "1:27:05",
        "resolve": "archive"
       },
       {
@@ -3941,17 +3941,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Bird with the Crystal Plumage (1970)",
-       "logo": "https://archive.org/services/img/the.-bird.-with.-the.-crystal.-plumage.-1970",
-       "url": "https://archive.org/details/the.-bird.-with.-the.-crystal.-plumage.-1970",
-       "date": "1970-01-01",
-       "plot": "The Bird with the Crystal Plumage is a 1970 giallo film written and directed by Dario Argento. It follows an American writer named Sam Dalmas, who witnesses an attempted murder in an art gallery while vacationing in Rome. As he becomes embroiled in the investigation of a serial killer targeting young women, he must uncover the murderer's identity before he and his girlfriend become the next victims.",
-       "page": "https://archive.org/details/the.-bird.-with.-the.-crystal.-plumage.-1970",
-       "id": "the.-bird.-with.-the.-crystal.-plumage.-1970",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Taste The Blood Of Dacula 1970",
        "logo": "https://archive.org/services/img/taste-the-blood-of-dacula-1970",
        "url": "https://archive.org/details/taste-the-blood-of-dacula-1970",
@@ -3959,6 +3948,17 @@
        "plot": "Three distinguished English gentlemen seeking new levels of excitement and pleasure unwittingly resurrect the blasphemous Count Dracula.",
        "page": "https://archive.org/details/taste-the-blood-of-dacula-1970",
        "id": "taste-the-blood-of-dacula-1970",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Bird with the Crystal Plumage (1970)",
+       "logo": "https://archive.org/services/img/the.-bird.-with.-the.-crystal.-plumage.-1970",
+       "url": "https://archive.org/details/the.-bird.-with.-the.-crystal.-plumage.-1970",
+       "date": "1970-01-01",
+       "plot": "The Bird with the Crystal Plumage is a 1970 giallo film written and directed by Dario Argento. It follows an American writer named Sam Dalmas, who witnesses an attempted murder in an art gallery while vacationing in Rome. As he becomes embroiled in the investigation of a serial killer targeting young women, he must uncover the murderer's identity before he and his girlfriend become the next victims.",
+       "page": "https://archive.org/details/the.-bird.-with.-the.-crystal.-plumage.-1970",
+       "id": "the.-bird.-with.-the.-crystal.-plumage.-1970",
        "duration": null,
        "resolve": "archive"
       },
@@ -4188,17 +4188,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Goke, Body Snatcher From Hell",
-       "logo": "https://archive.org/services/img/goke-body-snatcher-from-hell",
-       "url": "https://archive.org/details/goke-body-snatcher-from-hell",
-       "date": "1968-01-01",
-       "plot": "After an airplane is forced to crash-land in a remote area, its passengers find themselves face-to-face with an alien force that wants to possess them body and soul—and perhaps take over the entire human race. Filled with creatively repulsive effects—including a very invasive bloblike life-form—Hajime Sato’s Goke, Body Snatcher from Hell is a pulpy, apocalyptic gross-out.",
-       "page": "https://archive.org/details/goke-body-snatcher-from-hell",
-       "id": "goke-body-snatcher-from-hell",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Witchfinder General (1968)",
        "logo": "https://archive.org/services/img/witchfinder-general-1968",
        "url": "https://archive.org/details/witchfinder-general-1968",
@@ -4206,6 +4195,17 @@
        "plot": "Witchfinder General is a 1968 British period folk horror film directed by Michael Reeves and starring Vincent Price, Ian Ogilvy, Hilary Dwyer, Robert Russell and Rupert Davies. The screenplay, by Reeves and Tom Baker, was based on Ronald Bassett's 1966 novel Witchfinder General. Set during the English Civil War, following Matthew Hopkins, a sadistic witch hunter, who exploits the chaos to torture and execute those accused of witchcraft. The story centers on Richard Marshall, a soldier who seeks revenge against Hopkins after he and his assistant harm his fiancée and her family.",
        "page": "https://archive.org/details/witchfinder-general-1968",
        "id": "witchfinder-general-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Goke, Body Snatcher From Hell",
+       "logo": "https://archive.org/services/img/goke-body-snatcher-from-hell",
+       "url": "https://archive.org/details/goke-body-snatcher-from-hell",
+       "date": "1968-01-01",
+       "plot": "After an airplane is forced to crash-land in a remote area, its passengers find themselves face-to-face with an alien force that wants to possess them body and soul—and perhaps take over the entire human race. Filled with creatively repulsive effects—including a very invasive bloblike life-form—Hajime Sato’s Goke, Body Snatcher from Hell is a pulpy, apocalyptic gross-out.",
+       "page": "https://archive.org/details/goke-body-snatcher-from-hell",
+       "id": "goke-body-snatcher-from-hell",
        "duration": null,
        "resolve": "archive"
       },
@@ -4254,6 +4254,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Spirits Of The Dead 1968",
+       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
+       "url": "https://archive.org/details/spirits-of-the-dead-1968",
+       "date": "1968-01-01",
+       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
+       "page": "https://archive.org/details/spirits-of-the-dead-1968",
+       "id": "spirits-of-the-dead-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Snow Woman (1968)",
        "logo": "https://archive.org/services/img/the.-snow.-woman.-1968",
        "url": "https://archive.org/details/the.-snow.-woman.-1968",
@@ -4272,17 +4283,6 @@
        "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
        "page": "https://archive.org/details/kuroneko-1968_202510",
        "id": "kuroneko-1968_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Spirits Of The Dead 1968",
-       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
-       "url": "https://archive.org/details/spirits-of-the-dead-1968",
-       "date": "1968-01-01",
-       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
-       "page": "https://archive.org/details/spirits-of-the-dead-1968",
-       "id": "spirits-of-the-dead-1968",
        "duration": null,
        "resolve": "archive"
       },
@@ -4496,17 +4496,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Terror Beneath the Sea",
-       "logo": "https://archive.org/services/img/05516Tbtx",
-       "url": "https://archive.org/details/05516Tbtx",
-       "date": "1966-01-01",
-       "plot": "Title: The Terror Beneath the Sea Summary: While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that ... Directed by: Hajime Satô Actors: Production Company: K. Fujita Associates Inc. Release Date: 1 July 1966 (Japan) Aspect Ratio: 1.33 : 1 Color: Color While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that there is a race of fish-men living",
-       "page": "https://archive.org/details/05516Tbtx",
-       "id": "05516Tbtx",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Dracula Prince Of Darkness 1966",
        "logo": "https://archive.org/services/img/dracula-prince-of-darkness-1966_20240606",
        "url": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
@@ -4514,6 +4503,17 @@
        "plot": "An entire decade after his demise, the blasphemous Count Dracula is resurrected by his servant and preys on four unsuspecting English tourists who have taken shelter in his castle.",
        "page": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
        "id": "dracula-prince-of-darkness-1966_20240606",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Terror Beneath the Sea",
+       "logo": "https://archive.org/services/img/05516Tbtx",
+       "url": "https://archive.org/details/05516Tbtx",
+       "date": "1966-01-01",
+       "plot": "Title: The Terror Beneath the Sea Summary: While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that ... Directed by: Hajime Satô Actors: Production Company: K. Fujita Associates Inc. Release Date: 1 July 1966 (Japan) Aspect Ratio: 1.33 : 1 Color: Color While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that there is a race of fish-men living",
+       "page": "https://archive.org/details/05516Tbtx",
+       "id": "05516Tbtx",
        "duration": null,
        "resolve": "archive"
       },
@@ -5277,17 +5277,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Brain That Wouldn't Die (1962)",
-       "logo": "https://archive.org/services/img/the.-brain.-that.-wouldnt.-die.-1962",
-       "url": "https://archive.org/details/the.-brain.-that.-wouldnt.-die.-1962",
-       "date": "1962-01-01",
-       "plot": "\"The Brain That Wouldn't Die\" is a 1962 science fiction horror film directed by Joseph Green. The story revolves around a mad scientist, Dr. Bill Cortner, who saves the disembodied head of his fiancée, Jan, after a tragic car accident. He attempts to find a suitable body for her while she remains conscious, leading to a mix of horror and dark humor. Though not critically acclaimed upon release, it has since become a cult classic, often referenced in discussions about early horror and sci-fi cinema. Its mixture of sci-fi elements with horror tropes has influenced various films and serves as a n",
-       "page": "https://archive.org/details/the.-brain.-that.-wouldnt.-die.-1962",
-       "id": "the.-brain.-that.-wouldnt.-die.-1962",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Tower of London (1962)",
        "logo": "https://archive.org/services/img/tower-of-london-1962_202510",
        "url": "https://archive.org/details/tower-of-london-1962_202510",
@@ -5295,6 +5284,17 @@
        "plot": "Tower of London is a 1962 historical drama and gothic horror film directed by Roger Corman and starring Vincent Price and Michael Pate. The film follows Richard III, played by Vincent Price, as he schemes to seize the throne of England. The story depicts his ruthless rise to power, including the murder of his brother George and the manipulation of the young princes, all while being haunted by the ghosts of his victims, leading to his eventual madness and downfall.",
        "page": "https://archive.org/details/tower-of-london-1962_202510",
        "id": "tower-of-london-1962_202510",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Brain That Wouldn't Die (1962)",
+       "logo": "https://archive.org/services/img/the.-brain.-that.-wouldnt.-die.-1962",
+       "url": "https://archive.org/details/the.-brain.-that.-wouldnt.-die.-1962",
+       "date": "1962-01-01",
+       "plot": "\"The Brain That Wouldn't Die\" is a 1962 science fiction horror film directed by Joseph Green. The story revolves around a mad scientist, Dr. Bill Cortner, who saves the disembodied head of his fiancée, Jan, after a tragic car accident. He attempts to find a suitable body for her while she remains conscious, leading to a mix of horror and dark humor. Though not critically acclaimed upon release, it has since become a cult classic, often referenced in discussions about early horror and sci-fi cinema. Its mixture of sci-fi elements with horror tropes has influenced various films and serves as a n",
+       "page": "https://archive.org/details/the.-brain.-that.-wouldnt.-die.-1962",
+       "id": "the.-brain.-that.-wouldnt.-die.-1962",
        "duration": null,
        "resolve": "archive"
       },
@@ -5486,17 +5486,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Pit And The Pendulum (1961)",
-       "logo": "https://archive.org/services/img/pit-and-the-pendulum-1961_202510",
-       "url": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
-       "date": "1961-01-01",
-       "plot": "The Pit and the Pendulum is a 1961 American horror film directed by Roger Corman, starring Vincent Price, Barbara Steele, John Kerr, and Luana Anders. The screenplay by Richard Matheson was loosely inspired by Edgar Allan Poe's 1842 short story of the same name. Set in sixteenth-century Spain, the story is about a young Englishman who visits a foreboding castle to investigate his sister's mysterious death. After a series of horrific revelations, apparently ghostly appearances and violent deaths, the young man becomes strapped to the titular torture device by his lunatic brother-in-law during t",
-       "page": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
-       "id": "pit-and-the-pendulum-1961_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Hercules in the Haunted World (1961)",
        "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
        "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
@@ -5504,6 +5493,17 @@
        "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
        "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
        "id": "hercules.-in.-the.-haunted.-world.-1961",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Pit And The Pendulum (1961)",
+       "logo": "https://archive.org/services/img/pit-and-the-pendulum-1961_202510",
+       "url": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
+       "date": "1961-01-01",
+       "plot": "The Pit and the Pendulum is a 1961 American horror film directed by Roger Corman, starring Vincent Price, Barbara Steele, John Kerr, and Luana Anders. The screenplay by Richard Matheson was loosely inspired by Edgar Allan Poe's 1842 short story of the same name. Set in sixteenth-century Spain, the story is about a young Englishman who visits a foreboding castle to investigate his sister's mysterious death. After a series of horrific revelations, apparently ghostly appearances and violent deaths, the young man becomes strapped to the titular torture device by his lunatic brother-in-law during t",
+       "page": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
+       "id": "pit-and-the-pendulum-1961_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -6052,17 +6052,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Strange World of Planet X",
-       "logo": "https://archive.org/services/img/TheStrangeWorldOfPlanetX1958",
-       "url": "https://archive.org/details/TheStrangeWorldOfPlanetX1958",
-       "date": "1958-01-01",
-       "plot": "Title: The Strange World of Planet X Summary: A friendly visitor from outer space warns against conducting experiments with the Earth's magnetic field, that could mutate insects into giant monsters. Directed by: Gilbert Gunn Actors: Forrest Tucker, Gaby André, Martin Benson Production Company: George Maynard Productions Release Date: 31 December 1958 (USA) Aspect Ratio: 1.33 : 1 At a small, rural British lab, monomaniac Dr. Laird and his staff create ultra-intense magnetic fields. Inexplicably, the apparatus seems to be affecting distant objects, and to be drawing \"extra power\" from...somewher",
-       "page": "https://archive.org/details/TheStrangeWorldOfPlanetX1958",
-       "id": "TheStrangeWorldOfPlanetX1958",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Horror Of Dracula 1958",
        "logo": "https://archive.org/services/img/horror-of-dracula-1958_202406",
        "url": "https://archive.org/details/horror-of-dracula-1958_202406",
@@ -6070,6 +6059,17 @@
        "plot": "When his friend goes missing after accepting a job at a castle under false pretences, Dr. Van Helsing investigates the mysterious Count Dracula and discovers a parasitic reign of undead terror.",
        "page": "https://archive.org/details/horror-of-dracula-1958_202406",
        "id": "horror-of-dracula-1958_202406",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Strange World of Planet X",
+       "logo": "https://archive.org/services/img/TheStrangeWorldOfPlanetX1958",
+       "url": "https://archive.org/details/TheStrangeWorldOfPlanetX1958",
+       "date": "1958-01-01",
+       "plot": "Title: The Strange World of Planet X Summary: A friendly visitor from outer space warns against conducting experiments with the Earth's magnetic field, that could mutate insects into giant monsters. Directed by: Gilbert Gunn Actors: Forrest Tucker, Gaby André, Martin Benson Production Company: George Maynard Productions Release Date: 31 December 1958 (USA) Aspect Ratio: 1.33 : 1 At a small, rural British lab, monomaniac Dr. Laird and his staff create ultra-intense magnetic fields. Inexplicably, the apparatus seems to be affecting distant objects, and to be drawing \"extra power\" from...somewher",
+       "page": "https://archive.org/details/TheStrangeWorldOfPlanetX1958",
+       "id": "TheStrangeWorldOfPlanetX1958",
        "duration": null,
        "resolve": "archive"
       },
@@ -9217,17 +9217,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 38: \"Sexy Summer Sin\" Double Feature",
-       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
-       "url": "https://archive.org/details/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
-       "date": null,
-       "plot": "Well, after a bit of renovations (as well as a much deserved summer break), your favorite Shocker Internet Drive In is back open for business with a double feature of \"Sexy Summer Sin\". Our first feature is Dario Argento's \"Deep Red\" (aka \"Profondo Rosso\" and \"The Hatchet Murders\"), a wonderful creepy tale about a reporter basically be chased around by a murderer while investigating the death of a musician. Then, after a brief intermission, we proudly present 1976's \"Sisters of Death\", featuring a group of lovely sorority sisters reuniting years after the death of a member â needless to say so",
-       "page": "https://archive.org/details/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
-       "id": "ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
-       "duration": "3:27:00",
-       "resolve": "archive"
-      },
-      {
        "name": "The Vampire Bat (1933)",
        "logo": "https://archive.org/services/img/TheVampireBat1933_68",
        "url": "https://archive.org/details/TheVampireBat1933_68",
@@ -9236,6 +9225,17 @@
        "page": "https://archive.org/details/TheVampireBat1933_68",
        "id": "TheVampireBat1933_68",
        "duration": "59:42",
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 38: \"Sexy Summer Sin\" Double Feature",
+       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
+       "url": "https://archive.org/details/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
+       "date": null,
+       "plot": "Well, after a bit of renovations (as well as a much deserved summer break), your favorite Shocker Internet Drive In is back open for business with a double feature of \"Sexy Summer Sin\". Our first feature is Dario Argento's \"Deep Red\" (aka \"Profondo Rosso\" and \"The Hatchet Murders\"), a wonderful creepy tale about a reporter basically be chased around by a murderer while investigating the death of a musician. Then, after a brief intermission, we proudly present 1976's \"Sisters of Death\", featuring a group of lovely sorority sisters reuniting years after the death of a member â needless to say so",
+       "page": "https://archive.org/details/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
+       "id": "ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
+       "duration": "3:27:00",
        "resolve": "archive"
       },
       {

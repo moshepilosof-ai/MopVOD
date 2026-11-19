@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/classic_tv",
    "program_url": "https://archive.org/details/classic_tv",
-   "updated": "2026-11-18 09:39",
+   "updated": "2026-11-19 09:50",
    "sub_categories": [
     {
      "name": "2020-2029",
@@ -5385,17 +5385,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bas les masques - Mon Corps En Vacances - 1994",
-       "logo": "https://archive.org/services/img/1994-xx-xx-m-dumas-mon-corps-en-vacances",
-       "url": "https://archive.org/details/1994-xx-xx-m-dumas-mon-corps-en-vacances",
-       "date": null,
-       "plot": "Mireille DUMAS présente l'émission depuis Saint Tropez et développe la relation que les vacanciers entretiennent avec leur physique et leur image pendant les vacances. - EN TOUTE LIBERTE A L'ILE DU LEVANT : à l'Ile du Levant, interviewes de jeunes naturistes sur leur motivations, leurs expériences du naturisme. Mireille DUMAS interviewe un couple de naturistes et leurs enfants sur leurs motivations profondes, la relation qu'ils entretiennent avec leur physique et leur image dénudée, les relations avec les autres et pour les enfants les relations avec leurs copains. Reportage de la famille en v",
-       "page": "https://archive.org/details/1994-xx-xx-m-dumas-mon-corps-en-vacances",
-       "id": "1994-xx-xx-m-dumas-mon-corps-en-vacances",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "26 Men - Dead Man in Tucson",
        "logo": "https://archive.org/services/img/26Men-DeadManInTucson",
        "url": "https://archive.org/details/26Men-DeadManInTucson",
@@ -5404,6 +5393,17 @@
        "page": "https://archive.org/details/26Men-DeadManInTucson",
        "id": "26Men-DeadManInTucson",
        "duration": "26:21",
+       "resolve": "archive"
+      },
+      {
+       "name": "Bas les masques - Mon Corps En Vacances - 1994",
+       "logo": "https://archive.org/services/img/1994-xx-xx-m-dumas-mon-corps-en-vacances",
+       "url": "https://archive.org/details/1994-xx-xx-m-dumas-mon-corps-en-vacances",
+       "date": null,
+       "plot": "Mireille DUMAS présente l'émission depuis Saint Tropez et développe la relation que les vacanciers entretiennent avec leur physique et leur image pendant les vacances. - EN TOUTE LIBERTE A L'ILE DU LEVANT : à l'Ile du Levant, interviewes de jeunes naturistes sur leur motivations, leurs expériences du naturisme. Mireille DUMAS interviewe un couple de naturistes et leurs enfants sur leurs motivations profondes, la relation qu'ils entretiennent avec leur physique et leur image dénudée, les relations avec les autres et pour les enfants les relations avec leurs copains. Reportage de la famille en v",
+       "page": "https://archive.org/details/1994-xx-xx-m-dumas-mon-corps-en-vacances",
+       "id": "1994-xx-xx-m-dumas-mon-corps-en-vacances",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -5539,17 +5539,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bonanza - The Avenger",
-       "logo": "https://archive.org/services/img/Bonanza-TheAvenger",
-       "url": "https://archive.org/details/Bonanza-TheAvenger",
-       "date": null,
-       "plot": "Set in Nevada in the 1860s, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and ",
-       "page": "https://archive.org/details/Bonanza-TheAvenger",
-       "id": "Bonanza-TheAvenger",
-       "duration": "49:25",
-       "resolve": "archive"
-      },
-      {
        "name": "26 Men - The Recruit",
        "logo": "https://archive.org/services/img/26Men-TheRecruit",
        "url": "https://archive.org/details/26Men-TheRecruit",
@@ -5558,6 +5547,17 @@
        "page": "https://archive.org/details/26Men-TheRecruit",
        "id": "26Men-TheRecruit",
        "duration": "26:07",
+       "resolve": "archive"
+      },
+      {
+       "name": "Bonanza - The Avenger",
+       "logo": "https://archive.org/services/img/Bonanza-TheAvenger",
+       "url": "https://archive.org/details/Bonanza-TheAvenger",
+       "date": null,
+       "plot": "Set in Nevada in the 1860s, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and ",
+       "page": "https://archive.org/details/Bonanza-TheAvenger",
+       "id": "Bonanza-TheAvenger",
+       "duration": "49:25",
        "resolve": "archive"
       },
       {
@@ -5671,14 +5671,14 @@
        "resolve": "archive"
       },
       {
-       "name": "Bonanza - The Hopefuls",
-       "logo": "https://archive.org/services/img/Bonanza_-_The_Hopefuls",
-       "url": "https://archive.org/details/Bonanza_-_The_Hopefuls",
+       "name": "Alias Smith And Jones (1971-1973) - Complete Series",
+       "logo": "https://archive.org/services/img/Alias-Smith-And-Jones-1973",
+       "url": "https://archive.org/details/Alias-Smith-And-Jones-1973",
        "date": null,
-       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
-       "page": "https://archive.org/details/Bonanza_-_The_Hopefuls",
-       "id": "Bonanza_-_The_Hopefuls",
-       "duration": "49:24",
+       "plot": "All 50 episodes across 3 seasons. Alias Smith and Jones was a western show that aired between the years 1971 and 1973 on ABC.",
+       "page": "https://archive.org/details/Alias-Smith-And-Jones-1973",
+       "id": "Alias-Smith-And-Jones-1973",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -5693,14 +5693,14 @@
        "resolve": "archive"
       },
       {
-       "name": "Alias Smith And Jones (1971-1973) - Complete Series",
-       "logo": "https://archive.org/services/img/Alias-Smith-And-Jones-1973",
-       "url": "https://archive.org/details/Alias-Smith-And-Jones-1973",
+       "name": "Bonanza - The Hopefuls",
+       "logo": "https://archive.org/services/img/Bonanza_-_The_Hopefuls",
+       "url": "https://archive.org/details/Bonanza_-_The_Hopefuls",
        "date": null,
-       "plot": "All 50 episodes across 3 seasons. Alias Smith and Jones was a western show that aired between the years 1971 and 1973 on ABC.",
-       "page": "https://archive.org/details/Alias-Smith-And-Jones-1973",
-       "id": "Alias-Smith-And-Jones-1973",
-       "duration": null,
+       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
+       "page": "https://archive.org/details/Bonanza_-_The_Hopefuls",
+       "id": "Bonanza_-_The_Hopefuls",
+       "duration": "49:24",
        "resolve": "archive"
       },
       {
@@ -5847,17 +5847,6 @@
        "resolve": "archive"
       },
       {
-       "name": "ALF The Complete Series",
-       "logo": "https://archive.org/services/img/ALF-The-Complete-Series",
-       "url": "https://archive.org/details/ALF-The-Complete-Series",
-       "date": null,
-       "plot": "ALF The Complete Series",
-       "page": "https://archive.org/details/ALF-The-Complete-Series",
-       "id": "ALF-The-Complete-Series",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "S 2 E 07.",
        "logo": "https://archive.org/services/img/s2e07_202002",
        "url": "https://archive.org/details/s2e07_202002",
@@ -5865,6 +5854,17 @@
        "plot": "1970's sitcom. Since 1972, when Love Thy Neighbour was first transmitted, it has been criticised for its politically incorrect handling of issues of racism , it was made in an era when Britain was perceived to be struggling to come to terms with mass immigration which Love Thy Neighbour was said to exemplify. This meant \"comedies about race\" were really about \"blacks signifying trouble \" so that consequentially \"if the White characters did display prejudice, this was deemed funny or understandable given the 'difficulty of the situation'. The views of the main white male character (Eddie Booth,",
        "page": "https://archive.org/details/s2e07_202002",
        "id": "s2e07_202002",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "ALF The Complete Series",
+       "logo": "https://archive.org/services/img/ALF-The-Complete-Series",
+       "url": "https://archive.org/details/ALF-The-Complete-Series",
+       "date": null,
+       "plot": "ALF The Complete Series",
+       "page": "https://archive.org/details/ALF-The-Complete-Series",
+       "id": "ALF-The-Complete-Series",
        "duration": null,
        "resolve": "archive"
       },
@@ -6001,6 +6001,17 @@
        "resolve": "archive"
       },
       {
+       "name": "LIS",
+       "logo": "https://archive.org/services/img/L_I_S",
+       "url": "https://archive.org/details/L_I_S",
+       "date": null,
+       "plot": "LIS",
+       "page": "https://archive.org/details/L_I_S",
+       "id": "L_I_S",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Tales of Tomorrow - Ice from Space",
        "logo": "https://archive.org/services/img/TalesOfTomorrow-IceFromSpace",
        "url": "https://archive.org/details/TalesOfTomorrow-IceFromSpace",
@@ -6019,17 +6030,6 @@
        "plot": "The Lucy Show ep Lucy The Babysitter",
        "page": "https://archive.org/details/TLS_Lucy_The_Babysitter",
        "id": "TLS_Lucy_The_Babysitter",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "LIS",
-       "logo": "https://archive.org/services/img/L_I_S",
-       "url": "https://archive.org/details/L_I_S",
-       "date": null,
-       "plot": "LIS",
-       "page": "https://archive.org/details/L_I_S",
-       "id": "L_I_S",
        "duration": null,
        "resolve": "archive"
       },
@@ -6892,6 +6892,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Bas les masques - Heliomonde - 1993",
+       "logo": "https://archive.org/services/img/1993-mireille-dumas-heliomonde",
+       "url": "https://archive.org/details/1993-mireille-dumas-heliomonde",
+       "date": null,
+       "plot": "1993 mireille dumas heliomonde",
+       "page": "https://archive.org/details/1993-mireille-dumas-heliomonde",
+       "id": "1993-mireille-dumas-heliomonde",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Shasta soda commercial - Frankenstein",
        "logo": "https://archive.org/services/img/ShastaSodaCommercial-Frankenstein",
        "url": "https://archive.org/details/ShastaSodaCommercial-Frankenstein",
@@ -6910,17 +6921,6 @@
        "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
        "page": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
        "id": "the-twilight-zone-s-2-e-1-colorized-720p-hd",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Bas les masques - Heliomonde - 1993",
-       "logo": "https://archive.org/services/img/1993-mireille-dumas-heliomonde",
-       "url": "https://archive.org/details/1993-mireille-dumas-heliomonde",
-       "date": null,
-       "plot": "1993 mireille dumas heliomonde",
-       "page": "https://archive.org/details/1993-mireille-dumas-heliomonde",
-       "id": "1993-mireille-dumas-heliomonde",
        "duration": null,
        "resolve": "archive"
       },
@@ -6958,17 +6958,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Hill street blues Season 3",
-       "logo": "https://archive.org/services/img/hill.street.blues.s-03",
-       "url": "https://archive.org/details/hill.street.blues.s-03",
-       "date": null,
-       "plot": "The Complete Third Season",
-       "page": "https://archive.org/details/hill.street.blues.s-03",
-       "id": "hill.street.blues.s-03",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Ironside Season 4",
        "logo": "https://archive.org/services/img/ironsideS04",
        "url": "https://archive.org/details/ironsideS04",
@@ -6976,6 +6965,17 @@
        "plot": "The Complete Season 4 of Ironside",
        "page": "https://archive.org/details/ironsideS04",
        "id": "ironsideS04",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Hill street blues Season 3",
+       "logo": "https://archive.org/services/img/hill.street.blues.s-03",
+       "url": "https://archive.org/details/hill.street.blues.s-03",
+       "date": null,
+       "plot": "The Complete Third Season",
+       "page": "https://archive.org/details/hill.street.blues.s-03",
+       "id": "hill.street.blues.s-03",
        "duration": null,
        "resolve": "archive"
       },
@@ -7156,6 +7156,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Twilight Zone 1985 S01",
+       "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
+       "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
+       "date": null,
+       "plot": "The Twilight Zone 1985 S01",
+       "page": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
+       "id": "twilight-zone-1985-1x-01-shatterday",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Bonanza - Badge Without Honor",
        "logo": "https://archive.org/services/img/Bonanza_-_Badge_Without_Honor",
        "url": "https://archive.org/details/Bonanza_-_Badge_Without_Honor",
@@ -7189,17 +7200,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Twilight Zone 1985 S01",
-       "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
-       "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
-       "date": null,
-       "plot": "The Twilight Zone 1985 S01",
-       "page": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
-       "id": "twilight-zone-1985-1x-01-shatterday",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Flash Gordon VCD",
        "logo": "https://archive.org/services/img/Flash_Gordon_VCD-001",
        "url": "https://archive.org/details/Flash_Gordon_VCD-001",
@@ -7222,17 +7222,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Super Girl 1979 (English Subtitles)",
-       "logo": "https://archive.org/services/img/47_20230622",
-       "url": "https://archive.org/details/47_20230622",
-       "date": null,
-       "plot": "A sexy action series about the activities of seven female detectives working in the detective agency 'Super Girl Seven', led by Yuko Hirose (played by Yoko Nogiwa), who quit her job as a police officer.",
-       "page": "https://archive.org/details/47_20230622",
-       "id": "47_20230622",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "As The World Turns",
        "logo": "https://archive.org/services/img/AsTheWorldTurns",
        "url": "https://archive.org/details/AsTheWorldTurns",
@@ -7240,17 +7229,6 @@
        "plot": "Long running CBS soap opera.From November 22,1963,so there will be interuptions.",
        "page": "https://archive.org/details/AsTheWorldTurns",
        "id": "AsTheWorldTurns",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Elly's First Date",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep09_Ellys_First_Date",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep09_Ellys_First_Date",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep 09 Elly's First Date",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep09_Ellys_First_Date",
-       "id": "Beverly_Hillbillies_Ep09_Ellys_First_Date",
        "duration": null,
        "resolve": "archive"
       },
@@ -7263,6 +7241,17 @@
        "page": "https://archive.org/details/1957NflChampionshipGame",
        "id": "1957NflChampionshipGame",
        "duration": "27:25",
+       "resolve": "archive"
+      },
+      {
+       "name": "Elly's First Date",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep09_Ellys_First_Date",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep09_Ellys_First_Date",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep 09 Elly's First Date",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep09_Ellys_First_Date",
+       "id": "Beverly_Hillbillies_Ep09_Ellys_First_Date",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -7299,6 +7288,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Super Girl 1979 (English Subtitles)",
+       "logo": "https://archive.org/services/img/47_20230622",
+       "url": "https://archive.org/details/47_20230622",
+       "date": null,
+       "plot": "A sexy action series about the activities of seven female detectives working in the detective agency 'Super Girl Seven', led by Yuko Hirose (played by Yoko Nogiwa), who quit her job as a police officer.",
+       "page": "https://archive.org/details/47_20230622",
+       "id": "47_20230622",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Car Commericals 1958-1960",
        "logo": "https://archive.org/services/img/Car_Commericals_1956-1960page2",
        "url": "https://archive.org/details/Car_Commericals_1956-1960page2",
@@ -7317,6 +7317,17 @@
        "plot": "Public domain episodes of the TV series starring Charles Bronson. From IMDb: Former combat cameraman Mike Kovac is now a freelance photographer in New York City, specializing in difficult and dangerous assignments where he can get the kinds of pictures that other photographers can't, or won't take. He sometimes gets help, often reluctantly, from his contact in the police department, Lt. Donovan, and advice from his immigrant father Anton.",
        "page": "https://archive.org/details/manwithacamera_202002",
        "id": "manwithacamera_202002",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Twilight Zone – Complete Season 3 (37 episodes) (restored, colorized) (1961, TV series)",
+       "logo": "https://archive.org/services/img/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "url": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "date": null,
+       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
+       "page": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "id": "the-twilight-zone-s-3e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7350,17 +7361,6 @@
        "plot": "The Beverly Hillbillies Ep 50 Christmas At The Clampetts",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep50__Christmas_At_The_Clampetts",
        "id": "Beverly_Hillbillies_Ep50__Christmas_At_The_Clampetts",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Twilight Zone – Complete Season 3 (37 episodes) (restored, colorized) (1961, TV series)",
-       "logo": "https://archive.org/services/img/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "url": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "date": null,
-       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
-       "page": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "id": "the-twilight-zone-s-3e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7475,6 +7475,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Miss Television 1950 Contest",
+       "logo": "https://archive.org/services/img/MissTelevision1950Contest",
+       "url": "https://archive.org/details/MissTelevision1950Contest",
+       "date": null,
+       "plot": "Miss U.S.Television 1950 Grand Finals.",
+       "page": "https://archive.org/details/MissTelevision1950Contest",
+       "id": "MissTelevision1950Contest",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "''You Bet Your Life with Groucho Marx'' - Secret Word Clock",
        "logo": "https://archive.org/services/img/You_Bet_Your_Life_Clock",
        "url": "https://archive.org/details/You_Bet_Your_Life_Clock",
@@ -7493,17 +7504,6 @@
        "plot": "Annie Oakley Ep Hard Rock Trail",
        "page": "https://archive.org/details/Annie_Oakley_Hard_Rock_Trail",
        "id": "Annie_Oakley_Hard_Rock_Trail",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Miss Television 1950 Contest",
-       "logo": "https://archive.org/services/img/MissTelevision1950Contest",
-       "url": "https://archive.org/details/MissTelevision1950Contest",
-       "date": null,
-       "plot": "Miss U.S.Television 1950 Grand Finals.",
-       "page": "https://archive.org/details/MissTelevision1950Contest",
-       "id": "MissTelevision1950Contest",
        "duration": null,
        "resolve": "archive"
       },
@@ -7541,17 +7541,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Jeds Dilemma",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep17_Jeds_Dilemma",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep17_Jeds_Dilemma",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep17 Jeds Dilemma",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep17_Jeds_Dilemma",
-       "id": "Beverly_Hillbillies_Ep17_Jeds_Dilemma",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Dick Van Dyke Show - Season 1 of 5 - MKV",
        "logo": "https://archive.org/services/img/the-dick-van-dyke-show-season-1-of-5-mkv",
        "url": "https://archive.org/details/the-dick-van-dyke-show-season-1-of-5-mkv",
@@ -7559,6 +7548,17 @@
        "plot": "The Dick Van Dyke Show - Season 1 of 5 - MKV Blu-Ray Source Video Size: 1440x1080 The Dick Van Dyke Show is an American television sitcom that initially aired on CBS from October 3, 1961, to June 1, 1966, with a total of 158 half-hour episodes spanning five seasons. It was produced by Calvada Productions in association with the CBS Television Network and Desilu Studios. The show was created by Carl Reiner and starred Dick Van Dyke, Rose Marie, Morey Amsterdam, Larry Mathews, and Mary Tyler Moore. It centered on the work and home life of television comedy writer Rob Petrie (Van Dyke). The show ",
        "page": "https://archive.org/details/the-dick-van-dyke-show-season-1-of-5-mkv",
        "id": "the-dick-van-dyke-show-season-1-of-5-mkv",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Jeds Dilemma",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep17_Jeds_Dilemma",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep17_Jeds_Dilemma",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep17 Jeds Dilemma",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep17_Jeds_Dilemma",
+       "id": "Beverly_Hillbillies_Ep17_Jeds_Dilemma",
        "duration": null,
        "resolve": "archive"
       },
@@ -7614,6 +7614,17 @@
        "plot": "Beverly Hillbillies Ep15 Jed Rescues Pearl",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep15_Jed_Rescues_Pearl",
        "id": "Beverly_Hillbillies_Ep15_Jed_Rescues_Pearl",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Thriller (1960) - Complete Series",
+       "logo": "https://archive.org/services/img/s-01-e-26-papa-benjamin",
+       "url": "https://archive.org/details/s-01-e-26-papa-benjamin",
+       "date": null,
+       "plot": "Thriller (1960) - Complete Series - All 67 episodes of Thriller staring Boris Karloff",
+       "page": "https://archive.org/details/s-01-e-26-papa-benjamin",
+       "id": "s-01-e-26-papa-benjamin",
        "duration": null,
        "resolve": "archive"
       },
@@ -7681,17 +7692,6 @@
        "page": "https://archive.org/details/BbcTelevisionReceivedInNewYork-1938",
        "id": "BbcTelevisionReceivedInNewYork-1938",
        "duration": "3:18",
-       "resolve": "archive"
-      },
-      {
-       "name": "Thriller (1960) - Complete Series",
-       "logo": "https://archive.org/services/img/s-01-e-26-papa-benjamin",
-       "url": "https://archive.org/details/s-01-e-26-papa-benjamin",
-       "date": null,
-       "plot": "Thriller (1960) - Complete Series - All 67 episodes of Thriller staring Boris Karloff",
-       "page": "https://archive.org/details/s-01-e-26-papa-benjamin",
-       "id": "s-01-e-26-papa-benjamin",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -8069,6 +8069,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Only Fools & Horses 1996 Specials (Uncut)",
+       "logo": "https://archive.org/services/img/only-fools-specials-2",
+       "url": "https://archive.org/details/only-fools-specials-2",
+       "date": null,
+       "plot": "All 3 specials from the 'Christmas Trilogy' uncut. Scenes that are always cut on broadcast/dvd include: Heroes & Villains: The Omen 'O Fortuna' song when future Rodney looks at future Damien. Time On Our Hands: The whole scene featuring the Crosby, Stills & Nash 'Our House' song.",
+       "page": "https://archive.org/details/only-fools-specials-2",
+       "id": "only-fools-specials-2",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Big Break",
        "logo": "https://archive.org/services/img/Dragnet_TheBigBreak",
        "url": "https://archive.org/details/Dragnet_TheBigBreak",
@@ -8164,17 +8175,6 @@
        "plot": "The Big Look from the 1950's series Dragnet",
        "page": "https://archive.org/details/Dragnet_The_Big_Look",
        "id": "Dragnet_The_Big_Look",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Only Fools & Horses 1996 Specials (Uncut)",
-       "logo": "https://archive.org/services/img/only-fools-specials-2",
-       "url": "https://archive.org/details/only-fools-specials-2",
-       "date": null,
-       "plot": "All 3 specials from the 'Christmas Trilogy' uncut. Scenes that are always cut on broadcast/dvd include: Heroes & Villains: The Omen 'O Fortuna' song when future Rodney looks at future Damien. Time On Our Hands: The whole scene featuring the Crosby, Stills & Nash 'Our House' song.",
-       "page": "https://archive.org/details/only-fools-specials-2",
-       "id": "only-fools-specials-2",
        "duration": null,
        "resolve": "archive"
       },
@@ -8894,6 +8894,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Alien Nation (1989) Complete Series",
+       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "date": null,
+       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
+       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Big Seventeen",
        "logo": "https://archive.org/services/img/TheBigSeventeen",
        "url": "https://archive.org/details/TheBigSeventeen",
@@ -8967,17 +8978,6 @@
        "plot": "Love That Bob-5x01-1958-09-23-Bob and Schultzy Reunite",
        "page": "https://archive.org/details/Love_That_Bob-5x01-1958-09-23-Bob_and_Schultzy_Reunite.avi",
        "id": "Love_That_Bob-5x01-1958-09-23-Bob_and_Schultzy_Reunite.avi",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alien Nation (1989) Complete Series",
-       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "date": null,
-       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
-       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
        "duration": null,
        "resolve": "archive"
       },
@@ -9180,6 +9180,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Colgate Comedy Hour",
+       "logo": "https://archive.org/services/img/ColgateComedyHour",
+       "url": "https://archive.org/details/ColgateComedyHour",
+       "date": null,
+       "plot": "Colgate Comedy Hour",
+       "page": "https://archive.org/details/ColgateComedyHour",
+       "id": "ColgateComedyHour",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Dangerous Assignment: The Alien Smuggler Story",
        "logo": "https://archive.org/services/img/TheAlienSmugglerStory",
        "url": "https://archive.org/details/TheAlienSmugglerStory",
@@ -9275,17 +9286,6 @@
        "plot": "Love That Bob Ep 4x33 Bob DIgs Rock And Roll",
        "page": "https://archive.org/details/Love_That_Bob_Ep4x33_Bob_DIgs_Rock_And_Roll",
        "id": "Love_That_Bob_Ep4x33_Bob_DIgs_Rock_And_Roll",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Colgate Comedy Hour",
-       "logo": "https://archive.org/services/img/ColgateComedyHour",
-       "url": "https://archive.org/details/ColgateComedyHour",
-       "date": null,
-       "plot": "Colgate Comedy Hour",
-       "page": "https://archive.org/details/ColgateComedyHour",
-       "id": "ColgateComedyHour",
        "duration": null,
        "resolve": "archive"
       },
@@ -9408,6 +9408,17 @@
        "page": "https://archive.org/details/DragnetTheBigDance",
        "id": "DragnetTheBigDance",
        "duration": "26:07",
+       "resolve": "archive"
+      },
+      {
+       "name": "Are You Being Served? Series 3 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-3",
+       "url": "https://archive.org/details/are-you-being-served-3",
+       "date": null,
+       "plot": "All of series 3 uncut including the 2 episodes that are always cut on tv and the UK DVD releases (German Week & New Look)",
+       "page": "https://archive.org/details/are-you-being-served-3",
+       "id": "are-you-being-served-3",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9730,17 +9741,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Are You Being Served? Series 3 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-3",
-       "url": "https://archive.org/details/are-you-being-served-3",
-       "date": null,
-       "plot": "All of series 3 uncut including the 2 episodes that are always cut on tv and the UK DVD releases (German Week & New Look)",
-       "page": "https://archive.org/details/are-you-being-served-3",
-       "id": "are-you-being-served-3",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Decoy: The Pilot Episode",
        "logo": "https://archive.org/services/img/DecoyThePilotEpisode",
        "url": "https://archive.org/details/DecoyThePilotEpisode",
@@ -9983,6 +9983,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Veronica's Closet (1997-2000) complete series",
+       "logo": "https://archive.org/services/img/veronicascloset",
+       "url": "https://archive.org/details/veronicascloset",
+       "date": null,
+       "plot": "Veronica's Closet (1997-2000) complete series",
+       "page": "https://archive.org/details/veronicascloset",
+       "id": "veronicascloset",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "DuMont Network episode of 'Okay, Mother'",
        "logo": "https://archive.org/services/img/Okay_Mother",
        "url": "https://archive.org/details/Okay_Mother",
@@ -10012,17 +10023,6 @@
        "plot": "Electra Woman and Dyna Girl \"The Spider Lady\"",
        "page": "https://archive.org/details/electra-woman",
        "id": "electra-woman",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Veronica's Closet (1997-2000) complete series",
-       "logo": "https://archive.org/services/img/veronicascloset",
-       "url": "https://archive.org/details/veronicascloset",
-       "date": null,
-       "plot": "Veronica's Closet (1997-2000) complete series",
-       "page": "https://archive.org/details/veronicascloset",
-       "id": "veronicascloset",
        "duration": null,
        "resolve": "archive"
       },
@@ -10280,17 +10280,6 @@
        "resolve": "archive"
       },
       {
-       "name": "2 Stupid Dogs - Complete Season 1",
-       "logo": "https://archive.org/services/img/2-stupid-dogs-season-1",
-       "url": "https://archive.org/details/2-stupid-dogs-season-1",
-       "date": null,
-       "plot": "All 13 episodes of 2 Stupid Dogs from 1993. This is a show that aired in short segments on Cartoon Network/Boomerang and featured the voice of Brad Garrett. I'm still searching for a complete season 2. So far I'm missing about half of the episodes.",
-       "page": "https://archive.org/details/2-stupid-dogs-season-1",
-       "id": "2-stupid-dogs-season-1",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Mickey Rooney Show Misc 08",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_08",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_08",
@@ -10412,6 +10401,17 @@
        "resolve": "archive"
       },
       {
+       "name": "2 Stupid Dogs - Complete Season 1",
+       "logo": "https://archive.org/services/img/2-stupid-dogs-season-1",
+       "url": "https://archive.org/details/2-stupid-dogs-season-1",
+       "date": null,
+       "plot": "All 13 episodes of 2 Stupid Dogs from 1993. This is a show that aired in short segments on Cartoon Network/Boomerang and featured the voice of Brad Garrett. I'm still searching for a complete season 2. So far I'm missing about half of the episodes.",
+       "page": "https://archive.org/details/2-stupid-dogs-season-1",
+       "id": "2-stupid-dogs-season-1",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Are You Being Served? Series 5 (Uncut)",
        "logo": "https://archive.org/services/img/are-you-being-served-5",
        "url": "https://archive.org/details/are-you-being-served-5",
@@ -10474,6 +10474,17 @@
        "plot": "Quatermass II Episode 4 of 6 6 part BBC Sci Fi Live TV series from 1955",
        "page": "https://archive.org/details/Quatermass_II_Episode_4of6_1955",
        "id": "Quatermass_II_Episode_4of6_1955",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Knight Rider S01 E01 & E02 Knight of the Phoenix: Part 1 & 2",
+       "logo": "https://archive.org/services/img/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
+       "url": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
+       "date": null,
+       "plot": "E01: A detective, believed to have been killed, is given a new face and identity and is armed with an artificially intelligent super car. E02: Michael Knight seeks justice and revenge as he goes after the clever industrial saboteurs who murdered his partner.",
+       "page": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
+       "id": "knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
        "duration": null,
        "resolve": "archive"
       },
@@ -10621,17 +10632,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Knight Rider S01 E01 & E02 Knight of the Phoenix: Part 1 & 2",
-       "logo": "https://archive.org/services/img/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "url": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "date": null,
-       "plot": "E01: A detective, believed to have been killed, is given a new face and identity and is armed with an artificially intelligent super car. E02: Michael Knight seeks justice and revenge as he goes after the clever industrial saboteurs who murdered his partner.",
-       "page": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "id": "knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Are You Being Served? Series 2 (Uncut)",
        "logo": "https://archive.org/services/img/are-you-being-served-2",
        "url": "https://archive.org/details/are-you-being-served-2",
@@ -10705,6 +10705,17 @@
        "plot": "On a hot summer night, artist Anthony March sees a distraught woman in the apartment opposite gas herself after taking a distressing phone call -- but when he goes over to the room, nobody is there. However, when he sees the same woman some days later, this time with a witness, it transpires that what he saw was a vision of the future and tragedy is averted.",
        "page": "https://archive.org/details/S2E7THEOPENWINDOW_201804",
        "id": "S2E7THEOPENWINDOW_201804",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Moonlighting S01",
+       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
+       "url": "https://archive.org/details/moonlighting-season-1-e-01",
+       "date": null,
+       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
+       "page": "https://archive.org/details/moonlighting-season-1-e-01",
+       "id": "moonlighting-season-1-e-01",
        "duration": null,
        "resolve": "archive"
       },
@@ -10819,6 +10830,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Captain N: The Game Master - Season 2 - MKV",
+       "logo": "https://archive.org/services/img/captain-n-the-game-master-season-2-mkv",
+       "url": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
+       "date": null,
+       "plot": "Captain N: The Game Master - Season 2 - MKV Captain N: The Game Master is an American–Canadian animated television series that aired on television from 1989 to 1991 as part of the Saturday morning cartoon lineup on NBC. The show was produced by DIC Animation City and incorporated elements from many of the most popular video games of the time from the Japanese company Nintendo. There was also a comic book version by Valiant Comics, despite only featuring characters from games produced by Nintendo. The show is also part of an hour-long block in Season 2 with The Adventures of Super Mario Bros. 3",
+       "page": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
+       "id": "captain-n-the-game-master-season-2-mkv",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Big Crime",
        "logo": "https://archive.org/services/img/Dragnet_TheBigCrime",
        "url": "https://archive.org/details/Dragnet_TheBigCrime",
@@ -10874,17 +10896,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Captain N: The Game Master - Season 2 - MKV",
-       "logo": "https://archive.org/services/img/captain-n-the-game-master-season-2-mkv",
-       "url": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
-       "date": null,
-       "plot": "Captain N: The Game Master - Season 2 - MKV Captain N: The Game Master is an American–Canadian animated television series that aired on television from 1989 to 1991 as part of the Saturday morning cartoon lineup on NBC. The show was produced by DIC Animation City and incorporated elements from many of the most popular video games of the time from the Japanese company Nintendo. There was also a comic book version by Valiant Comics, despite only featuring characters from games produced by Nintendo. The show is also part of an hour-long block in Season 2 with The Adventures of Super Mario Bros. 3",
-       "page": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
-       "id": "captain-n-the-game-master-season-2-mkv",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Ozzie and Harriet misc 03",
        "logo": "https://archive.org/services/img/OZZIEANDHARRIETMISC03",
        "url": "https://archive.org/details/OZZIEANDHARRIETMISC03",
@@ -10892,17 +10903,6 @@
        "plot": "Ozzie and Harriet misc 03",
        "page": "https://archive.org/details/OZZIEANDHARRIETMISC03",
        "id": "OZZIEANDHARRIETMISC03",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Moonlighting S01",
-       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
-       "url": "https://archive.org/details/moonlighting-season-1-e-01",
-       "date": null,
-       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
-       "page": "https://archive.org/details/moonlighting-season-1-e-01",
-       "id": "moonlighting-season-1-e-01",
        "duration": null,
        "resolve": "archive"
       },
