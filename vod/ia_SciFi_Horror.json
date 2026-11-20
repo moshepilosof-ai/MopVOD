@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-19 09:50",
+   "updated": "2026-11-20 09:32",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3182,6 +3182,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Messiah Of Evil 1973",
+       "logo": "https://archive.org/services/img/messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
+       "url": "https://archive.org/details/messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
+       "date": "1973-01-01",
+       "plot": "A young woman looking for her missing father finds herself in a strange California coastal city ruled by a mysterious cult of the walking dead.",
+       "page": "https://archive.org/details/messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
+       "id": "messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Loreley's Grasp 1973",
        "logo": "https://archive.org/services/img/the-loreleys-grasp-1973_202406",
        "url": "https://archive.org/details/the-loreleys-grasp-1973_202406",
@@ -3200,17 +3211,6 @@
        "plot": "An Indian mystic uses magical chants to raise women from the dead, then sends them out to perform revenge killings for him.",
        "page": "https://archive.org/details/vengeance-of-the-zombies-1973",
        "id": "vengeance-of-the-zombies-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Messiah Of Evil 1973",
-       "logo": "https://archive.org/services/img/messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
-       "url": "https://archive.org/details/messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
-       "date": "1973-01-01",
-       "plot": "A young woman looking for her missing father finds herself in a strange California coastal city ruled by a mysterious cult of the walking dead.",
-       "page": "https://archive.org/details/messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
-       "id": "messiah.of.-evil.-1973.1080p.-blu-ray.-h-264.-aac-rarbg_202406",
        "duration": null,
        "resolve": "archive"
       },
@@ -3358,17 +3358,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Tales from the Crypt (1972)",
-       "logo": "https://archive.org/services/img/tales.-from.-the.-crypt.-1972",
-       "url": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
-       "date": "1972-01-01",
-       "plot": "Tales from the Crypt is a horror anthology film that consists of five interconnected stories based on the EC Comics series of the same name. The film begins with a group of people who find themselves trapped in a mysterious crypt, where they encounter the Crypt Keeper, who narrates their chilling tales. And All Through the House : A woman is about to murder her husband on Christmas Eve but is interrupted by a deranged escaped convict dressed as Santa Claus. As she struggles between covering up her crime and surviving the night, a twist endings leads to a shocking revelation. Reflection of Deat",
-       "page": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
-       "id": "tales.-from.-the.-crypt.-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Horror Express",
        "logo": "https://archive.org/services/img/HorrorExpress",
        "url": "https://archive.org/details/HorrorExpress",
@@ -3377,6 +3366,17 @@
        "page": "https://archive.org/details/HorrorExpress",
        "id": "HorrorExpress",
        "duration": "1:27:05",
+       "resolve": "archive"
+      },
+      {
+       "name": "Tales from the Crypt (1972)",
+       "logo": "https://archive.org/services/img/tales.-from.-the.-crypt.-1972",
+       "url": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
+       "date": "1972-01-01",
+       "plot": "Tales from the Crypt is a horror anthology film that consists of five interconnected stories based on the EC Comics series of the same name. The film begins with a group of people who find themselves trapped in a mysterious crypt, where they encounter the Crypt Keeper, who narrates their chilling tales. And All Through the House : A woman is about to murder her husband on Christmas Eve but is interrupted by a deranged escaped convict dressed as Santa Claus. As she struggles between covering up her crime and surviving the night, a twist endings leads to a shocking revelation. Reflection of Deat",
+       "page": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
+       "id": "tales.-from.-the.-crypt.-1972",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -3545,17 +3545,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Murder Mansion 1972",
-       "logo": "https://archive.org/services/img/the-murder-mansion-1972_202408",
-       "url": "https://archive.org/details/the-murder-mansion-1972_202408",
-       "date": "1972-01-01",
-       "plot": "A couple lost in thick fog take refuge in an old mansion next to a cemetery, where strange things start to happen.",
-       "page": "https://archive.org/details/the-murder-mansion-1972_202408",
-       "id": "the-murder-mansion-1972_202408",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Asphyx 1972",
        "logo": "https://archive.org/services/img/the-asphyx-1972",
        "url": "https://archive.org/details/the-asphyx-1972",
@@ -3563,6 +3552,17 @@
        "plot": "A gentleman photographer in Victorian England searches for immortality when he tries to trap the human spirit at the moment of death.",
        "page": "https://archive.org/details/the-asphyx-1972",
        "id": "the-asphyx-1972",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Murder Mansion 1972",
+       "logo": "https://archive.org/services/img/the-murder-mansion-1972_202408",
+       "url": "https://archive.org/details/the-murder-mansion-1972_202408",
+       "date": "1972-01-01",
+       "plot": "A couple lost in thick fog take refuge in an old mansion next to a cemetery, where strange things start to happen.",
+       "page": "https://archive.org/details/the-murder-mansion-1972_202408",
+       "id": "the-murder-mansion-1972_202408",
        "duration": null,
        "resolve": "archive"
       },
@@ -4254,13 +4254,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Spirits Of The Dead 1968",
-       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
-       "url": "https://archive.org/details/spirits-of-the-dead-1968",
+       "name": "Kuroneko (1968)",
+       "logo": "https://archive.org/services/img/kuroneko-1968_202510",
+       "url": "https://archive.org/details/kuroneko-1968_202510",
        "date": "1968-01-01",
-       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
-       "page": "https://archive.org/details/spirits-of-the-dead-1968",
-       "id": "spirits-of-the-dead-1968",
+       "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
+       "page": "https://archive.org/details/kuroneko-1968_202510",
+       "id": "kuroneko-1968_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -4276,13 +4276,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Kuroneko (1968)",
-       "logo": "https://archive.org/services/img/kuroneko-1968_202510",
-       "url": "https://archive.org/details/kuroneko-1968_202510",
+       "name": "Spirits Of The Dead 1968",
+       "logo": "https://archive.org/services/img/spirits-of-the-dead-1968",
+       "url": "https://archive.org/details/spirits-of-the-dead-1968",
        "date": "1968-01-01",
-       "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
-       "page": "https://archive.org/details/kuroneko-1968_202510",
-       "id": "kuroneko-1968_202510",
+       "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
+       "page": "https://archive.org/details/spirits-of-the-dead-1968",
+       "id": "spirits-of-the-dead-1968",
        "duration": null,
        "resolve": "archive"
       },
@@ -4683,17 +4683,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Dr Terror's House Of Horrors 1965",
-       "logo": "https://archive.org/services/img/dr-terrors-house-of-horrors-1965",
-       "url": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
-       "date": "1965-01-01",
-       "plot": "Aboard a British train, mysterious fortune teller Dr. Schreck uses tarot cards to read the futures of five fellow passengers.",
-       "page": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
-       "id": "dr-terrors-house-of-horrors-1965",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The 10th Victim 1965",
        "logo": "https://archive.org/services/img/the-10th-victim-1965",
        "url": "https://archive.org/details/the-10th-victim-1965",
@@ -4701,6 +4690,17 @@
        "plot": "In a future when people indulge in human hunts for entertainment a veteran huntress' plan to kill a victim for a major TV sponsorship deal is compounded by romance.",
        "page": "https://archive.org/details/the-10th-victim-1965",
        "id": "the-10th-victim-1965",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Dr Terror's House Of Horrors 1965",
+       "logo": "https://archive.org/services/img/dr-terrors-house-of-horrors-1965",
+       "url": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
+       "date": "1965-01-01",
+       "plot": "Aboard a British train, mysterious fortune teller Dr. Schreck uses tarot cards to read the futures of five fellow passengers.",
+       "page": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
+       "id": "dr-terrors-house-of-horrors-1965",
        "duration": null,
        "resolve": "archive"
       },
@@ -4892,17 +4892,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Kwaidan (1964)",
-       "logo": "https://archive.org/services/img/kwaidan-1964_202510",
-       "url": "https://archive.org/details/kwaidan-1964_202510",
-       "date": "1964-01-01",
-       "plot": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include \"The Black Hair,\" about a samurai haunted by his past, \"The Woman of the Snow,\" featur",
-       "page": "https://archive.org/details/kwaidan-1964_202510",
-       "id": "kwaidan-1964_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Last Man on Earth (1964)",
        "logo": "https://archive.org/services/img/the-last-man-on-earth-1964_20251031",
        "url": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
@@ -4910,6 +4899,17 @@
        "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
        "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
        "id": "the-last-man-on-earth-1964_20251031",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Kwaidan (1964)",
+       "logo": "https://archive.org/services/img/kwaidan-1964_202510",
+       "url": "https://archive.org/details/kwaidan-1964_202510",
+       "date": "1964-01-01",
+       "plot": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include \"The Black Hair,\" about a samurai haunted by his past, \"The Woman of the Snow,\" featur",
+       "page": "https://archive.org/details/kwaidan-1964_202510",
+       "id": "kwaidan-1964_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -6118,17 +6118,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Lake of the Dead (1958)",
-       "logo": "https://archive.org/services/img/lake.-of.-the.-dead.-1958",
-       "url": "https://archive.org/details/lake.-of.-the.-dead.-1958",
-       "date": "1958-01-01",
-       "plot": "\"Lake of the Dead\" (Norwegian title: \"De dødes tjern\") is a 1958 Norwegian mystery horror film directed by Kåre Bergstrøm. The film follows six friends who travel to a remote cabin in the Østerdal forests of Norway. They are there to visit Bjørn Werner, but upon arrival, they discover he is missing, and his dog is found dead near a nearby lake. The group soon becomes entangled in local legends about a tragic past involving a murder-suicide linked to the lake, which suggests that anyone who stays in the cabin may be drawn to drown themselves in the water.",
-       "page": "https://archive.org/details/lake.-of.-the.-dead.-1958",
-       "id": "lake.-of.-the.-dead.-1958",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Hideous Sun Demon (1958)",
        "logo": "https://archive.org/services/img/the.-hideous.-sun.-demon.-1958",
        "url": "https://archive.org/details/the.-hideous.-sun.-demon.-1958",
@@ -6136,6 +6125,17 @@
        "plot": "The Hideous Sun Demon is a 1958 American science fiction horror film. It was produced, directed, and co-written by Robert Clarke, who also stars in the lead role. The story follows Dr. Gilbert \"Gil\" McKenna, a research scientist who, after being exposed to a radioactive isotope, transforms into a lizard-like creature whenever he is exposed to sunlight. This transformation leads to horrifying consequences, including violent behavior. The film explores themes of isolation and the struggle with one's darker nature.",
        "page": "https://archive.org/details/the.-hideous.-sun.-demon.-1958",
        "id": "the.-hideous.-sun.-demon.-1958",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Lake of the Dead (1958)",
+       "logo": "https://archive.org/services/img/lake.-of.-the.-dead.-1958",
+       "url": "https://archive.org/details/lake.-of.-the.-dead.-1958",
+       "date": "1958-01-01",
+       "plot": "\"Lake of the Dead\" (Norwegian title: \"De dødes tjern\") is a 1958 Norwegian mystery horror film directed by Kåre Bergstrøm. The film follows six friends who travel to a remote cabin in the Østerdal forests of Norway. They are there to visit Bjørn Werner, but upon arrival, they discover he is missing, and his dog is found dead near a nearby lake. The group soon becomes entangled in local legends about a tragic past involving a murder-suicide linked to the lake, which suggests that anyone who stays in the cabin may be drawn to drown themselves in the water.",
+       "page": "https://archive.org/details/lake.-of.-the.-dead.-1958",
+       "id": "lake.-of.-the.-dead.-1958",
        "duration": null,
        "resolve": "archive"
       },
@@ -7800,17 +7800,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Vampyr ( Original German)",
-       "logo": "https://archive.org/services/img/vampr-german-intertiles",
-       "url": "https://archive.org/details/vampr-german-intertiles",
-       "date": "1932-01-01",
-       "plot": "With Vampyr, Danish filmmaker Carl Theodor Dreyer channeled his genius for creating mesmerizing atmosphere and austere, unsettling imagery into the horror genre. The result—a chilling film about a student of the occult who encounters supernatural haunts and local evildoers in a village outside of Paris—is nearly unclassifiable. A host of stunning camera and editing tricks and densely layered sounds create a mood of dreamlike terror. With its roiling fogs, ominous scythes, and foreboding echoes, Vampyr is one of cinema’s great nightmares.",
-       "page": "https://archive.org/details/vampr-german-intertiles",
-       "id": "vampr-german-intertiles",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "White Zombie (1932)",
        "logo": "https://archive.org/services/img/white.zombie.1932",
        "url": "https://archive.org/details/white.zombie.1932",
@@ -7818,6 +7807,17 @@
        "plot": "\"White Zombie\" is a 1932 horror film directed by Victor Halperin, often regarded as the first feature-length zombie movie. It is a horror film set in Haiti, focusing on a young woman named Madeleine who is transformed into a zombie by an evil voodoo master named \"Murder\" Legendre, played by Bela Lugosi. The story follows her fiancé, Neil Parker, as he seeks to rescue her from this fate. The film explores themes of love, betrayal, and the supernatural.",
        "page": "https://archive.org/details/white.zombie.1932",
        "id": "white.zombie.1932",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Vampyr ( Original German)",
+       "logo": "https://archive.org/services/img/vampr-german-intertiles",
+       "url": "https://archive.org/details/vampr-german-intertiles",
+       "date": "1932-01-01",
+       "plot": "With Vampyr, Danish filmmaker Carl Theodor Dreyer channeled his genius for creating mesmerizing atmosphere and austere, unsettling imagery into the horror genre. The result—a chilling film about a student of the occult who encounters supernatural haunts and local evildoers in a village outside of Paris—is nearly unclassifiable. A host of stunning camera and editing tricks and densely layered sounds create a mood of dreamlike terror. With its roiling fogs, ominous scythes, and foreboding echoes, Vampyr is one of cinema’s great nightmares.",
+       "page": "https://archive.org/details/vampr-german-intertiles",
+       "id": "vampr-german-intertiles",
        "duration": null,
        "resolve": "archive"
       },
@@ -8722,17 +8722,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Devil's Hand (1962)",
-       "logo": "https://archive.org/services/img/TheDevilsHand1962",
-       "url": "https://archive.org/details/TheDevilsHand1962",
-       "date": null,
-       "plot": "A man keeps seeing a beautiful woman in his dreams. It turns out she's real and the visions are no coincidence as she is a member of a devil cult. Stars Robert Alda, Linda Christian, and Niel Hamilton from the \"Batman\" tv series.",
-       "page": "https://archive.org/details/TheDevilsHand1962",
-       "id": "TheDevilsHand1962",
-       "duration": "1:09:40",
-       "resolve": "archive"
-      },
-      {
        "name": "Beast from Haunted Cave",
        "logo": "https://archive.org/services/img/BeastFromHauntedCave",
        "url": "https://archive.org/details/BeastFromHauntedCave",
@@ -8741,6 +8730,17 @@
        "page": "https://archive.org/details/BeastFromHauntedCave",
        "id": "BeastFromHauntedCave",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Devil's Hand (1962)",
+       "logo": "https://archive.org/services/img/TheDevilsHand1962",
+       "url": "https://archive.org/details/TheDevilsHand1962",
+       "date": null,
+       "plot": "A man keeps seeing a beautiful woman in his dreams. It turns out she's real and the visions are no coincidence as she is a member of a devil cult. Stars Robert Alda, Linda Christian, and Niel Hamilton from the \"Batman\" tv series.",
+       "page": "https://archive.org/details/TheDevilsHand1962",
+       "id": "TheDevilsHand1962",
+       "duration": "1:09:40",
        "resolve": "archive"
       },
       {
@@ -9272,17 +9272,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Primitif ( 1980) Indonesian Dub",
-       "logo": "https://archive.org/services/img/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
-       "url": "https://archive.org/details/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
-       "date": null,
-       "plot": "After a raft accident in the jungle, three anthropology students and their guides attempt to escape from a primitive cannibal tribe that has hunted them down. Sorry for the lack of subs.",
-       "page": "https://archive.org/details/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
-       "id": "y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Wasp Woman (1959)",
        "logo": "https://archive.org/services/img/TheWaspWoman1959",
        "url": "https://archive.org/details/TheWaspWoman1959",
@@ -9291,6 +9280,17 @@
        "page": "https://archive.org/details/TheWaspWoman1959",
        "id": "TheWaspWoman1959",
        "duration": "1:12:32",
+       "resolve": "archive"
+      },
+      {
+       "name": "Primitif ( 1980) Indonesian Dub",
+       "logo": "https://archive.org/services/img/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
+       "url": "https://archive.org/details/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
+       "date": null,
+       "plot": "After a raft accident in the jungle, three anthropology students and their guides attempt to escape from a primitive cannibal tribe that has hunted them down. Sorry for the lack of subs.",
+       "page": "https://archive.org/details/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
+       "id": "y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9338,17 +9338,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Devil's Hand (1962)",
-       "logo": "https://archive.org/services/img/TheDevilsHand1962_154",
-       "url": "https://archive.org/details/TheDevilsHand1962_154",
-       "date": null,
-       "plot": "Rick Turner has dreams of Bianca Milan who belongs to the cult of the diabolic Camba. Mystic Nights Videos",
-       "page": "https://archive.org/details/TheDevilsHand1962_154",
-       "id": "TheDevilsHand1962_154",
-       "duration": "1:11:06",
-       "resolve": "archive"
-      },
-      {
        "name": "Bloody Pit Of Horror",
        "logo": "https://archive.org/services/img/BloodyPitOfHorror_201508",
        "url": "https://archive.org/details/BloodyPitOfHorror_201508",
@@ -9357,6 +9346,17 @@
        "page": "https://archive.org/details/BloodyPitOfHorror_201508",
        "id": "BloodyPitOfHorror_201508",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Devil's Hand (1962)",
+       "logo": "https://archive.org/services/img/TheDevilsHand1962_154",
+       "url": "https://archive.org/details/TheDevilsHand1962_154",
+       "date": null,
+       "plot": "Rick Turner has dreams of Bianca Milan who belongs to the cult of the diabolic Camba. Mystic Nights Videos",
+       "page": "https://archive.org/details/TheDevilsHand1962_154",
+       "id": "TheDevilsHand1962_154",
+       "duration": "1:11:06",
        "resolve": "archive"
       },
       {
@@ -9481,6 +9481,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Eyes of the Werewolf (1999)",
+       "logo": "https://archive.org/services/img/eyes-of-the-werewolf",
+       "url": "https://archive.org/details/eyes-of-the-werewolf",
+       "date": null,
+       "plot": "IMDB Description: A laboratory accident leaves Rich blind and at the mercy of a surgeon who performs an eye transplant. Unknown to everyone, the eyes were stolen from a werewolf. All hell breaks loose as Rich extracts revenge during the next full moon.",
+       "page": "https://archive.org/details/eyes-of-the-werewolf",
+       "id": "eyes-of-the-werewolf",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: TEENAGE ZOMBIES & THE SCREAMING SKULL",
        "logo": "https://archive.org/services/img/TEENAGEZOMBIESSCREAMINGSKULL",
        "url": "https://archive.org/details/TEENAGEZOMBIESSCREAMINGSKULL",
@@ -9499,17 +9510,6 @@
        "plot": "English subtitles for classic horror movies.",
        "page": "https://archive.org/details/the-corpse-vanishes-eng",
        "id": "the-corpse-vanishes-eng",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Eyes of the Werewolf (1999)",
-       "logo": "https://archive.org/services/img/eyes-of-the-werewolf",
-       "url": "https://archive.org/details/eyes-of-the-werewolf",
-       "date": null,
-       "plot": "IMDB Description: A laboratory accident leaves Rich blind and at the mercy of a surgeon who performs an eye transplant. Unknown to everyone, the eyes were stolen from a werewolf. All hell breaks loose as Rich extracts revenge during the next full moon.",
-       "page": "https://archive.org/details/eyes-of-the-werewolf",
-       "id": "eyes-of-the-werewolf",
        "duration": null,
        "resolve": "archive"
       },
@@ -10229,6 +10229,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Night Of The Devils 1972",
+       "logo": "https://archive.org/services/img/night-of-the-devils-1972",
+       "url": "https://archive.org/details/night-of-the-devils-1972",
+       "date": null,
+       "plot": "A mentally ill man has flashbacks to when he encountered a strange family living remotely in the countryside in total terror of an evil presence that slowly invaded their homes and lives.",
+       "page": "https://archive.org/details/night-of-the-devils-1972",
+       "id": "night-of-the-devils-1972",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Robo Vampire",
        "logo": "https://archive.org/services/img/RoboVampire",
        "url": "https://archive.org/details/RoboVampire",
@@ -10251,13 +10262,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Night Of The Devils 1972",
-       "logo": "https://archive.org/services/img/night-of-the-devils-1972",
-       "url": "https://archive.org/details/night-of-the-devils-1972",
+       "name": "Crucible Of Terror 1971",
+       "logo": "https://archive.org/services/img/crucible-of-terror-1971",
+       "url": "https://archive.org/details/crucible-of-terror-1971",
        "date": null,
-       "plot": "A mentally ill man has flashbacks to when he encountered a strange family living remotely in the countryside in total terror of an evil presence that slowly invaded their homes and lives.",
-       "page": "https://archive.org/details/night-of-the-devils-1972",
-       "id": "night-of-the-devils-1972",
+       "plot": "A deranged sculptor who creates particularly lifelike bronze sculptures edges to the brink of artistic success when the art market latches onto one of his masterpieces. No one realises that he is a maniac who uses real women as moulds for his sculptures, but lurking inside his latest work is a live model hell-bent on avenging her submersion in liquid bronze.",
+       "page": "https://archive.org/details/crucible-of-terror-1971",
+       "id": "crucible-of-terror-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -10269,17 +10280,6 @@
        "plot": "A cop (Cameron Mitchell) crosses paths with the seemingly ageless leader of a satanic cult.",
        "page": "https://archive.org/details/TheNightmareNeverEnds",
        "id": "TheNightmareNeverEnds",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Crucible Of Terror 1971",
-       "logo": "https://archive.org/services/img/crucible-of-terror-1971",
-       "url": "https://archive.org/details/crucible-of-terror-1971",
-       "date": null,
-       "plot": "A deranged sculptor who creates particularly lifelike bronze sculptures edges to the brink of artistic success when the art market latches onto one of his masterpieces. No one realises that he is a maniac who uses real women as moulds for his sculptures, but lurking inside his latest work is a live model hell-bent on avenging her submersion in liquid bronze.",
-       "page": "https://archive.org/details/crucible-of-terror-1971",
-       "id": "crucible-of-terror-1971",
        "duration": null,
        "resolve": "archive"
       },
