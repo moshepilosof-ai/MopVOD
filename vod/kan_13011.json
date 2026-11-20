@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-13011/",
    "series_id": "13011",
-   "updated": "2026-11-13 21:51",
+   "updated": "2026-11-20 22:39",
    "sub_categories": [
     {
      "name": "עונה 6",
      "channels": [
+      {
+       "name": "ערב עם שי שטרן עונה 6 - פרק 35",
+       "logo": "https://www.kan.org.il/media/z3slosr0/אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2262792/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-06",
+       "plot": "הפאנל הכי מצחיק לערב שבת עם אורנה בנאי, אורי גוטליב, נוגה דאנג'לי והדר לוי. וגם: שי ויזהר כהן יוצאים לציין את חודש האזרח הוותיק בראש העין, ואפרת גוש בראיון אחד על אחד.",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-13011/s6/1116648/",
+       "id": "1116648",
+       "season": 6
+      },
       {
        "name": "ערב עם שי שטרן 6 - פרק 34",
        "logo": "https://www.kan.org.il/media/iqceaglv/שי-שטרן-אתר.jpg",
