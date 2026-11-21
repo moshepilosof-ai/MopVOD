@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-20 22:39",
+   "updated": "2026-11-21 11:53",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "איך זה להיות שף בישראל? החלום הקולינרי - ומסלול ההגשמה המפרך עד לסרוויס",
+       "logo": "https://www.kan.org.il/media/mwrjwsgo/11-נקי.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267434/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-20",
+       "plot": "לחלום להיות שף שותפים בימינו אלפי צעירים וצעירות, וגם לא מעט מבוגרים, שבוחרים להיכנס למסלול מפרך של לימודים והכשרות כדי להפוך לטבחים מבוקשים ולכוכבי טלוויזיה. באיזה מחיר, אתם שואלים? כתבנו על הדרך הארוכה למסעדה עילית ולסינר בפריים טיים",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1121576/",
+       "id": "1121576",
+       "season": 2
+      },
       {
        "name": "אוהל אחד יכול לשנות מדינה? ההיסטוריה הסוערת של מאהלי המחאה בישראל",
        "logo": "https://www.kan.org.il/media/nb5oyxbf/לאתר-2.jpg",
