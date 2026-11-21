@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11039/",
    "series_id": "11039",
-   "updated": "2026-11-14 20:37",
+   "updated": "2026-11-21 21:21",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "שבע עם חן ליברמן | 21.11.26",
+       "logo": "https://www.kan.org.il/media/5welmfjy/שבע.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267557/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-21",
+       "plot": "כל ענייני היום הבוערים, האנשים שבמרכז החדשות ומיטב הפרשנים, מימין ומשמאל.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11039/1121710/",
+       "id": "1121710"
+      },
       {
        "name": "שבע עם חן ליברמן | 14.11.26",
        "logo": "https://www.kan.org.il/media/c1nlz2m0/ערב-עם.jpg",

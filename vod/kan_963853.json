@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-21 11:53",
+   "updated": "2026-11-21 21:19",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "המסעדות הסודיות של ישראל: המקומות הכי טעימים שמתעקשים להישאר מחוץ למפה",
+       "logo": "https://www.kan.org.il/media/yhwlc5rm/כתבה-4-אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267584/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-21",
+       "plot": "אי אפשר למצוא אותן ברשתות, הן לא משקיעות שקל בפרסום, וגם אם תחלפו לידן ברחוב יכול להיות שלא תאמינו שמוכרים שם כמה מהמנות הטעימות ביותר שאפשר למצוא בישראל. בעידן שבו הכול חייב להיות אינסטגרמי, יש מסעדות שבוחרות להישאר הרחק מאור הזרקורים. בעיקר כי המנות שלהן מצליחות למשוך לקוחות יותר מכל פוסט.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1121735/",
+       "id": "1121735",
+       "season": 2
+      },
+      {
+       "name": "מכתבי האהבה של מאיר לנסקי נחשפים: ריאיון עם אהובתו הסודית של הגנגסטר",
+       "logo": "https://www.kan.org.il/media/siqdhhxf/3_אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267583/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-21",
+       "plot": "במשך שנים זלי דה טולדו הסתירה סוד. היא הייתה אהובתו הישראלית של הגנגסטר היהודי, מאיר לנסקי. עכשיו, היא חושפת לראשונה מאות מכתבים ששלח לה לאורך עשורים ושנשמרו אצלה בקפדנות. הם מספרים את סיפור הרומן ביניהם, הקשרים עם המאפייה בארצות הברית, העזרה למדינה וליהודים וגם סיפור הגירוש שלו מישראל.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1121733/",
+       "id": "1121733",
+       "season": 2
+      },
+      {
+       "name": "מחסלים, הורסים ומטהרים: הצצה ליחידת הרובוטיקה של צה\"ל",
+       "logo": "https://www.kan.org.il/media/dutn52f5/3אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267581/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-21",
+       "plot": "ג'ויסטיקים, מסכים ברזולוציה גבוהה ולחיצה על הכפתור בתזמון מדויק – כדי לפגוע. לא, זו לא עוד כתבה על GTA6. תכירו את יחידת הרובוטים של צה\"ל: הם מסוגלים להרוס מבנים, לחסל מחבלים ולסרוק שטחי אויב – הכול במרחק קילומטרים מהחזית. יותר ויותר מהם נכנסים לפעולה בעזה, לבנון ויהודה ושומרון ומאפשרים לישראל לפעול בקו האש מבלי לסכן חיי לוחמים.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1121732/",
+       "id": "1121732",
+       "season": 2
+      },
       {
        "name": "איך זה להיות שף בישראל? החלום הקולינרי - ומסלול ההגשמה המפרך עד לסרוויס",
        "logo": "https://www.kan.org.il/media/mwrjwsgo/11-נקי.jpg",
