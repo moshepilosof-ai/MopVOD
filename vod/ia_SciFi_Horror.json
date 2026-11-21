@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-20 09:32",
+   "updated": "2026-11-21 09:25",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -2841,6 +2841,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Beast Must Die 1974",
+       "logo": "https://archive.org/services/img/the-beast-must-die-1974_202412",
+       "url": "https://archive.org/details/the-beast-must-die-1974_202412",
+       "date": "1974-01-01",
+       "plot": "A millionaire big game hunter who gathers six people at his remote English mansion, announcing that he suspects one of them is a werewolf.",
+       "page": "https://archive.org/details/the-beast-must-die-1974_202412",
+       "id": "the-beast-must-die-1974_202412",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The House On Skull Mountain 1974",
        "logo": "https://archive.org/services/img/the-house-on-skull-mountain-1974",
        "url": "https://archive.org/details/the-house-on-skull-mountain-1974",
@@ -2859,17 +2870,6 @@
        "plot": "A killer is cleaning up the streets of Milan by murdering those considered as deviant and leaving an ornamental dragonfly, soaked in the blood on each body.",
        "page": "https://archive.org/details/a-dragonfly-for-each-corpse-1974",
        "id": "a-dragonfly-for-each-corpse-1974",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Beast Must Die 1974",
-       "logo": "https://archive.org/services/img/the-beast-must-die-1974_202412",
-       "url": "https://archive.org/details/the-beast-must-die-1974_202412",
-       "date": "1974-01-01",
-       "plot": "A millionaire big game hunter who gathers six people at his remote English mansion, announcing that he suspects one of them is a werewolf.",
-       "page": "https://archive.org/details/the-beast-must-die-1974_202412",
-       "id": "the-beast-must-die-1974_202412",
        "duration": null,
        "resolve": "archive"
       },
@@ -3105,6 +3105,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Legend Of Hell House 1973",
+       "logo": "https://archive.org/services/img/the-legend-of-hell-house-1973",
+       "url": "https://archive.org/details/the-legend-of-hell-house-1973",
+       "date": "1973-01-01",
+       "plot": "A physicist, his wife and two mediums are hired to investigate a house, where 27 guests had inexplicably died in 1927, along with most of a team of paranormal investigators in the early 1950s",
+       "page": "https://archive.org/details/the-legend-of-hell-house-1973",
+       "id": "the-legend-of-hell-house-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Cat Creature",
        "logo": "https://archive.org/services/img/tcc554547748",
        "url": "https://archive.org/details/tcc554547748",
@@ -3123,17 +3134,6 @@
        "plot": "A man investigating the death of his archaeologists father discovers an ancient vampire burial ground that the creature is about to awaken and attack a nearby village.",
        "page": "https://archive.org/details/young-hannah-queen-of-the-vampires-1973",
        "id": "young-hannah-queen-of-the-vampires-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Legend Of Hell House 1973",
-       "logo": "https://archive.org/services/img/the-legend-of-hell-house-1973",
-       "url": "https://archive.org/details/the-legend-of-hell-house-1973",
-       "date": "1973-01-01",
-       "plot": "A physicist, his wife and two mediums are hired to investigate a house, where 27 guests had inexplicably died in 1927, along with most of a team of paranormal investigators in the early 1950s",
-       "page": "https://archive.org/details/the-legend-of-hell-house-1973",
-       "id": "the-legend-of-hell-house-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -3358,17 +3358,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Horror Express",
-       "logo": "https://archive.org/services/img/HorrorExpress",
-       "url": "https://archive.org/details/HorrorExpress",
-       "date": "1972-01-01",
-       "plot": "An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. - IMDB Description",
-       "page": "https://archive.org/details/HorrorExpress",
-       "id": "HorrorExpress",
-       "duration": "1:27:05",
-       "resolve": "archive"
-      },
-      {
        "name": "Tales from the Crypt (1972)",
        "logo": "https://archive.org/services/img/tales.-from.-the.-crypt.-1972",
        "url": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
@@ -3377,6 +3366,17 @@
        "page": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
        "id": "tales.-from.-the.-crypt.-1972",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Horror Express",
+       "logo": "https://archive.org/services/img/HorrorExpress",
+       "url": "https://archive.org/details/HorrorExpress",
+       "date": "1972-01-01",
+       "plot": "An English anthropologist has discovered a frozen monster in the frozen wastes of Manchuria which he believes may be the Missing Link. - IMDB Description",
+       "page": "https://archive.org/details/HorrorExpress",
+       "id": "HorrorExpress",
+       "duration": "1:27:05",
        "resolve": "archive"
       },
       {
@@ -3424,17 +3424,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Case Of The Bloody Iris 1972",
-       "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
-       "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
-       "date": "1972-01-01",
-       "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
-       "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
-       "id": "the-case-of-the-bloody-iris-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Asylum 1972",
        "logo": "https://archive.org/services/img/asylum-1972_202405",
        "url": "https://archive.org/details/asylum-1972_202405",
@@ -3442,6 +3431,17 @@
        "plot": "A young psychiatrist interviews four patients inside a mental institution, each telling a tale of horror and madness about how they got to be within the walls of the asylum.",
        "page": "https://archive.org/details/asylum-1972_202405",
        "id": "asylum-1972_202405",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Case Of The Bloody Iris 1972",
+       "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
+       "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
+       "date": "1972-01-01",
+       "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
+       "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
+       "id": "the-case-of-the-bloody-iris-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -3765,6 +3765,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Devil's Nightmare 1971",
+       "logo": "https://archive.org/services/img/the-devils-nightmare-1971",
+       "url": "https://archive.org/details/the-devils-nightmare-1971",
+       "date": "1971-01-01",
+       "plot": "A group of tourists traveling on a bus take a detour to stay overnight in a castle owned by a family cursed with a history of Satanism and death.",
+       "page": "https://archive.org/details/the-devils-nightmare-1971",
+       "id": "the-devils-nightmare-1971",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Fifth Cord 1971",
        "logo": "https://archive.org/services/img/the-fifth-cord-1971",
        "url": "https://archive.org/details/the-fifth-cord-1971",
@@ -3783,17 +3794,6 @@
        "plot": "Variation on the Exorcist craze of the 70's. The owner of a castles ancestors made a deal with the devil and now every generation produces a succubus. Erika Blanc plays the latest incarnation though her victims succumb more to the seven deadly sins. Dubbed English",
        "page": "https://archive.org/details/devils-nightmare-the-1971",
        "id": "devils-nightmare-the-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Devil's Nightmare 1971",
-       "logo": "https://archive.org/services/img/the-devils-nightmare-1971",
-       "url": "https://archive.org/details/the-devils-nightmare-1971",
-       "date": "1971-01-01",
-       "plot": "A group of tourists traveling on a bus take a detour to stay overnight in a castle owned by a family cursed with a history of Satanism and death.",
-       "page": "https://archive.org/details/the-devils-nightmare-1971",
-       "id": "the-devils-nightmare-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -4485,17 +4485,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Reptile",
-       "logo": "https://archive.org/services/img/the-reptile",
-       "url": "https://archive.org/details/the-reptile",
-       "date": "1966-01-01",
-       "plot": "In a Cornish village, various locals die from mysterious snake bites, but the coroner rules the deaths as heart attacks, until a family of newcomers starts an investigation.",
-       "page": "https://archive.org/details/the-reptile",
-       "id": "the-reptile",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Dracula Prince Of Darkness 1966",
        "logo": "https://archive.org/services/img/dracula-prince-of-darkness-1966_20240606",
        "url": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
@@ -4503,6 +4492,17 @@
        "plot": "An entire decade after his demise, the blasphemous Count Dracula is resurrected by his servant and preys on four unsuspecting English tourists who have taken shelter in his castle.",
        "page": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
        "id": "dracula-prince-of-darkness-1966_20240606",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Reptile",
+       "logo": "https://archive.org/services/img/the-reptile",
+       "url": "https://archive.org/details/the-reptile",
+       "date": "1966-01-01",
+       "plot": "In a Cornish village, various locals die from mysterious snake bites, but the coroner rules the deaths as heart attacks, until a family of newcomers starts an investigation.",
+       "page": "https://archive.org/details/the-reptile",
+       "id": "the-reptile",
        "duration": null,
        "resolve": "archive"
       },
@@ -5942,17 +5942,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tingler (1959)",
-       "logo": "https://archive.org/services/img/the-tingler-1959_202510",
-       "url": "https://archive.org/details/the-tingler-1959_202510",
-       "date": "1959-01-01",
-       "plot": "The Tingler is a 1959 American horror film produced and directed by William Castle. It is the third of five collaborations between Castle and writer Robb White, and starring Vincent Price. It follows a pathologist, Dr. Warren Chapin, who discovers a parasitic creature called the \"tingler\" that grows stronger when its host experiences fear. The plot unfolds as he investigates the death of a mute woman who cannot scream, leading to a series of terrifying events involving the creature that ultimately escapes into a movie theater, where chaos ensues as the audience must scream to survive.",
-       "page": "https://archive.org/details/the-tingler-1959_202510",
-       "id": "the-tingler-1959_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Monster of Piedras Blancas (1959)",
        "logo": "https://archive.org/services/img/the.monster.of.piedras.blancas.1959",
        "url": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
@@ -5960,6 +5949,17 @@
        "plot": "The Monster of Piedras Blancas is a 1959 American horror film directed by Irvin Berwick. The story is set in a small California town where a lighthouse keeper, Sturges, is worried about his daughter and the safety of the community. He believes a sea monster, which he has been feeding, is responsible for a series of gruesome murders. As bodies begin to wash ashore, a local scientist identifies a scale from the creature, leading to a confrontation with the monster.",
        "page": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
        "id": "the.monster.of.piedras.blancas.1959",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Tingler (1959)",
+       "logo": "https://archive.org/services/img/the-tingler-1959_202510",
+       "url": "https://archive.org/details/the-tingler-1959_202510",
+       "date": "1959-01-01",
+       "plot": "The Tingler is a 1959 American horror film produced and directed by William Castle. It is the third of five collaborations between Castle and writer Robb White, and starring Vincent Price. It follows a pathologist, Dr. Warren Chapin, who discovers a parasitic creature called the \"tingler\" that grows stronger when its host experiences fear. The plot unfolds as he investigates the death of a mute woman who cannot scream, leading to a series of terrifying events involving the creature that ultimately escapes into a movie theater, where chaos ensues as the audience must scream to survive.",
+       "page": "https://archive.org/details/the-tingler-1959_202510",
+       "id": "the-tingler-1959_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -6008,17 +6008,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Revenge of Frankenstein",
-       "logo": "https://archive.org/services/img/the-revenge-of-frankenstein",
-       "url": "https://archive.org/details/the-revenge-of-frankenstein",
-       "date": "1958-01-01",
-       "plot": "Having escaped execution and assumed an alias, Baron Frankenstein transplants his deformed underling's brain into a perfect body, but the effectiveness of the process and the secret of his identity soon begin to unravel.",
-       "page": "https://archive.org/details/the-revenge-of-frankenstein",
-       "id": "the-revenge-of-frankenstein",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Fly (1958)",
        "logo": "https://archive.org/services/img/the.-fly.-1958",
        "url": "https://archive.org/details/the.-fly.-1958",
@@ -6026,6 +6015,17 @@
        "plot": "The Fly is a 1958 American science fiction horror film in CinemaScope and the first installment in The Fly film series. It follows scientist André Delambre accidentally transforms himself into a grotesque human-fly hybrid after a fly enters his matter transporter during an experiment. As he struggles to maintain his humanity, his wife Hélène becomes involved in a tragic series of events leading to a shocking conclusion.",
        "page": "https://archive.org/details/the.-fly.-1958",
        "id": "the.-fly.-1958",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Revenge of Frankenstein",
+       "logo": "https://archive.org/services/img/the-revenge-of-frankenstein",
+       "url": "https://archive.org/details/the-revenge-of-frankenstein",
+       "date": "1958-01-01",
+       "plot": "Having escaped execution and assumed an alias, Baron Frankenstein transplants his deformed underling's brain into a perfect body, but the effectiveness of the process and the secret of his identity soon begin to unravel.",
+       "page": "https://archive.org/details/the-revenge-of-frankenstein",
+       "id": "the-revenge-of-frankenstein",
        "duration": null,
        "resolve": "archive"
       },
@@ -9217,17 +9217,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Vampire Bat (1933)",
-       "logo": "https://archive.org/services/img/TheVampireBat1933_68",
-       "url": "https://archive.org/details/TheVampireBat1933_68",
-       "date": null,
-       "plot": "Villagers are turning up dead and vampires are suspected. A man who is fond of bats is suspected and a angry mob gets rid of him. But the attacks don't stop. Mystic Nights Videos",
-       "page": "https://archive.org/details/TheVampireBat1933_68",
-       "id": "TheVampireBat1933_68",
-       "duration": "59:42",
-       "resolve": "archive"
-      },
-      {
        "name": "Shocker Internet Drive In - Week 38: \"Sexy Summer Sin\" Double Feature",
        "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
        "url": "https://archive.org/details/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
@@ -9236,6 +9225,17 @@
        "page": "https://archive.org/details/ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
        "id": "ShockerInternetDriveIn-Week38sexySummerSinDoubleFeature",
        "duration": "3:27:00",
+       "resolve": "archive"
+      },
+      {
+       "name": "The Vampire Bat (1933)",
+       "logo": "https://archive.org/services/img/TheVampireBat1933_68",
+       "url": "https://archive.org/details/TheVampireBat1933_68",
+       "date": null,
+       "plot": "Villagers are turning up dead and vampires are suspected. A man who is fond of bats is suspected and a angry mob gets rid of him. But the attacks don't stop. Mystic Nights Videos",
+       "page": "https://archive.org/details/TheVampireBat1933_68",
+       "id": "TheVampireBat1933_68",
+       "duration": "59:42",
        "resolve": "archive"
       },
       {
@@ -9272,17 +9272,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Wasp Woman (1959)",
-       "logo": "https://archive.org/services/img/TheWaspWoman1959",
-       "url": "https://archive.org/details/TheWaspWoman1959",
-       "date": null,
-       "plot": "Susan Cabot stars as Janice Starlin, the owner a large cosmetics company. Worried about her failing looks, Janice allows herself to be injected with an experimental serum, that may turn back her biological clock. The serum works, but has some nasty side effects. You can find out more about The Wasp Woman at A Passion For Horror .",
-       "page": "https://archive.org/details/TheWaspWoman1959",
-       "id": "TheWaspWoman1959",
-       "duration": "1:12:32",
-       "resolve": "archive"
-      },
-      {
        "name": "Primitif ( 1980) Indonesian Dub",
        "logo": "https://archive.org/services/img/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
        "url": "https://archive.org/details/y-2-mate.is-primitive-a.-k.-a-savage-terror-1980-indonesian-dub-1-rrx-9aa-3wmo-720p-1637822852457",
@@ -9294,14 +9283,14 @@
        "resolve": "archive"
       },
       {
-       "name": "Jesse James Meets Frankenstein's Daughter",
-       "logo": "https://archive.org/services/img/Jesse_James_Meets_Frankensteins_Daughter",
-       "url": "https://archive.org/details/Jesse_James_Meets_Frankensteins_Daughter",
+       "name": "The Wasp Woman (1959)",
+       "logo": "https://archive.org/services/img/TheWaspWoman1959",
+       "url": "https://archive.org/details/TheWaspWoman1959",
        "date": null,
-       "plot": "Legendary outlaw of the Old West Jesse James, on the run from Marshal MacPhee, hides out in the castle of Baron Frankenstein's granddaughter Maria, who proceeds to transform Jesse's slow-witted pal Hank into a bald zombie, which she names Igor. You can find out more about this movie on its IMDB page .",
-       "page": "https://archive.org/details/Jesse_James_Meets_Frankensteins_Daughter",
-       "id": "Jesse_James_Meets_Frankensteins_Daughter",
-       "duration": null,
+       "plot": "Susan Cabot stars as Janice Starlin, the owner a large cosmetics company. Worried about her failing looks, Janice allows herself to be injected with an experimental serum, that may turn back her biological clock. The serum works, but has some nasty side effects. You can find out more about The Wasp Woman at A Passion For Horror .",
+       "page": "https://archive.org/details/TheWaspWoman1959",
+       "id": "TheWaspWoman1959",
+       "duration": "1:12:32",
        "resolve": "archive"
       },
       {
@@ -9312,6 +9301,17 @@
        "plot": "A COMPLETE DVD. Features a custom menu with either poster art or a still photo from one of the movies. Burning this DVD is beyond easy: Download the zipped folder, open it, and extract the VIDEO TS folder. Grab a blank disc and burn the VIDEO TS folder onto it. I've also uploaded the files outside the .zip so they can be viewed here on this site. This DVD features a double-bill of THE BEACH GIRLS AND THE MONSTER (A.K.A. MONSTER FROM THE SURF) & SPIDER BABY, with preview and intermission reels included. Enjoy the show!",
        "page": "https://archive.org/details/SPIDERBABYBEACHGIRLSMONSTER",
        "id": "SPIDERBABYBEACHGIRLSMONSTER",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Jesse James Meets Frankenstein's Daughter",
+       "logo": "https://archive.org/services/img/Jesse_James_Meets_Frankensteins_Daughter",
+       "url": "https://archive.org/details/Jesse_James_Meets_Frankensteins_Daughter",
+       "date": null,
+       "plot": "Legendary outlaw of the Old West Jesse James, on the run from Marshal MacPhee, hides out in the castle of Baron Frankenstein's granddaughter Maria, who proceeds to transform Jesse's slow-witted pal Hank into a bald zombie, which she names Igor. You can find out more about this movie on its IMDB page .",
+       "page": "https://archive.org/details/Jesse_James_Meets_Frankensteins_Daughter",
+       "id": "Jesse_James_Meets_Frankensteins_Daughter",
        "duration": null,
        "resolve": "archive"
       },
@@ -9767,17 +9767,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 68: \"Chaos & Confusion\" Double Feature",
-       "logo": "https://archive.org/services/img/Week68",
-       "url": "https://archive.org/details/Week68",
-       "date": null,
-       "plot": "Well hello and welcome back to your favorite Shocker Internet Drive In! Good to see that you survived the holidays. You maybe a bit dazed and confused, but we are glad you came to relax and chill out. And, what better way than to chase away those Winter blues than with a bit of chaotic film making. First up, after some coming attractions and a \"Melvin The Monster\" cartoon, we happily present \"The Doomsday Machine\" - a nifty piece of confusion started in 1967, but completed in 1972 with different actors playing the same characters. Good luck figuring this one out! Second, after a brief 10 minut",
-       "page": "https://archive.org/details/Week68",
-       "id": "Week68",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Deadtime Stories",
        "logo": "https://archive.org/services/img/deadtime-stories-1986",
        "url": "https://archive.org/details/deadtime-stories-1986",
@@ -9785,6 +9774,17 @@
        "plot": "A babysitting uncle tells his charges three horror stories - about a killer witch, Little Red Riding Hood and a werewolf, and \"Goldi Lox\" and the three bears.",
        "page": "https://archive.org/details/deadtime-stories-1986",
        "id": "deadtime-stories-1986",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 68: \"Chaos & Confusion\" Double Feature",
+       "logo": "https://archive.org/services/img/Week68",
+       "url": "https://archive.org/details/Week68",
+       "date": null,
+       "plot": "Well hello and welcome back to your favorite Shocker Internet Drive In! Good to see that you survived the holidays. You maybe a bit dazed and confused, but we are glad you came to relax and chill out. And, what better way than to chase away those Winter blues than with a bit of chaotic film making. First up, after some coming attractions and a \"Melvin The Monster\" cartoon, we happily present \"The Doomsday Machine\" - a nifty piece of confusion started in 1967, but completed in 1972 with different actors playing the same characters. Good luck figuring this one out! Second, after a brief 10 minut",
+       "page": "https://archive.org/details/Week68",
+       "id": "Week68",
        "duration": null,
        "resolve": "archive"
       },
@@ -9998,17 +9998,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Count Schlockula's Shock Show Volume 6",
-       "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume6",
-       "url": "https://archive.org/details/CountSchlockulasShockShowVolume6",
-       "date": null,
-       "plot": "Merry Christmas from the Count and welcome to Shock Show, giving you a change of pace with the nonstop Chinese period action/adventure FEARLESS FIGHTERS. Also part of our gift is the last exciting chapter of FLASH GORDON CONQUERS THE UNIVERSE. Relax and Have Happy Holidays.",
-       "page": "https://archive.org/details/CountSchlockulasShockShowVolume6",
-       "id": "CountSchlockulasShockShowVolume6",
-       "duration": "1:39:24",
-       "resolve": "archive"
-      },
-      {
        "name": "Shocker Internet Drive In - Week 45: \"Slice and Dice\" Double Feature",
        "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
        "url": "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
@@ -10017,6 +10006,17 @@
        "page": "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
        "id": "ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
        "duration": "3:42:11",
+       "resolve": "archive"
+      },
+      {
+       "name": "Count Schlockula's Shock Show Volume 6",
+       "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume6",
+       "url": "https://archive.org/details/CountSchlockulasShockShowVolume6",
+       "date": null,
+       "plot": "Merry Christmas from the Count and welcome to Shock Show, giving you a change of pace with the nonstop Chinese period action/adventure FEARLESS FIGHTERS. Also part of our gift is the last exciting chapter of FLASH GORDON CONQUERS THE UNIVERSE. Relax and Have Happy Holidays.",
+       "page": "https://archive.org/details/CountSchlockulasShockShowVolume6",
+       "id": "CountSchlockulasShockShowVolume6",
+       "duration": "1:39:24",
        "resolve": "archive"
       },
       {
@@ -10196,17 +10196,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In Week 133: \"Sensational Santo\" Double Feature",
-       "logo": "https://archive.org/services/img/week-133",
-       "url": "https://archive.org/details/week-133",
-       "date": null,
-       "plot": "Hola and bienvenidos to your favorite squared-circle for Mexican wrestling mayhem and monsters por favor! And who better than to defend the honor of our cinema haunt than Mexico's own masked hero of the ring, Santo... or Samson as he was renamed north of the boarder. First up, after a few coming attractions and a calypso flavored Tom And Jerry cartoon, we start things out with \"Samson Vs. The Vampire Women\". This 1962 grapple fest features our hero battling a group of 200 year old blood suckers looking for some fresh blood. Then, after a brief intermission, we finish up with 1963's \"Samson In ",
-       "page": "https://archive.org/details/week-133",
-       "id": "week-133",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Zombie ' 90 Extreme Pestilence (1991)",
        "logo": "https://archive.org/services/img/zombie-90-extreme-pestilence-1991",
        "url": "https://archive.org/details/zombie-90-extreme-pestilence-1991",
@@ -10214,6 +10203,17 @@
        "plot": "Zombie '90: Extreme Pestilence (1991)",
        "page": "https://archive.org/details/zombie-90-extreme-pestilence-1991",
        "id": "zombie-90-extreme-pestilence-1991",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In Week 133: \"Sensational Santo\" Double Feature",
+       "logo": "https://archive.org/services/img/week-133",
+       "url": "https://archive.org/details/week-133",
+       "date": null,
+       "plot": "Hola and bienvenidos to your favorite squared-circle for Mexican wrestling mayhem and monsters por favor! And who better than to defend the honor of our cinema haunt than Mexico's own masked hero of the ring, Santo... or Samson as he was renamed north of the boarder. First up, after a few coming attractions and a calypso flavored Tom And Jerry cartoon, we start things out with \"Samson Vs. The Vampire Women\". This 1962 grapple fest features our hero battling a group of 200 year old blood suckers looking for some fresh blood. Then, after a brief intermission, we finish up with 1963's \"Samson In ",
+       "page": "https://archive.org/details/week-133",
+       "id": "week-133",
        "duration": null,
        "resolve": "archive"
       },
@@ -10262,17 +10262,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Crucible Of Terror 1971",
-       "logo": "https://archive.org/services/img/crucible-of-terror-1971",
-       "url": "https://archive.org/details/crucible-of-terror-1971",
-       "date": null,
-       "plot": "A deranged sculptor who creates particularly lifelike bronze sculptures edges to the brink of artistic success when the art market latches onto one of his masterpieces. No one realises that he is a maniac who uses real women as moulds for his sculptures, but lurking inside his latest work is a live model hell-bent on avenging her submersion in liquid bronze.",
-       "page": "https://archive.org/details/crucible-of-terror-1971",
-       "id": "crucible-of-terror-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Nightmare Never Ends (1980) horror",
        "logo": "https://archive.org/services/img/TheNightmareNeverEnds",
        "url": "https://archive.org/details/TheNightmareNeverEnds",
@@ -10280,6 +10269,17 @@
        "plot": "A cop (Cameron Mitchell) crosses paths with the seemingly ageless leader of a satanic cult.",
        "page": "https://archive.org/details/TheNightmareNeverEnds",
        "id": "TheNightmareNeverEnds",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Crucible Of Terror 1971",
+       "logo": "https://archive.org/services/img/crucible-of-terror-1971",
+       "url": "https://archive.org/details/crucible-of-terror-1971",
+       "date": null,
+       "plot": "A deranged sculptor who creates particularly lifelike bronze sculptures edges to the brink of artistic success when the art market latches onto one of his masterpieces. No one realises that he is a maniac who uses real women as moulds for his sculptures, but lurking inside his latest work is a live model hell-bent on avenging her submersion in liquid bronze.",
+       "page": "https://archive.org/details/crucible-of-terror-1971",
+       "id": "crucible-of-terror-1971",
        "duration": null,
        "resolve": "archive"
       },

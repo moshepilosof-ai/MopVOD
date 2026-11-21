@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/classic_tv",
    "program_url": "https://archive.org/details/classic_tv",
-   "updated": "2026-11-20 09:32",
+   "updated": "2026-11-21 09:25",
    "sub_categories": [
     {
      "name": "2020-2029",
@@ -1823,6 +1823,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Professionals - Complete Series 1977",
+       "logo": "https://archive.org/services/img/the-professionals-complete-series-1977",
+       "url": "https://archive.org/details/the-professionals-complete-series-1977",
+       "date": "1977-12-30",
+       "plot": "The Professionals is a British crime-action television drama series produced by Avengers Mark1 Productions for London Weekend Television (LWT) that aired on the ITV network from 30 December 1977 to 6 February 1983. In all, 57 episodes were produced, filmed between 1977 and 1981. It starred Martin Shaw , Lewis Collins and Gordon Jackson as agents of the fictional \"CI5\" (Criminal Intelligence 5, alluding to the real-life MI5 and CID ). Criminal Intelligence 5 (CI5) is a British law enforcement department, instructed by the Home Secretary to use any means to deal with crimes of a serious nature t",
+       "page": "https://archive.org/details/the-professionals-complete-series-1977",
+       "id": "the-professionals-complete-series-1977",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Logan's Run - Complete Series 1977",
        "logo": "https://archive.org/services/img/logans-run-complete-series-1977",
        "url": "https://archive.org/details/logans-run-complete-series-1977",
@@ -1856,17 +1867,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Good Against Evil",
-       "logo": "https://archive.org/services/img/GoodAgainstEvil",
-       "url": "https://archive.org/details/GoodAgainstEvil",
-       "date": "1977-01-01",
-       "plot": "This is a movie length pilot for a series that never materialised. Blatantly influenced by 'The Exorcist' it stars Dack Rambo (who later appeared in 'Dallas' for a while) and co-stars Dan O'Herlihy as the exorcist and a young Kim Catrall as the mother of the possessed girl. The evil 'Rimmin' - leader of the satanic cult - is played by perennial villain Richard Lynch.",
-       "page": "https://archive.org/details/GoodAgainstEvil",
-       "id": "GoodAgainstEvil",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "In Search Of... (TV series hosted by Leonard Nimoy)",
        "logo": "https://archive.org/services/img/In-Search-Of-complete-series",
        "url": "https://archive.org/details/In-Search-Of-complete-series",
@@ -1874,6 +1874,17 @@
        "plot": "Every episode of the classic 1977-1982 paranormal mystery/investigation TV series, hosted and narrated by Leonard Nimoy.",
        "page": "https://archive.org/details/In-Search-Of-complete-series",
        "id": "In-Search-Of-complete-series",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Good Against Evil",
+       "logo": "https://archive.org/services/img/GoodAgainstEvil",
+       "url": "https://archive.org/details/GoodAgainstEvil",
+       "date": "1977-01-01",
+       "plot": "This is a movie length pilot for a series that never materialised. Blatantly influenced by 'The Exorcist' it stars Dack Rambo (who later appeared in 'Dallas' for a while) and co-stars Dan O'Herlihy as the exorcist and a young Kim Catrall as the mother of the possessed girl. The evil 'Rimmin' - leader of the satanic cult - is played by perennial villain Richard Lynch.",
+       "page": "https://archive.org/details/GoodAgainstEvil",
+       "id": "GoodAgainstEvil",
        "duration": null,
        "resolve": "archive"
       },
@@ -2241,17 +2252,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Classic Crap: 'Dusty's Trail' - Duel for Daphne",
-       "logo": "https://archive.org/services/img/Jeice_Murdered_My_Family",
-       "url": "https://archive.org/details/Jeice_Murdered_My_Family",
-       "date": "1973-01-01",
-       "plot": "Another craptastic episode of the \"Plan 9 from Outer Space\" of TV sitcoms. Well below the standards of it's time! This series ran from 1973 to 1974.",
-       "page": "https://archive.org/details/Jeice_Murdered_My_Family",
-       "id": "Jeice_Murdered_My_Family",
-       "duration": "Approx 23 Minutes",
-       "resolve": "archive"
-      },
-      {
        "name": "Jeannie Ep 1 Surf's Up (1973)",
        "logo": "https://archive.org/services/img/jeannie-cartoon-series-e-01",
        "url": "https://archive.org/details/jeannie-cartoon-series-e-01",
@@ -2260,6 +2260,17 @@
        "page": "https://archive.org/details/jeannie-cartoon-series-e-01",
        "id": "jeannie-cartoon-series-e-01",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Classic Crap: 'Dusty's Trail' - Duel for Daphne",
+       "logo": "https://archive.org/services/img/Jeice_Murdered_My_Family",
+       "url": "https://archive.org/details/Jeice_Murdered_My_Family",
+       "date": "1973-01-01",
+       "plot": "Another craptastic episode of the \"Plan 9 from Outer Space\" of TV sitcoms. Well below the standards of it's time! This series ran from 1973 to 1974.",
+       "page": "https://archive.org/details/Jeice_Murdered_My_Family",
+       "id": "Jeice_Murdered_My_Family",
+       "duration": "Approx 23 Minutes",
        "resolve": "archive"
       },
       {
@@ -3791,17 +3802,6 @@
        "resolve": "archive"
       },
       {
-       "name": "\"Mama\" - Mama's Nursery School (50's TV Show)",
-       "logo": "https://archive.org/services/img/Mama1955",
-       "url": "https://archive.org/details/Mama1955",
-       "date": "1955-01-01",
-       "plot": "1955 Episode of the 50's Sitcom/Drama \"Mama\" (Also known as \"I Remember Mama\"). This popular show was about a Norway family who moved to America back in the early 20th Century. This episode is titled \"Mama's Nursery School\". ****************************** Info from Wikipedia: Mama was a weekly Maxwell House-sponsored CBS television comedy-drama series which ran from July 1, 1949 until March 17, 1957. Based on the Kathryn Forbes memoir Mama's Bank Account, which inspired the 1944 John Van Druten play and subsequent 1948 film I Remember Mama, it told the ongoing story of a loving Norwegian famil",
-       "page": "https://archive.org/details/Mama1955",
-       "id": "Mama1955",
-       "duration": "Approx 26 Minutes",
-       "resolve": "archive"
-      },
-      {
        "name": "Sherlock Holmes - The Case of the Shy Ballerina",
        "logo": "https://archive.org/services/img/SherlockHolmes-TheCaseoftheShyBallerina",
        "url": "https://archive.org/details/SherlockHolmes-TheCaseoftheShyBallerina",
@@ -3956,17 +3956,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Groucho Marx in ''You Bet Your Life'' (''Chair'') (Comedy/Game Show)",
-       "logo": "https://archive.org/services/img/GrouchoChair",
-       "url": "https://archive.org/details/GrouchoChair",
-       "date": "1954-01-01",
-       "plot": "Groucho Marx in his extremely popular 1950's television series \"You Bet Your Life\", which aired on the NBC Television Network. The \"secret word\" in this episode is \"Chair\". The series was a comedic game show which allowed plenty of room for Groucho's verbal comedy. Contains original broadcast commercials.",
-       "page": "https://archive.org/details/GrouchoChair",
-       "id": "GrouchoChair",
-       "duration": "29:30",
-       "resolve": "archive"
-      },
-      {
        "name": "Sherlock Holmes in The Case of the Laughing Mummy",
        "logo": "https://archive.org/services/img/Sherlock_Holmes_TCOT_Laughing_Mummy",
        "url": "https://archive.org/details/Sherlock_Holmes_TCOT_Laughing_Mummy",
@@ -3975,6 +3964,17 @@
        "page": "https://archive.org/details/Sherlock_Holmes_TCOT_Laughing_Mummy",
        "id": "Sherlock_Holmes_TCOT_Laughing_Mummy",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Groucho Marx in ''You Bet Your Life'' (''Chair'') (Comedy/Game Show)",
+       "logo": "https://archive.org/services/img/GrouchoChair",
+       "url": "https://archive.org/details/GrouchoChair",
+       "date": "1954-01-01",
+       "plot": "Groucho Marx in his extremely popular 1950's television series \"You Bet Your Life\", which aired on the NBC Television Network. The \"secret word\" in this episode is \"Chair\". The series was a comedic game show which allowed plenty of room for Groucho's verbal comedy. Contains original broadcast commercials.",
+       "page": "https://archive.org/details/GrouchoChair",
+       "id": "GrouchoChair",
+       "duration": "29:30",
        "resolve": "archive"
       },
       {
@@ -5440,17 +5440,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Beverly Hillbillies : The Servants",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep07_The_Servants",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep07_The_Servants",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep07 The Servants",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep07_The_Servants",
-       "id": "Beverly_Hillbillies_Ep07_The_Servants",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Little Old Lady",
        "logo": "https://archive.org/services/img/TLS_Little_Old_Lady",
        "url": "https://archive.org/details/TLS_Little_Old_Lady",
@@ -5458,6 +5447,17 @@
        "plot": "The Lucy Show ep Little Old Lady",
        "page": "https://archive.org/details/TLS_Little_Old_Lady",
        "id": "TLS_Little_Old_Lady",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Beverly Hillbillies : The Servants",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep07_The_Servants",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep07_The_Servants",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep07 The Servants",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep07_The_Servants",
+       "id": "Beverly_Hillbillies_Ep07_The_Servants",
        "duration": null,
        "resolve": "archive"
       },
@@ -5803,14 +5803,14 @@
        "resolve": "archive"
       },
       {
-       "name": "Bonanza - The Mission",
-       "logo": "https://archive.org/services/img/Bonanza-TheMission",
-       "url": "https://archive.org/details/Bonanza-TheMission",
+       "name": "ALF The Complete Series",
+       "logo": "https://archive.org/services/img/ALF-The-Complete-Series",
+       "url": "https://archive.org/details/ALF-The-Complete-Series",
        "date": null,
-       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
-       "page": "https://archive.org/details/Bonanza-TheMission",
-       "id": "Bonanza-TheMission",
-       "duration": "49:21",
+       "plot": "ALF The Complete Series",
+       "page": "https://archive.org/details/ALF-The-Complete-Series",
+       "id": "ALF-The-Complete-Series",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -5825,6 +5825,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Bonanza - The Mission",
+       "logo": "https://archive.org/services/img/Bonanza-TheMission",
+       "url": "https://archive.org/details/Bonanza-TheMission",
+       "date": null,
+       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, each by a different wife: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and lovable giant Eric, better known by his nickname \"Hoss.\" And the youngest was the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and",
+       "page": "https://archive.org/details/Bonanza-TheMission",
+       "id": "Bonanza-TheMission",
+       "duration": "49:21",
+       "resolve": "archive"
+      },
+      {
        "name": "'Tales of Tomorrow' - All the time in the world (1952)",
        "logo": "https://archive.org/services/img/UpdateTalesOfTomorrow-AllTheTimeInTheWorld1952",
        "url": "https://archive.org/details/UpdateTalesOfTomorrow-AllTheTimeInTheWorld1952",
@@ -5832,17 +5843,6 @@
        "plot": "Episode 'All the time in the world' of the series \"Tales of tomorrow\", originally broadcast June 13, 1952 (Season 1, Episode 37). Featuring: Esther Ralston, Jack Warden, Don Hammer and Lewis Charles. Directed by: Don Medford. With commercials.",
        "page": "https://archive.org/details/UpdateTalesOfTomorrow-AllTheTimeInTheWorld1952",
        "id": "UpdateTalesOfTomorrow-AllTheTimeInTheWorld1952",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "ALF The Complete Series",
-       "logo": "https://archive.org/services/img/ALF-The-Complete-Series",
-       "url": "https://archive.org/details/ALF-The-Complete-Series",
-       "date": null,
-       "plot": "ALF The Complete Series",
-       "page": "https://archive.org/details/ALF-The-Complete-Series",
-       "id": "ALF-The-Complete-Series",
        "duration": null,
        "resolve": "archive"
       },
@@ -6419,17 +6419,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Martha Raye as Guest",
-       "logo": "https://archive.org/services/img/Red_Skelton_MarthaRayeGuest",
-       "url": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
-       "date": null,
-       "plot": "Red Skelton Martha Raye as Guest",
-       "page": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
-       "id": "Red_Skelton_MarthaRayeGuest",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Robin_Hood_59_-_Ambush",
        "logo": "https://archive.org/services/img/Robin_Hood_59_-_Ambush",
        "url": "https://archive.org/details/Robin_Hood_59_-_Ambush",
@@ -6437,6 +6426,17 @@
        "plot": "The Adventures of Robin Hood Season 2 ep20",
        "page": "https://archive.org/details/Robin_Hood_59_-_Ambush",
        "id": "Robin_Hood_59_-_Ambush",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Martha Raye as Guest",
+       "logo": "https://archive.org/services/img/Red_Skelton_MarthaRayeGuest",
+       "url": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
+       "date": null,
+       "plot": "Red Skelton Martha Raye as Guest",
+       "page": "https://archive.org/details/Red_Skelton_MarthaRayeGuest",
+       "id": "Red_Skelton_MarthaRayeGuest",
        "duration": null,
        "resolve": "archive"
       },
@@ -6870,6 +6870,17 @@
        "resolve": "archive"
       },
       {
+       "name": "ALF (Complete Series)",
+       "logo": "https://archive.org/services/img/alf-complete",
+       "url": "https://archive.org/details/alf-complete",
+       "date": null,
+       "plot": "Every Episode of ALF (1986-1990)",
+       "page": "https://archive.org/details/alf-complete",
+       "id": "alf-complete",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Rescue",
        "logo": "https://archive.org/services/img/Andy_Griffith_The_Rescue",
        "url": "https://archive.org/details/Andy_Griffith_The_Rescue",
@@ -6892,17 +6903,6 @@
        "resolve": "archive"
       },
       {
-       "name": "ALF (Complete Series)",
-       "logo": "https://archive.org/services/img/alf-complete",
-       "url": "https://archive.org/details/alf-complete",
-       "date": null,
-       "plot": "Every Episode of ALF (1986-1990)",
-       "page": "https://archive.org/details/alf-complete",
-       "id": "alf-complete",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bas les masques - Heliomonde - 1993",
        "logo": "https://archive.org/services/img/1993-mireille-dumas-heliomonde",
        "url": "https://archive.org/details/1993-mireille-dumas-heliomonde",
@@ -6910,6 +6910,17 @@
        "plot": "1993 mireille dumas heliomonde",
        "page": "https://archive.org/details/1993-mireille-dumas-heliomonde",
        "id": "1993-mireille-dumas-heliomonde",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Twilight Zone – Complete Season 2 (29 episodes) (restored, colorized) (1960, TV series)",
+       "logo": "https://archive.org/services/img/the-twilight-zone-s-2-e-1-colorized-720p-hd",
+       "url": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
+       "date": null,
+       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
+       "page": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
+       "id": "the-twilight-zone-s-2-e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -6922,17 +6933,6 @@
        "page": "https://archive.org/details/ShastaSodaCommercial-Frankenstein",
        "id": "ShastaSodaCommercial-Frankenstein",
        "duration": "0:56",
-       "resolve": "archive"
-      },
-      {
-       "name": "The Twilight Zone – Complete Season 2 (29 episodes) (restored, colorized) (1960, TV series)",
-       "logo": "https://archive.org/services/img/the-twilight-zone-s-2-e-1-colorized-720p-hd",
-       "url": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
-       "date": null,
-       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
-       "page": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
-       "id": "the-twilight-zone-s-2-e-1-colorized-720p-hd",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -7002,17 +7002,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Vegas$ - Season 2 - TV Series - MP4",
-       "logo": "https://archive.org/services/img/vegas-season-2-tv-series-mp4",
-       "url": "https://archive.org/details/vegas-season-2-tv-series-mp4",
-       "date": null,
-       "plot": "Vegas$ - Season 2 - TV Series - MP4 Video Size: 640x480 -- Vegas (stylized as Vega$) is an American private detective crime drama television series that aired on ABC from April 25, 1978, to June 3, 1981. Vega$ was produced by Aaron Spelling, and created by Michael Mann. The series (with the exception of special episodes filmed in Hawaii and San Francisco) was filmed in its entirety in Las Vegas, Nevada. The show stars Robert Urich as private detective Dan Tanna, who drove to his assignments around the streets of Las Vegas in a red 1957 Ford Thunderbird convertible. Working for a wide variety o",
-       "page": "https://archive.org/details/vegas-season-2-tv-series-mp4",
-       "id": "vegas-season-2-tv-series-mp4",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Mickey Rooney Show Misc 01",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_01",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_01",
@@ -7020,6 +7009,17 @@
        "plot": "The Mickey Rooney Show aka \"Hey Mulligan\" Misc 01 I have no titles or broadcast dates for this series. If you have any Info on this show please use the reviews to add the info here.",
        "page": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_01",
        "id": "The_Mickey_Rooney_Show_Misc_ep_01",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Vegas$ - Season 2 - TV Series - MP4",
+       "logo": "https://archive.org/services/img/vegas-season-2-tv-series-mp4",
+       "url": "https://archive.org/details/vegas-season-2-tv-series-mp4",
+       "date": null,
+       "plot": "Vegas$ - Season 2 - TV Series - MP4 Video Size: 640x480 -- Vegas (stylized as Vega$) is an American private detective crime drama television series that aired on ABC from April 25, 1978, to June 3, 1981. Vega$ was produced by Aaron Spelling, and created by Michael Mann. The series (with the exception of special episodes filmed in Hawaii and San Francisco) was filmed in its entirety in Las Vegas, Nevada. The show stars Robert Urich as private detective Dan Tanna, who drove to his assignments around the streets of Las Vegas in a red 1957 Ford Thunderbird convertible. Working for a wide variety o",
+       "page": "https://archive.org/details/vegas-season-2-tv-series-mp4",
+       "id": "vegas-season-2-tv-series-mp4",
        "duration": null,
        "resolve": "archive"
       },
@@ -7046,17 +7046,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Jethro Goes To School",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep08 Jethro Goes To School",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
-       "id": "Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "\"The Adventures of Ozzie and Harriet\" 1956 Christmas episode",
        "logo": "https://archive.org/services/img/Ozzie_and_Harriet_Christmas",
        "url": "https://archive.org/details/Ozzie_and_Harriet_Christmas",
@@ -7065,6 +7054,17 @@
        "page": "https://archive.org/details/Ozzie_and_Harriet_Christmas",
        "id": "Ozzie_and_Harriet_Christmas",
        "duration": "Approx 30 Minutes",
+       "resolve": "archive"
+      },
+      {
+       "name": "Jethro Goes To School",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep08 Jethro Goes To School",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
+       "id": "Beverly_Hillbillies_Ep08_Jethro_Goes_To_School",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -7097,17 +7097,6 @@
        "plot": "The Big Grandma from the 1950 series Dragnet",
        "page": "https://archive.org/details/Dragnet_The_BigGrandma",
        "id": "Dragnet_The_BigGrandma",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Newhart Season 1",
-       "logo": "https://archive.org/services/img/NewhartSeries",
-       "url": "https://archive.org/details/NewhartSeries",
-       "date": null,
-       "plot": "Newhart is an American television sitcom which aired on from October 25, 1982, to May 21, 1990. The series starred comedian Bob Newhart and actress Mary Frann as an author and wife who owned and operated an inn located in a small, rural Vermont town that was home to many eccentric characters. Premise: Bob Newhart plays Dick Loudon, an author of do-it-yourself books and travel books (including \"Many Moods Of Minnesota\" and \"Captivating Kansas\".) He and his wife Joanna move from New York City to a small, unnamed town in rural Vermont (most likely Norwich) to operate the 200-year-old Stratford In",
-       "page": "https://archive.org/details/NewhartSeries",
-       "id": "NewhartSeries",
        "duration": null,
        "resolve": "archive"
       },
@@ -7152,6 +7141,17 @@
        "plot": "Andy Griffith Episode Andys English Valet",
        "page": "https://archive.org/details/Andy_Griffith_Andys_English_Valet",
        "id": "Andy_Griffith_Andys_English_Valet",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Newhart Season 1",
+       "logo": "https://archive.org/services/img/NewhartSeries",
+       "url": "https://archive.org/details/NewhartSeries",
+       "date": null,
+       "plot": "Newhart is an American television sitcom which aired on from October 25, 1982, to May 21, 1990. The series starred comedian Bob Newhart and actress Mary Frann as an author and wife who owned and operated an inn located in a small, rural Vermont town that was home to many eccentric characters. Premise: Bob Newhart plays Dick Loudon, an author of do-it-yourself books and travel books (including \"Many Moods Of Minnesota\" and \"Captivating Kansas\".) He and his wife Joanna move from New York City to a small, unnamed town in rural Vermont (most likely Norwich) to operate the 200-year-old Stratford In",
+       "page": "https://archive.org/details/NewhartSeries",
+       "id": "NewhartSeries",
        "duration": null,
        "resolve": "archive"
       },
@@ -7673,17 +7673,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Alfred Hitchcock Presents - Complete Season 1 (39 Episodes) (restored, colorized) (1955, TV series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "id": "alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "\"The Perry Como Show\" - 1952 Episode",
        "logo": "https://archive.org/services/img/Perry_Como_1952",
        "url": "https://archive.org/details/Perry_Como_1952",
@@ -7713,6 +7702,17 @@
        "plot": "One Step Beyond: Dead Man's Tale Season 3 Episode 17 First Aired 1/17/1961",
        "page": "https://archive.org/details/OSB-78_Dead_Mans_Tale",
        "id": "OSB-78_Dead_Mans_Tale",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Alfred Hitchcock Presents - Complete Season 1 (39 Episodes) (restored, colorized) (1955, TV series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "date": null,
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "id": "alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7750,6 +7750,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Only Fools & Horses Specials 1991-1993 (Uncut)",
+       "logo": "https://archive.org/services/img/only-fools-specials-1",
+       "url": "https://archive.org/details/only-fools-specials-1",
+       "date": null,
+       "plot": "The uncut 1991-1993 specials. Scenes that are always cut on broadcast/dvd include: Miami Twice: This special was originally shown in 2 different parts rather than a feature length movie. Part 1 being 'The American Dream'. while part 2 was just named 'Miami Twice/Oh To Be In England'. Part 2 also didn't originally have canned laughter. Cuts include: The Omen 'O Fortuna' song every time Rodney And Damien look at one another, Rodney And Delboy getting on to the plane which originally led into part 2, Status Quo's 'Rockin All Over The World' playing on Dels headphones and Del & Rodney heading into",
+       "page": "https://archive.org/details/only-fools-specials-1",
+       "id": "only-fools-specials-1",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "No Place Like Home",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep14_No_Place_Like_Home",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep14_No_Place_Like_Home",
@@ -7768,17 +7779,6 @@
        "plot": "Beverly Hillbillies Ep 42 Jethro's First Love",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep42_Jethros_First_Love",
        "id": "Beverly_Hillbillies_Ep42_Jethros_First_Love",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Only Fools & Horses Specials 1991-1993 (Uncut)",
-       "logo": "https://archive.org/services/img/only-fools-specials-1",
-       "url": "https://archive.org/details/only-fools-specials-1",
-       "date": null,
-       "plot": "The uncut 1991-1993 specials. Scenes that are always cut on broadcast/dvd include: Miami Twice: This special was originally shown in 2 different parts rather than a feature length movie. Part 1 being 'The American Dream'. while part 2 was just named 'Miami Twice/Oh To Be In England'. Part 2 also didn't originally have canned laughter. Cuts include: The Omen 'O Fortuna' song every time Rodney And Damien look at one another, Rodney And Delboy getting on to the plane which originally led into part 2, Status Quo's 'Rockin All Over The World' playing on Dels headphones and Del & Rodney heading into",
-       "page": "https://archive.org/details/only-fools-specials-1",
-       "id": "only-fools-specials-1",
        "duration": null,
        "resolve": "archive"
       },
@@ -7860,17 +7860,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Big Frame",
-       "logo": "https://archive.org/services/img/Dragnet_The_Big_Frame",
-       "url": "https://archive.org/details/Dragnet_The_Big_Frame",
-       "date": null,
-       "plot": "The Big Frame from the 1950's series Dragnet",
-       "page": "https://archive.org/details/Dragnet_The_Big_Frame",
-       "id": "Dragnet_The_Big_Frame",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Design for War",
        "logo": "https://archive.org/services/img/VAS_01_Design_For_War",
        "url": "https://archive.org/details/VAS_01_Design_For_War",
@@ -7878,6 +7867,17 @@
        "plot": "Victory At Sea ep 01 Design for War",
        "page": "https://archive.org/details/VAS_01_Design_For_War",
        "id": "VAS_01_Design_For_War",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Big Frame",
+       "logo": "https://archive.org/services/img/Dragnet_The_Big_Frame",
+       "url": "https://archive.org/details/Dragnet_The_Big_Frame",
+       "date": null,
+       "plot": "The Big Frame from the 1950's series Dragnet",
+       "page": "https://archive.org/details/Dragnet_The_Big_Frame",
+       "id": "Dragnet_The_Big_Frame",
        "duration": null,
        "resolve": "archive"
       },
@@ -7948,17 +7948,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Jed Buys The Freeway",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep23 Jed Buys The Freeway",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
-       "id": "Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "D-Day",
        "logo": "https://archive.org/services/img/VAS_15_D-DAY",
        "url": "https://archive.org/details/VAS_15_D-DAY",
@@ -7966,6 +7955,17 @@
        "plot": "Victory At Sea ep 15 D-Day",
        "page": "https://archive.org/details/VAS_15_D-DAY",
        "id": "VAS_15_D-DAY",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Jed Buys The Freeway",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep23 Jed Buys The Freeway",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
+       "id": "Beverly_Hillbillies_Ep23_Jed_Buys_The_Freeway",
        "duration": null,
        "resolve": "archive"
       },
@@ -8157,17 +8157,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Giant JackRabbit",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep 52 The Giant JackRabbit",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
-       "id": "Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "STORIES OF THE CENTURY (1954)",
        "logo": "https://archive.org/services/img/StoriesOfTheCentury1954",
        "url": "https://archive.org/details/StoriesOfTheCentury1954",
@@ -8176,6 +8165,17 @@
        "page": "https://archive.org/details/StoriesOfTheCentury1954",
        "id": "StoriesOfTheCentury1954",
        "duration": "30:26",
+       "resolve": "archive"
+      },
+      {
+       "name": "The Giant JackRabbit",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep 52 The Giant JackRabbit",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
+       "id": "Beverly_Hillbillies_Ep52_The_Giant_JackRabbit",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -8223,17 +8223,6 @@
        "resolve": "archive"
       },
       {
-       "name": "50's Game Show 'Beat The Clock' (Classic TV)",
-       "logo": "https://archive.org/services/img/Beat_The_Clock",
-       "url": "https://archive.org/details/Beat_The_Clock",
-       "date": null,
-       "plot": "Episode of the 50's game show \"Beat The Clock\".",
-       "page": "https://archive.org/details/Beat_The_Clock",
-       "id": "Beat_The_Clock",
-       "duration": "Approx 30 Minutes",
-       "resolve": "archive"
-      },
-      {
        "name": "Galactica 1980",
        "logo": "https://archive.org/services/img/s-02-e-07-e-08-tha-night-the-cylons-landed",
        "url": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
@@ -8242,6 +8231,17 @@
        "page": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
        "id": "s-02-e-07-e-08-tha-night-the-cylons-landed",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "50's Game Show 'Beat The Clock' (Classic TV)",
+       "logo": "https://archive.org/services/img/Beat_The_Clock",
+       "url": "https://archive.org/details/Beat_The_Clock",
+       "date": null,
+       "plot": "Episode of the 50's game show \"Beat The Clock\".",
+       "page": "https://archive.org/details/Beat_The_Clock",
+       "id": "Beat_The_Clock",
+       "duration": "Approx 30 Minutes",
        "resolve": "archive"
       },
       {
@@ -8333,17 +8333,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Garden Party",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep47_The_Garden_Party",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep47_The_Garden_Party",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep 47 The Garden Party",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep47_The_Garden_Party",
-       "id": "Beverly_Hillbillies_Ep47_The_Garden_Party",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Moneylender",
        "logo": "https://archive.org/services/img/Robin_Hood_02_The_Moneylender",
        "url": "https://archive.org/details/Robin_Hood_02_The_Moneylender",
@@ -8355,6 +8344,28 @@
        "resolve": "archive"
       },
       {
+       "name": "Tales From The Darkside S01 (1983-1985) [EN]",
+       "logo": "https://archive.org/services/img/tales-from-the-darkside-s01-en",
+       "url": "https://archive.org/details/tales-from-the-darkside-s01-en",
+       "date": null,
+       "plot": "Tales from the Darkside - S01E00 - Trick or Treat (Pilot) [EN] Tales from the Darkside - S01E01 - The New Man [EN] Tales from the Darkside - S01E02 - I'll Give You a Million [EN] Tales from the Darkside - S01E03 - Pain Killer [EN] Tales from the Darkside - S01E04 - The Odds [EN] Tales from the Darkside - S01E05 - Mookie and Pookie [EN] Tales from the Darkside - S01E06 - Slippage [EN] Tales from the Darkside - S01E07 - Inside the Closet [EN] Tales from the Darkside - S01E08 - The Word Processor of the Gods [EN] Tales from the Darkside - S01E09 - A Case of the Stubborns [EN] Tales from the Darks",
+       "page": "https://archive.org/details/tales-from-the-darkside-s01-en",
+       "id": "tales-from-the-darkside-s01-en",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Garden Party",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep47_The_Garden_Party",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep47_The_Garden_Party",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep 47 The Garden Party",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep47_The_Garden_Party",
+       "id": "Beverly_Hillbillies_Ep47_The_Garden_Party",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "\"What's My Line\"",
        "logo": "https://archive.org/services/img/whatsMyLine",
        "url": "https://archive.org/details/whatsMyLine",
@@ -8362,6 +8373,17 @@
        "plot": "Early episode of the popular 50's Game Show \"What's My Line\" with original commercials for 'Stopette'. Mystery Guest: Bette Davis. Aired: October 5, 1952.",
        "page": "https://archive.org/details/whatsMyLine",
        "id": "whatsMyLine",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Evil Touch - TV Show - 1973",
+       "logo": "https://archive.org/services/img/the-evil-touch-tv-show-1973",
+       "url": "https://archive.org/details/the-evil-touch-tv-show-1973",
+       "date": null,
+       "plot": "The Evil Touch - TV Show - 1973 Not complete The Evil Touch - S01E01 - The Lake (Starring Robert Lansin) (1973-09-16) Higher Quality.mp4 The Evil Touch - S01E01 - The Lake (Starring Robert Lansin) (1973-09-16).avi The Evil Touch - S01E02 - Heart to Heart (1973.09.23).avi The Evil Touch - S01E04 - The Obituary (1973.10.07).avi The Evil Touch - S01E05 - Happy New Year Aunt Carrie (1973.10.14).avi The Evil Touch - S01E06 - A Game of Hearts (1973.10.21).avi The Evil Touch - S01E08 - The Upper Hand (1973.11.04).avi The Evil Touch - S01E09 - Murder is for the Birds (1973.11.11).avi The Evil Touch - ",
+       "page": "https://archive.org/details/the-evil-touch-tv-show-1973",
+       "id": "the-evil-touch-tv-show-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -8421,17 +8443,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Race For The Queen",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep 55 The Race For The Queen",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
-       "id": "Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Tales of Tomorrow - The Window",
        "logo": "https://archive.org/services/img/TalesOfTomorrow-LostPlanet",
        "url": "https://archive.org/details/TalesOfTomorrow-LostPlanet",
@@ -8439,6 +8450,17 @@
        "plot": "Last one I have. Kind of cool to see a 1950's TV studio step outside of the box. An early experiment in TV.",
        "page": "https://archive.org/details/TalesOfTomorrow-LostPlanet",
        "id": "TalesOfTomorrow-LostPlanet",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Race For The Queen",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep 55 The Race For The Queen",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
+       "id": "Beverly_Hillbillies_Ep55_The_Race_For_The_Queen",
        "duration": null,
        "resolve": "archive"
       },
@@ -8476,28 +8498,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Clampetts Go Hollywood",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep 45 The Clampetts Go Hollywood",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
-       "id": "Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Tales From The Darkside S01 (1983-1985) [EN]",
-       "logo": "https://archive.org/services/img/tales-from-the-darkside-s01-en",
-       "url": "https://archive.org/details/tales-from-the-darkside-s01-en",
-       "date": null,
-       "plot": "Tales from the Darkside - S01E00 - Trick or Treat (Pilot) [EN] Tales from the Darkside - S01E01 - The New Man [EN] Tales from the Darkside - S01E02 - I'll Give You a Million [EN] Tales from the Darkside - S01E03 - Pain Killer [EN] Tales from the Darkside - S01E04 - The Odds [EN] Tales from the Darkside - S01E05 - Mookie and Pookie [EN] Tales from the Darkside - S01E06 - Slippage [EN] Tales from the Darkside - S01E07 - Inside the Closet [EN] Tales from the Darkside - S01E08 - The Word Processor of the Gods [EN] Tales from the Darkside - S01E09 - A Case of the Stubborns [EN] Tales from the Darks",
-       "page": "https://archive.org/details/tales-from-the-darkside-s01-en",
-       "id": "tales-from-the-darkside-s01-en",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Guadalcanal",
        "logo": "https://archive.org/services/img/VAS_06_Guadalcanal",
        "url": "https://archive.org/details/VAS_06_Guadalcanal",
@@ -8509,13 +8509,24 @@
        "resolve": "archive"
       },
       {
-       "name": "The Evil Touch - TV Show - 1973",
-       "logo": "https://archive.org/services/img/the-evil-touch-tv-show-1973",
-       "url": "https://archive.org/details/the-evil-touch-tv-show-1973",
+       "name": "The Clampetts Go Hollywood",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
        "date": null,
-       "plot": "The Evil Touch - TV Show - 1973 Not complete The Evil Touch - S01E01 - The Lake (Starring Robert Lansin) (1973-09-16) Higher Quality.mp4 The Evil Touch - S01E01 - The Lake (Starring Robert Lansin) (1973-09-16).avi The Evil Touch - S01E02 - Heart to Heart (1973.09.23).avi The Evil Touch - S01E04 - The Obituary (1973.10.07).avi The Evil Touch - S01E05 - Happy New Year Aunt Carrie (1973.10.14).avi The Evil Touch - S01E06 - A Game of Hearts (1973.10.21).avi The Evil Touch - S01E08 - The Upper Hand (1973.11.04).avi The Evil Touch - S01E09 - Murder is for the Birds (1973.11.11).avi The Evil Touch - ",
-       "page": "https://archive.org/details/the-evil-touch-tv-show-1973",
-       "id": "the-evil-touch-tv-show-1973",
+       "plot": "Beverly Hillbillies Ep 45 The Clampetts Go Hollywood",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
+       "id": "Beverly_Hillbillies_Ep45_The_Clampetts_Go_Hollywood",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Friar Tuck",
+       "logo": "https://archive.org/services/img/Robin_Hood_04_Friar_Tuck",
+       "url": "https://archive.org/details/Robin_Hood_04_Friar_Tuck",
+       "date": null,
+       "plot": "The Adventures Of Robin Hood ep 04 Friar Tuck",
+       "page": "https://archive.org/details/Robin_Hood_04_Friar_Tuck",
+       "id": "Robin_Hood_04_Friar_Tuck",
        "duration": null,
        "resolve": "archive"
       },
@@ -8538,17 +8549,6 @@
        "plot": "Beverly Hillbillies Ep 33 The Clampetts Get Psychoanalyzed",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep33_The_Clampetts_Get_Psychoanalyzed",
        "id": "Beverly_Hillbillies_Ep33_The_Clampetts_Get_Psychoanalyzed",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Friar Tuck",
-       "logo": "https://archive.org/services/img/Robin_Hood_04_Friar_Tuck",
-       "url": "https://archive.org/details/Robin_Hood_04_Friar_Tuck",
-       "date": null,
-       "plot": "The Adventures Of Robin Hood ep 04 Friar Tuck",
-       "page": "https://archive.org/details/Robin_Hood_04_Friar_Tuck",
-       "id": "Robin_Hood_04_Friar_Tuck",
        "duration": null,
        "resolve": "archive"
       },
@@ -8608,6 +8608,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Goodbye Little John",
+       "logo": "https://archive.org/services/img/The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
+       "url": "https://archive.org/details/The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
+       "date": null,
+       "plot": "The Adventures Of Robin Hood ep Goodbye Little John",
+       "page": "https://archive.org/details/The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
+       "id": "The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Psychiatrist Gets Clampetted",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep34_The_Psychiatrist_Gets_Clampetted",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep34_The_Psychiatrist_Gets_Clampetted",
@@ -8619,13 +8630,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Goodbye Little John",
-       "logo": "https://archive.org/services/img/The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
-       "url": "https://archive.org/details/The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
+       "name": "One Step Beyond - The Bride Possessed",
+       "logo": "https://archive.org/services/img/OSB-TheBridePossessed",
+       "url": "https://archive.org/details/OSB-TheBridePossessed",
        "date": null,
-       "plot": "The Adventures Of Robin Hood ep Goodbye Little John",
-       "page": "https://archive.org/details/The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
-       "id": "The_Adventures_Of_Robin_Hood_ep_Goodbye_Little_John",
+       "plot": "One Step Beyond - Season one, episode one. A bride begins to predict details of an area she has never visited before, then acts strangely towards her new husband. Original airdate: 1/20/1959",
+       "page": "https://archive.org/details/OSB-TheBridePossessed",
+       "id": "OSB-TheBridePossessed",
        "duration": null,
        "resolve": "archive"
       },
@@ -8638,17 +8649,6 @@
        "page": "https://archive.org/details/TheAdventuresOfOzzieHarriet_264",
        "id": "TheAdventuresOfOzzieHarriet_264",
        "duration": "24:56",
-       "resolve": "archive"
-      },
-      {
-       "name": "One Step Beyond - The Bride Possessed",
-       "logo": "https://archive.org/services/img/OSB-TheBridePossessed",
-       "url": "https://archive.org/details/OSB-TheBridePossessed",
-       "date": null,
-       "plot": "One Step Beyond - Season one, episode one. A bride begins to predict details of an area she has never visited before, then acts strangely towards her new husband. Original airdate: 1/20/1959",
-       "page": "https://archive.org/details/OSB-TheBridePossessed",
-       "id": "OSB-TheBridePossessed",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -8883,6 +8883,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Alien Nation (1989) Complete Series",
+       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "date": null,
+       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
+       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Life Of Riley January 02 1953",
        "logo": "https://archive.org/services/img/Life_Of_Riley_-_January_02_1953",
        "url": "https://archive.org/details/Life_Of_Riley_-_January_02_1953",
@@ -8901,17 +8912,6 @@
        "plot": "The Mickey Rooney Show aka \"Hey Mulligan\" misc 04 I have no titles or broadcast dates for this series. If you have any Info on this show please use the reviews to add the info here.",
        "page": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_04",
        "id": "The_Mickey_Rooney_Show_Misc_ep_04",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alien Nation (1989) Complete Series",
-       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "date": null,
-       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
-       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
        "duration": null,
        "resolve": "archive"
       },
@@ -9004,17 +9004,6 @@
        "resolve": "archive"
       },
       {
-       "name": "A Family Affair",
-       "logo": "https://archive.org/services/img/FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
-       "url": "https://archive.org/details/FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
-       "date": null,
-       "plot": "Follow That Man Ralph Bellamy ep 4-26 A Family Affair",
-       "page": "https://archive.org/details/FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
-       "id": "FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "A Year To Remeber - 1935",
        "logo": "https://archive.org/services/img/YTR1935",
        "url": "https://archive.org/details/YTR1935",
@@ -9023,6 +9012,17 @@
        "page": "https://archive.org/details/YTR1935",
        "id": "YTR1935",
        "duration": "22 mins",
+       "resolve": "archive"
+      },
+      {
+       "name": "A Family Affair",
+       "logo": "https://archive.org/services/img/FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
+       "url": "https://archive.org/details/FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
+       "date": null,
+       "plot": "Follow That Man Ralph Bellamy ep 4-26 A Family Affair",
+       "page": "https://archive.org/details/FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
+       "id": "FollowThatMan-RalphBellamy-4-26-AFamilyAffair",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9070,17 +9070,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Blackwater Valley Feud",
-       "logo": "https://archive.org/services/img/gene_autry_show_-_1x07_-_blackwater_valley_feud",
-       "url": "https://archive.org/details/gene_autry_show_-_1x07_-_blackwater_valley_feud",
-       "date": null,
-       "plot": "The Gene Autry Show ep 1x07 Blackwater Valley Feud",
-       "page": "https://archive.org/details/gene_autry_show_-_1x07_-_blackwater_valley_feud",
-       "id": "gene_autry_show_-_1x07_-_blackwater_valley_feud",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Thanksgiving Dinner",
        "logo": "https://archive.org/services/img/CATC_Thanksgiving_Dinner",
        "url": "https://archive.org/details/CATC_Thanksgiving_Dinner",
@@ -9092,14 +9081,14 @@
        "resolve": "archive"
       },
       {
-       "name": "Dragnet: The Big Hate",
-       "logo": "https://archive.org/services/img/DragnetTheBigHate",
-       "url": "https://archive.org/details/DragnetTheBigHate",
+       "name": "Blackwater Valley Feud",
+       "logo": "https://archive.org/services/img/gene_autry_show_-_1x07_-_blackwater_valley_feud",
+       "url": "https://archive.org/details/gene_autry_show_-_1x07_-_blackwater_valley_feud",
        "date": null,
-       "plot": "A 25-year old man is found holding the body of a dead woman in a freight car and claims to have killed her. Friday and Smith aren't so sure. Season 2, Episode 14 (February 12, 1953)",
-       "page": "https://archive.org/details/DragnetTheBigHate",
-       "id": "DragnetTheBigHate",
-       "duration": "26:04",
+       "plot": "The Gene Autry Show ep 1x07 Blackwater Valley Feud",
+       "page": "https://archive.org/details/gene_autry_show_-_1x07_-_blackwater_valley_feud",
+       "id": "gene_autry_show_-_1x07_-_blackwater_valley_feud",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9114,14 +9103,14 @@
        "resolve": "archive"
       },
       {
-       "name": "Sergeant Preston of the Yukon - King of Hershel Island",
-       "logo": "https://archive.org/services/img/SergeantPrestonOfTheYukon-KingOfHershelIsland",
-       "url": "https://archive.org/details/SergeantPrestonOfTheYukon-KingOfHershelIsland",
+       "name": "Dragnet: The Big Hate",
+       "logo": "https://archive.org/services/img/DragnetTheBigHate",
+       "url": "https://archive.org/details/DragnetTheBigHate",
        "date": null,
-       "plot": "Preston must internvene when a vicious group of outlaws overtakes an Eskimo village, killing its residents and stealing their supplies.",
-       "page": "https://archive.org/details/SergeantPrestonOfTheYukon-KingOfHershelIsland",
-       "id": "SergeantPrestonOfTheYukon-KingOfHershelIsland",
-       "duration": "25:32",
+       "plot": "A 25-year old man is found holding the body of a dead woman in a freight car and claims to have killed her. Friday and Smith aren't so sure. Season 2, Episode 14 (February 12, 1953)",
+       "page": "https://archive.org/details/DragnetTheBigHate",
+       "id": "DragnetTheBigHate",
+       "duration": "26:04",
        "resolve": "archive"
       },
       {
@@ -9133,6 +9122,17 @@
        "page": "https://archive.org/details/SpacePatrol1951",
        "id": "SpacePatrol1951",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Sergeant Preston of the Yukon - King of Hershel Island",
+       "logo": "https://archive.org/services/img/SergeantPrestonOfTheYukon-KingOfHershelIsland",
+       "url": "https://archive.org/details/SergeantPrestonOfTheYukon-KingOfHershelIsland",
+       "date": null,
+       "plot": "Preston must internvene when a vicious group of outlaws overtakes an Eskimo village, killing its residents and stealing their supplies.",
+       "page": "https://archive.org/details/SergeantPrestonOfTheYukon-KingOfHershelIsland",
+       "id": "SergeantPrestonOfTheYukon-KingOfHershelIsland",
+       "duration": "25:32",
        "resolve": "archive"
       },
       {
@@ -9165,6 +9165,17 @@
        "plot": "Beverly Hillbillies Ep 39 Grannys Garden",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep39_Grannys_Garden",
        "id": "Beverly_Hillbillies_Ep39_Grannys_Garden",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Mister Ed Season 4",
+       "logo": "https://archive.org/services/img/mister-ed-s-04",
+       "url": "https://archive.org/details/mister-ed-s-04",
+       "date": null,
+       "plot": "The Complete Season 4 of Mister Ed",
+       "page": "https://archive.org/details/mister-ed-s-04",
+       "id": "mister-ed-s-04",
        "duration": null,
        "resolve": "archive"
       },
@@ -9202,17 +9213,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Pilot Episode",
-       "logo": "https://archive.org/services/img/FMAM_TV_PILOT",
-       "url": "https://archive.org/details/FMAM_TV_PILOT",
-       "date": null,
-       "plot": "Fibber MCGee And Molly Pilot Episode",
-       "page": "https://archive.org/details/FMAM_TV_PILOT",
-       "id": "FMAM_TV_PILOT",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Dangerous Assignment: The Alien Smuggler Story",
        "logo": "https://archive.org/services/img/TheAlienSmugglerStory",
        "url": "https://archive.org/details/TheAlienSmugglerStory",
@@ -9221,6 +9221,17 @@
        "page": "https://archive.org/details/TheAlienSmugglerStory",
        "id": "TheAlienSmugglerStory",
        "duration": "24:25",
+       "resolve": "archive"
+      },
+      {
+       "name": "Pilot Episode",
+       "logo": "https://archive.org/services/img/FMAM_TV_PILOT",
+       "url": "https://archive.org/details/FMAM_TV_PILOT",
+       "date": null,
+       "plot": "Fibber MCGee And Molly Pilot Episode",
+       "page": "https://archive.org/details/FMAM_TV_PILOT",
+       "id": "FMAM_TV_PILOT",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9246,17 +9257,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Quatermass II Episode 6 of 6",
-       "logo": "https://archive.org/services/img/Quatermass_II_Episode_6of6_1955",
-       "url": "https://archive.org/details/Quatermass_II_Episode_6of6_1955",
-       "date": null,
-       "plot": "Quatermass II Episode 6 of 6 6 part BBC Sci Fi Live TV series from 1955",
-       "page": "https://archive.org/details/Quatermass_II_Episode_6of6_1955",
-       "id": "Quatermass_II_Episode_6of6_1955",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Chickadee Returns",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep43_Chickadee_Returns",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep43_Chickadee_Returns",
@@ -9268,13 +9268,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Mister Ed Season 4",
-       "logo": "https://archive.org/services/img/mister-ed-s-04",
-       "url": "https://archive.org/details/mister-ed-s-04",
+       "name": "Quatermass II Episode 6 of 6",
+       "logo": "https://archive.org/services/img/Quatermass_II_Episode_6of6_1955",
+       "url": "https://archive.org/details/Quatermass_II_Episode_6of6_1955",
        "date": null,
-       "plot": "The Complete Season 4 of Mister Ed",
-       "page": "https://archive.org/details/mister-ed-s-04",
-       "id": "mister-ed-s-04",
+       "plot": "Quatermass II Episode 6 of 6 6 part BBC Sci Fi Live TV series from 1955",
+       "page": "https://archive.org/details/Quatermass_II_Episode_6of6_1955",
+       "id": "Quatermass_II_Episode_6of6_1955",
        "duration": null,
        "resolve": "archive"
       },
@@ -9345,17 +9345,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Virginia Slims Cigarettes U.S. Television Commercial 16 / 1968-1971",
-       "logo": "https://archive.org/services/img/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
-       "url": "https://archive.org/details/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
-       "date": null,
-       "plot": "640p x 480p High Resolution File",
-       "page": "https://archive.org/details/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
-       "id": "VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bob Retrenches",
        "logo": "https://archive.org/services/img/Love_That_Bob_Ep4x28_Bob_Retrenches",
        "url": "https://archive.org/details/Love_That_Bob_Ep4x28_Bob_Retrenches",
@@ -9363,6 +9352,17 @@
        "plot": "Love That Bob Season 4 Ep 28 Bob Retrenches",
        "page": "https://archive.org/details/Love_That_Bob_Ep4x28_Bob_Retrenches",
        "id": "Love_That_Bob_Ep4x28_Bob_Retrenches",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Virginia Slims Cigarettes U.S. Television Commercial 16 / 1968-1971",
+       "logo": "https://archive.org/services/img/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
+       "url": "https://archive.org/details/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
+       "date": null,
+       "plot": "640p x 480p High Resolution File",
+       "page": "https://archive.org/details/VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
+       "id": "VirginiaSlimsCigarettesU.s.TelevisionCommercial161968-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -9422,17 +9422,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Are You Being Served? Series 3 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-3",
-       "url": "https://archive.org/details/are-you-being-served-3",
-       "date": null,
-       "plot": "All of series 3 uncut including the 2 episodes that are always cut on tv and the UK DVD releases (German Week & New Look)",
-       "page": "https://archive.org/details/are-you-being-served-3",
-       "id": "are-you-being-served-3",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bob Judges A Beauty Contest",
        "logo": "https://archive.org/services/img/Love_That_Bob-5x12_Bob_Judges_A_Beauty_Contest",
        "url": "https://archive.org/details/Love_That_Bob-5x12_Bob_Judges_A_Beauty_Contest",
@@ -9466,6 +9455,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Playhouse 90 - The Plot To Kill Stalin Part 1",
+       "logo": "https://archive.org/services/img/Plathouse90-ThePlotToKillStalinPart1",
+       "url": "https://archive.org/details/Plathouse90-ThePlotToKillStalinPart1",
+       "date": null,
+       "plot": "Somewhat correct drama on last months of Stalins rule and life.",
+       "page": "https://archive.org/details/Plathouse90-ThePlotToKillStalinPart1",
+       "id": "Plathouse90-ThePlotToKillStalinPart1",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Amahl and the Night Visitors (Dec. 24, 1951)",
        "logo": "https://archive.org/services/img/AmahlNightVisitors12241951",
        "url": "https://archive.org/details/AmahlNightVisitors12241951",
@@ -9484,17 +9484,6 @@
        "plot": "The Adventures Of Ozzie And Harriet Season Two",
        "page": "https://archive.org/details/the-adventures-of-ozzie-and-harriet-season-two",
        "id": "the-adventures-of-ozzie-and-harriet-season-two",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Playhouse 90 - The Plot To Kill Stalin Part 1",
-       "logo": "https://archive.org/services/img/Plathouse90-ThePlotToKillStalinPart1",
-       "url": "https://archive.org/details/Plathouse90-ThePlotToKillStalinPart1",
-       "date": null,
-       "plot": "Somewhat correct drama on last months of Stalins rule and life.",
-       "page": "https://archive.org/details/Plathouse90-ThePlotToKillStalinPart1",
-       "id": "Plathouse90-ThePlotToKillStalinPart1",
        "duration": null,
        "resolve": "archive"
       },
@@ -9543,17 +9532,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bob and the Dumb Blonde",
-       "logo": "https://archive.org/services/img/Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
-       "url": "https://archive.org/details/Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
-       "date": null,
-       "plot": "Love That Bob Ep 5x02 Bob and the Dumb Blonde",
-       "page": "https://archive.org/details/Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
-       "id": "Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "One Step Beyond : The Last Round",
        "logo": "https://archive.org/services/img/OSB-77_The_Last_Round",
        "url": "https://archive.org/details/OSB-77_The_Last_Round",
@@ -9565,6 +9543,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Bob and the Dumb Blonde",
+       "logo": "https://archive.org/services/img/Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
+       "url": "https://archive.org/details/Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
+       "date": null,
+       "plot": "Love That Bob Ep 5x02 Bob and the Dumb Blonde",
+       "page": "https://archive.org/details/Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
+       "id": "Love_That_Bob-5x02-Bob_and_the_Dumb_Blonde",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Bob Saves Harvey",
        "logo": "https://archive.org/services/img/Love_That_Bob_Ep4x25_Bob_Saves_Harvey",
        "url": "https://archive.org/details/Love_That_Bob_Ep4x25_Bob_Saves_Harvey",
@@ -9572,6 +9561,17 @@
        "plot": "Love That Bob Ep 4x25 Bob Saves Harvey",
        "page": "https://archive.org/details/Love_That_Bob_Ep4x25_Bob_Saves_Harvey",
        "id": "Love_That_Bob_Ep4x25_Bob_Saves_Harvey",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Jack Benny program - 01/17/1954",
+       "logo": "https://archive.org/services/img/TheJackBennyProgram-01171954",
+       "url": "https://archive.org/details/TheJackBennyProgram-01171954",
+       "date": null,
+       "plot": "Episode of \"The Jack Benny program\" with his guest Liberace. With commercials - LSMFT.",
+       "page": "https://archive.org/details/TheJackBennyProgram-01171954",
+       "id": "TheJackBennyProgram-01171954",
        "duration": null,
        "resolve": "archive"
       },
@@ -9598,17 +9598,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Jack Benny program - 01/17/1954",
-       "logo": "https://archive.org/services/img/TheJackBennyProgram-01171954",
-       "url": "https://archive.org/details/TheJackBennyProgram-01171954",
-       "date": null,
-       "plot": "Episode of \"The Jack Benny program\" with his guest Liberace. With commercials - LSMFT.",
-       "page": "https://archive.org/details/TheJackBennyProgram-01171954",
-       "id": "TheJackBennyProgram-01171954",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "DANGER UXB (1979) (Full Series)",
        "logo": "https://archive.org/services/img/danger-uxb-1979",
        "url": "https://archive.org/details/danger-uxb-1979",
@@ -9627,6 +9616,17 @@
        "plot": "George Burns And Gracie Allen Show ep Jack_Benny_Guests",
        "page": "https://archive.org/details/George_Burns_And_Gracie_Allen_-_Jack_Benny_Guests",
        "id": "George_Burns_And_Gracie_Allen_-_Jack_Benny_Guests",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Are You Being Served? Series 3 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-3",
+       "url": "https://archive.org/details/are-you-being-served-3",
+       "date": null,
+       "plot": "All of series 3 uncut including the 2 episodes that are always cut on tv and the UK DVD releases (German Week & New Look)",
+       "page": "https://archive.org/details/are-you-being-served-3",
+       "id": "are-you-being-served-3",
        "duration": null,
        "resolve": "archive"
       },
@@ -9653,17 +9653,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Ordeal",
-       "logo": "https://archive.org/services/img/Robin_Hood_10_The_Ordeal",
-       "url": "https://archive.org/details/Robin_Hood_10_The_Ordeal",
-       "date": null,
-       "plot": "The Adventures Of Robin Hood ep 10 The Ordeal",
-       "page": "https://archive.org/details/Robin_Hood_10_The_Ordeal",
-       "id": "Robin_Hood_10_The_Ordeal",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Mickey Rooney Show Misc 06",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_06",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_06",
@@ -9671,6 +9660,17 @@
        "plot": "The Mickey Rooney Show aka \"Hey Mulligan\" misc 06 I have no titles or broadcast dates for this series. If you have any Info on this show please use the reviews to add the info here.",
        "page": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_06",
        "id": "The_Mickey_Rooney_Show_Misc_ep_06",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Ordeal",
+       "logo": "https://archive.org/services/img/Robin_Hood_10_The_Ordeal",
+       "url": "https://archive.org/details/Robin_Hood_10_The_Ordeal",
+       "date": null,
+       "plot": "The Adventures Of Robin Hood ep 10 The Ordeal",
+       "page": "https://archive.org/details/Robin_Hood_10_The_Ordeal",
+       "id": "Robin_Hood_10_The_Ordeal",
        "duration": null,
        "resolve": "archive"
       },
@@ -9730,17 +9730,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Striptease: An Intimate Act (1996)",
-       "logo": "https://archive.org/services/img/StripteaseAnIntimateAct1996",
-       "url": "https://archive.org/details/StripteaseAnIntimateAct1996",
-       "date": null,
-       "plot": "This intermission feature that aired between a couple of films takes an inside look at some real life strippers and a behind-the-scenes look at the 1996 film based on the Carl Hiaasen book. Also includes a couple promos on Showtime before and after this \"extra\", as broadcast on July 20, 1997.",
-       "page": "https://archive.org/details/StripteaseAnIntimateAct1996",
-       "id": "StripteaseAnIntimateAct1996",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Midway Is East",
        "logo": "https://archive.org/services/img/VAS_04_Midway_Is_East",
        "url": "https://archive.org/details/VAS_04_Midway_Is_East",
@@ -9760,6 +9749,17 @@
        "page": "https://archive.org/details/DecoyThePilotEpisode",
        "id": "DecoyThePilotEpisode",
        "duration": "29:40",
+       "resolve": "archive"
+      },
+      {
+       "name": "Striptease: An Intimate Act (1996)",
+       "logo": "https://archive.org/services/img/StripteaseAnIntimateAct1996",
+       "url": "https://archive.org/details/StripteaseAnIntimateAct1996",
+       "date": null,
+       "plot": "This intermission feature that aired between a couple of films takes an inside look at some real life strippers and a behind-the-scenes look at the 1996 film based on the Carl Hiaasen book. Also includes a couple promos on Showtime before and after this \"extra\", as broadcast on July 20, 1997.",
+       "page": "https://archive.org/details/StripteaseAnIntimateAct1996",
+       "id": "StripteaseAnIntimateAct1996",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9807,6 +9807,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Philco Playhouse: Marty (1953)",
+       "logo": "https://archive.org/services/img/PhilcoPlayhouseMarty1953",
+       "url": "https://archive.org/details/PhilcoPlayhouseMarty1953",
+       "date": null,
+       "plot": "\"Philco Television Playhouse\" Marty (1953) Director: Delbert Mann Story by Paddy Chayefsky Cast: Rod Steiger, Nancy Marchand, Nehemiah Persoff Original Air Date: 24 May 1953 (Season 5, Episode 23)",
+       "page": "https://archive.org/details/PhilcoPlayhouseMarty1953",
+       "id": "PhilcoPlayhouseMarty1953",
+       "duration": "50:55",
+       "resolve": "archive"
+      },
+      {
        "name": "\"The Gene Autry Show\" - 27/August/1950 - Ep. \"The Double Switch\"",
        "logo": "https://archive.org/services/img/GeneAutryDoubleSwitch08271950",
        "url": "https://archive.org/details/GeneAutryDoubleSwitch08271950",
@@ -9829,17 +9840,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Philco Playhouse: Marty (1953)",
-       "logo": "https://archive.org/services/img/PhilcoPlayhouseMarty1953",
-       "url": "https://archive.org/details/PhilcoPlayhouseMarty1953",
-       "date": null,
-       "plot": "\"Philco Television Playhouse\" Marty (1953) Director: Delbert Mann Story by Paddy Chayefsky Cast: Rod Steiger, Nancy Marchand, Nehemiah Persoff Original Air Date: 24 May 1953 (Season 5, Episode 23)",
-       "page": "https://archive.org/details/PhilcoPlayhouseMarty1953",
-       "id": "PhilcoPlayhouseMarty1953",
-       "duration": "50:55",
-       "resolve": "archive"
-      },
-      {
        "name": "The Big Bar",
        "logo": "https://archive.org/services/img/Dragnet_-_4x08_The_Big_Bar",
        "url": "https://archive.org/details/Dragnet_-_4x08_The_Big_Bar",
@@ -9858,17 +9858,6 @@
        "plot": "Love That Bob Ep 4x36 Bob's Forgotten Fiancee",
        "page": "https://archive.org/details/Love_That_Bob_Ep4x36_Bobs_Forgotten_Fiancee",
        "id": "Love_That_Bob_Ep4x36_Bobs_Forgotten_Fiancee",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alfred Hitchcock Presents - Complete Season 7 (39 Episodes) (restored, colorized) (1961, TV Series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-7e-1-colorized-sd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
-       "id": "alfred-hitchcock-presents-s-7e-1-colorized-sd",
        "duration": null,
        "resolve": "archive"
       },
@@ -9950,13 +9939,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Alfred Hitchcock Presents - Complete Season 2 (39 Episodes) (restored, colorized) (1956, TV Series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "name": "Are You Being Served? Series 1 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-uncut",
+       "url": "https://archive.org/details/are-you-being-served-uncut",
        "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "id": "alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "plot": "All of series 1 uncut.",
+       "page": "https://archive.org/details/are-you-being-served-uncut",
+       "id": "are-you-being-served-uncut",
        "duration": null,
        "resolve": "archive"
       },
@@ -9994,14 +9983,14 @@
        "resolve": "archive"
       },
       {
-       "name": "Are You Being Served? Series 1 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-uncut",
-       "url": "https://archive.org/details/are-you-being-served-uncut",
+       "name": "DuMont Network episode of 'Okay, Mother'",
+       "logo": "https://archive.org/services/img/Okay_Mother",
+       "url": "https://archive.org/details/Okay_Mother",
        "date": null,
-       "plot": "All of series 1 uncut.",
-       "page": "https://archive.org/details/are-you-being-served-uncut",
-       "id": "are-you-being-served-uncut",
-       "duration": null,
+       "plot": "The sole surviving DuMont Network episode of \"Okay Mother\", a daytime game show.",
+       "page": "https://archive.org/details/Okay_Mother",
+       "id": "Okay_Mother",
+       "duration": "Approx 30 Minutes",
        "resolve": "archive"
       },
       {
@@ -10013,17 +10002,6 @@
        "page": "https://archive.org/details/veronicascloset",
        "id": "veronicascloset",
        "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "DuMont Network episode of 'Okay, Mother'",
-       "logo": "https://archive.org/services/img/Okay_Mother",
-       "url": "https://archive.org/details/Okay_Mother",
-       "date": null,
-       "plot": "The sole surviving DuMont Network episode of \"Okay Mother\", a daytime game show.",
-       "page": "https://archive.org/details/Okay_Mother",
-       "id": "Okay_Mother",
-       "duration": "Approx 30 Minutes",
        "resolve": "archive"
       },
       {
@@ -10049,17 +10027,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Dragnet - The Big Trunk (1954)",
-       "logo": "https://archive.org/services/img/Dragnet-TheBigTrunk1954",
-       "url": "https://archive.org/details/Dragnet-TheBigTrunk1954",
-       "date": null,
-       "plot": "Dragnet ep 3x19 The Big Trunk, air date: January 7, 1954 Note: I know \"The Big Trunk\" is already here, but it really is just the mislabled file of \"The Big Bird\" (5x09).",
-       "page": "https://archive.org/details/Dragnet-TheBigTrunk1954",
-       "id": "Dragnet-TheBigTrunk1954",
-       "duration": "26:49",
-       "resolve": "archive"
-      },
-      {
        "name": "A Husband For Marian",
        "logo": "https://archive.org/services/img/Robin_Hood_11_A_Husband_For_Marian",
        "url": "https://archive.org/details/Robin_Hood_11_A_Husband_For_Marian",
@@ -10068,6 +10035,28 @@
        "page": "https://archive.org/details/Robin_Hood_11_A_Husband_For_Marian",
        "id": "Robin_Hood_11_A_Husband_For_Marian",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Alfred Hitchcock Presents - Complete Season 7 (39 Episodes) (restored, colorized) (1961, TV Series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-7e-1-colorized-sd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
+       "date": null,
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
+       "id": "alfred-hitchcock-presents-s-7e-1-colorized-sd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Dragnet - The Big Trunk (1954)",
+       "logo": "https://archive.org/services/img/Dragnet-TheBigTrunk1954",
+       "url": "https://archive.org/details/Dragnet-TheBigTrunk1954",
+       "date": null,
+       "plot": "Dragnet ep 3x19 The Big Trunk, air date: January 7, 1954 Note: I know \"The Big Trunk\" is already here, but it really is just the mislabled file of \"The Big Bird\" (5x09).",
+       "page": "https://archive.org/details/Dragnet-TheBigTrunk1954",
+       "id": "Dragnet-TheBigTrunk1954",
+       "duration": "26:49",
        "resolve": "archive"
       },
       {
@@ -10115,17 +10104,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Room 222 (1969) - Complete Season 1",
-       "logo": "https://archive.org/services/img/Room-222-Season-1",
-       "url": "https://archive.org/details/Room-222-Season-1",
-       "date": null,
-       "plot": "All 26 episodes of the 1969 TV show Room 222. This show ran for 5 seasons in total, through 1974.",
-       "page": "https://archive.org/details/Room-222-Season-1",
-       "id": "Room-222-Season-1",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bat Masterson - Stampede At Tent City",
        "logo": "https://archive.org/services/img/Bat_Masterson_-_Stampede_At_Tent_City",
        "url": "https://archive.org/details/Bat_Masterson_-_Stampede_At_Tent_City",
@@ -10134,6 +10112,28 @@
        "page": "https://archive.org/details/Bat_Masterson_-_Stampede_At_Tent_City",
        "id": "Bat_Masterson_-_Stampede_At_Tent_City",
        "duration": "25:59",
+       "resolve": "archive"
+      },
+      {
+       "name": "Alfred Hitchcock Presents - Complete Season 2 (39 Episodes) (restored, colorized) (1956, TV Series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "date": null,
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "id": "alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Room 222 (1969) - Complete Season 1",
+       "logo": "https://archive.org/services/img/Room-222-Season-1",
+       "url": "https://archive.org/details/Room-222-Season-1",
+       "date": null,
+       "plot": "All 26 episodes of the 1969 TV show Room 222. This show ran for 5 seasons in total, through 1974.",
+       "page": "https://archive.org/details/Room-222-Season-1",
+       "id": "Room-222-Season-1",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10189,6 +10189,17 @@
        "page": "https://archive.org/details/theAdventuresOfElleryQueen-DeathSpinsAWheel1951",
        "id": "theAdventuresOfElleryQueen-DeathSpinsAWheel1951",
        "duration": "25:03",
+       "resolve": "archive"
+      },
+      {
+       "name": "SPECIAL BRANCH (1969-73) (Full Series)",
+       "logo": "https://archive.org/services/img/special-branch-1969-73",
+       "url": "https://archive.org/details/special-branch-1969-73",
+       "date": null,
+       "plot": "Groundbreaking British police drama series following the exploits of the Special Branch of the Metropolitan Police: an elite group of officers tasked with protecting London from spies, terrorists, and subversives.",
+       "page": "https://archive.org/details/special-branch-1969-73",
+       "id": "special-branch-1969-73",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10346,6 +10357,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Are You being Served? Series 4 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-4",
+       "url": "https://archive.org/details/are-you-being-served-4",
+       "date": null,
+       "plot": "All of series 4 uncut including the 3 episodes that are always cut on tv and the UK dvds (No Sale, Forward Mr Grainger & The Father Christmas Affair)",
+       "page": "https://archive.org/details/are-you-being-served-4",
+       "id": "are-you-being-served-4",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Jimmy Durante Show",
        "logo": "https://archive.org/services/img/JimmyDuranteShow",
        "url": "https://archive.org/details/JimmyDuranteShow",
@@ -10368,17 +10390,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Frighteners - TV Show - AVI",
-       "logo": "https://archive.org/services/img/the-frighteners-tv-show-avi",
-       "url": "https://archive.org/details/the-frighteners-tv-show-avi",
-       "date": null,
-       "plot": "The Frighteners - TV Show - AVI Video Size: 624x480 -- A horror anthology series, with each episode featuring a different eerie tale. This show is \"Tales of the unexpected\" nastier brother. Much darker than anything seen in similar 30 min format TV shows. Some of the endings left me saying \"Holy Moly!\" When audiences in the USA in 1972 were watching stuff like Night Gallery and saying \"Gee, this is great\", audiences in the UK were treated to this anthology show that was original, and dark. Not sticking to too well worn TV tropes THE FRIGHTENERS showed what no holds barred TV was all about. Onl",
-       "page": "https://archive.org/details/the-frighteners-tv-show-avi",
-       "id": "the-frighteners-tv-show-avi",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Mickey Rooney Show Misc 09",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_09",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_09",
@@ -10390,13 +10401,13 @@
        "resolve": "archive"
       },
       {
-       "name": "SPECIAL BRANCH (1969-73) (Full Series)",
-       "logo": "https://archive.org/services/img/special-branch-1969-73",
-       "url": "https://archive.org/details/special-branch-1969-73",
+       "name": "The Frighteners - TV Show - AVI",
+       "logo": "https://archive.org/services/img/the-frighteners-tv-show-avi",
+       "url": "https://archive.org/details/the-frighteners-tv-show-avi",
        "date": null,
-       "plot": "Groundbreaking British police drama series following the exploits of the Special Branch of the Metropolitan Police: an elite group of officers tasked with protecting London from spies, terrorists, and subversives.",
-       "page": "https://archive.org/details/special-branch-1969-73",
-       "id": "special-branch-1969-73",
+       "plot": "The Frighteners - TV Show - AVI Video Size: 624x480 -- A horror anthology series, with each episode featuring a different eerie tale. This show is \"Tales of the unexpected\" nastier brother. Much darker than anything seen in similar 30 min format TV shows. Some of the endings left me saying \"Holy Moly!\" When audiences in the USA in 1972 were watching stuff like Night Gallery and saying \"Gee, this is great\", audiences in the UK were treated to this anthology show that was original, and dark. Not sticking to too well worn TV tropes THE FRIGHTENERS showed what no holds barred TV was all about. Onl",
+       "page": "https://archive.org/details/the-frighteners-tv-show-avi",
+       "id": "the-frighteners-tv-show-avi",
        "duration": null,
        "resolve": "archive"
       },
@@ -10423,17 +10434,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Are You Being Served? Series 5 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-5",
-       "url": "https://archive.org/details/are-you-being-served-5",
-       "date": null,
-       "plot": "All of series 5 uncut.",
-       "page": "https://archive.org/details/are-you-being-served-5",
-       "id": "are-you-being-served-5",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Betrothal",
        "logo": "https://archive.org/services/img/Robin_Hood_14_The_Betrothal",
        "url": "https://archive.org/details/Robin_Hood_14_The_Betrothal",
@@ -10456,13 +10456,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Are You being Served? Series 4 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-4",
-       "url": "https://archive.org/details/are-you-being-served-4",
+       "name": "Are You Being Served? Series 5 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-5",
+       "url": "https://archive.org/details/are-you-being-served-5",
        "date": null,
-       "plot": "All of series 4 uncut including the 3 episodes that are always cut on tv and the UK dvds (No Sale, Forward Mr Grainger & The Father Christmas Affair)",
-       "page": "https://archive.org/details/are-you-being-served-4",
-       "id": "are-you-being-served-4",
+       "plot": "All of series 5 uncut.",
+       "page": "https://archive.org/details/are-you-being-served-5",
+       "id": "are-you-being-served-5",
        "duration": null,
        "resolve": "archive"
       },
@@ -10507,17 +10507,6 @@
        "plot": "General Electric Theater ep The Honest Man",
        "page": "https://archive.org/details/GE_Theater_The_Honest_Man",
        "id": "GE_Theater_The_Honest_Man",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Are You Being Served? Series 2 (Uncut)",
-       "logo": "https://archive.org/services/img/are-you-being-served-2",
-       "url": "https://archive.org/details/are-you-being-served-2",
-       "date": null,
-       "plot": "All of series 2 uncut.",
-       "page": "https://archive.org/details/are-you-being-served-2",
-       "id": "are-you-being-served-2",
        "duration": null,
        "resolve": "archive"
       },
@@ -10654,6 +10643,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Intruders",
+       "logo": "https://archive.org/services/img/Robin_Hood_18_The_Intruders",
+       "url": "https://archive.org/details/Robin_Hood_18_The_Intruders",
+       "date": null,
+       "plot": "The Adventures of Robin Hood ep 18 The Intruders",
+       "page": "https://archive.org/details/Robin_Hood_18_The_Intruders",
+       "id": "Robin_Hood_18_The_Intruders",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Bob Plays Margaret's Game",
        "logo": "https://archive.org/services/img/Love_That_Bob-5x13_Bob_Plays_Margarets_Game",
        "url": "https://archive.org/details/Love_That_Bob-5x13_Bob_Plays_Margarets_Game",
@@ -10673,17 +10673,6 @@
        "page": "https://archive.org/details/youBetYourLife1955-SecretWordFace",
        "id": "youBetYourLife1955-SecretWordFace",
        "duration": "29:21",
-       "resolve": "archive"
-      },
-      {
-       "name": "The Intruders",
-       "logo": "https://archive.org/services/img/Robin_Hood_18_The_Intruders",
-       "url": "https://archive.org/details/Robin_Hood_18_The_Intruders",
-       "date": null,
-       "plot": "The Adventures of Robin Hood ep 18 The Intruders",
-       "page": "https://archive.org/details/Robin_Hood_18_The_Intruders",
-       "id": "Robin_Hood_18_The_Intruders",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10753,6 +10742,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Are You Being Served? Series 2 (Uncut)",
+       "logo": "https://archive.org/services/img/are-you-being-served-2",
+       "url": "https://archive.org/details/are-you-being-served-2",
+       "date": null,
+       "plot": "All of series 2 uncut.",
+       "page": "https://archive.org/details/are-you-being-served-2",
+       "id": "are-you-being-served-2",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Mickey Rooney Show Misc 11",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_11",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_11",
@@ -10786,17 +10786,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Classic Christmas TV: 'You Asked for It'",
-       "logo": "https://archive.org/services/img/Christmas_1234567890",
-       "url": "https://archive.org/details/Christmas_1234567890",
-       "date": null,
-       "plot": "Incomplete but facinating 1950's TV broadcast of \"You Asked for It\" with a Christmas theme. As noted, it's missing a few minutes, but it's still watchable.",
-       "page": "https://archive.org/details/Christmas_1234567890",
-       "id": "Christmas_1234567890",
-       "duration": "Approx 22 Minutes (incomplete)",
-       "resolve": "archive"
-      },
-      {
        "name": "The Mickey Rooney Show Misc 13",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_13",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_13",
@@ -10805,6 +10794,17 @@
        "page": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_13",
        "id": "The_Mickey_Rooney_Show_Misc_ep_13",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Classic Christmas TV: 'You Asked for It'",
+       "logo": "https://archive.org/services/img/Christmas_1234567890",
+       "url": "https://archive.org/details/Christmas_1234567890",
+       "date": null,
+       "plot": "Incomplete but facinating 1950's TV broadcast of \"You Asked for It\" with a Christmas theme. As noted, it's missing a few minutes, but it's still watchable.",
+       "page": "https://archive.org/details/Christmas_1234567890",
+       "id": "Christmas_1234567890",
+       "duration": "Approx 22 Minutes (incomplete)",
        "resolve": "archive"
       },
       {
@@ -10929,6 +10929,17 @@
        "resolve": "archive"
       },
       {
+       "name": "NBC Matinee Theater - \"The Dark Of The Moon\"",
+       "logo": "https://archive.org/services/img/NbcMatineeTheater-theDarkOfTheMoon",
+       "url": "https://archive.org/details/NbcMatineeTheater-theDarkOfTheMoon",
+       "date": null,
+       "plot": "This teleplay stars Tom Tryon as a warlock who is turned into a human so he can be with a mortal girl, played by Gloria Talbott. This play also features Yvette Vickers as one of the witches.",
+       "page": "https://archive.org/details/NbcMatineeTheater-theDarkOfTheMoon",
+       "id": "NbcMatineeTheater-theDarkOfTheMoon",
+       "duration": "39:42",
+       "resolve": "archive"
+      },
+      {
        "name": "DICK TRACY TV SHOW",
        "logo": "https://archive.org/services/img/DickTracyTvShow",
        "url": "https://archive.org/details/DickTracyTvShow",
@@ -10940,14 +10951,14 @@
        "resolve": "archive"
       },
       {
-       "name": "NBC Matinee Theater - \"The Dark Of The Moon\"",
-       "logo": "https://archive.org/services/img/NbcMatineeTheater-theDarkOfTheMoon",
-       "url": "https://archive.org/details/NbcMatineeTheater-theDarkOfTheMoon",
+       "name": "DOCTOR IN THE HOUSE (1969-70) (Full Series)",
+       "logo": "https://archive.org/services/img/doctor-in-the-house-1979",
+       "url": "https://archive.org/details/doctor-in-the-house-1979",
        "date": null,
-       "plot": "This teleplay stars Tom Tryon as a warlock who is turned into a human so he can be with a mortal girl, played by Gloria Talbott. This play also features Yvette Vickers as one of the witches.",
-       "page": "https://archive.org/details/NbcMatineeTheater-theDarkOfTheMoon",
-       "id": "NbcMatineeTheater-theDarkOfTheMoon",
-       "duration": "39:42",
+       "plot": "The antics and misadventures of a group of medical students at a London hospital, who prove to be a thorn in the side of their superiors.",
+       "page": "https://archive.org/details/doctor-in-the-house-1979",
+       "id": "doctor-in-the-house-1979",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10995,6 +11006,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Deserted Castle",
+       "logo": "https://archive.org/services/img/Robin_Hood_25_The_Deserted_Castle",
+       "url": "https://archive.org/details/Robin_Hood_25_The_Deserted_Castle",
+       "date": null,
+       "plot": "The Adventures Of Robin Hood ep 25 The Deserted Castle",
+       "page": "https://archive.org/details/Robin_Hood_25_The_Deserted_Castle",
+       "id": "Robin_Hood_25_The_Deserted_Castle",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Bonanza - The Abduction Ep 2x08",
        "logo": "https://archive.org/services/img/Bonanza-TheAbductionEp2x08",
        "url": "https://archive.org/details/Bonanza-TheAbductionEp2x08",
@@ -11017,17 +11039,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Deserted Castle",
-       "logo": "https://archive.org/services/img/Robin_Hood_25_The_Deserted_Castle",
-       "url": "https://archive.org/details/Robin_Hood_25_The_Deserted_Castle",
-       "date": null,
-       "plot": "The Adventures Of Robin Hood ep 25 The Deserted Castle",
-       "page": "https://archive.org/details/Robin_Hood_25_The_Deserted_Castle",
-       "id": "Robin_Hood_25_The_Deserted_Castle",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "06. T 5 ( 12)",
        "logo": "https://archive.org/services/img/06.-t-5-12",
        "url": "https://archive.org/details/06.-t-5-12",
@@ -11046,17 +11057,6 @@
        "plot": "Death Valley Days featured stories of the old American West, primarily the Death Valley, California area. It began as a radio drama, which ran from 1930 until 1945. When it came to television, on March 1st, 1952, it became the longest running, most successful syndicated Western series ever, running to 558 episodes before ending on August 1st, 1975. The stories used in the series were based on actual events. It's sponsor was the familiar 20 mule team by the Pacific Coast Borax Company. It featured several hosts of the show throughout the years, starting with Stanley Andrews, Ronald Reagan, Robe",
        "page": "https://archive.org/details/DeathValleyDays-LittleWashington",
        "id": "DeathValleyDays-LittleWashington",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "TIMESLIP (1970-71) (Full Series)",
-       "logo": "https://archive.org/services/img/timeslip-1970-71",
-       "url": "https://archive.org/details/timeslip-1970-71",
-       "date": null,
-       "plot": "Simon and Liz were teenage friends who fell into a time hole and found themselves trapped in various periods of the 20th century, where they encounter all sorts of adventures. Many of them involve the nefarious Commander Traynor, who is also traveling in time.",
-       "page": "https://archive.org/details/timeslip-1970-71",
-       "id": "timeslip-1970-71",
        "duration": null,
        "resolve": "archive"
       }
