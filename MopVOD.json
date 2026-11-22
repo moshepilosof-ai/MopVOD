@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-21 21:23",
+ "updated": "2026-11-22 12:10",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-21 09:25",
+   "updated": "2026-11-22 09:15",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-21 09:25",
+   "updated": "2026-11-22 09:15",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -968,10 +968,10 @@
   {
    "name": "כאן 11 - תיקי בגדאד",
    "file": "vod/kan_1117051.json",
-   "episodes": 1,
+   "episodes": 2,
    "seasons": 1,
-   "updated": "2026-11-21 21:21",
-   "newest": "2026-11-08",
+   "updated": "2026-11-22 12:09",
+   "newest": "2026-11-19",
    "oldest": "2026-11-08"
   },
   {
@@ -4327,7 +4327,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-21 08:53",
+   "updated": "2026-11-22 08:55",
    "newest": null,
    "oldest": null
   },
@@ -4336,7 +4336,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-21 09:25",
+   "updated": "2026-11-22 09:15",
    "newest": null,
    "oldest": null
   },

@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1117051/",
    "series_id": "1117051",
-   "updated": "2026-11-21 21:21",
+   "updated": "2026-11-22 12:09",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "אחרי \"תיקי בגדאד\" - אולפן",
+       "logo": "https://www.kan.org.il/media/muanjgwi/אחרי-תיקי-בגדד.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267107/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-19",
+       "plot": "קובי מידן משוחח עם אורחים באולפן על הסערה שמעוררת פרשת השלכת הרימון על בית הכנסת מסעודה שם טוב בבגדאד, 75 שנים אחרי שהתרחשה, וגם על התרבות המפוארת של עליית עיראק",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1117051/1121318/",
+       "id": "1121318"
+      },
       {
        "name": "תיקי בגדאד",
        "logo": "https://www.kan.org.il/media/1ibplpch/1920x1080-with-logo_תיקי-בגדאד.jpg",
