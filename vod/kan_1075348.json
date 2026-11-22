@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
    "series_id": "1075348",
-   "updated": "2026-11-19 22:56",
+   "updated": "2026-11-22 21:21",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "הכוורת | פרק 52",
+       "logo": "https://www.kan.org.il/media/elilzccd/s0623931_digital00_00_38_08.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266436/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-17",
+       "plot": "הדרבי של הצפון - פרדס חנה נגד חיפה נגד קריית ים בתכנית עם שלושה מתמודדים צפוניים. הם יצטרכו ידע ואסטרטגיה כדי לזכות בכסף מי יהיה מלך או מלכת הכוורת? קלינאי תקשורת, קופירייטר או ספרנית?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1120405/",
+       "id": "1120405",
+       "season": 1
+      },
       {
        "name": "הכוורת | פרק 51",
        "logo": "https://www.kan.org.il/media/ilmaxh5u/הכוורת-לאתר.jpg",
@@ -499,16 +509,6 @@
        "plot": "עורך ספרים, כלכלן ונומרולוגית מתחרים מי יפצח את הכוורת בשעשועון הטריוויה החדש בהנחיית שלמור שטרוזמן",
        "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1076067/",
        "id": "1076067",
-       "season": 1
-      },
-      {
-       "name": "הכוורת | פרק 2",
-       "logo": "https://www.kan.org.il/media/zm4lb4pk/artboard-1.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224742/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-13",
-       "plot": "נתורופתית, קולנוען ודבוראי אמיתי ינסו לפצח את הכוורת. האם המומחיות של מומחה הדבורים תעזור לו לפצח את הכוורת? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1075554/",
-       "id": "1075554",
        "season": 1
       }
      ]
