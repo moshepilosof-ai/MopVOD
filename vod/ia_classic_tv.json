@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/classic_tv",
    "program_url": "https://archive.org/details/classic_tv",
-   "updated": "2026-11-21 09:25",
+   "updated": "2026-11-22 09:15",
    "sub_categories": [
     {
      "name": "2020-2029",
@@ -258,17 +258,6 @@
        "plot": "Dilbert is an American adult animated sitcom produced by Adelaide Productions, Idbox and United Media, and distributed by Columbia TriStar Television. The series is an adaptation of the comic strip of the same name by Scott Adams, who also served as executive producer and showrunner for the series along with former Seinfeld writer Larry Charles. The first episode was broadcast on January 25, 1999, and was UPN's highest-rated comedy series premiere at that point in the network's history; it lasted two seasons with thirty episodes and won a Primetime Emmy for its title sequence. We hope you will",
        "page": "https://archive.org/details/dilbert-season-1-episode-05-testing",
        "id": "dilbert-season-1-episode-05-testing",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Campeones de la vida (1999) [1080p]",
-       "logo": "https://archive.org/services/img/campeones-de-la-vida-1999-1080p",
-       "url": "https://archive.org/details/campeones-de-la-vida-1999-1080p",
-       "date": "1999-01-04",
-       "plot": "Campeones de la vida (1999) [1080p]",
-       "page": "https://archive.org/details/campeones-de-la-vida-1999-1080p",
-       "id": "campeones-de-la-vida-1999-1080p",
        "duration": null,
        "resolve": "archive"
       },
@@ -801,17 +790,6 @@
        "resolve": "archive"
       },
       {
-       "name": "ALL MY CHILDREN 1992 #01 Jan thru May (16.8 GB)",
-       "logo": "https://archive.org/services/img/AllMyChildren199201JanThruMay16.8Gb",
-       "url": "https://archive.org/details/AllMyChildren199201JanThruMay16.8Gb",
-       "date": "1992-01-01",
-       "plot": "UPDATE June 20, 2018: uploading remainder of May, today and tomorrow. ** I am not the original up-loader of these wonderful episodes and I receive ZERO dollars or otherwise, for my volunteer uploads. I do, however, give huge thanks right now, to the following ''Heaven-Sent,'' for uploading these episodes during the 1992, ABC TV (owners of the Eps), worldwide broadcast of them: All My Children videos, Bmuz, bradamloverAMC, CALOOSAVISTA, creolefemme1, DancingWater7795, Dieter Bar, heartgal54, junk4matty, munecojim, Natasha Newa, Northwest Afternoon w Cindi Rhinehart, PineValleyFan, towringer, TV",
-       "page": "https://archive.org/details/AllMyChildren199201JanThruMay16.8Gb",
-       "id": "AllMyChildren199201JanThruMay16.8Gb",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "On the Air (1992)",
        "logo": "https://archive.org/services/img/on-the-air-s-01e-01-e-03",
        "url": "https://archive.org/details/on-the-air-s-01e-01-e-03",
@@ -819,6 +797,17 @@
        "plot": "On the Air is an American television sitcom created by Mark Frost and David Lynch . It was broadcast from June 20 to July 4, 1992 on the American Broadcasting Company (ABC). The series follows the staff of a fictional 1950s television network, Zoblotnick Broadcasting Company (ZBC), as they produce a live variety program called The Lester Guy Show —often with disastrous results. On the Air was produced by Lynch/Frost Productions and followed Lynch and Frost's previous series, Twin Peaks . In the United States only three of the seven filmed episodes were aired, [1] but the first-and-only season ",
        "page": "https://archive.org/details/on-the-air-s-01e-01-e-03",
        "id": "on-the-air-s-01e-01-e-03",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "ALL MY CHILDREN 1992 #01 Jan thru May (16.8 GB)",
+       "logo": "https://archive.org/services/img/AllMyChildren199201JanThruMay16.8Gb",
+       "url": "https://archive.org/details/AllMyChildren199201JanThruMay16.8Gb",
+       "date": "1992-01-01",
+       "plot": "UPDATE June 20, 2018: uploading remainder of May, today and tomorrow. ** I am not the original up-loader of these wonderful episodes and I receive ZERO dollars or otherwise, for my volunteer uploads. I do, however, give huge thanks right now, to the following ''Heaven-Sent,'' for uploading these episodes during the 1992, ABC TV (owners of the Eps), worldwide broadcast of them: All My Children videos, Bmuz, bradamloverAMC, CALOOSAVISTA, creolefemme1, DancingWater7795, Dieter Bar, heartgal54, junk4matty, munecojim, Natasha Newa, Northwest Afternoon w Cindi Rhinehart, PineValleyFan, towringer, TV",
+       "page": "https://archive.org/details/AllMyChildren199201JanThruMay16.8Gb",
+       "id": "AllMyChildren199201JanThruMay16.8Gb",
        "duration": null,
        "resolve": "archive"
       },
@@ -3340,6 +3329,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Mike Wallace Interview featuring Rod Serling",
+       "logo": "https://archive.org/services/img/The_Mike_Wallace_Interview___Rod_Serling",
+       "url": "https://archive.org/details/The_Mike_Wallace_Interview___Rod_Serling",
+       "date": "1959-01-01",
+       "plot": "An Episode of The Mike Wallace Interview featuring Rod Serling.",
+       "page": "https://archive.org/details/The_Mike_Wallace_Interview___Rod_Serling",
+       "id": "The_Mike_Wallace_Interview___Rod_Serling",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Quatermass and the Pit - Episode One",
        "logo": "https://archive.org/services/img/QuatermassAndThePit-EpisodeOne",
        "url": "https://archive.org/details/QuatermassAndThePit-EpisodeOne",
@@ -5682,13 +5682,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Doctor Who S04 (1966-1967)",
-       "logo": "https://archive.org/services/img/doctorwho_s04",
-       "url": "https://archive.org/details/doctorwho_s04",
+       "name": "ON THE BUSES (1969-73) (Full Series)",
+       "logo": "https://archive.org/services/img/on-the-buses-1969-73",
+       "url": "https://archive.org/details/on-the-buses-1969-73",
        "date": null,
-       "plot": "Fourth season of Doctor Who with the First and Second Doctor.",
-       "page": "https://archive.org/details/doctorwho_s04",
-       "id": "doctorwho_s04",
+       "plot": "Jack-the-lad bus driver and conductor Stan and Jack enjoy the female employees more than their work and Inspector Blake is relentless in his attempts to make their lives a misery.",
+       "page": "https://archive.org/details/on-the-buses-1969-73",
+       "id": "on-the-buses-1969-73",
        "duration": null,
        "resolve": "archive"
       },
@@ -5704,13 +5704,13 @@
        "resolve": "archive"
       },
       {
-       "name": "ON THE BUSES (1969-73) (Full Series)",
-       "logo": "https://archive.org/services/img/on-the-buses-1969-73",
-       "url": "https://archive.org/details/on-the-buses-1969-73",
+       "name": "Doctor Who S04 (1966-1967)",
+       "logo": "https://archive.org/services/img/doctorwho_s04",
+       "url": "https://archive.org/details/doctorwho_s04",
        "date": null,
-       "plot": "Jack-the-lad bus driver and conductor Stan and Jack enjoy the female employees more than their work and Inspector Blake is relentless in his attempts to make their lives a misery.",
-       "page": "https://archive.org/details/on-the-buses-1969-73",
-       "id": "on-the-buses-1969-73",
+       "plot": "Fourth season of Doctor Who with the First and Second Doctor.",
+       "page": "https://archive.org/details/doctorwho_s04",
+       "id": "doctorwho_s04",
        "duration": null,
        "resolve": "archive"
       },
@@ -5814,17 +5814,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Lucy Meets Tennessee Ernie Ford",
-       "logo": "https://archive.org/services/img/TLS_Lucy_Meets_Tennessee_Ernie_Ford",
-       "url": "https://archive.org/details/TLS_Lucy_Meets_Tennessee_Ernie_Ford",
-       "date": null,
-       "plot": "The Lucy Show ep Lucy Meets Tennessee Ernie Ford",
-       "page": "https://archive.org/details/TLS_Lucy_Meets_Tennessee_Ernie_Ford",
-       "id": "TLS_Lucy_Meets_Tennessee_Ernie_Ford",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bonanza - The Mission",
        "logo": "https://archive.org/services/img/Bonanza-TheMission",
        "url": "https://archive.org/details/Bonanza-TheMission",
@@ -5833,6 +5822,17 @@
        "page": "https://archive.org/details/Bonanza-TheMission",
        "id": "Bonanza-TheMission",
        "duration": "49:21",
+       "resolve": "archive"
+      },
+      {
+       "name": "Lucy Meets Tennessee Ernie Ford",
+       "logo": "https://archive.org/services/img/TLS_Lucy_Meets_Tennessee_Ernie_Ford",
+       "url": "https://archive.org/details/TLS_Lucy_Meets_Tennessee_Ernie_Ford",
+       "date": null,
+       "plot": "The Lucy Show ep Lucy Meets Tennessee Ernie Ford",
+       "page": "https://archive.org/details/TLS_Lucy_Meets_Tennessee_Ernie_Ford",
+       "id": "TLS_Lucy_Meets_Tennessee_Ernie_Ford",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -6694,17 +6694,6 @@
        "resolve": "archive"
       },
       {
-       "name": "TIME TRAVELER 1974",
-       "logo": "https://archive.org/services/img/TIMETRAVELER1974",
-       "url": "https://archive.org/details/TIMETRAVELER1974",
-       "date": null,
-       "plot": "TWO MEN GO BACK TO 1871 CHICAGO TO FIND A CURE FOR A PLAGUE,TV MOVIE WITH RICHARD BASEHART",
-       "page": "https://archive.org/details/TIMETRAVELER1974",
-       "id": "TIMETRAVELER1974",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Honeymooners S01 Original 39 Episodes",
        "logo": "https://archive.org/services/img/the-honeymooners-DVD",
        "url": "https://archive.org/details/the-honeymooners-DVD",
@@ -6712,6 +6701,17 @@
        "plot": "This is a Rip of the honeymooners (1955) 5-DVD collection",
        "page": "https://archive.org/details/the-honeymooners-DVD",
        "id": "the-honeymooners-DVD",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "TIME TRAVELER 1974",
+       "logo": "https://archive.org/services/img/TIMETRAVELER1974",
+       "url": "https://archive.org/details/TIMETRAVELER1974",
+       "date": null,
+       "plot": "TWO MEN GO BACK TO 1871 CHICAGO TO FIND A CURE FOR A PLAGUE,TV MOVIE WITH RICHARD BASEHART",
+       "page": "https://archive.org/details/TIMETRAVELER1974",
+       "id": "TIMETRAVELER1974",
        "duration": null,
        "resolve": "archive"
       },
@@ -6771,17 +6771,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Cheyney Vase",
-       "logo": "https://archive.org/services/img/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
-       "url": "https://archive.org/details/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents ep The Cheyney Vase (Aired Dec 25 1955)",
-       "page": "https://archive.org/details/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
-       "id": "Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Jim Henson's The Storyteller - MKV",
        "logo": "https://archive.org/services/img/jim-hensons-the-storyteller-mkv",
        "url": "https://archive.org/details/jim-hensons-the-storyteller-mkv",
@@ -6793,13 +6782,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Tales of Tomorrow - Fury of the Cocoon",
-       "logo": "https://archive.org/services/img/TalesOfTomorrow-FuryOfTheCocoon",
-       "url": "https://archive.org/details/TalesOfTomorrow-FuryOfTheCocoon",
+       "name": "The Cheyney Vase",
+       "logo": "https://archive.org/services/img/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
+       "url": "https://archive.org/details/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
        "date": null,
-       "plot": "Old science fiction show.In perfect syncronization.Only downside,in or out of sync,isnt that great of a show.",
-       "page": "https://archive.org/details/TalesOfTomorrow-FuryOfTheCocoon",
-       "id": "TalesOfTomorrow-FuryOfTheCocoon",
+       "plot": "Alfred Hitchcock Presents ep The Cheyney Vase (Aired Dec 25 1955)",
+       "page": "https://archive.org/details/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
+       "id": "Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
        "duration": null,
        "resolve": "archive"
       },
@@ -6811,6 +6800,17 @@
        "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
        "page": "https://archive.org/details/the-twilight-zone-s-4e-3-colorized-720p-hd",
        "id": "the-twilight-zone-s-4e-3-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Tales of Tomorrow - Fury of the Cocoon",
+       "logo": "https://archive.org/services/img/TalesOfTomorrow-FuryOfTheCocoon",
+       "url": "https://archive.org/details/TalesOfTomorrow-FuryOfTheCocoon",
+       "date": null,
+       "plot": "Old science fiction show.In perfect syncronization.Only downside,in or out of sync,isnt that great of a show.",
+       "page": "https://archive.org/details/TalesOfTomorrow-FuryOfTheCocoon",
+       "id": "TalesOfTomorrow-FuryOfTheCocoon",
        "duration": null,
        "resolve": "archive"
       },
@@ -6837,6 +6837,17 @@
        "resolve": "archive"
       },
       {
+       "name": "BATMAN S3 E1 \"Enter Batgirl, Exit Penguin\"",
+       "logo": "https://archive.org/services/img/batman31",
+       "url": "https://archive.org/details/batman31",
+       "date": null,
+       "plot": "S3 E1 \"Enter Batgirl Exit Penguin\" Watch and Download all episodes! https://m4uhd.tv/watch-tvseries-batman-19661968-228671.html Direct Downloads! SEASON 1 https://streamm4u.club/f/myeg8a5-6wxen84 https://streamm4u.club/f/j-my8bdg28163g6 https://streamm4u.club/f/13k01bj2klzq2ry https://streamm4u.club/f/z7ek8ijgk8genp3 https://streamm4u.club/f/z7ek8ijgk8gk7py https://streamm4u.club/f/36ypzbmx3n0yrqg https://streamm4u.club/f/x4zpwi58kelx67l https://streamm4u.club/f/47z2miz6ndkyng- https://streamm4u.club/f/24zrki20jgl3jey https://streamm4u.club/f/w3kr8bngr5jll5j https://streamm4u.club/f/qyp38aeg3z",
+       "page": "https://archive.org/details/batman31",
+       "id": "batman31",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Rivals",
        "logo": "https://archive.org/services/img/Andy_Griffith_Rivals",
        "url": "https://archive.org/details/Andy_Griffith_Rivals",
@@ -6855,17 +6866,6 @@
        "plot": "Dragnet is an American television series, enacting the cases of a dedicated Los Angeles police Detective, Sergeant Joe Friday, and his partners. The series is a spin off from the radio play of the same name. Both shows take their names from the police term \"dragnet\", meaning a system of coordinated measures for apprehending criminals or suspects. The ominous, four-note introduction to the brass and tympani theme music (titled \"Danger Ahead\") is instantly recognizable (though its origins date to Miklós Rózsa's score for the 1946 film version of The Killers). After its success on radio Dragnet w",
        "page": "https://archive.org/details/DragnetTheBigBetty",
        "id": "DragnetTheBigBetty",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "BATMAN S3 E1 \"Enter Batgirl, Exit Penguin\"",
-       "logo": "https://archive.org/services/img/batman31",
-       "url": "https://archive.org/details/batman31",
-       "date": null,
-       "plot": "S3 E1 \"Enter Batgirl Exit Penguin\" Watch and Download all episodes! https://m4uhd.tv/watch-tvseries-batman-19661968-228671.html Direct Downloads! SEASON 1 https://streamm4u.club/f/myeg8a5-6wxen84 https://streamm4u.club/f/j-my8bdg28163g6 https://streamm4u.club/f/13k01bj2klzq2ry https://streamm4u.club/f/z7ek8ijgk8genp3 https://streamm4u.club/f/z7ek8ijgk8gk7py https://streamm4u.club/f/36ypzbmx3n0yrqg https://streamm4u.club/f/x4zpwi58kelx67l https://streamm4u.club/f/47z2miz6ndkyng- https://streamm4u.club/f/24zrki20jgl3jey https://streamm4u.club/f/w3kr8bngr5jll5j https://streamm4u.club/f/qyp38aeg3z",
-       "page": "https://archive.org/details/batman31",
-       "id": "batman31",
        "duration": null,
        "resolve": "archive"
       },
@@ -7101,6 +7101,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Newhart Season 1",
+       "logo": "https://archive.org/services/img/NewhartSeries",
+       "url": "https://archive.org/details/NewhartSeries",
+       "date": null,
+       "plot": "Newhart is an American television sitcom which aired on from October 25, 1982, to May 21, 1990. The series starred comedian Bob Newhart and actress Mary Frann as an author and wife who owned and operated an inn located in a small, rural Vermont town that was home to many eccentric characters. Premise: Bob Newhart plays Dick Loudon, an author of do-it-yourself books and travel books (including \"Many Moods Of Minnesota\" and \"Captivating Kansas\".) He and his wife Joanna move from New York City to a small, unnamed town in rural Vermont (most likely Norwich) to operate the 200-year-old Stratford In",
+       "page": "https://archive.org/details/NewhartSeries",
+       "id": "NewhartSeries",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Big Cast",
        "logo": "https://archive.org/services/img/Dragnet_TheBigCast",
        "url": "https://archive.org/details/Dragnet_TheBigCast",
@@ -7145,13 +7156,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Newhart Season 1",
-       "logo": "https://archive.org/services/img/NewhartSeries",
-       "url": "https://archive.org/details/NewhartSeries",
+       "name": "The Twilight Zone 1985 S01",
+       "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
+       "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
        "date": null,
-       "plot": "Newhart is an American television sitcom which aired on from October 25, 1982, to May 21, 1990. The series starred comedian Bob Newhart and actress Mary Frann as an author and wife who owned and operated an inn located in a small, rural Vermont town that was home to many eccentric characters. Premise: Bob Newhart plays Dick Loudon, an author of do-it-yourself books and travel books (including \"Many Moods Of Minnesota\" and \"Captivating Kansas\".) He and his wife Joanna move from New York City to a small, unnamed town in rural Vermont (most likely Norwich) to operate the 200-year-old Stratford In",
-       "page": "https://archive.org/details/NewhartSeries",
-       "id": "NewhartSeries",
+       "plot": "The Twilight Zone 1985 S01",
+       "page": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
+       "id": "twilight-zone-1985-1x-01-shatterday",
        "duration": null,
        "resolve": "archive"
       },
@@ -7163,17 +7174,6 @@
        "plot": "Complete series 5 of Ironside",
        "page": "https://archive.org/details/ironside-S05",
        "id": "ironside-S05",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Twilight Zone 1985 S01",
-       "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
-       "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
-       "date": null,
-       "plot": "The Twilight Zone 1985 S01",
-       "page": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
-       "id": "twilight-zone-1985-1x-01-shatterday",
        "duration": null,
        "resolve": "archive"
       },
@@ -7321,17 +7321,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Man with a Camera (1958-1960 TV series)",
-       "logo": "https://archive.org/services/img/manwithacamera_202002",
-       "url": "https://archive.org/details/manwithacamera_202002",
-       "date": null,
-       "plot": "Public domain episodes of the TV series starring Charles Bronson. From IMDb: Former combat cameraman Mike Kovac is now a freelance photographer in New York City, specializing in difficult and dangerous assignments where he can get the kinds of pictures that other photographers can't, or won't take. He sometimes gets help, often reluctantly, from his contact in the police department, Lt. Donovan, and advice from his immigrant father Anton.",
-       "page": "https://archive.org/details/manwithacamera_202002",
-       "id": "manwithacamera_202002",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Twilight Zone – Complete Season 3 (37 episodes) (restored, colorized) (1961, TV series)",
        "logo": "https://archive.org/services/img/the-twilight-zone-s-3e-1-colorized-720p-hd",
        "url": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
@@ -7339,6 +7328,17 @@
        "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
        "page": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
        "id": "the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Man with a Camera (1958-1960 TV series)",
+       "logo": "https://archive.org/services/img/manwithacamera_202002",
+       "url": "https://archive.org/details/manwithacamera_202002",
+       "date": null,
+       "plot": "Public domain episodes of the TV series starring Charles Bronson. From IMDb: Former combat cameraman Mike Kovac is now a freelance photographer in New York City, specializing in difficult and dangerous assignments where he can get the kinds of pictures that other photographers can't, or won't take. He sometimes gets help, often reluctantly, from his contact in the police department, Lt. Donovan, and advice from his immigrant father Anton.",
+       "page": "https://archive.org/details/manwithacamera_202002",
+       "id": "manwithacamera_202002",
        "duration": null,
        "resolve": "archive"
       },
@@ -7574,17 +7574,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Dragnet: The Big Lamp",
-       "logo": "https://archive.org/services/img/DragnetTheBigLamp",
-       "url": "https://archive.org/details/DragnetTheBigLamp",
-       "date": null,
-       "plot": "A burglar is acquitted by a lazy jury. Several months later, he's loaded and Friday and Philips think he's up to his old tricks. Season 1, Episode 13 (1952) Eddie Firestone, Jr. guest stars.",
-       "page": "https://archive.org/details/DragnetTheBigLamp",
-       "id": "DragnetTheBigLamp",
-       "duration": "25:40",
-       "resolve": "archive"
-      },
-      {
        "name": "Buck Rogers season 2",
        "logo": "https://archive.org/services/img/buck-rogers-s-2-episode-06-the-golden-man-3",
        "url": "https://archive.org/details/buck-rogers-s-2-episode-06-the-golden-man-3",
@@ -7596,6 +7585,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Dragnet: The Big Lamp",
+       "logo": "https://archive.org/services/img/DragnetTheBigLamp",
+       "url": "https://archive.org/details/DragnetTheBigLamp",
+       "date": null,
+       "plot": "A burglar is acquitted by a lazy jury. Several months later, he's loaded and Friday and Philips think he's up to his old tricks. Season 1, Episode 13 (1952) Eddie Firestone, Jr. guest stars.",
+       "page": "https://archive.org/details/DragnetTheBigLamp",
+       "id": "DragnetTheBigLamp",
+       "duration": "25:40",
+       "resolve": "archive"
+      },
+      {
        "name": "Pygmalion And Elly",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
@@ -7603,6 +7603,17 @@
        "plot": "Beverly Hillbillies Ep10 Pygmalion And Elly",
        "page": "https://archive.org/details/Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
        "id": "Beverly_Hillbillies_Ep10_Pygmalion_And_Elly",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Thriller (1960) - Complete Series",
+       "logo": "https://archive.org/services/img/s-01-e-26-papa-benjamin",
+       "url": "https://archive.org/details/s-01-e-26-papa-benjamin",
+       "date": null,
+       "plot": "Thriller (1960) - Complete Series - All 67 episodes of Thriller staring Boris Karloff",
+       "page": "https://archive.org/details/s-01-e-26-papa-benjamin",
+       "id": "s-01-e-26-papa-benjamin",
        "duration": null,
        "resolve": "archive"
       },
@@ -7629,17 +7640,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Thriller (1960) - Complete Series",
-       "logo": "https://archive.org/services/img/s-01-e-26-papa-benjamin",
-       "url": "https://archive.org/details/s-01-e-26-papa-benjamin",
-       "date": null,
-       "plot": "Thriller (1960) - Complete Series - All 67 episodes of Thriller staring Boris Karloff",
-       "page": "https://archive.org/details/s-01-e-26-papa-benjamin",
-       "id": "s-01-e-26-papa-benjamin",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "1958 NFL Championship",
        "logo": "https://archive.org/services/img/1958NflChampionship",
        "url": "https://archive.org/details/1958NflChampionship",
@@ -7659,6 +7659,17 @@
        "page": "https://archive.org/details/DragnetTheBigMother",
        "id": "DragnetTheBigMother",
        "duration": "25:32",
+       "resolve": "archive"
+      },
+      {
+       "name": "Alfred Hitchcock Presents - Complete Season 1 (39 Episodes) (restored, colorized) (1955, TV series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "date": null,
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "id": "alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -7702,17 +7713,6 @@
        "plot": "One Step Beyond: Dead Man's Tale Season 3 Episode 17 First Aired 1/17/1961",
        "page": "https://archive.org/details/OSB-78_Dead_Mans_Tale",
        "id": "OSB-78_Dead_Mans_Tale",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alfred Hitchcock Presents - Complete Season 1 (39 Episodes) (restored, colorized) (1955, TV series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
-       "id": "alfred-hitchcock-presents-s-1e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7904,28 +7904,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Dead Or Alive",
-       "logo": "https://archive.org/services/img/Robin_Hood_03_Dead_Or_Alive",
-       "url": "https://archive.org/details/Robin_Hood_03_Dead_Or_Alive",
-       "date": null,
-       "plot": "The Adventures Of Robin Hood ep 03 Dead Or Alive",
-       "page": "https://archive.org/details/Robin_Hood_03_Dead_Or_Alive",
-       "id": "Robin_Hood_03_Dead_Or_Alive",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Climax!: Casino Royale",
-       "logo": "https://archive.org/services/img/ClimaxCasinoRoyale",
-       "url": "https://archive.org/details/ClimaxCasinoRoyale",
-       "date": null,
-       "plot": "American Agent Jimmy Bond (Barry Nelson) plays baccarat for high stakes with a Soviet agent (Peter Lorre) who needs to win to cover his embezzlement of party funds and will stop at nothing to get 80 million Francs. Season 1, Episode 3 (1954)",
-       "page": "https://archive.org/details/ClimaxCasinoRoyale",
-       "id": "ClimaxCasinoRoyale",
-       "duration": "51:49",
-       "resolve": "archive"
-      },
-      {
        "name": "GEORGE & MILDRED (1976-79) (Full Series)",
        "logo": "https://archive.org/services/img/george-mildred-1976-79",
        "url": "https://archive.org/details/george-mildred-1976-79",
@@ -7933,6 +7911,17 @@
        "plot": "George and Mildred Roper have just moved into a middle-class neighborhood.",
        "page": "https://archive.org/details/george-mildred-1976-79",
        "id": "george-mildred-1976-79",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Dead Or Alive",
+       "logo": "https://archive.org/services/img/Robin_Hood_03_Dead_Or_Alive",
+       "url": "https://archive.org/details/Robin_Hood_03_Dead_Or_Alive",
+       "date": null,
+       "plot": "The Adventures Of Robin Hood ep 03 Dead Or Alive",
+       "page": "https://archive.org/details/Robin_Hood_03_Dead_Or_Alive",
+       "id": "Robin_Hood_03_Dead_Or_Alive",
        "duration": null,
        "resolve": "archive"
       },
@@ -7945,6 +7934,17 @@
        "page": "https://archive.org/details/dctl_4K",
        "id": "dctl_4K",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Climax!: Casino Royale",
+       "logo": "https://archive.org/services/img/ClimaxCasinoRoyale",
+       "url": "https://archive.org/details/ClimaxCasinoRoyale",
+       "date": null,
+       "plot": "American Agent Jimmy Bond (Barry Nelson) plays baccarat for high stakes with a Soviet agent (Peter Lorre) who needs to win to cover his embezzlement of party funds and will stop at nothing to get 80 million Francs. Season 1, Episode 3 (1954)",
+       "page": "https://archive.org/details/ClimaxCasinoRoyale",
+       "id": "ClimaxCasinoRoyale",
+       "duration": "51:49",
        "resolve": "archive"
       },
       {
@@ -8201,17 +8201,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Clampett Look",
-       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep41_The_Clampett_Look",
-       "url": "https://archive.org/details/Beverly_Hillbillies_Ep41_The_Clampett_Look",
-       "date": null,
-       "plot": "Beverly Hillbillies Ep 41 The Clampett Look",
-       "page": "https://archive.org/details/Beverly_Hillbillies_Ep41_The_Clampett_Look",
-       "id": "Beverly_Hillbillies_Ep41_The_Clampett_Look",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Deluxe Men in Space - 1960 Toy Commercial",
        "logo": "https://archive.org/services/img/deluxemeninspace",
        "url": "https://archive.org/details/deluxemeninspace",
@@ -8219,6 +8208,17 @@
        "plot": "This is a great toy commercial for the deluxe Men in Space play set",
        "page": "https://archive.org/details/deluxemeninspace",
        "id": "deluxemeninspace",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Clampett Look",
+       "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep41_The_Clampett_Look",
+       "url": "https://archive.org/details/Beverly_Hillbillies_Ep41_The_Clampett_Look",
+       "date": null,
+       "plot": "Beverly Hillbillies Ep 41 The Clampett Look",
+       "page": "https://archive.org/details/Beverly_Hillbillies_Ep41_The_Clampett_Look",
+       "id": "Beverly_Hillbillies_Ep41_The_Clampett_Look",
        "duration": null,
        "resolve": "archive"
       },
@@ -8663,6 +8663,28 @@
        "resolve": "archive"
       },
       {
+       "name": "Wonderbug - Full Series! (1976 -1977)",
+       "logo": "https://archive.org/services/img/wonderbug-full-series",
+       "url": "https://archive.org/details/wonderbug-full-series",
+       "date": null,
+       "plot": "Wonderbug - Full Series (1976 -1977)",
+       "page": "https://archive.org/details/wonderbug-full-series",
+       "id": "wonderbug-full-series",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "To The Manor Born - Season 2 of 3 - TV Series - 1979 - XviD AVI",
+       "logo": "https://archive.org/services/img/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
+       "url": "https://archive.org/details/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
+       "date": null,
+       "plot": "To The Manor Born - Season 2 of 3 - TV Series - 1979 - XviD AVI Video Size: 768x576 To the Manor Born is a BBC television sitcom that first aired on BBC1 from 1979 to 1981. A special edition appeared in 2007. Starring Penelope Keith and Peter Bowles, the first 20 episodes and the 2007 special were written by Peter Spence, the creator, while the final episode in 1981 was written by Christopher Bond, the script associate. The title is a play on the phrase \"to the manner born,\" from Shakespeare's Hamlet (\"Though I am a native here and to the manner born, it is a custom more honoured in the breach",
+       "page": "https://archive.org/details/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
+       "id": "to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "'You Bet Your Life' - Secret Word: Water",
        "logo": "https://archive.org/services/img/Groucho_Marx_Water",
        "url": "https://archive.org/details/Groucho_Marx_Water",
@@ -8681,17 +8703,6 @@
        "plot": "Classic Car Commericals 1961-1965",
        "page": "https://archive.org/details/Car_Commericals_1961-1965",
        "id": "Car_Commericals_1961-1965",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "To The Manor Born - Season 2 of 3 - TV Series - 1979 - XviD AVI",
-       "logo": "https://archive.org/services/img/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
-       "url": "https://archive.org/details/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
-       "date": null,
-       "plot": "To The Manor Born - Season 2 of 3 - TV Series - 1979 - XviD AVI Video Size: 768x576 To the Manor Born is a BBC television sitcom that first aired on BBC1 from 1979 to 1981. A special edition appeared in 2007. Starring Penelope Keith and Peter Bowles, the first 20 episodes and the 2007 special were written by Peter Spence, the creator, while the final episode in 1981 was written by Christopher Bond, the script associate. The title is a play on the phrase \"to the manner born,\" from Shakespeare's Hamlet (\"Though I am a native here and to the manner born, it is a custom more honoured in the breach",
-       "page": "https://archive.org/details/to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
-       "id": "to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
        "duration": null,
        "resolve": "archive"
       },
@@ -8740,13 +8751,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Wonderbug - Full Series! (1976 -1977)",
-       "logo": "https://archive.org/services/img/wonderbug-full-series",
-       "url": "https://archive.org/details/wonderbug-full-series",
+       "name": "Doctor Who (Season 1 - first 13 episodes) (restored, colorized) (BBC sci-fi, 1963)",
+       "logo": "https://archive.org/services/img/doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
+       "url": "https://archive.org/details/doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
        "date": null,
-       "plot": "Wonderbug - Full Series (1976 -1977)",
-       "page": "https://archive.org/details/wonderbug-full-series",
-       "id": "wonderbug-full-series",
+       "plot": "Doctor Who is a British science fiction television series broadcast by the BBC since 1963. The series, created by Sydney Newman , C. E. Webber and Donald Wilson , depicts the adventures of an extraterrestrial being called the Doctor , part of a humanoid species called Time Lords . The Doctor travels in the universe and in time using a time travelling spaceship called the TARDIS , which externally appears as a British police box . While travelling, the Doctor works to save lives and liberate oppressed peoples by combating foes . The Doctor often travels with companions . Beginning with William ",
+       "page": "https://archive.org/details/doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
+       "id": "doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -8773,6 +8784,17 @@
        "resolve": "archive"
       },
       {
+       "name": "'Tales of Tomorrow' - What you need (1952)",
+       "logo": "https://archive.org/services/img/talesOfTomorrow-WhatYouNeed1952",
+       "url": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
+       "date": null,
+       "plot": "Episode \"What you need\" of the \"Live\" 50's TV series 'Tales of Tomorrow'. This episode originally aired 8 February 1952 (Season 1, Episode 19). Cast: Billy Redfield, Edgar Stehli Directed by: Charles S. Dubin A 1959 'Twilight Zone' episode was also based on this short story by Lewis Padgett. Complete with original commercials.",
+       "page": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
+       "id": "talesOfTomorrow-WhatYouNeed1952",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Sea And Sand",
        "logo": "https://archive.org/services/img/VAS_09_Sea_And_Sand",
        "url": "https://archive.org/details/VAS_09_Sea_And_Sand",
@@ -8795,17 +8817,6 @@
        "resolve": "archive"
       },
       {
-       "name": "'Tales of Tomorrow' - What you need (1952)",
-       "logo": "https://archive.org/services/img/talesOfTomorrow-WhatYouNeed1952",
-       "url": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
-       "date": null,
-       "plot": "Episode \"What you need\" of the \"Live\" 50's TV series 'Tales of Tomorrow'. This episode originally aired 8 February 1952 (Season 1, Episode 19). Cast: Billy Redfield, Edgar Stehli Directed by: Charles S. Dubin A 1959 'Twilight Zone' episode was also based on this short story by Lewis Padgett. Complete with original commercials.",
-       "page": "https://archive.org/details/talesOfTomorrow-WhatYouNeed1952",
-       "id": "talesOfTomorrow-WhatYouNeed1952",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Vigilante Story",
        "logo": "https://archive.org/services/img/Cisco_Kid_-_Vigilante_Story",
        "url": "https://archive.org/details/Cisco_Kid_-_Vigilante_Story",
@@ -8813,17 +8824,6 @@
        "plot": "The Cisco Kid ep Vigilante Story",
        "page": "https://archive.org/details/Cisco_Kid_-_Vigilante_Story",
        "id": "Cisco_Kid_-_Vigilante_Story",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Doctor Who (Season 1 - first 13 episodes) (restored, colorized) (BBC sci-fi, 1963)",
-       "logo": "https://archive.org/services/img/doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
-       "url": "https://archive.org/details/doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
-       "date": null,
-       "plot": "Doctor Who is a British science fiction television series broadcast by the BBC since 1963. The series, created by Sydney Newman , C. E. Webber and Donald Wilson , depicts the adventures of an extraterrestrial being called the Doctor , part of a humanoid species called Time Lords . The Doctor travels in the universe and in time using a time travelling spaceship called the TARDIS , which externally appears as a British police box . While travelling, the Doctor works to save lives and liberate oppressed peoples by combating foes . The Doctor often travels with companions . Beginning with William ",
-       "page": "https://archive.org/details/doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
-       "id": "doctor-who-1963-s-1e-1-colorzied-serial-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -9114,17 +9114,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Space patrol (1951)",
-       "logo": "https://archive.org/services/img/SpacePatrol1951",
-       "url": "https://archive.org/details/SpacePatrol1951",
-       "date": null,
-       "plot": "Space patrol (1951) Episode \"The space patrol code belt\", of the Science-fiction series \"Space patrol\", first aired on October 20th 1951. Starring Ed Kemmer as \"Commander Buzz Corry\" and Lyn Osborn as \"Cadet Happy\". Directed by Dik Darley and written by Norman Jolley. Includes original commercials for \"Wheat Chex\" and \"Rice Chex\".",
-       "page": "https://archive.org/details/SpacePatrol1951",
-       "id": "SpacePatrol1951",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Sergeant Preston of the Yukon - King of Hershel Island",
        "logo": "https://archive.org/services/img/SergeantPrestonOfTheYukon-KingOfHershelIsland",
        "url": "https://archive.org/details/SergeantPrestonOfTheYukon-KingOfHershelIsland",
@@ -9133,6 +9122,17 @@
        "page": "https://archive.org/details/SergeantPrestonOfTheYukon-KingOfHershelIsland",
        "id": "SergeantPrestonOfTheYukon-KingOfHershelIsland",
        "duration": "25:32",
+       "resolve": "archive"
+      },
+      {
+       "name": "Space patrol (1951)",
+       "logo": "https://archive.org/services/img/SpacePatrol1951",
+       "url": "https://archive.org/details/SpacePatrol1951",
+       "date": null,
+       "plot": "Space patrol (1951) Episode \"The space patrol code belt\", of the Science-fiction series \"Space patrol\", first aired on October 20th 1951. Starring Ed Kemmer as \"Commander Buzz Corry\" and Lyn Osborn as \"Cadet Happy\". Directed by Dik Darley and written by Norman Jolley. Includes original commercials for \"Wheat Chex\" and \"Rice Chex\".",
+       "page": "https://archive.org/details/SpacePatrol1951",
+       "id": "SpacePatrol1951",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9176,6 +9176,17 @@
        "plot": "The Complete Season 4 of Mister Ed",
        "page": "https://archive.org/details/mister-ed-s-04",
        "id": "mister-ed-s-04",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "CH5 \"Survival\" Episodes (Apr 1997-1999)",
+       "logo": "https://archive.org/services/img/ch5polarodysseyparadoxoftheemperorsoct1998",
+       "url": "https://archive.org/details/ch5polarodysseyparadoxoftheemperorsoct1998",
+       "date": null,
+       "plot": "Natural History Documentaries",
+       "page": "https://archive.org/details/ch5polarodysseyparadoxoftheemperorsoct1998",
+       "id": "ch5polarodysseyparadoxoftheemperorsoct1998",
        "duration": null,
        "resolve": "archive"
       },
@@ -9243,17 +9254,6 @@
        "page": "https://archive.org/details/DragnetTheBigFraud",
        "id": "DragnetTheBigFraud",
        "duration": "26:00",
-       "resolve": "archive"
-      },
-      {
-       "name": "CH5 \"Survival\" Episodes (Apr 1997-1999)",
-       "logo": "https://archive.org/services/img/ch5polarodysseyparadoxoftheemperorsoct1998",
-       "url": "https://archive.org/details/ch5polarodysseyparadoxoftheemperorsoct1998",
-       "date": null,
-       "plot": "Natural History Documentaries",
-       "page": "https://archive.org/details/ch5polarodysseyparadoxoftheemperorsoct1998",
-       "id": "ch5polarodysseyparadoxoftheemperorsoct1998",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9598,17 +9598,6 @@
        "resolve": "archive"
       },
       {
-       "name": "DANGER UXB (1979) (Full Series)",
-       "logo": "https://archive.org/services/img/danger-uxb-1979",
-       "url": "https://archive.org/details/danger-uxb-1979",
-       "date": null,
-       "plot": "The series chronicles the exploits of the fictional Royal Engineer Tunnelling Company 97, which has been made a bomb disposal unit to deal with the thousands of unexploded bombs (\"UXBs\") in London during the Battle of Britain.",
-       "page": "https://archive.org/details/danger-uxb-1979",
-       "id": "danger-uxb-1979",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Jack_Benny_Guests",
        "logo": "https://archive.org/services/img/George_Burns_And_Gracie_Allen_-_Jack_Benny_Guests",
        "url": "https://archive.org/details/George_Burns_And_Gracie_Allen_-_Jack_Benny_Guests",
@@ -9616,6 +9605,17 @@
        "plot": "George Burns And Gracie Allen Show ep Jack_Benny_Guests",
        "page": "https://archive.org/details/George_Burns_And_Gracie_Allen_-_Jack_Benny_Guests",
        "id": "George_Burns_And_Gracie_Allen_-_Jack_Benny_Guests",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Cagney & Lacey Season 2",
+       "logo": "https://archive.org/services/img/cagney-and-lacey-season-2",
+       "url": "https://archive.org/details/cagney-and-lacey-season-2",
+       "date": null,
+       "plot": "The Complete Season 2 of Cagney and Lacey",
+       "page": "https://archive.org/details/cagney-and-lacey-season-2",
+       "id": "cagney-and-lacey-season-2",
        "duration": null,
        "resolve": "archive"
       },
@@ -9675,17 +9675,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Cagney & Lacey Season 2",
-       "logo": "https://archive.org/services/img/cagney-and-lacey-season-2",
-       "url": "https://archive.org/details/cagney-and-lacey-season-2",
-       "date": null,
-       "plot": "The Complete Season 2 of Cagney and Lacey",
-       "page": "https://archive.org/details/cagney-and-lacey-season-2",
-       "id": "cagney-and-lacey-season-2",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Make Room for Daddy - Margaret's Birthday",
        "logo": "https://archive.org/services/img/MakeRoomForDaddy-MargaretsBirthday",
        "url": "https://archive.org/details/MakeRoomForDaddy-MargaretsBirthday",
@@ -9741,6 +9730,17 @@
        "resolve": "archive"
       },
       {
+       "name": "DANGER UXB (1979) (Full Series)",
+       "logo": "https://archive.org/services/img/danger-uxb-1979",
+       "url": "https://archive.org/details/danger-uxb-1979",
+       "date": null,
+       "plot": "The series chronicles the exploits of the fictional Royal Engineer Tunnelling Company 97, which has been made a bomb disposal unit to deal with the thousands of unexploded bombs (\"UXBs\") in London during the Battle of Britain.",
+       "page": "https://archive.org/details/danger-uxb-1979",
+       "id": "danger-uxb-1979",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Decoy: The Pilot Episode",
        "logo": "https://archive.org/services/img/DecoyThePilotEpisode",
        "url": "https://archive.org/details/DecoyThePilotEpisode",
@@ -9774,6 +9774,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Richard The Lion-Heart",
+       "logo": "https://archive.org/services/img/Robin_Hood_22_Richard_The_Lion-Heart",
+       "url": "https://archive.org/details/Robin_Hood_22_Richard_The_Lion-Heart",
+       "date": null,
+       "plot": "The Adventures Of Robin Hood ep 22 Richard The Lion-Heart",
+       "page": "https://archive.org/details/Robin_Hood_22_Richard_The_Lion-Heart",
+       "id": "Robin_Hood_22_Richard_The_Lion-Heart",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "''Frontier Doctor'' - Mystery Of The Black Stallion",
        "logo": "https://archive.org/services/img/FrontierDoctorMysteryOfTheBlackStallion_201509",
        "url": "https://archive.org/details/FrontierDoctorMysteryOfTheBlackStallion_201509",
@@ -9785,13 +9796,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Richard The Lion-Heart",
-       "logo": "https://archive.org/services/img/Robin_Hood_22_Richard_The_Lion-Heart",
-       "url": "https://archive.org/details/Robin_Hood_22_Richard_The_Lion-Heart",
+       "name": "Alfred Hitchcock Presents - Complete Season 7 (39 Episodes) (restored, colorized) (1961, TV Series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-7e-1-colorized-sd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
        "date": null,
-       "plot": "The Adventures Of Robin Hood ep 22 Richard The Lion-Heart",
-       "page": "https://archive.org/details/Robin_Hood_22_Richard_The_Lion-Heart",
-       "id": "Robin_Hood_22_Richard_The_Lion-Heart",
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
+       "id": "alfred-hitchcock-presents-s-7e-1-colorized-sd",
        "duration": null,
        "resolve": "archive"
       },
@@ -9928,6 +9939,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Alfred Hitchcock Presents - Complete Season 2 (39 Episodes) (restored, colorized) (1956, TV Series)",
+       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "url": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "date": null,
+       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
+       "page": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "id": "alfred-hitchcock-presents-s-2e-13-colorized-sd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "\"Martin Kane, Private Eye\" - Black Pearls",
        "logo": "https://archive.org/services/img/martinKanePrivateEyeBlackPearls",
        "url": "https://archive.org/details/martinKanePrivateEyeBlackPearls",
@@ -9994,6 +10016,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Electra Woman and Dyna Girl \"The Spider Lady\"",
+       "logo": "https://archive.org/services/img/electra-woman",
+       "url": "https://archive.org/details/electra-woman",
+       "date": null,
+       "plot": "Electra Woman and Dyna Girl \"The Spider Lady\"",
+       "page": "https://archive.org/details/electra-woman",
+       "id": "electra-woman",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Veronica's Closet (1997-2000) complete series",
        "logo": "https://archive.org/services/img/veronicascloset",
        "url": "https://archive.org/details/veronicascloset",
@@ -10016,17 +10049,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Electra Woman and Dyna Girl \"The Spider Lady\"",
-       "logo": "https://archive.org/services/img/electra-woman",
-       "url": "https://archive.org/details/electra-woman",
-       "date": null,
-       "plot": "Electra Woman and Dyna Girl \"The Spider Lady\"",
-       "page": "https://archive.org/details/electra-woman",
-       "id": "electra-woman",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "A Husband For Marian",
        "logo": "https://archive.org/services/img/Robin_Hood_11_A_Husband_For_Marian",
        "url": "https://archive.org/details/Robin_Hood_11_A_Husband_For_Marian",
@@ -10034,17 +10056,6 @@
        "plot": "The Adventures Of Robin Hood ep 11 A Husband For Marian",
        "page": "https://archive.org/details/Robin_Hood_11_A_Husband_For_Marian",
        "id": "Robin_Hood_11_A_Husband_For_Marian",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Alfred Hitchcock Presents - Complete Season 7 (39 Episodes) (restored, colorized) (1961, TV Series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-7e-1-colorized-sd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-7e-1-colorized-sd",
-       "id": "alfred-hitchcock-presents-s-7e-1-colorized-sd",
        "duration": null,
        "resolve": "archive"
       },
@@ -10112,17 +10123,6 @@
        "page": "https://archive.org/details/Bat_Masterson_-_Stampede_At_Tent_City",
        "id": "Bat_Masterson_-_Stampede_At_Tent_City",
        "duration": "25:59",
-       "resolve": "archive"
-      },
-      {
-       "name": "Alfred Hitchcock Presents - Complete Season 2 (39 Episodes) (restored, colorized) (1956, TV Series)",
-       "logo": "https://archive.org/services/img/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "url": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "date": null,
-       "plot": "Alfred Hitchcock Presents is an American television anthology series created, hosted and produced by Alfred Hitchcock , airing on CBS and NBC , alternately, between 1955 and 1965. It features dramas, thrillers, and mysteries. Between 1962 and 1965, it was renamed The Alfred Hitchcock Hour . Hitchcock himself directed only 18 episodes during its run. By the time the show premiered on October 2, 1955, Hitchcock had been directing films for over three decades. In the 21st century, Time magazine named Alfred Hitchcock Presents as one of \"The 100 Best TV Shows of All Time\". The Writers Guild of Ame",
-       "page": "https://archive.org/details/alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "id": "alfred-hitchcock-presents-s-2e-13-colorized-sd",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10221,6 +10221,17 @@
        "plot": "Love That Bob Ep 5x10 Bob Butters Beck, Beck Butters Better",
        "page": "https://archive.org/details/Love_That_Bob-5x10-Bob_Butters_Beck_Beck_Butters_Better",
        "id": "Love_That_Bob-5x10-Bob_Butters_Beck_Beck_Butters_Better",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "2 Stupid Dogs - Complete Season 1",
+       "logo": "https://archive.org/services/img/2-stupid-dogs-season-1",
+       "url": "https://archive.org/details/2-stupid-dogs-season-1",
+       "date": null,
+       "plot": "All 13 episodes of 2 Stupid Dogs from 1993. This is a show that aired in short segments on Cartoon Network/Boomerang and featured the voice of Brad Garrett. I'm still searching for a complete season 2. So far I'm missing about half of the episodes.",
+       "page": "https://archive.org/details/2-stupid-dogs-season-1",
+       "id": "2-stupid-dogs-season-1",
        "duration": null,
        "resolve": "archive"
       },
@@ -10423,17 +10434,6 @@
        "resolve": "archive"
       },
       {
-       "name": "2 Stupid Dogs - Complete Season 1",
-       "logo": "https://archive.org/services/img/2-stupid-dogs-season-1",
-       "url": "https://archive.org/details/2-stupid-dogs-season-1",
-       "date": null,
-       "plot": "All 13 episodes of 2 Stupid Dogs from 1993. This is a show that aired in short segments on Cartoon Network/Boomerang and featured the voice of Brad Garrett. I'm still searching for a complete season 2. So far I'm missing about half of the episodes.",
-       "page": "https://archive.org/details/2-stupid-dogs-season-1",
-       "id": "2-stupid-dogs-season-1",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Betrothal",
        "logo": "https://archive.org/services/img/Robin_Hood_14_The_Betrothal",
        "url": "https://archive.org/details/Robin_Hood_14_The_Betrothal",
@@ -10621,6 +10621,17 @@
        "resolve": "archive"
       },
       {
+       "name": "DUTY FREE (1984-86) (Full Series)",
+       "logo": "https://archive.org/services/img/duty-free-1984-86",
+       "url": "https://archive.org/details/duty-free-1984-86",
+       "date": null,
+       "plot": "David and Amy are on holiday in Spain, where they meet Robert and Linda, who are also holidaymakers. David and Linda spend their holiday trying to find some time alone together away from their spouses.",
+       "page": "https://archive.org/details/duty-free-1984-86",
+       "id": "duty-free-1984-86",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Sherlock Holmes - The Case of the Winthrop Legend",
        "logo": "https://archive.org/services/img/SherlockHolmes-TheCaseOfTheWinthropLegend",
        "url": "https://archive.org/details/SherlockHolmes-TheCaseOfTheWinthropLegend",
@@ -10654,6 +10665,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Moonlighting S01",
+       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
+       "url": "https://archive.org/details/moonlighting-season-1-e-01",
+       "date": null,
+       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
+       "page": "https://archive.org/details/moonlighting-season-1-e-01",
+       "id": "moonlighting-season-1-e-01",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Bob Plays Margaret's Game",
        "logo": "https://archive.org/services/img/Love_That_Bob-5x13_Bob_Plays_Margarets_Game",
        "url": "https://archive.org/details/Love_That_Bob-5x13_Bob_Plays_Margarets_Game",
@@ -10673,17 +10695,6 @@
        "page": "https://archive.org/details/youBetYourLife1955-SecretWordFace",
        "id": "youBetYourLife1955-SecretWordFace",
        "duration": "29:21",
-       "resolve": "archive"
-      },
-      {
-       "name": "DUTY FREE (1984-86) (Full Series)",
-       "logo": "https://archive.org/services/img/duty-free-1984-86",
-       "url": "https://archive.org/details/duty-free-1984-86",
-       "date": null,
-       "plot": "David and Amy are on holiday in Spain, where they meet Robert and Linda, who are also holidaymakers. David and Linda spend their holiday trying to find some time alone together away from their spouses.",
-       "page": "https://archive.org/details/duty-free-1984-86",
-       "id": "duty-free-1984-86",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10709,17 +10720,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Moonlighting S01",
-       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
-       "url": "https://archive.org/details/moonlighting-season-1-e-01",
-       "date": null,
-       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
-       "page": "https://archive.org/details/moonlighting-season-1-e-01",
-       "id": "moonlighting-season-1-e-01",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Racket Squad The Salted Mine (1951)",
        "logo": "https://archive.org/services/img/RacketSquadTheSaltedMine1951",
        "url": "https://archive.org/details/RacketSquadTheSaltedMine1951",
@@ -10728,6 +10728,17 @@
        "page": "https://archive.org/details/RacketSquadTheSaltedMine1951",
        "id": "RacketSquadTheSaltedMine1951",
        "duration": "24:53",
+       "resolve": "archive"
+      },
+      {
+       "name": "s01-19-20-20-freedownloadvideo.net",
+       "logo": "https://archive.org/services/img/s01-19-20-20-freedownloadvideo.net_20230314",
+       "url": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
+       "date": null,
+       "plot": "Gunsmoke Season 1 All Episodes",
+       "page": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
+       "id": "s01-19-20-20-freedownloadvideo.net_20230314",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10863,17 +10874,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Captain N: The Game Master - Season 2 - MKV",
-       "logo": "https://archive.org/services/img/captain-n-the-game-master-season-2-mkv",
-       "url": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
-       "date": null,
-       "plot": "Captain N: The Game Master - Season 2 - MKV Captain N: The Game Master is an American–Canadian animated television series that aired on television from 1989 to 1991 as part of the Saturday morning cartoon lineup on NBC. The show was produced by DIC Animation City and incorporated elements from many of the most popular video games of the time from the Japanese company Nintendo. There was also a comic book version by Valiant Comics, despite only featuring characters from games produced by Nintendo. The show is also part of an hour-long block in Season 2 with The Adventures of Super Mario Bros. 3",
-       "page": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
-       "id": "captain-n-the-game-master-season-2-mkv",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "One Step Beyond S1 E3 EMERGENCY ONLY",
        "logo": "https://archive.org/services/img/S1E3EMERGENCYONLY",
        "url": "https://archive.org/details/S1E3EMERGENCYONLY",
@@ -10893,6 +10893,17 @@
        "page": "https://archive.org/details/DickTracyAndFlatTop",
        "id": "DickTracyAndFlatTop",
        "duration": "24:04",
+       "resolve": "archive"
+      },
+      {
+       "name": "Captain N: The Game Master - Season 2 - MKV",
+       "logo": "https://archive.org/services/img/captain-n-the-game-master-season-2-mkv",
+       "url": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
+       "date": null,
+       "plot": "Captain N: The Game Master - Season 2 - MKV Captain N: The Game Master is an American–Canadian animated television series that aired on television from 1989 to 1991 as part of the Saturday morning cartoon lineup on NBC. The show was produced by DIC Animation City and incorporated elements from many of the most popular video games of the time from the Japanese company Nintendo. There was also a comic book version by Valiant Comics, despite only featuring characters from games produced by Nintendo. The show is also part of an hour-long block in Season 2 with The Adventures of Super Mario Bros. 3",
+       "page": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
+       "id": "captain-n-the-game-master-season-2-mkv",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10951,17 +10962,6 @@
        "resolve": "archive"
       },
       {
-       "name": "DOCTOR IN THE HOUSE (1969-70) (Full Series)",
-       "logo": "https://archive.org/services/img/doctor-in-the-house-1979",
-       "url": "https://archive.org/details/doctor-in-the-house-1979",
-       "date": null,
-       "plot": "The antics and misadventures of a group of medical students at a London hospital, who prove to be a thorn in the side of their superiors.",
-       "page": "https://archive.org/details/doctor-in-the-house-1979",
-       "id": "doctor-in-the-house-1979",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Grandpa's Old Buddy",
        "logo": "https://archive.org/services/img/Love_That_Bob_Ep4x32_Grandpas_Old_Buddy",
        "url": "https://archive.org/details/Love_That_Bob_Ep4x32_Grandpas_Old_Buddy",
@@ -10973,13 +10973,13 @@
        "resolve": "archive"
       },
       {
-       "name": "s01-19-20-20-freedownloadvideo.net",
-       "logo": "https://archive.org/services/img/s01-19-20-20-freedownloadvideo.net_20230314",
-       "url": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
+       "name": "Death Valley Days - Little Washington",
+       "logo": "https://archive.org/services/img/DeathValleyDays-LittleWashington",
+       "url": "https://archive.org/details/DeathValleyDays-LittleWashington",
        "date": null,
-       "plot": "Gunsmoke Season 1 All Episodes",
-       "page": "https://archive.org/details/s01-19-20-20-freedownloadvideo.net_20230314",
-       "id": "s01-19-20-20-freedownloadvideo.net_20230314",
+       "plot": "Death Valley Days featured stories of the old American West, primarily the Death Valley, California area. It began as a radio drama, which ran from 1930 until 1945. When it came to television, on March 1st, 1952, it became the longest running, most successful syndicated Western series ever, running to 558 episodes before ending on August 1st, 1975. The stories used in the series were based on actual events. It's sponsor was the familiar 20 mule team by the Pacific Coast Borax Company. It featured several hosts of the show throughout the years, starting with Stanley Andrews, Ronald Reagan, Robe",
+       "page": "https://archive.org/details/DeathValleyDays-LittleWashington",
+       "id": "DeathValleyDays-LittleWashington",
        "duration": null,
        "resolve": "archive"
       },
@@ -11050,13 +11050,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Death Valley Days - Little Washington",
-       "logo": "https://archive.org/services/img/DeathValleyDays-LittleWashington",
-       "url": "https://archive.org/details/DeathValleyDays-LittleWashington",
+       "name": "TIMESLIP (1970-71) (Full Series)",
+       "logo": "https://archive.org/services/img/timeslip-1970-71",
+       "url": "https://archive.org/details/timeslip-1970-71",
        "date": null,
-       "plot": "Death Valley Days featured stories of the old American West, primarily the Death Valley, California area. It began as a radio drama, which ran from 1930 until 1945. When it came to television, on March 1st, 1952, it became the longest running, most successful syndicated Western series ever, running to 558 episodes before ending on August 1st, 1975. The stories used in the series were based on actual events. It's sponsor was the familiar 20 mule team by the Pacific Coast Borax Company. It featured several hosts of the show throughout the years, starting with Stanley Andrews, Ronald Reagan, Robe",
-       "page": "https://archive.org/details/DeathValleyDays-LittleWashington",
-       "id": "DeathValleyDays-LittleWashington",
+       "plot": "Simon and Liz were teenage friends who fell into a time hole and found themselves trapped in various periods of the 20th century, where they encounter all sorts of adventures. Many of them involve the nefarious Commander Traynor, who is also traveling in time.",
+       "page": "https://archive.org/details/timeslip-1970-71",
+       "id": "timeslip-1970-71",
        "duration": null,
        "resolve": "archive"
       }

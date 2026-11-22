@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-21 09:25",
+   "updated": "2026-11-22 09:15",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -2335,17 +2335,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Evil 1978",
-       "logo": "https://archive.org/services/img/the-evil-1978",
-       "url": "https://archive.org/details/the-evil-1978",
-       "date": "1978-01-01",
-       "plot": "A doctor and his wife purchase a dilapidated mansion but are unaware of the darkness lurking within.",
-       "page": "https://archive.org/details/the-evil-1978",
-       "id": "the-evil-1978",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Manitou 1978",
        "logo": "https://archive.org/services/img/the-manitou-1978_202412",
        "url": "https://archive.org/details/the-manitou-1978_202412",
@@ -2353,6 +2342,17 @@
        "plot": "A psychic meets a hospitalised woman who has developed a large mysterious growth on her back. With the help of a modern day medicine man they must try to stop an ancient Indian shamans curse before it is too late.",
        "page": "https://archive.org/details/the-manitou-1978_202412",
        "id": "the-manitou-1978_202412",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Evil 1978",
+       "logo": "https://archive.org/services/img/the-evil-1978",
+       "url": "https://archive.org/details/the-evil-1978",
+       "date": "1978-01-01",
+       "plot": "A doctor and his wife purchase a dilapidated mansion but are unaware of the darkness lurking within.",
+       "page": "https://archive.org/details/the-evil-1978",
+       "id": "the-evil-1978",
        "duration": null,
        "resolve": "archive"
       },
@@ -3424,17 +3424,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Asylum 1972",
-       "logo": "https://archive.org/services/img/asylum-1972_202405",
-       "url": "https://archive.org/details/asylum-1972_202405",
-       "date": "1972-01-01",
-       "plot": "A young psychiatrist interviews four patients inside a mental institution, each telling a tale of horror and madness about how they got to be within the walls of the asylum.",
-       "page": "https://archive.org/details/asylum-1972_202405",
-       "id": "asylum-1972_202405",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Case Of The Bloody Iris 1972",
        "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
        "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
@@ -3442,6 +3431,17 @@
        "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
        "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
        "id": "the-case-of-the-bloody-iris-1972",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Asylum 1972",
+       "logo": "https://archive.org/services/img/asylum-1972_202405",
+       "url": "https://archive.org/details/asylum-1972_202405",
+       "date": "1972-01-01",
+       "plot": "A young psychiatrist interviews four patients inside a mental institution, each telling a tale of horror and madness about how they got to be within the walls of the asylum.",
+       "page": "https://archive.org/details/asylum-1972_202405",
+       "id": "asylum-1972_202405",
        "duration": null,
        "resolve": "archive"
       },
@@ -3776,17 +3776,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Fifth Cord 1971",
-       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
-       "url": "https://archive.org/details/the-fifth-cord-1971",
-       "date": "1971-01-01",
-       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
-       "page": "https://archive.org/details/the-fifth-cord-1971",
-       "id": "the-fifth-cord-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Devil's Nightmare, The 1971",
        "logo": "https://archive.org/services/img/devils-nightmare-the-1971",
        "url": "https://archive.org/details/devils-nightmare-the-1971",
@@ -3798,13 +3787,13 @@
        "resolve": "archive"
       },
       {
-       "name": "The Headless Eyes 1971",
-       "logo": "https://archive.org/services/img/the-headless-eye-1971",
-       "url": "https://archive.org/details/the-headless-eye-1971",
+       "name": "The Fifth Cord 1971",
+       "logo": "https://archive.org/services/img/the-fifth-cord-1971",
+       "url": "https://archive.org/details/the-fifth-cord-1971",
        "date": "1971-01-01",
-       "plot": "After his eye is gauged out during an attempted robbery, a man goes on a killing spree keeping the victims eyes to preserve and use in his bizarre artwork.",
-       "page": "https://archive.org/details/the-headless-eye-1971",
-       "id": "the-headless-eye-1971",
+       "plot": "An alcoholic journalist finds himself as a police suspect while on the trail of a murderer who's been targeting people around him.",
+       "page": "https://archive.org/details/the-fifth-cord-1971",
+       "id": "the-fifth-cord-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -3816,6 +3805,17 @@
        "plot": "A rich, mentally-unstable man - with a penchant for playing deadly S&M games with women who resemble his dead wife - sparks off a chain of bizarre events after getting remarried.",
        "page": "https://archive.org/details/the-night-evelyn-came-out-of-the-grave-1971_202407",
        "id": "the-night-evelyn-came-out-of-the-grave-1971_202407",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Headless Eyes 1971",
+       "logo": "https://archive.org/services/img/the-headless-eye-1971",
+       "url": "https://archive.org/details/the-headless-eye-1971",
+       "date": "1971-01-01",
+       "plot": "After his eye is gauged out during an attempted robbery, a man goes on a killing spree keeping the victims eyes to preserve and use in his bizarre artwork.",
+       "page": "https://archive.org/details/the-headless-eye-1971",
+       "id": "the-headless-eye-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -4485,17 +4485,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Dracula Prince Of Darkness 1966",
-       "logo": "https://archive.org/services/img/dracula-prince-of-darkness-1966_20240606",
-       "url": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
-       "date": "1966-01-01",
-       "plot": "An entire decade after his demise, the blasphemous Count Dracula is resurrected by his servant and preys on four unsuspecting English tourists who have taken shelter in his castle.",
-       "page": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
-       "id": "dracula-prince-of-darkness-1966_20240606",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Reptile",
        "logo": "https://archive.org/services/img/the-reptile",
        "url": "https://archive.org/details/the-reptile",
@@ -4514,6 +4503,17 @@
        "plot": "Title: The Terror Beneath the Sea Summary: While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that ... Directed by: Hajime Satô Actors: Production Company: K. Fujita Associates Inc. Release Date: 1 July 1966 (Japan) Aspect Ratio: 1.33 : 1 Color: Color While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that there is a race of fish-men living",
        "page": "https://archive.org/details/05516Tbtx",
        "id": "05516Tbtx",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Dracula Prince Of Darkness 1966",
+       "logo": "https://archive.org/services/img/dracula-prince-of-darkness-1966_20240606",
+       "url": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
+       "date": "1966-01-01",
+       "plot": "An entire decade after his demise, the blasphemous Count Dracula is resurrected by his servant and preys on four unsuspecting English tourists who have taken shelter in his castle.",
+       "page": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
+       "id": "dracula-prince-of-darkness-1966_20240606",
        "duration": null,
        "resolve": "archive"
       },
@@ -4694,17 +4694,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Dr Terror's House Of Horrors 1965",
-       "logo": "https://archive.org/services/img/dr-terrors-house-of-horrors-1965",
-       "url": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
-       "date": "1965-01-01",
-       "plot": "Aboard a British train, mysterious fortune teller Dr. Schreck uses tarot cards to read the futures of five fellow passengers.",
-       "page": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
-       "id": "dr-terrors-house-of-horrors-1965",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Collector (1965)",
        "logo": "https://archive.org/services/img/the.-collector.-1965",
        "url": "https://archive.org/details/the.-collector.-1965",
@@ -4712,6 +4701,17 @@
        "plot": "The Collector is a 1965 psychological horror film directed by William Wyler, adapted by Stanley Mann and John Kohn from the 1963 novel by John Fowles. It stars Terence Stamp as a young man who abducts a beautiful art student, played by Samantha Eggar, holding her captive in the basement of his rural farmhouse. The film premiered at the 1965 Cannes Film Festival, where both Stamp and Eggar won the awards for Best Actor and Best Actress, respectively.",
        "page": "https://archive.org/details/the.-collector.-1965",
        "id": "the.-collector.-1965",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Dr Terror's House Of Horrors 1965",
+       "logo": "https://archive.org/services/img/dr-terrors-house-of-horrors-1965",
+       "url": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
+       "date": "1965-01-01",
+       "plot": "Aboard a British train, mysterious fortune teller Dr. Schreck uses tarot cards to read the futures of five fellow passengers.",
+       "page": "https://archive.org/details/dr-terrors-house-of-horrors-1965",
+       "id": "dr-terrors-house-of-horrors-1965",
        "duration": null,
        "resolve": "archive"
       },
@@ -4870,17 +4870,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tomb of Ligeia (1964)",
-       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
-       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
-       "date": "1964-01-01",
-       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
-       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
-       "id": "the.-tomb.of.-ligeia-1964",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Blood And Black Lace 1964",
        "logo": "https://archive.org/services/img/blood-and-black-lace-1964_202407",
        "url": "https://archive.org/details/blood-and-black-lace-1964_202407",
@@ -4892,13 +4881,13 @@
        "resolve": "archive"
       },
       {
-       "name": "The Last Man on Earth (1964)",
-       "logo": "https://archive.org/services/img/the-last-man-on-earth-1964_20251031",
-       "url": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
+       "name": "The Tomb of Ligeia (1964)",
+       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
+       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
        "date": "1964-01-01",
-       "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
-       "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
-       "id": "the-last-man-on-earth-1964_20251031",
+       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
+       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "id": "the.-tomb.of.-ligeia-1964",
        "duration": null,
        "resolve": "archive"
       },
@@ -4910,6 +4899,17 @@
        "plot": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include \"The Black Hair,\" about a samurai haunted by his past, \"The Woman of the Snow,\" featur",
        "page": "https://archive.org/details/kwaidan-1964_202510",
        "id": "kwaidan-1964_202510",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Last Man on Earth (1964)",
+       "logo": "https://archive.org/services/img/the-last-man-on-earth-1964_20251031",
+       "url": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
+       "date": "1964-01-01",
+       "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
+       "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
+       "id": "the-last-man-on-earth-1964_20251031",
        "duration": null,
        "resolve": "archive"
       },
@@ -5662,17 +5662,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tell-Tale Heart",
-       "logo": "https://archive.org/services/img/ttth77844109",
-       "url": "https://archive.org/details/ttth77844109",
-       "date": "1960-01-01",
-       "plot": "Title: The Tell-Tale Heart Summary: When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes... Directed by: Ernest Morris Actors: Laurence Payne, Adrienne Corri, Dermot Walsh Production Company: Danziger Productions Ltd. Release Date: December 1960 (UK) Aspect Ratio: 1.66 : 1 When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes",
-       "page": "https://archive.org/details/ttth77844109",
-       "id": "ttth77844109",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Atom Age Vampire (1960)",
        "logo": "https://archive.org/services/img/atom.-age.-vampire.-1960",
        "url": "https://archive.org/details/atom.-age.-vampire.-1960",
@@ -5680,6 +5669,17 @@
        "plot": "\"Atom Age Vampire\" is a 1960 Italian horror film directed by Anton Giulio Majano. It follows Jeanette Moreneau, a stripper who becomes disfigured in a car accident. A scientist, Dr. Alberto Levin, develops a serum to restore her beauty. However, as the treatment begins to fail, he resorts to unethical methods, including murder, to obtain the necessary ingredients for the serum. The film explores themes of obsession and the consequences of scientific experimentation.",
        "page": "https://archive.org/details/atom.-age.-vampire.-1960",
        "id": "atom.-age.-vampire.-1960",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Tell-Tale Heart",
+       "logo": "https://archive.org/services/img/ttth77844109",
+       "url": "https://archive.org/details/ttth77844109",
+       "date": "1960-01-01",
+       "plot": "Title: The Tell-Tale Heart Summary: When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes... Directed by: Ernest Morris Actors: Laurence Payne, Adrienne Corri, Dermot Walsh Production Company: Danziger Productions Ltd. Release Date: December 1960 (UK) Aspect Ratio: 1.66 : 1 When Edgar sees his girlfriend Betty getting up close and personal with his best friend Carl, he murders Carl in a jealous rage and hides the corpse under the floor of his piano room. Comes",
+       "page": "https://archive.org/details/ttth77844109",
+       "id": "ttth77844109",
        "duration": null,
        "resolve": "archive"
       },
@@ -6030,17 +6030,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Space Master X-7",
-       "logo": "https://archive.org/services/img/SpacemasterX7_201602",
-       "url": "https://archive.org/details/SpacemasterX7_201602",
-       "date": "1958-01-01",
-       "plot": "Title: Space Master X-7 Summary: A fungus brought from space threatens to grow and spread, devouring everyone in its path. Directed by: Edward Bernds Actors: Bill Williams, Lyn Thomas, Robert Ellis Production Company: Regal Films Release Date: June 1958 (USA) Aspect Ratio: 2.35 : 1 A space probe returns to Earth covered with a strange fungus. The fungus is accidentally tinged with human blood and is transformed into an ever-growing pile of space rust, dubbed \"Blood Rust\". It is up to John Hand and Joe Rattigan to find the one woman who can stop the rust from spreading and taking over the world",
-       "page": "https://archive.org/details/SpacemasterX7_201602",
-       "id": "SpacemasterX7_201602",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Blob (1958)",
        "logo": "https://archive.org/services/img/the.-blob.-1958",
        "url": "https://archive.org/details/the.-blob.-1958",
@@ -6048,6 +6037,17 @@
        "plot": "The Blob is a 1958 American science fiction horror film directed by Irvin S. Yeaworth Jr. In thhe film, a gelatinous alien life form crashes to Earth in a meteorite and begins to consume everything in its path. Teenagers Steve and Jane discover the creature and try to warn their town, but no one believes them until it's almost too late, leading to a desperate attempt to stop the Blob using cold temperatures.",
        "page": "https://archive.org/details/the.-blob.-1958",
        "id": "the.-blob.-1958",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Space Master X-7",
+       "logo": "https://archive.org/services/img/SpacemasterX7_201602",
+       "url": "https://archive.org/details/SpacemasterX7_201602",
+       "date": "1958-01-01",
+       "plot": "Title: Space Master X-7 Summary: A fungus brought from space threatens to grow and spread, devouring everyone in its path. Directed by: Edward Bernds Actors: Bill Williams, Lyn Thomas, Robert Ellis Production Company: Regal Films Release Date: June 1958 (USA) Aspect Ratio: 2.35 : 1 A space probe returns to Earth covered with a strange fungus. The fungus is accidentally tinged with human blood and is transformed into an ever-growing pile of space rust, dubbed \"Blood Rust\". It is up to John Hand and Joe Rattigan to find the one woman who can stop the rust from spreading and taking over the world",
+       "page": "https://archive.org/details/SpacemasterX7_201602",
+       "id": "SpacemasterX7_201602",
        "duration": null,
        "resolve": "archive"
       },
@@ -9404,6 +9404,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Carnival of Souls ( iPod Video Version )",
+       "logo": "https://archive.org/services/img/carnival_of_souls",
+       "url": "https://archive.org/details/carnival_of_souls",
+       "date": null,
+       "plot": "During a drag race, Mary Henry and her two friends are forced off of a bridge. Their car sinks into the depths of a river. Mary emerges unharmed from the river, the sole survivor of the crash. She begins a new life as a church organist. Mary suddenly finds herself haunted by a ghostly figure that seems to stalk her. This horror / thriller film is part of the Feature Film Archives and has been reformatted to work with the Video iPod.",
+       "page": "https://archive.org/details/carnival_of_souls",
+       "id": "carnival_of_souls",
+       "duration": "01:22:59",
+       "resolve": "archive"
+      },
+      {
        "name": "Shocker Internet Drive In Week 8 - Terror Triple Feature",
        "logo": "https://archive.org/services/img/ShockerInternetDriveInWeek8-TerrorTripleFeature",
        "url": "https://archive.org/details/ShockerInternetDriveInWeek8-TerrorTripleFeature",
@@ -9423,17 +9434,6 @@
        "page": "https://archive.org/details/creaturefromthehauntedsea_1961",
        "id": "creaturefromthehauntedsea_1961",
        "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Carnival of Souls ( iPod Video Version )",
-       "logo": "https://archive.org/services/img/carnival_of_souls",
-       "url": "https://archive.org/details/carnival_of_souls",
-       "date": null,
-       "plot": "During a drag race, Mary Henry and her two friends are forced off of a bridge. Their car sinks into the depths of a river. Mary emerges unharmed from the river, the sole survivor of the crash. She begins a new life as a church organist. Mary suddenly finds herself haunted by a ghostly figure that seems to stalk her. This horror / thriller film is part of the Feature Film Archives and has been reformatted to work with the Video iPod.",
-       "page": "https://archive.org/details/carnival_of_souls",
-       "id": "carnival_of_souls",
-       "duration": "01:22:59",
        "resolve": "archive"
       },
       {
@@ -9481,17 +9481,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Eyes of the Werewolf (1999)",
-       "logo": "https://archive.org/services/img/eyes-of-the-werewolf",
-       "url": "https://archive.org/details/eyes-of-the-werewolf",
-       "date": null,
-       "plot": "IMDB Description: A laboratory accident leaves Rich blind and at the mercy of a surgeon who performs an eye transplant. Unknown to everyone, the eyes were stolen from a werewolf. All hell breaks loose as Rich extracts revenge during the next full moon.",
-       "page": "https://archive.org/details/eyes-of-the-werewolf",
-       "id": "eyes-of-the-werewolf",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: TEENAGE ZOMBIES & THE SCREAMING SKULL",
        "logo": "https://archive.org/services/img/TEENAGEZOMBIESSCREAMINGSKULL",
        "url": "https://archive.org/details/TEENAGEZOMBIESSCREAMINGSKULL",
@@ -9499,6 +9488,17 @@
        "plot": "A COMPLETE DVD. Features a custom menu with either poster art or a stills photo from one of the movies overlayed with drive-in style audio. Burning the disc is real easy: Download the zipped folder, open it and extract the VIDEO TS folder. Grab a blank DVD and burn the VIDEO TS folder onto it, that's the easiest way. I've also uploaded the files outside the .zip so they can be viewed here on this site. This DVD features a double-bill of TEENAGE ZOMBIES & THE SCREAMING SKULL, plus the preview and intermission reels. Enjoy the show.",
        "page": "https://archive.org/details/TEENAGEZOMBIESSCREAMINGSKULL",
        "id": "TEENAGEZOMBIESSCREAMINGSKULL",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Eyes of the Werewolf (1999)",
+       "logo": "https://archive.org/services/img/eyes-of-the-werewolf",
+       "url": "https://archive.org/details/eyes-of-the-werewolf",
+       "date": null,
+       "plot": "IMDB Description: A laboratory accident leaves Rich blind and at the mercy of a surgeon who performs an eye transplant. Unknown to everyone, the eyes were stolen from a werewolf. All hell breaks loose as Rich extracts revenge during the next full moon.",
+       "page": "https://archive.org/details/eyes-of-the-werewolf",
+       "id": "eyes-of-the-werewolf",
        "duration": null,
        "resolve": "archive"
       },
@@ -9767,17 +9767,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Deadtime Stories",
-       "logo": "https://archive.org/services/img/deadtime-stories-1986",
-       "url": "https://archive.org/details/deadtime-stories-1986",
-       "date": null,
-       "plot": "A babysitting uncle tells his charges three horror stories - about a killer witch, Little Red Riding Hood and a werewolf, and \"Goldi Lox\" and the three bears.",
-       "page": "https://archive.org/details/deadtime-stories-1986",
-       "id": "deadtime-stories-1986",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Shocker Internet Drive In - Week 68: \"Chaos & Confusion\" Double Feature",
        "logo": "https://archive.org/services/img/Week68",
        "url": "https://archive.org/details/Week68",
@@ -9785,6 +9774,17 @@
        "plot": "Well hello and welcome back to your favorite Shocker Internet Drive In! Good to see that you survived the holidays. You maybe a bit dazed and confused, but we are glad you came to relax and chill out. And, what better way than to chase away those Winter blues than with a bit of chaotic film making. First up, after some coming attractions and a \"Melvin The Monster\" cartoon, we happily present \"The Doomsday Machine\" - a nifty piece of confusion started in 1967, but completed in 1972 with different actors playing the same characters. Good luck figuring this one out! Second, after a brief 10 minut",
        "page": "https://archive.org/details/Week68",
        "id": "Week68",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Deadtime Stories",
+       "logo": "https://archive.org/services/img/deadtime-stories-1986",
+       "url": "https://archive.org/details/deadtime-stories-1986",
+       "date": null,
+       "plot": "A babysitting uncle tells his charges three horror stories - about a killer witch, Little Red Riding Hood and a werewolf, and \"Goldi Lox\" and the three bears.",
+       "page": "https://archive.org/details/deadtime-stories-1986",
+       "id": "deadtime-stories-1986",
        "duration": null,
        "resolve": "archive"
       },
@@ -10284,17 +10284,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 99: \"Demons & The Dead\" Double Feature",
-       "logo": "https://archive.org/services/img/Week99",
-       "url": "https://archive.org/details/Week99",
-       "date": null,
-       "plot": "Hello and welcome back to everyone's favorite possessed picture palace. With the demon days of summer in full swing, what better way to beat the evening heat than in a haunted bed with a few good scary stories. First up, after the usual coming attractions and visit with Bugs Bunny, we present 1977's \"Death Bed\", a true wonder about a possessed bed that likes to eat people. Then, following a brief intermission, we finish up with 1978's \"House of the Dead\", a rather well done low budget anthology dealing with murder, ghosts and morality as told by a mortician to an adulterer. So the moral of thi",
-       "page": "https://archive.org/details/Week99",
-       "id": "Week99",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Patrick (1978)",
        "logo": "https://archive.org/services/img/patrick-1978",
        "url": "https://archive.org/details/patrick-1978",
@@ -10302,6 +10291,17 @@
        "plot": "A man in a coma has a way of killing using telekinesis and manipulates the life of others",
        "page": "https://archive.org/details/patrick-1978",
        "id": "patrick-1978",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 99: \"Demons & The Dead\" Double Feature",
+       "logo": "https://archive.org/services/img/Week99",
+       "url": "https://archive.org/details/Week99",
+       "date": null,
+       "plot": "Hello and welcome back to everyone's favorite possessed picture palace. With the demon days of summer in full swing, what better way to beat the evening heat than in a haunted bed with a few good scary stories. First up, after the usual coming attractions and visit with Bugs Bunny, we present 1977's \"Death Bed\", a true wonder about a possessed bed that likes to eat people. Then, following a brief intermission, we finish up with 1978's \"House of the Dead\", a rather well done low budget anthology dealing with murder, ghosts and morality as told by a mortician to an adulterer. So the moral of thi",
+       "page": "https://archive.org/details/Week99",
+       "id": "Week99",
        "duration": null,
        "resolve": "archive"
       },
