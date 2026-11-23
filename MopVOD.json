@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-22 21:32",
+ "updated": "2026-11-23 13:51",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-22 09:15",
+   "updated": "2026-11-23 10:17",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-22 09:15",
+   "updated": "2026-11-23 10:17",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -1139,10 +1139,10 @@
   {
    "name": "כאן 11 - חדשות הלילה",
    "file": "vod/kan_11602.json",
-   "episodes": 2059,
+   "episodes": 2060,
    "seasons": 1,
-   "updated": "2026-11-19 22:59",
-   "newest": "2026-11-19",
+   "updated": "2026-11-23 13:41",
+   "newest": "2026-11-22",
    "oldest": "2017-12-10"
   },
   {
@@ -1940,11 +1940,11 @@
   {
    "name": "כאן 11 - מישהו לגור איתו",
    "file": "vod/kan_327417.json",
-   "episodes": 10,
+   "episodes": 9,
    "seasons": 2,
-   "updated": "2026-10-28 12:23",
+   "updated": "2026-11-23 13:45",
    "newest": "2025-04-07",
-   "oldest": "2023-05-02"
+   "oldest": "2023-05-14"
   },
   {
    "name": "כאן 11 - שלושה שירים",
@@ -4327,7 +4327,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-22 08:55",
+   "updated": "2026-11-23 09:53",
    "newest": null,
    "oldest": null
   },
@@ -4336,7 +4336,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-22 09:15",
+   "updated": "2026-11-23 10:17",
    "newest": null,
    "oldest": null
   },
