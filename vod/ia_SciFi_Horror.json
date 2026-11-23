@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-22 09:15",
+   "updated": "2026-11-23 10:17",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -2445,17 +2445,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Cathy's Curse",
-       "logo": "https://archive.org/services/img/CathysCurse767",
-       "url": "https://archive.org/details/CathysCurse767",
-       "date": "1977-01-01",
-       "plot": "Title: Cathy's Curse Summary: A young girl is possessed by the spirit of her aunt, who died, as a child, in a car accident. Soon, people around her begin to mysteriously die off. Directed by: Eddy Matalon Actors: Alan Scarfe, Beverly Murray, Randi Allen Production Company: Les Productions Agora Release Date: July 1980 (USA) Aspect Ratio: 1.85 : 1 A young girl is possessed by the spirit of her aunt, who died, as a child, in a car accident. Soon, people around her begin to mysteriously die off.",
-       "page": "https://archive.org/details/CathysCurse767",
-       "id": "CathysCurse767",
-       "duration": "1:21:29",
-       "resolve": "archive"
-      },
-      {
        "name": "Satan's Cheerleaders 1977",
        "logo": "https://archive.org/services/img/satans-cheerleaders-1977_202406",
        "url": "https://archive.org/details/satans-cheerleaders-1977_202406",
@@ -2464,6 +2453,17 @@
        "page": "https://archive.org/details/satans-cheerleaders-1977_202406",
        "id": "satans-cheerleaders-1977_202406",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Cathy's Curse",
+       "logo": "https://archive.org/services/img/CathysCurse767",
+       "url": "https://archive.org/details/CathysCurse767",
+       "date": "1977-01-01",
+       "plot": "Title: Cathy's Curse Summary: A young girl is possessed by the spirit of her aunt, who died, as a child, in a car accident. Soon, people around her begin to mysteriously die off. Directed by: Eddy Matalon Actors: Alan Scarfe, Beverly Murray, Randi Allen Production Company: Les Productions Agora Release Date: July 1980 (USA) Aspect Ratio: 1.85 : 1 A young girl is possessed by the spirit of her aunt, who died, as a child, in a car accident. Soon, people around her begin to mysteriously die off.",
+       "page": "https://archive.org/details/CathysCurse767",
+       "id": "CathysCurse767",
+       "duration": "1:21:29",
        "resolve": "archive"
       },
       {
@@ -3138,17 +3138,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Horror Rises From The Tomb 1973",
-       "logo": "https://archive.org/services/img/horror-rises-from-the-tomb-1973",
-       "url": "https://archive.org/details/horror-rises-from-the-tomb-1973",
-       "date": "1973-01-01",
-       "plot": "A warlocks severed head is unearthed centuries after his execution. Reanimated, it seeks to reunite with its body, wreaking havoc as a group encounter its sinister quest.",
-       "page": "https://archive.org/details/horror-rises-from-the-tomb-1973",
-       "id": "horror-rises-from-the-tomb-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Satanic Rites Of Dracula 1973",
        "logo": "https://archive.org/services/img/the-satanic-rites-of-dracula-1973",
        "url": "https://archive.org/details/the-satanic-rites-of-dracula-1973",
@@ -3156,6 +3145,17 @@
        "plot": "When vampire researcher Professor Van Helsing is asked to investigates a series of murders on behalf of Scotland Yard, only to discover a plot by a satanic cult to commit global genocide.",
        "page": "https://archive.org/details/the-satanic-rites-of-dracula-1973",
        "id": "the-satanic-rites-of-dracula-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Horror Rises From The Tomb 1973",
+       "logo": "https://archive.org/services/img/horror-rises-from-the-tomb-1973",
+       "url": "https://archive.org/details/horror-rises-from-the-tomb-1973",
+       "date": "1973-01-01",
+       "plot": "A warlocks severed head is unearthed centuries after his execution. Reanimated, it seeks to reunite with its body, wreaking havoc as a group encounter its sinister quest.",
+       "page": "https://archive.org/details/horror-rises-from-the-tomb-1973",
+       "id": "horror-rises-from-the-tomb-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -3178,6 +3178,17 @@
        "plot": "A psychiatrist tells stories of four disturbing and twisted cases to a colleague.",
        "page": "https://archive.org/details/tales-that-witness-madness-1973",
        "id": "tales-that-witness-madness-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Count Dracula's Great Love 1973",
+       "logo": "https://archive.org/services/img/count-draculas-great-love",
+       "url": "https://archive.org/details/count-draculas-great-love",
+       "date": "1973-01-01",
+       "plot": "While looking for virgins to sacrifice in order to resurrect his long-dead daughter, the infamous vampire count finds himself falling for a 19th-century traveler who stop by his Spanish castle.",
+       "page": "https://archive.org/details/count-draculas-great-love",
+       "id": "count-draculas-great-love",
        "duration": null,
        "resolve": "archive"
       },
@@ -3211,17 +3222,6 @@
        "plot": "An Indian mystic uses magical chants to raise women from the dead, then sends them out to perform revenge killings for him.",
        "page": "https://archive.org/details/vengeance-of-the-zombies-1973",
        "id": "vengeance-of-the-zombies-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Count Dracula's Great Love 1973",
-       "logo": "https://archive.org/services/img/count-draculas-great-love",
-       "url": "https://archive.org/details/count-draculas-great-love",
-       "date": "1973-01-01",
-       "plot": "While looking for virgins to sacrifice in order to resurrect his long-dead daughter, the infamous vampire count finds himself falling for a 19th-century traveler who stop by his Spanish castle.",
-       "page": "https://archive.org/details/count-draculas-great-love",
-       "id": "count-draculas-great-love",
        "duration": null,
        "resolve": "archive"
       },
@@ -3402,17 +3402,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Amuck 1972",
-       "logo": "https://archive.org/services/img/amuck-1972",
-       "url": "https://archive.org/details/amuck-1972",
-       "date": "1972-01-01",
-       "plot": "The secretary of a writer and his wife investigates the disappearance of her lover and finds herself the target of the couple's erotic desires and a murder plot.",
-       "page": "https://archive.org/details/amuck-1972",
-       "id": "amuck-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "All The Colors Of The Dark 1972",
        "logo": "https://archive.org/services/img/all-the-colors-of-the-dark-1972_202405",
        "url": "https://archive.org/details/all-the-colors-of-the-dark-1972_202405",
@@ -3420,6 +3409,17 @@
        "plot": "A woman recovering from a car accident in which she lost her unborn child finds herself pursued by a coven of devil worshipers after taking part in a ritual.",
        "page": "https://archive.org/details/all-the-colors-of-the-dark-1972_202405",
        "id": "all-the-colors-of-the-dark-1972_202405",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Amuck 1972",
+       "logo": "https://archive.org/services/img/amuck-1972",
+       "url": "https://archive.org/details/amuck-1972",
+       "date": "1972-01-01",
+       "plot": "The secretary of a writer and his wife investigates the disappearance of her lover and finds herself the target of the couple's erotic desires and a murder plot.",
+       "page": "https://archive.org/details/amuck-1972",
+       "id": "amuck-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -3831,17 +3831,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Touch Of Satan 1971",
-       "logo": "https://archive.org/services/img/touch-of-satan-1971_202405",
-       "url": "https://archive.org/details/touch-of-satan-1971_202405",
-       "date": "1971-01-01",
-       "plot": "A man finds himself in a strange town where mysterious murders are happening and two mysterious sisters hide a sinister secret.",
-       "page": "https://archive.org/details/touch-of-satan-1971_202405",
-       "id": "touch-of-satan-1971_202405",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Case Of The Scorpion's Tail 1971",
        "logo": "https://archive.org/services/img/the-case-of-the-scorpions-tail-1971",
        "url": "https://archive.org/details/the-case-of-the-scorpions-tail-1971",
@@ -3849,6 +3838,17 @@
        "plot": "An insurance investigator tries to determine any irregularities in the policy of a heiress' dead husband, but soon finds himself suspected of her murder.",
        "page": "https://archive.org/details/the-case-of-the-scorpions-tail-1971",
        "id": "the-case-of-the-scorpions-tail-1971",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Touch Of Satan 1971",
+       "logo": "https://archive.org/services/img/touch-of-satan-1971_202405",
+       "url": "https://archive.org/details/touch-of-satan-1971_202405",
+       "date": "1971-01-01",
+       "plot": "A man finds himself in a strange town where mysterious murders are happening and two mysterious sisters hide a sinister secret.",
+       "page": "https://archive.org/details/touch-of-satan-1971_202405",
+       "id": "touch-of-satan-1971_202405",
        "duration": null,
        "resolve": "archive"
       },
@@ -4254,17 +4254,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Kuroneko (1968)",
-       "logo": "https://archive.org/services/img/kuroneko-1968_202510",
-       "url": "https://archive.org/details/kuroneko-1968_202510",
-       "date": "1968-01-01",
-       "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
-       "page": "https://archive.org/details/kuroneko-1968_202510",
-       "id": "kuroneko-1968_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Snow Woman (1968)",
        "logo": "https://archive.org/services/img/the.-snow.-woman.-1968",
        "url": "https://archive.org/details/the.-snow.-woman.-1968",
@@ -4272,6 +4261,17 @@
        "plot": "\"The Snow Woman\" ( Kaidan Yukijorō ) is a 1968 Japanese fantasy horror film directed by Tokuzō Tanaka . It was produced by Daiei Film and is an adaptation of the Yuki-onna short story from Lafcadio Hearn's 1904 collection, Kwaidan: Stories and Studies of Strange Things . The film runs for 80 minutes and combines elements of fantasy, romance, and horror to portray the legend of Yuki-onna, the snow woman. The film's story begins in feudal Japan , where two sculptors seek a special tree for carving a statue of Kannon , the Buddhist goddess. As a blizzard hits, they take refuge in an abandoned hut",
        "page": "https://archive.org/details/the.-snow.-woman.-1968",
        "id": "the.-snow.-woman.-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Kuroneko (1968)",
+       "logo": "https://archive.org/services/img/kuroneko-1968_202510",
+       "url": "https://archive.org/details/kuroneko-1968_202510",
+       "date": "1968-01-01",
+       "plot": "Kuroneko is a 1968 Japanese historical drama horror film directed by Kaneto Shindō, and an adaptation of a supernatural folktale. Set during a civil war in feudal Japan, the film's plot concerns the vengeful spirits, or onryō, of a woman and her daughter-in-law, who died at the hands of a band of samurai. It stars Kichiemon Nakamura, Nobuko Otowa, and Kiwako Taichi. Kuroneko was shot in black-and-white and in TohoScope format, and distributed by Toho.",
+       "page": "https://archive.org/details/kuroneko-1968_202510",
+       "id": "kuroneko-1968_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -4892,17 +4892,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Kwaidan (1964)",
-       "logo": "https://archive.org/services/img/kwaidan-1964_202510",
-       "url": "https://archive.org/details/kwaidan-1964_202510",
-       "date": "1964-01-01",
-       "plot": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include \"The Black Hair,\" about a samurai haunted by his past, \"The Woman of the Snow,\" featur",
-       "page": "https://archive.org/details/kwaidan-1964_202510",
-       "id": "kwaidan-1964_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Last Man on Earth (1964)",
        "logo": "https://archive.org/services/img/the-last-man-on-earth-1964_20251031",
        "url": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
@@ -4910,6 +4899,17 @@
        "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
        "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
        "id": "the-last-man-on-earth-1964_20251031",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Kwaidan (1964)",
+       "logo": "https://archive.org/services/img/kwaidan-1964_202510",
+       "url": "https://archive.org/details/kwaidan-1964_202510",
+       "date": "1964-01-01",
+       "plot": "Kwaidan is a 1964 Japanese anthology horror film directed by Masaki Kobayashi. It is based on stories from Lafcadio Hearn's collections of Japanese folk tales, mainly Kwaidan: Stories and Studies of Strange Things, for which it is named. The film consists of four separate and unrelated stories. Kwaidan is an archaic transliteration of the term kaidan, meaning \"ghost story\". The film consists of four separate stories based on Japanese folklore, primarily drawn from Lafcadio Hearn's writings. The tales include \"The Black Hair,\" about a samurai haunted by his past, \"The Woman of the Snow,\" featur",
+       "page": "https://archive.org/details/kwaidan-1964_202510",
+       "id": "kwaidan-1964_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -5046,17 +5046,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Maniac",
-       "logo": "https://archive.org/services/img/maniac_202107",
-       "url": "https://archive.org/details/maniac_202107",
-       "date": "1963-01-01",
-       "plot": "An American painter has an affair with a bar owner in a French village and agrees to help her murderer husband escape from a prison for the criminally insane.",
-       "page": "https://archive.org/details/maniac_202107",
-       "id": "maniac_202107",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Girl Who Knew Too Much (1963)",
        "logo": "https://archive.org/services/img/the.-girl.-who.-knew.-too.-much.-1963",
        "url": "https://archive.org/details/the.-girl.-who.-knew.-too.-much.-1963",
@@ -5064,6 +5053,17 @@
        "plot": "The Girl Who Knew Too Much is a 1963 Italian giallo film directed by Mario Bava, featuring a young American woman named Nora who witnesses a murder in Rome but struggles to convince others of what she saw. Nora witnesses a murder while in Rome, but the police do not believe her due to the lack of a body. As she investigates, she becomes embroiled in a series of murders linked to an \"Alphabet Killer,\" who targets victims in alphabetical order. The film explores themes of illusion versus reality, as Nora's credibility is questioned.",
        "page": "https://archive.org/details/the.-girl.-who.-knew.-too.-much.-1963",
        "id": "the.-girl.-who.-knew.-too.-much.-1963",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Maniac",
+       "logo": "https://archive.org/services/img/maniac_202107",
+       "url": "https://archive.org/details/maniac_202107",
+       "date": "1963-01-01",
+       "plot": "An American painter has an affair with a bar owner in a French village and agrees to help her murderer husband escape from a prison for the criminally insane.",
+       "page": "https://archive.org/details/maniac_202107",
+       "id": "maniac_202107",
        "duration": null,
        "resolve": "archive"
       },
@@ -5486,17 +5486,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Hercules in the Haunted World (1961)",
-       "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
-       "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
-       "date": "1961-01-01",
-       "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
-       "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
-       "id": "hercules.-in.-the.-haunted.-world.-1961",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Pit And The Pendulum (1961)",
        "logo": "https://archive.org/services/img/pit-and-the-pendulum-1961_202510",
        "url": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
@@ -5504,6 +5493,17 @@
        "plot": "The Pit and the Pendulum is a 1961 American horror film directed by Roger Corman, starring Vincent Price, Barbara Steele, John Kerr, and Luana Anders. The screenplay by Richard Matheson was loosely inspired by Edgar Allan Poe's 1842 short story of the same name. Set in sixteenth-century Spain, the story is about a young Englishman who visits a foreboding castle to investigate his sister's mysterious death. After a series of horrific revelations, apparently ghostly appearances and violent deaths, the young man becomes strapped to the titular torture device by his lunatic brother-in-law during t",
        "page": "https://archive.org/details/pit-and-the-pendulum-1961_202510",
        "id": "pit-and-the-pendulum-1961_202510",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Hercules in the Haunted World (1961)",
+       "logo": "https://archive.org/services/img/hercules.-in.-the.-haunted.-world.-1961",
+       "url": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
+       "date": "1961-01-01",
+       "plot": "\"Hercules in the Haunted World\" is a 1961 Italian film directed by the renowned filmmaker Mario Bava . Known as \"Ercole al centro della Terra\" in Italian, this film blends the sword-and-sandal genre with elements of fantasy and horror, creating a unique viewing experience. In this adventure, Hercules, portrayed by Reg Park , embarks on a perilous journey to rescue his beloved Princess Deianira (played by Leonora Ruffo ), who has fallen into a catatonic state due to a curse. Deianira's uncle, King Lico (played by Christopher Lee ), usurps the throne, leading Hercules to consult the oracle Medea",
+       "page": "https://archive.org/details/hercules.-in.-the.-haunted.-world.-1961",
+       "id": "hercules.-in.-the.-haunted.-world.-1961",
        "duration": null,
        "resolve": "archive"
       },
@@ -6052,17 +6052,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Horror Of Dracula 1958",
-       "logo": "https://archive.org/services/img/horror-of-dracula-1958_202406",
-       "url": "https://archive.org/details/horror-of-dracula-1958_202406",
-       "date": "1958-01-01",
-       "plot": "When his friend goes missing after accepting a job at a castle under false pretences, Dr. Van Helsing investigates the mysterious Count Dracula and discovers a parasitic reign of undead terror.",
-       "page": "https://archive.org/details/horror-of-dracula-1958_202406",
-       "id": "horror-of-dracula-1958_202406",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Strange World of Planet X",
        "logo": "https://archive.org/services/img/TheStrangeWorldOfPlanetX1958",
        "url": "https://archive.org/details/TheStrangeWorldOfPlanetX1958",
@@ -6070,6 +6059,17 @@
        "plot": "Title: The Strange World of Planet X Summary: A friendly visitor from outer space warns against conducting experiments with the Earth's magnetic field, that could mutate insects into giant monsters. Directed by: Gilbert Gunn Actors: Forrest Tucker, Gaby André, Martin Benson Production Company: George Maynard Productions Release Date: 31 December 1958 (USA) Aspect Ratio: 1.33 : 1 At a small, rural British lab, monomaniac Dr. Laird and his staff create ultra-intense magnetic fields. Inexplicably, the apparatus seems to be affecting distant objects, and to be drawing \"extra power\" from...somewher",
        "page": "https://archive.org/details/TheStrangeWorldOfPlanetX1958",
        "id": "TheStrangeWorldOfPlanetX1958",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Horror Of Dracula 1958",
+       "logo": "https://archive.org/services/img/horror-of-dracula-1958_202406",
+       "url": "https://archive.org/details/horror-of-dracula-1958_202406",
+       "date": "1958-01-01",
+       "plot": "When his friend goes missing after accepting a job at a castle under false pretences, Dr. Van Helsing investigates the mysterious Count Dracula and discovers a parasitic reign of undead terror.",
+       "page": "https://archive.org/details/horror-of-dracula-1958_202406",
+       "id": "horror-of-dracula-1958_202406",
        "duration": null,
        "resolve": "archive"
       },
@@ -6761,17 +6761,6 @@
        "resolve": "archive"
       },
       {
-       "name": "House Of Frankenstein 1944",
-       "logo": "https://archive.org/services/img/house-of-frankenstein-1944_202106",
-       "url": "https://archive.org/details/house-of-frankenstein-1944_202106",
-       "date": "1944-01-01",
-       "plot": "A deranged scientist escapes from prison and recruits Dracula, Frankenstein and the Wolf Man to get revenge on his behalf.",
-       "page": "https://archive.org/details/house-of-frankenstein-1944_202106",
-       "id": "house-of-frankenstein-1944_202106",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Nabonga",
        "logo": "https://archive.org/services/img/nabonga",
        "url": "https://archive.org/details/nabonga",
@@ -6779,6 +6768,17 @@
        "plot": "You can find more information regarding this film on its IMDb page .",
        "page": "https://archive.org/details/nabonga",
        "id": "nabonga",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "House Of Frankenstein 1944",
+       "logo": "https://archive.org/services/img/house-of-frankenstein-1944_202106",
+       "url": "https://archive.org/details/house-of-frankenstein-1944_202106",
+       "date": "1944-01-01",
+       "plot": "A deranged scientist escapes from prison and recruits Dracula, Frankenstein and the Wolf Man to get revenge on his behalf.",
+       "page": "https://archive.org/details/house-of-frankenstein-1944_202106",
+       "id": "house-of-frankenstein-1944_202106",
        "duration": null,
        "resolve": "archive"
       },

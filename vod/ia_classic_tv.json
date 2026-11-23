@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/classic_tv",
    "program_url": "https://archive.org/details/classic_tv",
-   "updated": "2026-11-22 09:15",
+   "updated": "2026-11-23 10:17",
    "sub_categories": [
     {
      "name": "2020-2029",
@@ -5924,17 +5924,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bonanza - Death on Sun Mountain",
-       "logo": "https://archive.org/services/img/Bonanza-DeathOnSunMountain",
-       "url": "https://archive.org/details/Bonanza-DeathOnSunMountain",
-       "date": null,
-       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, eaach by a different: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and loveable giant Eric, best known by his nickname \"Hoss.\" And the youngest was the the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and ",
-       "page": "https://archive.org/details/Bonanza-DeathOnSunMountain",
-       "id": "Bonanza-DeathOnSunMountain",
-       "duration": "43:46",
-       "resolve": "archive"
-      },
-      {
        "name": "Green Acres Season 2",
        "logo": "https://archive.org/services/img/Green_Acres_Season_2",
        "url": "https://archive.org/details/Green_Acres_Season_2",
@@ -5943,6 +5932,17 @@
        "page": "https://archive.org/details/Green_Acres_Season_2",
        "id": "Green_Acres_Season_2",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Bonanza - Death on Sun Mountain",
+       "logo": "https://archive.org/services/img/Bonanza-DeathOnSunMountain",
+       "url": "https://archive.org/details/Bonanza-DeathOnSunMountain",
+       "date": null,
+       "plot": "Set in Nevada in the 1860's, Bonanza chronicled the adventures of the Cartwright family who owned a large ranch called The Ponderosa. Ben Cartwright and his three sons, Adam, Hoss, and Joe fought for what was just and decent in a time where lawlessness was common. The widowed patriarch Ben Cartwright had three sons, eaach by a different: the oldest was the urbane architect Adam Cartwright, who built the ranch house. The second was the warm and loveable giant Eric, best known by his nickname \"Hoss.\" And the youngest was the the hotheaded and impetuous Joseph or \"Little Joe.\" They all lived and ",
+       "page": "https://archive.org/details/Bonanza-DeathOnSunMountain",
+       "id": "Bonanza-DeathOnSunMountain",
+       "duration": "43:46",
        "resolve": "archive"
       },
       {
@@ -5986,6 +5986,17 @@
        "plot": "The Lucy Show ep Lucy Meets Robert Goulet",
        "page": "https://archive.org/details/TLS_Lucy_Meets_Robert_Goulet",
        "id": "TLS_Lucy_Meets_Robert_Goulet",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "LIS",
+       "logo": "https://archive.org/services/img/L_I_S",
+       "url": "https://archive.org/details/L_I_S",
+       "date": null,
+       "plot": "LIS",
+       "page": "https://archive.org/details/L_I_S",
+       "id": "L_I_S",
        "duration": null,
        "resolve": "archive"
       },
@@ -6063,17 +6074,6 @@
        "plot": "The Red Skelton Show Carol Channing Guest",
        "page": "https://archive.org/details/Red_Skelton_CarolChanningGuest",
        "id": "Red_Skelton_CarolChanningGuest",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "LIS",
-       "logo": "https://archive.org/services/img/L_I_S",
-       "url": "https://archive.org/details/L_I_S",
-       "date": null,
-       "plot": "LIS",
-       "page": "https://archive.org/details/L_I_S",
-       "id": "L_I_S",
        "duration": null,
        "resolve": "archive"
       },
@@ -6771,6 +6771,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Twilight Zone – Complete Season 4 (18 episodes) (restored, colorized) (1963, TV series)",
+       "logo": "https://archive.org/services/img/the-twilight-zone-s-4e-3-colorized-720p-hd",
+       "url": "https://archive.org/details/the-twilight-zone-s-4e-3-colorized-720p-hd",
+       "date": null,
+       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
+       "page": "https://archive.org/details/the-twilight-zone-s-4e-3-colorized-720p-hd",
+       "id": "the-twilight-zone-s-4e-3-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Jim Henson's The Storyteller - MKV",
        "logo": "https://archive.org/services/img/jim-hensons-the-storyteller-mkv",
        "url": "https://archive.org/details/jim-hensons-the-storyteller-mkv",
@@ -6789,17 +6800,6 @@
        "plot": "Alfred Hitchcock Presents ep The Cheyney Vase (Aired Dec 25 1955)",
        "page": "https://archive.org/details/Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
        "id": "Alfred_Hitchcock_Presents_-_The_Cheyney_Vase_Dec25_1955",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Twilight Zone – Complete Season 4 (18 episodes) (restored, colorized) (1963, TV series)",
-       "logo": "https://archive.org/services/img/the-twilight-zone-s-4e-3-colorized-720p-hd",
-       "url": "https://archive.org/details/the-twilight-zone-s-4e-3-colorized-720p-hd",
-       "date": null,
-       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
-       "page": "https://archive.org/details/the-twilight-zone-s-4e-3-colorized-720p-hd",
-       "id": "the-twilight-zone-s-4e-3-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -6903,17 +6903,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Bas les masques - Heliomonde - 1993",
-       "logo": "https://archive.org/services/img/1993-mireille-dumas-heliomonde",
-       "url": "https://archive.org/details/1993-mireille-dumas-heliomonde",
-       "date": null,
-       "plot": "1993 mireille dumas heliomonde",
-       "page": "https://archive.org/details/1993-mireille-dumas-heliomonde",
-       "id": "1993-mireille-dumas-heliomonde",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Twilight Zone – Complete Season 2 (29 episodes) (restored, colorized) (1960, TV series)",
        "logo": "https://archive.org/services/img/the-twilight-zone-s-2-e-1-colorized-720p-hd",
        "url": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
@@ -6921,6 +6910,17 @@
        "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
        "page": "https://archive.org/details/the-twilight-zone-s-2-e-1-colorized-720p-hd",
        "id": "the-twilight-zone-s-2-e-1-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Bas les masques - Heliomonde - 1993",
+       "logo": "https://archive.org/services/img/1993-mireille-dumas-heliomonde",
+       "url": "https://archive.org/details/1993-mireille-dumas-heliomonde",
+       "date": null,
+       "plot": "1993 mireille dumas heliomonde",
+       "page": "https://archive.org/details/1993-mireille-dumas-heliomonde",
+       "id": "1993-mireille-dumas-heliomonde",
        "duration": null,
        "resolve": "archive"
       },
@@ -6936,17 +6936,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Ironside Season 6",
-       "logo": "https://archive.org/services/img/ironside-S06",
-       "url": "https://archive.org/details/ironside-S06",
-       "date": null,
-       "plot": "The Complete Season 6 of Ironside",
-       "page": "https://archive.org/details/ironside-S06",
-       "id": "ironside-S06",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Jenna Jameson (at 21) Strips For Howard Stern, 1995 E! Show Uncut",
        "logo": "https://archive.org/services/img/jenna-jameson-at-21-strips-for-howard-stern-1995-e-show-uncut",
        "url": "https://archive.org/details/jenna-jameson-at-21-strips-for-howard-stern-1995-e-show-uncut",
@@ -6954,6 +6943,17 @@
        "plot": "Jenna Jameson (at 21) strips for Howard Stern, 1995 E! Show uncut",
        "page": "https://archive.org/details/jenna-jameson-at-21-strips-for-howard-stern-1995-e-show-uncut",
        "id": "jenna-jameson-at-21-strips-for-howard-stern-1995-e-show-uncut",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Ironside Season 6",
+       "logo": "https://archive.org/services/img/ironside-S06",
+       "url": "https://archive.org/details/ironside-S06",
+       "date": null,
+       "plot": "The Complete Season 6 of Ironside",
+       "page": "https://archive.org/details/ironside-S06",
+       "id": "ironside-S06",
        "duration": null,
        "resolve": "archive"
       },
@@ -7035,6 +7035,17 @@
        "resolve": "archive"
       },
       {
+       "name": "BBC - Deutsch Plus I & II (Audio/Video) (1996)",
+       "logo": "https://archive.org/services/img/DeutschPlusIIEp1Of11997",
+       "url": "https://archive.org/details/DeutschPlusIIEp1Of11997",
+       "date": null,
+       "plot": "Language",
+       "page": "https://archive.org/details/DeutschPlusIIEp1Of11997",
+       "id": "DeutschPlusIIEp1Of11997",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Jed Plays Solomon",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep21_Jed_Plays_Soloman",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep21_Jed_Plays_Soloman",
@@ -7079,17 +7090,6 @@
        "resolve": "archive"
       },
       {
-       "name": "BBC - Deutsch Plus I & II (Audio/Video) (1996)",
-       "logo": "https://archive.org/services/img/DeutschPlusIIEp1Of11997",
-       "url": "https://archive.org/details/DeutschPlusIIEp1Of11997",
-       "date": null,
-       "plot": "Language",
-       "page": "https://archive.org/details/DeutschPlusIIEp1Of11997",
-       "id": "DeutschPlusIIEp1Of11997",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Big Grandma",
        "logo": "https://archive.org/services/img/Dragnet_The_BigGrandma",
        "url": "https://archive.org/details/Dragnet_The_BigGrandma",
@@ -7108,6 +7108,17 @@
        "plot": "Newhart is an American television sitcom which aired on from October 25, 1982, to May 21, 1990. The series starred comedian Bob Newhart and actress Mary Frann as an author and wife who owned and operated an inn located in a small, rural Vermont town that was home to many eccentric characters. Premise: Bob Newhart plays Dick Loudon, an author of do-it-yourself books and travel books (including \"Many Moods Of Minnesota\" and \"Captivating Kansas\".) He and his wife Joanna move from New York City to a small, unnamed town in rural Vermont (most likely Norwich) to operate the 200-year-old Stratford In",
        "page": "https://archive.org/details/NewhartSeries",
        "id": "NewhartSeries",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Twilight Zone 1985 S01",
+       "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
+       "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
+       "date": null,
+       "plot": "The Twilight Zone 1985 S01",
+       "page": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
+       "id": "twilight-zone-1985-1x-01-shatterday",
        "duration": null,
        "resolve": "archive"
       },
@@ -7156,28 +7167,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Twilight Zone 1985 S01",
-       "logo": "https://archive.org/services/img/twilight-zone-1985-1x-01-shatterday",
-       "url": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
-       "date": null,
-       "plot": "The Twilight Zone 1985 S01",
-       "page": "https://archive.org/details/twilight-zone-1985-1x-01-shatterday",
-       "id": "twilight-zone-1985-1x-01-shatterday",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Ironside Season 5",
-       "logo": "https://archive.org/services/img/ironside-S05",
-       "url": "https://archive.org/details/ironside-S05",
-       "date": null,
-       "plot": "Complete series 5 of Ironside",
-       "page": "https://archive.org/details/ironside-S05",
-       "id": "ironside-S05",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bonanza - Badge Without Honor",
        "logo": "https://archive.org/services/img/Bonanza_-_Badge_Without_Honor",
        "url": "https://archive.org/details/Bonanza_-_Badge_Without_Honor",
@@ -7200,13 +7189,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Hill street blues Season 5",
-       "logo": "https://archive.org/services/img/hill.street.blues.s-05",
-       "url": "https://archive.org/details/hill.street.blues.s-05",
+       "name": "Ironside Season 5",
+       "logo": "https://archive.org/services/img/ironside-S05",
+       "url": "https://archive.org/details/ironside-S05",
        "date": null,
-       "plot": "The Complete Season 5",
-       "page": "https://archive.org/details/hill.street.blues.s-05",
-       "id": "hill.street.blues.s-05",
+       "plot": "Complete series 5 of Ironside",
+       "page": "https://archive.org/details/ironside-S05",
+       "id": "ironside-S05",
        "duration": null,
        "resolve": "archive"
       },
@@ -7222,13 +7211,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Hill street blues season 4",
-       "logo": "https://archive.org/services/img/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
-       "url": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "name": "Hill street blues Season 5",
+       "logo": "https://archive.org/services/img/hill.street.blues.s-05",
+       "url": "https://archive.org/details/hill.street.blues.s-05",
        "date": null,
-       "plot": "The complete Season 4",
-       "page": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
-       "id": "hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "plot": "The Complete Season 5",
+       "page": "https://archive.org/details/hill.street.blues.s-05",
+       "id": "hill.street.blues.s-05",
        "duration": null,
        "resolve": "archive"
       },
@@ -7266,6 +7255,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Hill street blues season 4",
+       "logo": "https://archive.org/services/img/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "url": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "date": null,
+       "plot": "The complete Season 4",
+       "page": "https://archive.org/details/hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "id": "hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Adventures Of Ozzie And Harriet Season One",
        "logo": "https://archive.org/services/img/the-adventures-of-ozzie-and-harriet-season-one",
        "url": "https://archive.org/details/the-adventures-of-ozzie-and-harriet-season-one",
@@ -7299,6 +7299,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Twilight Zone – Complete Season 3 (37 episodes) (restored, colorized) (1961, TV series)",
+       "logo": "https://archive.org/services/img/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "url": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "date": null,
+       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
+       "page": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "id": "the-twilight-zone-s-3e-1-colorized-720p-hd",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Super Girl 1979 (English Subtitles)",
        "logo": "https://archive.org/services/img/47_20230622",
        "url": "https://archive.org/details/47_20230622",
@@ -7317,17 +7328,6 @@
        "plot": "Car Commericals 1958-1960",
        "page": "https://archive.org/details/Car_Commericals_1956-1960page2",
        "id": "Car_Commericals_1956-1960page2",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Twilight Zone – Complete Season 3 (37 episodes) (restored, colorized) (1961, TV series)",
-       "logo": "https://archive.org/services/img/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "url": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "date": null,
-       "plot": "The Twilight Zone is an American media franchise based on the anthology television series created by Rod Serling in which characters find themselves dealing with often disturbing or unusual events, an experience described as entering \"the Twilight Zone\". The episodes are in various genres, including fantasy, science fiction, absurdism, dystopian fiction, suspense, horror, supernatural drama, black comedy, and psychological thriller, frequently concluding with a macabre or unexpected twist, and usually with a moral. A popular and critical success, it introduced many Americans to common science ",
-       "page": "https://archive.org/details/the-twilight-zone-s-3e-1-colorized-720p-hd",
-       "id": "the-twilight-zone-s-3e-1-colorized-720p-hd",
        "duration": null,
        "resolve": "archive"
       },
@@ -7453,17 +7453,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Dragnet: The Big Children",
-       "logo": "https://archive.org/services/img/DragnetTheBigChildren",
-       "url": "https://archive.org/details/DragnetTheBigChildren",
-       "date": null,
-       "plot": "Joe Friday and Frank Smith investigate a case of child neglect in one of LA's wealthiest neighborhoods. Season 3, Episode 24 Original Air Date: February 11, 1954",
-       "page": "https://archive.org/details/DragnetTheBigChildren",
-       "id": "DragnetTheBigChildren",
-       "duration": "26:11",
-       "resolve": "archive"
-      },
-      {
        "name": "RED NIGHTMARE 1962",
        "logo": "https://archive.org/services/img/RedMenace",
        "url": "https://archive.org/details/RedMenace",
@@ -7472,6 +7461,17 @@
        "page": "https://archive.org/details/RedMenace",
        "id": "RedMenace",
        "duration": "28:43",
+       "resolve": "archive"
+      },
+      {
+       "name": "Dragnet: The Big Children",
+       "logo": "https://archive.org/services/img/DragnetTheBigChildren",
+       "url": "https://archive.org/details/DragnetTheBigChildren",
+       "date": null,
+       "plot": "Joe Friday and Frank Smith investigate a case of child neglect in one of LA's wealthiest neighborhoods. Season 3, Episode 24 Original Air Date: February 11, 1954",
+       "page": "https://archive.org/details/DragnetTheBigChildren",
+       "id": "DragnetTheBigChildren",
+       "duration": "26:11",
        "resolve": "archive"
       },
       {
@@ -7673,6 +7673,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Golden Palace",
+       "logo": "https://archive.org/services/img/the-golden-palace",
+       "url": "https://archive.org/details/the-golden-palace",
+       "date": null,
+       "plot": "The Golden Palace is an American sitcom television series produced as a sequel to The Golden Girls without Bea Arthur, that originally aired on CBS from September 1992 to May 1993. Not as popular as its predecessor, the series aired for a single 24-episode season and was cancelled by CBS. The Golden Palace begins where The Golden Girls had ended, in the quartet's now-sold Miami house. With Dorothy Zbornak having married and left in the previous series finale, the three remaining roommates (Sophia Petrillo, Rose Nylund, and Blanche Devereaux) decide to invest in a Miami hotel that is up for sal",
+       "page": "https://archive.org/details/the-golden-palace",
+       "id": "the-golden-palace",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Great Feud",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep12_The_Great_Feud",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep12_The_Great_Feud",
@@ -7736,17 +7747,6 @@
        "page": "https://archive.org/details/DeathValleyDays-DearTeacher",
        "id": "DeathValleyDays-DearTeacher",
        "duration": "26:02",
-       "resolve": "archive"
-      },
-      {
-       "name": "The Golden Palace",
-       "logo": "https://archive.org/services/img/the-golden-palace",
-       "url": "https://archive.org/details/the-golden-palace",
-       "date": null,
-       "plot": "The Golden Palace is an American sitcom television series produced as a sequel to The Golden Girls without Bea Arthur, that originally aired on CBS from September 1992 to May 1993. Not as popular as its predecessor, the series aired for a single 24-episode season and was cancelled by CBS. The Golden Palace begins where The Golden Girls had ended, in the quartet's now-sold Miami house. With Dorothy Zbornak having married and left in the previous series finale, the three remaining roommates (Sophia Petrillo, Rose Nylund, and Blanche Devereaux) decide to invest in a Miami hotel that is up for sal",
-       "page": "https://archive.org/details/the-golden-palace",
-       "id": "the-golden-palace",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -8190,6 +8190,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Galactica 1980",
+       "logo": "https://archive.org/services/img/s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "url": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "date": null,
+       "plot": "Galactica 1980 is an American science fiction television series and a spin-off from the original Battlestar Galactica television series. It was first broadcast on ABC in the United States from January 27 to May 4, 1980, lasting for 10 episodes. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use",
+       "page": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "id": "s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "\"I've Got a Secret\" - Episode with Lucille Ball & Desi Arnaz (Classic TV)",
        "logo": "https://archive.org/services/img/Game_Show_Lucille_Ball",
        "url": "https://archive.org/details/Game_Show_Lucille_Ball",
@@ -8223,13 +8234,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Galactica 1980",
-       "logo": "https://archive.org/services/img/s-02-e-07-e-08-tha-night-the-cylons-landed",
-       "url": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "name": "Tales From The Darkside S01 (1983-1985) [EN]",
+       "logo": "https://archive.org/services/img/tales-from-the-darkside-s01-en",
+       "url": "https://archive.org/details/tales-from-the-darkside-s01-en",
        "date": null,
-       "plot": "Galactica 1980 is an American science fiction television series and a spin-off from the original Battlestar Galactica television series. It was first broadcast on ABC in the United States from January 27 to May 4, 1980, lasting for 10 episodes. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use",
-       "page": "https://archive.org/details/s-02-e-07-e-08-tha-night-the-cylons-landed",
-       "id": "s-02-e-07-e-08-tha-night-the-cylons-landed",
+       "plot": "Tales from the Darkside - S01E00 - Trick or Treat (Pilot) [EN] Tales from the Darkside - S01E01 - The New Man [EN] Tales from the Darkside - S01E02 - I'll Give You a Million [EN] Tales from the Darkside - S01E03 - Pain Killer [EN] Tales from the Darkside - S01E04 - The Odds [EN] Tales from the Darkside - S01E05 - Mookie and Pookie [EN] Tales from the Darkside - S01E06 - Slippage [EN] Tales from the Darkside - S01E07 - Inside the Closet [EN] Tales from the Darkside - S01E08 - The Word Processor of the Gods [EN] Tales from the Darkside - S01E09 - A Case of the Stubborns [EN] Tales from the Darks",
+       "page": "https://archive.org/details/tales-from-the-darkside-s01-en",
+       "id": "tales-from-the-darkside-s01-en",
        "duration": null,
        "resolve": "archive"
       },
@@ -8340,17 +8351,6 @@
        "plot": "The Adventures Of Robin Hood ep 02 The Moneylender",
        "page": "https://archive.org/details/Robin_Hood_02_The_Moneylender",
        "id": "Robin_Hood_02_The_Moneylender",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Tales From The Darkside S01 (1983-1985) [EN]",
-       "logo": "https://archive.org/services/img/tales-from-the-darkside-s01-en",
-       "url": "https://archive.org/details/tales-from-the-darkside-s01-en",
-       "date": null,
-       "plot": "Tales from the Darkside - S01E00 - Trick or Treat (Pilot) [EN] Tales from the Darkside - S01E01 - The New Man [EN] Tales from the Darkside - S01E02 - I'll Give You a Million [EN] Tales from the Darkside - S01E03 - Pain Killer [EN] Tales from the Darkside - S01E04 - The Odds [EN] Tales from the Darkside - S01E05 - Mookie and Pookie [EN] Tales from the Darkside - S01E06 - Slippage [EN] Tales from the Darkside - S01E07 - Inside the Closet [EN] Tales from the Darkside - S01E08 - The Word Processor of the Gods [EN] Tales from the Darkside - S01E09 - A Case of the Stubborns [EN] Tales from the Darks",
-       "page": "https://archive.org/details/tales-from-the-darkside-s01-en",
-       "id": "tales-from-the-darkside-s01-en",
        "duration": null,
        "resolve": "archive"
       },
@@ -8872,6 +8872,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Alien Nation (1989) Complete Series",
+       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "date": null,
+       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
+       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Girl From Home",
        "logo": "https://archive.org/services/img/Beverly_Hillbillies_Ep53_The_Girl_From_Home",
        "url": "https://archive.org/details/Beverly_Hillbillies_Ep53_The_Girl_From_Home",
@@ -8883,13 +8894,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Alien Nation (1989) Complete Series",
-       "logo": "https://archive.org/services/img/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "url": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "name": "I LOVE LUCY DISK 1",
+       "logo": "https://archive.org/services/img/vts-01-1_20220124_0030",
+       "url": "https://archive.org/details/vts-01-1_20220124_0030",
        "date": null,
-       "plot": "Alien Nation is a science fiction police procedural television series in the Alien Nation franchise. Adapted from the 1988 Alien Nation movie, it stars Gary Graham as Detective Matthew Sikes, a Los Angeles police officer reluctantly working with \"Newcomer\" alien Sam \"George\" Francisco, played by Eric Pierpoint . Sikes also has an on again-off again flirtation with a female Newcomer, Cathy Frankel, played by Terri Treas . TV Guide included the series in their 2013 list of 60 shows that were \"Cancelled Too Soon\". DVD's for the series and movies are currently out of print. File info: 1440x1080 HE",
-       "page": "https://archive.org/details/alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
-       "id": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+       "plot": "HERE IS DISK 1 OF I LOVE LUCY",
+       "page": "https://archive.org/details/vts-01-1_20220124_0030",
+       "id": "vts-01-1_20220124_0030",
        "duration": null,
        "resolve": "archive"
       },
@@ -9037,6 +9048,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Vampira Show - rare 1954 television clips",
+       "logo": "https://archive.org/services/img/TheVampiraShow-Rare1954TelevisionClips",
+       "url": "https://archive.org/details/TheVampiraShow-Rare1954TelevisionClips",
+       "date": null,
+       "plot": "As the ghoulish and campy Vampira, pin-up model Maila Nurmi was television's first horror hostess in 1954-55. No film of her shows exist except for a rare promotional kinescope re-creating her famous entrance and some of her macabre comedy segments. Here are two brief bits also seen in the 2006 documentary \"Vampira: The Movie\". In the second bit there is a slight glitch during her punchline: 'Everyone knows electricity is for chairs.\" She went on to do small roles in a few B pictures including Ed Wood's notorious schlock classic \"Plan 9 from Outer Space\".",
+       "page": "https://archive.org/details/TheVampiraShow-Rare1954TelevisionClips",
+       "id": "TheVampiraShow-Rare1954TelevisionClips",
+       "duration": "1:03",
+       "resolve": "archive"
+      },
+      {
        "name": "Dangerous Assignment - The Key Story",
        "logo": "https://archive.org/services/img/DangerousAssignment-TheKeyStory",
        "url": "https://archive.org/details/DangerousAssignment-TheKeyStory",
@@ -9045,17 +9067,6 @@
        "page": "https://archive.org/details/DangerousAssignment-TheKeyStory",
        "id": "DangerousAssignment-TheKeyStory",
        "duration": "25:54",
-       "resolve": "archive"
-      },
-      {
-       "name": "I LOVE LUCY DISK 1",
-       "logo": "https://archive.org/services/img/vts-01-1_20220124_0030",
-       "url": "https://archive.org/details/vts-01-1_20220124_0030",
-       "date": null,
-       "plot": "HERE IS DISK 1 OF I LOVE LUCY",
-       "page": "https://archive.org/details/vts-01-1_20220124_0030",
-       "id": "vts-01-1_20220124_0030",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -9089,17 +9100,6 @@
        "page": "https://archive.org/details/gene_autry_show_-_1x07_-_blackwater_valley_feud",
        "id": "gene_autry_show_-_1x07_-_blackwater_valley_feud",
        "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Vampira Show - rare 1954 television clips",
-       "logo": "https://archive.org/services/img/TheVampiraShow-Rare1954TelevisionClips",
-       "url": "https://archive.org/details/TheVampiraShow-Rare1954TelevisionClips",
-       "date": null,
-       "plot": "As the ghoulish and campy Vampira, pin-up model Maila Nurmi was television's first horror hostess in 1954-55. No film of her shows exist except for a rare promotional kinescope re-creating her famous entrance and some of her macabre comedy segments. Here are two brief bits also seen in the 2006 documentary \"Vampira: The Movie\". In the second bit there is a slight glitch during her punchline: 'Everyone knows electricity is for chairs.\" She went on to do small roles in a few B pictures including Ed Wood's notorious schlock classic \"Plan 9 from Outer Space\".",
-       "page": "https://archive.org/details/TheVampiraShow-Rare1954TelevisionClips",
-       "id": "TheVampiraShow-Rare1954TelevisionClips",
-       "duration": "1:03",
        "resolve": "archive"
       },
       {
@@ -9422,6 +9422,17 @@
        "resolve": "archive"
       },
       {
+       "name": "DANGER UXB (1979) (Full Series)",
+       "logo": "https://archive.org/services/img/danger-uxb-1979",
+       "url": "https://archive.org/details/danger-uxb-1979",
+       "date": null,
+       "plot": "The series chronicles the exploits of the fictional Royal Engineer Tunnelling Company 97, which has been made a bomb disposal unit to deal with the thousands of unexploded bombs (\"UXBs\") in London during the Battle of Britain.",
+       "page": "https://archive.org/details/danger-uxb-1979",
+       "id": "danger-uxb-1979",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Bob Judges A Beauty Contest",
        "logo": "https://archive.org/services/img/Love_That_Bob-5x12_Bob_Judges_A_Beauty_Contest",
        "url": "https://archive.org/details/Love_That_Bob-5x12_Bob_Judges_A_Beauty_Contest",
@@ -9730,17 +9741,6 @@
        "resolve": "archive"
       },
       {
-       "name": "DANGER UXB (1979) (Full Series)",
-       "logo": "https://archive.org/services/img/danger-uxb-1979",
-       "url": "https://archive.org/details/danger-uxb-1979",
-       "date": null,
-       "plot": "The series chronicles the exploits of the fictional Royal Engineer Tunnelling Company 97, which has been made a bomb disposal unit to deal with the thousands of unexploded bombs (\"UXBs\") in London during the Battle of Britain.",
-       "page": "https://archive.org/details/danger-uxb-1979",
-       "id": "danger-uxb-1979",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Decoy: The Pilot Episode",
        "logo": "https://archive.org/services/img/DecoyThePilotEpisode",
        "url": "https://archive.org/details/DecoyThePilotEpisode",
@@ -9983,6 +9983,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Room 222 (1969) - Complete Season 1",
+       "logo": "https://archive.org/services/img/Room-222-Season-1",
+       "url": "https://archive.org/details/Room-222-Season-1",
+       "date": null,
+       "plot": "All 26 episodes of the 1969 TV show Room 222. This show ran for 5 seasons in total, through 1974.",
+       "page": "https://archive.org/details/Room-222-Season-1",
+       "id": "Room-222-Season-1",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "ONLY WHEN I LAUGH (1979-82) (Full Series)",
        "logo": "https://archive.org/services/img/only-when-i-laugh-1979-82",
        "url": "https://archive.org/details/only-when-i-laugh-1979-82",
@@ -10126,17 +10137,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Room 222 (1969) - Complete Season 1",
-       "logo": "https://archive.org/services/img/Room-222-Season-1",
-       "url": "https://archive.org/details/Room-222-Season-1",
-       "date": null,
-       "plot": "All 26 episodes of the 1969 TV show Room 222. This show ran for 5 seasons in total, through 1974.",
-       "page": "https://archive.org/details/Room-222-Season-1",
-       "id": "Room-222-Season-1",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Lock Up: The Case of Joe Slade",
        "logo": "https://archive.org/services/img/LockUpTheCaseOfJoeSlade",
        "url": "https://archive.org/details/LockUpTheCaseOfJoeSlade",
@@ -10145,6 +10145,17 @@
        "page": "https://archive.org/details/LockUpTheCaseOfJoeSlade",
        "id": "LockUpTheCaseOfJoeSlade",
        "duration": "25:57",
+       "resolve": "archive"
+      },
+      {
+       "name": "2 Stupid Dogs - Complete Season 1",
+       "logo": "https://archive.org/services/img/2-stupid-dogs-season-1",
+       "url": "https://archive.org/details/2-stupid-dogs-season-1",
+       "date": null,
+       "plot": "All 13 episodes of 2 Stupid Dogs from 1993. This is a show that aired in short segments on Cartoon Network/Boomerang and featured the voice of Brad Garrett. I'm still searching for a complete season 2. So far I'm missing about half of the episodes.",
+       "page": "https://archive.org/details/2-stupid-dogs-season-1",
+       "id": "2-stupid-dogs-season-1",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10221,17 +10232,6 @@
        "plot": "Love That Bob Ep 5x10 Bob Butters Beck, Beck Butters Better",
        "page": "https://archive.org/details/Love_That_Bob-5x10-Bob_Butters_Beck_Beck_Butters_Better",
        "id": "Love_That_Bob-5x10-Bob_Butters_Beck_Beck_Butters_Better",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "2 Stupid Dogs - Complete Season 1",
-       "logo": "https://archive.org/services/img/2-stupid-dogs-season-1",
-       "url": "https://archive.org/details/2-stupid-dogs-season-1",
-       "date": null,
-       "plot": "All 13 episodes of 2 Stupid Dogs from 1993. This is a show that aired in short segments on Cartoon Network/Boomerang and featured the voice of Brad Garrett. I'm still searching for a complete season 2. So far I'm missing about half of the episodes.",
-       "page": "https://archive.org/details/2-stupid-dogs-season-1",
-       "id": "2-stupid-dogs-season-1",
        "duration": null,
        "resolve": "archive"
       },
@@ -10489,17 +10489,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Knight Rider S01 E01 & E02 Knight of the Phoenix: Part 1 & 2",
-       "logo": "https://archive.org/services/img/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "url": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "date": null,
-       "plot": "E01: A detective, believed to have been killed, is given a new face and identity and is armed with an artificially intelligent super car. E02: Michael Knight seeks justice and revenge as he goes after the clever industrial saboteurs who murdered his partner.",
-       "page": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "id": "knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Honest Man",
        "logo": "https://archive.org/services/img/GE_Theater_The_Honest_Man",
        "url": "https://archive.org/details/GE_Theater_The_Honest_Man",
@@ -10577,6 +10566,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Moonlighting S01",
+       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
+       "url": "https://archive.org/details/moonlighting-season-1-e-01",
+       "date": null,
+       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
+       "page": "https://archive.org/details/moonlighting-season-1-e-01",
+       "id": "moonlighting-season-1-e-01",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Brothers",
        "logo": "https://archive.org/services/img/Robin_Hood_17_The_Brothers",
        "url": "https://archive.org/details/Robin_Hood_17_The_Brothers",
@@ -10584,6 +10584,17 @@
        "plot": "The Adventures of Robin Hood ep 17 The Brothers",
        "page": "https://archive.org/details/Robin_Hood_17_The_Brothers",
        "id": "Robin_Hood_17_The_Brothers",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Knight Rider S01 E01 & E02 Knight of the Phoenix: Part 1 & 2",
+       "logo": "https://archive.org/services/img/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
+       "url": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
+       "date": null,
+       "plot": "E01: A detective, believed to have been killed, is given a new face and identity and is armed with an artificially intelligent super car. E02: Michael Knight seeks justice and revenge as he goes after the clever industrial saboteurs who murdered his partner.",
+       "page": "https://archive.org/details/knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
+       "id": "knight.-rider.-s-01-e-01-e-02.-blu-ray.-1080p.-ac-3.-h-265-d-3g",
        "duration": null,
        "resolve": "archive"
       },
@@ -10661,17 +10672,6 @@
        "plot": "The Adventures of Robin Hood ep 18 The Intruders",
        "page": "https://archive.org/details/Robin_Hood_18_The_Intruders",
        "id": "Robin_Hood_18_The_Intruders",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Moonlighting S01",
-       "logo": "https://archive.org/services/img/moonlighting-season-1-e-01",
-       "url": "https://archive.org/details/moonlighting-season-1-e-01",
-       "date": null,
-       "plot": "One of my fave drama in 80's era, dont know if they will remake this",
-       "page": "https://archive.org/details/moonlighting-season-1-e-01",
-       "id": "moonlighting-season-1-e-01",
        "duration": null,
        "resolve": "archive"
       },
@@ -10852,6 +10852,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Captain N: The Game Master - Season 2 - MKV",
+       "logo": "https://archive.org/services/img/captain-n-the-game-master-season-2-mkv",
+       "url": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
+       "date": null,
+       "plot": "Captain N: The Game Master - Season 2 - MKV Captain N: The Game Master is an American–Canadian animated television series that aired on television from 1989 to 1991 as part of the Saturday morning cartoon lineup on NBC. The show was produced by DIC Animation City and incorporated elements from many of the most popular video games of the time from the Japanese company Nintendo. There was also a comic book version by Valiant Comics, despite only featuring characters from games produced by Nintendo. The show is also part of an hour-long block in Season 2 with The Adventures of Super Mario Bros. 3",
+       "page": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
+       "id": "captain-n-the-game-master-season-2-mkv",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Mickey Rooney Show Misc 17",
        "logo": "https://archive.org/services/img/The_Mickey_Rooney_Show_Misc_ep_17",
        "url": "https://archive.org/details/The_Mickey_Rooney_Show_Misc_ep_17",
@@ -10893,17 +10904,6 @@
        "page": "https://archive.org/details/DickTracyAndFlatTop",
        "id": "DickTracyAndFlatTop",
        "duration": "24:04",
-       "resolve": "archive"
-      },
-      {
-       "name": "Captain N: The Game Master - Season 2 - MKV",
-       "logo": "https://archive.org/services/img/captain-n-the-game-master-season-2-mkv",
-       "url": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
-       "date": null,
-       "plot": "Captain N: The Game Master - Season 2 - MKV Captain N: The Game Master is an American–Canadian animated television series that aired on television from 1989 to 1991 as part of the Saturday morning cartoon lineup on NBC. The show was produced by DIC Animation City and incorporated elements from many of the most popular video games of the time from the Japanese company Nintendo. There was also a comic book version by Valiant Comics, despite only featuring characters from games produced by Nintendo. The show is also part of an hour-long block in Season 2 with The Adventures of Super Mario Bros. 3",
-       "page": "https://archive.org/details/captain-n-the-game-master-season-2-mkv",
-       "id": "captain-n-the-game-master-season-2-mkv",
-       "duration": null,
        "resolve": "archive"
       },
       {
