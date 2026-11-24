@@ -6,11 +6,61 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-22 21:28",
+   "updated": "2026-11-24 02:47",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "תושבי הגולן שמתריעים: 7.10 הבא עלול לקרות אצלנו | התרעה מקדימה - פרק 2",
+       "logo": "https://www.kan.org.il/media/kbvngdxv/סוריה-לאתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268254/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "סוריה בעידן שאחרי אסד היא כבר לא אותה המדינה שהכרנו. בישראל עקבו בדאגה בשנים האחרונות אחר מלחמת האזרחים שבה נהרגו מאות אלפים, וגם תושבי הגולן הסמוכים לגבול מבינים שהאיום הנשקף מחלונם - השתנה לתמיד. והם מתריעים: אם לא נהיה מוכנים אליו מעכשיו - 7 באוקטובר הבא עלול לקרות אצלנו. ״התרעה מקדימה״, פרויקט המיוחד",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1122595/",
+       "id": "1122595",
+       "season": 2
+      },
+      {
+       "name": "עשר שנים ומאות פרקים: הסודות מאחורי הפודקאסט שמספר את הפסקול הישראלי",
+       "logo": "https://www.kan.org.il/media/vc4pkrlu/6לאתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268258/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "שיר אחד, ההסכת המצליח של כאן, מציין עשור. עם מאות פרקים באודיו ובטלוויזיה, וגם לא מעט מעריצים, חזרנו למקום שבו הכול התחיל. הסיפורים מאחורי השירים שמעולם לא סופרו, התגליות שגילו בפודקאסט, ואת מי היוצרים עדיין חולמים לראיין?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1122594/",
+       "id": "1122594",
+       "season": 2
+      },
+      {
+       "name": "אש בעיניים:  המכינה המיוחדת לנשים שחולמות להיות לוחמות אש",
+       "logo": "https://www.kan.org.il/media/lrsbewft/5אתרר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268250/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "האם בקרוב נראה הרבה יותר לוחמות אש? כיום יש עשרים ושבע לוחמות בלבד, אבל המקצוע שנמצא בשליטה גברית עובר בימים אלו שינוי, עם מכינה חדשה - לנשים בלבד. כתבנו ליווה את בנות המכינה המורעלות בדרך להגשמת החלום - ושבירת הסטטיסטיקה",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1122583/",
+       "id": "1122583",
+       "season": 2
+      },
+      {
+       "name": "אסור להשתמש בשירים בטיקטוק? התביעה שמערערת את הרשתות החברתיות",
+       "logo": "https://www.kan.org.il/media/hoafmp3x/כתבה-5-אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268248/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "תביעה בעקבות שימוש בשיר של הזמרת אודיה נגד יוצרת תוכן עוררה את השאלה מהם הגבולות של שימוש ביצירות ברשתות החברתיות? האם כל מוזיקה ויראלית מותרת לשימוש בפלטפורמות שהפכו אותה לכזאת?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1122580/",
+       "id": "1122580",
+       "season": 2
+      },
+      {
+       "name": "רק לעשירים מותר להזדקן? הדיור המוגן יקר והמשבר במוסדות הסיעודיים מעמיק",
+       "logo": "https://www.kan.org.il/media/0dklhyjr/4אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268244/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "בתוך כעשור - אוכלוסיית בני ה-75 בישראל צפויה להכפיל את עצמה. תוחלת החיים מתארכת - אבל עם אריכות החיים לא בהכרח מגיעות גם איכות החיים ובריאות. הצורך בשירותים כמו סיעוד רק ילך ויגדל, אך התחום נמצא במצוקה ואת המחיר - ישלמו כמובן הקשישים. לעומת הגרעונות בבתי האבות הסיעודיים - בולטת פריחת הדיור המוגן. עוד ועוד בתים נפתחים, ומציעים למי שיכול להרשות לעצמו - מעטפת שירותים יוקרתית. האם כדי להזדקן בכבוד בישראל - חייבים להיות עשירים?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1122572/",
+       "id": "1122572",
+       "season": 2
+      },
       {
        "name": "\"עניין של זמן\": האם ישראל נערכת לפלישה נוספת נוסח 7.10? | התרעה מקדימה",
        "logo": "https://www.kan.org.il/media/2rzbm52m/רשבץ-יוטיוב-2.png",

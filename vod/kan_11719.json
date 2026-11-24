@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11719/",
    "series_id": "11719",
-   "updated": "2026-11-22 21:21",
+   "updated": "2026-11-24 02:40",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "העולם היום | 23.11.2026",
+       "logo": "https://www.kan.org.il/media/wv1j01l2/העולם-היום.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268211/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "יומן חדשות החוץ שלוקח אתכם למסע יומי חוצה יבשות. סיקור האירועים, ניתוח, ודיווחים מיוחדים מכל נקודות ההתרחשות המרכזיות מעבר לים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1122520/",
+       "id": "1122520"
+      },
       {
        "name": "העולם היום | 22.11.26",
        "logo": "https://www.kan.org.il/media/qb5m1tip/העולחם_אתר.jpg",

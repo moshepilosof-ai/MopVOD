@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/",
    "series_id": "1080424",
-   "updated": "2026-11-22 21:24",
+   "updated": "2026-11-24 02:43",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "כאן חדשות+ | 23.11.2026",
+       "logo": "https://www.kan.org.il/media/tkddfctx/כאן-חדשות-plus.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268220/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "הסיפורים המרכזיים מתוך פלטפורמות הדיגיטל של כאן, לצד הצצה ראשונה לסיפורים, הכותרות והתחקירים שצפויים במהדורה המרכזית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1122528/",
+       "id": "1122528"
+      },
       {
        "name": "כאן חדשות+ | 22.11.26",
        "logo": "https://www.kan.org.il/media/sjsiylnc/plusאתר.jpg",

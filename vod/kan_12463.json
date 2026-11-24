@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-22 21:26",
+   "updated": "2026-11-24 02:45",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זוהר | 23.11.2026",
+       "logo": "https://www.kan.org.il/media/q41pl5z4/גיאזואתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2263583/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-23",
+       "plot": "כאן 11 | בערוץ 14 חושדים שצה\"ל מצמצם ימי מילואים כדי להרים לממשלה הבאה. רגע, כמה ימים הבטיחה ממשלת נתניהו? וכמה עושים בפועל? | לעמיחי שיקלי יש \"קו שחור בוהק\" נגד פרסום התכתבויות אישיות. חוץ מהתכתבויות שהוא מפרסם | לינוי בר גפן מתפעלת מהבסטיז טראמפ ופוטין, אבל רק שאלה: אם הנשיא לא יכול לדבר בשם אמריקה, מי כן? | גלגולו של דיווח: הגנרל האיראני הנעלם חוזר לכותרות עם גרסה חדשה, ועם מילת המפתח \"כנראה\"",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1117425/",
+       "id": "1117425",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זוהר | 22.11.26",
        "logo": "https://www.kan.org.il/media/0s1p5grt/גיאזואתר.jpg",
