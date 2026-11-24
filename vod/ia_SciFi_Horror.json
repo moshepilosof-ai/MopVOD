@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-23 10:17",
+   "updated": "2026-11-24 11:59",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -1901,17 +1901,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Time Walker 1982",
-       "logo": "https://archive.org/services/img/time-walker_202502",
-       "url": "https://archive.org/details/time-walker_202502",
-       "date": "1982-01-01",
-       "plot": "An ancient mummified being unearthed at King Tutankhaman's tomb runs amok when a university professor exposes it to radiation.",
-       "page": "https://archive.org/details/time-walker_202502",
-       "id": "time-walker_202502",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Incubus 1982",
        "logo": "https://archive.org/services/img/the-incubus-1981_202412",
        "url": "https://archive.org/details/the-incubus-1981_202412",
@@ -1919,6 +1908,17 @@
        "plot": "A small town's doctor takes matters into his own hands after a series of gruesome and bizarre rape crimes perplex the clueless authorities.",
        "page": "https://archive.org/details/the-incubus-1981_202412",
        "id": "the-incubus-1981_202412",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Time Walker 1982",
+       "logo": "https://archive.org/services/img/time-walker_202502",
+       "url": "https://archive.org/details/time-walker_202502",
+       "date": "1982-01-01",
+       "plot": "An ancient mummified being unearthed at King Tutankhaman's tomb runs amok when a university professor exposes it to radiation.",
+       "page": "https://archive.org/details/time-walker_202502",
+       "id": "time-walker_202502",
        "duration": null,
        "resolve": "archive"
       },
@@ -2445,17 +2445,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Satan's Cheerleaders 1977",
-       "logo": "https://archive.org/services/img/satans-cheerleaders-1977_202406",
-       "url": "https://archive.org/details/satans-cheerleaders-1977_202406",
-       "date": "1977-01-01",
-       "plot": "To prove his dedication to a cult, a high school janitor makes plans to sacrifice a busload of cheerleaders to the devil without knowing one of them is actually a witch!",
-       "page": "https://archive.org/details/satans-cheerleaders-1977_202406",
-       "id": "satans-cheerleaders-1977_202406",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Cathy's Curse",
        "logo": "https://archive.org/services/img/CathysCurse767",
        "url": "https://archive.org/details/CathysCurse767",
@@ -2464,6 +2453,17 @@
        "page": "https://archive.org/details/CathysCurse767",
        "id": "CathysCurse767",
        "duration": "1:21:29",
+       "resolve": "archive"
+      },
+      {
+       "name": "Satan's Cheerleaders 1977",
+       "logo": "https://archive.org/services/img/satans-cheerleaders-1977_202406",
+       "url": "https://archive.org/details/satans-cheerleaders-1977_202406",
+       "date": "1977-01-01",
+       "plot": "To prove his dedication to a cult, a high school janitor makes plans to sacrifice a busload of cheerleaders to the devil without knowing one of them is actually a witch!",
+       "page": "https://archive.org/details/satans-cheerleaders-1977_202406",
+       "id": "satans-cheerleaders-1977_202406",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -2841,17 +2841,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Beast Must Die 1974",
-       "logo": "https://archive.org/services/img/the-beast-must-die-1974_202412",
-       "url": "https://archive.org/details/the-beast-must-die-1974_202412",
-       "date": "1974-01-01",
-       "plot": "A millionaire big game hunter who gathers six people at his remote English mansion, announcing that he suspects one of them is a werewolf.",
-       "page": "https://archive.org/details/the-beast-must-die-1974_202412",
-       "id": "the-beast-must-die-1974_202412",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The House On Skull Mountain 1974",
        "logo": "https://archive.org/services/img/the-house-on-skull-mountain-1974",
        "url": "https://archive.org/details/the-house-on-skull-mountain-1974",
@@ -2859,6 +2848,17 @@
        "plot": "Murders occur at the southern estate of a voodoo priestess when four relatives gather to hear her will.",
        "page": "https://archive.org/details/the-house-on-skull-mountain-1974",
        "id": "the-house-on-skull-mountain-1974",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Beast Must Die 1974",
+       "logo": "https://archive.org/services/img/the-beast-must-die-1974_202412",
+       "url": "https://archive.org/details/the-beast-must-die-1974_202412",
+       "date": "1974-01-01",
+       "plot": "A millionaire big game hunter who gathers six people at his remote English mansion, announcing that he suspects one of them is a werewolf.",
+       "page": "https://archive.org/details/the-beast-must-die-1974_202412",
+       "id": "the-beast-must-die-1974_202412",
        "duration": null,
        "resolve": "archive"
       },
@@ -3105,6 +3105,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Young Hannah, Queen Of The Vampires 1973",
+       "logo": "https://archive.org/services/img/young-hannah-queen-of-the-vampires-1973",
+       "url": "https://archive.org/details/young-hannah-queen-of-the-vampires-1973",
+       "date": "1973-01-01",
+       "plot": "A man investigating the death of his archaeologists father discovers an ancient vampire burial ground that the creature is about to awaken and attack a nearby village.",
+       "page": "https://archive.org/details/young-hannah-queen-of-the-vampires-1973",
+       "id": "young-hannah-queen-of-the-vampires-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Legend Of Hell House 1973",
        "logo": "https://archive.org/services/img/the-legend-of-hell-house-1973",
        "url": "https://archive.org/details/the-legend-of-hell-house-1973",
@@ -3127,13 +3138,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Young Hannah, Queen Of The Vampires 1973",
-       "logo": "https://archive.org/services/img/young-hannah-queen-of-the-vampires-1973",
-       "url": "https://archive.org/details/young-hannah-queen-of-the-vampires-1973",
+       "name": "Horror Rises From The Tomb 1973",
+       "logo": "https://archive.org/services/img/horror-rises-from-the-tomb-1973",
+       "url": "https://archive.org/details/horror-rises-from-the-tomb-1973",
        "date": "1973-01-01",
-       "plot": "A man investigating the death of his archaeologists father discovers an ancient vampire burial ground that the creature is about to awaken and attack a nearby village.",
-       "page": "https://archive.org/details/young-hannah-queen-of-the-vampires-1973",
-       "id": "young-hannah-queen-of-the-vampires-1973",
+       "plot": "A warlocks severed head is unearthed centuries after his execution. Reanimated, it seeks to reunite with its body, wreaking havoc as a group encounter its sinister quest.",
+       "page": "https://archive.org/details/horror-rises-from-the-tomb-1973",
+       "id": "horror-rises-from-the-tomb-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -3145,17 +3156,6 @@
        "plot": "When vampire researcher Professor Van Helsing is asked to investigates a series of murders on behalf of Scotland Yard, only to discover a plot by a satanic cult to commit global genocide.",
        "page": "https://archive.org/details/the-satanic-rites-of-dracula-1973",
        "id": "the-satanic-rites-of-dracula-1973",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Horror Rises From The Tomb 1973",
-       "logo": "https://archive.org/services/img/horror-rises-from-the-tomb-1973",
-       "url": "https://archive.org/details/horror-rises-from-the-tomb-1973",
-       "date": "1973-01-01",
-       "plot": "A warlocks severed head is unearthed centuries after his execution. Reanimated, it seeks to reunite with its body, wreaking havoc as a group encounter its sinister quest.",
-       "page": "https://archive.org/details/horror-rises-from-the-tomb-1973",
-       "id": "horror-rises-from-the-tomb-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -3178,6 +3178,17 @@
        "plot": "A psychiatrist tells stories of four disturbing and twisted cases to a colleague.",
        "page": "https://archive.org/details/tales-that-witness-madness-1973",
        "id": "tales-that-witness-madness-1973",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Vengeance Of The Zombies 1973",
+       "logo": "https://archive.org/services/img/vengeance-of-the-zombies-1973",
+       "url": "https://archive.org/details/vengeance-of-the-zombies-1973",
+       "date": "1973-01-01",
+       "plot": "An Indian mystic uses magical chants to raise women from the dead, then sends them out to perform revenge killings for him.",
+       "page": "https://archive.org/details/vengeance-of-the-zombies-1973",
+       "id": "vengeance-of-the-zombies-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -3211,17 +3222,6 @@
        "plot": "The legendary Loreley has been living for centuries in a grotto beneath the river Rhein in Germany. Every night when the moon is full, she turns into a reptile-like creature craving for human blood. When one girl after another of a nearby boarding school is killed by her, a hunter named Sirgurd is engaged to kill the monster.",
        "page": "https://archive.org/details/the-loreleys-grasp-1973_202406",
        "id": "the-loreleys-grasp-1973_202406",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Vengeance Of The Zombies 1973",
-       "logo": "https://archive.org/services/img/vengeance-of-the-zombies-1973",
-       "url": "https://archive.org/details/vengeance-of-the-zombies-1973",
-       "date": "1973-01-01",
-       "plot": "An Indian mystic uses magical chants to raise women from the dead, then sends them out to perform revenge killings for him.",
-       "page": "https://archive.org/details/vengeance-of-the-zombies-1973",
-       "id": "vengeance-of-the-zombies-1973",
        "duration": null,
        "resolve": "archive"
       },
@@ -3358,17 +3358,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Tales from the Crypt (1972)",
-       "logo": "https://archive.org/services/img/tales.-from.-the.-crypt.-1972",
-       "url": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
-       "date": "1972-01-01",
-       "plot": "Tales from the Crypt is a horror anthology film that consists of five interconnected stories based on the EC Comics series of the same name. The film begins with a group of people who find themselves trapped in a mysterious crypt, where they encounter the Crypt Keeper, who narrates their chilling tales. And All Through the House : A woman is about to murder her husband on Christmas Eve but is interrupted by a deranged escaped convict dressed as Santa Claus. As she struggles between covering up her crime and surviving the night, a twist endings leads to a shocking revelation. Reflection of Deat",
-       "page": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
-       "id": "tales.-from.-the.-crypt.-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Horror Express",
        "logo": "https://archive.org/services/img/HorrorExpress",
        "url": "https://archive.org/details/HorrorExpress",
@@ -3377,6 +3366,17 @@
        "page": "https://archive.org/details/HorrorExpress",
        "id": "HorrorExpress",
        "duration": "1:27:05",
+       "resolve": "archive"
+      },
+      {
+       "name": "Tales from the Crypt (1972)",
+       "logo": "https://archive.org/services/img/tales.-from.-the.-crypt.-1972",
+       "url": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
+       "date": "1972-01-01",
+       "plot": "Tales from the Crypt is a horror anthology film that consists of five interconnected stories based on the EC Comics series of the same name. The film begins with a group of people who find themselves trapped in a mysterious crypt, where they encounter the Crypt Keeper, who narrates their chilling tales. And All Through the House : A woman is about to murder her husband on Christmas Eve but is interrupted by a deranged escaped convict dressed as Santa Claus. As she struggles between covering up her crime and surviving the night, a twist endings leads to a shocking revelation. Reflection of Deat",
+       "page": "https://archive.org/details/tales.-from.-the.-crypt.-1972",
+       "id": "tales.-from.-the.-crypt.-1972",
+       "duration": null,
        "resolve": "archive"
       },
       {
@@ -3424,17 +3424,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Case Of The Bloody Iris 1972",
-       "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
-       "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
-       "date": "1972-01-01",
-       "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
-       "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
-       "id": "the-case-of-the-bloody-iris-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Asylum 1972",
        "logo": "https://archive.org/services/img/asylum-1972_202405",
        "url": "https://archive.org/details/asylum-1972_202405",
@@ -3446,13 +3435,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Hands Of The Ripper 1971",
-       "logo": "https://archive.org/services/img/hands-of-the-ripper-1971",
-       "url": "https://archive.org/details/hands-of-the-ripper-1971",
+       "name": "The Case Of The Bloody Iris 1972",
+       "logo": "https://archive.org/services/img/the-case-of-the-bloody-iris-1972",
+       "url": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
        "date": "1972-01-01",
-       "plot": "A psychiatrist tries to cure a young woman, the daughter of Jack The Ripper from committing atrocious crimes as she remembers seeing her father murder her mother.",
-       "page": "https://archive.org/details/hands-of-the-ripper-1971",
-       "id": "hands-of-the-ripper-1971",
+       "plot": "After leaving the clutches of a sex cult behind her, a beautiful model is pursued by a serial killer in her new apartment building.",
+       "page": "https://archive.org/details/the-case-of-the-bloody-iris-1972",
+       "id": "the-case-of-the-bloody-iris-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -3464,6 +3453,17 @@
        "plot": "A blind pianist tries to figure out who is responsible for a string of murders using a black cat with its claws dipped in curare.",
        "page": "https://archive.org/details/crimes-of-the-black-cat-1972",
        "id": "crimes-of-the-black-cat-1972",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Hands Of The Ripper 1971",
+       "logo": "https://archive.org/services/img/hands-of-the-ripper-1971",
+       "url": "https://archive.org/details/hands-of-the-ripper-1971",
+       "date": "1972-01-01",
+       "plot": "A psychiatrist tries to cure a young woman, the daughter of Jack The Ripper from committing atrocious crimes as she remembers seeing her father murder her mother.",
+       "page": "https://archive.org/details/hands-of-the-ripper-1971",
+       "id": "hands-of-the-ripper-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -3512,17 +3512,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Daughters Of Satan 1972",
-       "logo": "https://archive.org/services/img/daughters-of-satan-1972",
-       "url": "https://archive.org/details/daughters-of-satan-1972",
-       "date": "1972-01-01",
-       "plot": "An antiques dealer falls victim to an ancient Satanic curse as a result of his wife joining a cult after learning she resembles a witch from an old painting.",
-       "page": "https://archive.org/details/daughters-of-satan-1972",
-       "id": "daughters-of-satan-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Tower Of Evil 1972",
        "logo": "https://archive.org/services/img/tower-of-evil-1972",
        "url": "https://archive.org/details/tower-of-evil-1972",
@@ -3534,6 +3523,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Daughters Of Satan 1972",
+       "logo": "https://archive.org/services/img/daughters-of-satan-1972",
+       "url": "https://archive.org/details/daughters-of-satan-1972",
+       "date": "1972-01-01",
+       "plot": "An antiques dealer falls victim to an ancient Satanic curse as a result of his wife joining a cult after learning she resembles a witch from an old painting.",
+       "page": "https://archive.org/details/daughters-of-satan-1972",
+       "id": "daughters-of-satan-1972",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Death Line 1972",
        "logo": "https://archive.org/services/img/death-line-1972",
        "url": "https://archive.org/details/death-line-1972",
@@ -3541,17 +3541,6 @@
        "plot": "When a government official disappears in the London underground tunnels, and several reports of missing people in the same location, Scotland Yard start to take the matter seriously, along with a couple who stumble into a victim by accident.",
        "page": "https://archive.org/details/death-line-1972",
        "id": "death-line-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Asphyx 1972",
-       "logo": "https://archive.org/services/img/the-asphyx-1972",
-       "url": "https://archive.org/details/the-asphyx-1972",
-       "date": "1972-01-01",
-       "plot": "A gentleman photographer in Victorian England searches for immortality when he tries to trap the human spirit at the moment of death.",
-       "page": "https://archive.org/details/the-asphyx-1972",
-       "id": "the-asphyx-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -3574,6 +3563,17 @@
        "plot": "A young woman recovering from a nervous breakdown moves with her husband to a boys' school, and finds herself being terrorized by a mysterious one-armed man, but nobody believes her.",
        "page": "https://archive.org/details/fear-in-the-night-1972_202511",
        "id": "fear-in-the-night-1972_202511",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Asphyx 1972",
+       "logo": "https://archive.org/services/img/the-asphyx-1972",
+       "url": "https://archive.org/details/the-asphyx-1972",
+       "date": "1972-01-01",
+       "plot": "A gentleman photographer in Victorian England searches for immortality when he tries to trap the human spirit at the moment of death.",
+       "page": "https://archive.org/details/the-asphyx-1972",
+       "id": "the-asphyx-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -3765,17 +3765,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Devil's Nightmare 1971",
-       "logo": "https://archive.org/services/img/the-devils-nightmare-1971",
-       "url": "https://archive.org/details/the-devils-nightmare-1971",
-       "date": "1971-01-01",
-       "plot": "A group of tourists traveling on a bus take a detour to stay overnight in a castle owned by a family cursed with a history of Satanism and death.",
-       "page": "https://archive.org/details/the-devils-nightmare-1971",
-       "id": "the-devils-nightmare-1971",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Devil's Nightmare, The 1971",
        "logo": "https://archive.org/services/img/devils-nightmare-the-1971",
        "url": "https://archive.org/details/devils-nightmare-the-1971",
@@ -3798,13 +3787,13 @@
        "resolve": "archive"
       },
       {
-       "name": "The Night Evelyn Came Out Of The Grave 1971",
-       "logo": "https://archive.org/services/img/the-night-evelyn-came-out-of-the-grave-1971_202407",
-       "url": "https://archive.org/details/the-night-evelyn-came-out-of-the-grave-1971_202407",
+       "name": "The Devil's Nightmare 1971",
+       "logo": "https://archive.org/services/img/the-devils-nightmare-1971",
+       "url": "https://archive.org/details/the-devils-nightmare-1971",
        "date": "1971-01-01",
-       "plot": "A rich, mentally-unstable man - with a penchant for playing deadly S&M games with women who resemble his dead wife - sparks off a chain of bizarre events after getting remarried.",
-       "page": "https://archive.org/details/the-night-evelyn-came-out-of-the-grave-1971_202407",
-       "id": "the-night-evelyn-came-out-of-the-grave-1971_202407",
+       "plot": "A group of tourists traveling on a bus take a detour to stay overnight in a castle owned by a family cursed with a history of Satanism and death.",
+       "page": "https://archive.org/details/the-devils-nightmare-1971",
+       "id": "the-devils-nightmare-1971",
        "duration": null,
        "resolve": "archive"
       },
@@ -3827,6 +3816,17 @@
        "plot": "Two friends tour the French countryside as they try to uncover the secret of a lost vampire. They take shelter in the castle of a mysterious man who has a secret of his own.",
        "page": "https://archive.org/details/the-werewolf-vs-the-vampire-woman_202407",
        "id": "the-werewolf-vs-the-vampire-woman_202407",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Night Evelyn Came Out Of The Grave 1971",
+       "logo": "https://archive.org/services/img/the-night-evelyn-came-out-of-the-grave-1971_202407",
+       "url": "https://archive.org/details/the-night-evelyn-came-out-of-the-grave-1971_202407",
+       "date": "1971-01-01",
+       "plot": "A rich, mentally-unstable man - with a penchant for playing deadly S&M games with women who resemble his dead wife - sparks off a chain of bizarre events after getting remarried.",
+       "page": "https://archive.org/details/the-night-evelyn-came-out-of-the-grave-1971_202407",
+       "id": "the-night-evelyn-came-out-of-the-grave-1971_202407",
        "duration": null,
        "resolve": "archive"
       },
@@ -4018,17 +4018,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The House That Would Not Die 1970",
-       "logo": "https://archive.org/services/img/the-house-that-would-not-die-1970",
-       "url": "https://archive.org/details/the-house-that-would-not-die-1970",
-       "date": "1970-01-01",
-       "plot": "A woman and her niece, heirs to a large family manor soon discover their new home is a breeding ground for the supernatural.",
-       "page": "https://archive.org/details/the-house-that-would-not-die-1970",
-       "id": "the-house-that-would-not-die-1970",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Scream And Scream Again 1970",
        "logo": "https://archive.org/services/img/scream-and-scream-again-1970_202511",
        "url": "https://archive.org/details/scream-and-scream-again-1970_202511",
@@ -4036,6 +4025,17 @@
        "plot": "A serial killer in London claims his victims, including several young women, and drains them for blood. The police follow the leads and reach a house owned by a deranged scientist.",
        "page": "https://archive.org/details/scream-and-scream-again-1970_202511",
        "id": "scream-and-scream-again-1970_202511",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The House That Would Not Die 1970",
+       "logo": "https://archive.org/services/img/the-house-that-would-not-die-1970",
+       "url": "https://archive.org/details/the-house-that-would-not-die-1970",
+       "date": "1970-01-01",
+       "plot": "A woman and her niece, heirs to a large family manor soon discover their new home is a breeding ground for the supernatural.",
+       "page": "https://archive.org/details/the-house-that-would-not-die-1970",
+       "id": "the-house-that-would-not-die-1970",
        "duration": null,
        "resolve": "archive"
       },
@@ -4254,17 +4254,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Snow Woman (1968)",
-       "logo": "https://archive.org/services/img/the.-snow.-woman.-1968",
-       "url": "https://archive.org/details/the.-snow.-woman.-1968",
-       "date": "1968-01-01",
-       "plot": "\"The Snow Woman\" ( Kaidan Yukijorō ) is a 1968 Japanese fantasy horror film directed by Tokuzō Tanaka . It was produced by Daiei Film and is an adaptation of the Yuki-onna short story from Lafcadio Hearn's 1904 collection, Kwaidan: Stories and Studies of Strange Things . The film runs for 80 minutes and combines elements of fantasy, romance, and horror to portray the legend of Yuki-onna, the snow woman. The film's story begins in feudal Japan , where two sculptors seek a special tree for carving a statue of Kannon , the Buddhist goddess. As a blizzard hits, they take refuge in an abandoned hut",
-       "page": "https://archive.org/details/the.-snow.-woman.-1968",
-       "id": "the.-snow.-woman.-1968",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Kuroneko (1968)",
        "logo": "https://archive.org/services/img/kuroneko-1968_202510",
        "url": "https://archive.org/details/kuroneko-1968_202510",
@@ -4283,6 +4272,17 @@
        "plot": "A trio of Edgar Allan Poe adaptations about a cruel countess haunted by her cousin's stallion, a sadistic soldier haunted by his doppelgänger, and an alcoholic actor haunted by the Devil.",
        "page": "https://archive.org/details/spirits-of-the-dead-1968",
        "id": "spirits-of-the-dead-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Snow Woman (1968)",
+       "logo": "https://archive.org/services/img/the.-snow.-woman.-1968",
+       "url": "https://archive.org/details/the.-snow.-woman.-1968",
+       "date": "1968-01-01",
+       "plot": "\"The Snow Woman\" ( Kaidan Yukijorō ) is a 1968 Japanese fantasy horror film directed by Tokuzō Tanaka . It was produced by Daiei Film and is an adaptation of the Yuki-onna short story from Lafcadio Hearn's 1904 collection, Kwaidan: Stories and Studies of Strange Things . The film runs for 80 minutes and combines elements of fantasy, romance, and horror to portray the legend of Yuki-onna, the snow woman. The film's story begins in feudal Japan , where two sculptors seek a special tree for carving a statue of Kannon , the Buddhist goddess. As a blizzard hits, they take refuge in an abandoned hut",
+       "page": "https://archive.org/details/the.-snow.-woman.-1968",
+       "id": "the.-snow.-woman.-1968",
        "duration": null,
        "resolve": "archive"
       },
@@ -4485,6 +4485,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Dracula Prince Of Darkness 1966",
+       "logo": "https://archive.org/services/img/dracula-prince-of-darkness-1966_20240606",
+       "url": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
+       "date": "1966-01-01",
+       "plot": "An entire decade after his demise, the blasphemous Count Dracula is resurrected by his servant and preys on four unsuspecting English tourists who have taken shelter in his castle.",
+       "page": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
+       "id": "dracula-prince-of-darkness-1966_20240606",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Reptile",
        "logo": "https://archive.org/services/img/the-reptile",
        "url": "https://archive.org/details/the-reptile",
@@ -4503,17 +4514,6 @@
        "plot": "Title: The Terror Beneath the Sea Summary: While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that ... Directed by: Hajime Satô Actors: Production Company: K. Fujita Associates Inc. Release Date: 1 July 1966 (Japan) Aspect Ratio: 1.33 : 1 Color: Color While covering a test of guided torpedoes, two reporters believe they saw what appeared to be a strange-looking swimming creature. They investigate the matter further and discover that there is a race of fish-men living",
        "page": "https://archive.org/details/05516Tbtx",
        "id": "05516Tbtx",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Dracula Prince Of Darkness 1966",
-       "logo": "https://archive.org/services/img/dracula-prince-of-darkness-1966_20240606",
-       "url": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
-       "date": "1966-01-01",
-       "plot": "An entire decade after his demise, the blasphemous Count Dracula is resurrected by his servant and preys on four unsuspecting English tourists who have taken shelter in his castle.",
-       "page": "https://archive.org/details/dracula-prince-of-darkness-1966_20240606",
-       "id": "dracula-prince-of-darkness-1966_20240606",
        "duration": null,
        "resolve": "archive"
       },
@@ -4859,6 +4859,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Tomb of Ligeia (1964)",
+       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
+       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "date": "1964-01-01",
+       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
+       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
+       "id": "the.-tomb.of.-ligeia-1964",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Masque of the Red Death (1964)",
        "logo": "https://archive.org/services/img/the.-masque.of.the.-red.-death.-1964",
        "url": "https://archive.org/details/the.-masque.of.the.-red.-death.-1964",
@@ -4881,28 +4892,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Tomb of Ligeia (1964)",
-       "logo": "https://archive.org/services/img/the.-tomb.of.-ligeia-1964",
-       "url": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
-       "date": "1964-01-01",
-       "plot": "The Tomb of Ligeia is a 1964 American-British horror film directed by Roger Corman. Starring Vincent Price and Elizabeth Shepherd. It follows Verden Fell, a widower haunted by the spirit of his deceased wife, Ligeia. After marrying Rowena, a young woman who resembles Ligeia, Fell struggles with his past as Ligeia's spirit, possibly inhabiting a black cat, threatens their new life, leading to a dramatic confrontation that results in tragedy for all involved.",
-       "page": "https://archive.org/details/the.-tomb.of.-ligeia-1964",
-       "id": "the.-tomb.of.-ligeia-1964",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "The Last Man on Earth (1964)",
-       "logo": "https://archive.org/services/img/the-last-man-on-earth-1964_20251031",
-       "url": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
-       "date": "1964-01-01",
-       "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
-       "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
-       "id": "the-last-man-on-earth-1964_20251031",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Kwaidan (1964)",
        "logo": "https://archive.org/services/img/kwaidan-1964_202510",
        "url": "https://archive.org/details/kwaidan-1964_202510",
@@ -4921,6 +4910,17 @@
        "plot": "When a professor investigating the alleged suicide of his son in a small Balkan village in the 1900th century also turns up dead and mysteriously turned to stone, his remaining son comes to seek the truth. Conspiracy and cover-ups by local doctors and police are only the tip of the iceberg when legend of an ancient deadly entity also come to light.",
        "page": "https://archive.org/details/the-gorgon-1964",
        "id": "the-gorgon-1964",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Last Man on Earth (1964)",
+       "logo": "https://archive.org/services/img/the-last-man-on-earth-1964_20251031",
+       "url": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
+       "date": "1964-01-01",
+       "plot": "The Last Man on Earth is a 1964 post-apocalyptic science fiction horror film based on the 1954 novel I Am Legend by Richard Matheson. It follows Dr. Robert Morgan as the sole survivor of a plague that has turned humanity into vampiric creatures. He spends his days hunting these undead beings while grappling with loneliness and the memories of his deceased wife and daughter, ultimately facing a tragic confrontation with a group of infected survivors.",
+       "page": "https://archive.org/details/the-last-man-on-earth-1964_20251031",
+       "id": "the-last-man-on-earth-1964_20251031",
        "duration": null,
        "resolve": "archive"
       },
@@ -5277,17 +5277,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Tower of London (1962)",
-       "logo": "https://archive.org/services/img/tower-of-london-1962_202510",
-       "url": "https://archive.org/details/tower-of-london-1962_202510",
-       "date": "1962-01-01",
-       "plot": "Tower of London is a 1962 historical drama and gothic horror film directed by Roger Corman and starring Vincent Price and Michael Pate. The film follows Richard III, played by Vincent Price, as he schemes to seize the throne of England. The story depicts his ruthless rise to power, including the murder of his brother George and the manipulation of the young princes, all while being haunted by the ghosts of his victims, leading to his eventual madness and downfall.",
-       "page": "https://archive.org/details/tower-of-london-1962_202510",
-       "id": "tower-of-london-1962_202510",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Brain That Wouldn't Die (1962)",
        "logo": "https://archive.org/services/img/the.-brain.-that.-wouldnt.-die.-1962",
        "url": "https://archive.org/details/the.-brain.-that.-wouldnt.-die.-1962",
@@ -5295,6 +5284,17 @@
        "plot": "\"The Brain That Wouldn't Die\" is a 1962 science fiction horror film directed by Joseph Green. The story revolves around a mad scientist, Dr. Bill Cortner, who saves the disembodied head of his fiancée, Jan, after a tragic car accident. He attempts to find a suitable body for her while she remains conscious, leading to a mix of horror and dark humor. Though not critically acclaimed upon release, it has since become a cult classic, often referenced in discussions about early horror and sci-fi cinema. Its mixture of sci-fi elements with horror tropes has influenced various films and serves as a n",
        "page": "https://archive.org/details/the.-brain.-that.-wouldnt.-die.-1962",
        "id": "the.-brain.-that.-wouldnt.-die.-1962",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Tower of London (1962)",
+       "logo": "https://archive.org/services/img/tower-of-london-1962_202510",
+       "url": "https://archive.org/details/tower-of-london-1962_202510",
+       "date": "1962-01-01",
+       "plot": "Tower of London is a 1962 historical drama and gothic horror film directed by Roger Corman and starring Vincent Price and Michael Pate. The film follows Richard III, played by Vincent Price, as he schemes to seize the throne of England. The story depicts his ruthless rise to power, including the murder of his brother George and the manipulation of the young princes, all while being haunted by the ghosts of his victims, leading to his eventual madness and downfall.",
+       "page": "https://archive.org/details/tower-of-london-1962_202510",
+       "id": "tower-of-london-1962_202510",
        "duration": null,
        "resolve": "archive"
       },
@@ -5942,17 +5942,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Monster of Piedras Blancas (1959)",
-       "logo": "https://archive.org/services/img/the.monster.of.piedras.blancas.1959",
-       "url": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
-       "date": "1959-01-01",
-       "plot": "The Monster of Piedras Blancas is a 1959 American horror film directed by Irvin Berwick. The story is set in a small California town where a lighthouse keeper, Sturges, is worried about his daughter and the safety of the community. He believes a sea monster, which he has been feeding, is responsible for a series of gruesome murders. As bodies begin to wash ashore, a local scientist identifies a scale from the creature, leading to a confrontation with the monster.",
-       "page": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
-       "id": "the.monster.of.piedras.blancas.1959",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "The Tingler (1959)",
        "logo": "https://archive.org/services/img/the-tingler-1959_202510",
        "url": "https://archive.org/details/the-tingler-1959_202510",
@@ -5960,6 +5949,17 @@
        "plot": "The Tingler is a 1959 American horror film produced and directed by William Castle. It is the third of five collaborations between Castle and writer Robb White, and starring Vincent Price. It follows a pathologist, Dr. Warren Chapin, who discovers a parasitic creature called the \"tingler\" that grows stronger when its host experiences fear. The plot unfolds as he investigates the death of a mute woman who cannot scream, leading to a series of terrifying events involving the creature that ultimately escapes into a movie theater, where chaos ensues as the audience must scream to survive.",
        "page": "https://archive.org/details/the-tingler-1959_202510",
        "id": "the-tingler-1959_202510",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Monster of Piedras Blancas (1959)",
+       "logo": "https://archive.org/services/img/the.monster.of.piedras.blancas.1959",
+       "url": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
+       "date": "1959-01-01",
+       "plot": "The Monster of Piedras Blancas is a 1959 American horror film directed by Irvin Berwick. The story is set in a small California town where a lighthouse keeper, Sturges, is worried about his daughter and the safety of the community. He believes a sea monster, which he has been feeding, is responsible for a series of gruesome murders. As bodies begin to wash ashore, a local scientist identifies a scale from the creature, leading to a confrontation with the monster.",
+       "page": "https://archive.org/details/the.monster.of.piedras.blancas.1959",
+       "id": "the.monster.of.piedras.blancas.1959",
        "duration": null,
        "resolve": "archive"
       },
@@ -6052,6 +6052,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Horror Of Dracula 1958",
+       "logo": "https://archive.org/services/img/horror-of-dracula-1958_202406",
+       "url": "https://archive.org/details/horror-of-dracula-1958_202406",
+       "date": "1958-01-01",
+       "plot": "When his friend goes missing after accepting a job at a castle under false pretences, Dr. Van Helsing investigates the mysterious Count Dracula and discovers a parasitic reign of undead terror.",
+       "page": "https://archive.org/details/horror-of-dracula-1958_202406",
+       "id": "horror-of-dracula-1958_202406",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "The Strange World of Planet X",
        "logo": "https://archive.org/services/img/TheStrangeWorldOfPlanetX1958",
        "url": "https://archive.org/details/TheStrangeWorldOfPlanetX1958",
@@ -6063,13 +6074,13 @@
        "resolve": "archive"
       },
       {
-       "name": "Horror Of Dracula 1958",
-       "logo": "https://archive.org/services/img/horror-of-dracula-1958_202406",
-       "url": "https://archive.org/details/horror-of-dracula-1958_202406",
+       "name": "Monster On Campus",
+       "logo": "https://archive.org/services/img/monster-on-campus",
+       "url": "https://archive.org/details/monster-on-campus",
        "date": "1958-01-01",
-       "plot": "When his friend goes missing after accepting a job at a castle under false pretences, Dr. Van Helsing investigates the mysterious Count Dracula and discovers a parasitic reign of undead terror.",
-       "page": "https://archive.org/details/horror-of-dracula-1958_202406",
-       "id": "horror-of-dracula-1958_202406",
+       "plot": "The blood of a primitive fish exposed to gamma rays causes a benign research professor to regress to an ape-like, bloodthirsty prehistoric hominid.",
+       "page": "https://archive.org/details/monster-on-campus",
+       "id": "monster-on-campus",
        "duration": null,
        "resolve": "archive"
       },
@@ -6082,17 +6093,6 @@
        "page": "https://archive.org/details/FriendWithoutAFace104",
        "id": "FriendWithoutAFace104",
        "duration": "1:13:47",
-       "resolve": "archive"
-      },
-      {
-       "name": "Monster On Campus",
-       "logo": "https://archive.org/services/img/monster-on-campus",
-       "url": "https://archive.org/details/monster-on-campus",
-       "date": "1958-01-01",
-       "plot": "The blood of a primitive fish exposed to gamma rays causes a benign research professor to regress to an ape-like, bloodthirsty prehistoric hominid.",
-       "page": "https://archive.org/details/monster-on-campus",
-       "id": "monster-on-campus",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -6118,17 +6118,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Hideous Sun Demon (1958)",
-       "logo": "https://archive.org/services/img/the.-hideous.-sun.-demon.-1958",
-       "url": "https://archive.org/details/the.-hideous.-sun.-demon.-1958",
-       "date": "1958-01-01",
-       "plot": "The Hideous Sun Demon is a 1958 American science fiction horror film. It was produced, directed, and co-written by Robert Clarke, who also stars in the lead role. The story follows Dr. Gilbert \"Gil\" McKenna, a research scientist who, after being exposed to a radioactive isotope, transforms into a lizard-like creature whenever he is exposed to sunlight. This transformation leads to horrifying consequences, including violent behavior. The film explores themes of isolation and the struggle with one's darker nature.",
-       "page": "https://archive.org/details/the.-hideous.-sun.-demon.-1958",
-       "id": "the.-hideous.-sun.-demon.-1958",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Lake of the Dead (1958)",
        "logo": "https://archive.org/services/img/lake.-of.-the.-dead.-1958",
        "url": "https://archive.org/details/lake.-of.-the.-dead.-1958",
@@ -6136,6 +6125,17 @@
        "plot": "\"Lake of the Dead\" (Norwegian title: \"De dødes tjern\") is a 1958 Norwegian mystery horror film directed by Kåre Bergstrøm. The film follows six friends who travel to a remote cabin in the Østerdal forests of Norway. They are there to visit Bjørn Werner, but upon arrival, they discover he is missing, and his dog is found dead near a nearby lake. The group soon becomes entangled in local legends about a tragic past involving a murder-suicide linked to the lake, which suggests that anyone who stays in the cabin may be drawn to drown themselves in the water.",
        "page": "https://archive.org/details/lake.-of.-the.-dead.-1958",
        "id": "lake.-of.-the.-dead.-1958",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Hideous Sun Demon (1958)",
+       "logo": "https://archive.org/services/img/the.-hideous.-sun.-demon.-1958",
+       "url": "https://archive.org/details/the.-hideous.-sun.-demon.-1958",
+       "date": "1958-01-01",
+       "plot": "The Hideous Sun Demon is a 1958 American science fiction horror film. It was produced, directed, and co-written by Robert Clarke, who also stars in the lead role. The story follows Dr. Gilbert \"Gil\" McKenna, a research scientist who, after being exposed to a radioactive isotope, transforms into a lizard-like creature whenever he is exposed to sunlight. This transformation leads to horrifying consequences, including violent behavior. The film explores themes of isolation and the struggle with one's darker nature.",
+       "page": "https://archive.org/details/the.-hideous.-sun.-demon.-1958",
+       "id": "the.-hideous.-sun.-demon.-1958",
        "duration": null,
        "resolve": "archive"
       },
@@ -6761,17 +6761,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Nabonga",
-       "logo": "https://archive.org/services/img/nabonga",
-       "url": "https://archive.org/details/nabonga",
-       "date": "1944-01-01",
-       "plot": "You can find more information regarding this film on its IMDb page .",
-       "page": "https://archive.org/details/nabonga",
-       "id": "nabonga",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "House Of Frankenstein 1944",
        "logo": "https://archive.org/services/img/house-of-frankenstein-1944_202106",
        "url": "https://archive.org/details/house-of-frankenstein-1944_202106",
@@ -6779,6 +6768,17 @@
        "plot": "A deranged scientist escapes from prison and recruits Dracula, Frankenstein and the Wolf Man to get revenge on his behalf.",
        "page": "https://archive.org/details/house-of-frankenstein-1944_202106",
        "id": "house-of-frankenstein-1944_202106",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Nabonga",
+       "logo": "https://archive.org/services/img/nabonga",
+       "url": "https://archive.org/details/nabonga",
+       "date": "1944-01-01",
+       "plot": "You can find more information regarding this film on its IMDb page .",
+       "page": "https://archive.org/details/nabonga",
+       "id": "nabonga",
        "duration": null,
        "resolve": "archive"
       },
@@ -8810,17 +8810,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Revenge Of Dr. X",
-       "logo": "https://archive.org/services/img/TheRevengeOfDr.X",
-       "url": "https://archive.org/details/TheRevengeOfDr.X",
-       "date": null,
-       "plot": "[1970] aka Venus Flytrap or The Revenge Of Doctor X...A NASA scientist vacations in japan where he uses thunder and lightning to turn carnivorous plants into man-eating creatures...misleading title there's no revenge and he's not doctor x.. based on the Frankenstein story",
-       "page": "https://archive.org/details/TheRevengeOfDr.X",
-       "id": "TheRevengeOfDr.X",
-       "duration": "1:33:38",
-       "resolve": "archive"
-      },
-      {
        "name": "Little Shop Of Horrors-HD",
        "logo": "https://archive.org/services/img/LittleShopOfHorrors_201606",
        "url": "https://archive.org/details/LittleShopOfHorrors_201606",
@@ -8829,6 +8818,17 @@
        "page": "https://archive.org/details/LittleShopOfHorrors_201606",
        "id": "LittleShopOfHorrors_201606",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Revenge Of Dr. X",
+       "logo": "https://archive.org/services/img/TheRevengeOfDr.X",
+       "url": "https://archive.org/details/TheRevengeOfDr.X",
+       "date": null,
+       "plot": "[1970] aka Venus Flytrap or The Revenge Of Doctor X...A NASA scientist vacations in japan where he uses thunder and lightning to turn carnivorous plants into man-eating creatures...misleading title there's no revenge and he's not doctor x.. based on the Frankenstein story",
+       "page": "https://archive.org/details/TheRevengeOfDr.X",
+       "id": "TheRevengeOfDr.X",
+       "duration": "1:33:38",
        "resolve": "archive"
       },
       {
@@ -9041,17 +9041,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Bat (1926)",
-       "logo": "https://archive.org/services/img/TheBat1926",
-       "url": "https://archive.org/details/TheBat1926",
-       "date": null,
-       "plot": "A Silent film based upon the Broadway play by Mary Roberts Rinehart and Avery Hopwood, this Silent Gem was directed by Roland West in 1926, later being Remade as the Bat Whispers in 1930 (by Roland West) and again in 1958 in the Bat starring Vincent Price, also available at the Archive. Oh, and when I say silent, I mean silent - this was transferred from a 16mm print and was probably meant to be played with live musical accompaniment. SYNOPSIS: The Bat, a masked criminal, terrorises a mansion filled with the guests of a mystery writer, a mansion in which a robber has hidden $20,000 of Stolen m",
-       "page": "https://archive.org/details/TheBat1926",
-       "id": "TheBat1926",
-       "duration": "1:25:34",
-       "resolve": "archive"
-      },
-      {
        "name": "Eyes Without a Face - Les yeux sans visage (restored, uncut) (1960, France, horror, imdb score: 7.7)",
        "logo": "https://archive.org/services/img/eyes-without-a-face-1960-restored-720p-hd",
        "url": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
@@ -9060,6 +9049,17 @@
        "page": "https://archive.org/details/eyes-without-a-face-1960-restored-720p-hd",
        "id": "eyes-without-a-face-1960-restored-720p-hd",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Bat (1926)",
+       "logo": "https://archive.org/services/img/TheBat1926",
+       "url": "https://archive.org/details/TheBat1926",
+       "date": null,
+       "plot": "A Silent film based upon the Broadway play by Mary Roberts Rinehart and Avery Hopwood, this Silent Gem was directed by Roland West in 1926, later being Remade as the Bat Whispers in 1930 (by Roland West) and again in 1958 in the Bat starring Vincent Price, also available at the Archive. Oh, and when I say silent, I mean silent - this was transferred from a 16mm print and was probably meant to be played with live musical accompaniment. SYNOPSIS: The Bat, a masked criminal, terrorises a mansion filled with the guests of a mystery writer, a mansion in which a robber has hidden $20,000 of Stolen m",
+       "page": "https://archive.org/details/TheBat1926",
+       "id": "TheBat1926",
+       "duration": "1:25:34",
        "resolve": "archive"
       },
       {
@@ -9096,17 +9096,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Devil's Partner (1958)",
-       "logo": "https://archive.org/services/img/TheDevilsPartner1958",
-       "url": "https://archive.org/details/TheDevilsPartner1958",
-       "date": null,
-       "plot": "An old man dies in his shack while performing satanic rites. Shortly afterward, a strange man shows up claiming to be the old man's nephew. When he moves in, strange things begin to happen, like a man being attacked by his own dog.",
-       "page": "https://archive.org/details/TheDevilsPartner1958",
-       "id": "TheDevilsPartner1958",
-       "duration": "1:13:15",
-       "resolve": "archive"
-      },
-      {
        "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: THE TERROR & DEMENTIA 13",
        "logo": "https://archive.org/services/img/TERRORDEMENTIA13",
        "url": "https://archive.org/details/TERRORDEMENTIA13",
@@ -9115,6 +9104,17 @@
        "page": "https://archive.org/details/TERRORDEMENTIA13",
        "id": "TERRORDEMENTIA13",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Devil's Partner (1958)",
+       "logo": "https://archive.org/services/img/TheDevilsPartner1958",
+       "url": "https://archive.org/details/TheDevilsPartner1958",
+       "date": null,
+       "plot": "An old man dies in his shack while performing satanic rites. Shortly afterward, a strange man shows up claiming to be the old man's nephew. When he moves in, strange things begin to happen, like a man being attacked by his own dog.",
+       "page": "https://archive.org/details/TheDevilsPartner1958",
+       "id": "TheDevilsPartner1958",
+       "duration": "1:13:15",
        "resolve": "archive"
       },
       {
@@ -9327,17 +9327,6 @@
        "resolve": "archive"
       },
       {
-       "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR",
-       "logo": "https://archive.org/services/img/MANOSBLOODYPITHORROR",
-       "url": "https://archive.org/details/MANOSBLOODYPITHORROR",
-       "date": null,
-       "plot": "A COMPLETE DVD. Features custom menu either poster art or still shot from one of the movies overlaid with an audio track. Burning process is beyond easy: Download zipped folder, open it, extract the VIDEO_TS folder and burn to disc, that's the easiest way. I've also uploaded the files outside the .zip so they can be viewed here on this site. This disc features MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR as well the preview and intermission reels. Enjoy the show! Made from stuff that's already here.",
-       "page": "https://archive.org/details/MANOSBLOODYPITHORROR",
-       "id": "MANOSBLOODYPITHORROR",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bloody Pit Of Horror",
        "logo": "https://archive.org/services/img/BloodyPitOfHorror_201508",
        "url": "https://archive.org/details/BloodyPitOfHorror_201508",
@@ -9345,6 +9334,17 @@
        "plot": "This film has fallen into the Public Domain.",
        "page": "https://archive.org/details/BloodyPitOfHorror_201508",
        "id": "BloodyPitOfHorror_201508",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR",
+       "logo": "https://archive.org/services/img/MANOSBLOODYPITHORROR",
+       "url": "https://archive.org/details/MANOSBLOODYPITHORROR",
+       "date": null,
+       "plot": "A COMPLETE DVD. Features custom menu either poster art or still shot from one of the movies overlaid with an audio track. Burning process is beyond easy: Download zipped folder, open it, extract the VIDEO_TS folder and burn to disc, that's the easiest way. I've also uploaded the files outside the .zip so they can be viewed here on this site. This disc features MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR as well the preview and intermission reels. Enjoy the show! Made from stuff that's already here.",
+       "page": "https://archive.org/details/MANOSBLOODYPITHORROR",
+       "id": "MANOSBLOODYPITHORROR",
        "duration": null,
        "resolve": "archive"
       },
@@ -9767,17 +9767,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 68: \"Chaos & Confusion\" Double Feature",
-       "logo": "https://archive.org/services/img/Week68",
-       "url": "https://archive.org/details/Week68",
-       "date": null,
-       "plot": "Well hello and welcome back to your favorite Shocker Internet Drive In! Good to see that you survived the holidays. You maybe a bit dazed and confused, but we are glad you came to relax and chill out. And, what better way than to chase away those Winter blues than with a bit of chaotic film making. First up, after some coming attractions and a \"Melvin The Monster\" cartoon, we happily present \"The Doomsday Machine\" - a nifty piece of confusion started in 1967, but completed in 1972 with different actors playing the same characters. Good luck figuring this one out! Second, after a brief 10 minut",
-       "page": "https://archive.org/details/Week68",
-       "id": "Week68",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Deadtime Stories",
        "logo": "https://archive.org/services/img/deadtime-stories-1986",
        "url": "https://archive.org/details/deadtime-stories-1986",
@@ -9785,6 +9774,17 @@
        "plot": "A babysitting uncle tells his charges three horror stories - about a killer witch, Little Red Riding Hood and a werewolf, and \"Goldi Lox\" and the three bears.",
        "page": "https://archive.org/details/deadtime-stories-1986",
        "id": "deadtime-stories-1986",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 68: \"Chaos & Confusion\" Double Feature",
+       "logo": "https://archive.org/services/img/Week68",
+       "url": "https://archive.org/details/Week68",
+       "date": null,
+       "plot": "Well hello and welcome back to your favorite Shocker Internet Drive In! Good to see that you survived the holidays. You maybe a bit dazed and confused, but we are glad you came to relax and chill out. And, what better way than to chase away those Winter blues than with a bit of chaotic film making. First up, after some coming attractions and a \"Melvin The Monster\" cartoon, we happily present \"The Doomsday Machine\" - a nifty piece of confusion started in 1967, but completed in 1972 with different actors playing the same characters. Good luck figuring this one out! Second, after a brief 10 minut",
+       "page": "https://archive.org/details/Week68",
+       "id": "Week68",
        "duration": null,
        "resolve": "archive"
       },
@@ -9965,17 +9965,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Count Schlockula's Shock Show Volume 10",
-       "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume10",
-       "url": "https://archive.org/details/CountSchlockulasShockShowVolume10",
-       "date": null,
-       "plot": "Greetings. The COUNT Returns....with volume 10 of Shock Show. For our 10th official volume we have a special presentation of William Cameron Menzies Epic THINGS TO COME with Raymond Massey. Please have a good time.",
-       "page": "https://archive.org/details/CountSchlockulasShockShowVolume10",
-       "id": "CountSchlockulasShockShowVolume10",
-       "duration": "1:39:23",
-       "resolve": "archive"
-      },
-      {
        "name": "The Pyx (1973)",
        "logo": "https://archive.org/services/img/the-pyx-1973",
        "url": "https://archive.org/details/the-pyx-1973",
@@ -9984,6 +9973,17 @@
        "page": "https://archive.org/details/the-pyx-1973",
        "id": "the-pyx-1973",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Count Schlockula's Shock Show Volume 10",
+       "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume10",
+       "url": "https://archive.org/details/CountSchlockulasShockShowVolume10",
+       "date": null,
+       "plot": "Greetings. The COUNT Returns....with volume 10 of Shock Show. For our 10th official volume we have a special presentation of William Cameron Menzies Epic THINGS TO COME with Raymond Massey. Please have a good time.",
+       "page": "https://archive.org/details/CountSchlockulasShockShowVolume10",
+       "id": "CountSchlockulasShockShowVolume10",
+       "duration": "1:39:23",
        "resolve": "archive"
       },
       {
@@ -10042,6 +10042,17 @@
        "resolve": "archive"
       },
       {
+       "name": "The Forest",
+       "logo": "https://archive.org/services/img/the-forest-1982-horror-thriller-full-length-film",
+       "url": "https://archive.org/details/the-forest-1982-horror-thriller-full-length-film",
+       "date": null,
+       "plot": "Sharon (Tomi Barrett) & Teddy are terrorized in the woods by a cannibalistic madman while Steve (Dean Russell) and Charlie, their boyfriends, take refuge in an old cave where they meet the killer.",
+       "page": "https://archive.org/details/the-forest-1982-horror-thriller-full-length-film",
+       "id": "the-forest-1982-horror-thriller-full-length-film",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Count Schlockula's Shock Show Volume 8",
        "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume8",
        "url": "https://archive.org/details/CountSchlockulasShockShowVolume8",
@@ -10053,13 +10064,13 @@
        "resolve": "archive"
       },
       {
-       "name": "The Forest",
-       "logo": "https://archive.org/services/img/the-forest-1982-horror-thriller-full-length-film",
-       "url": "https://archive.org/details/the-forest-1982-horror-thriller-full-length-film",
+       "name": "Shocker Internet Drive In Week 118: \"Mansion Murder\" Double Feature",
+       "logo": "https://archive.org/services/img/week118",
+       "url": "https://archive.org/details/week118",
        "date": null,
-       "plot": "Sharon (Tomi Barrett) & Teddy are terrorized in the woods by a cannibalistic madman while Steve (Dean Russell) and Charlie, their boyfriends, take refuge in an old cave where they meet the killer.",
-       "page": "https://archive.org/details/the-forest-1982-horror-thriller-full-length-film",
-       "id": "the-forest-1982-horror-thriller-full-length-film",
+       "plot": "Hell - Low and welcome back to everyone's favorite fixture for mayhem and murder. And, tonight, we hope we do not disappoint with a double dose of killers creeping around a couple of really big houses. First up, after a few coming attractions and a \"Snuffy Smith\" cartoon, we start things off with \"The Strangler Of Blackmoor Castle\", a German production about a hooded killer strangling and decapitating folks at an English estate while he looks for diamonds. Then, after a brief intermission, we finish things up with Del Tenney's \"Curse Of The Living Corpse\", a fun piece featuring Roy Scheider an",
+       "page": "https://archive.org/details/week118",
+       "id": "week118",
        "duration": null,
        "resolve": "archive"
       },
@@ -10072,17 +10083,6 @@
        "page": "https://archive.org/details/CountSchlockulasShockShowVolume2",
        "id": "CountSchlockulasShockShowVolume2",
        "duration": "1:28:13",
-       "resolve": "archive"
-      },
-      {
-       "name": "Shocker Internet Drive In Week 118: \"Mansion Murder\" Double Feature",
-       "logo": "https://archive.org/services/img/week118",
-       "url": "https://archive.org/details/week118",
-       "date": null,
-       "plot": "Hell - Low and welcome back to everyone's favorite fixture for mayhem and murder. And, tonight, we hope we do not disappoint with a double dose of killers creeping around a couple of really big houses. First up, after a few coming attractions and a \"Snuffy Smith\" cartoon, we start things off with \"The Strangler Of Blackmoor Castle\", a German production about a hooded killer strangling and decapitating folks at an English estate while he looks for diamonds. Then, after a brief intermission, we finish things up with Del Tenney's \"Curse Of The Living Corpse\", a fun piece featuring Roy Scheider an",
-       "page": "https://archive.org/details/week118",
-       "id": "week118",
-       "duration": null,
        "resolve": "archive"
       },
       {
@@ -10196,17 +10196,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Zombie ' 90 Extreme Pestilence (1991)",
-       "logo": "https://archive.org/services/img/zombie-90-extreme-pestilence-1991",
-       "url": "https://archive.org/details/zombie-90-extreme-pestilence-1991",
-       "date": null,
-       "plot": "Zombie '90: Extreme Pestilence (1991)",
-       "page": "https://archive.org/details/zombie-90-extreme-pestilence-1991",
-       "id": "zombie-90-extreme-pestilence-1991",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Shocker Internet Drive In Week 133: \"Sensational Santo\" Double Feature",
        "logo": "https://archive.org/services/img/week-133",
        "url": "https://archive.org/details/week-133",
@@ -10218,6 +10207,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Zombie ' 90 Extreme Pestilence (1991)",
+       "logo": "https://archive.org/services/img/zombie-90-extreme-pestilence-1991",
+       "url": "https://archive.org/details/zombie-90-extreme-pestilence-1991",
+       "date": null,
+       "plot": "Zombie '90: Extreme Pestilence (1991)",
+       "page": "https://archive.org/details/zombie-90-extreme-pestilence-1991",
+       "id": "zombie-90-extreme-pestilence-1991",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "MOONLIGHT MOOVIES # 3",
        "logo": "https://archive.org/services/img/moonlight-moovies-3",
        "url": "https://archive.org/details/moonlight-moovies-3",
@@ -10225,17 +10225,6 @@
        "plot": "A complete virtual drive-in show, featuring \"Monster from the Surf\" and \"The Giant Gila Monster.\"",
        "page": "https://archive.org/details/moonlight-moovies-3",
        "id": "moonlight-moovies-3",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Night Of The Devils 1972",
-       "logo": "https://archive.org/services/img/night-of-the-devils-1972",
-       "url": "https://archive.org/details/night-of-the-devils-1972",
-       "date": null,
-       "plot": "A mentally ill man has flashbacks to when he encountered a strange family living remotely in the countryside in total terror of an evil presence that slowly invaded their homes and lives.",
-       "page": "https://archive.org/details/night-of-the-devils-1972",
-       "id": "night-of-the-devils-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -10258,6 +10247,17 @@
        "plot": "After a mysterious trunk arrives at a prestigious girls boarding school, its staff and students are targeted by a shadowy killer.",
        "page": "https://archive.org/details/naked-you-die-1968",
        "id": "naked-you-die-1968",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Night Of The Devils 1972",
+       "logo": "https://archive.org/services/img/night-of-the-devils-1972",
+       "url": "https://archive.org/details/night-of-the-devils-1972",
+       "date": null,
+       "plot": "A mentally ill man has flashbacks to when he encountered a strange family living remotely in the countryside in total terror of an evil presence that slowly invaded their homes and lives.",
+       "page": "https://archive.org/details/night-of-the-devils-1972",
+       "id": "night-of-the-devils-1972",
        "duration": null,
        "resolve": "archive"
       },
