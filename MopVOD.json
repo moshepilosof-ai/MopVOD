@@ -1,13 +1,13 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-24 02:51",
+ "updated": "2026-11-24 14:28",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
    "file": "vod/ia_SciFi_Horror.json",
    "episodes": 949,
    "seasons": 13,
-   "updated": "2026-11-23 10:17",
+   "updated": "2026-11-24 11:59",
    "newest": "2015-10-06",
    "oldest": "1903-01-01"
   },
@@ -16,7 +16,7 @@
    "file": "vod/ia_classic_tv.json",
    "episodes": 1000,
    "seasons": 10,
-   "updated": "2026-11-23 10:17",
+   "updated": "2026-11-24 11:59",
    "newest": "2024-06-05",
    "oldest": "1945-01-01"
   },
@@ -4046,9 +4046,9 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 725,
+   "episodes": 723,
    "seasons": 2,
-   "updated": "2026-11-24 02:47",
+   "updated": "2026-11-24 14:24",
    "newest": "2026-11-23",
    "oldest": "2024-09-18"
   },
@@ -4327,7 +4327,7 @@
    "file": "vod/yt_UCpVm7bg6pXKo1Pr6k5kxG9A.json",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-23 09:53",
+   "updated": "2026-11-24 11:42",
    "newest": null,
    "oldest": null
   },
@@ -4336,7 +4336,7 @@
    "file": "vod/yt_UCvQmPpU20hw1Trss_CVwaew.json",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-23 10:17",
+   "updated": "2026-11-24 11:59",
    "newest": null,
    "oldest": null
   },
