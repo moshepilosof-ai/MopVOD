@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-327417/",
    "series_id": "327417",
-   "updated": "2026-11-23 13:45",
+   "updated": "2026-11-25 00:19",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "מישהו לגור איתו | פרק 9 - בית הכלבים",
+       "logo": "https://www.kan.org.il/media/dhrdrm1x/לאתר-פרק-9.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ppafk5oq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-10",
+       "plot": "פרקים חדשים לסדרה בה צוות מומחים משדך כלבים חסרי בית לאנשים שמחפשים עוד מישהו לגור איתו בתקווה לזכות בשינוי בחייהם. הפעם: האם שידוך של הכלב הנכון יכול להביא גם שידוך של חתן?",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-327417/s1/439844/",
+       "id": "439844",
+       "season": 1
+      },
       {
        "name": "מישהו לגור איתו | פרק 8 - המתקשרת",
        "logo": "https://www.kan.org.il/media/uyvleinm/לאתר-פרק-8.jpg",

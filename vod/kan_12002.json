@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-12002/",
    "series_id": "12002",
-   "updated": "2026-11-17 23:16",
+   "updated": "2026-11-25 00:14",
    "sub_categories": [
     {
      "name": "עונה 9",
      "channels": [
+      {
+       "name": "זהו זה! עונה 9 | פרק 4 - 24.11.26",
+       "logo": "https://www.kan.org.il/media/4fpj4vwb/פרק-מלא_אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2261427/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-02",
+       "plot": "מוני מושונוב, גידי גוב, דבל'ה גליקמן, ואבי קושניר עם אנסמבל שחקני חיזוק, עושים \"סדר\" בימים המטורפים שעוברים עלינו, מצחיקים ומפתיעים. השבוע הם יארחו את הזמרת רבקה זהר.\n\nמיועד לגילאי 8+ | אזהרת צפייה: התוכן עלול להכיל תכנים בוטים",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-12002/s9/1115145/",
+       "id": "1115145",
+       "season": 9
+      },
       {
        "name": "זהו זה! עונה 9 | פרק 3 - 17.11.26",
        "logo": "https://www.kan.org.il/media/b5dff2bz/אתר-חדש.jpg",

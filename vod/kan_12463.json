@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12463/",
    "series_id": "12463",
-   "updated": "2026-11-24 02:45",
+   "updated": "2026-11-25 00:19",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "מהצד השני עם גיא זהר | 24.11.2026",
+       "logo": "https://www.kan.org.il/media/yatdmp33/גיאזו-אתר.png",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2263714/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-24",
+       "plot": "כאן 11 | טראמפ הודיע שיחתוך את הסיוע הביטחוני לישראל! אל תדאגו, אומרים לנו, זו בכלל יוזמה של נתניהו. רק שכשמקשיבים למה שנתניהו אמר לאורך השנים ולמה שטראמפ אומר היום, רואים שיש נקודת חולשה | רביב דרוקר רוצה סוקרים \"כמו באמריקה\". רגע, הם יותר טובים משלנו? | הבומרים הציפו את מכונת הפייקים בסרטונים על GTA6. זה אמיתי?",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1117746/",
+       "id": "1117746",
+       "season": 4
+      },
       {
        "name": "מהצד השני עם גיא זוהר | 23.11.2026",
        "logo": "https://www.kan.org.il/media/q41pl5z4/גיאזואתר.jpg",

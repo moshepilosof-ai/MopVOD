@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
    "series_id": "1075348",
-   "updated": "2026-11-22 21:21",
+   "updated": "2026-11-25 00:13",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "הכוורת | פרק 53",
+       "logo": "https://www.kan.org.il/media/h3fngejy/כוורת-לאתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266437/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-17",
+       "plot": "מורה לאזרחות, כלכלן ורכזת פדגוגית שלושתם יצטרכו להשאר מרוכזים וחדים כדי לנצח את הכוורת. הכסף יכול ללכת רק לאחד מהם. שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1120406/",
+       "id": "1120406",
+       "season": 1
+      },
       {
        "name": "הכוורת | פרק 52",
        "logo": "https://www.kan.org.il/media/elilzccd/s0623931_digital00_00_38_08.jpg",
@@ -499,16 +509,6 @@
        "plot": "מי יפצח את הכוורת? משחק הזוגות של שעשועון הטריוויה החדש בהנחיית שלמור שטרוזמן. שני זוגות מנסים לפצח את הכוורת באמצעות ידע, אסטרטגיה ובניית רצף בקצב מהיר במיוחד. מי יוכתר למלך ומלכת הכוורת?",
        "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1076732/",
        "id": "1076732",
-       "season": 1
-      },
-      {
-       "name": "הכוורת | פרק 3",
-       "logo": "https://www.kan.org.il/media/cmcj34py/1.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225247/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-14",
-       "plot": "עורך ספרים, כלכלן ונומרולוגית מתחרים מי יפצח את הכוורת בשעשועון הטריוויה החדש בהנחיית שלמור שטרוזמן",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1076067/",
-       "id": "1076067",
        "season": 1
       }
      ]
