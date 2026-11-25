@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/dig/digital/p-996166/",
    "series_id": "996166",
-   "updated": "2026-11-19 22:52",
+   "updated": "2026-11-25 13:26",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "ריי נכנסה להיריון בתיכון",
+       "logo": "https://www.kan.org.il/media/2dveqp0d/2268182_1795599997217.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268182/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-25",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1123155/",
+       "id": "1123155",
+       "season": 1
+      },
+      {
+       "name": "נועה יוצאת לדייט עם ברקוני",
+       "logo": "https://www.kan.org.il/media/rgnlxnsy/2267999_1795599717754.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267999/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-25",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1123150/",
+       "id": "1123150",
+       "season": 1
+      },
+      {
+       "name": "אז איפה כדאי לשבת ברכבת? נועה כאן כדי לסייע",
+       "logo": "https://www.kan.org.il/media/y4cpcfmi/2267086_1795102959348.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267086/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-19",
+       "plot": "",
+       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1121265/",
+       "id": "1121265",
+       "season": 1
+      },
       {
        "name": "שיחות ללא הגבלה | להיות אתלט עם טורט",
        "logo": "https://www.kan.org.il/media/hxqbht3j/2265795_1795010673109.jpg",
@@ -459,26 +489,6 @@
        "plot": "",
        "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1087659/",
        "id": "1087659",
-       "season": 1
-      },
-      {
-       "name": "הצבא לא רצה לגייס את קורל בגלל המחלה שלה",
-       "logo": "https://www.kan.org.il/media/kxjormuu/dp_3808_crohn_igtv.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233919/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-08-09",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1087183/",
-       "id": "1087183",
-       "season": 1
-      },
-      {
-       "name": "איך זה להיות מפקדת עם גמגום?",
-       "logo": "https://www.kan.org.il/media/s4rdsojz/gim.png",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233139/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-08-06",
-       "plot": "",
-       "page": "https://www.kan.org.il/content/dig/digital/p-996166/s1/1086252/",
-       "id": "1086252",
        "season": 1
       }
      ]
