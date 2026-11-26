@@ -10,7 +10,7 @@
    "resolve": "archive",
    "logo": "https://archive.org/services/img/SciFi_Horror",
    "program_url": "https://archive.org/details/SciFi_Horror",
-   "updated": "2026-11-25 10:55",
+   "updated": "2026-11-26 10:28",
    "sub_categories": [
     {
      "name": "2010-2019",
@@ -3479,6 +3479,17 @@
        "resolve": "archive"
       },
       {
+       "name": "Season Of The Witch 1972",
+       "logo": "https://archive.org/services/img/season-of-the-witch-1972",
+       "url": "https://archive.org/details/season-of-the-witch-1972",
+       "date": "1972-01-01",
+       "plot": "A bored housewife's life spins out of control after she gets involved with the occult.",
+       "page": "https://archive.org/details/season-of-the-witch-1972",
+       "id": "season-of-the-witch-1972",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
        "name": "Vampire Circus 1972",
        "logo": "https://archive.org/services/img/vampire-circus-1972_202406",
        "url": "https://archive.org/details/vampire-circus-1972_202406",
@@ -3497,17 +3508,6 @@
        "plot": "A physician discovers that two children are being kept virtually imprisoned in their house by their father. He investigates, and discovers a web of sex, incest, and Satanic possession.",
        "page": "https://archive.org/details/demons-of-the-mind-1972",
        "id": "demons-of-the-mind-1972",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
-       "name": "Season Of The Witch 1972",
-       "logo": "https://archive.org/services/img/season-of-the-witch-1972",
-       "url": "https://archive.org/details/season-of-the-witch-1972",
-       "date": "1972-01-01",
-       "plot": "A bored housewife's life spins out of control after she gets involved with the occult.",
-       "page": "https://archive.org/details/season-of-the-witch-1972",
-       "id": "season-of-the-witch-1972",
        "duration": null,
        "resolve": "archive"
       },
@@ -8568,17 +8568,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In Week 3 - Frankenstein Double Feature",
-       "logo": "https://archive.org/services/img/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
-       "url": "https://archive.org/details/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
-       "date": null,
-       "plot": "Welcome back to \"Shocker Internet Drive In\", reliving the great old days of warm summer nights, popcorn, bad movies and backseat love. Tonight we present a great Frankenstein double feature. After a rare (\"racist\") Bugs Bunny cartoon, we present that Italian trash classic \"Lady Frankenstein\" (parental discreation is advised) followed by the equally crazy \"Jesse James Meets Frankenstein's Daughter\"! Of course, as always, our feature includes the usual movie previews and drive-in advertisements. For more information, don't forget to visit our website: Movie Website: http://shockerdrivein.dx.am o",
-       "page": "https://archive.org/details/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
-       "id": "ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
-       "duration": "3:05:29",
-       "resolve": "archive"
-      },
-      {
        "name": "Jesse James Meets Frankenstein's Daughter (1966)",
        "logo": "https://archive.org/services/img/JesseJamesMeetsFrankensteinsDaughter1966",
        "url": "https://archive.org/details/JesseJamesMeetsFrankensteinsDaughter1966",
@@ -8587,6 +8576,17 @@
        "page": "https://archive.org/details/JesseJamesMeetsFrankensteinsDaughter1966",
        "id": "JesseJamesMeetsFrankensteinsDaughter1966",
        "duration": "1:23:07",
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In Week 3 - Frankenstein Double Feature",
+       "logo": "https://archive.org/services/img/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
+       "url": "https://archive.org/details/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
+       "date": null,
+       "plot": "Welcome back to \"Shocker Internet Drive In\", reliving the great old days of warm summer nights, popcorn, bad movies and backseat love. Tonight we present a great Frankenstein double feature. After a rare (\"racist\") Bugs Bunny cartoon, we present that Italian trash classic \"Lady Frankenstein\" (parental discreation is advised) followed by the equally crazy \"Jesse James Meets Frankenstein's Daughter\"! Of course, as always, our feature includes the usual movie previews and drive-in advertisements. For more information, don't forget to visit our website: Movie Website: http://shockerdrivein.dx.am o",
+       "page": "https://archive.org/details/ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
+       "id": "ShockerInternetDriveInWeek3-FrankensteinDoubleFeature",
+       "duration": "3:05:29",
        "resolve": "archive"
       },
       {
@@ -8634,17 +8634,6 @@
        "resolve": "archive"
       },
       {
-       "name": "The Driller Killer - 96 Minute Uncut Version",
-       "logo": "https://archive.org/services/img/TheDrillerKiller",
-       "url": "https://archive.org/details/TheDrillerKiller",
-       "date": null,
-       "plot": "Comparison between the BBFC 18 Cut Version and The Uncut Version found here: http://ww.movie-censorship.com/report.php?ID=4285",
-       "page": "https://archive.org/details/TheDrillerKiller",
-       "id": "TheDrillerKiller",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Creature Of Destruction",
        "logo": "https://archive.org/services/img/CreatureOfDestruction",
        "url": "https://archive.org/details/CreatureOfDestruction",
@@ -8652,6 +8641,17 @@
        "plot": "A color remake of \"The She Creature\", Les Tremayne is a mad hypnotist who regresses a girl back to a previous life, which, in her case, was a sea monster. The monster from this Larry Buchanan film was reused in his later movie, \"It's Alive\".",
        "page": "https://archive.org/details/CreatureOfDestruction",
        "id": "CreatureOfDestruction",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "The Driller Killer - 96 Minute Uncut Version",
+       "logo": "https://archive.org/services/img/TheDrillerKiller",
+       "url": "https://archive.org/details/TheDrillerKiller",
+       "date": null,
+       "plot": "Comparison between the BBFC 18 Cut Version and The Uncut Version found here: http://ww.movie-censorship.com/report.php?ID=4285",
+       "page": "https://archive.org/details/TheDrillerKiller",
+       "id": "TheDrillerKiller",
        "duration": null,
        "resolve": "archive"
       },
@@ -9327,17 +9327,6 @@
        "resolve": "archive"
       },
       {
-       "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR",
-       "logo": "https://archive.org/services/img/MANOSBLOODYPITHORROR",
-       "url": "https://archive.org/details/MANOSBLOODYPITHORROR",
-       "date": null,
-       "plot": "A COMPLETE DVD. Features custom menu either poster art or still shot from one of the movies overlaid with an audio track. Burning process is beyond easy: Download zipped folder, open it, extract the VIDEO_TS folder and burn to disc, that's the easiest way. I've also uploaded the files outside the .zip so they can be viewed here on this site. This disc features MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR as well the preview and intermission reels. Enjoy the show! Made from stuff that's already here.",
-       "page": "https://archive.org/details/MANOSBLOODYPITHORROR",
-       "id": "MANOSBLOODYPITHORROR",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Bloody Pit Of Horror",
        "logo": "https://archive.org/services/img/BloodyPitOfHorror_201508",
        "url": "https://archive.org/details/BloodyPitOfHorror_201508",
@@ -9345,6 +9334,17 @@
        "plot": "This film has fallen into the Public Domain.",
        "page": "https://archive.org/details/BloodyPitOfHorror_201508",
        "id": "BloodyPitOfHorror_201508",
+       "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR",
+       "logo": "https://archive.org/services/img/MANOSBLOODYPITHORROR",
+       "url": "https://archive.org/details/MANOSBLOODYPITHORROR",
+       "date": null,
+       "plot": "A COMPLETE DVD. Features custom menu either poster art or still shot from one of the movies overlaid with an audio track. Burning process is beyond easy: Download zipped folder, open it, extract the VIDEO_TS folder and burn to disc, that's the easiest way. I've also uploaded the files outside the .zip so they can be viewed here on this site. This disc features MANOS THE HANDS OF FATE & BLOODY PIT OF HORROR as well the preview and intermission reels. Enjoy the show! Made from stuff that's already here.",
+       "page": "https://archive.org/details/MANOSBLOODYPITHORROR",
+       "id": "MANOSBLOODYPITHORROR",
        "duration": null,
        "resolve": "archive"
       },
@@ -9877,17 +9877,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 41: \"Boo's For Bela\" Double Feature",
-       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
-       "url": "https://archive.org/details/ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
-       "date": null,
-       "plot": "Just in time for Halloween and those cold, creepy nights at the Ol' Shocker Internet Drive In, we are very happy to bring you another Bela Lugosi triple feature in glorious black and white! After some Bela coming attractions, we are pleased to bring you \"Black Dragons\" with Lugosi playing Dr. Melcher, a Nazi(?) terminating Japanese spies (confused - so are we). Then, our second feature is a bit more traditional as Bela portrays the \"Voodoo Man\". Finally, as the witching hour creeps closer, we proudly present \"The Bowery At Midnight\" with our hero as a criminologist who uses his soup kitchen as",
-       "page": "https://archive.org/details/ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
-       "id": "ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
-       "duration": "3:22:28",
-       "resolve": "archive"
-      },
-      {
        "name": "DARWAZA",
        "logo": "https://archive.org/services/img/DARWAZA",
        "url": "https://archive.org/details/DARWAZA",
@@ -9896,6 +9885,17 @@
        "page": "https://archive.org/details/DARWAZA",
        "id": "DARWAZA",
        "duration": null,
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 41: \"Boo's For Bela\" Double Feature",
+       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
+       "url": "https://archive.org/details/ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
+       "date": null,
+       "plot": "Just in time for Halloween and those cold, creepy nights at the Ol' Shocker Internet Drive In, we are very happy to bring you another Bela Lugosi triple feature in glorious black and white! After some Bela coming attractions, we are pleased to bring you \"Black Dragons\" with Lugosi playing Dr. Melcher, a Nazi(?) terminating Japanese spies (confused - so are we). Then, our second feature is a bit more traditional as Bela portrays the \"Voodoo Man\". Finally, as the witching hour creeps closer, we proudly present \"The Bowery At Midnight\" with our hero as a criminologist who uses his soup kitchen as",
+       "page": "https://archive.org/details/ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
+       "id": "ShockerInternetDriveIn-Week41boosForBelaDoubleFeature",
+       "duration": "3:22:28",
        "resolve": "archive"
       },
       {
@@ -9998,17 +9998,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In - Week 45: \"Slice and Dice\" Double Feature",
-       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
-       "url": "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
-       "date": null,
-       "plot": "Hello and welcome back to a cold and snowy Shocker Internet Drive In. We realize that most drive in are closed this time of year, but we are happy to present two psycho slashers to get your blood flowing and hearts pumping. First up, after a wonderful \"vulture\" cartoon and some bloody good coming attractions, we bring you \"Savage Weekend\"- a nifty little piece concerning a crazed killer taking care of business in a mask (sound familiar?) Second, after a brief intermission \"as nature intended\", we close out the evening with a tale about a poor misunderstood boy with a hook for a hand who happen",
-       "page": "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
-       "id": "ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
-       "duration": "3:42:11",
-       "resolve": "archive"
-      },
-      {
        "name": "Count Schlockula's Shock Show Volume 6",
        "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume6",
        "url": "https://archive.org/details/CountSchlockulasShockShowVolume6",
@@ -10017,6 +10006,17 @@
        "page": "https://archive.org/details/CountSchlockulasShockShowVolume6",
        "id": "CountSchlockulasShockShowVolume6",
        "duration": "1:39:24",
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In - Week 45: \"Slice and Dice\" Double Feature",
+       "logo": "https://archive.org/services/img/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
+       "url": "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
+       "date": null,
+       "plot": "Hello and welcome back to a cold and snowy Shocker Internet Drive In. We realize that most drive in are closed this time of year, but we are happy to present two psycho slashers to get your blood flowing and hearts pumping. First up, after a wonderful \"vulture\" cartoon and some bloody good coming attractions, we bring you \"Savage Weekend\"- a nifty little piece concerning a crazed killer taking care of business in a mask (sound familiar?) Second, after a brief intermission \"as nature intended\", we close out the evening with a tale about a poor misunderstood boy with a hook for a hand who happen",
+       "page": "https://archive.org/details/ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
+       "id": "ShockerInternetDriveIn-Week45sliceAndDiceDoubleFeature",
+       "duration": "3:42:11",
        "resolve": "archive"
       },
       {
@@ -10064,17 +10064,6 @@
        "resolve": "archive"
       },
       {
-       "name": "Shocker Internet Drive In Week 118: \"Mansion Murder\" Double Feature",
-       "logo": "https://archive.org/services/img/week118",
-       "url": "https://archive.org/details/week118",
-       "date": null,
-       "plot": "Hell - Low and welcome back to everyone's favorite fixture for mayhem and murder. And, tonight, we hope we do not disappoint with a double dose of killers creeping around a couple of really big houses. First up, after a few coming attractions and a \"Snuffy Smith\" cartoon, we start things off with \"The Strangler Of Blackmoor Castle\", a German production about a hooded killer strangling and decapitating folks at an English estate while he looks for diamonds. Then, after a brief intermission, we finish things up with Del Tenney's \"Curse Of The Living Corpse\", a fun piece featuring Roy Scheider an",
-       "page": "https://archive.org/details/week118",
-       "id": "week118",
-       "duration": null,
-       "resolve": "archive"
-      },
-      {
        "name": "Count Schlockula's Shock Show Volume 2",
        "logo": "https://archive.org/services/img/CountSchlockulasShockShowVolume2",
        "url": "https://archive.org/details/CountSchlockulasShockShowVolume2",
@@ -10083,6 +10072,17 @@
        "page": "https://archive.org/details/CountSchlockulasShockShowVolume2",
        "id": "CountSchlockulasShockShowVolume2",
        "duration": "1:28:13",
+       "resolve": "archive"
+      },
+      {
+       "name": "Shocker Internet Drive In Week 118: \"Mansion Murder\" Double Feature",
+       "logo": "https://archive.org/services/img/week118",
+       "url": "https://archive.org/details/week118",
+       "date": null,
+       "plot": "Hell - Low and welcome back to everyone's favorite fixture for mayhem and murder. And, tonight, we hope we do not disappoint with a double dose of killers creeping around a couple of really big houses. First up, after a few coming attractions and a \"Snuffy Smith\" cartoon, we start things off with \"The Strangler Of Blackmoor Castle\", a German production about a hooded killer strangling and decapitating folks at an English estate while he looks for diamonds. Then, after a brief intermission, we finish things up with Del Tenney's \"Curse Of The Living Corpse\", a fun piece featuring Roy Scheider an",
+       "page": "https://archive.org/details/week118",
+       "id": "week118",
+       "duration": null,
        "resolve": "archive"
       },
       {
