@@ -6,11 +6,20 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-821792/",
    "series_id": "821792",
-   "updated": "2026-11-25 00:10",
+   "updated": "2026-11-25 23:53",
    "sub_categories": [
     {
      "name": "כל הפרקים",
      "channels": [
+      {
+       "name": "גליק ותמר | 25.11.26",
+       "logo": "https://www.kan.org.il/media/24hoivrr/2.png",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268946/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-25",
+       "plot": "מגזין אקטואליה יומי. יפעת גליק וקרן רפאלי עם כותרות החדשות, ראיונות עומק, אנשי השעה, והרגעים האנושיים שמרכיבים את המציאות הישראלית.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1123303/",
+       "id": "1123303"
+      },
       {
        "name": "גליק ותמר | 24.11.2026",
        "logo": "https://www.kan.org.il/media/jxbca0vg/גליק-ותמר.jpg",

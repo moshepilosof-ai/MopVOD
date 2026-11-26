@@ -6,11 +6,31 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-25 00:21",
+   "updated": "2026-11-26 00:04",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "טסים אל הלא נודע: טרנד החופשה בהפתעה",
+       "logo": "https://www.kan.org.il/media/daxhgyrv/2_אתר.png",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268998/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-25",
+       "plot": "התופעה החדשה והמסקרנת של חופשה בהפתעה - מגיעים לשדה התעופה ורק אז מגלים לאן טסים.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1123395/",
+       "id": "1123395",
+       "season": 2
+      },
+      {
+       "name": "יוצאים החוצה - באישור: בתי הספר שהופכים את החצר לכיתה של התלמידים",
+       "logo": "https://www.kan.org.il/media/52gnr2jf/ידלות-עלים.png",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268989/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-25",
+       "plot": "הכיתה יצאה החוצה - באישור. הלימודים בחצר מאפשרים לעצור את הלחץ שבכיתה הסגורה ולאפשר לילדים פשוט להיות ילדים.",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1123385/",
+       "id": "1123385",
+       "season": 2
+      },
       {
        "name": "איך הפך שדה התעופה רמון לפיל לבן שמאבד מאות מיליונים בשנה?",
        "logo": "https://www.kan.org.il/media/cwsffdok/4-אתר.png",

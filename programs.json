@@ -1202,12 +1202,6 @@
       "section": "dig/digital"
     },
     {
-      "id": "kan_11297",
-      "title": "כאן 11 - ביקורת נוסטלגיה",
-      "url": "https://www.kan.org.il/content/dig/digital/p-11297/",
-      "section": "dig/digital"
-    },
-    {
       "id": "kan_11860",
       "title": "כאן 11 - בלי פאניקה!",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-11860/",
@@ -2330,6 +2324,12 @@
       "section": "dig/digital"
     },
     {
+      "id": "kan_1084615",
+      "title": "כאן 11 - עידן אלתרמן - מופע סטנדאפ",
+      "url": "https://www.kan.org.il/content/kan/kan-11/p-1084615/",
+      "section": "kan/kan-11"
+    },
+    {
       "id": "kan_937965",
       "title": "כאן 11 - עד החתונה זה יעבור",
       "url": "https://www.kan.org.il/content/archive1/projects/p-937965/",
@@ -2339,12 +2339,6 @@
       "id": "kan_12582",
       "title": "כאן 11 - עוד ניפגש",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-12582/",
-      "section": "kan/kan-11"
-    },
-    {
-      "id": "kan_1084615",
-      "title": "כאן 11 - עידן אלתרמן - מופע סטנדאפ",
-      "url": "https://www.kan.org.il/content/kan/kan-11/p-1084615/",
       "section": "kan/kan-11"
     },
     {
@@ -2712,6 +2706,12 @@
       "title": "כאן 11 - תפַדלוּ עלא עַשַא (בואו לאכול איתי בערבית)",
       "url": "https://www.kan.org.il/content/kan/kan-11/p-928522/",
       "section": "kan/kan-11"
+    },
+    {
+      "id": "kan_11297",
+      "title": "כאן 11 - ביקורת נוסטלגיה",
+      "url": "https://www.kan.org.il/content/dig/digital/p-11297/",
+      "section": "dig/digital"
     },
     {
       "id": "kan_1038331",
