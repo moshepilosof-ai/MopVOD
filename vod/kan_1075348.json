@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-11/p-1075348/",
    "series_id": "1075348",
-   "updated": "2026-11-25 00:13",
+   "updated": "2026-11-27 00:08",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "הכוורת | פרק 54",
+       "logo": "https://www.kan.org.il/media/5szdsfpg/אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266438/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-17",
+       "plot": "תכנית מוסיקלית במיוחד, זמר מתל אביב, מוסיקאית מבאר שבע ועובד סוציאלי מקיבוץ דליה מתמודדים מול הכווורת בשאלות טריוויה מאתגרות והצליל היחיד שהם רוצים לשמוע - זה הצליל של תשובה נכונה. מי מהם יהיה מלך או מלכת הכוורת? שעשועון טריוויה בהנחיית שלמור שטרוזמן",
+       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1120407/",
+       "id": "1120407",
+       "season": 1
+      },
       {
        "name": "הכוורת | פרק 53",
        "logo": "https://www.kan.org.il/media/h3fngejy/כוורת-לאתר.jpg",
@@ -499,16 +509,6 @@
        "plot": "מומחית למשא ומתן ושני מתחרים עם זיכרון פנומנלי - מי מהם יפצח את הכוורת? שעשועון טריוויה בהנחיית שלמור שטורזמן",
        "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1078460/",
        "id": "1078460",
-       "season": 1
-      },
-      {
-       "name": "הכוורת | פרק 4",
-       "logo": "https://www.kan.org.il/media/00blklk5/artboard-1.jpg",
-       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225523/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
-       "date": "2026-07-15",
-       "plot": "מי יפצח את הכוורת? משחק הזוגות של שעשועון הטריוויה החדש בהנחיית שלמור שטרוזמן. שני זוגות מנסים לפצח את הכוורת באמצעות ידע, אסטרטגיה ובניית רצף בקצב מהיר במיוחד. מי יוכתר למלך ומלכת הכוורת?",
-       "page": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1076732/",
-       "id": "1076732",
        "season": 1
       }
      ]

@@ -1,0 +1,1216 @@
+{
+ "categories": [
+  {
+   "name": "כאן 11 - הכול פוליטי",
+   "type": "vod",
+   "source": "kan.org.il",
+   "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-11275/",
+   "series_id": "11275",
+   "updated": "2026-11-27 00:09",
+   "sub_categories": [
+    {
+     "name": "כל הפרקים",
+     "channels": [
+      {
+       "name": "הכול פוליטי | 02.12.23",
+       "logo": "https://www.kan.org.il/media/4apjpc02/s0450489_t.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pn4kvy59/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-12-02",
+       "plot": "משדר חדשות מיוחד עם קרן אוזן ודב גיל-הר",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/636073/",
+       "id": "636073"
+      },
+      {
+       "name": "הכול פוליטי עם יואב קרקובסקי | 30.09.23",
+       "logo": "https://www.kan.org.il/media/y2ao3ho3/s0433502_100_00_06_15still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_obu4u85w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-30",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/550532/",
+       "id": "550532"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן | 23.09.23",
+       "logo": "https://www.kan.org.il/media/e3qp3ebl/קרן.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7a8wmz0q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-23",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/542852/",
+       "id": "542852"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן | 09.09.23",
+       "logo": "https://www.kan.org.il/media/32njcl5t/s0412736_100_01_00_07still001.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sylvdfwa/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-09",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/523930/",
+       "id": "523930"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן | 02.09.23",
+       "logo": "https://www.kan.org.il/media/osdledjb/hakol.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mnmkiggl/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-09-02",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/514511/",
+       "id": "514511"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן | 26.08.23",
+       "logo": "https://www.kan.org.il/media/1usph5j2/a01_133375373700080000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_av6y966u/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-26",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/504152/",
+       "id": "504152"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן | 19.08.23",
+       "logo": "https://www.kan.org.il/media/wuqiwocd/politic.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tnrstt0n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-19",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/494094/",
+       "id": "494094"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן | 12.08.23",
+       "logo": "https://www.kan.org.il/media/1eqhyzgt/kan11_2023-08-12_18_00_49.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aq8viplh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-12",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/484320/",
+       "id": "484320"
+      },
+      {
+       "name": "הכול פוליטי | 05.08.23",
+       "logo": "https://www.kan.org.il/media/yqdpb2p0/a01_133357229722080000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_afno2yx4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-08-05",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/472121/",
+       "id": "472121"
+      },
+      {
+       "name": "הכול פוליטי | 29.07.23",
+       "logo": "https://www.kan.org.il/media/rsnmqwwu/kan11_2023-07-29_18_00_46.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g6v4ja8b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-29",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/465676/",
+       "id": "465676"
+      },
+      {
+       "name": "הכול פוליטי | 22.07.23",
+       "logo": "https://www.kan.org.il/media/r0efokiw/image.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z3ot5fqh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-22",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/456726/",
+       "id": "456726"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן | 15.07.23",
+       "logo": "https://www.kan.org.il/media/upwbrmgt/kan11_2023-07-15_17-32-18.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rdldp0zt/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-15",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/445589/",
+       "id": "445589"
+      },
+      {
+       "name": "הכול פוליטי | 08.07.23",
+       "logo": "https://www.kan.org.il/media/nf5ducz4/a01_133333037158870000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5sv7gt6v/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-08",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/438354/",
+       "id": "438354"
+      },
+      {
+       "name": "הכול פוליטי | 01.07.23",
+       "logo": "https://www.kan.org.il/media/bydilkdy/a01_133326952954470000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oa8om8no/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-07-01",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/424861/",
+       "id": "424861"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן",
+       "logo": "https://www.kan.org.il/media/nbhos0ey/hakol.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0fymxx07/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-24",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/413010/",
+       "id": "413010"
+      },
+      {
+       "name": "הכול פוליטי | 17.06.23",
+       "logo": "https://www.kan.org.il/media/1gkjn1t4/kan11_2023-06-17_19_53_25.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qnavtxk4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-17",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/400058/",
+       "id": "400058"
+      },
+      {
+       "name": "הכול פוליטי עם יואב קרקובסקי",
+       "logo": "https://www.kan.org.il/media/4iojs0ua/image.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8l04lt9z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-10",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/391195/",
+       "id": "391195"
+      },
+      {
+       "name": "הכול פוליטי עם קרן אוזן",
+       "logo": "https://www.kan.org.il/media/xmkd4nrc/kan11_2023-06-03_17-00-23.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_iis9cvj9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-06-03",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/385453/",
+       "id": "385453"
+      },
+      {
+       "name": "הכול פוליטי | 27.05.23",
+       "logo": "https://www.kan.org.il/media/a4qc4pov/a01_133296748819830000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1p6ytpxz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-27",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/377312/",
+       "id": "377312"
+      },
+      {
+       "name": "הכול פוליטי | 20.05.23",
+       "logo": "https://www.kan.org.il/media/oikhikma/a01_133290700628630000.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c0gzip81/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-20",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/369868/",
+       "id": "369868"
+      },
+      {
+       "name": "הכול פוליטי | 13.05.23",
+       "logo": "https://www.kan.org.il/media/w3cp4csn/יוטיוב.jpg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1uwdpv7t/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-13",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/364576/",
+       "id": "364576"
+      },
+      {
+       "name": "הכל פוליטי | 06.05.23",
+       "logo": "https://www.kan.org.il/media/tqihpgil/2023-5-6-imgid-99856_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v0jaqhd7/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-05-06",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/361887/",
+       "id": "361887"
+      },
+      {
+       "name": "הכול פוליטי | 29.04.23",
+       "logo": "https://www.kan.org.il/media/aita2qbz/2023-4-29-imgid-99244_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_clvtqhi8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-29",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/327949/",
+       "id": "327949"
+      },
+      {
+       "name": "הכישורים ההייטקיסטיים של בנט יסייעו לו?",
+       "logo": "https://www.kan.org.il/media/5ihnel4z/2021-6-19-imgid-55523_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fpld05ic/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/132597/",
+       "id": "132597"
+      },
+      {
+       "name": "משדר מיוחד לקראת השבעת הממשלה מחר",
+       "logo": "https://www.kan.org.il/media/zpuecrw4/2021-6-12-imgid-55002_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1ncvig3f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/132316/",
+       "id": "132316"
+      },
+      {
+       "name": "ההסכמים בדרך לממשלת בנט-לפיד",
+       "logo": "https://www.kan.org.il/media/dk1mqkzr/2021-5-29-imgid-53995_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5pdzrgxc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/131601/",
+       "id": "131601"
+      },
+      {
+       "name": "ריאיון עם ח\"כ עופר כסיף שהותקף על ידי שוטרים",
+       "logo": "https://www.kan.org.il/media/0rgaz0oz/2021-4-10-imgid-50643_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pijcar3y/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/129619/",
+       "id": "129619"
+      },
+      {
+       "name": "סקר הסקרים: מרצ ורע\"ם לא עוברות את אחוז החסימה",
+       "logo": "https://www.kan.org.il/media/aszguych/2021-3-13-imgid-49032_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ghrbo5hn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/128711/",
+       "id": "128711"
+      },
+      {
+       "name": "24 ימים לבחירות: גדעון סער ובני גנץ באולפן",
+       "logo": "https://www.kan.org.il/media/s2xgrpqd/2021-2-27-imgid-48138_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bgwhlvuf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/128147/",
+       "id": "128147"
+      },
+      {
+       "name": "היערכות לסבב התחסנות נוסף נגד קורונה בקיץ",
+       "logo": "https://www.kan.org.il/media/gmbn3hld/2021-2-13-imgid-47307_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u94gve0p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/127508/",
+       "id": "127508"
+      },
+      {
+       "name": "חמישה ימים לסגירת הרשימות: מיכאלי, טיבי וסמוטריץ' באולפן",
+       "logo": "https://www.kan.org.il/media/0nhbwmbu/2021-1-30-imgid-46425_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2b9a3f7w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/126641/",
+       "id": "126641"
+      },
+      {
+       "name": "ראשי רשויות ערביות: נחרים מחר את השיחה עם רה\"מ",
+       "logo": "https://www.kan.org.il/media/ffrbpkpj/2021-1-16-imgid-45587_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_vflmpfcv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-23",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/125970/",
+       "id": "125970"
+      },
+      {
+       "name": "הכול פוליטי | 22.04.23",
+       "logo": "https://www.kan.org.il/media/fwloyzvh/2023-4-22-imgid-98688_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i6lx1gc0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-22",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/164684/",
+       "id": "164684"
+      },
+      {
+       "name": "הכול פוליטי | 15.04.23",
+       "logo": "https://www.kan.org.il/media/3nkph3mu/2023-4-15-imgid-98177_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u1kiqje5/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-15",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/164234/",
+       "id": "164234"
+      },
+      {
+       "name": "הכול פוליטי | 08.04.23",
+       "logo": "https://www.kan.org.il/media/2wapiu2k/2023-4-9-imgid-97776_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ptypbwyz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-08",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/163943/",
+       "id": "163943"
+      },
+      {
+       "name": "הכול פוליטי | 01.04.23",
+       "logo": "https://www.kan.org.il/media/uj1bo05y/2023-4-1-imgid-97289_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_67209i2f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-04-01",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/163667/",
+       "id": "163667"
+      },
+      {
+       "name": "הכול פוליטי | 25.03.23",
+       "logo": "https://www.kan.org.il/media/t1rftqu2/2023-3-25-imgid-96807_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i703a7kb/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-03-25",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/163295/",
+       "id": "163295"
+      },
+      {
+       "name": "הכול פוליטי | 18.03.23",
+       "logo": "https://www.kan.org.il/media/ibieg2fa/2023-3-18-imgid-96281_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uk9xhd0r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-03-18",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/162868/",
+       "id": "162868"
+      },
+      {
+       "name": "הכול פוליטי | 11.03.23",
+       "logo": "https://www.kan.org.il/media/42tleool/2023-3-11-imgid-95713_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cjgdahxf/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-03-11",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/162321/",
+       "id": "162321"
+      },
+      {
+       "name": "הכול פוליטי | 04.03.23",
+       "logo": "https://www.kan.org.il/media/ji5b1rb3/2023-3-4-imgid-95246_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uty2ljwp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-03-04",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/161820/",
+       "id": "161820"
+      },
+      {
+       "name": "הכול פוליטי | 25.02.23",
+       "logo": "https://www.kan.org.il/media/3gqba0qm/2023-2-25-imgid-94763_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_bjfs3iv4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-02-25",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/161352/",
+       "id": "161352"
+      },
+      {
+       "name": "הכול פוליטי | 18.02.23",
+       "logo": "https://www.kan.org.il/media/qkhb0brj/2023-2-18-imgid-94232_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_875dqmxq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-02-18",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/160614/",
+       "id": "160614"
+      },
+      {
+       "name": "הכול פוליטי | 11.02.23",
+       "logo": "https://www.kan.org.il/media/ly5l0fxe/2023-2-11-imgid-93697_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1sra6p2h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-02-11",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/160023/",
+       "id": "160023"
+      },
+      {
+       "name": "הכול פוליטי | 04.02.23",
+       "logo": "https://www.kan.org.il/media/skujg5kh/2023-2-4-imgid-93047_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_va6u0ngh/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-02-04",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/159408/",
+       "id": "159408"
+      },
+      {
+       "name": "הכול פוליטי | 21.01.23",
+       "logo": "https://www.kan.org.il/media/lchfod0l/2023-1-21-imgid-91811_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_exb9jyji/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-01-21",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/157982/",
+       "id": "157982"
+      },
+      {
+       "name": "הכול פוליטי | 14.01.23",
+       "logo": "https://www.kan.org.il/media/czehsymz/2023-1-14-imgid-91161_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xzzg6w94/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2023-01-14",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/157352/",
+       "id": "157352"
+      },
+      {
+       "name": "הכול פוליטי | 19.11.22",
+       "logo": "https://www.kan.org.il/media/minjc3in/2022-11-19-imgid-86072_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_9psv6wgz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-11-19",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/152510/",
+       "id": "152510"
+      },
+      {
+       "name": "הכול פוליטי | 12.11.22",
+       "logo": "https://www.kan.org.il/media/delb22ul/2022-11-12-imgid-85311_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qeaa838j/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-11-12",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/151998/",
+       "id": "151998"
+      },
+      {
+       "name": "הכול פוליטי | 05.11.22",
+       "logo": "https://www.kan.org.il/media/k0qdlk0i/2022-11-5-imgid-84798_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4c981l1h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-11-05",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/151679/",
+       "id": "151679"
+      },
+      {
+       "name": "הכול פוליטי | 29.10.22",
+       "logo": "https://www.kan.org.il/media/qw2pjzx4/2022-10-29-imgid-84325_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c1w0dm72/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-10-29",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/151457/",
+       "id": "151457"
+      },
+      {
+       "name": "הכול פוליטי | 21.10.22",
+       "logo": "https://www.kan.org.il/media/1pipdkd1/2022-10-22-imgid-83786_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oy1p6v1q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-10-21",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/151148/",
+       "id": "151148"
+      },
+      {
+       "name": "הכול פוליטי | 15.10.22",
+       "logo": "https://www.kan.org.il/media/up3lx10r/2022-10-15-imgid-83378_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c1mzuz5s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-10-15",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/150962/",
+       "id": "150962"
+      },
+      {
+       "name": "הכול פוליטי | 08.10.22",
+       "logo": "https://www.kan.org.il/media/hauiyvjf/2022-10-8-imgid-83025_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_70b6r8qj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-10-08",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/150734/",
+       "id": "150734"
+      },
+      {
+       "name": "הכול פוליטי | 01.10.22",
+       "logo": "https://www.kan.org.il/media/hamfy5tc/2022-10-1-imgid-82668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nlru9l3o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-10-01",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/150584/",
+       "id": "150584"
+      },
+      {
+       "name": "הכול פוליטי | 24.09.22",
+       "logo": "https://www.kan.org.il/media/4dfi2g24/2022-9-24-imgid-82357_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_f59i5oc4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-09-24",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/150437/",
+       "id": "150437"
+      },
+      {
+       "name": "הכול פוליטי | 17.09.22",
+       "logo": "https://www.kan.org.il/media/myaf2zkb/2022-9-17-imgid-81904_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zop7rgio/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-09-17",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/150206/",
+       "id": "150206"
+      },
+      {
+       "name": "הכול פוליטי | 10.09.22",
+       "logo": "https://www.kan.org.il/media/rxviibjr/2022-9-10-imgid-81383_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_59ye5hlp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-09-10",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/149954/",
+       "id": "149954"
+      },
+      {
+       "name": "הכול פוליטי | 03.09.22",
+       "logo": "https://www.kan.org.il/media/fb2dprin/2022-9-3-imgid-80904_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_72sws58h/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-09-03",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/149699/",
+       "id": "149699"
+      },
+      {
+       "name": "הכול פוליטי | 27.08.22",
+       "logo": "https://www.kan.org.il/media/kkldi1wb/2022-8-27-imgid-80502_b.jpeg",
+       "url": "https://www.youtube.com/embed/iXan7L30YO4",
+       "date": "2022-08-27",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגיש: סולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/149477/",
+       "id": "149477"
+      },
+      {
+       "name": "הכול פוליטי | 20.08.22",
+       "logo": "https://www.kan.org.il/media/tyzlnbqf/2022-8-20-imgid-80124_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_o9pdsmes/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-08-20",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/149144/",
+       "id": "149144"
+      },
+      {
+       "name": "הכול פוליטי | 13.08.22",
+       "logo": "https://www.kan.org.il/media/n3gdjbhk/2022-8-13-imgid-79755_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4jwjc6j9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-08-13",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/148886/",
+       "id": "148886"
+      },
+      {
+       "name": "הכול פוליטי | 30.07.22",
+       "logo": "https://www.kan.org.il/media/walpvloh/2022-7-30-imgid-78848_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mswsjz0r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-07-30",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/148352/",
+       "id": "148352"
+      },
+      {
+       "name": "הכול פוליטי | 23.07.22",
+       "logo": "https://www.kan.org.il/media/4toj3bo5/2022-7-23-imgid-78422_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_eb9xilj6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-07-23",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימאן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/148013/",
+       "id": "148013"
+      },
+      {
+       "name": "הכול פוליטי | 16.07.22",
+       "logo": "https://www.kan.org.il/media/joxhvpjt/2022-7-16-imgid-77981_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5b04kslx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-07-16",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/147645/",
+       "id": "147645"
+      },
+      {
+       "name": "הכול פוליטי | 09.07.22",
+       "logo": "https://www.kan.org.il/media/l2qk0ung/2022-7-9-imgid-77549_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pwpgr0ge/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-07-09",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/147444/",
+       "id": "147444"
+      },
+      {
+       "name": "הכול פוליטי | 02.07.22",
+       "logo": "https://www.kan.org.il/media/djtivcsj/2022-7-2-imgid-77172_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zrql5mxx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-07-02",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/147174/",
+       "id": "147174"
+      },
+      {
+       "name": "הכול פוליטי | 25.06.22",
+       "logo": "https://www.kan.org.il/media/zrtjx55w/2022-6-25-imgid-76775_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sds4ys6i/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-06-25",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/146889/",
+       "id": "146889"
+      },
+      {
+       "name": "הכול פוליטי | 18.06.22",
+       "logo": "https://www.kan.org.il/media/xndl21bm/2022-6-18-imgid-76384_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y2n1pi28/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-06-18",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/146616/",
+       "id": "146616"
+      },
+      {
+       "name": "הכול פוליטי | 11.06.22",
+       "logo": "https://www.kan.org.il/media/mgkepwmd/2022-6-11-imgid-76027_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mja59d6n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-06-11",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/146364/",
+       "id": "146364"
+      },
+      {
+       "name": "הכול פוליטי | 28.05.22",
+       "logo": "https://www.kan.org.il/media/cbvf4uac/2022-5-28-imgid-75232_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_v325doth/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-05-28",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/145668/",
+       "id": "145668"
+      },
+      {
+       "name": "הכול פוליטי | 21.05.22",
+       "logo": "https://www.kan.org.il/media/oeybidr4/2022-5-21-imgid-74849_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2tz3ag9z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-05-21",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/145344/",
+       "id": "145344"
+      },
+      {
+       "name": "הכול פוליטי | 14.05.22",
+       "logo": "https://www.kan.org.il/media/jbsbuwju/2022-5-14-imgid-74404_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1wdbniho/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-05-14",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/144912/",
+       "id": "144912"
+      },
+      {
+       "name": "הכול פוליטי | 07.05.22",
+       "logo": "https://www.kan.org.il/media/av1k33cv/2022-5-7-imgid-73954_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lmrhr8pv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-05-07",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/144534/",
+       "id": "144534"
+      },
+      {
+       "name": "הכול פוליטי | 30.04.22",
+       "logo": "https://www.kan.org.il/media/cmbgm3gt/2022-4-30-imgid-73536_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pa4i4ujm/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-04-30",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/144333/",
+       "id": "144333"
+      },
+      {
+       "name": "הכול פוליטי | 23.04.22",
+       "logo": "https://www.kan.org.il/media/gescuzy3/2022-4-23-imgid-73155_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2rousb59/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-04-23",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/143982/",
+       "id": "143982"
+      },
+      {
+       "name": "הכול פוליטי | 09.04.22",
+       "logo": "https://www.kan.org.il/media/af5fk245/2022-4-9-imgid-72423_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ez5egpxj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-04-09",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/143565/",
+       "id": "143565"
+      },
+      {
+       "name": "הכול פוליטי | 02.04.22",
+       "logo": "https://www.kan.org.il/media/imtndeem/2022-4-2-imgid-72030_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_zxltkq17/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-04-02",
+       "plot": "משדר חדשות מיוחד המסקר את המלחמה המתפתחת באוקראינה. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/143275/",
+       "id": "143275"
+      },
+      {
+       "name": "הכול פוליטי | 26.03.22",
+       "logo": "https://www.kan.org.il/media/y2cmffgz/2022-3-26-imgid-71622_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_305bh7g8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-03-26",
+       "plot": "משדר חדשות מיוחד המסקר את המלחמה המתפתחת באוקראינה. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/142936/",
+       "id": "142936"
+      },
+      {
+       "name": "הכול פוליטי - מלחמה באירופה | 19.03.22",
+       "logo": "https://www.kan.org.il/media/mhpaoo0u/2022-3-19-imgid-71188_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uvcg259w/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-03-19",
+       "plot": "משדר חדשות מיוחד בעקבות המלחמה באוקראינה. מגישה: יערה שפירא",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/142681/",
+       "id": "142681"
+      },
+      {
+       "name": "הכול פוליטי | 12.03.22",
+       "logo": "https://www.kan.org.il/media/rwkh4wpy/2022-3-12-imgid-70779_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lg3xegbr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-03-12",
+       "plot": "משדר חדשות מיוחד המסקר את המלחמה המתפתחת באוקראינה. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/142381/",
+       "id": "142381"
+      },
+      {
+       "name": "הכול פוליטי | 19.02.22",
+       "logo": "https://www.kan.org.il/media/2pmhtct5/2022-2-19-imgid-69543_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2es2rz98/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-02-19",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/141589/",
+       "id": "141589"
+      },
+      {
+       "name": "הכול פוליטי | 12.02.22",
+       "logo": "https://www.kan.org.il/media/c35ashnf/2022-2-12-imgid-69167_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0jcdsr5r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-02-12",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/141265/",
+       "id": "141265"
+      },
+      {
+       "name": "הכול פוליטי | 05.02.22",
+       "logo": "https://www.kan.org.il/media/032p2lfi/2022-2-5-imgid-68772_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0eliul1b/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-02-05",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/140964/",
+       "id": "140964"
+      },
+      {
+       "name": "הכול פוליטי | 29.01.22",
+       "logo": "https://www.kan.org.il/media/hfol0o5d/2022-1-29-imgid-68367_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_i9ou7y2q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-01-29",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת סולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/140607/",
+       "id": "140607"
+      },
+      {
+       "name": "הכול פוליטי | 22.01.22",
+       "logo": "https://www.kan.org.il/media/owibhzj3/2022-1-22-imgid-68002_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_457uc9jx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-01-22",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/140295/",
+       "id": "140295"
+      },
+      {
+       "name": "הכול פוליטי | 15.01.22",
+       "logo": "https://www.kan.org.il/media/rnceh20m/2022-1-15-imgid-67627_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0pzn0agc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-01-15",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/140058/",
+       "id": "140058"
+      },
+      {
+       "name": "הכול פוליטי | 08.01.22",
+       "logo": "https://www.kan.org.il/media/ltzhrtne/2022-1-8-imgid-67226_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_64ghwy4f/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-01-08",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/139824/",
+       "id": "139824"
+      },
+      {
+       "name": "הכול פוליטי | 01.01.22",
+       "logo": "https://www.kan.org.il/media/ne0a20lz/2022-1-1-imgid-66794_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fg255prq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2022-01-01",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/139584/",
+       "id": "139584"
+      },
+      {
+       "name": "הכול פוליטי | 25.12.21",
+       "logo": "https://www.kan.org.il/media/d3vh5jqk/2021-12-25-imgid-66436_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_aqh3ov0g/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-12-25",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/139372/",
+       "id": "139372"
+      },
+      {
+       "name": "הכול פוליטי | 18.12.21",
+       "logo": "https://www.kan.org.il/media/qaraviig/2021-12-18-imgid-66061_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fnbdifcs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-12-18",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/139139/",
+       "id": "139139"
+      },
+      {
+       "name": "הכול פוליטי | 11.12.21",
+       "logo": "https://www.kan.org.il/media/ht2nhoz1/2021-12-11-imgid-65730_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pp0ewrlv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-12-11",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/138885/",
+       "id": "138885"
+      },
+      {
+       "name": "הכול פוליטי | 04.12.21",
+       "logo": "https://www.kan.org.il/media/m1riowq1/2021-12-4-imgid-65371_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4vlohtyx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-12-04",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/138476/",
+       "id": "138476"
+      },
+      {
+       "name": "הכול פוליטי | 13.11.21",
+       "logo": "https://www.kan.org.il/media/wvfpvb4y/2021-11-13-imgid-64185_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_d4b43s0o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-11-13",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/137683/",
+       "id": "137683"
+      },
+      {
+       "name": "הכול פוליטי | 06.11.21",
+       "logo": "https://www.kan.org.il/media/vv5lb3n3/2021-11-6-imgid-63759_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_0wqfs6zp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-11-06",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/137272/",
+       "id": "137272"
+      },
+      {
+       "name": "הכול פוליטי | 30.10.21",
+       "logo": "https://www.kan.org.il/media/qfflbnyf/2021-10-30-imgid-63348_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xup5u73d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-10-30",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/136805/",
+       "id": "136805"
+      },
+      {
+       "name": "הכול פוליטי | 27.10.21",
+       "logo": "https://www.kan.org.il/media/j55fhf5s/2021-11-27-imgid-64966_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1hjbv6ow/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-10-27",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/138122/",
+       "id": "138122"
+      },
+      {
+       "name": "הכול פוליטי | 23.10.21",
+       "logo": "https://www.kan.org.il/media/cxfhpa3a/2021-10-2-imgid-61763_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_2pgc427k/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-10-23",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/136424/",
+       "id": "136424"
+      },
+      {
+       "name": "הכול פוליטי | 20.10.21",
+       "logo": "https://www.kan.org.il/media/s5hfixeq/2021-11-20-imgid-64570_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3bd9qfs6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-10-20",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/137884/",
+       "id": "137884"
+      },
+      {
+       "name": "הכול פוליטי | 16.10.21",
+       "logo": "https://www.kan.org.il/media/yqehlqzd/2021-10-16-imgid-62631_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_n643xpi6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-10-16",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/136173/",
+       "id": "136173"
+      },
+      {
+       "name": "הכול פוליטי | 02.10.21",
+       "logo": "https://www.kan.org.il/media/nrylughh/2021-10-2-imgid-61750_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uhhloxka/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-10-02",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. מגישים יערה שפירא וסולימן מסוודה",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/135657/",
+       "id": "135657"
+      },
+      {
+       "name": "הכול פוליטי | 11.09.21",
+       "logo": "https://www.kan.org.il/media/mtjmmqa1/2021-9-11-imgid-60756_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ogfz0elo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-09-11",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/135269/",
+       "id": "135269"
+      },
+      {
+       "name": "הכול פוליטי | 04.09.21",
+       "logo": "https://www.kan.org.il/media/qq3os5ub/2021-9-4-imgid-60434_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ut5d18hq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-09-04",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/135068/",
+       "id": "135068"
+      },
+      {
+       "name": "הכול פוליטי | 28.08.21",
+       "logo": "https://www.kan.org.il/media/vuxat0al/2021-8-28-imgid-60060_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cyw80fo8/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-08-28",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/134920/",
+       "id": "134920"
+      },
+      {
+       "name": "הכול פוליטי | 21.08.21",
+       "logo": "https://www.kan.org.il/media/d5rjzazj/2021-8-21-imgid-59678_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_12p7wg7z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-08-21",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/134795/",
+       "id": "134795"
+      },
+      {
+       "name": "הכול פוליטי | 14.08.21",
+       "logo": "https://www.kan.org.il/media/4fkgox3z/2021-8-14-imgid-59279_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_nrvtj139/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-08-14",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/134575/",
+       "id": "134575"
+      },
+      {
+       "name": "הכול פוליטי | 07.08.21",
+       "logo": "https://www.kan.org.il/media/meunp0o2/2021-8-7-imgid-58820_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_r1d0g9gq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-08-07",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/134272/",
+       "id": "134272"
+      },
+      {
+       "name": "הכול פוליטי | 31.07.21",
+       "logo": "https://www.kan.org.il/media/3fvllhjt/2021-7-31-imgid-58288_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uxrbcjzz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-07-31",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/134003/",
+       "id": "134003"
+      },
+      {
+       "name": "הכול פוליטי | 24.07.21",
+       "logo": "https://www.kan.org.il/media/b2chkrqp/2021-7-24-imgid-57805_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4kaaktm9/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-07-24",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/133862/",
+       "id": "133862"
+      },
+      {
+       "name": "הכול פוליטי | 17.07.21",
+       "logo": "https://www.kan.org.il/media/lkabgwpk/2021-7-17-imgid-57311_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hrs6ato1/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-07-17",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/133469/",
+       "id": "133469"
+      },
+      {
+       "name": "הכול פוליטי | 10.07.21",
+       "logo": "https://www.kan.org.il/media/vrcliclz/2021-7-10-imgid-56847_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_7cu5fqcy/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-07-10",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/133419/",
+       "id": "133419"
+      },
+      {
+       "name": "הכול פוליטי | 03.07.21",
+       "logo": "https://www.kan.org.il/media/hrtpo53p/2021-7-3-imgid-56423_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_fkv5g6dp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-07-03",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/133157/",
+       "id": "133157"
+      },
+      {
+       "name": "הכול פוליטי | 26.06.21",
+       "logo": "https://www.kan.org.il/media/wgpgp45c/2021-6-26-imgid-55968_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_cvv6fkwi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-06-26",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/132922/",
+       "id": "132922"
+      },
+      {
+       "name": "הכול פוליטי | 05.06.21",
+       "logo": "https://www.kan.org.il/media/k4alf343/2021-6-5-imgid-54481_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lr7zfn6n/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-06-05",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/131973/",
+       "id": "131973"
+      },
+      {
+       "name": "הכול פוליטי | 22.05.21",
+       "logo": "https://www.kan.org.il/media/txzjiucu/2021-5-22-imgid-53557_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ovctwspi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-05-22",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת דב גיל-הר",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/131404/",
+       "id": "131404"
+      },
+      {
+       "name": "הכול פוליטי | 08.05.21",
+       "logo": "https://www.kan.org.il/media/gb2hrn0u/2021-5-8-imgid-52529_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_tsohyoij/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-05-08",
+       "plot": "תוכנית אקטואליה שמנסה לראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/130885/",
+       "id": "130885"
+      },
+      {
+       "name": "משדר מיוחד בעקבות האסון במירון | 01.05.21",
+       "logo": "https://www.kan.org.il/media/urdl2acp/2021-5-1-imgid-52055_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5qvqqp9m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-05-01",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/130479/",
+       "id": "130479"
+      },
+      {
+       "name": "הכול פוליטי | 24.04.21",
+       "logo": "https://www.kan.org.il/media/vhynz4g0/2021-4-17-imgid-51124_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_1mfzt2nr/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-04-24",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/129916/",
+       "id": "129916"
+      },
+      {
+       "name": "הכול פוליטי | 17.04.21",
+       "logo": "https://www.kan.org.il/media/fyaj05z4/2021-4-17-imgid-51118_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_srmeqfyw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-04-17",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/129914/",
+       "id": "129914"
+      },
+      {
+       "name": "הכול פוליטי | 20.03.21",
+       "logo": "https://www.kan.org.il/media/o3lnruti/2021-3-20-imgid-49441_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6vilmtna/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-03-20",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/129075/",
+       "id": "129075"
+      },
+      {
+       "name": "הכול פוליטי | 06.03.21",
+       "logo": "https://www.kan.org.il/media/4nybvwvx/2021-3-6-imgid-48627_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5co3tbte/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-03-06",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/128485/",
+       "id": "128485"
+      },
+      {
+       "name": "הכול פוליטי | 20.02.21",
+       "logo": "https://www.kan.org.il/media/gorjocob/2021-2-20-imgid-47715_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_u94gve0p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-02-20",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/127824/",
+       "id": "127824"
+      },
+      {
+       "name": "הכול פוליטי | 06.02.21",
+       "logo": "https://www.kan.org.il/media/jl4drpmd/2021-2-6-imgid-46905_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3dlnjgaj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-02-06",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/127245/",
+       "id": "127245"
+      },
+      {
+       "name": "הכול פוליטי | 23.01.21",
+       "logo": "https://www.kan.org.il/media/0v5ibawq/2021-1-23-imgid-46057_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wkc5098p/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-01-23",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/126272/",
+       "id": "126272"
+      },
+      {
+       "name": "הכול פוליטי | 09.01.21",
+       "logo": "https://www.kan.org.il/media/sklhmhoc/2021-1-9-imgid-45130_a.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_lwvwwdm6/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2021-01-09",
+       "plot": "תוכנית שבאה להיות קרש הצלה בימים של מערכת בחירות רביעית. לנסות ולראות מבעד לספינים. להסתכל לפוליטיקה בעיניים, בלי טריקים ובלי שטיקים. בהגשת אסף ליברמן.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/125593/",
+       "id": "125593"
+      },
+      {
+       "name": "הכול פוליטי | 06.04.2019",
+       "logo": "https://www.kan.org.il/media/xyeob31k/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5hyfaq9r/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-04-06",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100205/",
+       "id": "100205"
+      },
+      {
+       "name": "הכול פוליטי | 30.03.2019",
+       "logo": "https://www.kan.org.il/media/a12ms11b/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rtbwrwr4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-03-30",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100202/",
+       "id": "100202"
+      },
+      {
+       "name": "הכול פוליטי | 23.03.2019",
+       "logo": "https://www.kan.org.il/media/ioskqqng/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_g1vccxy0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-03-23",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100199/",
+       "id": "100199"
+      },
+      {
+       "name": "הכול פוליטי | 21.03.2019",
+       "logo": "https://www.kan.org.il/media/orllhn5b/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_alg0xcxv/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-03-21",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100948/",
+       "id": "100948"
+      },
+      {
+       "name": "הכול פוליטי | 16.03.2019",
+       "logo": "https://www.kan.org.il/media/zgplvej0/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_z6nvp2fn/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-03-16",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100760/",
+       "id": "100760"
+      },
+      {
+       "name": "הכול פוליטי | 14.03.2019",
+       "logo": "https://www.kan.org.il/media/moych3gw/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3kybtmzs/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-03-14",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100196/",
+       "id": "100196"
+      },
+      {
+       "name": "הכול פוליטי | 09.03.2019",
+       "logo": "https://www.kan.org.il/media/vdwhbnud/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l4kgygn4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-03-09",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100193/",
+       "id": "100193"
+      },
+      {
+       "name": "הכול פוליטי | 02.03.2019",
+       "logo": "https://www.kan.org.il/media/td5h2zng/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_6wecxbiq/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-03-02",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/100190/",
+       "id": "100190"
+      },
+      {
+       "name": "הכול פוליטי | 23.02.2019",
+       "logo": "https://www.kan.org.il/media/12gpfjo2/2019-10-30-imgid-22668_b.jpeg",
+       "url": "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_j3hjzhks/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2019-02-23",
+       "plot": "התכנית שמחזירה את העימות למסך הטלוויזיה: מדי שבוע נציגי המפלגות יתעמתו ראש בראש בנושאים הבוערים של בחירות 2019; הצהרות פוליטקאים ייבדקו בזמן אמת ומוקדי שידור ברחבי הארץ יעבירו תגובות צופים בשידור חי.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-11275/99925/",
+       "id": "99925"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -6,11 +6,31 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-26 00:04",
+   "updated": "2026-11-27 00:19",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "טעם של פעם: כך הפך האוכל של אימא לכוכב במסעדות השף",
+       "logo": "https://www.kan.org.il/media/uhbbpjtz/אוכל-של-אמא-לאתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2269490/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-26",
+       "plot": "האוכל של אמא הפך לטרנד החדש במסעדות השף.  עוף עם פתיתים וחריימה מככבים על הצלחת ותופסים את מקומם של חידושים קולינריים, שפים רבים החליטו לחזור לטעמים המוכרים של הבית והסועדים - מזמינים את המנות המוכרות שוב ושוב",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1123781/",
+       "id": "1123781",
+       "season": 2
+      },
+      {
+       "name": "בלי ערבית במרחב הציבורי: העוינות לשפה הערבית ברחוב הישראלי",
+       "logo": "https://www.kan.org.il/media/y0ejfod5/ערבית-ברכבת-לאתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2269482/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-26",
+       "plot": "מאז שבעה באוקטובר, יש מי שחשים פחד כשהם שומעים את השפה הערבית במרחב הציבורי. אבל איך זה מרגיש מהצד השני, של ערבים ישראלים שמפחדים בעצמם לדבר ערבית ברחוב, ברכבת הקלה, או בתור בסופר? בתקופה שבה אזרחים ערבים מרגישים פחות ופחות שייכים, בדקנו איך התרחב הניכור בין השפות, והאם המצב הזה יכול להשתנות",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1123775/",
+       "id": "1123775",
+       "season": 2
+      },
       {
        "name": "טסים אל הלא נודע: טרנד החופשה בהפתעה",
        "logo": "https://www.kan.org.il/media/daxhgyrv/2_אתר.png",
