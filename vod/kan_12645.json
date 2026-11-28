@@ -6,11 +6,21 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan/kan-actual/p-12645/",
    "series_id": "12645",
-   "updated": "2026-11-20 22:38",
+   "updated": "2026-11-27 23:59",
    "sub_categories": [
     {
      "name": "עונה 4",
      "channels": [
+      {
+       "name": "סוכן תרבות | 27.11.26",
+       "logo": "https://www.kan.org.il/media/3p1lb2zr/טאמבנייל-אתר.png",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2265145/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-27",
+       "plot": "מגזין תרבות אישי עם קובי מידן. השבוע: השיחה התרבותית הרותחת על אל הוריות, סרט הדוקו המטורף והמצליח ביותר בהיסטוריה, GTA משגע את העולם, ואיציק קלה מזיל דמעה בשאלון.",
+       "page": "https://www.kan.org.il/content/kan/kan-actual/p-12645/s4/1118872/",
+       "id": "1118872",
+       "season": 4
+      },
       {
        "name": "סוכן תרבות | 20.11.26",
        "logo": "https://www.kan.org.il/media/w0id3da0/לאתר.jpg",

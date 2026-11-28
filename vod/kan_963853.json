@@ -6,11 +6,41 @@
    "source": "kan.org.il",
    "program_url": "https://www.kan.org.il/content/kan-news/newstv/p-963853/",
    "series_id": "963853",
-   "updated": "2026-11-27 00:19",
+   "updated": "2026-11-27 23:59",
    "sub_categories": [
     {
      "name": "עונה 2",
      "channels": [
+      {
+       "name": "\"יותר גדול מכל ריאליטי ואירוויזיון\": כשפסטיבל הזמר והפזמון כבש את המדינה",
+       "logo": "https://www.kan.org.il/media/sgnkotcn/3אתר.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2269646/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-27",
+       "plot": "לפני תוכניות הריאליטי והאירוויזיון, היה לנו את \"פסטיבל הזמר והפזמון\" - תחרות המוזיקה שיזם קול ישראל, שהייתה הבמה הראשית לשירים ולזמרים חדשים - מאריק איינשטיין ואסתר עופרים, ועד יהודית רביץ ושלמה ארצי. במשך שני עשורים, מ-1960 ועד 1980, ייצר הפסטיבל להיטים ושערוריות ורגעי קסם בימתיים. בשבוע הבא תיערך לו מחווה חד-פעמית מיוחדת",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1123981/",
+       "id": "1123981",
+       "season": 2
+      },
+      {
+       "name": "מהמטבח הביתי - למסעדות: איך מדינה שלמה התאהבה בקובה?",
+       "logo": "https://www.kan.org.il/media/aj3dhz3x/1920x1080_4800_hp00_15_54_23.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2269643/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-27",
+       "plot": "בואו של החורף, מבחינת הבשלנים והאכלנים, מסמל דבר אחד - פתיחת עונת הקובה. אין מדינה במזרח התיכון שאין לה גרסה משלה לקובה, ובמטבח הישראלי נמצא מקום לכל הגרסאות והוואריאציות של הכופתאות הממולאות - וגם למתכונים שממציאים השפים מהדור החדש: קובה טבעוני, או קובה גורמה עם דגים",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1123979/",
+       "id": "1123979",
+       "season": 2
+      },
+      {
+       "name": "מה עומד מאחורי אזהרת נתניהו על איום איראני מיידי?",
+       "logo": "https://www.kan.org.il/media/u42bgn1f/artboard-1.jpg",
+       "url": "https://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2269641/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4",
+       "date": "2026-11-27",
+       "plot": "בשבועות האחרונים, בעיקר מאז היוודע תוצאות הבחירות, ראש הממשלה חוזר ומתריע על איום חדש מאיראן שמחייב פעולה דחופה. האם נתניהו עושה שימוש באיום האיראני לצרכים פוליטיים, או שמא מדובר באיום שטיפול בו לא סובל דיחוי?",
+       "page": "https://www.kan.org.il/content/kan-news/newstv/p-963853/s2/1123975/",
+       "id": "1123975",
+       "season": 2
+      },
       {
        "name": "טעם של פעם: כך הפך האוכל של אימא לכוכב במסעדות השף",
        "logo": "https://www.kan.org.il/media/uhbbpjtz/אוכל-של-אמא-לאתר.jpg",

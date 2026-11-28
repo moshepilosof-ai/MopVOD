@@ -1,6 +1,6 @@
 {
  "name": "MopVOD",
- "updated": "2026-11-27 13:18",
+ "updated": "2026-11-28 00:03",
  "sources": [
   {
    "name": "Sci-Fi / Horror",
@@ -1202,10 +1202,10 @@
   {
    "name": "כאן 11 - חדשות שישי",
    "file": "vod/kan_11668.json",
-   "episodes": 490,
+   "episodes": 491,
    "seasons": 1,
-   "updated": "2026-11-20 22:33",
-   "newest": "2026-11-20",
+   "updated": "2026-11-27 23:54",
+   "newest": "2026-11-27",
    "oldest": "2017-10-13"
   },
   {
@@ -1562,10 +1562,10 @@
   {
    "name": "כאן 11 - סוכן תרבות",
    "file": "vod/kan_12645.json",
-   "episodes": 134,
+   "episodes": 135,
    "seasons": 3,
-   "updated": "2026-11-20 22:38",
-   "newest": "2026-11-20",
+   "updated": "2026-11-27 23:59",
+   "newest": "2026-11-27",
    "oldest": "2024-01-19"
   },
   {
@@ -1688,10 +1688,10 @@
   {
    "name": "כאן 11 - ערב עם שי שטרן",
    "file": "vod/kan_13011.json",
-   "episodes": 184,
+   "episodes": 185,
    "seasons": 7,
-   "updated": "2026-11-20 22:39",
-   "newest": "2026-11-06",
+   "updated": "2026-11-28 00:00",
+   "newest": "2026-11-13",
    "oldest": "2023-04-23"
   },
   {
@@ -3650,10 +3650,10 @@
   {
    "name": "כאן 11 - גליק ותמר",
    "file": "vod/kan_821792.json",
-   "episodes": 160,
+   "episodes": 161,
    "seasons": 1,
-   "updated": "2026-11-25 23:53",
-   "newest": "2026-11-25",
+   "updated": "2026-11-27 23:49",
+   "newest": "2026-11-27",
    "oldest": "2024-11-09"
   },
   {
@@ -4082,10 +4082,10 @@
   {
    "name": "כאן 11 - סיפורי המהדורה",
    "file": "vod/kan_963853.json",
-   "episodes": 728,
+   "episodes": 731,
    "seasons": 2,
-   "updated": "2026-11-27 00:19",
-   "newest": "2026-11-26",
+   "updated": "2026-11-27 23:59",
+   "newest": "2026-11-27",
    "oldest": "2024-09-18"
   },
   {
